@@ -41,9 +41,9 @@ If you like RPGs with a more personal touch to them rather than saving the world
 
 Why JUMP over other hacks?
 
-This hack is just huge! The hack spans the size of 125 exits, but late levels are even 3x larger than vanilla ones. The level design varies in difficulty, from normal Mario world one to even kaizo styled ones. The same goes for level quality as the hack as it is a  collaboration from many authors. Some of the best levels I've ever played in my life are with this game, but some levels on the other one hand are just plain bad. 
+This hack is just huge! The hack spans the size of 125 exits, but late levels are even 3x larger than vanilla ones. The level design varies in difficulty, from normal Mario world one to even kaizo styled ones. The same goes for level quality because the hack is a collaboration from many authors. Some of the best levels I’ve ever played in my life are from this game, but some levels on the other one hand are just plain bad.
 
-You keep playing since you don't know what's the next level is going to be like, but I can tell you this hack ends with a bang! Exploration in this game is heavily rewarded, since the overworld has so many branching paths. As in vanilla, getting switch palaces makes the game slightly easier but to reward exploration even more JUMP adds permanent power-up that you can unlock for sets of dragon coins (max is 69). Some of these include starting stage as big Mario or having ability to shoot 4 fire balls at same time.
+But you'll keep playing since you never know what’s the next level is going to be like and this hack surely ends with a bang! Exploration in this game is heavily rewarded, since the overworld has so many branching paths. As in vanilla, getting switch palaces makes the game slightly easier but to reward exploration even more JUMP adds permanent power-up that you can unlock for sets of dragon coins (max is 69). Some of these include starting stage as big Mario or having ability to shoot 4 fire balls at same time.
 
 
 ## Robotrek (SNES)
