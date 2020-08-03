@@ -50,7 +50,7 @@ Thanks to the Herculean task being done by {% rauser Hotscrock %} (organizing wh
 
 It's a place where achievement creators (and sometimes their fans) can advertise their work and tell the community why they should play them.
 
-The idea is to post 10 "mini-articles" per month. If you want to advertise your set (or a set you're very fan of), write a couple of paragraphs and send us a message (go to {% rauser RAdmin %} page and then "Send Private Message").
+The idea is to post 10 "mini-articles" per month. If you want to advertise your set (or a set you're a big fan of), write a couple of paragraphs and send us a message (go to {% rauser RAdmin %} page and then "Send Private Message").
 
 Currently {% rauser StingX2 %} is collecting and curating such content.
 

@@ -12,7 +12,7 @@ toc_float: true
 
 This is a place where achievement creators (and sometimes their fans) can advertise their work and tell the community why they should play those games (with achievements).
 
-Our idea is to post 10 "Play This Set" per month. If you want to advertise your set (or a set you're big fan of), write a couple of paragraphs and send us a message (go to {% rauser RAdmin %} page and then "Send Private Message").
+Our idea is to post 10 "Play This Set" per month. If you want to advertise your set (or a set you're a big fan of), write a couple of paragraphs and send us a message (go to {% rauser RAdmin %} page and then "Send Private Message").
 
 
 ## Panzer Dragoon Saga
