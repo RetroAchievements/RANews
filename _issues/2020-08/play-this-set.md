@@ -45,7 +45,6 @@ This hack is just huge! The hack spans the size of 125 exits, but late levels ar
 
 But you'll keep playing since you never know what’s the next level is going to be like and this hack surely ends with a bang! Exploration in this game is heavily rewarded, since the overworld has so many branching paths. As in vanilla, getting switch palaces makes the game slightly easier but to reward exploration even more JUMP adds permanent power-up that you can unlock for sets of dragon coins (max is 69). Some of these include starting stage as big Mario or having ability to shoot 4 fire balls at same time.
 
-
 ## Robotrek (SNES)
 
 | Game | Console | Genre | 
