@@ -14,6 +14,8 @@ Special thanks goes to these guys:
 - {% rauserpic StingX2 %}, whose dedication and enthusiasm allowed me to focus on the layout and technical aspects of the project while he was gathering content.
 - {% rauserpic televandalist %} for creating the cover for this issue.
 - {% rauserpic Hotscrock %} and {% rauserpic Searo %} for collecting many useful/interesting data to be published here.
+- {% rauserpic lilbud %} for creating the RANews logo.
+- {% rauserpic luchaos %} for taking care of the network wizardry side of things.
 - All those who wrote for the "Play This Set" article:
     - {% rauserpic DanielARP %}
     - {% rauserpic Dazzman %}
