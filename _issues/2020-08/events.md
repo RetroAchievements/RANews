@@ -51,6 +51,13 @@ For more info, check the [Current Competitions and Hall of Fame of RA](https://r
 
 ## Master of the Month 2020
 
+
+In MoM (Master of the Month) event you submit any game or games you mastered in current month. 
+
+After the month ends results will be counted in 5 categories. The winner will be based on the total points earned (both blue and white), total achievements earned (of submitted sets), difficulties of the set mastered and achievement earned by lowest percent of players. Best 4 players of each month will gain Master of the Month ranks (frоm Grandmaster for being 1st to Expert for being 4th). 
+
+Idea of the event is to stimulate mastering the games you started, play some other RA events as you get bonuses for it and find the best of the best.
+
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=10221>
 - Period: March 2020 - Current
 - Host: {% rauserpic JAM %}
@@ -66,12 +73,6 @@ For more info, check the [Current Competitions and Hall of Fame of RA](https://r
 
 
 ## Simple Monthly Master
-
-In MoM (Master of the Month) event you submit any game or games you mastered in current month. 
-
-After the month ends results will be counted in 5 categories. The winner will be based on the total points earned (both blue and white), total achievements earned (of submitted sets), difficulties of the set mastered and achievement earned by lowest percent of players. Best 4 players of each month will gain Master of the Month ranks (frоm Grandmaster for being 1st to Expert for being 4th). 
-
-Idea of the event is to stimulate mastering the games you started, play some other RA events as you get bonuses for it and find the best of the best.
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=10753>
 - Period: May 2020 - Current
