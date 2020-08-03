@@ -1,0 +1,12 @@
+<nav>
+  {% if page.previous.url and page.previous.issue == page.issue %}
+    <a href="{{ site.baseurl }}{{ page.previous.url }}" class="previous">Previous</a>
+  {% else %}
+    <span></span>
+  {% endif %}
+  {% if page.next.url and page.next.issue == page.issue %}
+    <a href="{{ site.baseurl }}{{ page.next.url }}" class="next">Next</a>
+  {% else %}
+    <span></span>
+  {% endif %}
+</nav>

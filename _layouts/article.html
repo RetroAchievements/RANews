@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+  <div class="grid">
+    {% include aside.html %}
+
+    <main>
+      <header>
+        {% include previous-next-links.html %}
+      </header>
+      <article>
+        <header>
+          {% if page.title %}
+          <h1 id="top">{{ page.title }}</h1>
+          {% endif %}
+
+          {% if page.author %}
+          <div class="author">
+            <img src="https://retroachievements.org/UserPic/{{ page.author }}.png" alt="{{ page.author }}">
+            <span>By
+              <a href="https://retroachievements.org/user/{{ page.author }}">
+                {{ page.author }}</a>.
+            </span>
+          </div>
+          {% endif %}
+        </header>
+
+        {% if page.toc %}
+        <div id="toc" class="toc-container {% if page.toc_float %}toc-float{% endif %}">
+          <p class="toc-title">Contents</p>
+          {% include toc.html html=content %}
+        </div>
+        {% endif %}
+
+        {{ content }}
+
+      </article>
+      <footer>
+        {% include previous-next-links.html %}
+      </footer>
+    </main>
+  </div>
+
+</body>
+
+</html>

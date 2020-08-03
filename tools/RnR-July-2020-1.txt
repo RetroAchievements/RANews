@@ -1,0 +1,313 @@
+
+rev 320 C mario2188
+rev 1411  F Javisaur
+rev 5369  F StingX2
+rev 12771 D HolyShinx
+rev 4641  F StingX2
+rev 4838  F StingX2
+rev 4964  F blazekickn
+rev 10437 F Hotscrock
+rev 1946  F JAM
+rev 473 F Tiago17
+rev 2905  F televandalist
+rev 2424  F televandalist
+rev 6 F bonecrusher1022
+rev 466 F Tiago17
+rev 522 F MGNS8M
+rev 2238  F ViperZang
+rev 341 F televandalist
+rev 11147 F siouxerskate
+rev 1852  F multonic
+rev 1448  F psyduck
+rev 323 F jplima
+rev 1994  F Mutawarrior
+rev 341 F televandalist
+rev 120 N MrGauss
+rev 5594  N Riku55
+rev 79  N MarioJunior10
+rev 10434 W TheJediSonic
+rev 501 W JAM
+rev 7367  W voiceofautumn
+rev 515 W blazekickn
+rev 4714  W MarioJunior10
+rev 11690 W MagusPC
+
+
+res 8414  Haruda  350 270
+res 8493  MaddieKittyTV 200 296
+res 4964  blazekickn  400 410
+res 11185 televandalist 115 100
+res 7319  Haruda  400 373
+res 13410 Xymjak  68  50
+res 12795 televandalist 50  25
+res 11833 Xymjak  250 115
+res 1525  StingX2 400 425
+res 5790  Searo 400 200
+res 5389  Searo 400 302
+res 385 televandalist 400 650
+res 1536  StingX2 400 255
+res 1456  StingX2 400 205
+res 3661  Xymjak,Javisaur 400 114
+res 4764  StingX2 400 500
+res 4641  StingX2 400 300
+res 1556  StingX2 400 345
+res 1569  StingX2 400 330
+res 4559  StingX2 400 260
+res 5003  StingX2 400 325
+res 421 televandalist 400 150
+res 1571  StingX2 400 325
+res 2211  StingX2 400 415
+res 1575  televandalist 398 131
+res 4808  StingX2 400 654
+res 1583  StingX2 400 365
+res 1586  StingX2 400 335
+res 7107  StingX2 400 370
+res 441 televandalist 400 145
+res 1590  televandalist 200 175
+res 1598  StingX2 400 260
+res 1600  StingX2 400 270
+res 5808  StingX2 400 500
+res 2905  televandalist 400 447
+res 10283 televandalist 380 425
+res 4838  StingX2 400 285
+res 5300  StingX2 400 295
+res 748 Javisaur  400 425
+res 857 StingX2 360 315
+res 1623  StingX2 285 245
+res 1628  StingX2 400 280
+res 526 StingX2 400 559
+res 4893  StingX2 400 230
+res 1651  StingX2 400 1175
+res 1654  StingX2 400 310
+res 868 Xymjak  400 710
+res 4881  StingX2 400 660
+res 5913  StingX2 400 660
+res 6 Xymjak  390 305
+res 5821  StingX2 400 510
+res 753 StingX2 400 440
+res 6149  StingX2 325 305
+res 5539  StingX2 400 417
+res 750 StingX2 145 365
+res 1465  televandalist 155 75
+res 511 Xymjak  400 85
+res 1471  StingX2 400 326
+res 1670  StingX2 400 750
+res 4866  StingX2 400 410
+res 756 StingX2 400 500
+res 3701  StingX2 400 270
+res 6013  televandalist 400 650
+res 5091  StingX2 400 299
+res 1693  StingX2 400 355
+res 4836  StingX2 400 290
+res 4915  StingX2 230 257
+res 5601  StingX2 400 350
+res 1700  StingX2 400 490
+res 5369  StingX2 300 366
+res 507 StingX2 400 575
+res 10129 televandalist 400 760
+res 259 StingX2 400 240
+res 2478  shootzy 400 365
+res 2479  shootzy 400 460
+res 700 shootzy 400 410
+res 6533  StingX2 400 516
+res 1692  StingX2 400 196
+res 4618  StingX2 400 495
+res 766 StingX2 400 790
+res 1719  StingX2 400 450
+res 680 StingX2 400 350
+res 2432  StingX2 400 280
+res 5151  StingX2 400 345
+res 1732  StingX2 400 241
+res 4876  StingX2 400 472
+res 2411  StingX2 400 440
+res 1705  televandalist 400 300
+res 10223 televandalist 400 500
+res 1736  StingX2 400 310
+res 1738  StingX2 400 290
+res 1475  Searo 400 190
+res 5778  StingX2 400 460
+res 5155  StingX2 348 348
+res 5143  StingX2 400 425
+res 1764  StingX2 400 295
+res 1770  StingX2 400 445
+res 585 televandalist 400 510
+res 941 televandalist 400 270
+res 1772  StingX2 400 330
+res 6254  StingX2 400 305
+res 4839  StingX2 400 275
+res 1477  StingX2 400 355
+res 964 televandalist 210 180
+res 1774  StingX2 400 295
+res 2231  StingX2 400 280
+res 1775  StingX2 400 370
+res 7015  StingX2 400 418
+res 7004  StingX2 400 407
+res 4829  StingX2 400 703
+res 9380  StingX2 400 316
+res 1794  StingX2 400 275
+res 704 Suffa28 400 255
+res 5107  Searo 300 170
+res 2409  StingX2 306 286
+res 768 StingX2 385 689
+res 708 StingX2 400 330
+res 5530  StingX2 400 290
+res 5191  StingX2 400 326
+res 1480  StingX2 400 355
+res 1813  StingX2 400 485
+res 996 televandalist 350 230
+res 1820  StingX2 400 235
+res 5944  StingX2 400 435
+res 783 StingX2 400 510
+res 784 StingX2 400 705
+res 2253  StingX2 400 457
+res 1800  StingX2 400 565
+res 5747  StingX2 400 240
+res 5240  StingX2 400 588
+res 1810  StingX2 400 466
+res 8378  StingX2 400 250
+res 10631 StingX2 400 420
+res 8679  StingX2 400 300
+res 467 StingX2 400 420
+res 2171  StingX2 350 637
+res 6370  StingX2 400 235
+res 4824  StingX2 400 385
+res 532 StingX2 400 489
+res 7365  StingX2 200 315
+res 4909  StingX2 400 415
+res 575 StingX2 400 515
+res 773 StingX2 400 657
+res 774 StingX2 390 694
+res 779 StingX2 400 782
+res 780 StingX2 400 642
+res 4912  StingX2 400 451
+res 294 Xymjak  390 280
+res 1880  StingX2 400 235
+res 4671  StingX2 400 245
+res 1896  StingX2 400 340
+res 514 StingX2 400 330
+res 5083  StingX2 400 280
+res 3620  StingX2 400 458
+res 2477  StingX2 400 320
+res 1843  Xymjak  200 230
+res 5042  StingX2 400 325
+res 716 StingX2 400 325
+res 2139  StingX2 400 325
+res 13368 televandalist 300 175
+res 7080  StingX2 400 335
+res 1908  StingX2 400 480
+res 5139  StingX2 400 345
+res 2598  StingX2 400 440
+res 5352  StingX2 400 295
+res 1925  StingX2 400 490
+res 4933  StingX2 400 286
+res 1871  StingX2 400 315
+res 1870  televandalist 380 425
+res 13105 televandalist 300 100
+res 128 Xymjak  210 135
+res 11781 Nevermond12 90  80
+res 1946  StingX2 400 344
+res 6167  televandalist 379 800
+res 6169  televandalist 300 500
+res 1881  StingX2 400 285
+res 2494  televandalist 400 165
+res 3607  StingX2 400 500
+res 4919  StingX2 400 300
+res 4972  televandalist 400 380
+res 5234  StingX2 400 690
+res 7854  StingX2 400 390
+res 527 StingX2 400 400
+res 5089  StingX2 400 620
+res 1544  StingX2,Blazekickn  400 392
+res 1657  StingX2,Xymjak  400 470
+res 1498  televandalist 400 205
+res 4092  StingX2 400 490
+res 460 televandalist 400 285
+res 9962  StingX2 400 270
+res 67  valts 400 400
+res 4222  televandalist 230 215
+res 2558  StingX2 400 255
+res 1392  televandalist 400 600
+res 5319  televandalist 400 265
+res 14337 televandalist 400 170
+res 1501  StingX2 395 260
+res 731 StingX2 225 260
+res 2588  StingX2 400 450
+res 1209  StingX2 400 240
+res 1666  televandalist 400 650
+res 1210  televandalist 400 278
+res 1991  StingX2 400 295
+res 4917  televandalist 130 96
+res 2016  StingX2 400 310
+res 5203  StingX2 400 230
+res 10462 televandalist 190 110
+res 2115  Xymjak  275 420
+res 2169  StingX2 360 255
+res 2498  StingX2 400 356
+res 10028 televandalist 400 190
+res 4804  Searo 400 420
+res 990 televandalist 280 230
+res 10015 televandalist 400 455
+res 10427 televandalist 310 80
+res 5202  StingX2 400 255
+res 1305  televandalist 400 205
+res 4922  StingX2 400 445
+res 5004  StingX2 400 330
+res 14338 MaddieKittyTV 300 315
+res 1520  Xymjak  400 180
+res 1517  televandalist 400 520
+res 7040  televandalist 400 175
+res 4940  televandalist 160 165
+res 1516  televandalist 280 200
+res 359 televandalist 240 220
+res 4808  Searo 654 380
+res 5438  televandalist 320 280
+res 1742  televandalist 230 205
+res 1477  Xymjak  355 350
+res 1000  televandalist 400 175
+res 1004  televandalist 400 300
+res 556 televandalist 400 365
+res 2322  televandalist 280 205
+res 12049 MaddieKittyTV 190 190
+res 1978  televandalist 400 200
+res 3584  televandalist 392 700
+res 2078  televandalist 400 450
+
+
+
+
+art	16366	I	Javisaur	http://retroachievements.org/Images/035654.png	https://retroachievements.org/Images/035749.png
+art	11076	I	Ryudo	https://retroachievements.org/Images/022137.png	https://retroachievements.org/Images/035803.png
+art	682	I	Javisaur	http://retroachievements.org/Images/008352.png	https://retroachievements.org/Images/036006.png
+art	3661	I	Javisaur	http://retroachievements.org/Images/005150.png	https://retroachievements.org/Images/035811.png
+art	7010	I	Lenif	https://retroachievements.org/Images/029035.png	https://retroachievements.org/Images/035832.png
+art	9407	I	Lenif	https://retroachievements.org/Images/029037.png	https://retroachievements.org/Images/035831.png
+art	337	B	Thoreau	https://camo.githubusercontent.com/f956338bd8f969fd48b278597830ffeb4befe7cc/68747470733a2f2f692e696d6775722e636f6d2f716757395143772e706e67	https://camo.githubusercontent.com/09bbcc39996aa9181ef31205f14da385673b59a2/68747470733a2f2f692e696d6775722e636f6d2f5074715363785a2e706e67
+art	528	I	Ryudo	https://retroachievements.org/Images/003755.png	https://retroachievements.org/Images/035909.png
+art	323	I	jplima	https://retroachievements.org/Images/006038.png	https://retroachievements.org/Images/036039.png
+art	59	I	WimpyFox	http://retroachievements.org/Images/016752.png	https://retroachievements.org/Images/035906.png
+art	2369	I	Lenif	https://retroachievements.org/Images/014675.png	https://retroachievements.org/Images/035558.png
+art	941	I	Javisaur	http://retroachievements.org/Images/002395.png	https://retroachievements.org/Images/035907.png
+art	5045	I	Javisaur	http://retroachievements.org/Images/003000.png	https://retroachievements.org/Images/035726.png
+art	1478	I	Lenif	https://retroachievements.org/Images/002163.png	https://retroachievements.org/Images/035729.png
+art	704	I	Lenif	https://retroachievements.org/Images/015463.png	https://retroachievements.org/Images/035730.png
+art	2602	I	Lenif	https://retroachievements.org/Images/003774.png	https://retroachievements.org/Images/035557.png
+art	2409	I	Javisaur	http://retroachievements.org/Images/016362.png	https://retroachievements.org/Images/035727.png
+art	11264	I	Lenif	https://retroachievements.org/Images/020155.png	https://retroachievements.org/Images/035804.png
+art	355	B	ShadowNinjaGiba	https://camo.githubusercontent.com/dc00abd9daad0324274fbd2a7ed50539f4944a21/68747470733a2f2f692e696d6775722e636f6d2f58674c4b4e61492e706e67	https://camo.githubusercontent.com/a4e77b6e35f19921a78ebe3f00fba4fbfd4b1e2d/68747470733a2f2f692e696d6775722e636f6d2f6a67714a35634a2e706e67
+art	580	B	ShadowNinjaGiba	https://camo.githubusercontent.com/fddd71db5a9e55aaa84c64f0f238a10d2b7ba096/68747470733a2f2f692e696d6775722e636f6d2f326e37394e314d2e706e67	https://camo.githubusercontent.com/da5e3a86feee087016614a7d13587258ea5eaa47/68747470733a2f2f692e696d6775722e636f6d2f506651797577312e706e67
+art	1481	I	323GONZALEZ1990	https://retroachievements.org/Images/011278.png	https://retroachievements.org/Images/035825.png
+art	1004	I	Ryudo	https://retroachievements.org/Images/023576.png	https://retroachievements.org/Images/036053.png
+art	5043	I	Javisaur	http://retroachievements.org/Images/017747.png	https://retroachievements.org/Images/035656.png
+art	13105	I	televandalist	https://retroachievements.org/Images/035606.png	https://retroachievements.org/Images/035606.png
+art	14338	I	Javisaur	http://retroachievements.org/Images/025077.png	https://retroachievements.org/Images/035942.png
+art	65	I	Lenif	https://retroachievements.org/Images/034722.png	https://retroachievements.org/Images/035977.png
+art	75	I	Lenif	https://retroachievements.org/Images/034713.png	https://retroachievements.org/Images/035978.png
+art	12639	I	Javisaur	https://retroachievements.org/Images/020244.png	https://retroachievements.org/Images/035964.png
+art	4963	B	KingS1zzle	https://camo.githubusercontent.com/02e9436e376aa5b71dd9755786e821c48653e791/68747470733a2f2f692e696d6775722e636f6d2f743935397373412e706e67 https://camo.githubusercontent.com/56c60190561343b17650c46562a7a307f31c1386/68747470733a2f2f692e696d6775722e636f6d2f326c4e527633762e706e67
+art	1446	I	Javisaur	https://retroachievements.org/Images/015478.png	https://retroachievements.org/Images/036035.png
+art	540	I	Javisaur	https://retroachievements.org/Images/003971.png	https://retroachievements.org/Images/035744.png
+art	558	B	GameZone	https://camo.githubusercontent.com/3a5bc8bd235aa3199ffe1956795e9ce735012d6b/68747470733a2f2f692e696d6775722e636f6d2f517762423459582e706e67	https://camo.githubusercontent.com/ccafe9069fe865a9570b7073371f54a2ce47f869/68747470733a2f2f692e696d6775722e636f6d2f7353547a6539742e706e67
+art	508	I	JAM	http://retroachievements.org/Images/034390.png	https://retroachievements.org/Images/035651.png
+art	11276	I	Javisaur	http://retroachievements.org/Images/026619.png	https://retroachievements.org/Images/035652.png
+art	11306	I	Javisaur	http://retroachievements.org/Images/026620.png	https://retroachievements.org/Images/035725.png
+art	2190	I	Lenif	https://retroachievements.org/Images/003133.png	https://retroachievements.org/Images/035972.png

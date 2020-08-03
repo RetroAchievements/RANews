@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="issues-list-container">
+
+  <h1>RANews Issues List</h1>
+
+  {% assign issues = site.issues | map: "issue" | uniq %}
+
+  <ul>
+    {% for issue in issues %}
+
+      {% if issue != blank %}
+        <a href="/issues/{{ issue }}">
+          <li>
+            <h3>
+              RANews
+              {{ issue }}
+            </h3>
+          </li>
+        </a>
+      {% endif %}
+
+    {% endfor %}
+
+  </ul>
+
+</div>

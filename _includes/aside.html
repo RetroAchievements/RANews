@@ -1,0 +1,58 @@
+<aside>
+  <div class="sidebar-header">
+    <a href="{{ site.baseurl }}">
+      <img alt="" src="{{ site.baseurl }}/img/ranews-small.png">
+    </a>
+  </div>
+  <div class="article-list-container">
+    <h2>{{ page.issue }}</h2>
+
+    <label for="article-list-toggle">&#9776;</label>
+    <input id="article-list-toggle" type="checkbox"/>
+
+    <ul class="article-list">
+      {% assign articles = site.issues | where: "issue", page.issue %}
+      {% for article in articles %}
+
+        {% if article.category == "" or article.category == nil %}
+          {% assign category = article.title %}
+        {% else %}
+          {% assign category = article.category %}
+        {% endif %}
+
+        {% if article.url == page.url %}
+          <li class="active">{{ category }}</li>
+        {% else %}
+          <a href="{{ site.baseurl }}{{ article.url }}">
+            <li>{{ category }}</li>
+          </a>
+        {% endif %}
+
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="footer">
+    <ul class="icons">
+      <li>
+        <a href="https://retroachievements.org/">
+          <i class="icon icon-retroachievements"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://discord.gg/dq2E4hE">
+          <i class="fab fa-discord"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://docs.retroachievements.org/">
+          <i class="fa fa-book"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/RetroAchievements">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+</aside>
