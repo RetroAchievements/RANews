@@ -356,6 +356,19 @@ main > article .toc-title {
 }
 /* end - article Table of Contents */
 
+main > article h1,
+main > article h2,
+main > article h3,
+main > article h4,
+main > article h5,
+main > article h6 {
+  margin-top: 2em;
+}
+
+main > article p {
+  line-height: 1.3em;
+}
+
 main > article > p:first-of-type {
   font-size: 1.4em;
 }
