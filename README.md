@@ -1,4 +1,4 @@
 # RANews
 The RetroAchievements webzine
 
-http://news.retroachievements.org/
+https://news.retroachievements.org/
