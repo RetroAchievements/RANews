@@ -176,7 +176,7 @@ getRAGameInfo() {
     && return 1
 
   curl --silent "${BASE_URL}${ENDPOINT}?z=${raUser}&y=${raApiKey}&i=${gameId}" \
-    | jq -r '. | .Title + ":::" + .Console + ":::" + .GameIcon + ":::" + .Genre'
+    | jq -r '. | .Title + ":::" + .Console + ":::" + .GameIcon + ":::" +  if ( .Genre == null) then "-" else .Genre end'
 }
 
 
@@ -421,7 +421,6 @@ createFinalFile() {
   local consoleName
   local heading
   local tableHeader
-  local tempFile="$(mktemp)"
 
   : > "${finalFile}"
   for entryType in "${entryTypeList[@]}"; do
@@ -558,4 +557,3 @@ main() {
 
 
 [[ "$0" == "${BASH_SOURCE[0]}" ]] && main "$@"
-

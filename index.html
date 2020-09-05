@@ -5,6 +5,16 @@ title: RANews
 <html lang="en">
 
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177315439-1"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177315439-1');
+  </script>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -99,10 +109,12 @@ title: RANews
     </h1>
     <img class="logo" src="./img/cover.png" alt="RANews">
     <div class="cta-button" align="center">
-      <a class="cta-button-link" href="{{ site.baseurl }}/issues/2020-08/">
-        Start reading!
+      <a class="cta-button-link" href="{{ site.baseurl }}/issues/">
+        Issues list
+      </a>
+      <a class="cta-button-link" href="{{ site.baseurl }}/issues/2020-09/">
+        Latest issue
       </a>
     </div>
   </div>
-
 </body>

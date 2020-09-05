@@ -1,0 +1,195 @@
+rev	9390	F	Skystarmania
+rev	6647	F	Thoreau
+rev	7465	W	blazekickn
+rev	7465	F	SporyTike
+rev	1651	W	psyduck
+rev	6013	F	Jamiras
+rev	79	F	MarioJunior10
+rev	4521	F	jplima
+rev	11632	W	ViperZang
+
+
+res	8723	televandalist	400	405
+res	5678	televandalist	400	465
+res	8933	televandalist	400	435
+res	11075	televandalist	400	480
+res	5247	televandalist	400	282
+res	2235	MaddieKittyTV	290	265
+res	3408	televandalist	400	415
+res	4080	StingX2	70	75
+res	4950	StingX2	95	135
+res	2501	StingX2	65	85
+res	11687	Haruda	200	75
+res	491	televandalist	305	330
+res	5072	StingX2	200	220
+res	11694	Haruda	100	65
+res	6298	StingX2,HolyShinx	400	300
+res	6135	StingX2	400	660
+res	6171	StingX2	400	550
+res	7102	StingX2	400	370
+res	47	televandalist	395	368
+res	4871	StingX2	250	175
+res	856	televandalist	400	535
+res	6526	StingX2	400	251
+res	1632	televandalist	340	425
+res	5535	StingX2	400	528
+res	12842	StingX2	400	905
+res	6181	StingX2	400	725
+res	11582	StingX2	400	966
+res	7092	Xymjak	400	235
+res	2516	televandalist	400	410
+res	154	televandalist	400	517
+res	6013	Jamiras	650	490
+res	1471	StingX2	326	314
+res	2527	StingX2	285	220
+res	8	Xymjak	385	460
+res	6101	MaddieKittyTV	160	110
+res	7128	Xymjak	200	90
+res	12900	Haruda	200	182
+res	6083	StingX2	400	845
+res	352	jplima	220	388
+res	1360	televandalist	400	270
+res	311	televandalist	400	310
+res	16271	Haruda	200	68
+res	6791	StingX2	400	320
+res	19	televandalist	400	500
+res	2945	televandalist	400	470
+res	926	televandalist	400	450
+res	1722	StingX2	400	433
+res	342	televandalist	310	700
+res	2210	StingX2	400	540
+res	313	televandalist	395	300
+res	30	Haruda	400	760
+res	963	televandalist	400	425
+res	13008	Haruda	105	70
+res	8361	StingX2	400	457
+res	5045	StingX2	400	506
+res	13001	Haruda	400	190
+res	2460	StingX2	400	385
+res	8496	televandalist	400	365
+res	10013	televandalist	400	345
+res	4342	televandalist	400	350
+res	1812	televandalist	165	185
+res	1826	Haruda	415	183
+res	11771	televandalist	391	600
+res	7057	televandalist	240	330
+res	11725	Haruda	115	50
+res	3650	StingX2	160	185
+res	1412	Haruda	400	725
+res	219	televandalist	210	200
+res	2238	StingX2	400	415
+res	7159	Xymjak	270	140
+res	1889	StingX2	400	444
+res	83	televandalist	400	425
+res	82	televandalist	400	300
+res	166	televandalist	400	240
+res	317	televandalist	320	336
+res	1929	StingX2	395	253
+res	8420	televandalist	350	375
+res	16290	Haruda	150	69
+res	1174	televandalist	400	680
+res	35	televandalist	400	450
+res	1968	StingX2	400	500
+res	1179	Haruda	400	615
+res	1973	televandalist	370	325
+res	1977	StingX2	400	260
+res	1977	BOP95	260	500
+res	351	televandalist	400	460
+res	5209	televandalist	400	535
+res	10272	televandalist	400	600
+res	1984	StingX2	400	285
+res	1500	StingX2	400	290
+res	4779	StingX2	400	319
+res	16	televandalist	400	330
+res	253	Javisaur	889	919
+res	4923	StingX2	400	410
+res	10997	Haruda	400	340
+res	2008	StingX2	400	377
+res	2009	StingX2	400	405
+res	11718	Haruda	270	111
+res	4939	StingX2	400	537
+res	6832	StingX2	400	285
+res	2032	StingX2	400	531
+res	1175	televandalist	400	400
+res	74	televandalist	400	650
+res	2004	StingX2	400	439
+res	2044	StingX2	400	325
+res	1505	StingX2	400	281
+res	4726	televandalist	400	424
+res	4483	televandalist	400	370
+res	225	televandalist	400	325
+res	4840	StingX2	400	305
+res	11715	ViperZang	17	13
+res	2060	StingX2	400	255
+res	2084	StingX2	400	424
+res	2089	StingX2	400	250
+res	2090	StingX2	400	365
+res	10113	Xymjak	564	600
+
+
+art	8810	I	Matheus2653	https://retroachievements.org/Images/008885.png	https://retroachievements.org/Images/036532.png
+
+art	8463	I	Matheus2653	https://retroachievements.org/Images/008634.png	https://retroachievements.org/Images/036531.png
+
+art	16344	I	Fara0	https://retroachievements.org/Images/036554.png	https://retroachievements.org/Images/036682.png
+
+art	205	I	Wimpyfox	http://retroachievements.org/Images/003771.png	http://retroachievements.org/Images/036217.png
+
+art	13792	B	guineu	https://user-images.githubusercontent.com/4047771/90940013-5f092800-e3db-11ea-979d-e5cc32b07242.png	https://user-images.githubusercontent.com/4047771/90940016-62041880-e3db-11ea-842e-f06c5a808b91.png
+
+art	12748	I	Kisumebuckets	http://retroachievements.org/Images/036160.png	http://retroachievements.org/Images/036273.png
+
+art	14906	I	rabbids4eva	https://retroachievements.org/Images/029459.png	https://retroachievements.org/Images/036186.png
+
+art	16543	I	KingS1zzle	https://retroachievements.org/Images/036504.png	https://retroachievements.org/Images/036536.png
+
+art	12773	B	Kisumebuckets	https://user-images.githubusercontent.com/4047771/90939600-2ae13780-e3da-11ea-9e54-6b6fb63d9e4d.png	https://user-images.githubusercontent.com/4047771/90939605-2d439180-e3da-11ea-96e4-63e1de86bda3.png
+
+art	7465	B	SporyTike	https://user-images.githubusercontent.com/4047771/89603121-5be83680-d836-11ea-81b4-9efaf01ae695.png	https://user-images.githubusercontent.com/4047771/89603137-630f4480-d836-11ea-8f70-54b8c115c69f.png
+
+art	2614	I	Javisaur	http://retroachievements.org/Images/025983.png	http://retroachievements.org/Images/036274.png
+
+art	13441	I	rabbids4eva	https://retroachievements.org/Images/020537.png	https://retroachievements.org/Images/036185.png
+
+art	13001	I	rabbids4eva	https://retroachievements.org/Images/034970.png	https://retroachievements.org/Images/036188.png
+
+art	4890	B	guineu	https://user-images.githubusercontent.com/4047771/90940087-9bd51f00-e3db-11ea-9d13-d32c349de2de.png	https://user-images.githubusercontent.com/4047771/90940092-9ed00f80-e3db-11ea-9042-dd7e8f1a2fe0.png
+
+art	4890	I	guineu	http://retroachievements.org/Images/002514.png	http://retroachievements.org/Images/002514.png
+
+art	1812	I	Javisaur	http://retroachievements.org/Images/009346.png	http://retroachievements.org/Images/036616.png
+
+art	11730	I	KingS1zzle	https://retroachievements.org/Images/019595.png	https://retroachievements.org/Images/036354.png
+
+art	629	B	Matheus2653	https://user-images.githubusercontent.com/4047771/90207446-49c94380-ddb4-11ea-879a-a117054a6012.png	https://user-images.githubusercontent.com/4047771/90207451-4c2b9d80-ddb4-11ea-9bf9-7c84a3782e2e.png
+
+art	624	B	matheus2653	https://user-images.githubusercontent.com/4047771/90207112-7892ea00-ddb3-11ea-9126-15e5dc0193ac.png	https://user-images.githubusercontent.com/4047771/90207128-7b8dda80-ddb3-11ea-96ac-ec8f9a40aa3a.png
+
+art	13094	B	Kisumebuckets	https://user-images.githubusercontent.com/4047771/90207340-0373e480-ddb4-11ea-9b98-1015d4867c11.png	https://user-images.githubusercontent.com/4047771/90207347-07076b80-ddb4-11ea-9ce2-d8a7c8d5e0be.png
+
+art	83	I	Wimpyfox	http://retroachievements.org/Images/016756.png	http://retroachievements.org/Images/036216.png
+
+art	2473	I	guineu	https://i.imgur.com/choXPpH.png	https://retroachievements.org/Images/036403.png
+
+art	6184	I	voiceofautumn	https://retroachievements.org/Images/008966.png	https://retroachievements.org/Images/036482.png
+
+art	2188	I	Wimpyfox	http://retroachievements.org/Images/022676.png	https://retroachievements.org/Images/036365.png
+
+art	14548	I	Wimpyfox	http://retroachievements.org/Images/036277.png	http://retroachievements.org/Images/036408.png
+
+art	15	I	KingS1zzle	https://retroachievements.org/Images/016717.png	https://retroachievements.org/Images/036106.png
+
+art	15	B	KingS1zzle	https://user-images.githubusercontent.com/4047771/89603084-44a94900-d836-11ea-8f02-8502c907d3e0.png	https://user-images.githubusercontent.com/4047771/89603090-483cd000-d836-11ea-8d3c-b642ca6610aa.png
+
+art	6679	I	rabbids4eva	https://retroachievements.org/Images/034317.png	https://retroachievements.org/Images/036187.png
+
+art	16524	I	jplima	https://retroachievements.org/Images/036257.png	https://retroachievements.org/Images/036280.png
+
+art	2588	I	lordpsycho	https://retroachievements.org/Images/007654.png	https://retroachievements.org/Images/036473.png
+
+art	11331	B	KingS1zzle	https://user-images.githubusercontent.com/4047771/91642265-f41da980-e9f7-11ea-94ac-ed855209cea6.png	https://user-images.githubusercontent.com/4047771/91642268-f849c700-e9f7-11ea-84a1-19f3d851e2b1.png
+
+art	5057	I	voiceofautumn	https://retroachievements.org/Images/015770.png	https://retroachievements.org/Images/036497.png
+
+art	4521	I	jplima	http://retroachievements.org/Images/005850.png	http://retroachievements.org/Images/036218.png
+

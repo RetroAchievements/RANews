@@ -6,24 +6,22 @@ layout: default
 
   <h1>RANews Issues List</h1>
 
-  {% assign issues = site.issues | map: "issue" | uniq %}
+  {% assign issues = site.issues | map: "issue" | uniq | reverse %}
 
   <ul>
     {% for issue in issues %}
-
       {% if issue != blank %}
-        <a href="/issues/{{ issue }}">
+        <a href="{{ site.baseurl }}/issues/{{ issue }}">
           <li>
             <h3>
+              <img alt="cover" src="{{ site.baseurl }}/issues/{{ issue }}/img/cover.png">
               RANews
               {{ issue }}
             </h3>
           </li>
         </a>
       {% endif %}
-
     {% endfor %}
-
   </ul>
 
 </div>

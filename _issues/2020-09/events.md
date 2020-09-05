@@ -1,14 +1,14 @@
 ---
-issue: 2020-08
+issue: 2020-09
 layout: article
 category: Current Events
 title: Current Events
 author: Hotscrock
 toc: true
-order: 202008-40
+order: 202009-40
 ---
 
-Check what is happening in RetroAchievements competitions.
+Here's the list of events that are open to join. This is good way for players to get involved with the RA community.
 
 For more info, check the [Current Competitions and Hall of Fame of RA](https://retroachievements.org/viewtopic.php?t=9014) forum topic.
 
@@ -17,12 +17,10 @@ For more info, check the [Current Competitions and Hall of Fame of RA](https://r
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=9920>
 - Period: January 2020 - Current
 - Host: {% rauserpic ikki5 %} and {% rauserpic Flara %}
-- Currently 1st place (with 36 points):
+- Currently 1st place (with 41 points):
   - {% rauserpic BahamutVoid %}
-  - {% rauserpic bonecrusher1022 %}
   - {% rauserpic EverElsewhere %}
   - {% rauserpic Fergdog %}
-  - {% rauserpic ilikepie345 %}
   - {% rauserpic Pudpod %}
   - {% rauserpic Xymjak %}
 
@@ -34,7 +32,7 @@ For more info, check the [Current Competitions and Hall of Fame of RA](https://r
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=9736>
 - Period: January 2020 - Current
 - Host: {% rauserpic televandalist %}
-- Currently 1st place (with 25 points):
+- Currently 1st place (with 31 points):
   - {% rauserpic EverElsewhere %}
   - {% rauserpic Xymjak %}
 
@@ -63,7 +61,7 @@ Idea of the event is to stimulate mastering the games you started, play some oth
 - Host: {% rauserpic JAM %}
 - Previous Winners:
     - Jun: {% rauserpic BahamutVoid %}
-    - May: {% rauserpic jltn %}, {% rauserpic Xymjak %} (tiebreak, both have same amount of points and both are winners)
+    - May: {% rauserpic jltn %}, {% rauserpic Xymjak %}
     - Apr: {% rauserpic Xymjak %}
     - Mar: {% rauserpic Xymjak %}
     - Feb: {% rauserpic jltn %}
@@ -78,6 +76,7 @@ Idea of the event is to stimulate mastering the games you started, play some oth
 - Period: May 2020 - Current
 - Host: {% rauserpic Hotscrock %}
 - Previous Winners:
+  - July: {% rauserpic BahamutVoid %}
   - June: {% rauserpic BahamutVoid %}
   - May: {% rauserpic Xymjak %}
 

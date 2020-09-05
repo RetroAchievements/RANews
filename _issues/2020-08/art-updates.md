@@ -4,7 +4,7 @@ layout: article
 author: Searo
 title: Art Updates
 toc: true
-order: 60
+order: 202008-60
 ---
 
 ## Game Icon Changes

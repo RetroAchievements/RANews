@@ -4,7 +4,7 @@ layout: article
 category: DevTip
 title: Scraping Achievement Info for Rescore and Revision Updates
 author: MagusPC
-order: 70
+order: 202008-70
 ---
 
 In this article I'm gonna share a fast and easy method to scrape all Achievements, Descriptions or other useful information from RetroAchievements into a CSV format which can be posted in Forums and Discord for sharing Rescore and Revision Update plans.

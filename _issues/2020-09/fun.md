@@ -1,13 +1,20 @@
 ---
 layout: article
-issue: 2020-08
+issue: 2020-09
 author: StingX2
 category: Fun
-title: RABingo
-order: 202008-80
+toc: true
+order: 202009-80
 ---
 
-Let's play BINGO!
+## August's Bingo Winner
+
+<div class="bingo-winner">
+  <img class="bingo-trophy" src="img/trophy.png" alt="trophy" />
+  {% rauserpic Whynot15 %}
+</div>
+
+## Bingo
 
 ![bingo](img/bingo.png)
 
@@ -15,6 +22,6 @@ To win this BINGO you are going to need to play some RetroAchievements! The basi
 
 Each square asks you to do a certain activity, your task is to find a specific achievement on the site that corresponds to that. Then you do the achievement and mark your square off. **Make sure to keep a list of which achievements you use for what!**
 
-The first 5 players to get a bingo and send it to {% rauser StingX2 %} on Site DM or Discord will be listed in next issue as a winner!
+The first 3 players to get a bingo and send it to {% rauser StingX2 %} on Site DM or Discord will be listed in next issue as a winner!
 
 **Bonus:** The first person to mark off every square on their bingo card with a different achievement will also be listed in the winners of next issue

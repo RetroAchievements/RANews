@@ -3,7 +3,7 @@ issue: 2020-08
 layout: article
 author: meleu
 title: Community Works
-order: 90
+order: 202008-90
 ---
 
 There are also many awesome content being created by RetroAchievements community. And in the last month was a really special one...

@@ -3,7 +3,7 @@ issue: 2020-08
 layout: article
 title: HotCheevs Monthly
 author: Hotscrock
-order: 10
+order: 202008-10
 toc: true
 ---
 

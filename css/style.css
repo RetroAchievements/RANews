@@ -78,6 +78,20 @@ RANews/issues/
   text-align: center;
 }
 
+.issues-list-container li {
+  list-style: none;
+}
+
+.issues-list-container a:hover {
+  text-decoration: underline;
+}
+
+.issues-list-container img {
+  vertical-align: middle;
+  width: 96px;
+  height: 130px;
+}
+
 /********************************************************************
 {% rauserpic username %} and game icons
 *********************************************************************/
@@ -103,6 +117,25 @@ img.gameicon {
 .gameicon-link > span {
   padding: 0 10px;
 }
+
+/********************************************************************
+bingo winner
+*********************************************************************/
+.bingo-winner {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+}
+
+.bingo-winner img.rauserpic {
+  width: 128px;
+  height: 128px;
+}
+
+.bingo-winner a {
+  font-size: 2em;
+}
+
 
 /********************************************************************
  * links
@@ -156,7 +189,7 @@ a:hover::before {
  ********************************************************************/
 .grid {
   display: grid;
-  grid-template-columns: 240px 1fr;
+  grid-template-columns: 250px 1fr;
 }
 
 /********************************************************************
@@ -198,6 +231,7 @@ aside > .article-list-container {
   flex: 1;
   border-top: 1px dashed;
   border-bottom: 1px dashed;
+  overflow-y: auto;
 }
 
 aside > .article-list-container > h2 {
@@ -228,10 +262,10 @@ aside ul.article-list li {
 }
 
 aside ul.article-list li.active {
-  color: #fff;
-  text-align: center;
-  text-decoration: underline;
+  color: #aaa;
   background: #234;
+  /* text-align: center; */
+  /* text-decoration: underline; */
 }
 
 aside > .footer > ul {
@@ -368,6 +402,7 @@ main > article p {
   line-height: 1.3em;
 }
 
+/*
 main > article > p:first-of-type {
   font-size: 1.4em;
 }
@@ -375,6 +410,7 @@ main > article > p:first-of-type {
 main > article > p:first-of-type::first-letter {
   font-size: 2.5em;
 }
+*/
 
 main > article li {
   line-height: 1.5em;
