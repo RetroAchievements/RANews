@@ -63,7 +63,7 @@ This only affected endusers by preventing them from using the Core Updater. When
 Fortunately the buildbot and the code repositories are mostly restored. Users can now use the Core Updater again.
 
 
-## What's the difference between libretro/RetroArch/RALibretro? 
+## What's the difference between libretro, RetroArch and RALibretro? 
 
 ### libretro as an organization
 
