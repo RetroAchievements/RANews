@@ -91,7 +91,7 @@ Trip'd, from the studio behind D and Enemy Zero, is a falling block puzzle game 
 
 If you are a fan of addictive games, this is a game you ought to give a shot. Your only tools are the 3DO system's control pad, your brain and your decision making ability. Prepare to be Trip'd in the first 3DO set on RetroAchievements.
 
-## Nimpize Logic (Nintendo 64)
+## Nimpize Adventure (Nintendo 64)
 
 | Game | Console | Genre | 
 |------|---------|-------| 
