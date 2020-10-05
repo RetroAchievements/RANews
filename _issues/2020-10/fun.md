@@ -11,7 +11,7 @@ order: 202010-80
 
 <div class="bingo-winner">
   <img class="bingo-trophy" src="img/trophy.png" alt="trophy" />
-  {% rauserpic Whynot15 %}
+  {% rauserpic Kisumebuckets %}
 </div>
 
 ## Bingo
