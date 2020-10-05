@@ -351,7 +351,7 @@ formatBadgesInfo() {
   # TODO: check if author is a list of authors (coma separated)
   echo -e \
     "\n#### ${gameTitle}\n" \
-    "\n**Badges by {% rauser ${author} %}**" \
+    "\n**New badges by {% rauser ${author} %}**\n" \
     "\n**Previous Badges:**\n\n![before](${before})\n" \
     "\n**Current Badges:**\n\n![after](${after})\n"
 }
