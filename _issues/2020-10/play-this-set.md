@@ -77,19 +77,17 @@ The set will be the first in a series of different romhacks based around the Tou
 
 Though the main games are made by just one person, the hacks are made with a variety of developers and each include a bit of their personality into them.  All of the characters that appear in these shmups (or bullet-hells) and replace the Pokémon normally found.
 
-## Trip'd (Arcade)
+## Moorhen 3 (GameBoy Color)
 
 | Game | Console | Genre | 
 |------|---------|-------| 
-| <a class="gameicon-link" href="https://retroachievements.org/game/16508" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/036024.png" alt="Trip'd."> <span>Trip'd.</span></a> | 3DO Interactive Multiplayer | Puzzle / Arcade |
+| <a class="gameicon-link" href="https://retroachievements.org/game/13082" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/036397.png" alt="Crazy Chicken 3: ... The Chicken Chase! \| Moorhen 3: ... The Chicken Chase!"> <span>Crazy Chicken 3: ... The Chicken Chase! \| Moorhen 3: ... The Chicken Chase!</span></a> | Game Boy Color | Action / Shooter |
 
 Achievement set and writeup by {% rauserpic rabbids4eva %}
 
-What happens when you combine Puyo Puyo and the weirdness of the late Kenji Eno? You get Trip'd, the first 3DO falling tile game. Released in 1994 and developed by WARP, Trip'd is the only English entry in the Furopon series which was mainly released in Japan.
+Moorhen 3: The Chicken Chase is the third Moorhuhn game on the Game Boy Color and was released in 2002. The GBC version was developed by Similis and Sproing. As always, the aim of the game is to get the highest score by shooting down the chickens. But this time, there's a different bird that, when shot, you lose points.
 
-Trip'd, from the studio behind D and Enemy Zero, is a falling block puzzle game similar to Puyo Puyo. Instead of blocks, alien eggs of multiple colors fall down and the player must arrange them in a line of four of the same color in order to dispose of them. However, if eggs of the same color are arranged into a square, they will hatch and form a giant alien that can instantly end the game for the player. Aliens range from the titular Furopon, a yellow cat alien, a pink plant alien, the blue two-head alien and the green eye alien. Players must complete the stage within a certain time limit or prevent the eggs to reach the top of the screen or else their game will end. They also have the option to either play solo, against the computer or against a friend.
-
-If you are a fan of addictive games, this is a game you ought to give a shot. Your only tools are the 3DO system's control pad, your brain and your decision making ability. Prepare to be Trip'd in the first 3DO set on RetroAchievements.
+Besides the main game, Moorhen 3, there are 3 additional minigames: Moortris, Fishblast and Bandit. In Moortris, you must align blocks to form a line to clear the blocks and earn points. In Fishblast, test your patience and luck to see how many fish you can blow up with the dynamite. In Bandit, it's a shoot out in the wild west. There are three doors and there are two chickens to shoot down: the gun bandit and the bomb bandit. But DO NOT shoot down the chicken with a flower, or the game will end early.
 
 ## Nimpize Adventure (Nintendo 64)
 
