@@ -32,7 +32,7 @@ we're going to use that page to spread the word about the RetroAchievements Mani
 
 ### HotCheevs Monthly
 
-List of achievement sets releaset in the last month.
+List of achievement sets released in the last month.
 
 
 ### Play This Set

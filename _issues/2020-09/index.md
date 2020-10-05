@@ -20,7 +20,7 @@ What to expect from this issue.
 
 ### HotCheevs Monthly
 
-List of achievement sets releaset in the last month.
+List of achievement sets released in the last month.
 
 In August we got the impressive number of **83 brand new sets being released**! When I joined this site I'd never imagine we would reach this rate!
 
