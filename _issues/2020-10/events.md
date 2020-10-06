@@ -58,15 +58,15 @@ Idea of the event is to stimulate mastering the games you started, play some oth
 - Period: March 2020 - Current
 - Host: {% rauserpic JAM %}
 - Previous Winners:
-    - Sep: in progres...
-    - Aug: in progress..
-    - Jul: in progress...
-    - Jun: {% rauserpic BahamutVoid %}
+    - September: in progres...
+    - August: in progress..
+    - July: {% rauserpic BahamutVoid %}, {% rauserpic Xymjak %}
+    - June: {% rauserpic BahamutVoid %}
     - May: {% rauserpic jltn %}, {% rauserpic Xymjak %}
-    - Apr: {% rauserpic Xymjak %}
-    - Mar: {% rauserpic Xymjak %}
-    - Feb: {% rauserpic jltn %}
-    - Jan: {% rauserpic jltn %}
+    - April: {% rauserpic Xymjak %}
+    - March: {% rauserpic Xymjak %}
+    - February: {% rauserpic jltn %}
+    - January: {% rauserpic jltn %}
 
 <a href="#top">:top:</a>
 
