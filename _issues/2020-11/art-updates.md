@@ -221,7 +221,7 @@ order: 202011-45
 
 #### ~Prototype~ Pokemon Picross
  
-**New badges by {% rauser WateredWillow %} .**
+**New badges by {% rauser Kisumebuckets %} .**
  
 **Previous Badges:**
 
