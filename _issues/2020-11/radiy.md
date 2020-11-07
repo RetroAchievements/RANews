@@ -60,9 +60,9 @@ The month of November is a special month of the season that we tend to spend wit
 
 **Chicken basking in marinade before cooking:**
 
-![](https://cdn.discordapp.com/attachments/230204564979056640/770841016298766356/image.png)
+![](img/radiy1.jpg)
 
 
 **Ready to eat teriyaki chicken served with rice:**
 
-![](https://cdn.discordapp.com/attachments/230204564979056640/770841016638504970/image_1.png)
+![](img/radiy2.jpg)
