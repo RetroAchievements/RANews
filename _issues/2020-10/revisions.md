@@ -143,12 +143,6 @@ In this article we're going to see all the achievement sets that got revisions a
 
 
 
-## Demoted Sets
-
-
-## Revisions Cancelled
-
-
 ## Rescores
 
 ### Game Boy Color

@@ -423,7 +423,6 @@ createFinalFiles() {
   local tableHeader
   local destinationFile
 
-  # : > "${finalFile}"
   for entryType in "${entryTypeList[@]}"; do
 
     case "${entryType}" in

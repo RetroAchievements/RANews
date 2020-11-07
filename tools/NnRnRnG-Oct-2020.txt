@@ -1,0 +1,184 @@
+-------
+
+new = new sets
+GameID | User(s)
+
+-------
+
+rev = revisions
+GameID | Status | User(s)
+
+C = Cancelled
+D = Demotion (Completed)
+F = Finished
+N = New
+W = WIP
+
+-------
+
+res = rescores
+GameID | User(s) | Before | After
+
+-------
+
+art = badge and icons
+GameID | Type | User(s) | Before | After
+
+I = Icon
+B = Badge
+
+-----------------------------------------------------------------------------
+
+new	16759	SporyTike
+new	16558	Pelouch
+new	13208	multonic
+new	13213	multonic
+new	7212	SporyTike and DanielARP
+new	13770	hardt
+new	7132	Kisumebuckets
+new	11896	KloggMonkey
+new	10310	wilhitewarrior
+new	5645	Wimpy
+new	3558	Lewis50248
+new	9409	monkeytoung
+new	4386	g0dm0d3
+new	1353	g0dm0d3
+new	124	Keltron3030
+new	12192	zpeligo
+new	8611	mario2188
+new	16926	stfN1337
+new	10569	Alfex
+new	10157	ikki5
+new	14688	monkeytoung
+new	15705	monkeytoung
+new	12875	psyduck
+new	16928	Skystarmania
+new	17034	SporyTike
+new	5431	RoberttheSable
+new	13891	anty
+new	1708	spudw
+new	12364	Wimpy
+new	13246	stfN1337
+new	7590	SnowPin
+new	16927	viniciuskombat
+new	17036	ikki5
+new	17035	ikki5
+new	14706	wilhitewarrior
+new	12211	zpeligo
+new	17024	Kisumebuckets
+new	17046	stfN1337
+new	13910	Alfex
+new	14692	wilhitewarrior
+new	11248	BenGhazi and siouxerskate
+new	6808	mario2188
+new	4305	Bl4h8L4hBl4h
+new	13808	hardt
+new	15981	SherryBirkin and zxmega
+new	17053	Alfex
+new	11364	SnowPin
+new	15086	KloggMonkey
+new	17054	Kisumebuckets
+new	4152	peyote
+new	1912	spudw
+new	11984	Wimpy
+new	16489	stfN1337
+new	14782	lordpsycho
+new	1842	g0dm0d3
+new	12782	wilhitewarrior
+new	2387	TeddyWestside
+new	17058	Kisumebuckets
+new	2083	hardt
+new	11409	MGNS8M
+new	17069	Kisumebuckets
+new	5468	Keltron3030
+new	6357	SnowPin
+new	2362	g0dm0d3
+new	854	BenGhazi
+new	17066	SherryBirkin
+new	7520	multonic
+new	2257	Alena
+new	16327	TeddyWestside
+new	278	spudw
+new	2878	AlmightyXor
+new	15973	BrunoKiko
+new	11302	herrshaun
+new	11330	siouxerskate
+new	11933	Haruda
+new	14449	TeddyWestside
+new	5051	MGNS8M
+new	7062	SherryBirkin
+new	12905	bTesta
+new	16671	shnick1980
+new	1199	lordpsycho
+new	17077	MrOwnership
+new	10119	monkeytoung
+new	12183	Wimpy
+new	17074	Alfex
+
+
+
+rev	7465	C	blazekickn
+rev	120	W	MrGauss
+rev	10434	W	TheJediSonic
+rev	5594	W	Riku55
+rev	515	C	blazekickn
+rev	1651	W	psyduck
+rev	326	F	DarknessZedzi
+rev	2588	F	lordpsycho
+rev	16215	F	SporyTike
+rev	713	F	Infernox
+rev	2157	F	psyduck
+rev	165	F	JAM
+rev	326	F	DarknessZedzi
+rev	3	N	JAM
+rev	13953	N	SporyTike
+rev	2345	N	BenGhazi
+rev	4836	N	theanxietybuster
+rev	320	F	mario2188
+rev	509	F	kayesay
+rev	1446	N	Kisumebuckets
+
+
+
+res	5527	Pelouch	400	450
+res	6353	StingX2	399	716
+res	6690	StingX2	349	344
+res	1109	blazekickn	290	281
+
+
+
+art	4836	I	WateredWillow	https://retroachievements.org/Images/002579.png	https://retroachievements.org/Images/038820.png
+art	4915	I	WateredWillow	https://retroachievements.org/Images/002578.png	https://retroachievements.org/Images/038821.png
+art	1458	I	WateredWillow	https://retroachievements.org/Images/003016.png	https://retroachievements.org/Images/039041.png
+art	779	B	Raykusen	https://user-images.githubusercontent.com/53956327/96346745-c9ed7d00-1073-11eb-90c9-d010df55d213.png	https://user-images.githubusercontent.com/53956327/96346743-c823b980-1073-11eb-933c-3d275db7a394.png
+art	4893	I	SuperCarloConti	https://retroachievements.org/Images/002716.png	https://retroachievements.org/Images/039077.png
+art	4969	I	Komojo	https://retroachievements.org/Images/007671.png	https://retroachievements.org/Images/039083.png
+art	55	I	Raykusen	https://retroachievements.org/Images/028246.png	https://retroachievements.org/Images/039151.png
+art	774	B	Raykusen	https://user-images.githubusercontent.com/53956327/95670101-ed896280-0b5d-11eb-8179-70c867eb23a4.png	https://user-images.githubusercontent.com/53956327/95670104-f2e6ad00-0b5d-11eb-9e16-adbda0a5701d.png
+art	7442	I	WateredWillow	https://retroachievements.org/Images/024362.png	https://retroachievements.org/Images/039362.png
+art	1994	I	Lenif	https://retroachievements.org/Images/002660.png	https://retroachievements.org/Images/039421.png
+art	11374	I	CaptainScarLeg	https://retroachievements.org/Images/031791.png	https://retroachievements.org/Images/039422.png
+art	1179	I	Raykusen	https://retroachievements.org/Images/003624.png	https://retroachievements.org/Images/039461.png
+art	168	I	Fara0	https://retroachievements.org/Images/005787.png	https://retroachievements.org/Images/039462.png
+art	17053	I	Javisaur	https://retroachievements.org/Images/039400.png	https://retroachievements.org/Images/039475.png
+art	2384	I	Fara0	https://retroachievements.org/Images/007514.png	https://retroachievements.org/Images/039476.png
+art	625	B	Raykusen	https://user-images.githubusercontent.com/53956327/97087422-8610ef80-1600-11eb-8506-a70608fc705d.png	https://user-images.githubusercontent.com/53956327/97087428-95903880-1600-11eb-97df-0afe0e7b4456.png
+art	4301	I	WateredWillow	https://retroachievements.org/Images/002434.png	https://retroachievements.org/Images/039490.png
+art	14478	I	WateredWillow	https://retroachievements.org/Images/027212.png	https://retroachievements.org/Images/039491.png
+art	2367	I	Javisaur	https://retroachievements.org/Images/027594.png	https://retroachievements.org/Images/039506.png
+art	625	I	Raykusen	https://retroachievements.org/Images/038381.png	https://retroachievements.org/Images/039505.png
+art	773	B	Raykusen	https://user-images.githubusercontent.com/53956327/97087433-9b861980-1600-11eb-8106-3371235a7e97.png	https://user-images.githubusercontent.com/53956327/97087435-9d4fdd00-1600-11eb-91cd-b4dd9c6b1599.png
+art	1995	B	GameZone	https://user-images.githubusercontent.com/53956327/97087438-a3de5480-1600-11eb-8780-68265a0a9518.png	https://user-images.githubusercontent.com/53956327/97087439-a5a81800-1600-11eb-9661-4b21f4ac5362.png
+art	16597	B	WateredWillow	https://user-images.githubusercontent.com/53956327/97785654-26c55900-1b85-11eb-8ec9-5b45dc812923.jpg	https://user-images.githubusercontent.com/53956327/97785655-288f1c80-1b85-11eb-94ab-e4daec1e5f1d.png
+art	16597	I	WateredWillow	https://retroachievements.org/Images/037811.png	https://retroachievements.org/Images/039618.png
+art	780	B	Raykusen	https://user-images.githubusercontent.com/53956327/97785795-15c91780-1b86-11eb-8164-9846adc42067.png	https://user-images.githubusercontent.com/53956327/97785796-182b7180-1b86-11eb-9a1e-3c423af530e2.png
+art	12192	I	CaptainScarLeg	https://retroachievements.org/Images/038817.png	https://retroachievements.org/Images/039726.png
+art	1491	I	CaptainScarLeg	https://retroachievements.org/Images/001778.png	https://retroachievements.org/Images/039727.png
+art	13350	I	CaptainScarLeg	https://retroachievements.org/Images/019536.png	https://retroachievements.org/Images/039737.png
+art	13094	I	WateredWillow	https://retroachievements.org/Images/027689.png	https://retroachievements.org/Images/039738.png
+art	1847	I	CaptainScarLeg	https://retroachievements.org/Images/010869.png	https://retroachievements.org/Images/039739.png
+art	1846	I	CaptainScarLeg	https://retroachievements.org/Images/010868.png	https://retroachievements.org/Images/039740.png
+art	10438	B	Komojo	https://user-images.githubusercontent.com/53956327/97786124-35613f80-1b88-11eb-98d1-3a92ba72147a.png	https://user-images.githubusercontent.com/53956327/97786126-37c39980-1b88-11eb-9d66-b546389a382f.png
+art	1386	B	Kisumebuckets	https://user-images.githubusercontent.com/53956327/97786127-385c3000-1b88-11eb-8d4e-b1b8692f2eda.png	https://user-images.githubusercontent.com/53956327/97786128-385c3000-1b88-11eb-922d-203eee029a98.png
+art	4983	I	Javisaur	https://retroachievements.org/Images/018749.png	https://retroachievements.org/Images/039811.png
+art	575	B	Raykusen	https://user-images.githubusercontent.com/53956327/97786173-9db02100-1b88-11eb-9721-a87093aa56fb.png	https://user-images.githubusercontent.com/53956327/97786174-9f79e480-1b88-11eb-9c27-b799e495fe9a.png

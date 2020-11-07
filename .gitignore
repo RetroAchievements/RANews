@@ -1,6 +1,9 @@
 # RANews stuff
 tools/.env
 tools/err
+tools/*
+!tools/*.txt
+!tools/*.sh
 
 # jekyll stuff
 _site
