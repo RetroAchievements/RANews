@@ -9,7 +9,7 @@
 #
 # line starts with -> what it means
 # 
-# `integer ` -> set release
+# `new {integer} ` -> set release
 # `rev ` -> revision
 # `res ` -> rescore
 # `art ` -> art update
@@ -96,7 +96,7 @@ readonly ENDPOINT='/API/API_GetGame.php'
 declare -A REGEX REVISION_STATUS ART_TYPE
 REGEX=(
   # gameId[*] author
-  [release]='^([0-9]+)(\*)?[[:space:]]+([^[:space:]]+)$'
+  [release]='^new[[:space:]]+([0-9]+)(\*)?[[:space:]]+([^[:space:]]+)$'
   # gameId-----^ isRev--^   author------^
 
   # rev gameId statusCode author
@@ -284,11 +284,11 @@ createRawList() {
   local entryType
   local outputLine
 
-  # `[0-9]+\*? ` -> set release
+  # `new [0-9]+\*? ` -> set release
   # `rev ` -> revision
   # `res ` -> rescore
   # `art ` -> art update
-  local regexEntryType='^([0-9]+\*?|rev|res|art)[[:space:]]'
+  local regexEntryType='^(new[[:space:]][0-9]+\*?|rev|res|art)[[:space:]]'
 
   while IFS= read -r line || [[ -n "$line" ]]; do
     [[ ${line} =~ ${regexEntryType} ]] || continue
@@ -310,7 +310,7 @@ createRawList() {
     esac
 
     echo "${outputLine}" | tee --append "${rawFile}"
-  done < "${inputFile}"
+  done <<< "$(sed 's/\r$//' "${inputFile}")"
 
   sort -o "${rawFile}" "${rawFile}"
 }
@@ -415,14 +415,15 @@ separateByConsole() {
 }
 
 
-createFinalFile() {
+createFinalFiles() {
   local file
   local entryType
   local consoleName
   local heading
   local tableHeader
+  local destinationFile
 
-  : > "${finalFile}"
+  # : > "${finalFile}"
   for entryType in "${entryTypeList[@]}"; do
 
     case "${entryType}" in
@@ -430,80 +431,75 @@ createFinalFile() {
         heading='## New Sets Released'
         tableHeader='\n| Game | Author | Genre |'
         tableHeader+='\n|------|--------|-------|'
+        destinationFile="${baseFilename}-hotcheevs.md"
         ;;
       revision)
         heading='## Revisions'
         tableHeader='\n| Game | Revision By | Genre |'
         tableHeader+='\n|------|-------------|-------|'
+        destinationFile="${baseFilename}-revisions.md"
         ;;
       wip)
         heading='## Revisions in Progress'
         tableHeader='\n| Game | Revision Author | Genre |'
         tableHeader+='\n|------|-----------------|-------|'
+        destinationFile="${baseFilename}-revisions.md"
         ;;
       demoted)
         heading='## Demoted Sets'
         tableHeader='\n| Game | Demotion By | Genre |'
         tableHeader+='\n|------|-------------|-------|'
+        destinationFile="${baseFilename}-revisions.md"
         ;;
       cancelled)
         heading='## Revisions Cancelled'
         tableHeader='\n| Game | Author | Genre |'
         tableHeader+='\n|------|--------|-------|'
+        destinationFile="${baseFilename}-revisions.md"
         ;;
       rescore)
         heading='## Rescores'
         tableHeader='\n| Game | Rescored By | Points Before | Points After |'
         tableHeader+='\n|------|-----------|:-------------:|:------------:|'
+        destinationFile="${baseFilename}-revisions.md"
         ;;
       icon)
         heading='## Game Icon Changes'
         tableHeader='\n| Game | Icon By | Icon Before |'
         tableHeader+='\n|------|---------|-------------|'
+        destinationFile="${baseFilename}-art-updates.md"
         ;;
       badge)
         heading='## Achievement Badges Changes'
         tableHeader='\n'
+        destinationFile="${baseFilename}-art-updates.md"
         ;;
     esac
 
-    echo "${heading}" >> "${finalFile}"
+    echo "${heading}" >> "${destinationFile}"
 
     for consoleName in "${sortedConsoleList[@]}"; do
       file="${baseFilename}-${entryType}-${consoleName}.md"
       [[ -f "${file}" ]] || continue
       
-      echo -e "\n### ${consoleName}\n" >> "${finalFile}"
-      echo -e "${tableHeader}" >> "${finalFile}"
-      cat "${file}" >> "${finalFile}"
-      echo -e '\n<a href="#toc">:top:</a>\n' >> "${finalFile}"
+      echo -e "\n### ${consoleName}\n" >> "${destinationFile}"
+      echo -e "${tableHeader}" >> "${destinationFile}"
+      cat "${file}" >> "${destinationFile}"
+      echo -e '\n<a href="#toc">:top:</a>\n' >> "${destinationFile}"
       rm "${file}"
     done
-    echo -e "\n" >> "${finalFile}"
+    echo -e "\n" >> "${destinationFile}"
   done
 }
 
+quickGameTable() {
+  local gameIds=( $@ )
+  local gameId
+  local gameInfo
+  local regexRawEntry='^(.+):::(.+):::(.+):::(.+):::(.+)$'
+  # gameTitle:::consoleName:::gameIconUri:::gameGenre:::gameId
 
-main() {
-  local raUser="$(readEnv rauser)"
-  local raApiKey="$(readEnv raapikey)"
-  [[ -z "${raUser}" || -z "${raApiKey}" ]] && return 1
-
-  local inputFile
-  local baseFilename
-  local rawFile
-  local finalFile
-  local consoleList=()
-  local sortedConsoleList=()
-  local entryTypeList=(release revision wip demoted cancelled rescore icon badge)
-
-  # quick'n'dirty workaround to create a Game Info Table
-  if [[ "$1" == "--game-table" ]]; then
-    local gameId="$2"
-    local gameInfo
-    local regexRawEntry='^(.+):::(.+):::(.+):::(.+):::(.+)$'
-    # gameTitle:::consoleName:::gameIconUri:::gameGenre:::gameId
-
+  for gameId in "${gameIds[@]}"; do
     [[ ${gameId} =~ ^[0-9]+$ ]] || return 1
 
     rawFile='/dev/null'
@@ -522,21 +518,37 @@ main() {
     gameId="${BASH_REMATCH[5]}"
 
     echo -e \
-     '\n| Game | Console | Genre |' \
-     '\n|------|---------|-------|' \
-     "\n| <a class=\"gameicon-link\" href=\"https://retroachievements.org/game/${gameId}\" target=\"_blank\" rel=\"noopener\">" \
-     "<img class=\"gameicon\" src=\"https://retroachievements.org${gameIconUri}\" alt=\"${gameTitle}\">" \
-     "<span>${gameTitle}</span></a>" \
-     "| ${consoleName}" \
-     "| ${gameGenre} |"
+      '\n| Game | Console | Genre |' \
+      '\n|------|---------|-------|' \
+      "\n| <a class=\"gameicon-link\" href=\"https://retroachievements.org/game/${gameId}\" target=\"_blank\" rel=\"noopener\">" \
+      "<img class=\"gameicon\" src=\"https://retroachievements.org${gameIconUri}\" alt=\"${gameTitle}\">" \
+      "<span>${gameTitle}</span></a>" \
+      "| ${consoleName}" \
+      "| ${gameGenre} |"
+  done
+}
 
+main() {
+  local raUser="$(readEnv rauser)"
+  local raApiKey="$(readEnv raapikey)"
+  [[ -z "${raUser}" || -z "${raApiKey}" ]] && return 1
+
+  local inputFile
+  local baseFilename
+  local rawFile
+  local consoleList=()
+  local sortedConsoleList=()
+  local entryTypeList=(release revision wip demoted cancelled rescore icon badge)
+
+  # quick'n'dirty workaround to create a Game Info Table
+  if [[ "$1" == "--game-table" ]]; then
+    quickGameTable "${*:2}"
     exit 0
   fi
 
   inputFile="$1"
   baseFilename="${inputFile%.*}"
   rawFile="${baseFilename}.raw"
-  finalFile="${baseFilename}-final-article.md"
 
   echo "parsing \"${inputFile}\"... "
   createRawList "$1"
@@ -550,8 +562,8 @@ main() {
   IFS=$'\n' sortedConsoleList=($(sort <<<"${consoleList[*]}"))
   unset IFS
 
-  echo -n "creating the \"${finalFile}\"... "
-  createFinalFile
+  echo -n "creating the \"${baseFilename}-*.md\" files... "
+  createFinalFiles
   echo 'DONE!'
 }
 
