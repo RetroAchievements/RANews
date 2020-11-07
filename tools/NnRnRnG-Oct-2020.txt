@@ -33,7 +33,7 @@ new	16759	SporyTike
 new	16558	Pelouch
 new	13208	multonic
 new	13213	multonic
-new	7212	SporyTike and DanielARP
+new	7212	SporyTike DanielARP
 new	13770	hardt
 new	7132	Kisumebuckets
 new	11896	KloggMonkey
@@ -69,11 +69,11 @@ new	17024	Kisumebuckets
 new	17046	stfN1337
 new	13910	Alfex
 new	14692	wilhitewarrior
-new	11248	BenGhazi and siouxerskate
+new	11248	BenGhazi siouxerskate
 new	6808	mario2188
 new	4305	Bl4h8L4hBl4h
 new	13808	hardt
-new	15981	SherryBirkin and zxmega
+new	15981	SherryBirkin zxmega
 new	17053	Alfex
 new	11364	SnowPin
 new	15086	KloggMonkey

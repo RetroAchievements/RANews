@@ -12,11 +12,10 @@ Here's the list of events that are open to join. This is good way for players to
 
 For more info, check the [Current Competitions and Hall of Fame of RA](https://retroachievements.org/viewtopic.php?t=9014) forum topic.
 
-## Open to Join
 
 These events are open to any community member who wants to particpate.
 
-### Achievement of the Week 2020
+## Achievement of the Week 2020
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=9920>
 - Period: January 2020 - Current
@@ -32,7 +31,7 @@ These events are open to any community member who wants to particpate.
 <a href="#top">:top:</a>
 
 
-### The Big Achievement
+## The Big Achievement
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=9736>
 - Period: January 2020 - Current
@@ -44,7 +43,7 @@ These events are open to any community member who wants to particpate.
 <a href="#top">:top:</a>
 
 
-### The Unwanted
+## The Unwanted
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=11073>
 - Period: July 2020 - Current
@@ -57,7 +56,7 @@ These events are open to any community member who wants to particpate.
 
 <a href="#top">:top:</a>
 
-### Master of the Month 2020
+## Master of the Month 2020
 
 In MoM (Master of the Month) event you submit any game or games you mastered in current month. 
 
@@ -83,7 +82,7 @@ Idea of the event is to stimulate mastering the games you started, play some oth
 <a href="#top">:top:</a>
 
 
-### Simple Monthly Master
+## Simple Monthly Master
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=10753>
 - Period: May 2020 - Current
@@ -99,7 +98,7 @@ Idea of the event is to stimulate mastering the games you started, play some oth
 <a href="#top">:top:</a>
 
 
-### Bad Idea Game
+## Bad Idea Game
 
 - Forum topic: <http://retroachievements.org/viewtopic.php?t=11368>
 - Period: August 2020 - Current
@@ -110,7 +109,7 @@ Idea of the event is to stimulate mastering the games you started, play some oth
 <a href="#top">:top:</a>
 
 
-### RANews Bingo
+## RANews Bingo
 
 The RANews Bingo is always posted in the [Fun](fun) section of RANews, check
 that page to check how it works.
@@ -122,21 +121,3 @@ that page to check how it works.
 
 <a href="#top">:top:</a>
 
-
-## Already Started
-
-These events have been already started, and are not open to join anymore.
-
-
-### RPM 2
-
-- Forum topic: <http://retroachievements.org/viewtopic.php?t=10763>
-- Period: June 2020 - Current
-- Host: {% rauserpic JAM %}
-
-
-### VGM Contest 3
-
-- Forum topic: <http://retroachievements.org/viewtopic.php?t=11665>
-- Period: October 2020 - Current
-- Host: {% rauserpic Rimsala %}

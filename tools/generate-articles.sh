@@ -32,8 +32,6 @@
 # gameId statusCode author
 # ```
 # 
-# Note: multiple authors are separated by a `,` coma
-# 
 # Status codes:
 # ```
 # C = Cancelled
@@ -96,11 +94,11 @@ readonly ENDPOINT='/API/API_GetGame.php'
 declare -A REGEX REVISION_STATUS ART_TYPE
 REGEX=(
   # gameId[*] author
-  [release]='^new[[:space:]]+([0-9]+)(\*)?[[:space:]]+([^[:space:]]+)$'
+  [release]='^new[[:space:]]+([0-9]+)(\*)?[[:space:]]+([^[:space:]]+.*)$'
   # gameId-----^ isRev--^   author------^
 
   # rev gameId statusCode author
-  [revision]='rev[[:space:]]+([0-9]+)[[:space:]]+([cdfnw])[[:space:]]+([^[:space:]]+)'
+  [revision]='rev[[:space:]]+([0-9]+)[[:space:]]+([cdfnw])[[:space:]]+([^[:space:]]+.*)'
   #                gameId-----^    statusCode-----^         author-----^
 
   # res gameId author pointsBefore pointsAfter
@@ -315,43 +313,47 @@ createRawList() {
   sort -o "${rawFile}" "${rawFile}"
 }
 
+parseAuthors() {
+  local authors=( $* )
+  local author
+
+  for author in "${authors[@]}"; do
+    echo -n "{% rauser ${author} %} "
+  done
+}
 
 formatReleaseTable() {
-  # TODO: check if author is a list of authors (coma separated)
   echo \
     "| <a class=\"gameicon-link\" href=\"https://retroachievements.org/game/${gameId}\" target=\"_blank\" rel=\"noopener\">" \
     "<img class=\"gameicon\" src=\"https://retroachievements.org${gameIconUri}\" alt=\"${gameTitle}\">" \
     "<span>${gameTitle}</span></a>" \
-    "| {% rauser ${author} %}" \
+    "| $( parseAuthors "${author}" )" \
     "| ${gameGenre} |"
 }
 
 
 formatRescoreTable() {
-  # TODO: check if author is a list of authors (coma separated)
   echo \
     "| <a class=\"gameicon-link\" href=\"https://retroachievements.org/game/${gameId}\" target=\"_blank\" rel=\"noopener\">" \
     "<img class=\"gameicon\" src=\"https://retroachievements.org${gameIconUri}\" alt=\"${gameTitle}\">" \
     "<span>${gameTitle}</span></a>" \
-    "| {% rauser ${author} %}" \
+    "| $( parseAuthors "${author}" )" \
     "| ${before} | ${after} |"
 }
 
 formatIconTable() {
-  # TODO: check if author is a list of authors (coma separated)
   echo \
     "| <a class=\"gameicon-link\" href=\"https://retroachievements.org/game/${gameId}\" target=\"_blank\" rel=\"noopener\">" \
     "<img class=\"gameicon\" src=\"https://retroachievements.org${gameIconUri}\" alt=\"${gameTitle}\">" \
     "<span>${gameTitle}</span></a>" \
-    "| {% rauser ${author} %}" \
+    "| $( parseAuthors "${author}" )" \
     "| <img class=\"gameicon\" src=\"${before}\" alt=\"old icon\">"
 }
 
 formatBadgesInfo() {
-  # TODO: check if author is a list of authors (coma separated)
   echo -e \
     "\n#### ${gameTitle}\n" \
-    "\n**New badges by {% rauser ${author} %}**\n" \
+    "\n**New badges by $( parseAuthors "${author}" ).**\n" \
     "\n**Previous Badges:**\n\n![before](${before})\n" \
     "\n**Current Badges:**\n\n![after](${after})\n"
 }
@@ -423,6 +425,7 @@ createFinalFiles() {
   local tableHeader
   local destinationFile
 
+  rm -f "${baseFilename}"-{hotcheevs,revisions,art-updates}.md
   for entryType in "${entryTypeList[@]}"; do
 
     case "${entryType}" in

@@ -14,6 +14,6 @@ To win this BINGO you are going to need to play some RetroAchievements! The basi
 
 Each square asks you to do a certain activity, your task is to find a specific achievement on the site that corresponds to that. Then you do the achievement and mark your square off. **Make sure to keep a list of which achievements you use for what!**
 
-The first 3 players to get a bingo and send it to {% rauser StingX2 %} on Site DM or Discord will be listed in next issue as a winner!
+The first player to get a bingo and send it to {% rauser StingX2 %} on Site DM or Discord will be listed in next issue as a winner!
 
 **Bonus:** The first person to mark off every square on their bingo card with a different achievement will also be listed in the winners of next issue
