@@ -10,7 +10,7 @@ order: 202010-80
 ## September's Bingo Winner
 
 <div class="bingo-winner">
-  <img class="bingo-trophy" src="img/trophy.png" alt="trophy" />
+  <img class="bingo-trophy" src="../../img/trophy.png" alt="trophy" />
   {% rauserpic Kisumebuckets %}
 </div>
 

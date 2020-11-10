@@ -10,7 +10,7 @@ order: 202009-80
 ## August's Bingo Winner
 
 <div class="bingo-winner">
-  <img class="bingo-trophy" src="img/trophy.png" alt="trophy" />
+  <img class="bingo-trophy" src="../../img/trophy.png" alt="trophy" />
   {% rauserpic Whynot15 %}
 </div>
 

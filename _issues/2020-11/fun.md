@@ -4,7 +4,15 @@ layout: article
 author: StingX2
 category: Fun
 order: 202011-50
+toc: true
 ---
+
+## October's Bingo Winner
+
+<div class="bingo-winner">
+  <img class="bingo-trophy" src="../../img/trophy.png" alt="trophy" />
+  {% rauserpic Whynot15 %}
+</div>
 
 ## Bingo
 

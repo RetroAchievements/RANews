@@ -115,7 +115,7 @@ The RANews Bingo is always posted in the [Fun](fun) section of RANews, check
 that page to check how it works.
 
 - Previous Winners:
-  - October: no winner.
+  - October: {% rauserpic Whynot15 %}
   - September: {% rauserpic Kisumebuckets %}
   - August: {% rauserpic Whynot15 %}
 
