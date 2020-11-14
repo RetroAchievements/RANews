@@ -88,7 +88,7 @@ Idea of the event is to stimulate mastering the games you started, play some oth
 - Period: May 2020 - Current
 - Host: {% rauserpic Hotscrock %}
 - Previous Winners:
-  - August: {% rauserpic Xymjak %}
+  - October: {% rauserpic Xymjak %}
   - September: {% rauserpic Xeinok %}
   - August: {% rauserpic Xymjak %}
   - July: {% rauserpic BahamutVoid %}
