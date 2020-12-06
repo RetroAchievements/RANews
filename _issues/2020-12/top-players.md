@@ -322,7 +322,7 @@ Given period: November 1st to November 30th, 2020.
 - 🇺🇸 JigokuNoBanken
 - 🇨🇦 TerrorVan
 - 🇨🇭 Minibits
-- 🇮🇱 BahamutVoid
+- 🇮🇪 BahamutVoid
 - 🇺🇸 Kayesay
 - 🇧🇷 AzuchiAkeshi
 - 🇬🇧 Pudpod
