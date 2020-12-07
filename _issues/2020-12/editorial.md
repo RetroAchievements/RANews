@@ -57,7 +57,7 @@ If you look at each one of these actions in isolation, you may not perceive them
 
 - When you suggest new achievements in a game's forum topic, someone can pick those ideas and implement them. And the whole community will be able to enjoy that work.
 
-- When you warn people to stop asking for copyright material in our forums you are contributing to the longevity of the project, keeping us away from legal problems.
+- When you warn people to stop asking for copyrighted material in our forums you are contributing to the longevity of the project, keeping us away from legal problems.
 
 I could keep with more examples, but I think you got the idea, right?
 
