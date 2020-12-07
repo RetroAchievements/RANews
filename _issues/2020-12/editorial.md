@@ -29,7 +29,7 @@ Alright, this time you probably noticed the 3 Pacmans, but I'm sure you still se
 
 By checking how long is that Gestalt's wikipedia page it's noticeable that there's a lot more to talk about it, but I think you got the idea: we perceive the whole, easier than we perceive each of its parts.
 
-What I actually want to highlight here is when we do NOT perceive the whole. And it's usually happens when **we** or **the things we do** are the parts of the whole.
+What I actually want to highlight here is when we do NOT perceive the whole. And it usually happens when **we** or **the things we do** are the parts of the whole.
 
 If you're reading this, I'm assuming you are part of the RetroAchievements community. And the things you do here are also parts of it.
 
