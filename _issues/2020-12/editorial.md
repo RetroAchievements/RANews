@@ -2,7 +2,7 @@
 issue: 2020-12
 layout: article
 category: Editorial
-title: "Gestalt applied to RetroAchievements"
+title: "Gestalt applied to Retro Achievements"
 author: meleu
 order: 202012-10
 ---
