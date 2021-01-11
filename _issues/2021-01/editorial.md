@@ -121,7 +121,9 @@ icons and achievement badges is constantly being improved, as you can see in
 the [Art Updates](art-updates) section of [EACH](../2020-12/art-updates). [RANEWS](../2020-11/art-updates). [ISSUE](../2020-10/art-updates). [BEING](../2020-09/art-updates). [RELEASED](../2020-08/art-updates).
 
 - {% rauser KickMeElmo %} linked a ridiculous amount of MSU-1 ROMs for those who
-enjoy it. And he also keeps a [big repository with many MSU-1 patches](https://keybase.pub/kickmeelmo/ROM%20patches/MSU-1/).
+enjoy it. And he also keeps a [big repository with many MSU-1 patches](https://keybase.pub/kickmeelmo/ROM%20patches/MSU-1/). If you're wondering what MSU-1 is, it's essentially 
+a software that simulates the existence of a CD attachment for the SNES. As a sample,
+check what it's capable to do with the soundtrack of Mega Man X [in this video](https://youtu.be/nZ2Se5e0d7o?t=220).
 
 - {% rauser StingX2 %} started [The Unwanted](https://retroachievements.org/viewtopic.php?t=11073)
 event, focused on playing and fixing underplayed sets. Which surely is helping
