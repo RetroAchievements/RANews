@@ -1,5 +1,6 @@
 ---
 layout: default
+order: 0
 ---
 
 <div class="issues-list-container">
@@ -10,17 +11,17 @@ layout: default
 
   <ul>
     {% for issue in issues %}
-      {% if issue != blank %}
-        <a href="{{ site.baseurl }}/issues/{{ issue }}">
-          <li>
-            <h3>
-              <img alt="cover" src="{{ site.baseurl }}/issues/{{ issue }}/img/cover.png">
-              RANews
-              {{ issue }}
-            </h3>
-          </li>
-        </a>
-      {% endif %}
+    {% if issue != blank %}
+    <a href="{{ site.baseurl }}/issues/{{ issue }}">
+      <li>
+        <h3>
+          <img alt="cover" src="{{ site.baseurl }}/issues/{{ issue }}/img/cover.png">
+          RANews
+          {{ issue }}
+        </h3>
+      </li>
+    </a>
+    {% endif %}
     {% endfor %}
   </ul>
 

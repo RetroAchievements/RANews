@@ -1,4 +1,10 @@
 <head>
+  <meta charset="UTF-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <!-- <title>{{ page.title }}</title> -->
+  {% seo %}
+  {% feed_meta %}
+
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177315439-1"></script>
   <script>
@@ -8,32 +14,6 @@
 
     gtag('config', 'UA-177315439-1');
   </script>
-
-  <meta charset="UTF-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>{{ site.title }}
-    |
-    {{ site.description }}</title>
-
-  <!-- Primary Meta Tags -->
-  <meta name="title" content="{{ site.title }} | {{ site.description }}">
-  <meta content="Check what's happening on the RetroAchievements scene." name="description">
-
-  <!-- Open Graph / Facebook -->
-  <meta content="website" property="og:type">
-  <meta property="og:url" content="{{ site.url }}">
-  <meta property="og:title" content="{{ site.title }} | {{ site.description }}">
-  <meta content="Check what's happening on the RetroAchievements scene." property="og:description">
-  <meta content="img/share.png" property="og:image">
-
-  <!-- Twitter -->
-  <meta content="summary_large_image" property="twitter:card">
-  <meta property="twitter:url" content="{{ site.url }}">
-  <meta property="twitter:title" content="{{ site.title }} | {{ site.description }}">
-  <meta content="Check what's happening on the RetroAchievements scene." property="twitter:description">
-  <meta content="img/share.png" property="twitter:image">
-
-  <!-- <base href="{{ site.url }}"> -->
 
   <link href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.gstatic.com">
