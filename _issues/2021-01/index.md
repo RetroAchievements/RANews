@@ -21,7 +21,7 @@ instead do our best to stay alive during this pandemic thing.
 
 If you're reading this, congratulations on surviving 2020! :trophy:
 
-And please keep on it. I whish you all a great year and #StaySafe.
+And please keep on it. I wish you all a great year and #StaySafe.
 
 Now, let's check what to expect from this RANews issue.
 
