@@ -1,13 +1,13 @@
 ---
-issue: 2020-12
+issue: 2021-01
 layout: article
 author: StingX2
 category: Fun
-order: 202012-50
+order: 202101-50
 toc: true
 ---
 
-## November's Bingo Winner
+## December's Bingo Winner
 
 <div class="bingo-winner">
   <img class="bingo-trophy" src="../../img/trophy.png" alt="trophy" />
