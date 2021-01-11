@@ -93,7 +93,7 @@ set in the game's page - by {% rauser meleu %}
 
 ## Community
 
-- I great improvement in the community part happened after we published the
+- A great improvement in the community part happened after we published the
 [RetroAchievements Manifesto](https://docs.retroachievements.org/RetroAchievements-Manifesto/).
 Where we put clearly who we are, what we do and what we value. It also makes very clear
 that disrespectful interactions in this community is not tolerated.

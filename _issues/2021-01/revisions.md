@@ -191,7 +191,7 @@ In this article we're going to see all the achievement sets that got revisions a
 
 | Game | Rescored By | Points Before | Points After |
 |------|-----------|:-------------:|:------------:|
-| <a class="gameicon-link" href="https://retroachievements.org/game/10394" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/024917.png" alt="Ms. Pac-Man: Maze Madness"> <span>Ms. Pac-Man: Maze Madness</span></a> | {% rauser Kisumebuckets %}  | 325 | 300 |
+| <a class="gameicon-link" href="https://retroachievements.org/game/10394" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/024917.png" alt="Ms. Pac-Man: Maze Madness"> <span>Ms. Pac-Man: Maze Madness</span></a> | {% rauser Kisumebuckets %}  | 325 | 380 |
 
 <a href="#toc">:top:</a>
 
