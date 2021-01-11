@@ -55,9 +55,9 @@ Also a special thanks to:
 
 The two big heroes, tied for first with 1,288 points were
 - {% rauserpic televandalist %}
-- {% rauserpic Snowpin %}
+- {% rauserpic SnowPin %}
 
-Our top ticket closer, closing 181 tickets, was {% rauserpic Snowpin %}.
+Our top ticket closer, closing 181 tickets, was {% rauserpic SnowPin %}.
 
 The person who cleared the most games of tickets, resolving the tickets of 48 games, was {% rauserpic televandalist %}.
 
@@ -71,7 +71,7 @@ The person who added the most RP, with Rich Presence added to 21 games, was {% r
 ### Points Earned
 
 1. **{% rauserpic televandalist %} - 1288 points!**
-1. **{% rauserpic Snowpin %} - 1288 points!**
+1. **{% rauserpic SnowPin %} - 1288 points!**
 3. {% rauserpic wilhitewarrior %} - 1064 points
 4. {% rauserpic Kisumebuckets %} - 938 points
 5. {% rauserpic BenGhazi %} - 762 points
@@ -131,7 +131,7 @@ The person who added the most RP, with Rich Presence added to 21 games, was {% r
 ### Games Cleared of Tickets
 
 1. **{% rauserpic televandalist %} - 48 games!**
-2. {% rauserpic Snowpin %} - 37 games
+2. {% rauserpic SnowPin %} - 37 games
 3. {% rauserpic wilhitewarrior %} - 30 games
 4. {% rauserpic JAM %} - 27 games
 5. {% rauserpic Hotscrock %} - 26 games
