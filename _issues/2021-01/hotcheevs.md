@@ -254,7 +254,7 @@ This is the list of brand new sets released in December/2020 grouped by systems/
 
 | Game | Author | Genre |
 |------|--------|-------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/10071" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/039812.png" alt="Terminator, The"> <span>Terminator, The</span></a> | {% rauser schnick1980 %}  | Platform, Shooter |
+| <a class="gameicon-link" href="https://retroachievements.org/game/10071" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/039812.png" alt="Terminator, The"> <span>Terminator, The</span></a> | {% rauser shnick1980 %}  | Platform, Shooter |
 
 <a href="#toc">:top:</a>
 
