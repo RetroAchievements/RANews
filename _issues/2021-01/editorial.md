@@ -114,7 +114,7 @@ interviews with brazilian achievement creators and more.
 closing/solving a big amount of tickets. It was so freaking cool that it deserved
 a [dedicated page in this very edition of RANews](devember).
 
-- {% rauser KingS1zzle %} proposed that community members with computer graphics
+- {% rauser BahamutVoid %} had the idea and {% rauser KingS1zzle %} proposed that community members with computer graphics
 skills could volunteer to improve the imagery of the achievement sets. We created
 a process for it in our discord server and now the overall quality of the game
 icons and achievement badges is constantly being improved, as you can see in
