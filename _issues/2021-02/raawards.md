@@ -33,6 +33,10 @@ We also listed all of the award winners here on this hub:
 
 ## People
 
+### Most Prolific Achievement Creator
+
+{% rauserpic televandalist %}
+
 ### Help Me Hero Award
 
 {% rauserpic KickMeElmo %}
@@ -64,6 +68,55 @@ We also listed all of the award winners here on this hub:
 ### Best Scott
 
 {% rauserpic Scott %}
+
+
+## Miscelaneous
+
+### Best RANews Cover
+
+![cover](../2020-11/img/cover.png)
+
+By {% rauserpic televandalist %}
+
+### Best Event of 2020
+
+[The Unwanted](https://retroachievements.org/viewtopic.php?t=11073)
+
+Hosted by {% rauserpic StingX2 %} and {% rauserpic televandalist %}
+
+### Best Dev Feature
+
+[OrNext](https://github.com/RetroAchievements/RAIntegration/pull/524)
+
+By {% rauserpic Jamiras %}
+
+
+### Best New Supported Console
+
+[MSX](https://retroachievements.org/gameList.php?c=29)
+
+By libretro team, {% rauserpic Jamiras %} and {% rauserpic wilhitewarrior %}
+
+
+### Best New Website Feature
+
+[Resetting individual achievements](https://github.com/RetroAchievements/RAWeb/pull/483).
+
+By {% rauserpic meleu %}
+
+### Best New Community Feature
+
+[RANews](https://news.retroachievements.org/)
+
+By:
+
+- {% rauserpic meleu %}, web designer/developer.
+- {% rauserpic StingX2 %}, gathering content.
+- {% rauserpic televandalist %}, creating the covers.
+- {% rauserpic Hotscrock %} and {% rauserpic Searo %}, collecting many useful/interesting about the released sets, revisions, rescores, and art updates.
+- {% rauserpic lilbud %}, created the RANews logo.
+- {% rauserpic luchaos %}, took care of the network wizardry side of things.
+- And also all those who wrote something for RANews.
 
 
 ## Best Achievement Sets by Console
