@@ -530,10 +530,15 @@ quickGameTable() {
   done
 }
 
+getCredentials() {
+  echo "Missing username and/or api key in the '.env' file" 1>&2
+  exit 1
+}
+
 main() {
   local raUser="$(readEnv rauser)"
   local raApiKey="$(readEnv raapikey)"
-  [[ -z "${raUser}" || -z "${raApiKey}" ]] && return 1
+  [[ -z "${raUser}" || -z "${raApiKey}" ]] && getCredentials
 
   local inputFile
   local baseFilename

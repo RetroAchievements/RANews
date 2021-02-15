@@ -1,0 +1,211 @@
+
+
+new = new sets
+GameID | User(s)
+
+-------
+
+rev = revisions
+GameID | Status | User(s)
+
+C = Cancelled
+D = Demotion (Completed)
+F = Finished
+W = WIP
+
+-------
+
+res = rescores
+GameID | User(s) | Before | After
+
+-------
+
+art = badge and icons
+GameID | Type | User(s) | Before |After
+
+I = Icon
+B = Badge
+
+-----------------------------------------------------------------------------
+
+new	4288	TeddyWestside
+new	17194	Alfex
+new	7304	voiceofautumn
+new	4958	SnowPin
+new	17346	KingS1zzle
+new	5537	voiceofautumn
+new	2298	hardt
+new	17359	Pudpod
+new	7578	televandalist
+new	4102	DarknessZedzi
+new	12713	voiceofautumn
+new	757	voiceofautumn
+new	1247	Suffa28
+new	4063	BlotchJBMR
+new	14527	LeFrench
+new	4747	Ryudo
+new	14431	voiceofautumn
+new	9931	SnowPin
+new	2882	TeddyWestside
+new	4060	voiceofautumn
+new	2434	voiceofautumn
+new	10124	SlashTangent
+new	17105	monkeytoung
+new	16556	Infernox
+new	1634	g0dm0d3
+new	2809	Javisaur
+new	17367	Kisumebuckets
+new	12648	Lewis50248
+new	14520	Benjeta
+new	13048	Bearfax62
+new	7205	televandalist
+new	13076	BlotchJBMR
+new	14356	SnowPin
+new	1186	wilhitewarrior
+new	4455	wilhitewarrior
+new	5699	Alfex
+new	13366	BlotchJBMR
+new	726	voiceofautumn
+new	7762	voiceofautumn
+new	12761	BrunoKiko
+new	14853	pinguupinguu
+new	13825	voiceofautumn
+new	6732	voiceofautumn
+new	10407	blendedsea
+new	6114	voiceofautumn
+new	17371	MrOwnership
+new	611	deathbychipmunk
+new	7215	Alfex
+new	8421	g0dm0d3
+new	5939	Griffin
+new	13814	hardt
+new	1809	g0dm0d3
+new	6378	jabman696
+new	2587	meido Daroachie
+new	17376	pinguupinguu
+new	14718	voiceofautumn
+new	17391	g0dm0d3
+new	5021	SnowPin
+new	6670	voiceofautumn
+new	17392	MrOwnership
+new	7385	SnowPin
+new	6041	Keltron3030
+new	17395	SnowPin
+new	7404	SlashTangent
+new	73	BrunoKiko
+new	13819	hardt
+new	5531	Pudpod
+new	17136	BlotchJBMR
+new	4454	wilhitewarrior
+new	1184	wilhitewarrior
+new	2311	hardt
+new	17401	Kayesay
+new	16205	Alfex
+new	17104	monkeytoung
+new	14206	televandalist
+new	5339	wilhitewarrior
+new	15541	MGNS8M
+new	6036	televandalist
+new	10714	BrunoKiko
+new	11301	NgNvNn
+new	7611	stfN1337
+new	10125	SlashTangent
+new	16160	Bearfax62
+new	15724	soopercool101
+new	17409	pinguupinguu
+new	427	wilhitewarrior
+new	11765	hardt
+new	17412	MrOwnership
+new	9596	voiceofautumn
+new	17429	voiceofautumn
+
+
+rev	10434	F	TheJediSonic
+rev	5594	C	Riku55
+rev	1651	W	psyduck
+rev	3	W	JAM
+rev	13953	F	SporyTike
+rev	4836	W	theanxietybuster
+rev	1446	F	Kisumebuckets
+rev	810	W	asnescko
+rev	12899	W	BenGhazi
+rev	1446	W	JAM
+rev	1961	W	JAM
+rev	4320	W	gde
+rev	15	W	MGNS8M
+rev	68	W	televandalist
+rev	510	W	Infernox
+rev	14342	W	FinalTheory
+rev	6700	F	televandalist
+rev	4855	F	Shmelyoff
+rev	10003	F	SporyTike	
+rev	6212	F	voiceofautumn
+rev	767	F	SlashTangent
+rev	10120	F	SlashTangent
+rev	472	N	herrshaun
+rev 	6956	N	SnowPin
+rev	580	N	BenGhazi
+
+
+res	10666	StingX2	400	330
+res	6075	StingX2	400	385
+res	729	StingX2	400	425
+res	733	StingX2	400	290
+res	7146	StingX2	400	445
+res	10679	Xymjak	525	750
+res	12714	StingX2	400	270
+res	6834	StingX2	400	500
+res	6140	voiceofautumn	400	311
+res	6158	voiceofautumn	400	246
+res	6190	voiceofautumn	395	274
+res	6212	voiceofautumn	395	280
+res	6092	voiceofautumn	400	291
+res	7158	StingX2	400	315
+res	4204	StingX2	400	390
+res	2454	StingX2	330	250
+res	10204	StingX2	338	371
+res	11673	StingX2	111	116
+res	6772	StingX2	139	145
+res	4703	StingX2	414	449
+res	14786 	Xymjak	430	590
+
+
+art	4211	I	Javisaur	https://retroachievements.org/Images/002479.png	https://retroachievements.org/Images/041061.png
+art	10210	B	Raykusen	https://user-images.githubusercontent.com/53956327/104113538-79d03080-52d9-11eb-93fe-38dece3f23b7.png	https://user-images.githubusercontent.com/53956327/104113543-7c328a80-52d9-11eb-842a-2194f7cbe998.png
+art	13336	B	MaddieKittyTV	https://user-images.githubusercontent.com/53956327/104113540-7b99f400-52d9-11eb-86cc-8ca373730c6a.png	https://user-images.githubusercontent.com/53956327/104113544-7d63b780-52d9-11eb-8eb6-670a153947b0.png
+art	12524	I	Javisaur	https://retroachievements.org/Images/016324.png	https://retroachievements.org/Images/041105.png
+art	8702	I	Javisaur	https://retroachievements.org/Images/015433.png	https://retroachievements.org/Images/041118.png
+art	14527	I	WateredWillow	https://retroachievements.org/Images/033194.png	https://retroachievements.org/Images/041124.png
+art	664	I	Krylan	https://retroachievements.org/Images/017532.png	https://retroachievements.org/Images/041125.png
+art	706	B	WateredWillow	https://user-images.githubusercontent.com/53956327/104113541-7b99f400-52d9-11eb-817a-1eb9e438dcab.png	https://user-images.githubusercontent.com/53956327/104113545-7d63b780-52d9-11eb-808a-c8d772edaf10.png
+art	10426	I	GameZone	https://retroachievements.org/Images/039804.png	https://retroachievements.org/Images/041164.png
+art	14431	I	deng	https://retroachievements.org/Images/041102.png	https://retroachievements.org/Images/041176.png
+art	2087	I	Javisaur	https://retroachievements.org/Images/007729.png	https://retroachievements.org/Images/041177.png
+art	769	I	Raykusen	https://retroachievements.org/Images/001797.png	https://retroachievements.org/Images/041178.png
+art	5699	I	MaddieKittyTV	https://retroachievements.org/Images/041215.png	https://retroachievements.org/Images/041273.png
+art	17194	I	MaddieKittyTV	https://retroachievements.org/Images/041216.png	https://retroachievements.org/Images/041274.png
+art	4855	B	Shmelyoff	https://user-images.githubusercontent.com/53956327/104830893-ffb42480-5861-11eb-80be-19297e869dec.png	https://user-images.githubusercontent.com/53956327/104830896-02167e80-5862-11eb-99ff-e948171ee611.png
+art	769	B	Raykusen	https://user-images.githubusercontent.com/53956327/104830894-00e55180-5862-11eb-968c-bd4a09d90b95.png	https://user-images.githubusercontent.com/53956327/104830897-02167e80-5862-11eb-9cdd-e264bf2f6a75.png
+art	14721	I	blendedsea	https://retroachievements.org/Images/028453.png	http://retroachievements.org/Images/041338.png
+art	10202	B	Raykusen	https://user-images.githubusercontent.com/53956327/104830895-017de800-5862-11eb-9fe0-7037c35576e0.png	https://user-images.githubusercontent.com/53956327/104830898-02af1500-5862-11eb-9679-4f005d37e9b0.png
+art	17073	I	SnowPin	https://retroachievements.org/Images/041217.png	https://retroachievements.org/Images/041392.png
+art	11200	I	WateredWillow	https://retroachievements.org/Images/015193.png	https://retroachievements.org/Images/041427.png
+art	10154	I	WateredWillow	https://retroachievements.org/Images/011143.png	https://retroachievements.org/Images/041428.png
+art	4723	I	Raykusen	https://retroachievements.org/Images/034248.png	https://retroachievements.org/Images/041429.png
+art	554	I	Raykusen	https://retroachievements.org/Images/038434.png	https://retroachievements.org/Images/041431.png
+art	4879	I	Raykusen	https://retroachievements.org/Images/008421.png	https://retroachievements.org/Images/041430.png
+art	3653	I	Javisaur	https://retroachievements.org/Images/008421.png	https://retroachievements.org/Images/041436.png
+art	34	I	MrOwnership	https://retroachievements.org/Images/001183.png	https://retroachievements.org/Images/041447.png
+art	17138	I	Whynot15	https://retroachievements.org/Images/040089.png	https://retroachievements.org/Images/041448.png
+art	1984	I	SporyTike	https://retroachievements.org/Images/008342.png	https://retroachievements.org/Images/041479.png
+art	949	I	Javisaur	https://retroachievements.org/Images/006454.png	https://retroachievements.org/Images/041480.png
+art	17391	I	Javisaur	https://retroachievements.org/Images/041441.png	https://retroachievements.org/Images/041531.png
+art	4723	B	Raykusen	https://user-images.githubusercontent.com/53956327/105643350-652a9580-5ea0-11eb-91c8-3183ba4206d0.png	https://user-images.githubusercontent.com/53956327/105643352-678cef80-5ea0-11eb-983c-5c1c594d1cd8.png
+art	6670	I	KingS1zzle	https://retroachievements.org/Images/041492.png	https://retroachievements.org/Images/041578.png
+art	17395	I	KingS1zzle	https://retroachievements.org/Images/041536.png	https://retroachievements.org/Images/041589.png
+art	17136	I	Javisaur	https://retroachievements.org/Images/041590.png	https://retroachievements.org/Images/041643.png
+art	559	I	GameZone	https://retroachievements.org/Images/000661.png	https://retroachievements.org/Images/041644.png
+art	993	I	SpaceRaton	https://retroachievements.org/Images/002225.png	https://retroachievements.org/Images/041707.png
+art	637	B	Raykusen	https://user-images.githubusercontent.com/53956327/106330238-a4bafe00-6261-11eb-899f-1a094536b598.png	https://user-images.githubusercontent.com/53956327/106330242-a684c180-6261-11eb-9fba-242355ddf785.png
+art	158	I	Javisaur	https://retroachievements.org/Images/023205.png	https://retroachievements.org/Images/041743.png
+art	7611	I	Javisaur	https://retroachievements.org/Images/038706.png	https://retroachievements.org/Images/041750.png
