@@ -56,6 +56,7 @@ These events are open to any community member who wants to particpate.
     - Month 4: {% rauserpic freezestar %}
     - Month 5: {% rauserpic Kisumebuckets %}
     - Month 6: {% rauserpic deng %}
+    - Month 7: {% rauserpic multonic %}, {% rauserpic Whynot15 %} and {% rauserpic SlashTangent %}
 
 
 <a href="#top">:top:</a>

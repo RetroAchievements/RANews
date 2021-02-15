@@ -270,6 +270,14 @@ We also listed all of the award winners here on this hub:
 | <a class="gameicon-link" href="https://retroachievements.org/game/14599" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/036542.png" alt="Dicing Knight."> <span>Dicing Knight.</span></a> | WonderSwan | Rogue-like |
 
 
+### Best Magnavox Odyssey 2 Set
+
+| Game | Console | Genre | 
+|------|---------|-------| 
+| <a class="gameicon-link" href="https://retroachievements.org/game/17314" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/040603.png" alt="Math-A-Magic! & Echo!"> <span>Math-A-Magic! & Echo!</span></a> | Magnavox Odyssey 2 | Educational |
+
+
+
 ## Best Achievements Sets - Other Categories
 
 ### Best Set By A Jr Dev
