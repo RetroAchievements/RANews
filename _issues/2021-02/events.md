@@ -48,7 +48,7 @@ These events are open to any community member who wants to particpate.
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=11073>
 - Period: July 2020 - Current
-- Host: {% rauserpic StingX2 %}
+- Host: {% rauserpic StingX2 %} and {% rauserpic televandalist %}
 - Previous Winners:
     - Month 1: {% rauserpic guineu %}
     - Month 2: {% rauserpic guineu %}
