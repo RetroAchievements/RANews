@@ -9,7 +9,7 @@ toc: true
 
 ## Intro
 
-This is the list of brand new sets released in January/2020 grouped by systems/consoles.
+This is the list of brand new sets released in January/2021 grouped by systems/consoles.
 
 ## New Sets Released
 
