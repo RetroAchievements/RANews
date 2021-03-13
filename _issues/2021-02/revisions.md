@@ -9,7 +9,7 @@ toc: true
 
 ## Intro
 
-In this article we're going to see all the achievement sets that got revisions and/or rescores in January/2020.
+In this article we're going to see all the achievement sets that got revisions and/or rescores in January/2021.
 
 ## Revisions
 
