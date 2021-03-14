@@ -14,7 +14,7 @@ toc: true
 
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/13932" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042346.png" alt="Pacman"> <span>Pacman</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/023768.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/13932" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042346.png" alt="Pacman"> <span>Pacman</span></a> | {% rauser CaptainScarLeg %}  | <img class="gameicon" src="https://retroachievements.org/Images/023768.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
