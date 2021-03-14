@@ -48,7 +48,7 @@ You also get the right to make one more request for each year you are a member o
 | Master System | 46 | Wonder Boy |
 | Genesis | 213 | ToeJam and Earl 2 |
 | Sega CD | 21 | Secret of Monkey Island |
-| Sega 32X | 10 | Star Wars Arcade |
+| Sega 32X | 10 |Amazing Spider-Man, The: Web of Fire |
 | Sega Saturn | 47 | Guardian Heroes |
 | TG16 | 56 | Neutopia II |
 | PS1 | 330 | Alundra |
