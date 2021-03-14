@@ -14,7 +14,17 @@ toc: true
 
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/17138" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041448.png" alt="King's Quest II: Romancing the Throne"> <span>King's Quest II: Romancing the Throne</span></a> | {% rauser Whynot15 %}  | <img class="gameicon" src="https://retroachievements.org/Images/040089.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/13932" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042346.png" alt="Pacman"> <span>Pacman</span></a> | {% rauser WaterredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/023768.png" alt="old icon">
+
+<a href="#toc">:top:</a>
+
+
+### Arcade
+
+
+| Game | Icon By | Icon Before |
+|------|---------|-------------|
+| <a class="gameicon-link" href="https://retroachievements.org/game/12514" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042097.png" alt="Toki"> <span>Toki</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/035653.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
@@ -24,7 +34,10 @@ toc: true
 
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/4211" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041061.png" alt="Miracle Adventure of Esparks: Ushinawareta Seiseki Perivron"> <span>Miracle Adventure of Esparks: Ushinawareta Seiseki Perivron</span></a> | {% rauser Javisaur %}  | <img class="gameicon" src="https://retroachievements.org/Images/002479.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/2569" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042092.png" alt="Barbie: Game Girl"> <span>Barbie: Game Girl</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/005756.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/5955" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042112.png" alt="Bust-A-Move 3 DX"> <span>Bust-A-Move 3 DX</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/005238.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/521" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041972.png" alt="Metroid II: Return of Samus"> <span>Metroid II: Return of Samus</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/010578.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/6319" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042099.png" alt="Spot: The Cool Adventure \| McDonaldland"> <span>Spot: The Cool Adventure \| McDonaldland</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/005388.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
@@ -34,13 +47,11 @@ toc: true
 
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/6670" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041578.png" alt="Digimon Racing"> <span>Digimon Racing</span></a> | {% rauser KingS1zzle %}  | <img class="gameicon" src="https://retroachievements.org/Images/041492.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/4879" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041430.png" alt="Fire Emblem: The Binding Blade"> <span>Fire Emblem: The Binding Blade</span></a> | {% rauser Raykusen %}  | <img class="gameicon" src="https://retroachievements.org/Images/008421.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/554" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041431.png" alt="Fire Emblem: The Blazing Blade"> <span>Fire Emblem: The Blazing Blade</span></a> | {% rauser Raykusen %}  | <img class="gameicon" src="https://retroachievements.org/Images/038434.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/769" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041178.png" alt="Kirby & The Amazing Mirror"> <span>Kirby & The Amazing Mirror</span></a> | {% rauser Raykusen %}  | <img class="gameicon" src="https://retroachievements.org/Images/001797.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/3653" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041436.png" alt="Klonoa: Empire of Dreams"> <span>Klonoa: Empire of Dreams</span></a> | {% rauser Javisaur %}  | <img class="gameicon" src="https://retroachievements.org/Images/004468.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/559" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041644.png" alt="Legend of Zelda, The: The Minish Cap"> <span>Legend of Zelda, The: The Minish Cap</span></a> | {% rauser GameZone %}  | <img class="gameicon" src="https://retroachievements.org/Images/000661.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/4723" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041429.png" alt="Medabots: Metabee Version"> <span>Medabots: Metabee Version</span></a> | {% rauser Raykusen %}  | <img class="gameicon" src="https://retroachievements.org/Images/034248.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/12899" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041754.png" alt="~Bonus~ Legend of Zelda, The: A Link to the Past & Four Swords"> <span>~Bonus~ Legend of Zelda, The: A Link to the Past & Four Swords</span></a> | {% rauser BenGhazi %}  | <img class="gameicon" src="https://retroachievements.org/Images/017996.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/15623" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042093.png" alt="~Hack~ Pokemon - Der Erif \| FireRed Backwards"> <span>~Hack~ Pokemon - Der Erif \| FireRed Backwards</span></a> | {% rauser Komojo %}  | <img class="gameicon" src="https://retroachievements.org/Images/030177.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/575" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042088.png" alt="Mega Man Battle Network"> <span>Mega Man Battle Network</span></a> | {% rauser Raykusen %}  | <img class="gameicon" src="https://retroachievements.org/Images/038242.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/515" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042054.png" alt="Pokemon - FireRed Version"> <span>Pokemon - FireRed Version</span></a> | {% rauser BlazingSpade %}  | <img class="gameicon" src="https://retroachievements.org/Images/001915.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/788" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042055.png" alt="Pokemon - LeafGreen Version"> <span>Pokemon - LeafGreen Version</span></a> | {% rauser BlazingSpade %}  | <img class="gameicon" src="https://retroachievements.org/Images/008035.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
@@ -50,27 +61,8 @@ toc: true
 
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/14431" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041176.png" alt="~Hack~ Pokemon - Crystal Kaizo"> <span>~Hack~ Pokemon - Crystal Kaizo</span></a> | {% rauser deng %}  | <img class="gameicon" src="https://retroachievements.org/Images/041102.png" alt="old icon">
-
-<a href="#toc">:top:</a>
-
-
-### Game Gear
-
-
-| Game | Icon By | Icon Before |
-|------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/12524" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041105.png" alt="Tama and Friends Sanchoume Kouen: Tamalympic"> <span>Tama and Friends Sanchoume Kouen: Tamalympic</span></a> | {% rauser Javisaur %}  | <img class="gameicon" src="https://retroachievements.org/Images/016324.png" alt="old icon">
-
-<a href="#toc">:top:</a>
-
-
-### Intellivision
-
-
-| Game | Icon By | Icon Before |
-|------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/17395" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041589.png" alt="Advanced Dungeons & Dragons: Cloudy Mountain"> <span>Advanced Dungeons & Dragons: Cloudy Mountain</span></a> | {% rauser KingS1zzle %}  | <img class="gameicon" src="https://retroachievements.org/Images/041536.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/5939" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042348.png" alt="Adventures of Elmo in Grouchland, The"> <span>Adventures of Elmo in Grouchland, The</span></a> | {% rauser Griffin %}  | <img class="gameicon" src="https://retroachievements.org/Images/041302.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/16386" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041842.png" alt="~Homebrew~ Piecrust"> <span>~Homebrew~ Piecrust</span></a> | {% rauser deng %}  | <img class="gameicon" src="https://retroachievements.org/Images/035252.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
@@ -80,7 +72,8 @@ toc: true
 
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/10426" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041164.png" alt="Double Dragon"> <span>Double Dragon</span></a> | {% rauser GameZone %}  | <img class="gameicon" src="https://retroachievements.org/Images/039804.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/10554" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042113.png" alt="Castle of Illusion starring Mickey Mouse"> <span>Castle of Illusion starring Mickey Mouse</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/022261.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/14469" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042239.png" alt="~Homebrew~ Picross"> <span>~Homebrew~ Picross</span></a> | {% rauser deng %}  | <img class="gameicon" src="https://retroachievements.org/Images/028847.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
@@ -90,8 +83,8 @@ toc: true
 
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/158" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041743.png" alt="Dragon Ball Z: Buyuu Retsuden"> <span>Dragon Ball Z: Buyuu Retsuden</span></a> | {% rauser Javisaur %}  | <img class="gameicon" src="https://retroachievements.org/Images/023205.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/34" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041447.png" alt="Rocket Knight Adventures"> <span>Rocket Knight Adventures</span></a> | {% rauser MrOwnership %}  | <img class="gameicon" src="https://retroachievements.org/Images/001183.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/6718" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042059.png" alt="Barney's Hide and Seek Game"> <span>Barney's Hide and Seek Game</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/015185.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/4514" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042236.png" alt="WWF Super WrestleMania"> <span>WWF Super WrestleMania</span></a> | {% rauser KingS1zzle %}  | <img class="gameicon" src="https://retroachievements.org/Images/005350.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
@@ -101,10 +94,8 @@ toc: true
 
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/17391" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041531.png" alt="~Homebrew~ ~Prototype~ The Wit.nes"> <span>~Homebrew~ ~Prototype~ The Wit.nes</span></a> | {% rauser Javisaur %}  | <img class="gameicon" src="https://retroachievements.org/Images/041441.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/7611" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041750.png" alt="~Homebrew~ Tower of Turmoil, The"> <span>~Homebrew~ Tower of Turmoil, The</span></a> | {% rauser Javisaur %}  | <img class="gameicon" src="https://retroachievements.org/Images/038706.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/1984" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041479.png" alt="StarTropics II: Zoda's Revenge"> <span>StarTropics II: Zoda's Revenge</span></a> | {% rauser SporyTike %}  | <img class="gameicon" src="https://retroachievements.org/Images/008342.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/2087" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041177.png" alt="World Class Track Meet"> <span>World Class Track Meet</span></a> | {% rauser Javisaur %}  | <img class="gameicon" src="https://retroachievements.org/Images/007729.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/5198" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042098.png" alt="Donald Land"> <span>Donald Land</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/042062.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/1752" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042191.png" alt="Indiana Jones and the Last Crusade (Ubisoft)"> <span>Indiana Jones and the Last Crusade (Ubisoft)</span></a> | {% rauser KingS1zzle %}  | <img class="gameicon" src="https://retroachievements.org/Images/009163.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
@@ -114,9 +105,18 @@ toc: true
 
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/11200" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041427.png" alt="Dr. Mario 64"> <span>Dr. Mario 64</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/015193.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/10154" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041428.png" alt="Paper Mario"> <span>Paper Mario</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/011143.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/14721" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041338.png" alt="Rakuga Kids"> <span>Rakuga Kids</span></a> | {% rauser blendedsea %}  | <img class="gameicon" src="https://retroachievements.org/Images/028453.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/10246" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042032.png" alt="Kirby 64: The Crystal Shards"> <span>Kirby 64: The Crystal Shards</span></a> | {% rauser Komojo %}  | <img class="gameicon" src="https://retroachievements.org/Images/029623.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/10679" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041973.png" alt="Legend of Zelda, The: Majora's Mask"> <span>Legend of Zelda, The: Majora's Mask</span></a> | {% rauser SporyTike %}  | <img class="gameicon" src="https://retroachievements.org/Images/015491.png" alt="old icon">
+
+<a href="#toc">:top:</a>
+
+
+### Nintendo DS
+
+
+| Game | Icon By | Icon Before |
+|------|---------|-------------|
+| <a class="gameicon-link" href="https://retroachievements.org/game/6930" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042259.png" alt="Freshly-Picked: Tingle's Rosy Rupeeland"> <span>Freshly-Picked: Tingle's Rosy Rupeeland</span></a> | {% rauser luizfilipekz %}  | <img class="gameicon" src="https://retroachievements.org/Images/029055.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
@@ -126,19 +126,22 @@ toc: true
 
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/5699" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041273.png" alt="Disney's Dinosaur"> <span>Disney's Dinosaur</span></a> | {% rauser MaddieKittyTV %}  | <img class="gameicon" src="https://retroachievements.org/Images/041215.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/17073" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041392.png" alt="Gold and Glory: The Road to El Dorado"> <span>Gold and Glory: The Road to El Dorado</span></a> | {% rauser SnowPin %}  | <img class="gameicon" src="https://retroachievements.org/Images/041217.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/17194" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041274.png" alt="Rugrats: Studio Tour"> <span>Rugrats: Studio Tour</span></a> | {% rauser MaddieKittyTV %}  | <img class="gameicon" src="https://retroachievements.org/Images/041216.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/1178" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042347.png" alt="Aladdin in Nasira's Revenge"> <span>Aladdin in Nasira's Revenge</span></a> | {% rauser Mentro %}  | <img class="gameicon" src="https://retroachievements.org/Images/042096.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/13891" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041971.png" alt="Game of Life, The"> <span>Game of Life, The</span></a> | {% rauser Komojo %}  | <img class="gameicon" src="https://retroachievements.org/Images/022758.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/11353" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041767.png" alt="Mega Man X4"> <span>Mega Man X4</span></a> | {% rauser Raykusen %}  | <img class="gameicon" src="https://retroachievements.org/Images/026470.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/14449" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042197.png" alt="Moorhuhn X"> <span>Moorhuhn X</span></a> | {% rauser KingS1zzle %}  | <img class="gameicon" src="https://retroachievements.org/Images/026769.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/13910" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042237.png" alt="Muppet RaceMania"> <span>Muppet RaceMania</span></a> | {% rauser KingS1zzle %}  | <img class="gameicon" src="https://retroachievements.org/Images/022753.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/10291" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042058.png" alt="Simple 1500 Series - Hello Kitty Vol. 02: Illust Puzzle"> <span>Simple 1500 Series - Hello Kitty Vol. 02: Illust Puzzle</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/029707.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
 
-### Saturn
+### Pokemon Mini
 
 
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/14527" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041124.png" alt="NiGHTS into Dreams..."> <span>NiGHTS into Dreams...</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/033194.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/15723" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041806.png" alt="~Homebrew~ PokeSnake"> <span>~Homebrew~ PokeSnake</span></a> | {% rauser deng %}  | <img class="gameicon" src="https://retroachievements.org/Images/031476.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
@@ -148,11 +151,10 @@ toc: true
 
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/17136" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041643.png" alt="~Hack~ Super Mario Bros. R \| Super Mario Bros. Returns: An 8-bit like hack"> <span>~Hack~ Super Mario Bros. R \| Super Mario Bros. Returns: An 8-bit like hack</span></a> | {% rauser Javisaur %}  | <img class="gameicon" src="https://retroachievements.org/Images/041590.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/949" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041480.png" alt="Inspector Gadget"> <span>Inspector Gadget</span></a> | {% rauser Javisaur %}  | <img class="gameicon" src="https://retroachievements.org/Images/006454.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/993" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041707.png" alt="Lemmings"> <span>Lemmings</span></a> | {% rauser SpaceRaton %}  | <img class="gameicon" src="https://retroachievements.org/Images/002225.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/664" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041125.png" alt="Michael Jordan: Chaos in the Windy City"> <span>Michael Jordan: Chaos in the Windy City</span></a> | {% rauser Krylan %}  | <img class="gameicon" src="https://retroachievements.org/Images/017532.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/8702" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041118.png" alt="Strike Gunner S.T.G"> <span>Strike Gunner S.T.G</span></a> | {% rauser Javisaur %}  | <img class="gameicon" src="https://retroachievements.org/Images/015433.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/2374" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042130.png" alt="Clock Tower"> <span>Clock Tower</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/023368.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/1450" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042011.png" alt="Dragon Ball Z: Super Saiya Densetsu"> <span>Dragon Ball Z: Super Saiya Densetsu</span></a> | {% rauser Javisaur %}  | <img class="gameicon" src="https://retroachievements.org/Images/015810.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/4942" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042311.png" alt="~Hack~ Super Mario World: VIP and Wall Mix 2 - ASCII Art Edition"> <span>~Hack~ Super Mario World: VIP and Wall Mix 2 - ASCII Art Edition</span></a> | {% rauser HolyShinx %}  | <img class="gameicon" src="https://retroachievements.org/Images/004044.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/16056" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041841.png" alt="~Homebrew~ Super Sudoku"> <span>~Homebrew~ Super Sudoku</span></a> | {% rauser deng %}  | <img class="gameicon" src="https://retroachievements.org/Images/034557.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
@@ -160,99 +162,124 @@ toc: true
 
 ## Achievement Badges Changes
 
-### Atari 2600
+### Game Boy
 
-#### Star Wars: Jedi Arena
+
+
+
+#### Pinball: Revenge of the Gator
  
-**New badges by {% rauser MaddieKittyTV %} .**
+**New badges by {% rauser GameZone %} .**
  
 **Previous Badges:**
 
-![before](https://user-images.githubusercontent.com/53956327/104113540-7b99f400-52d9-11eb-86cc-8ca373730c6a.png)
+![before](https://user-images.githubusercontent.com/53956327/108632852-c3bb4300-744f-11eb-8cf6-09468f47e30a.png)
  
 **Current Badges:**
 
-![after](https://user-images.githubusercontent.com/53956327/104113544-7d63b780-52d9-11eb-8eb6-670a153947b0.png)
+![after](https://user-images.githubusercontent.com/53956327/108632853-c453d980-744f-11eb-8b3e-10e7ff6cc021.png)
 
 <a href="#toc">:top:</a>
 
 
-### Game Boy
+### Game Boy Advance
 
-#### Kirby's Dream Land
+
+
+
+#### Legend of Zelda, The: The Minish Cap
  
-**New badges by {% rauser WateredWillow %} .**
+**New badges by {% rauser GameZone %} .**
  
 **Previous Badges:**
 
-![before](https://user-images.githubusercontent.com/53956327/104113541-7b99f400-52d9-11eb-817a-1eb9e438dcab.png)
+![before](https://user-images.githubusercontent.com/53956327/107123200-fe7f8180-687a-11eb-885e-39b2cf9ef2fc.png)
  
 **Current Badges:**
 
-![after](https://user-images.githubusercontent.com/53956327/104113545-7d63b780-52d9-11eb-808a-c8d772edaf10.png)
+![after](https://user-images.githubusercontent.com/53956327/107123201-ffb0ae80-687a-11eb-8903-5cb63d5a8bbf.png)
+
+<a href="#toc">:top:</a>
+
+
+### Master System
+
+
+
+
+#### ~Homebrew~ Sudoku
+ 
+**New badges by {% rauser KingS1zzle %} .**
+ 
+**Previous Badges:**
+
+![before](https://user-images.githubusercontent.com/53956327/107123199-fe7f8180-687a-11eb-8082-bc06b313d250.png)
+ 
+**Current Badges:**
+
+![after](https://user-images.githubusercontent.com/53956327/107123208-02130880-687b-11eb-8b96-8e1434758ffe.png)
 
 <a href="#toc">:top:</a>
 
 
 ### Nintendo 64
 
-#### Banjo-Kazooie
+
+
+
+#### Legend of Zelda, The: Ocarina of Time
  
 **New badges by {% rauser Raykusen %} .**
  
 **Previous Badges:**
 
-![before](https://user-images.githubusercontent.com/53956327/104113538-79d03080-52d9-11eb-93fe-38dece3f23b7.png)
+![before](https://user-images.githubusercontent.com/53956327/108632847-c1f17f80-744f-11eb-95c3-b3d5557f1114.png)
  
 **Current Badges:**
 
-![after](https://user-images.githubusercontent.com/53956327/104113543-7c328a80-52d9-11eb-842a-2194f7cbe998.png)
-
-#### Diddy Kong Racing
- 
-**New badges by {% rauser Raykusen %} .**
- 
-**Previous Badges:**
-
-![before](https://user-images.githubusercontent.com/53956327/104830895-017de800-5862-11eb-9fe0-7037c35576e0.png)
- 
-**Current Badges:**
-
-![after](https://user-images.githubusercontent.com/53956327/104830898-02af1500-5862-11eb-9679-4f005d37e9b0.png)
+![after](https://user-images.githubusercontent.com/53956327/108632848-c28a1600-744f-11eb-8d84-dc5c32ce6e2a.png)
 
 <a href="#toc">:top:</a>
 
 
-### PC Engine
+### Nintendo DS
 
-#### Akumajou Dracula X: Chi no Rondo (CD)
+
+
+
+#### ~Homebrew~ EunHye DS
  
-**New badges by {% rauser Shmelyoff %} .**
+**New badges by {% rauser Infernox %} .**
  
 **Previous Badges:**
 
-![before](https://user-images.githubusercontent.com/53956327/104830893-ffb42480-5861-11eb-80be-19297e869dec.png)
+![before](https://user-images.githubusercontent.com/53956327/107123197-fd4e5480-687a-11eb-9038-1f10be8fc2f0.png)
  
 **Current Badges:**
 
-![after](https://user-images.githubusercontent.com/53956327/104830896-02167e80-5862-11eb-99ff-e948171ee611.png)
+![after](https://user-images.githubusercontent.com/53956327/107123205-00e1db80-687b-11eb-94b0-7878b7ea124f.png)
 
 <a href="#toc">:top:</a>
 
 
 ### SNES
 
-#### Mega Man X
+
+
+
+#### Yoshi's Safari
  
 **New badges by {% rauser Raykusen %} .**
  
 **Previous Badges:**
 
-![before](https://user-images.githubusercontent.com/53956327/106330238-a4bafe00-6261-11eb-899f-1a094536b598.png)
+![before](https://user-images.githubusercontent.com/53956327/108632843-c027bc00-744f-11eb-9c5b-a59154f56dff.png)
  
 **Current Badges:**
 
-![after](https://user-images.githubusercontent.com/53956327/106330242-a684c180-6261-11eb-9fba-242355ddf785.png)
+![after](https://user-images.githubusercontent.com/53956327/108632845-c158e900-744f-11eb-87e1-7243043b61d2.png)
 
 <a href="#toc">:top:</a>
+
+
 
