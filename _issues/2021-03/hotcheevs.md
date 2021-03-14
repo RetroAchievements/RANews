@@ -13,16 +13,6 @@ This is the list of brand new sets released in February/2021 grouped by systems/
 
 ## New Sets Released
 
-### 3DO Interactive Multiplayer
-
-
-| Game | Author | Genre |
-|------|--------|-------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/16674" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042262.png" alt="Battle Chess"> <span>Battle Chess</span></a> | {% rauser voiceofautumn %}  | Chess |
-
-<a href="#toc">:top:</a>
-
-
 ### Apple II
 
 

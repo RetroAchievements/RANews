@@ -98,10 +98,9 @@ In this article we're going to see all the achievement sets that got revisions a
 
 ### Game Boy Color
 
-
-| Game | Revision Author | Genre |
-|------|-----------------|-------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/4836" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/038820.png" alt="~Z~ Dragon Warrior Monsters 2: Cobi's Journey"> <span>~Z~ Dragon Warrior Monsters 2: Cobi's Journey</span></a> | {% rauser theanxietybuster %}  | RPG |
+| Game | Console | Genre | 
+|------|---------|-------| 
+| <a class="gameicon-link" href="https://retroachievements.org/game/5105" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042526.png" alt="Dragon Warrior Monsters 2 GBC"> <span>Dragon Warrior Monsters 2 GBC</span></a> | Game Boy Color | RPG |
 
 <a href="#toc">:top:</a>
 

@@ -84,14 +84,14 @@ These events are open to any community member who wants to particpate.
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %} and {% rauserpic televandalist %}
 - Previous Winners:
-    - Month 1: {% rauserpic guineu %}
-    - Month 2: {% rauserpic guineu %}
-    - Month 3: {% rauserpic multonic %}
-    - Month 4: {% rauserpic freezestar %}
-    - Month 5: {% rauserpic Kisumebuckets %}
-    - Month 6: {% rauserpic deng %}
+    - Month 8: {% rauserpic HolyShinx %} and {% rauserpic SlashTangent %}
     - Month 7: {% rauserpic multonic %}, {% rauserpic Whynot15 %} and {% rauserpic SlashTangent %}
-    - Month 8: In progress...
+    - Month 6: {% rauserpic deng %}
+    - Month 5: {% rauserpic Kisumebuckets %}
+    - Month 4: {% rauserpic freezestar %}
+    - Month 3: {% rauserpic multonic %}
+    - Month 2: {% rauserpic guineu %}
+    - Month 1: {% rauserpic guineu %}
 
 
 <a href="#top">:top:</a>
@@ -102,7 +102,7 @@ These events are open to any community member who wants to particpate.
 - Forum topic: <http://retroachievements.org/viewtopic.php?t=12108>
 - Period: January 2021 - Current
 - Host: {% rauserpic Bendyhuman %}
-- Currently 1st place (with 64 points):
+- Currently 1st place (with 69 points):
   - {% rauserpic guineu %}
 
 <a href="#top">:top:</a>
@@ -113,6 +113,24 @@ These events are open to any community member who wants to particpate.
 - Forum topic: <http://retroachievements.org/viewtopic.php?t=12318>
 - Period: February 2021 - Current
 - Host: {% rauserpic SnowPin %}
+- Current Winners:
+  - {% rauserpic Akai %}
+  - {% rauserpic DanielARP %}
+  - {% rauserpic Draco655 %}
+  - {% rauserpic Gamechamp %}
+  - {% rauserpic freezestar %}
+  - {% rauserpic Hotscrock %}
+  - {% rauserpic jabman696 %}
+  - {% rauserpic KingS1zzle %}
+  - {% rauserpic Kisumebuckets %}
+  - {% rauserpic minibt %}
+  - {% rauserpic msdmario %}
+  - {% rauserpic Pudpod %}
+  - {% rauserpic RetroRobb %}
+  - {% rauserpic SlashTangent %}
+  - {% rauserpic SnowPin %}
+  - {% rauserpic StingX2 %}
+  - {% rauserpic Xymjak %}
 
 <a href="#top">:top:</a>
 
