@@ -20,7 +20,7 @@ You start with none, then you get one when you reach 2.5k points, then you get a
 
 You also get the right to make one more request for each year you are a member of RetroAchievements.org.
 
-**Now, Let's check which missing sets the community wants more for February/2020.**
+**Now, Let's check which missing sets the community wants more for February/2021.**
 
 
 ## For Consoles

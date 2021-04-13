@@ -409,7 +409,7 @@ separateByConsole() {
         ;;
     esac
 
-    echo "${outputLine}" >> "${baseFilename}-${entryType}-${consoleName}.md"
+    echo "${outputLine}" >> "${baseFilename}-${entryType}-${consoleName//\//-}.md"
 
     elementInArray "${consoleName}" "${consoleList[@]}" || consoleList+=( "${consoleName}" )
     #elementInArray "${entryType}" "${entryTypeList[@]}" || entryTypeList+=( "${entryType}" )

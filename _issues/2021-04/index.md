@@ -1,6 +1,6 @@
 ---
-issue: 2021-03
-order: 202103-0
+issue: 2021-04
+order: 202104-0
 layout: article
 title: Introduction
 author: meleu
@@ -11,7 +11,7 @@ toc_float: true
 
 ## Intro
 
-This issue came with a bit delay again, but fortunately things are calmer in RL currently. Lets go!
+**"Shut up and show me the contents!"**
 
 
 ## How to Contribute
@@ -28,8 +28,7 @@ What to expect from this issue.
 
 ### Editorial
 
-Keeping the same ecologic vibe as the previous month, this time talking about the RetroAchievements biodiversity.
-
+{% rauser StingX2 %} lists a lot of changes that happened over the last year up to now.
 
 
 ### Play This Set
@@ -39,7 +38,7 @@ Community members talking about their favorite sets and why you should play them
 
 ### RAGuide
 
-A very detailed guide from {% rauser bdjeffyp %} for Final Fantasy IV (SNES). High quality stuff!
+Sir {% rauser bdjeffyp %}, the Final Fantasy Lord is back again! This time wit a guide for the Final Fantasy III (SNES) set.
 
 
 ### Current Events
@@ -94,12 +93,10 @@ Special thanks goes to these guys:
 - {% rauserpic Hotscrock %} for collecting many useful/interesting data to be published here.
 - {% rauserpic Xymjak %} for the top players info.
 - {% rauserpic lilbud %} for creating the RANews logo.
-- {% rauserpic bdjeffyp %} for the detailed guide.
+- {% rauserpic bdjeffyp %} for detailed guide.
+- {% rauserpic HolyShinx %} for the "Current Events" and "Community Works" article.
 - All those who wrote for the "Play This Set" segment:
-  - {% rauserpic AlmightyXor %}
-  - {% rauserpic Bearfax62 %}
-  - {% rauserpic lordpsycho %}
-  - {% rauserpic meleu %}
-  - {% rauserpic NgNvNn %}
-  - {% rauserpic SpaceRaton %}
-  - {% rauserpic theanxietybuster %}
+  - {% rauserpic ilikepie345 %}
+  - {% rauserpic Ryudo %}
+  - {% rauserpic wilhitewarrior %}
+  - {% rauserpic xnaivx %}
