@@ -38,7 +38,7 @@ Community members talking about their favorite sets and why you should play them
 
 ### RAGuide
 
-Sir {% rauser bdjeffyp %}, the Final Fantasy Lord is back again! This time wit a guide for the Final Fantasy III (SNES) set.
+Sir {% rauser bdjeffyp %}, the Final Fantasy Lord is back again! This time wit a guide for the Final Fantasy III (NES) set.
 
 
 ### Current Events
@@ -49,6 +49,11 @@ List of running events in the RetroAchievements scene that are still open to joi
 ### HotCheevs Monthly
 
 List of achievement sets released in the last month.
+
+
+### HotCheevs Monthly
+
+{% rauser StingX2 %} brings another view of the great players we have in this community.
 
 
 ### Top Players
