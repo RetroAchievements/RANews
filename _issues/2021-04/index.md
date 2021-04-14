@@ -51,7 +51,7 @@ List of running events in the RetroAchievements scene that are still open to joi
 List of achievement sets released in the last month.
 
 
-### HotCheevs Monthly
+### Top Masteries
 
 {% rauser StingX2 %} brings another view of the great players we have in this community.
 
