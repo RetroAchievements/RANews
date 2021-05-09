@@ -2,11 +2,13 @@
 
 readonly SITE_DIR='../_site'
 
-listArticles() {
+listArticlesFiles() {
+  echo "Scanning \"Play This Set\" articles in '${searchDir}'" >&2
   find "$searchDir" -type f -name play-this-set.html
 }
 
 listArticleHeadings() {
+  echo "Searching entries in '${file}'" >&2
   sed \
     '/<li><a href="#/!d; s/.*"\([^"]\+\)".*/\1/' \
     "${file}"
@@ -29,7 +31,7 @@ listArticles() {
   local url
   local articleUrl
 
-  articleFiles=( $(listArticles) )
+  articleFiles=( $(listArticlesFiles) )
 
   for file in "${articleFiles[@]}"; do
     url="${file//$searchDir/$urlPrefix}"
