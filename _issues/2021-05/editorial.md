@@ -12,7 +12,7 @@ toc_float: true
 
 ## Intro
 
-On May 1st we published an updated version of our User's Code of Conduct. In this editorial we're going to see a quick recap of some problems we faced during the history of this project and how they were solved. Also why the recent update was made and what it's trying to solve.
+On May 1st we published an updated version of our [User's Code of Conduct](https://docs.retroachievements.org/Users-Code-of-Conduct/). In this editorial we're going to see a quick recap of some problems we faced during the history of this project and how they were solved. Also why the recent update was made and what it's trying to solve.
 
 
 ## The Genesis
@@ -25,7 +25,7 @@ And that actually happened. At that time the requirements for someone to be acce
 
 The tools to create achievements were very primitive and we had no documentation on how achievement creation works, neither on how to create GOOD achievements. Add to it the fact that the barrier to becoming a creator was extremely low and you can imagine that the quality of the achievements varied greatly between nicely done ones created by enthusiastic creators and works of dubious quality created by random sporadic contributors.
 
-It also worths to mention that the way the website was created gives a too much permissions to achievement creators. Among other things, they can change each other's work. It makes possible to edit other people's work accidentally and intentionaly.
+It also worths to mention that the way the website was created gives too much permissions to achievement creators. Among other things, they can change each other's work. It makes possible to edit other people's work accidentally or intentionaly.
 
 As you can imagine, that became a source of problems.
 
@@ -46,7 +46,7 @@ After a few years, as RA was growing up and increasing the number of members, th
 
 The way found to compensate the lack of proper tools was to start some sort of regulation. And it started spontaneously by a dedicated former admin, {% rauser kdecks %}, who decided to start monitoring the quality of work being uploaded to the webserver and ask people to do a better job.
 
-As the figure commonly accepted as **The Authority**:tm: in this project was its creator, Scott, many creators didn't accept well the requests for a better job comming from another person (and that's how the fad of hating admins started).
+As the figure commonly accepted as **The Authority**:tm: in this project was its creator, Scott, many achievement developers didn't accept well the requests for a better job comming from another person (and that's how the fad of hating admins started).
 
 **Summing up**:
 
@@ -61,7 +61,7 @@ As the figure commonly accepted as **The Authority**:tm: in this project was its
 
 When I was invited to be an admin I noticed that the relationship between creators and admins were deteriorating. And in my understanding the root reason was the lack of documentation about how to create achievements.
 
-That's why I started the [documentation project](https://docs.retroachievements.org/). And thanks to the contributions from many experienced achievement creators we created a reasonably solid source of knowledge for our hobby.
+That's why I started the [documentation project](https://docs.retroachievements.org/). And thanks to the contributions from many experienced achievement creators we produced a reasonably solid source of knowledge for our hobby.
 
 At that time we also created the User's Code of Conduct, outlining what's expected from the community members. And the Developer's Code of Conduct, listing some rules to prevent low quality work from being promoted and to prevent achievement creators, the lifeblood of this community, from fighting among themselves.
 
@@ -125,7 +125,7 @@ That's why the updated Code of Conduct starts with a clear Mission Statement. Th
 
 We still have spaces dedicated to off-topic conversations. They're important spaces where people can strengthen their bonds of friendship by talking about different subjects and interests. But as soon as the interactions there start to become controversial and turning into heated and unpleasant discussions, moderation will act.
 
-By the way, the way that moderation should act was also an importante improvement in this update. We are clearly saying that moderators should take a diplomatic approach, without sarcasm or making fun of their authority. This is what this community should expect from moderators. And if they're not acting this way, we expect the community members to report this to {% rauser RAdmin %}.
+By the way, the method that moderation should act was also an importante improvement in this update. We are clearly saying that moderators should take a diplomatic approach, without sarcasm or making fun of their authority. This is what this community should expect from moderators. And if they're not acting this way, we expect the community members to report this to {% rauser RAdmin %}.
 
 If by chance you want more room for your interests than we can offer here, an interesting option is to [create your own discord server](https://support.discord.com/hc/en-us/articles/204849977-How-do-I-create-a-server-) and still be a member of RetroAchievements community.
 
