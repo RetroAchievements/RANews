@@ -79,6 +79,7 @@ These events are open to any community member who wants to particpate.
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %} and {% rauserpic televandalist %}
 - Previous Winners:
+    - Month 9: {% rauserpic GameChamp %} and {% rauserpic SlashTangent %}
     - Month 8: {% rauserpic HolyShinx %} and {% rauserpic SlashTangent %}
     - Month 7: {% rauserpic multonic %}, {% rauserpic Whynot15 %} and {% rauserpic SlashTangent %}
     - Month 6: {% rauserpic deng %}

@@ -33,7 +33,7 @@ Community members talking about their favorite sets and why you should play them
 
 ### RAGuide
 
-{% rauser ViperZang %} presents us a guide about Pokemon Snap (N64).
+{% rauser ikki5 %} presents us a guide about Pokemon Snap (N64).
 
 
 ### Current Events
@@ -88,7 +88,7 @@ Special thanks goes to these guys:
 - {% rauserpic Hotscrock %} for collecting many useful/interesting data to be published here.
 - {% rauserpic Xymjak %} for the top players info.
 - {% rauserpic lilbud %} for creating the RANews logo.
-- {% rauserpic ViperZang %} for guide.
+- {% rauserpic ikki5 %} for guide.
 - {% rauserpic HolyShinx %} for the "Current Events" and "Community Works" article.
 - All those who wrote for the "Play This Set" segment:
   - {% rauserpic blendedsea %}

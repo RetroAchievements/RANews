@@ -4,7 +4,7 @@ order: 202105-21
 layout: article
 category: RAGuide
 title: "Pokemon Snap (N64)"
-author: ViperZang
+author: ikki5
 toc: true
 toc_float: true
 ---

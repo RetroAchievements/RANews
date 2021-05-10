@@ -32,6 +32,9 @@ You also get the right to make one more request for each year you are a member o
 
 [![](img/most-wanted-for-handhelds.png)](img/most-wanted-for-handhelds.png)
 
+## Hacks
+
+[![](img/most-wanted-hacks.png)](img/most-wanted-hacks.png)
 
 ## Current Stats
 
