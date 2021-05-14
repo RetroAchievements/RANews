@@ -266,11 +266,11 @@ toc: true
  
 **Previous Badges:**
 
-![before](https://user-images.githubusercontent.com/53956327/117317481-f1653500-ae5f-11eb-9dc1-f8f9edd3998c.png)
+![before](https://user-images.githubusercontent.com/53956327/118275001-3a3e6e80-b49c-11eb-8fcf-89fa37d04f6d.png)
  
 **Current Badges:**
 
-![after](https://user-images.githubusercontent.com/53956327/117317482-f1fdcb80-ae5f-11eb-8afe-6522193c582f.png)
+![after](https://user-images.githubusercontent.com/53956327/118275009-3c083200-b49c-11eb-988c-bb5590485be4.png)
 
 <a href="#toc">:top:</a>
 
