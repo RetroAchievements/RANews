@@ -1,10 +1,12 @@
 # RANews stuff
 _temp/*
+tmp/*
 tools/.env
 tools/err
 tools/*
 !tools/*.txt
 !tools/*.sh
+tools/post-on-forums.txt
 
 # jekyll stuff
 _site
