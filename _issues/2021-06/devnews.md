@@ -43,9 +43,9 @@ DM a QA team member the idea and we will discuss it in QA Team
 
 ## Current DevQuests
 
-### QUEST #001: Ticket Massacre - Close/Resolve 100 Tickets
+### QUEST #001: Ticket Massacre - Close/Resolve 50 Tickets
 
-- Goal: Fix/Close 100 tickets and get the Badge (please mark the ticket you are working on in doc and in #tickets-cleanup )  
+- Goal: Fix/Close 50 tickets and get the Badge (please mark the ticket you are working on in doc and in #tickets-cleanup )  
 - Best Contact Point: SlashTangent  
 1. Bold warning here that falsifying ticket closures will result in a long talk with QA Team and Moderation  
 2. IF DEV IS ACTIVE, TICKET MUST BE OLDER THAN 30 DAYS  
@@ -53,7 +53,7 @@ DM a QA team member the idea and we will discuss it in QA Team
 4. These must be new tickets closed/fixed.  
 5. Tickets cannot be YOUR tickets or tickets you edited for someone else before  
 6. You must document each ticket you solve in provided doc under your name.  
-7. Whenever you reach 100, contact QATeam member and get badge  
+7. Whenever you reach 50, contact QATeam member and get badge  
 
 
 
