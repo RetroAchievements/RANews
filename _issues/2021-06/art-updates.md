@@ -211,11 +211,12 @@ toc: true
  
 **Previous Badges:**
 
-![before](https://user-images.githubusercontent.com/53956327/120727919-1cb85f80-c4b2-11eb-9dc7-94c42f09954d.png)
+![before](https://cdn.discordapp.com/attachments/851112194468216873/851155137169719376/Old.png)
  
 **Current Badges:**
 
-![after](https://user-images.githubusercontent.com/53956327/120727921-1de98c80-c4b2-11eb-9cf0-4439f37f36f5.png)
+![after](https://cdn.discordapp.com/attachments/851112194468216873/851155129830080532/New.png)
+
 
 #### ~Homebrew~ Sudoku Micro
  
