@@ -17,10 +17,7 @@ Here I describe what I usually do when researching a game to get ideas for a coo
 There isn't any fancy technical stuff here. My hope is to make this article useful for any community member, even "non-devs", to get inspired and research some games they want achievements for. They can then post their ideas on the forums and an "official" achievement creator can implement them.
 
 
-## Initial Research
-
-
-### Game Manual
+## Game Manual
 
 Examples of useful stuff that can be found in a manual:
 
@@ -30,7 +27,7 @@ Examples of useful stuff that can be found in a manual:
     - Example of how it's useful: if an item gives to much power, there could be an achievement for "killing Boss X without using item Y"
 
 
-### GameFAQs
+## GameFAQs
 
 Look for:
 
@@ -42,7 +39,7 @@ Look for:
     - **Tip**: Stage-select cheats are like an encouragement to create more challenging cheevos and allow players to quickly go to the place where the challenge starts.
 
 
-### Longplay / Speedruns
+## Longplay / Speedruns
 
 These videos can show some secret spots, warp zones or even give good inspiration to create some challenges.
 
@@ -50,10 +47,10 @@ These videos can show some secret spots, warp zones or even give good inspiratio
 
 **Pro-tip**: look at those guys on our [Global Ranking](https://retroachievements.org/globalRanking.php?s=5&t=2) and DM one/some of them if they would be willing to test if an achievement is actually feasible.
 
-**Example**: in my achievement set for [Shinobi III: Return of the Ninja Master], there are damageless achievements for each boss. I saw an [youtube video](https://www.youtube.com/watch?v=5bbJLg0S2CI) with all bosses being defeated damageless, I thought it was feasible but when I tried I realized that it's not that simple. I almost dropped the idea but then I contacted {% rauser BerserkerBR %} and he agreed to test the damageless cheevos for me. He confirmed they are feasible if you put some effort memorizing the bosses' movements. Now I see that many players are proving those achievements can be unlocked.
+**Example**: in my achievement set for [Shinobi III: Return of the Ninja Master](https://retroachievements.org/game/64), there is a damageless achievement for each boss. I saw an [youtube video](https://www.youtube.com/watch?v=5bbJLg0S2CI) with all bosses being defeated damageless, I thought it was feasible but when I tried I realized that it's not that simple. Before dropping the idea I contacted {% rauser BerserkerBR %} and he agreed to test the cheevos for me. He confirmed they are feasible if you put some effort memorizing the bosses' movements. Now I see that many players are proving those achievements can be unlocked.
 
 
-### Similar Achievement Sets
+## Similar Achievement Sets
 
 Checking existing achievement sets for similar games can also be a good source of **inspiration**. But please, don't copy'n'paste all the concepts, just use them as inspiration and put your creativity on your set.
 
