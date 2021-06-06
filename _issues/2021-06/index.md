@@ -90,7 +90,7 @@ Which sets got their game icons and/or badges changed.
 
 ### Fun
 
-In this issue {% rauser SporyTike %} want us to find what Baby Bowser messed in Youshi's Island in another "Spot The Difference" challenge.
+In this issue {% rauser SporyTike %} want us to find what Baby Bowser messed in Yoshi's Island in another "Spot The Difference" challenge.
 
 
 ## Acknowledgements

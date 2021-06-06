@@ -104,7 +104,7 @@ Note: IF applicable. Do not use it if there is no instance that applies
 Point of Contact: Any QATeam member  
 1. If developer is active must get permission first  
 2. Must put measured and/or triggered where it makes sense  
-3. CANNOT BE YOUR OWN SETS, you should just do these anyway cause you want to be cool dev!  
+3. You can do your own sets at 0.5 per set value.
 4. PLEASE LEAVE Comments on set page for what you changed for log purposes  
   
 There is no list for this quest. I estimate we have 2500 + sets without this  

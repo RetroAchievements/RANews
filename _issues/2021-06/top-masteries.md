@@ -20,7 +20,7 @@ So Without further ado I present the first real edition of Top Mastery and your 
 | - | - |
 | Gameboy | {% rauserpic Shootzy %} |
 | Gameboy Color | {% rauserpic Andrey199650 %} |
-| Gameboy Advance | {% rauserpic Bonecrusher1022 %} |
+| Gameboy Advance | {% rauserpic bonecrusher1022 %} |
 | Virtual Boy | {% rauserpic MaxMilyin %} & {% rauserpic Wendigo %} |
 | Nintendo DS | {% rauserpic Aquator %} |
 | NES | {% rauserpic SanMarino %} |
@@ -105,7 +105,7 @@ So Without further ado I present the first real edition of Top Mastery and your 
 
 ### PlayStation
 
-![Top Mastery Ranking](img/top-mastery-saturn.png)
+![Top Mastery Ranking](img/top-mastery-ps1.png)
 
 
 ### Arcade
