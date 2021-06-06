@@ -55,6 +55,7 @@ In this article we're going to see all the achievement sets that got revisions a
 |------|-------------|-------|
 | <a class="gameicon-link" href="https://retroachievements.org/game/39" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/005880.png" alt="Alisia Dragoon"> <span>Alisia Dragoon</span></a> | {% rauser MarioJunior10 %}  | Platformer |
 | <a class="gameicon-link" href="https://retroachievements.org/game/4285" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/008874.png" alt="Granada"> <span>Granada</span></a> | {% rauser Bartis1989 %}  | Shoot 'em up |
+| <a class="gameicon-link" href="https://retroachievements.org/game/2" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000480.png" alt="Aladdin"> <span>Aladdin</span></a> | {% rauser Ryudo %}  | Platformer |
 
 <a href="#toc">:top:</a>
 
@@ -219,15 +220,6 @@ In this article we're going to see all the achievement sets that got revisions a
 
 <a href="#toc">:top:</a>
 
-
-### Mega Drive
-
-
-| Game | Demotion By | Genre |
-|------|-------------|-------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/2" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000480.png" alt="Aladdin"> <span>Aladdin</span></a> | {% rauser Ryudo %}  | Platformer |
-
-<a href="#toc">:top:</a>
 
 
 ### NES
