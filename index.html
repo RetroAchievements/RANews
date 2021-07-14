@@ -1,5 +1,6 @@
 ---
 title: RANews
+currentIssue: /issues/2021-07/
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -108,12 +109,14 @@ title: RANews
     <h1>
       The RetroAchievements digital magazine.
     </h1>
-    <img class="logo" src="./img/cover.png" alt="RANews">
+    <a href="{{ page.currentIssue }}">
+      <img class="logo" src="./img/cover.png" alt="RANews">
+    </a>
     <div class="cta-button" align="center">
-      <a class="cta-button-link" href="{{ site.baseurl }}/issues/">
+      <a class="cta-button-link" href="/issues/">
         Issues list
       </a>
-      <a class="cta-button-link" href="{{ site.baseurl }}/issues/2021-06/">
+      <a class="cta-button-link" href="{{ page.currentIssue }}">
         Latest issue
       </a>
     </div>
