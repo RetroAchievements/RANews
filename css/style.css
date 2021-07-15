@@ -1,0 +1,493 @@
+/*
+ * To find specific sections on this file, use the search feature of your
+ * editor and look for --
+ *
+ * The styles outlined in this file assumes the use of normalize.css
+ * https://github.com/necolas/normalize.css/blob/master/normalize.css
+ *
+ * meleu - 2020-08-01
+ */
+
+/****************************************************************************
+ * -- GENERAL STYLES
+ ****************************************************************************/
+body {
+  padding: 0;
+  background: #0a1b2b;
+}
+
+/****************************************************************************
+ * -- TYPOGRAPHY
+ ****************************************************************************/
+body {
+  font-family: "IBM Plex Mono", "Courier New", Courier, monospace;
+  font-size: 16px;
+  color: #bbb;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+  color: #ccc;
+  text-shadow: 0 0 3px #777;
+}
+
+h1 {
+  font-size: 3.0em;
+}
+h2 {
+  font-size: 2.5em;
+}
+h3 {
+  font-size: 1.7em;
+}
+h4 {
+  font-size: 1.3em;
+}
+h5 {
+  font-size: 1.1em;
+}
+h6 {
+  font-size: 1em;
+}
+
+/********************************************************************
+content between `backticks` in markdown
+*********************************************************************/
+code {
+  background-color: #0005;
+  border-radius: 4px;
+  font-family: monospace;
+  padding: 3px 6px;
+  display: inline-block;
+}
+
+/********************************************************************
+RANews/issues/
+*********************************************************************/
+.issues-list-container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.issues-list-container h1 {
+  text-align: center;
+}
+
+.issues-list-container li {
+  list-style: none;
+}
+
+.issues-list-container a:hover {
+  text-decoration: underline;
+}
+
+.issues-list-container img {
+  vertical-align: middle;
+  width: 96px;
+  height: 130px;
+}
+
+/********************************************************************
+{% rauserpic username %} and game icons
+*********************************************************************/
+img.rauserpic {
+  vertical-align: middle;
+  width: 32px;
+  height: 32px;
+}
+
+.gameicon-link {
+  display: flex;
+  align-items: center;
+}
+
+.gameicon-link > img,
+img.gameicon {
+  width: 64px;
+  height: 64px;
+  min-width: 64px;
+  min-height: 64px;
+}
+
+.gameicon-link > span {
+  padding: 0 10px;
+}
+
+/********************************************************************
+bingo winner
+*********************************************************************/
+.bingo-winner {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+}
+
+.bingo-winner img.rauserpic {
+  width: 128px;
+  height: 128px;
+}
+
+.bingo-winner a {
+  font-size: 2em;
+}
+
+
+/********************************************************************
+ * links
+ ********************************************************************/
+
+a,
+a:visited {
+  text-decoration: none;
+  color: #fff;
+  position: relative;
+}
+
+a:hover {
+  color: #fff;
+  text-shadow: 0 0 8px #fff;
+}
+
+/********************************************************************
+ * animated link underlines
+ * https://tobiasahlin.com/blog/css-trick-animating-link-underlines/
+ ********************************************************************/
+main header nav a::before,
+.article-list-container a::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  visibility: hidden;
+  transform: scaleX(0);
+  transition: all 0.3s ease-in-out 0s;
+}
+
+/********************************************************************
+JS-free Hamburguer menu
+********************************************************************/
+.article-list-container label,
+#article-list-toggle {
+  display: none;
+}
+
+a:hover::before {
+  visibility: visible;
+  transform: scaleX(1);
+}
+
+/********************************************************************
+ * grid layout - separating sidebar and content
+ ********************************************************************/
+.grid {
+  display: grid;
+  grid-template-columns: 250px 1fr;
+}
+
+/********************************************************************
+ * sidebar
+ ********************************************************************/
+
+aside {
+  display: flex;
+  flex-direction: column;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  border-right: 1px dashed;
+  /* background: #292929; */
+  background: #192a3a;
+}
+
+aside ul {
+  list-style: none;
+}
+
+aside .sidebar-header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+aside .sidebar-header a {
+  margin: 0 auto;
+}
+
+aside > .sidebar-header img {
+  max-width: 70%;
+  max-height: 70%;
+}
+
+aside > .article-list-container {
+  flex: 1;
+  border-top: 1px dashed;
+  border-bottom: 1px dashed;
+  overflow-y: auto;
+}
+
+aside > .article-list-container > h2 {
+  text-align: center;
+  font-size: 1.1em;
+}
+
+aside ul {
+  padding: 0;
+}
+
+aside ul.article-list {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  /* background: #292929; */
+  background: #192a3a;
+}
+
+aside ul.article-list li {
+  margin: 5px;
+  /* background: #292929; */
+  background: #192a3a;
+}
+
+aside ul.article-list li {
+  padding: 5px;
+}
+
+aside ul.article-list li.active {
+  color: #aaa;
+  background: #234;
+  /* text-align: center; */
+  /* text-decoration: underline; */
+}
+
+aside > .footer > ul {
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+  line-height: 60px;
+}
+
+aside > .footer > ul > li {
+  flex-grow: 1;
+  text-align: center;
+  /* background: #292929; */
+  background: #192a3a;
+  width: 60px;
+}
+
+aside > .footer > ul > li:nth-child(n + 2) {
+  border-left: 1px dashed;
+}
+
+aside > .footer > ul > li > a:hover {
+  color: #fff;
+  text-shadow: 0 0 8px #fff;
+}
+
+/********************************************************************
+ * main content
+ ********************************************************************/
+
+main nav {
+  line-height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+main nav > a,
+main nav > span {
+  flex-grow: 1;
+  padding: 0 10px;
+}
+
+main header nav > a,
+main header nav > span {
+  border-bottom: 1px dashed;
+}
+
+main footer nav > a,
+main footer nav > span {
+  border-top: 1px dashed;
+}
+
+main nav > a:first-child,
+main nav > span {
+  text-align: left;
+  border-right: 1px dashed;
+}
+main nav > a:last-child,
+main nav > span {
+  text-align: right;
+}
+
+main > article {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+main > article > header .author {
+  display: flex;
+  align-content: center;
+  gap: 20px;
+}
+
+main > article > header .author img {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+}
+
+main > article > header .author span {
+  line-height: 64px;
+}
+
+/* start - article Table of Contents
+ * inspiration:
+ * https://www.tipsandtricks-hq.com/simple-table-of-contents-toc-using-pure-html-and-css-code-9217
+ */
+main > article .toc-container {
+  background: none repeat scroll 0 0;
+  border: 1px solid #aaa;
+  display: table;
+  padding: 1em;
+  margin: 2em 0;
+  /* min-width: 300px; */
+}
+
+main > article .toc-container a {
+  text-decoration: underline;
+  color: #bbb;
+  font-size: 0.9em;
+}
+
+main > article .toc-container ul {
+  margin-right: 2em;
+}
+
+main > article .toc-container li {
+  padding: 0;
+  list-style: none;
+}
+
+main > article .toc-float {
+  float: right;
+  margin-left: 1em;
+}
+
+main > article .toc-title {
+  font-weight: bold;
+  text-align: center;
+}
+/* end - article Table of Contents */
+
+main > article h2,
+main > article h3,
+main > article h4,
+main > article h5,
+main > article h6 {
+  margin-top: 2em;
+}
+
+main > article p {
+  line-height: 1.5em;
+}
+
+/*
+main > article > p:first-of-type {
+  font-size: 1.4em;
+}
+
+main > article > p:first-of-type::first-letter {
+  font-size: 2.5em;
+}
+*/
+
+main > article li {
+  line-height: 1.5em;
+  margin: 0.2em 0;
+}
+
+main > article img {
+  max-width: 100%;
+}
+
+main > article table {
+  border-collapse: collapse;
+  width: 100%;
+  overflow-x: auto;
+  /* table-layout: fixed; */
+}
+
+main > article table > thead > tr {
+  text-align: left;
+  font-weight: bold;
+  background-color: #333;
+}
+
+main > article table th,
+main > article table td {
+  padding: 5px 5px;
+}
+
+main > article table tbody tr {
+  border-bottom: 1px solid #ddd;
+}
+
+main > article table tbody tr:nth-of-type(even) {
+  background-color: #234;
+}
+
+main > article table tbody tr:hover {
+  font-weight: bold;
+  background-color: #000a;
+}
+
+/********************************************************************
+ * main content
+ ********************************************************************/
+
+@media (max-width: 720px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+  aside {
+    height: auto;
+    text-align: center;
+    position: unset;
+    border-right: unset;
+    border-bottom: 1px dashed;
+  }
+  .article-list-container label {
+    display: block;
+    cursor: pointer;
+    font-size: 2em;
+    font-weight: bold;
+  }
+  .article-list li {
+    display: none;
+  }
+  #article-list-toggle:checked + .article-list li {
+    display: block;
+  }
+  aside > .sidebar-header img {
+    max-width: 40%;
+    max-height: 40%;
+  }
+  main > article {
+    padding: 20px;
+  }
+  main > article .toc-float {
+    float: none;
+    margin: 0;
+  }
+}
