@@ -1,6 +1,6 @@
 ---
-issue: 2021-07
-order: 202107-40
+issue: 2021-08
+order: 202108-40
 layout: article
 category: Current Events
 title: Current Events
@@ -24,24 +24,15 @@ These events are open to any community member who wants to particpate.
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=12143>
 - Period: January 2021 - Current
 - Host: {% rauserpic ikki5 %} and {% rauserpic Flara %}
-- Currently 1st place (with 32 points):
+- Currently 1st place (with 36 points):
   - {% rauserpic AgentRibinski %}
   - {% rauserpic Arekdias %}
-  - {% rauserpic BahamutVoid %}
-  - {% rauserpic bonecrusher1022 %}
-  - {% rauserpic Botch %}
-  - {% rauserpic CMatador  %}
-  - {% rauserpic DoctorV %}
   - {% rauserpic Fergdog %}
   - {% rauserpic GIGsnake %}
-  - {% rauserpic HeynongMan %}
   - {% rauserpic LogicalFallacy %}
-  - {% rauserpic perdiga %}
   - {% rauserpic PlyrPls %}
   - {% rauserpic Pudpod %}
-  - {% rauserpic StingX2 %}
   - {% rauserpic Tirbaba %}
-  - {% rauserpic Xymjak %}
  
 <a href="#top">:top:</a>
 
@@ -78,8 +69,9 @@ These events are open to any community member who wants to particpate.
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %} and {% rauserpic televandalist %}
 - Current Winners:
-    - Month 11: {% rauserpic Xymjak %} and {% rauserpic SlashTangent %}
+    - Month 12: {% rauserpic Freezestar %} and {% rauserpic Televandalist %}
 - Previous Winners:
+    - Month 11: {% rauserpic Xymjak %} and {% rauserpic SlashTangent %}
     - Month 10: {% rauserpic ISmileyzI %} and {% rauserpic SlashTangent %}
     - Month 9: {% rauserpic Gamechamp %} and {% rauserpic SlashTangent %}
     - Month 8: {% rauserpic HolyShinx %} and {% rauserpic SlashTangent %}
@@ -99,8 +91,8 @@ These events are open to any community member who wants to particpate.
 - Forum topic: <http://retroachievements.org/viewtopic.php?t=12108>
 - Period: January 2021 - Current
 - Host: {% rauserpic Bendyhuman %}
-- Currently 1st place (with 151 points):
-  - {% rauserpic FireSonic %}
+- Currently 1st place (with 168 points):
+  - {% rauserpic YahwehTzVaoth %}
 
 <a href="#top">:top:</a>
 
@@ -111,6 +103,8 @@ These events are open to any community member who wants to particpate.
 - Period: February 2021 - Current
 - Host: {% rauserpic SnowPin %}
 - Winners of atleast 3 Challenges:
+  - {% rauserpic Bendyhuman %}
+  - {% rauserpic FireSonic %}
   - {% rauserpic freezestar %}
   - {% rauserpic Gamechamp %}
   - {% rauserpic Grungust %}
@@ -120,9 +114,17 @@ These events are open to any community member who wants to particpate.
   - {% rauserpic SlashTangent %}
   - {% rauserpic StingX2 %}
   - {% rauserpic televandalist %}
+  - {% rauserpic Xymjak %}
 
 <a href="#top">:top:</a>
 
+## Leaderboards of the Month
+
+- Forum topic: <https://retroachievements.org/viewtopic.php?t=13412>
+- Period: July 2021 - Current
+- Host: {% rauserpic Searo %}
+- Currently 1st place (with 44 points):
+  - {% rauserpic Xymjak %}
 
 ## Spot the Difference
 
@@ -130,6 +132,7 @@ The RANews Spot the difference minigame was posted in a previous [Fun](fun) sect
 The goal was to find all 10 differences between different parallel universes.
 
 - Winners of Spotting the Difference:
+    - July: {% rauserpic blendedsea %}
     - June: {% rauserpic Burgins %}
     - May: {% rauserpic Nevermond12 %}
 
