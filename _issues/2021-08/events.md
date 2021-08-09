@@ -69,7 +69,7 @@ These events are open to any community member who wants to particpate.
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %} and {% rauserpic televandalist %}
 - Current Winners:
-    - Month 12: {% rauserpic Freezestar %} and {% rauserpic Televandalist %}
+    - Month 12: {% rauserpic freezestar %} and {% rauserpic televandalist %}
 - Previous Winners:
     - Month 11: {% rauserpic Xymjak %} and {% rauserpic SlashTangent %}
     - Month 10: {% rauserpic ISmileyzI %} and {% rauserpic SlashTangent %}
