@@ -52,7 +52,16 @@ There is only one leaderboard currently available. Highest Score In Sky Palace r
 ***
 
 ### Achievements	
-Total achievements: 33 in total. 13 item achievements; 3 progress achievements; 1 completionist achievement; 4 boss achievements; 2 end game challenge achievements; 7 buff attribute achievements; 2 missable achievements; 1 misc achievement.
+
+- **Total achievements**: 33
+- 13 item based
+- 3 progress based
+- 1 completionist
+- 4 boss
+- 2 end game challenge
+- 7 buff attribute
+- 2 missable
+- 1 misc
 
 ***
 
