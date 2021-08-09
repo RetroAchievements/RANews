@@ -79,7 +79,7 @@ Which sets got their game icons and/or badges changed.
 
 ### Fun
 
-In this issue {% rauser SporyTike %} want us to find the mess caused by timetravelling in Lenne Square, from Chrono Trigger.
+In this issue {% rauser SporyTike %} wants us to find the mess caused by timetravelling in Lenne Square, from Chrono Trigger.
 
 ## Acknowledgements
 
