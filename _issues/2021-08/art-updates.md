@@ -16,7 +16,8 @@ toc: true
 |------|---------|-------------|
 | <a class="gameicon-link" href="https://retroachievements.org/game/748" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045620.png" alt="Classic NES Series: The Legend of Zelda"> <span>Classic NES Series: The Legend of Zelda</span></a> | {% rauser BlazingSpade %}  | <img class="gameicon" src="https://retroachievements.org/Images/005195.png" alt="old icon">
 | <a class="gameicon-link" href="https://retroachievements.org/game/749" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045977.png" alt="Classic NES Series: Zelda II: The Adventure of Link"> <span>Classic NES Series: Zelda II: The Adventure of Link</span></a> | {% rauser BlazingSpade %}  | <img class="gameicon" src="https://retroachievements.org/Images/005196.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/7015" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045956.png" alt="Zatch Bell! Electric Arena \| Konjiki no Gash Bell!!: Unare! Yuujou no Zakeru"> <span>Zatch Bell! Electric Arena \| Konjiki no Gash Bell!!: Unare! Yuujou no Zakeru</span></a> | {% rauser affftedio %}  | <img class="gameicon" src="https://retroachievements.org/Images/008999.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/784" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/046277.png" alt="Mega Man Zero 4"> <span>Mega Man Zero 4</span></a> | {% rauser Soulsderfuchs %}  | <img class="gameicon" src="https://retroachievements.org/Images/038383.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/7015" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045956.png" alt="Zatch Bell! Electric Arena \| Konjiki no Gash Bell!!: Unare! Yuujou no Zakeru"> <span>Zatch Bell! Electric Arena \| Konjiki no Gash Bell!!: Unare! Yuujou no Zakeru</span></a> | {% rauser MaddieKittyTV %}  | <img class="gameicon" src="https://retroachievements.org/Images/008999.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
@@ -162,7 +163,7 @@ toc: true
 
 #### Yu-Gi-Oh! GX: Duel Academy
  
-**New badges by {% rauser Renan007 %} .**
+**New badges by {% rauser Ragengow %} .**
  
 **Previous Badges:**
 
@@ -182,7 +183,7 @@ toc: true
 
 #### Pokemon Silver Version
  
-**New badges by {% rauser SlashTangent %} .**
+**New badges by {% rauser blendedsea %} .**
  
 **Previous Badges:**
 
@@ -210,8 +211,6 @@ toc: true
 ### Mega Drive
 
 
-
-
 #### Rocket Knight Adventures
  
 **New badges by {% rauser MrOwnership %} .**
@@ -223,6 +222,20 @@ toc: true
 **Current Badges:**
 
 ![after](https://user-images.githubusercontent.com/53956327/127685410-7e33ad0a-ce8d-488a-8ab0-46b5626877a9.png)
+
+
+
+#### Phantasy Star IV: The End of the Millennium
+ 
+**New badges by {% rauser Tybis %} .**
+ 
+**Previous Badges:**
+
+![before](https://i.imgur.com/J41JdQb.png)
+ 
+**Current Badges:**
+
+![after](https://i.imgur.com/yLGO9g4.png)
 
 #### ~Unlicensed~ LEGO Batman
  

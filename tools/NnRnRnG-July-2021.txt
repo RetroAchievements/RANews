@@ -196,3 +196,5 @@ art	11588	I	Sasrir	https://retroachievements.org/Images/027335.png	https://retro
 art	909	I	Sasrir	https://retroachievements.org/Images/021887.png	https://retroachievements.org/Images/046271.png
 art	16125	B	pinguupinguu	https://user-images.githubusercontent.com/53956327/128520354-a267e28e-4eaf-4b50-8aab-2149e5ca1077.png	https://user-images.githubusercontent.com/53956327/128520356-7b16a586-45f1-4a2e-9a48-ff86ecbfb621.png
 art	13237	I	Etron	https://retroachievements.org/Images/032455.png	https://retroachievements.org/Images/046278.png
+art	50	B	Tybis	https://i.imgur.com/yLGO9g4.png https://i.imgur.com/J41JdQb.png
+art	784	I	Soulsderfuchs	https://retroachievements.org/Images/038383.png	https://retroachievements.org/Images/046277.png
