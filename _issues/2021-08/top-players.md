@@ -11,7 +11,7 @@ toc: true
 
 Some stats about the top 300 players of RetroAchievements.
 
-Given period: July 1st to July 31st, 2020.
+Given period: July 1st to July 31st, 2021.
 
 ## Ranking
 
