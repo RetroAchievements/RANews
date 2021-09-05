@@ -1,6 +1,6 @@
 ---
 title: RANews
-currentIssue: /issues/2021-08/
+currentIssue: /issues/2021-09/
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -41,7 +41,8 @@ currentIssue: /issues/2021-08/
     }
 
     .bg-image {
-      background: linear-gradient(#0008, #0008), url('./img/cover.png') no-repeat center center fixed;
+      background: linear-gradient(#0008, #0008),
+      url('{{ page.currentIssue }}/img/cover.png') no-repeat center center fixed;
       background-size: cover;
       filter: blur(8px);
       height: 100%;
@@ -59,7 +60,7 @@ currentIssue: /issues/2021-08/
       display: block;
       margin: 0 auto;
       max-width: 100%;
-      max-height: 400px;
+      max-height: 500px;
     }
 
     h1 {
@@ -110,7 +111,7 @@ currentIssue: /issues/2021-08/
       The RetroAchievements digital magazine.
     </h1>
     <a href="{{ page.currentIssue }}">
-      <img class="logo" src="./img/cover.png" alt="RANews">
+      <img class="logo" src="{{ page.currentIssue }}/img/cover.png" alt="RANews">
     </a>
     <div class="cta-button" align="center">
       <a class="cta-button-link" href="/issues/">

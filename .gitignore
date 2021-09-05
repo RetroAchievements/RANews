@@ -1,5 +1,6 @@
 # RANews stuff
 _temp/*
+_downloads/*
 tmp/*
 tools/.env
 tools/err

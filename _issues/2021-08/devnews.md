@@ -16,7 +16,7 @@ What's going on in the achievement creation scene.
 
 In July we started the DevQuest #7.
 
-If you want more info about all DevQuests, we centralize information about them [in this forum topic](\https://retroachievements.org/viewtopic.php?t=13060).
+If you want more info about all DevQuests, we centralize information about them [in this forum topic](https://retroachievements.org/viewtopic.php?t=13060).
 
 
 ### QUEST #007: Most Wanted

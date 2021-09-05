@@ -6,7 +6,7 @@ author: SporyTike
 category: Fun
 ---
 
-## June's Spot the Difference Winner
+## July's Spot the Difference Winner
 
 <div class="bingo-winner">
   <img class="bingo-trophy" src="../../img/trophy.png" alt="trophy" />
