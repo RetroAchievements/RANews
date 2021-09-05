@@ -22,8 +22,6 @@ Official release is planned for late September or early October, so stay tuned!
 
 **NOTE:** These are *currently active claims* and are subject to change at any time.
 
-Some sets have already been completed, and will be available upon the console's release to RetroAchievements!
-
 ## First Row
 
 ![](./img/psp-games-1.png)

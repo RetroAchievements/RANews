@@ -33,7 +33,7 @@ Special thanks to {% rauser Nydaxn %} for creating the nice-looking images for t
 | MSX | {% rauserpic deng %} |
 | N64 | {% rauserpic Aquator %} |
 | NES | {% rauserpic SanMarino %} |
-| Nintendo DS | {% rauserpic BendyHuman %} |
+| Nintendo DS | {% rauserpic Bendyhuman %} |
 | PC Engine | {% rauserpic Wendigo %} |
 | PC-8000/8800 | {% rauserpic guineu %} |
 | PlayStation | {% rauserpic Alexxi %} |
