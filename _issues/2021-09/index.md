@@ -85,7 +85,7 @@ Community members talking about their favorite sets and why you should play them
 
 #### RAGuide
 
-This month our official RAGuide Curator {% rauser ViperZang %} picked guide from {% rauser Schlim %}. It'll show you how to wax on, wax off in Karate Kid (Atari 2600).
+This month our official RAGuide Curator {% rauser ViperZang %} picked guide from {% rauser Schlim %}. It'll show you kids how to wax on, wax off in Karate Kid (Atari 2600).
 
 
 #### Current Events

@@ -44,7 +44,7 @@ The manual says that *Difficulty A* is slow mode and *Difficulty B* is fast mode
 | Up + Fire             | Up Punch    | 
 | Down + Fire            | Straight Punch |
 | Right + Fire           | Straight Kick |
-| Left + Fire            | Up Kick |.         
+| Left + Fire            | Up Kick |
     
 **Scoring System**
 
