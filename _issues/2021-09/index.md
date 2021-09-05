@@ -37,6 +37,14 @@ Our Nerd Guru {% rauser Jamiras %} is still trimming some edges and our brave ac
 
 In the **PSP First Look** article {% rauser StingX2 %} shares with us the achievement sets that will come soon.
 
+#### Wish This Set
+
+If you're a typical RANews reader you're already familiar with the Play-This-Set, right? That's where people try to convince other members to play an existing set.
+
+Wish this set has a similar purpose, but it's intended to convince other members to request a game that doesn't have an achievement set yet.
+
+[For those who don't know, if a game doesn't have achievements, you can Request a set for it by clicking in the `Request Set` link in the game's page.]
+
 #### RAdvantage
 
 A new segment where community members share their tricks about challenging achievements.
@@ -49,6 +57,12 @@ Really cool content produced by our members. There are even videos showing their
 A new segment where we want to poke into the brain of a RA community member with an interview.
 
 Debuting with the most prolific achievement creator on this planet (and now retired): [Salsa](raspotlight).
+
+
+#### RAnniversaries
+
+Highlighting the members who have been with us and for how long.
+
 
 ### Traditional Segments
 

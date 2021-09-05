@@ -1,6 +1,6 @@
 ---
 issue: 2021-09
-order: 202109-21
+order: 202109-25
 layout: article
 title: RAdvantage
 author: pinguupinguu
