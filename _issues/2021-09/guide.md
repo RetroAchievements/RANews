@@ -3,7 +3,7 @@ issue: 2021-09
 order: 202109-30
 layout: article
 category: RAGuide
-title: "Karate Kid (Atari 2600)"
+title: "Karate (Atari 2600)"
 author: Schlim
 toc: true
 toc_float: true
