@@ -40,7 +40,7 @@ Stay up to date with what's going on in Achievement Creation scene.
 
 ### PSP Development Tips
 
-Interested in create a set for a PSP game? Our developers have been hard at work preparing for the PSP launch and have some words of wisdom to aid your PSP set development.
+Interested in creating a set for a PSP game? Our developers have been hard at work preparing for the PSP launch and have some words of wisdom to aid your PSP set development.
 
 
 ### Play This Set
