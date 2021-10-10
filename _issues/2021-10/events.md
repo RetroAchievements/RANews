@@ -71,10 +71,10 @@ These events are open to any community member who wants to particpate.
 - Period: July 2020 - Current
 - Host: {% rauserpic SlashTangent %} and {% rauserpic televandalist %}
 - Current Winners:
-    - Month 14: {% rauserpic Tayadaoc %} and {% rauserpic Slashtangent %}
+    - Month 14: {% rauserpic Tayadaoc %} and {% rauserpic SlashTangent %}
 - Previous Winners:
-    - Month 13: {% rauserpic Tayadaoc %} and {% rauserpic Wilhitewarrior %}
-    - Month 12: {% rauserpic Freezestar %} and {% rauserpic Televandalist %}
+    - Month 13: {% rauserpic Tayadaoc %} and {% rauserpic wilhitewarrior %}
+    - Month 12: {% rauserpic freezestar %} and {% rauserpic televandalist %}
     - Month 11: {% rauserpic Xymjak %} and {% rauserpic SlashTangent %}
     - Month 10: {% rauserpic ISmileyzI %} and {% rauserpic SlashTangent %}
     - Month 9: {% rauserpic Gamechamp %} and {% rauserpic SlashTangent %}
@@ -132,7 +132,7 @@ The goal was to find all 10 differences between different parallel universes.
 
 - Winners of Spotting the Difference:
     - September: {% rauserpic Adenothe %}
-    - August: {% rauserpic Nevermond12 %} & {% rauserpic TheFeteshMachine %}
+    - August: {% rauserpic Nevermond12 %} & {% rauserpic TheFetishMachine %}
     - July: {% rauserpic blendedsea %}
     - June: {% rauserpic Burgins %}
     - May: {% rauserpic Nevermond12 %}

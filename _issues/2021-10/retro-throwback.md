@@ -10,13 +10,13 @@ title: "Retro Throwback N64 - Banjo-Kazooie"
 <figure style="text-align:center;float:right;width:50%;height:50%;">
 <img src="img/throwback-n64-and-cartridge.jpg">
 <figcaption>
-My own copy of Banjo Kazooie with my ({% rauser Flara %}’s really) N64
+My own copy of Banjo-Kazooie with my ({% rauser Flara %}’s really) N64
 </figcaption>
 </figure>
 
 There are many great games out there for the N64. The N64 probably has some of the greatest games of all time, games like The Legend of Zelda: Ocarina of Time, Super Mario 64, Conker’s Bad Fur Day and so on.
 
-Today however, I would like to talk about one of my favourites for the system, Banjo Kazooie.
+Today however, I would like to talk about one of my favourites for the system, Banjo-Kazooie.
 
 I remember back when the game released in the summer of 1998, it was something I wanted to experience. It was the first game I had ever rented myself and I was completely in love with the game, it is also a game that (kind of) fits the theme for October and Halloween, your main villain is a Witch and one of the best levels in the game is a haunted level. The game is essentially a game where you go from world to world, exploring each one and getting all the collectables in each one.
 

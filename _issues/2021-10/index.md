@@ -50,7 +50,7 @@ Community members talking about their favorite sets and why you should play them
 
 ### Wish This Set
 
-Wish this set is intended to convince other members to request a game that doesn’t have an achievement set yet. {% rauser Flashfire42 %} continues this installment with 10 new games that are in need of a set.
+Wish This Set is intended to convince other members to request a game that doesn’t have an achievement set yet. {% rauser Flashfire42 %} continues this installment with 10 new games that are in need of a set.
 
 [For those who don't know if a game doesn't have achievements, you can Request a set for it by clicking in the `Request Set` link in the game's page.]
 
@@ -68,7 +68,7 @@ A new segment where community members share their tricks about challenging achie
 
 ### Retro Throwback
 
-{% rauser ikki5 %} brings us another installment of Retro Throwback, this time he is going to share his experiance with Banjo Kazooie for the Nintendo 64.
+{% rauser ikki5 %} brings us another installment of Retro Throwback, this time he is going to share his experience with Banjo-Kazooie for the Nintendo 64.
 
 ### HotCheevs Monthly
 

@@ -29,7 +29,7 @@ RAIntegration 0.79.4 has been released
 
 ## RALibRetro
 
-RALibretro 1.3.8 has been released
+RALibRetro 1.3.8 has been released
 Primary feature is PSP support
 
 
