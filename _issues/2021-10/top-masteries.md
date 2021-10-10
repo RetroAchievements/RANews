@@ -127,7 +127,8 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 ### N64
 
 ![Top Mastery Ranking](img/top-mastery-n64.png)
-- {% rauserpic Wiiner %} and {% rauserpic Nevermond12 %} have made their way into 3rd and 4th place and are eyeballing that top spot. {% rauserpic Aquator %} and {% rauserpic Pampa50 %} and still holding on tight to the 1st and 2nd place spots.
+- {% rauserpic Aquator %} is slightly increasing the lead over and {% rauserpic Draco655 %} and {% rauserpic BenTobitt %} with 1 new mastery award this month.
+- {% rauserpic Fearnavigatr %} has made it into the top 25 and is sitting at 24th place.
 
 ### NES
 
@@ -164,7 +165,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 ### Saturn
 
 ![Top Mastery Ranking](img/top-mastery-saturn.png)
-- {% rauserpic Boldewin %} still remains king with 10 mastery awards.
+- {% rauserpic Boldewin %} still remains king with 11 mastery awards.
 - {% rauserpic Retrokaiser %} has launched his way into the top 25 and now sits at 6th place with 5 new mastery awards this month.
 - {% rauserpic freezestar %} has jumped into the top 25 as well and sits at 14th place.
 

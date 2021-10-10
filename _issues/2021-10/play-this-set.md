@@ -35,23 +35,23 @@ I call this a hidden gem, since I suspect not many have played it, or even heard
 
 ## Mighty Morphin Power Rangers (Game Gear)
 
-| Game                                                                                                                                                                                                                                                                   | Console   | Genre         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/12636" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/023381.png" alt="Mighty Morphin Power Rangers"> <span>Mighty Morphin Power Rangers</span></a> | Game Gear | Fighting/Beat |
+| Game                                                                                                                                                                                                                                                                   | Console   | Genre                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/12636" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/023381.png" alt="Mighty Morphin Power Rangers"> <span>Mighty Morphin Power Rangers</span></a> | Game Gear | Fighting/Beat 'em Up |
 
 * Writeup and set by: {% rauserpic mopain85 %}
 
 It's morphin time! An iconic line from an ever-popular series! Power Rangers is one of the great TV shows, movies, and video games that I grew up with. Most of us can relate to one another in our love for this great series! Regardless of which version you started watching, we cannot forget where they came from. The Mighty Morphin Power Rangers, the first iteration, and my personal favorite.
 
-Growing up I was excited when they started releasing Power Ranger video games! In 1994 the first Mighty Morphin Power Rangers video game was released. It debuted on numerous consoles and handhelds and was met with great success. Game gear was a handheld I couldn’t get my hands on growing up, but I am glad to finally knock another Power Rangers game off my bucket list! Power Rangers makes a fantastic display of the capability of this handheld's graphic potential, and the power rangers sounds we all know and love.
+Growing up I was excited when they started releasing Power Ranger video games! In 1994 the first Mighty Morphin Power Rangers video game was released. It debuted on numerous consoles and handhelds and was met with great success. Game Gear was a handheld I couldn’t get my hands on growing up, but I am glad to finally knock another Power Rangers game off my bucket list! Power Rangers makes a fantastic display of the capability of this handheld's graphic potential, and the power rangers sounds we all know and love.
 
 Choose your favorite power ranger and set off to defend the city from putties and a slew of Rita Repulsa's evil monsters. After the puttie invasion and a one-on-one battle with Rita's monster (surprise, surprise) she's up to her old tricks! Magic wand make my monster grow! Once the monster grows there’s no choice but to call in the Zords and have the street fighter style battle ensue! One on one fighting with Zord power moves executed from our favorite button smashing combinations is sure to excite anyone who chooses to play. Nothing compares to fighting the forces of evil and saving the day!
 
-## Turok - Rage Wars (Game Boy Color)
+## Turok: Rage Wars (Nintendo 64)
 
-| Game                                                                                                                                                                                                                                            | Console        | Genre |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/4108" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Turok - Rage Wars"> <span>Turok - Rage Wars</span></a> | Game Boy Color | -     |
+| Game                                                                                                                                                                                                                                           | Console     | Genre                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- | -------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/10519" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/020129.png" alt="Turok: Rage Wars"> <span>Turok: Rage Wars</span></a> | Nintendo 64 | First-person shooter |
 
 * Writeup by: {% rauserpic mopain85 %}
 
