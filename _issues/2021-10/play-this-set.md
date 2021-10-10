@@ -7,6 +7,21 @@ author: adamjohnny5
 toc: true
 ---
 
+## Kirby: Squeak Squad (Nintendo DS)
+
+| Game                                                                                                                                                                                                                                                 | Console     | Genre             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/14700" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/046735.png" alt="Kirby: Squeak Squad"> <span>Kirby: Squeak Squad</span></a> | Nintendo DS | Action Platformer |
+
+- Set by: {% rauserpic pinguupinguu %} and {% rauserpic StingX2 %}
+- Writeup by: {% rauserpic pinguupinguu %}
+
+Ahoy! Join the adorable, pink puffball in your next adventure as you fight off the Squeak Squad! Travel through the vast grasslands, the clouds of the sky, and even the galaxy to complete your adventure! As you travel through these levels, make sure to collect every single treasure that you see along the way. But, beware! A few Squeaks might try to steal the prize you so rightfully discovered.
+
+What a perfect adventure to bring to RetroAchievements! This collaboration achievement set between StingX2 and pinguupinguu provides a fun amount of progression and challenges to keep you playing this game! Highlights in this set include your basic progression, mini-games, and even some boss challenges! I also heard that Kirby may be a hired…. Hitman? You’ll have to find out for yourself! If you like challenge with a hint of mystery, then this set is for you!
+
+Special thanks to StingX2 for set design, and badges. Huge thank you to Zpeligo for helping to maintain this set. (It was cursed after all!)
+
 ## Yu-Gi-Oh! Duel Monsters (Game Boy)
 
 | Game                                                                                                                                                                                                                                                       | Console  | Genre       |
