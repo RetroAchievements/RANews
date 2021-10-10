@@ -11,6 +11,31 @@ author: MrOwnership
 
 Here you can find development tips from several developers with PSP launch day sets. They have been hard at work making the PSP launch the biggest system launch on RetroAchievements. Hope these tips will help you during your PSP set development.
 
+## <a href="https://retroachievements.org/user/BigWeedSmokerMan" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/UserPic/BigWeedSmokerMan.png" alt="BigWeedSmokerMan"> <span>BigWeedSmokerMan</span></a>
+Logistics:
+
+Save States are big, roughly 40MB, and loading between them frequently can crash RALib (at least at the time of writing this). 
+
+Save. Often.
+
+Don’t let the size of states have you shy away from creating them often, you’ll just need to be intelligent about when and where you make states. Once you complete a section of progression achievements, maybe zip your states to save space.
+
+The further we get into console generations, the higher the chance that any given title will be longer and more involved. Spend extra time watching longplays, reading guides and getting hands on experience with the title than you normally would, it will come in handy. 
+
+Memory:
+Be prepared for a strong possibility of layered pointers. 
+
+One problem I ran into was a dynamic statistic table that expanded from the middle-out as new stats were discovered, the table didn’t really use pointers, so I had to essentially scan the table using alt groups. 
+
+One of the major identifiers in the above mentioned tables was ASCII debug variable names, typically you want to avoid using text when you can, but when deving PSP I found several variable names that were indicative of what the surrounding values represented, as long as these are consistent across languages (they should be, debug values aren’t often localized) you should feel free to use them if they will help you. 
+
+Get comfortable with floats, I ran into a fair amount but didn’t need to use them personally, there are plenty of online converters, and Jamiras is working on adding float support to the current RA Toolset. 
+
+Closing Thoughts:
+PSP is extremely daunting and the dig can be disheartening, you may need to find creative ways to solve problems, and you likely won't find the perfect pointers/values you need first try. 
+
+Keep at it and ask lots of questions.
+
 ## <a href="https://retroachievements.org/user/blendedsea" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/UserPic/blendedsea.png" alt="blendedsea"> <span>blendedsea</span></a>
 My experience working with PSP was fun and a nice new experience. It wasn't overly difficult to work with but I've also had experience with one of the most modern consoles we support, DS. One of the biggest walls was probably the pointers as they seemed to (for my game and many others') not be direct pointers. If devs and Jrs are looking for a way to expand their skills and experience, PSP is the perfect console for that.
 
@@ -45,30 +70,6 @@ Since we don't have a real working range for memory yet, RAM digging takes quite
 
 ## <a href="https://retroachievements.org/user/SlashTangent" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/UserPic/SlashTangent.png" alt="SlashTangent"> <span>SlashTangent</span></a>
 Think about your cheat protection carefully. There are a lot of different ways in which someone can cheat these games, much more so than was available in earlier console generations.
-FamilyMan — Today at 11:26 PM
-Logistics:
-
-Save States are big, roughly 40MB, and loading between them frequently can crash RALib (at least at the time of writing this). 
-
-Save. Often.
-
-Don’t let the size of states have you shy away from creating them often, you’ll just need to be intelligent about when and where you make states. Once you complete a section of progression achievements, maybe zip your states to save space.
-
-The further we get into console generations, the higher the chance that any given title will be longer and more involved. Spend extra time watching longplays, reading guides and getting hands on experience with the title than you normally would, it will come in handy. 
-
-Memory:
-Be prepared for a strong possibility of layered pointers. 
-
-One problem I ran into was a dynamic statistic table that expanded from the middle-out as new stats were discovered, the table didn’t really use pointers, so I had to essentially scan the table using alt groups. 
-
-One of the major identifiers in the above mentioned tables was ASCII debug variable names, typically you want to avoid using text when you can, but when deving PSP I found several variable names that were indicative of what the surrounding values represented, as long as these are consistent across languages (they should be, debug values aren’t often localized) you should feel free to use them if they will help you. 
-
-Get comfortable with floats, I ran into a fair amount but didn’t need to use them personally, there are plenty of online converters, and Jamiras is working on adding float support to the current RA Toolset. 
-
-Closing Thoughts:
-PSP is extremely daunting and the dig can be disheartening, you may need to find creative ways to solve problems, and you likely won't find the perfect pointers/values you need first try. 
-
-Keep at it and ask lots of questions.
 
 ## <a href="https://retroachievements.org/user/SnowPin" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/UserPic/SnowPin.png" alt="SnowPin"> <span>SnowPin</span></a>
 Don't get flustered by the amount of memory addresses that blast you in the face on your first scan. It's really no different then any other system, just more junk to burry.

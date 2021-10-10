@@ -32,7 +32,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 | Master System       | {% rauserpic Jungon %}                                                         | 46             |
 | Mega Drive          | {% rauserpic DUT %}                                                            | 91             |
 | MSX                 | {% rauserpic deng %}                                                           | 5              |
-| N64                 | {% rauserpic Aquator %}                                                        | 75             |
+| N64                 | {% rauserpic Aquator %}                                                        | 33             |
 | NES                 | {% rauserpic SanMarino %}                                                      | 224            |
 | Nintendo DS         | {% rauserpic Bendyhuman %}                                                     | 26             |
 | PC Engine           | {% rauserpic Wendigo %}                                                        | 19             |

@@ -62,8 +62,7 @@ Wish This Set is intended to convince other members to request a game that doesn
 
 ### RAdvantage
 
-{% rauser pinguupinguu %} brings us 5 new tips from the community members to help you with your 
-A new segment where community members share their tricks about challenging achievements.
+{% rauser pinguupinguu %} brings us 5 new tips from the community members to help you with your achievement hunting.
 
 
 ### Retro Throwback
