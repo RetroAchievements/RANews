@@ -126,7 +126,7 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-| {% rauserpic adamjohnny5 %}   | {% rauserpic BendyHuman %}    | {% rauserpic BigWeedSmokerMan %} |
+| {% rauserpic adamjohnny5 %}   | {% rauserpic Bendyhuman %}    | {% rauserpic BigWeedSmokerMan %} |
 | {% rauserpic blendedsea %}    | {% rauserpic CanadianLooni %} | {% rauserpic Chauckles %}        |
 | {% rauserpic CobaltZeroni %}  | {% rauserpic DoctorV %}       | {% rauserpic Flashfire42 %}      |
 | {% rauserpic guineu %}        | {% rauserpic HolyShinx %}     | {% rauserpic Hotscrock %}        |

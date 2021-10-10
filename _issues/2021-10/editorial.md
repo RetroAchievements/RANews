@@ -110,7 +110,7 @@ Rarely will anyone give you credit for what you've done. And when you are about 
 
 I'm not saying all those things above to demotivate you from contributing with RA. Even with those sad truths it feels great to be part of this project and share our passion with like-minded people!
 
-My appeal here is that if you sacrificing yourself for the sake of RA, please stop it! :pray:
+My appeal here is that if you're sacrificing yourself for the sake of RA, please stop it! :pray:
 
 You know, "The Internet" doesn't give a damn about your sacrifices and you'll most likely be plagued by feelings of ingratitude.
 
@@ -118,7 +118,7 @@ If you love this project and want see it shine:
 
 **Take care of yourself before worrying about RA.**
 
-If you feel like I'm still talking like a hypocrite, pretending that I care about you, let me put it in another way:
+If you feel like I'm talking like a hypocrite, pretending that I care about you, let me put it in another way:
 
 **You will be much more useful for RA living a healthy life than otherwise.**
 

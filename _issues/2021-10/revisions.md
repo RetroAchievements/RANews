@@ -49,6 +49,7 @@ toc: true
 | <a class="gameicon-link" href="https://retroachievements.org/game/1662" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/035269.png" alt="Double Dragon III: The Sacred Stones"> <span>Double Dragon III: The Sacred Stones</span></a> | {% rauser MarioJunior10 %} | Beat 'em up                                 |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3814" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045975.png" alt="Mother \| Earthbound Beginnings"> <span>Mother \| Earthbound Beginnings</span></a>           | {% rauser QATeam %}        | Role-Playing                                |
 | <a class="gameicon-link" href="https://retroachievements.org/game/2060" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/004279.png" alt="Vice: Project Doom"> <span>Vice: Project Doom</span></a>                                     | {% rauser QATeam %}        | Platformer, Driving, Shooter, Rail Shooter. |
+| <a class="gameicon-link" href="https://retroachievements.org/game/8493" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045845.png" alt="~Hack~ My Little Pony: Dr. Discord's Conquest"> <span>~Hack~ My Little Pony: Dr. Discord's Conquest</span></a> | {% rauser Infernox %} | Platformer |
 
 <a href="#toc">:top:</a>
 
@@ -160,13 +161,3 @@ toc: true
 
 
 
-## Demoted Sets
-
-### NES
-
-
-| Game                                                                                                                                                                                                                                                                                                    | Demotion By           | Genre      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/8493" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045845.png" alt="~Hack~ My Little Pony: Dr. Discord's Conquest"> <span>~Hack~ My Little Pony: Dr. Discord's Conquest</span></a> | {% rauser Infernox %} | Platformer |
-
-<a href="#toc">:top:</a>

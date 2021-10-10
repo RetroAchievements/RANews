@@ -2,6 +2,7 @@
 issue: 2021-10
 order: 202110-13
 layout: article
+category: DevTips
 title: PSP Development Tips
 author: MrOwnership
 ---
