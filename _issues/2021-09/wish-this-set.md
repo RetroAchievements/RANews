@@ -138,3 +138,5 @@ The interesting thing about Ace Attorney Investigations 2 is that it never recei
 You also need to understand how absurdly hyped I was to play this game originally. It was so tantalizing knowing that there was a game out there that I wanted to play so incredibly badly, knowing that there were spoilers that I needed to avoid, knowing that someday there would finally be a way to experience it in English. You would think these sorts of expectations would be setting myself up for disappointment, yet I ended up so overwhelmingly satisfied with the final product.
 
 That initial playthrough was the last time I’ve played the game. I still remember the major twists, of course, but it’s been long enough for me to forget many of the finer details. I’m itching to replay this one so badly, if only someone out there would step forward and make an achievement set! I’ve already replayed all the Ace Attorney games up to this point in preparation, and I’m so ready to re-experience the story that brought me such intense happiness years ago. If this goes on long enough, I may have to learn how to dev it myself!
+
+\* Screenshots via [MobyGames](http://www.mobygames.com/).
