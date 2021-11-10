@@ -180,10 +180,6 @@ toc: true
 <a href="#toc">:top:</a>
 
 
-
-## Demoted Sets
-
-
 ## Revisions Cancelled
 
 ### NES

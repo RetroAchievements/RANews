@@ -110,16 +110,15 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-| {% rauserpic adamjohnny5 %}   | {% rauserpic affftedio %}     | {% rauserpic Alfex %}          |
-| {% rauserpic BahamutVoid %}   | {% rauserpic Bendyhuman %}    | {% rauserpic blendedsea %}     |
-| {% rauserpic Chauckles %}     | {% rauserpic Chauckles %}     | {% rauserpic CobaltZeroni %}   |
-| {% rauserpic ColonD %}        | {% rauserpic Dimedime %}      | {% rauserpic DrackosFlare %}   |
-| {% rauserpic echoscreen %}    | {% rauserpic FerrousFeline %} | {% rauserpic Freakservo %}     |
-| {% rauserpic GameZone %}      | {% rauserpic HolyShinx %}     | {% rauserpic Hotscrock %}      |
-| {% rauserpic ikki5 %}         | {% rauserpic mefaun %}        | {% rauserpic Mekevin255 %}     |
-| {% rauserpic MGNS8M %}        | {% rauserpic mopain85 %}      | {% rauserpic MrOwnership %}    |
-| {% rauserpic Nydaxn %}        | {% rauserpic Olafur %}        | {% rauserpic Pelouch %}        |
-| {% rauserpic pinguupinguu %}  | {% rauserpic QATeam %}        | {% rauserpic RearviewMirror %} |
-| {% rauserpic SporyTike %}     | {% rauserpic stfN1337 %}      | {% rauserpic StingX2 %}        |
-| {% rauserpic televandalist %} | {% rauserpic Tybis %}         | {% rauserpic ViperZang %}      |
-| {% rauserpic Xymjak %}        |                               |                                |
+| {% rauserpic adamjohnny5 %}   | {% rauserpic affftedio %}      | {% rauserpic Alfex %}         |
+| {% rauserpic BahamutVoid %}   | {% rauserpic Bendyhuman %}     | {% rauserpic blendedsea %}    |
+| {% rauserpic Chauckles %}     | {% rauserpic CobaltZeroni %}   | {% rauserpic ColonD %}        |
+| {% rauserpic Dimedime %}      | {% rauserpic DrackosFlare %}   | {% rauserpic echoscreen %}    |
+| {% rauserpic FerrousFeline %} | {% rauserpic Freakservo %}     | {% rauserpic GameZone %}      |
+| {% rauserpic HolyShinx %}     | {% rauserpic Hotscrock %}      | {% rauserpic ikki5 %}         |
+| {% rauserpic mefaun %}        | {% rauserpic Mekevin255 %}     | {% rauserpic MGNS8M %}        |
+| {% rauserpic mopain85 %}      | {% rauserpic MrOwnership %}    | {% rauserpic Nydaxn %}        |
+| {% rauserpic Olafur %}        | {% rauserpic Pelouch %}        | {% rauserpic pinguupinguu %}  |
+| {% rauserpic QATeam %}        | {% rauserpic RearviewMirror %} | {% rauserpic SporyTike %}     |
+| {% rauserpic stfN1337 %}      | {% rauserpic StingX2 %}        | {% rauserpic televandalist %} |
+| {% rauserpic Tybis %}         | {% rauserpic ViperZang %}      | {% rauserpic Xymjak %}        |

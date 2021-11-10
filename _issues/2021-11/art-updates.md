@@ -268,9 +268,3 @@ toc: true
 | <a class="gameicon-link" href="https://retroachievements.org/game/15564" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049220.png" alt="Road Rash"> <span>Road Rash</span></a> | {% rauser miccmike %} | <img class="gameicon" src="https://retroachievements.org/Images/031087.png" alt="old icon"> |
 
 <a href="#toc">:top:</a>
-
-
-
-## Achievement Badges Changes
-
-
