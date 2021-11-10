@@ -70,11 +70,11 @@ These events are open to any community member who wants to participate.
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=11073>
 - Period: July 2020 - Current
-- Host: {% rauserpic StingX2 %} and {% rauserpic televandalist %}
+- Host: {% rauserpic SlashTangent %} and {% rauserpic televandalist %}
 - Current Winners:
-    - Month 15: {% rauserpic Xymjak %} and {% rauserpic Slashtangent %}
+    - Month 15: {% rauserpic Xymjak %} and {% rauserpic SlashTangent %}
 - Previous Winners:
-    - Month 14: {% rauserpic Tayadaoc %} and {% rauserpic Slashtangent %}
+    - Month 14: {% rauserpic Tayadaoc %} and {% rauserpic SlashTangent %}
     - Month 13: {% rauserpic Tayadaoc %} and {% rauserpic wilhitewarrior %}
     - Month 12: {% rauserpic freezestar %} and {% rauserpic televandalist %}
     - Month 11: {% rauserpic Xymjak %} and {% rauserpic SlashTangent %}
