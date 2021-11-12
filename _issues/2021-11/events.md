@@ -11,9 +11,6 @@ toc_float: true
 
 Here's the list of events that are open to join. This is a good way for players to get involved with the RA community.
 
-For more info, check the [Current Competitions and Hall of Fame of RA](https://retroachievements.org/viewtopic.php?t=9014) forum topic.
-
-
 These events are open to any community member who wants to participate.
 
 ## Achievement of the Week 2021
