@@ -25,11 +25,11 @@ Submit your tricks to RANews! Go to {% rauser RANews %} page and then "Send Priv
 
 ## Mega Man 6 (NES)
 
-- Tip by: {% rauserpic Bendyhuman %}
-
 | Achievement                                                                                                                                                                                                                                                                      | Game                                                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/achievement/10966" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/100580.png" alt="Silver Tomahawk"> <span>Silver Tomahawk</span></a> | <a class="gameicon-link" href="https://retroachievements.org/game/1485" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/024524.png" alt="Mega Man 6"> <span>Mega Man 6</span></a> |
+
+- Tip by: {% rauserpic Bendyhuman %}
 
 Defeating Tomahawk Man without taking any damage is certainly the toughest part of mastering Mega Man 6. You may be tempted to keep your distance and slide under his attacks, but this often results in you getting cornered when he jumps toward you. Instead, I found it more effective to keep close to him and rhythmically jump over his attacks. You can squeeze in a single hit with the Plant Barrier immediately following each dodge, which will take him down in no time. For a slower but safer strategy, you may want to consider using the POW suit, as each fully charged attack will knock him back a bit, preventing you from getting cornered. If all else fails, don't be afraid to pause and switch to the JET suit for some handy repositioning.
 
