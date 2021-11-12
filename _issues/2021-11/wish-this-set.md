@@ -77,3 +77,22 @@ First released on the MSX in Japan in 1987, Sega would port Golvellius to the Ma
 
 While three games in the series exist (For the MSX, Master System, and MSX2, respectively), they each follow the same story, and interestingly enough, all end on a cliffhanger that was never resolved.  Its developer, Compile, would move on to create the Puyo Puyo series!
 <br clear="left"/>
+
+
+## 42 All-Time Classics | Clubhouse Games (Nintendo DS)
+
+| Game                                                                                                                                                                                                                                                                                         | Console     | Genre               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/17484" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042422.png" alt="42 All-Time Classics \| Clubhouse Games"> <span>42 All-Time Classics \| Clubhouse Games</span></a> | Nintendo DS | Card and Tile Games |
+
+* Writeup by: {% rauserpic Bendyhuman %}
+
+<figure style="text-align:center;float:right;width:50%;height:50%">
+<img src="img/wts-05.png">
+</figure>
+
+I've never played this game, but I really enjoyed the follow-up on Switch. It's a collection of classic games, from card games to board games and more. We have a real lack of this style of game on RA, and I think such a big and seemingly polished compilation would fill that gap quite nicely. Playing against the AI may not be the most exciting thing in the world, but apparently there are ingame stamps and missions to add replayability. With the addition of achievements on top of all this, I think this has the potential to be a colossal set.
+
+*Screenshot via MobyGames
+
+<br clear="right"/>
