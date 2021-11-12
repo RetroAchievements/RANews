@@ -32,7 +32,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images. Ranks 
 | Master System        | {% rauserpic Jungon %}                                                         | 48             |
 | Mega Drive           | {% rauserpic DUT %}                                                            | 99             |
 | MSX                  | {% rauserpic deng %}                                                           | 5              |
-| N64                  | {% rauserpic Aquator %}                                                        | 76             |
+| N64                  | {% rauserpic Aquator %}                                                        | 33             |
 | NES                  | {% rauserpic SanMarino %}                                                      | 229            |
 | Nintendo DS          | {% rauserpic Bendyhuman %}, {% rauserpic ShadwSonic %}                         | 26             |
 | PC Engine            | {% rauserpic Infernum %}                                                       | 20             |
@@ -132,7 +132,8 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images. Ranks 
 
 ![Top Mastery Ranking](img/top-mastery-n64.png)
 - {% rauserpic Aquator %} continues to hold onto the top spot.
-- {% rauserpic ShadwSonic %} has jumped up 13 spots to 8th place with 17 new mastery awards this month.
+- {% rauserpic ChronoGear %} and {% rauserpic Sarconius %} are now tied in 3rd place with {% rauserpic BenTobitt %}.
+- {% rauserpic HippopotamusRex %} has made it into the top 25 and is sitting in a 6-way tie for 14th place.
 
 ### NES
 
