@@ -12,6 +12,7 @@ order: 0
   <ul>
     {% for issue in issues %}
     {% if issue != blank %}
+    {% if issue != "2021-12" %}
     <a href="{{ site.baseurl }}/issues/{{ issue }}">
       <li>
         <h3>
@@ -21,6 +22,7 @@ order: 0
         </h3>
       </li>
     </a>
+    {% endif %}
     {% endif %}
     {% endfor %}
   </ul>
