@@ -28,6 +28,7 @@ These events are open to any community member who wants to participate.
   - {% rauserpic perdiga %}
   - {% rauserpic PlyrPls %}
   - {% rauserpic Pudpod %}
+  - {% rauserpic Tayadaoc %}
   - {% rauserpic TheLooseGroose %}
   - {% rauserpic Tirbaba %}
  
