@@ -83,13 +83,13 @@ Agent 9 will shoot down weapons for Spyro to use on the Sorceress as she cannot 
 
 Leading your shots when you have access to the mobile hover cannon and the flying saucer is the key to a quick fight as you can hit the Sorceress multiple times between her attacks.
 
-#### First Round
+### First Round
 The sorceress has three attacks. A fireball that has mild lock-on (this is the bane of any Bested attempt but is telegraphed well since it the only attack that is orange). An area attack composed of three blue balls that are fired in an arc at Spyros' position at the time. They explode into a ring of damage upon hitting the ground. And a green melee attack shaped like arrows if you get too close to her. Your only weapon is a static cannon with 10 shots that have to be arched at the Sorceress while she runs to different positions across the arena.
 
-#### Second Round
+### Second Round
 The same attacks are present and now she also has a large area attack made of the same blue balls which spread all over the arena. the wind up animation is the same as the three ball attack but the projectiles take longer to land and are more spread out. They cast a shadow on the ground which you can use to avoid them, watch out for clusters because if you get trapped between them the rings of damage will overlap onto you. During this round you gain access to a mobile hover cannon, again with 10 shots. This can be used to chase the Sorceress across the arena for a better chance to hit her. The cannon shoots in a straight line so as long as you lead your shots and the Sorceress doesn't run out of the way you should be able to hit her multiple times with the same weapon. Don't get too close though or her melee ability will trigger, damaging you and knocking you off the weapon.
 
-#### Third Round
+### Third Round
 You gain access to a flying saucer with unlimited ammo. This is the most dangerous part of the fight as the only attack the Sorceress will use is the fireball which has a very aggressive lock on feature. If you see her start to charge a fireball attack try to fly behind her or parallel to where she is casting from to try and lead the fireball behind your position or make it lose tracking. If you fly right at her then the fireball will lock on and almost certainly hit you as you fly over it. The same advice for the mobile hover cannon applies here, lead the shot from the saucer to where the Sorceress is running to and don't get in her space unless you want to get slapped. The big thing to remember is that the saucer is constantly moving forward and it's speed is dependent on how close you are to edge of the arena. You can only control he direction it travels in and the closer to the wall of the arena you get the slower the craft becomes which can make it difficult to maneuver when a fireball is chasing you.
 
 
