@@ -16,7 +16,7 @@ toc: true
 
 ## Spot the Difference
 
-Dreams allow to see and do many things, that would normally be impossible. It's goes even that far that many dreams feel realistic, which can either be very cool or very terrifying. Luckly, NiGHTS helps you to navigate safetly through the dreams. However, not every dream is the same and so there are 10 differences between both dreams, can you find all of them?
+Dreams allow to see and do many things, that would normally be impossible. It's goes even that far that many dreams feel realistic, which can either be very cool or very terrifying. Luckily, NiGHTS helps you to navigate safely through the dreams. However, not every dream is the same and so there are 10 differences between both dreams, can you find all of them?
 
 ![spot the difference](img/Fun/SpotTheDifference.png)
 

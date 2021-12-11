@@ -84,7 +84,7 @@ The EXP system is similar to games like Kiseki, Ys, and Super Mario RPG from wha
 
 Speaking about EXP and combat, I really found the leveling system to be fun (Kinda reminds me of what Final Fantasy II tried to do but on a smaller scale). What can be a little annoying however is getting all the ultimate weapons, which can only drop from enemies (along with a few other weapons that are stronger that those from the shop). While getting Aeris’ weapon is fairly easy (only three drops for her), some characters require you to get eight drops for theirs! Thankfully the game was balanced enough for these weapons to not be necessary to finish the game.
 
-Overall, if you've played the original FF7 (or if you’re a fan of the earlier games in the series) and want a little twist with how it works, along with seeing what could be done with an NES game, then I would highly recommend trying this set. Many thanks to mickyt888 for creating the set, which was what finally convinced me to try this bootleg out after hearing about it for so long.
+Overall, if you've played the original FF7 (or if you’re a fan of the earlier games in the series) and want a little twist with how it works, along with seeing what could be done with an NES game, then I would highly recommend trying this set. Many thanks to {% rauserpic mickyt888 %} for creating the set, which was what finally convinced me to try this bootleg out after hearing about it for so long.
 
 ## Mike Tyson's Punch-Out!! Bonus (NES)
 

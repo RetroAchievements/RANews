@@ -27,6 +27,7 @@ toc: true
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ | ------------------------------------------------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/12900" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050442.png" alt="Enduro"> <span>Enduro</span></a>                 | {% rauser miccmike %}    | <img class="gameicon" src="https://retroachievements.org/Images/017940.png" alt="old icon"> |
 | <a class="gameicon-link" href="https://retroachievements.org/game/13061" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049853.png" alt="Midnight Magic"> <span>Midnight Magic</span></a> | {% rauser acheaplemon %} | <img class="gameicon" src="https://retroachievements.org/Images/018475.png" alt="old icon"> |
+| <a class="gameicon-link" href="https://retroachievements.org/game/13315" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049174.png" alt="Robot Tank"> <span>Robot Tank</span></a>         | {% rauser MeKevin225 %}  | <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="old icon"> |
 
 <a href="#toc">:top:</a>
 
@@ -38,6 +39,7 @@ toc: true
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/2203" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049845.png" alt="Astro Boy: Omega Factor"> <span>Astro Boy: Omega Factor</span></a>                                   | {% rauser Jenettebaghead %} | <img class="gameicon" src="https://retroachievements.org/Images/007499.png" alt="old icon"> |
 | <a class="gameicon-link" href="https://retroachievements.org/game/9057" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050279.png" alt="Atlantis: The Lost Empire"> <span>Atlantis: The Lost Empire</span></a>                               | {% rauser Jenettebaghead %} | <img class="gameicon" src="https://retroachievements.org/Images/036225.png" alt="old icon"> |
+| <a class="gameicon-link" href="https://retroachievements.org/game/5959" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049763.png" alt="Egg Mania \| Eggo Mania"> <span>Egg Mania \| Eggo Mania</span></a>                                   | {% rauser MiccMike %}       | <img class="gameicon" src="https://retroachievements.org/Images/042488.png" alt="old icon"> |
 | <a class="gameicon-link" href="https://retroachievements.org/game/765" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049979.png" alt="Final Fantasy VI Advance"> <span>Final Fantasy VI Advance</span></a>                                  | {% rauser Jenettebaghead %} | <img class="gameicon" src="https://retroachievements.org/Images/046100.png" alt="old icon"> |
 | <a class="gameicon-link" href="https://retroachievements.org/game/2816" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050264.png" alt="Pokemon Mystery Dungeon: Red Rescue Team"> <span>Pokemon Mystery Dungeon: Red Rescue Team</span></a> | {% rauser GameZone %}       | <img class="gameicon" src="https://retroachievements.org/Images/027592.png" alt="old icon"> |
 
@@ -79,6 +81,7 @@ toc: true
 | <a class="gameicon-link" href="https://retroachievements.org/game/103" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050767.png" alt="Ayrton Senna's Super Monaco GP II"> <span>Ayrton Senna's Super Monaco GP II</span></a>               | {% rauser Jenettebaghead %} | <img class="gameicon" src="https://retroachievements.org/Images/041405.png" alt="old icon"> |
 | <a class="gameicon-link" href="https://retroachievements.org/game/4123" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050421.png" alt="Bonanza Bros."> <span>Bonanza Bros.</span></a>                                                      | {% rauser Jenettebaghead %} | <img class="gameicon" src="https://retroachievements.org/Images/001976.png" alt="old icon"> |
 | <a class="gameicon-link" href="https://retroachievements.org/game/8781" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050228.png" alt="~Unlicensed~ Plants vs. Zombies"> <span>~Unlicensed~ Plants vs. Zombies</span></a>                  | {% rauser vcnomeucolo %}    | <img class="gameicon" src="https://retroachievements.org/Images/008815.png" alt="old icon"> |
+| <a class="gameicon-link" href="https://retroachievements.org/game/4277" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/048820.png" alt="~Hack~ Knuckles' Emerald Hunt"> <span>~Hack~ Knuckles' Emerald Hunt</span></a>                      | {% rauser ArcaneJames %}    | <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="old icon"> |
 
 <a href="#toc">:top:</a>
 
@@ -95,6 +98,7 @@ toc: true
 | <a class="gameicon-link" href="https://retroachievements.org/game/4829" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049844.png" alt="Kyatto Ninden Teyandee \| Samurai Pizza Cats"> <span>Kyatto Ninden Teyandee \| Samurai Pizza Cats</span></a> | {% rauser miccmike %}       | <img class="gameicon" src="https://retroachievements.org/Images/003849.png" alt="old icon"> |
 | <a class="gameicon-link" href="https://retroachievements.org/game/1824" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050102.png" alt="Mario Bros."> <span>Mario Bros.</span></a>                                                                   | {% rauser Thoreau %}        | <img class="gameicon" src="https://retroachievements.org/Images/044590.png" alt="old icon"> |
 | <a class="gameicon-link" href="https://retroachievements.org/game/2062" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050157.png" alt="Wacky Races"> <span>Wacky Races</span></a>                                                                   | {% rauser SuperTails0991 %} | <img class="gameicon" src="https://retroachievements.org/Images/006767.png" alt="old icon"> |
+| <a class="gameicon-link" href="https://retroachievements.org/game/17307" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/040378.png" alt="~Hack~ Mini Kaizo Bros. 3"> <span>~Hack~ Mini Kaizo Bros. 3</span></a>                                      | {% rauser MeKevin225 %}     | <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="old icon"> |
 
 <a href="#toc">:top:</a>
 
@@ -112,9 +116,12 @@ toc: true
 ### Nintendo 64
 
 
-| Game                                                                                                                                                                                                                                                                   | Icon By             | Icon Before                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/14486" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050121.png" alt="~Hack~ Zelda 64: Dawn & Dusk"> <span>~Hack~ Zelda 64: Dawn & Dusk</span></a> | {% rauser JxnnyV %} | <img class="gameicon" src="https://retroachievements.org/Images/027011.png" alt="old icon"> |
+| Game                                                                                                                                                                                                                                                                                           | Icon By                 | Icon Before                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/10561" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049691.png" alt="~Hack~ Luigi's Mansion 64"> <span>~Hack~ Luigi's Mansion 64</span></a>                               | {% rauser MiccMike %}   | <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="old icon"> |
+| <a class="gameicon-link" href="https://retroachievements.org/game/17812" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/048694.png" alt="~Hack~ Mario and the Mystic Purple Stars"> <span>~Hack~ Mario and the Mystic Purple Stars</span></a> | {% rauser MeKevin225 %} | <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="old icon"> |
+| <a class="gameicon-link" href="https://retroachievements.org/game/14486" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050121.png" alt="~Hack~ Zelda 64: Dawn & Dusk"> <span>~Hack~ Zelda 64: Dawn & Dusk</span></a>                         | {% rauser JxnnyV %}     | <img class="gameicon" src="https://retroachievements.org/Images/027011.png" alt="old icon"> |
+
 
 <a href="#toc">:top:</a>
 
@@ -170,6 +177,7 @@ toc: true
 | <a class="gameicon-link" href="https://retroachievements.org/game/395" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050441.png" alt="Axelay"> <span>Axelay</span></a>                                            | {% rauser Jenettebaghead %} | <img class="gameicon" src="https://retroachievements.org/Images/006892.png" alt="old icon"> |
 | <a class="gameicon-link" href="https://retroachievements.org/game/963" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050349.png" alt="Joe & Mac"> <span>Joe & Mac</span></a>                                      | {% rauser Lilpaulo3232 %}   | <img class="gameicon" src="https://retroachievements.org/Images/002360.png" alt="old icon"> |
 | <a class="gameicon-link" href="https://retroachievements.org/game/1025" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050328.png" alt="Metal Warriors"> <span>Metal Warriors</span></a>                           | {% rauser vcnomeucolo %}    | <img class="gameicon" src="https://retroachievements.org/Images/008310.png" alt="old icon"> |
+| <a class="gameicon-link" href="https://retroachievements.org/game/2875" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049136.png" alt="~Hack~ Kamek's Island"> <span>~Hack~ Kamek's Island</span></a>             | {% rauser miccmike %}       | <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="old icon"> |
 | <a class="gameicon-link" href="https://retroachievements.org/game/6997" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050227.png" alt="~Hack~ Mega Man X Hard-Type"> <span>~Hack~ Mega Man X Hard-Type</span></a> | {% rauser vcnomeucolo %}    | <img class="gameicon" src="https://retroachievements.org/Images/007167.png" alt="old icon"> |
 
 <a href="#toc">:top:</a>
@@ -197,6 +205,17 @@ toc: true
 
 
 ## Achievement Badges Changes
+
+### Atari 2600
+
+#### Super Breakout
+
+**New badges by {% rauserpic Mekevin255 %}.**
+
+![after](https://i.imgur.com/2fmvHDc.png)
+
+<a href="#toc">:top:</a>
+
 
 ### Game Boy Advance
 
@@ -252,6 +271,12 @@ toc: true
 **Current Badges:**
 
 ![after](https://cdn.discordapp.com/attachments/352862945098727425/912492527263821844/Ghostbusters_New_Badges.png)
+
+#### ~Hack~ Knuckles' Emerald Hunt
+
+**New badges by {% rauserpic ArcaneJames %}.**
+
+![after](https://i.imgur.com/JD7A9VT.png)
 
 <a href="#toc">:top:</a>
 

@@ -110,12 +110,13 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-| {% rauserpic Bendyhuman %}   | {% rauserpic Brandovsky %}     | {% rauserpic Chauckles %}      |
-| {% rauserpic CobaltZeroni %} | {% rauserpic Dimedime %}       | {% rauserpic drisc %}          |
-| {% rauserpic HolyShinx %}    | {% rauserpic Hotscrock %}      | {% rauserpic Jenettebaghead %} |
-| {% rauserpic Mekevin255 %}   | {% rauserpic MrOwnership %}    | {% rauserpic Nydaxn %}         |
-| {% rauserpic Olafur %}       | {% rauserpic pinguupinguu %}   | {% rauserpic QATeam %}         |
-| {% rauserpic Retrokaiser %}  | {% rauserpic S1324658709 %}    | {% rauserpic SnowPin %}        |
-| {% rauserpic sp1nzoK %}      | {% rauserpic SporyTike %}      | {% rauserpic StingX2 %}        |
-| {% rauserpic suXin %}        | {% rauserpic televandalist %}  | {% rauserpic TheJediSonic %}   |
-| {% rauserpic ViperZang %}    | {% rauserpic WanderingHeiho %} | {% rauserpic Xymjak %}         |
+| {% rauserpic Bendyhuman %}          | {% rauserpic Brandovsky %}    | {% rauserpic Chauckles %}      |
+| {% rauserpic CobaltZeroni %}        | {% rauserpic Dimedime %}      | {% rauserpic drisc %}          |
+| {% rauserpic HolyShinx %}           | {% rauserpic Hotscrock %}     | {% rauserpic Jenettebaghead %} |
+| {% rauserpic Mekevin255 %}          | {% rauserpic MrOwnership %}   | {% rauserpic Nydaxn %}         |
+| {% rauserpic Olafur %}              | {% rauserpic pinguupinguu %}  | {% rauserpic QATeam %}         |
+| {% rauserpic Retrokaiser %}         | {% rauserpic S1324658709 %}   | {% rauserpic SnowPin %}        |
+| {% rauserpic sp1nzoK %}             | {% rauserpic SporyTike %}     | {% rauserpic StingX2 %}        |
+| {% rauserpic suXin %}               | {% rauserpic televandalist %} | {% rauserpic TheJediSonic %}   |
+| {% rauserpic TheRecognitionScene %} | {% rauserpic ViperZang %}     | {% rauserpic WanderingHeiho %} |
+| {% rauserpic Xymjak %}              |                               |                                |

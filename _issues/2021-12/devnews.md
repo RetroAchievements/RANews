@@ -28,7 +28,7 @@ To stay up to date with all DevQuest information, [check out this forum thread](
 
 ### QUEST #011: Happy Birthday RA!
 
-- **Goal:** Develop a set for the Mga Drive/Genesis to celebrate RA's first achievement!
+- **Goal:** Develop a set for the Mega Drive/Genesis to celebrate RA's first achievement!
 - **Point of Contact:** {% rauserpic televandalist %} or really anyone on QA
 - **Requirements:**
 		1. All claims intended for this quest must follow normal procedure.
@@ -36,12 +36,12 @@ To stay up to date with all DevQuest information, [check out this forum thread](
 		3. Sega CD and Sega 32X games are not eligible.
 		4. No prototypes or hacks.
 		5. Quest is available year round.
-		6. If you already have one claimed you must b under 50% progress for it to count.
+		6. If you already have one claimed you must be under 50% progress for it to count.
 		7. Not stackable with other quests and not retroactive!
 		
 	**Addendum as of 11/26/2021**
 - **What:** Major/Significant revisions will now be accepted for this DevQuest, Collabs are also accepted but do not stack with DevQuest #010
-- **Why:** There are still a lot of Mega Drive/Genesis games that don't have sets, but considering it was the first supported console on RA, there are still tons of 		   sets that are in dire need of repair and/or expansion.
+- **Why:** There are still a lot of Mega Drive/Genesis games that don't have sets, but considering it was the first supported console on RA, there are still tons of sets that are in dire need of repair and/or expansion.
 
 
 ## QA Weekly Wrap
@@ -55,19 +55,17 @@ Check out what the QA Team has been up to as of the last month.
 ## Revision Changes
 
 - **What:** 
-		1. Changing the description to clairfy or correct it to match the logic that is already present does **NOT** require a revision vote. 
+		1. Changing the description to clarify or correct it to match the logic that is already present does **NOT** require a revision vote. 
 		2. Altering the achievement's objective in any way **DOES** require a revision vote as always.
-		
-- **Why:** There's a bunch of achievements out there from back in the wild west days where developers would put "Collect a bunch of coins" or "Waste a bunch of time before fighting the boss". 
-		   These give no indication of how much or how long someone has to spend doing it without looking at the code.
-		   
+
+- **Why:** There's a bunch of achievements out there from back in the wild west days where developers would put "Collect a bunch of coins" or "Waste a bunch of time before fighting the boss". These give no indication of how much or how long someone has to spend doing it without looking at the code.
+
 ## Devember 2021
 
 - **Goal:** 
-		Developers: Clear as many tickets as possible or provide save states for current tickets/inactive developer sets
-		
-		Regular Users: Provide save states for current tickets/inactive developer sets
-		
+  - Developers: Clear as many tickets as possible or provide save states for current tickets/inactive developer sets
+  - Regular Users: Provide save states for current tickets/inactive developer sets
+
 - **Point of Contact:** {% rauserpic SlashTangent %}
 
 - **Current Progress:** 
@@ -95,8 +93,7 @@ Check out what the QA Team has been up to as of the last month.
 
 ## Recycled Game Pages
 
-- **Announcement:** Over the past few months there have been a few cases of game pages without sets having all their information wiped and the entries recycled. Unless it's a duplicate entry, please do not do this. 
-If there is a legitimate reason for why you believe an entry should be trashed, please message the QATeam instead.
+- **Announcement:** Over the past few months there have been a few cases of game pages without sets having all their information wiped and the entries recycled. Unless it's a duplicate entry, please do not do this. If there is a legitimate reason for why you believe an entry should be trashed, please message the QATeam instead.
 
 ## RAWeb v1.76 Released
 

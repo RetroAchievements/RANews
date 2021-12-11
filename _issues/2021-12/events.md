@@ -68,7 +68,7 @@ These events are open to any community member who wants to participate.
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=11073>
 - Period: July 2020 - Current
-- Host: {% rauserpic StingX2 %} and {% rauserpic televandalist %}
+- Host: {% rauserpic SlashTangent %} and {% rauserpic televandalist %}
 - Current Winners:
     - Month 16: {% rauserpic Sairotra %} and {% rauserpic SlashTangent %}
 - Previous Winners:

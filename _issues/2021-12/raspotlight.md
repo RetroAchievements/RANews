@@ -9,7 +9,7 @@ title: RASpotlight - CobaltZeroni
 
 ## Intro
 
-For this month we have in the spotlight a user that has been around awhile but only recently had a spotlight on him. You've seen his emote everywhere the past few months but why? Cobalt is a new staff member but also the new Claims Manager, a criticval part of the development family here at RA. 
+For this month we have in the spotlight a user that has been around awhile but only recently had a spotlight on him. You've seen his emote everywhere the past few months but why? Cobalt is a new staff member but also the new Claims Manager, a critical part of the development family here at RA. 
 
 Let’s get to know a bit more about: COBALTZERONI
 
@@ -61,7 +61,7 @@ Yea but why do you like it?
 If you've ever seen me rant about Touhou in the chat, you're aware that the series has a ton of memorable character designs (almost all cute girls :V), and a ton of beautifully intense music to go alongside them. 
 Those are the most common draws for fans, but what I think makes Touhou really special is the deeper lore of the series, and how it's integrated into the bullet-hell gameplay.    
 
-To give a quick primer, the series is about the episodic misadventures of the aformentioned shrine maiden (Reimu) and her reckless witch friend (Marisa) in a magically-sealed country called Gensokyo, which serves as a refuge for gods and mythical creatures that our modern world has stopped believing in.  
+To give a quick primer, the series is about the episodic misadventures of the aforementioned shrine maiden (Reimu) and her reckless witch friend (Marisa) in a magically-sealed country called Gensokyo, which serves as a refuge for gods and mythical creatures that our modern world has stopped believing in.  
  
 As such, a great many of the characters are fanciful reinterpretations of classic folklore and mythology - mostly Japanese mythology, but myths and legends from around the world have appeared throughout the series' history.  
 

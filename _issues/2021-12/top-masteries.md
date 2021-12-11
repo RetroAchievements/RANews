@@ -53,7 +53,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 
 ![Top Mastery Ranking](img/TopMasteries/top-mastery-total.png)
 - {% rauserpic MaxMilyin %} has continues to reign supreme with now 581 total mastery awards.
-- {% rauserpic guineu %} is continuing to close on that 1st place spot with 2 new mastery awards this month.
+- {% rauserpic guineu %} is continuing to close on that 1st place spot with 22 new mastery awards this month.
 - {% rauserpic Infernum %} and {% rauserpic ShadwSonic %} have both jumped up multiple spots with 25 and 31 new mastery awards this month.
 - {% rauserpic Nevermond12 %} has made it into the top 25 and is sitting at 24th place with 9 new mastery awards this month.
 
@@ -65,7 +65,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 ### Arcade
 
 ![Top Mastery Ranking](img/TopMasteries/top-mastery-arcade.png)
-- {% rauserpic marcelosnp %} has jumped into 5th place with 3 new mastery awarsd this month.
+- {% rauserpic marcelosnp %} has jumped into 5th place with 3 new mastery awards this month.
 - {% rauserpic PablloVittar %} has jumped into 7th place with 10 new mastery awards this month.
 - {% rauserpic zxmega %} and {% rauserpic WellingtonBecker %} have made it into the top 25 and are in a 5-way tie for 15th and a 4-way tie for 22nd place.
 
@@ -92,7 +92,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 ### Game Boy Color
 
 ![Top Mastery Ranking](img/TopMasteries/top-mastery-gbc.png)
-- {% rauserpic Bendyhuman %} actually lost an award this month due to a set getting a console ID change and is now only 1 awards ahead of {% rauserpic guineu%}.
+- {% rauserpic Bendyhuman %} actually lost an award this month due to a set getting a console ID change and is now only 1 award ahead of {% rauserpic guineu%}.
 - {% rauserpic Xotoco %} has jumped up 9 places into 8th place with 4 new master awards this month.
 
 ### Game Gear
@@ -122,7 +122,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 
 ![Top Mastery Ranking](img/TopMasteries/top-mastery-sms.png)
 - Very little change in the top half of this leaderboard, only 3 new mastery awards total between the top 11 users.
-- {% rauserpic DUT %} and {% rauserpic Infernum %} have jumped into an 8-way tir for 12 place with 1 and 3 new mastery awards this month.
+- {% rauserpic DUT %} and {% rauserpic Infernum %} have jumped into an 8-way tie for 12 place with 1 and 3 new mastery awards this month.
 - {% rauserpic ourdeardexter %} has made it into the top 25 and is sitting in a 5-way tie for 20th place.
 - {% rauserpic AlexDD266 %} has made it into the top 25 and is sitting in a 10-way tie for 25th place.
 

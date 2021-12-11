@@ -3,7 +3,7 @@ issue: 2021-12
 order: 202112-21
 layout: article
 title: Wish This Set
-author: Bendyhuman
+author: TheRecognitionScene
 toc: true
 ---
 
@@ -15,7 +15,7 @@ One of my favorite things about RetroAchievements is how an Achievement of the W
 
 | Game                                                                                                                                                                                                                                   | Console     | Genre     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/15915" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Lost in Blue"> <span>Lost in Blue</span></a> | Nintendo DS | Adventure |
+| <a class="gameicon-link" href="https://retroachievements.org/game/15915" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050946.png" alt="Lost in Blue"> <span>Lost in Blue</span></a> | Nintendo DS | Adventure |
 
 <figure style="text-align:center;float:right;width:50%;height:50%">
 <img src="img/WishThisSet/LostinBlue.jpg">
@@ -47,7 +47,7 @@ Touch-screen-based gameplay can be a challenge with emulation, and Trauma Center
 
 | Game                                                                                                                                                                                                                           | Console     | Genre        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | ------------ |
-| <a class="gameicon-link" href="https://retroachievements.org/game/18214" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Lux-Pain"> <span>Lux-Pain</span></a> | Nintendo DS | Visual Novel |
+| <a class="gameicon-link" href="https://retroachievements.org/game/18214" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050944.png" alt="Lux-Pain"> <span>Lux-Pain</span></a> | Nintendo DS | Visual Novel |
 
 <figure style="text-align:center;float:right;width:50%;height:50%">
 <img src="img/WishThisSet/LuxPain.jpg">
@@ -63,7 +63,7 @@ This game had interesting concepts and beautiful art, but its 2009 release preda
 
 | Game                                                                                                                                                                                                                                                                                       | Console     | Genre     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/17498" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Monster Rancher Battle Card Episode II"> <span>Monster Rancher Battle Card Episode II</span></a> | PlayStation | Card Game |
+| <a class="gameicon-link" href="https://retroachievements.org/game/17498" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050943.png" alt="Monster Rancher Battle Card Episode II"> <span>Monster Rancher Battle Card Episode II</span></a> | PlayStation | Card Game |
 
 <figure style="text-align:center;float:left;width:50%;height:50%">
 <img src="img/WishThisSet/MonsterRancherBattle.png">
@@ -81,7 +81,7 @@ Card games provide for a number of achievement opportunities beyond simple story
 
 | Game                                                                                                                                                                                                                                                                                                                                                                         | Console     | Genre           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/16498" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Magician's Quest: Mysterious Times \| Enchanted Folk and the School of Wizardry"> <span>Magician's Quest: Mysterious Times \| Enchanted Folk and the School of Wizardry</span></a> | Nintendo DS | Life Simulation |
+| <a class="gameicon-link" href="https://retroachievements.org/game/16498" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051011.png" alt="Magician's Quest: Mysterious Times \| Enchanted Folk and the School of Wizardry"> <span>Magician's Quest: Mysterious Times \| Enchanted Folk and the School of Wizardry</span></a> | Nintendo DS | Life Simulation |
 
 <figure style="text-align:center;float:right;width:50%;height:50%">
 <img src="img/WishThisSet/MagiciansQuestMyster.jpg">
