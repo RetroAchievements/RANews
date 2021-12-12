@@ -31,6 +31,7 @@ These events are open to any community member who wants to participate.
   - {% rauserpic Tayadaoc %}
   - {% rauserpic TheLooseGroose %}
   - {% rauserpic Tirbaba %}
+  - {% rauserpic Xymjak %}
  
 <a href="#top">:top:</a>
 
