@@ -22,7 +22,6 @@ toc: true
 * [RAPodcast](https://www.youtube.com/channel/UCIGdJGxrzmNYMaAGPsk2sIA/videos) episodes 13-24 released.
 * Devs can now requests completed sets to be held in unofficial until a certain date to be released.
 * Credit for set, badges, icons, etc. has started being put into the first post of a sets forum topic.
-* Sole/Majority devs can now request forum topic transfers so they are now the author of the first post and can edit it freely.
 * Awesome video by {% rauserpic iShade %} on [What are Retro Achievements?](https://www.youtube.com/watch?v=g0hmYv6czs8).
 * Various updates to RABot, RAWeb, RAIntegration, RATools, and RA Emulators throughout the year.
 
@@ -44,13 +43,34 @@ toc: true
 
 ## Rule Updates
 * Sudoku/Picross Scoring Update. "1 point for easy, 2-3 points for medium, 4-5 points for hard"
-* Logic backups required by developers when updating achievements.
+* Logic backups required by developers when updating achievements that are not their own.
 * Set icons should be representative of the game and its common themes, and therefore should be instantly recognizable.
 * `Bonus`, `Multi`, and `Subset` naming conventions updated to `[Bonus]` rather than `~Bonus~`.
-* Sets are required to cover the content to at least game completion.
-* Bonus set claims need to be approved prior to claim.
-* Changing the description to clarify or correct it to match the logic that is already present does NOT require a revision vote
+* Unfinished sets should stay in unofficial until finished. Sets that fail to cover the content to at least game completion would fall under this rule.
+* Bonus sets are to be treated like revisions and will require and set plan and vote in #revision-voting, unless release alongside and existing set claim. If a junior developer wants to publish a bonus set alongside a core set, they need to have their plan approved by code reviewers.
+* Changing the description to clarify or correct it to match the logic that is already present does NOT require a revision vote.
 * Altering the achievement's objective in any way does require a revision vote as always.
+* Leaderboard edits or entry removals must now come with a comment from the developer to avoid ambiguity as to the nature of a change or reason for an entry removal that's not their own.
+* Do not declare your plans to work on a game if you have unaddressed tickets. A ticket is considered as addressed when the developer acknowledged the ticket, commented on it explaining the situation but is unable to resolve the problem immediately due to reasons such as waiting for saves states or more information from the reporter.
+* New rules on [Editing Leaderboards](https://docs.retroachievements.org/Developers-Code-of-Conduct/#editing-leaderboards).
+* If a fellow developer has already started to handle a ticket thru action that can be proved with comment of intent, leave it to them. The user would be given a time of 7 days to handle the ticket after comment.
+* Softcore ticket handling updates:
+
+```
+Does the achievement have hits?
+If Yes > Verify what current version of RetroArch are they using. 
+If 1.9.1  or newer > Ticket handling is the same as a hardcore ticket being submitted
+
+If prior to 1.9.1 or DuckStation Standalone> Investigate like normal.
+It IS possible that the achievement could have not triggered due to
+save-state abuse, but is still important to check.
+
+If there are no hits > Ticket handling is the same as a hardcore ticket being submitted.
+```
+* Professor Oak Subsets no longer require approval.
+* Reminder to make a new post when reclaiming a set, don't just update the original claim post.
+* Ability to hold a finished set in unofficial for a future event, or holiday without it taking a claim spot. Must be approved by QA Team.
+* Sole/Majority devs can now request forum topic transfers so they are now the author of the first post and can edit it freely.
 
 ## Policy Updates
 * Updates
@@ -149,8 +169,9 @@ QA Team was created this year to monitoring achievement set quality and adherenc
     * #5 - CL3 x VGM
     * #6 - Ticket to Ride
     * #7 - Devember
+    * #7 - Daily Distractions (7 Days)
 * Communiplay
-  * Hosted by: {% rauserpic SporyTike %} & {% rauserpic StingX2 %}
+  * Hosted by: {% rauserpic SporyTike %}
 * Daily DistRActions
   * Hosted by: {% rauserpic Bendyhuman %}
   * Currently 1st place (with 21 points):
@@ -193,7 +214,7 @@ QA Team was created this year to monitoring achievement set quality and adherenc
 * Simple Monthly Master
   * Hosted by: {% rauserpic Hotscrock %}
 * The Unwanted
-  * Hosted by: {% rauserpic SlashTangent %} & {% rauserpic televandalist %}
+  * Hosted by: {% rauserpic SlashTangent %}, {% rauserpic televandalist %} and {% rauserpic StingX2 %}
 
 ## Completed Events
 * 2021 Retro Olympics - Spring Edition
@@ -304,7 +325,13 @@ In an effort to improve and organize the overall discord experience we have crea
 | #writing-requests        | Writing requests to be handled by the Writing team.                                                                      |
 
 # RANews
-* 1 Year Anniversary in August
+* 1 Year Anniversary in August.
+* New Sections:
+  * Top Mastery
+  * RAdvantage
+  * RA Spotlight
+  * RAnniverseries
+  * Wish this Set
 
 # RAPatches
 The RAPatches repo was created this year to organize and centralize where users can download various ROM patch files. This repo includes ROM hacks, translations, bonus, multi, subset, and various other patches. Here is a breakdown of patches and unique entries by system. 

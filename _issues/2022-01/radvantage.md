@@ -77,10 +77,12 @@ The Heart of the Pins: 500 Yen pins are GREAT for Tin Pin Slammer, just keep usi
 
 - Tip by: {% rauserpic AzuchiAkeshi %}
 
-From half of world 4 onwards, including the 5 extra stages and the 5 secret stages, the game becomes much more difficult for Kaizo level in terms of reaching 100 points on each individual level.
+From World 4 onwards, including the 5 extra stages and the 5 secret stages, the game becomes much more difficult (Almost as hard as Kaizo!) in terms of reaching 100 points on each individual level.
 
-Whenever you can, clean the scene by defeating or turning enemies into eggs, stocking the limit of 6 units with you, parts of the stage where there is a flat ceiling or platform without deformations, using Baby Mario, throw your eggs against the surface, alike turning them yellow and red after the ricochet, always using Yoshi's tongue attack, to return to your stock the new eggs, they reward you with 2 stars each after colliding with enemies or clouds of items.
+Whenever you can, clean the scene by defeating or turning enemies into eggs and stock the limit of 6 units with you. Parts of the stage where there is a flat ceiling or platform without deformations, use Baby Mario and throw your eggs against the surface. While turning them yellow and red after the ricochet, always use Yoshi's tongue attack to return to your stock. Eggs reward you with 2 stars each after colliding with enemies or clouds of items.
 
-While advancing to each stage, always ignore the arrows first, both on boards, in the scenery and on pipes, they always point to the path that leads to the partial and final completion of the stage, the correct path we can say is often a one-way street, first of all scour all the places so that nothing is lost and left behind, final stages tend to take about 10 minutes or more and no one would want to have to repeat such a long stage because of a miserable lost item.
+While advancing to each stage, always ignore the arrows that appear on boards and pipes, as they always point to the path that leads to the partial and final completion of the stage. The correct path we can say is often a one-way street. 
 
-There are stages in which enemies do not stop spawning, even defeating or turning into eggs several times, to avoid touching any of them and ending up losing 100 points near the end of the stage, avoid turning Yoshi sharply and running out of any way then wait for the screen to refresh and the enemies to move first.
+Make sure to scour all the places so that nothing is lost and left behind. Final stages tend to take about 10 minutes or more and no one would want to have to repeat such a long stage because of a miserable lost item.
+
+There are stages in which enemies do not stop spawning, even after defeating or turning them into eggs several times. To avoid touching any of them and ending up losing 100 points near the end of the stage, avoid turning Yoshi sharply and run out of the way. Then, wait for the screen to refresh and the enemies to move first.

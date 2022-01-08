@@ -80,7 +80,7 @@ These events are open to any community member who wants to participate.
     - Month 16: {% rauserpic Sairotra %} and {% rauserpic SlashTangent %}
 - Previous Winners:
     - Month 15: {% rauserpic Xymjak %} and {% rauserpic SlashTangent %}
-    - Month 14: {% rauserpic Tayadaoc %} and {% rauserpic Slashtangent %}
+    - Month 14: {% rauserpic Tayadaoc %} and {% rauserpic SlashTangent %}
     - Month 13: {% rauserpic Tayadaoc %} and {% rauserpic wilhitewarrior %}
     - Month 12: {% rauserpic freezestar %} and {% rauserpic televandalist %}
     - Month 11: {% rauserpic Xymjak %} and {% rauserpic SlashTangent %}

@@ -115,7 +115,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 ### Game Boy
 
 ![Top Mastery Ranking](img/TopMasteries/Gameboy.png)
-- {% rauserpic Shootzy %} remains on top with 110 mastery awards..
+- {% rauserpic Shootzy %} remains on top with 110 mastery awards.
 - {% rauserpic guineu %} and {% rauserpic MaxMilyin %} are now tied in second with 88 mastery awards.
 - {% rauserpic Searo %} jumped 12 spots into 10th place.
 - {% rauserpic deng %} and {% rauserpic Draco655 %} both took a hit with the exclusion of hacks, dropping 8 and 11 spots in the leaderboards.
@@ -132,7 +132,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 
 ![Top Mastery Ranking](img/TopMasteries/GBC.png)
 - {% rauserpic guineu%} has taken the 1st place spot from {% rauserpic Bendyhuman %} 2 new mastery awards this month.
-- {% rauserpic ShadwSonic %} has jumped up 9 spots into a 3-way tir for 8th place.
+- {% rauserpic ShadwSonic %} has jumped up 9 spots into a 3-way tie for 8th place.
 - {% rauserpic MaddieKittyTV %} has made it into the top 25 and is sitting in a 5-way tie for 20rd place.
 
 ### Game Gear
@@ -180,14 +180,14 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 ### NES
 
 ![Top Mastery Ranking](img/TopMasteries/NES.png)
-- {% rauserpic SanMarino %} still has a health lead in 1st place.
+- {% rauserpic SanMarino %} still has a healthy lead in 1st place.
 - {% rauserpic SeredaVadim %} and {% rauserpic mikeisafighter %} have swapped 2nd and 3rd position.
 
 ### Nintendo DS
 
 ![Top Mastery Ranking](img/TopMasteries/NDS.png)
 - {% rauserpic Olafur %} and {% rauserpic ShadwSonic%} are now tied in 1st place with, taking the spot from {% rauserpic Bendyhuman %}.
-- {% rauserpic Thanks %} and {% rauserpic tinycyan%} are now tied in 3rd place with.
+- {% rauserpic Thanks %} and {% rauserpic tinycyan%} are now tied in 3rd place with 23 mastery awards.
 - {% rauserpic Cocojuju13 %} has made it into the top 25 and is sitting in a 7-way tie for 24th place.
 
 ### PC Engine
@@ -200,19 +200,19 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 ### PlayStation
 
 ![Top Mastery Ranking](img/TopMasteries/PS1.png)
-- {% rauserpic IantasGames1995 %} is 1 awards from a 3-way tir for 3rd place.
+- {% rauserpic IantasGames1995 %} is 1 awards from a 3-way tie for 3rd place.
 - {% rauserpic DungeonMaster %} has made it into the top 25 and is sitting in 22nd place.
 
 ### PlayStation Portable
 
 ![Top Mastery Ranking](img/TopMasteries/PSP.png)
-- {% rauserpic minibt %} entends the 1st place lead with 3 new mastery awards this month.
+- {% rauserpic minibt %} extends the 1st place lead with 3 new mastery awards this month.
 - {% rauserpic Lonoke31 %}, {% rauserpic deng %}, {% rauserpic vaanxbahn %}, {% rauserpic Daroachie %} and {% rauserpic Nevermond12 %} have all joined the top 25 this month.
 
 ### Pokémon Mini
 
 ![Top Mastery Ranking](img/TopMasteries/PkmnMINI.png)
-- {% rauserpic Nevermond12 %} and {% rauserpic guineu %} are still neck and neck with 1 award seperating the two.
+- {% rauserpic Nevermond12 %} and {% rauserpic guineu %} are still neck and neck with 1 award separating the two.
 - {% rauserpic AuburnRDM %} has made it into the top 25 and is sitting in an 2-way tie for 3rd place.
 - {% rauserpic TheFetishMachine %} has made it into the top 25 and is sitting in an 8-way tie for 10th place.
 

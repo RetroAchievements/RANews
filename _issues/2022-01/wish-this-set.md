@@ -30,7 +30,7 @@ Pac-Attack does one even better, though, and adds specially designed puzzles wit
 
 | Game                                                                                                                                                                                                                                          | Console     | Genre    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/2197" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Dynasty Warriors"> <span>Dynasty Warriors</span></a> | PlayStation | Fighting |
+| <a class="gameicon-link" href="https://retroachievements.org/game/2197" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051834.png" alt="Dynasty Warriors"> <span>Dynasty Warriors</span></a> | PlayStation | Fighting |
 
 * Writeup by: {% rauserpic Bearfax62 %}
 
@@ -41,7 +41,7 @@ Pac-Attack does one even better, though, and adds specially designed puzzles wit
 
 Many would know Dynasty Warriors as a hack-and-slash series based on the Three Kingdoms era of ancient China and famous for its huge roster of characters, over the top feeling of taking on hundreds at once, and a nearly bottomless pit of spinoffs that take the combat and slip it into other settings, from Sengoku era Japan all the way to The Legend of Zelda's own kingdom of Hyrule. But significantly fewer would know that the very first Dynasty Warriors game, all the way back on the original PlayStation, was... not that. No, the first taste the world would get of Dynasty Warriors took the form of a 3D fighter composed entirely of one-on-one battles; a far cry from the long running series of action games we know today.
 
-From what I've seen, the game shares many similarities with Soul Calibur, from the cast of weapon users to the limited 3D movement. The biggest thing that stands out to me are the number of defensive options; alongside the guarding and sidestepping you'd expect from a 3D fighter, you also have the ability to hard counter specific moves, responding to slashes with parrying or thrusts with redirection. While I think knowledge of how these characters are portrayed in later games would deepen one's enjoyment of the roster, people new to the series will still recognize at least a few of the characters in the cast if they've read RotTK or have a solid grasp on Chinese history, as all of the main cast hails from it; from the ambitious conqueror Cao Cao to the legendary strategist Zhuge Liang, and of course, the infamous general Lu Bu, whose strength was only rivaled by his treachery.
+From what I've seen, the game shares many similarities with Soul Calibur, from the cast of weapon users to the limited 3D movement. The biggest thing that stands out to me are the number of defensive options; alongside the guarding and sidestepping you'd expect from a 3D fighter, you also have the ability to hard counter specific moves, responding to slashes with parrying or thrusts with redirection. While I think knowledge of how these characters are portrayed in later games would deepen one's enjoyment of the roster, people new to the series will still recognize at least a few of the characters in the cast if they've read Romance of the Three Kingdoms or have a solid grasp on Chinese history, as all of the main cast hails from it; from the ambitious conqueror Cao Cao to the legendary strategist Zhuge Liang, and of course, the infamous general Lu Bu, whose strength was only rivaled by his treachery.
 
 While the game has been largely forgotten by fighting game players and DW fans alike, it's an extremely interesting snapshot of video game history, and it deserves to have an achievement set that encourages full experimentation with its mechanics and characters, not to mention would give me and many others an excuse to try it out. In a way, DW1 feels more like a spinoff than an official first entry, and that's kind of cool; it makes you wonder where the franchise would have gone and how it would have evolved if it had stuck with this style rather than adopting the "1 vs. 1000" style we all know and love. It'll probably never make it to EVO, but it'd certainly be good material for RA.
 
@@ -93,7 +93,7 @@ To conclude, I would very much like to see this set be created (or finished in t
 
 | Game                                                                                                                                                                                                                                                                    | Console              | Genre    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/3257" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Viewtiful Joe: Red Hot Rumble"> <span>Viewtiful Joe: Red Hot Rumble</span></a> | PlayStation Portable | Fighting |
+| <a class="gameicon-link" href="https://retroachievements.org/game/3257" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051835.png" alt="Viewtiful Joe: Red Hot Rumble"> <span>Viewtiful Joe: Red Hot Rumble</span></a> | PlayStation Portable | Fighting |
 
 * Writeup by: {% rauserpic freezestar %}
 
@@ -129,7 +129,7 @@ This is a game I've played before, but never managed to beat. Yet, it's somethin
 
 | Game                                                                                                                                                                                                                            | Console     | Genre  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------ |
-| <a class="gameicon-link" href="https://retroachievements.org/game/6687" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/021892.png" alt="Beatmania"> <span>Beatmania</span></a> | PlayStation | Rhythm |
+| <a class="gameicon-link" href="https://retroachievements.org/game/6687" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051836.png" alt="Beatmania"> <span>Beatmania</span></a> | PlayStation | Rhythm |
 
 * Writeup by: {% rauserpic Retrokaiser %}
 
@@ -165,7 +165,7 @@ For me, the characters stand above those of the previous games in the series, Ta
 
 Tales of Eternia is also one of the last gorgeous PS1-era 2D RPGs showcasing the beauty of classic pixel-art. The two worlds are painted with different palettes, one which is primarily Red-Green-Blue and the other primarily Cyan-Magenta-Yellow, reflecting the different elemental spirits living in each (Undine is blue, Gnome is yellow, etc).
 
-I'd love to see a retro achievement set encouraging players to explore all the nooks and crannies of both worlds of Eternia: cooking all foods, mastering all skills, finding the secret elementals, etc. Maybe that's somewhat boring, considering how many JRPGs already have basic completionist sets, but I think this is one of those gems a lot of JRPG fans may have missed by sticking to the more traditional turn-based suspects of the era.
+I'd love to see a RetroAchievements set encouraging players to explore all the nooks and crannies of both worlds of Eternia: cooking all foods, mastering all skills, finding the secret elementals, etc. Maybe that's somewhat boring, considering how many JRPGs already have basic completionist sets, but I think this is one of those gems a lot of JRPG fans may have missed by sticking to the more traditional turn-based suspects of the era.
 
 <br clear="left"/>
 
@@ -173,7 +173,7 @@ I'd love to see a retro achievement set encouraging players to explore all the n
 
 | Game                                                                                                                                                                                                                                       | Console     | Genre     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/16347" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Mizzurna Falls"> <span>Mizzurna Falls</span></a> | PlayStation | Adventure |
+| <a class="gameicon-link" href="https://retroachievements.org/game/16347" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051837.png" alt="Mizzurna Falls"> <span>Mizzurna Falls</span></a> | PlayStation | Adventure |
 
 * Writeup by: {% rauserpic BahamutVoid %}
 
