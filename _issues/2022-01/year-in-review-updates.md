@@ -167,6 +167,20 @@ RetroAchievements offers a wide range of unique and entertaining events througho
 ## Ongoing Events
 * [Achievement of the Week](https://retroachievements.org/viewtopic.php?t=12143)
   * Hosted by: {% rauserpic ikki5 %} & {% rauserpic Flara %}
+  * Currently 1st place (with 63 points):
+    * {% rauserpic AgentRibinski %}
+    * {% rauserpic Arekdias %}
+    * {% rauserpic CMatador %}
+    * {% rauserpic DoctorV %}
+    * {% rauserpic Fergdog %}
+    * {% rauserpic LogicalFallacy %}
+    * {% rauserpic perdiga %}
+    * {% rauserpic PlyrPls %}
+    * {% rauserpic Pudpod %}
+    * {% rauserpic Tayadaoc %}
+    * {% rauserpic TheLooseGroose %}
+    * {% rauserpic Tirbaba %}
+    * {% rauserpic Xymjak %}
 * [Challenge League](https://retroachievements.org/viewtopic.php?t=12318)
   * Hosted by: {% rauserpic SnowPin %}
   * Current challenges:

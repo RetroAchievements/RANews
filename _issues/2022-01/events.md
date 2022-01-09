@@ -21,7 +21,7 @@ These events are open to any community member who wants to participate.
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=12143>
 - Period: January 2021 - Current
 - Host: {% rauserpic ikki5 %} and {% rauserpic Flara %}
-- Currently 1st place (with 58 points):
+- Currently 1st place (with 63 points):
   - {% rauserpic AgentRibinski %}
   - {% rauserpic Arekdias %}
   - {% rauserpic CMatador %}
