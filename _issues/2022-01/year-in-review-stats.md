@@ -94,7 +94,7 @@ Check out the top 25 achievement creators this year, how many achievements they 
 | 7    | {% rauserpic wilhitewarrior %} | 1,431        | NES                  |
 | 8    | {% rauserpic pinguupinguu %}   | 1,379        | Nintendo DS          |
 | 9    | {% rauserpic tatoonie %}       | 1,340        | PlayStation          |
-| 0    | {% rauserpic televandalist %}  | 1,174        | PlayStation Portable |
+| 10   | {% rauserpic televandalist %}  | 1,174        | PlayStation Portable |
 | 11   | {% rauserpic MGNS8M %}         | 1,169        | PlayStation Portable |
 | 12   | {% rauserpic Delmaru %}        | 1,074        | Nintendo DS          |
 | 13   | {% rauserpic SlashTangent %}   | 1,033        | PlayStation Portable |
@@ -396,7 +396,7 @@ Check out which developers created the most code notes this year.
         <tr><td>8</td><td>{% rauserpic HolyShinx %}</td><td>190</td></tr>
         <tr><td>9</td><td>{% rauserpic mikeisafighter %}</td><td>181</td></tr>
         <tr><td>10</td><td>{% rauserpic Andrey199650 %}</td><td>180</td></tr>
-        <tr><td>10</td><td>{% rauserpic TheLooseGroose %}</td><td>180</td></tr>
+        <tr><td>11</td><td>{% rauserpic TheLooseGroose %}</td><td>180</td></tr>
         <tr><td>12</td><td>{% rauserpic FireSonic %}</td><td>174</td></tr>
         <tr><td>13</td><td>{% rauserpic Sarconius %}</td><td>167</td></tr>
     </tbody></table>
