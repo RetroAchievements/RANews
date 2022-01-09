@@ -120,7 +120,7 @@ These events are open to any community member who wants to participate.
 
 ## Peak Streak
 
-- Forum topic: <http://retroachievements.org/viewtopic.php?t=12108>
+- Forum topic: <https://retroachievements.org/viewtopic.php?t=12108>
 - Period: January 2021 - Current
 - Host: {% rauserpic Bendyhuman %}
 - Currently 1st place finished previous month with 223 points:
@@ -131,7 +131,7 @@ These events are open to any community member who wants to participate.
 
 ## Challenge League 3
 
-- Forum topic: <http://retroachievements.org/viewtopic.php?t=12318>
+- Forum topic: <https://retroachievements.org/viewtopic.php?t=12318>
 - Period: February 2021 - Current
 - Host: {% rauserpic SnowPin %}
 - Winners of at least 4 Challenges:

@@ -8,51 +8,69 @@ toc: true
 ---
 
 # Intro
+If you like looking at stats and data, then you have come to the right place. We've gathered tons of stats from 2021 that cover a wide range of measurable aspects that RetroAchievements offer. Check out what the community has accomplished.
+
+# General Stats
+Check out some general stats from this year.
+
+| Number of sets released.                                         | 1,060       |
+| Number of achievements released.                                 | 49,373      |
+| Number of hardcore achievements earned.                          | 4,168,132   |
+| Number of code notes created.                                    | 169,110     |
+| Number of mastery awards awarded.                                | 44,913      |
+| Number of set requests made.                                     | 12,464      |
+| Number of leaderboards created.                                  | 8,025       |
+| Number of leaderboard entries submitted.                         | 264,574     |
+| Number of users who have earned at least 1 hardcore achievement. | 24,989      |
+| Number of total hardcore points earned by players.               | 58,128,440  |
+| Number of total hardcore retro points earned by players.         | 171,350,530 |
+| Number of user accounts created.                                 | 59,594      |
+| Number of new user accounts reaching >=500 points.               | 7,772       |
 
 # Achievements Created
 
-| **Total** | 49373 |
-
+## Monthly Breakdown
 ![](img/Stats/AchievementsCreated.png)
 
+## Console Breakdown
 <div>
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Console</th><th>Achievements</th></tr></thead><tbody>
         <tr><td>32X</td><td>160</td></tr>
         <tr><td>3DO Interactive Multiplayer</td><td>101</td></tr>
         <tr><td>Apple II</td><td>142</td></tr>
-        <tr><td>Arcade</td><td>1218</td></tr>
+        <tr><td>Arcade</td><td>1,218</td></tr>
         <tr><td>Atari 2600</td><td>377</td></tr>
         <tr><td>Atari 7800</td><td>66</td></tr>
         <tr><td>Atari Jaguar</td><td>59</td></tr>
         <tr><td>Atari Lynx</td><td>20</td></tr>
         <tr><td>ColecoVision</td><td>87</td></tr>
-        <tr><td>Game Boy</td><td>1864</td></tr>
-        <tr><td>Game Boy Advance</td><td>4264</td></tr>
-        <tr><td>Game Boy Color</td><td>1575</td></tr>
+        <tr><td>Game Boy</td><td>1,864</td></tr>
+        <tr><td>Game Boy Advance</td><td>4,264</td></tr>
+        <tr><td>Game Boy Color</td><td>1,575</td></tr>
         <tr><td>Game Gear</td><td>574</td></tr>
         <tr><td>Intellivision</td><td>143</td></tr>
         <tr><td>Magnavox Odyssey 2</td><td>33</td></tr>
         <tr><td>Master System</td><td>155</td></tr>
-        <tr><td>Mega Drive</td><td>3299</td></tr>
+        <tr><td>Mega Drive</td><td>3,299</td></tr>
         <tr><td>MSX</td><td>315</td></tr>
     </tbody></table>
     </div> <div style='width:49%;display:inline-block;float:right'>
     <table><thead><tr><th>Console</th><th>Achievements</th></tr></thead><tbody>
         <tr><td>Neo Geo Pocket</td><td>212</td></tr>
-        <tr><td>NES</td><td>2618</td></tr>
-        <tr><td>Nintendo 64</td><td>2894</td></tr>
-        <tr><td>Nintendo DS</td><td>6690</td></tr>
-        <tr><td>PC Engine</td><td>1163</td></tr>
+        <tr><td>NES</td><td>2,618</td></tr>
+        <tr><td>Nintendo 64</td><td>2,894</td></tr>
+        <tr><td>Nintendo DS</td><td>6,690</td></tr>
+        <tr><td>PC Engine</td><td>1,163</td></tr>
         <tr><td>PC-8000/8800</td><td>193</td></tr>
         <tr><td>PC-FX</td><td>82</td></tr>
-        <tr><td>PlayStation</td><td>7023</td></tr>
-        <tr><td>PlayStation Portable</td><td>6979</td></tr>
+        <tr><td>PlayStation</td><td>7,023</td></tr>
+        <tr><td>PlayStation Portable</td><td>6,979</td></tr>
         <tr><td>Pokemon Mini</td><td>138</td></tr>
         <tr><td>Saturn</td><td>874</td></tr>
         <tr><td>Sega CD</td><td>410</td></tr>
         <tr><td>SG-1000</td><td>133</td></tr>
-        <tr><td>SNES</td><td>4038</td></tr>
+        <tr><td>SNES</td><td>4,038</td></tr>
         <tr><td>Vectrex</td><td>96</td></tr>
         <tr><td>Virtual Boy</td><td>154</td></tr>
         <tr><td>Watara Supervision</td><td>756</td></tr>
@@ -62,29 +80,78 @@ toc: true
 </div>
 <br clear="left"/>
 
+## Top 25 Achievement Creators
+Check out the top 25 achievement creators this year, how many achievements they created and what console they created the most achievements for.
+
+| Rank | Developer                      | Achievements | Favorite Console     |
+| ---- | ------------------------------ | ------------ | -------------------- |
+| 1    | {% rauserpic voiceofautumn %}  | 3,157        | Game Boy Advance     |
+| 2    | {% rauserpic SnowPin %}        | 2,461        | PlayStation Portable |
+| 3    | {% rauserpic SporyTike %}      | 2,287        | Nintendo DS          |
+| 4    | {% rauserpic AlexGatao %}      | 1,736        | SNES                 |
+| 5    | {% rauserpic guindev %}        | 1,578        | PC Engine            |
+| 6    | {% rauserpic blendedsea %}     | 1,461        | PlayStation Portable |
+| 7    | {% rauserpic wilhitewarrior %} | 1,431        | NES                  |
+| 8    | {% rauserpic pinguupinguu %}   | 1,379        | Nintendo DS          |
+| 9    | {% rauserpic tatoonie %}       | 1,340        | PlayStation          |
+| 0    | {% rauserpic televandalist %}  | 1,174        | PlayStation Portable |
+| 11   | {% rauserpic MGNS8M %}         | 1,169        | PlayStation Portable |
+| 12   | {% rauserpic Delmaru %}        | 1,074        | Nintendo DS          |
+| 13   | {% rauserpic SlashTangent %}   | 1,033        | PlayStation Portable |
+| 14   | {% rauserpic TeddyWestside %}  | 1,031        | PlayStation          |
+| 15   | {% rauserpic lordpsycho %}     | 992          | PlayStation Portable |
+| 16   | {% rauserpic hardt %}          | 911          | PC Engine            |
+| 17   | {% rauserpic BrunoKiko %}      | 758          | PlayStation          |
+| 18   | {% rauserpic NgNvNn %}         | 705          | PlayStation          |
+| 19   | {% rauserpic stfN1337 %}       | 653          | SNES                 |
+| 20   | {% rauserpic zxmega %}         | 637          | Mega Drive           |
+| 21   | {% rauserpic KingS1zzle %}     | 596          | PlayStation Portable |
+| 22   | {% rauserpic MarioJunior10 %}  | 595          | PC Engine            |
+| 23   | {% rauserpic raniejogos %}     | 589          | Mega Drive           |
+| 24   | {% rauserpic mopain85 %}       | 569          | Nintendo 64          |
+| 25   | {% rauserpic Pebete %}         | 513          | PlayStation          |
+
+## Top 25 Developers
+Check out some stats regarding unlocks and points awarded by the developers. Included is the number of unlocks, points and retro points awarded to the players. This data includes all achievements but only counts unlocks during 2021. **Bolded** rows indicate active developers.
+
+
+
+| Rank | Developer                         | Unlocks Awarded | Points Awarded | Retro Points Awarded |
+| :--- | :-------------------------------- | :-------------: | :------------: | :------------------: |
+| 1    | {% rauserpic Brian %}             |     150,987     |   2,304,602    |      7,886,604       |
+| 2    | {% rauserpic Salsa %}             |     127,988     |   2,008,570    |      7,275,634       |
+| 3    | **{% rauserpic SporyTike %}**     |   **122,918**   | **1,447,694**  |    **4,634,326**     |
+| 4    | {% rauserpic dude1286 %}          |     104,065     |   1,820,320    |      4,126,734       |
+| 5    | **{% rauserpic televandalist %}** |   **98,383**    | **1,495,008**  |    **5,466,314**     |
+| 6    | **{% rauserpic stfN1337 %}**      |   **85,443**    | **1,313,692**  |    **2,163,146**     |
+| 7    | **{% rauserpic matheus2653 %}**   |   **78,253**    | **1,276,792**  |    **3,695,130**     |
+| 8    | {% rauserpic Dexterspet %}        |     76,945      |    978,470     |      2,586,020       |
+| 9    | {% rauserpic Jaarl %}             |     73,867      |   1,056,408    |      2,528,688       |
+| 10   | **{% rauserpic SnowPin %}**       |   **66,873**    |  **701,226**   |    **2,167,772**     |
+| 11   | **{% rauserpic jplima %}**        |   **66,654**    | **1,267,540**  |    **3,934,888**     |
+| 12   | {% rauserpic Rewsifer %}          |     65,787      |    721,880     |      1,323,696       |
+| 13   | **{% rauserpic Blazekickn %}**    |   **65,680**    |  **697,448**   |    **3,571,782**     |
+| 14   | {% rauserpic Scott %}             |     65,110      |    703,456     |      1,664,918       |
+| 15   | **{% rauserpic MGNS8M %}**        |   **63,335**    |  **903,884**   |    **3,031,792**     |
+| 16   | **{% rauserpic Altomar %}**       |   **60,797**    |  **780,374**   |    **1,883,986**     |
+| 17   | {% rauserpic SherryBirkin %}      |     55,482      |    769,554     |      1,545,938       |
+| 18   | {% rauserpic Totaya %}            |     51,749      |    860,846     |      1,722,192       |
+| 19   | **{% rauserpic BrunoKiko %}**     |   **51,055**    |  **602,354**   |    **1,261,994**     |
+| 20   | **{% rauserpic Delmaru %}**       |   **50,642**    |  **662,382**   |    **1,561,732**     |
+| 21   | {% rauserpic hardt %}             |     47,859      |    558,856     |      1,617,554       |
+| 22   | {% rauserpic Dissection %}        |     47,606      |    772,090     |      1,583,076       |
+| 23   | {% rauserpic mickyt888 %}         |     47,375      |    672,894     |      1,691,512       |
+| 24   | **{% rauserpic Shmelyoff %}**     |   **45,497**    |  **670,232**   |    **3,100,644**     |
+| 25   | {% rauserpic salvadorc17 %}       |     44,930      |    663,882     |      1,274,122       |
+
+\* Hardcore only
+
 # Achievement Unlocks
 
-<!---
-| Month     | Unlocks |
-| :-------- | :------ |
-| January   | 337,381 |
-| February  | 317,253 |
-| March     | 346,464 |
-| April     | 325,228 |
-| May       | 333,506 |
-| June      | 330,414 |
-| July      | 327,031 |
-| August    | 349,120 |
-| September | 348,108 |
-| October   | 422,441 |
-| November  | 345,715 |
-| December  | 385,471 |
--->
-
-| **Total** | 4,168,132 |
-
+## Monthly Breakdown
 ![](img/Stats/AchievementUnlocks.png)
 
+## Console Breakdown
 <div>
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Console</th><th>Unlocks</th></tr></thead><tbody>
@@ -133,29 +200,62 @@ toc: true
 </div>
 <br clear="left"/>
 
+## Top 25 Users
+Check out who has the most achievement unlocks, points, retro points, and mastery awards earned this year.
+
+| Rank | User                           | Achievements | Points  | Retro Points | Mastery Awards |
+| ---- | ------------------------------ | :----------: | :-----: | :----------: | :------------: |
+| 1    | {% rauserpic Infernum %}       |    11,332    | 205,774 |   733,018    |      424       |
+| 2    | {% rauserpic guineu %}         |    10,475    | 143,948 |   374,806    |      354       |
+| 3    | {% rauserpic deng %}           |    8,786     | 115,322 |   238,344    |      289       |
+| 4    | {% rauserpic Kinglink %}       |    8,716     | 79,936  |   109,926    |       34       |
+| 5    | {% rauserpic Retrokaiser %}    |    8,360     | 89,388  |   177,798    |      156       |
+| 6    | {% rauserpic freezestar %}     |    8,094     | 102,788 |   192,022    |      195       |
+| 7    | {% rauserpic JigokuNoBanken %} |    7,576     | 104,170 |   232,646    |       63       |
+| 8    | {% rauserpic Pudpod %}         |    7,530     | 96,050  |   190,606    |       95       |
+| 9    | {% rauserpic ShadwSonic %}     |    7,267     | 98,594  |   199,564    |      199       |
+| 10   | {% rauserpic CobaltZeroni %}   |    7,082     | 87,756  |   174,350    |       75       |
+| 11   | {% rauserpic FireSonic %}      |    6,958     | 96,868  |   232,056    |      174       |
+| 12   | {% rauserpic Andrey199650 %}   |    6,843     | 108,578 |   262,200    |      180       |
+| 13   | {% rauserpic chocolatiel %}    |    6,628     | 93,292  |   256,338    |       93       |
+| 14   | {% rauserpic xTyrea64 %}       |    6,581     | 108,552 |   305,690    |       93       |
+| 15   | {% rauserpic TheLooseGroose %} |    6,307     | 92,346  |   337,170    |      180       |
+| 16   | {% rauserpic AmericanNinja %}  |    6,251     | 95,860  |   285,198    |       35       |
+| 17   | {% rauserpic Bendyhuman %}     |    6,247     | 80,022  |   153,924    |      258       |
+| 18   | {% rauserpic Arekdias %}       |    6,145     | 117,322 |   548,498    |       72       |
+| 19   | {% rauserpic minibt %}         |    6,109     | 84,952  |   184,826    |      139       |
+| 20   | {% rauserpic Olafur %}         |    5,973     | 98,232  |   324,496    |      105       |
+| 21   | {% rauserpic HolyShinx %}      |    5,872     | 89,648  |   207,422    |      190       |
+| 22   | {% rauserpic ChronoGear %}     |    5,853     | 103,230 |   489,366    |      118       |
+| 23   | {% rauserpic Zio %}            |    5,798     | 115,704 |   499,894    |      118       |
+| 24   | {% rauserpic Sarconius %}      |    5,609     | 107,972 |   107,972    |      167       |
+| 25   | {% rauserpic Grahamtams %}     |    5,575     | 84,302  |   235,922    |       50       |
+
+## Top 10 Awarded Achievements
+Check out which achievements were earned the most this year.
+
+| Rank | Achievement                                                                                                                                                                                                                                                                                               | Game                                                                                                                                                                                                                                                                     | Times Awarded |
+| :--- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 1    | <a class="gameicon-link" href="https://retroachievements.org/achievement/342" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/46580.png" alt="Giddy Up!"> <span>Giddy Up!</span></a>                                          | <a class="gameicon-link" href="https://retroachievements.org/game/228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043749.png" alt="Super Mario World (SNES)"> <span>Super Mario World (SNES)</span></a>             | 2955          |
+| 2    | <a class="gameicon-link" href="https://retroachievements.org/achievement/341" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/46591.png" alt="Unleash The Dragon"> <span>Unleash The Dragon</span></a>                        | <a class="gameicon-link" href="https://retroachievements.org/game/228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043749.png" alt="Super Mario World (SNES)"> <span>Super Mario World (SNES)</span></a>             | 2727          |
+| 3    | <a class="gameicon-link" href="https://retroachievements.org/achievement/2253" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/46598.png" alt="I is for Icky Iggy"> <span>I is for Icky Iggy</span></a>                       | <a class="gameicon-link" href="https://retroachievements.org/game/228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043749.png" alt="Super Mario World (SNES)"> <span>Super Mario World (SNES)</span></a>             | 2231          |
+| 4    | <a class="gameicon-link" href="https://retroachievements.org/achievement/4874" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/46577.png" alt="I Believe I Can Fly"> <span>I Believe I Can Fly</span></a>                     | <a class="gameicon-link" href="https://retroachievements.org/game/228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043749.png" alt="Super Mario World (SNES)"> <span>Super Mario World (SNES)</span></a>             | 2120          |
+| 5    | <a class="gameicon-link" href="https://retroachievements.org/achievement/3159" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/40797.png" alt="Shroooooms..."> <span>Shroooooms...</span></a>                                 | <a class="gameicon-link" href="https://retroachievements.org/game/1446" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/036035.png" alt="Super Mario Bros. (NES)"> <span>Super Mario Bros. (NES)</span></a>              | 1836          |
+| 6    | <a class="gameicon-link" href="https://retroachievements.org/achievement/947" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/123740.png" alt="You Can Spell!"> <span>You Can Spell!</span></a>                               | <a class="gameicon-link" href="https://retroachievements.org/game/337" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041009.png" alt="Donkey Kong Country (SNES)"> <span>Donkey Kong Country (SNES)</span></a>         | 1783          |
+| 7    | <a class="gameicon-link" href="https://retroachievements.org/achievement/48638" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84220.png" alt="A new Journey"> <span>A new Journey</span></a>                                | <a class="gameicon-link" href="https://retroachievements.org/game/10003" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/047942.png" alt="Super Mario 64 (Nintendo 64)"> <span>Super Mario 64 (Nintendo 64)</span></a>   | 1701          |
+| 8    | <a class="gameicon-link" href="https://retroachievements.org/achievement/945" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/123739.png" alt="Tally Me Bananas"> <span>Tally Me Bananas</span></a>                           | <a class="gameicon-link" href="https://retroachievements.org/game/337" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041009.png" alt="Donkey Kong Country (SNES)"> <span>Donkey Kong Country (SNES)</span></a>         | 1689          |
+| 9    | <a class="gameicon-link" href="https://retroachievements.org/achievement/3158" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/40796.png" alt="Now You're Playing With Fire!"> <span>Now You're Playing With Fire!</span></a> | <a class="gameicon-link" href="https://retroachievements.org/game/1446" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/036035.png" alt="Super Mario Bros. (NES)"> <span>Super Mario Bros. (NES)</span></a>              | 1645          |
+| 10   | <a class="gameicon-link" href="https://retroachievements.org/achievement/2" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/00199.png" alt="Amateur Collector"> <span>Amateur Collector</span></a>                            | <a class="gameicon-link" href="https://retroachievements.org/game/1" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/016743.png" alt="Sonic the Hedgehog (Mega Drive)"> <span>Sonic the Hedgehog (Mega Drive)</span></a> | 1468          |
+
+\* Hardcore only
+
+
 # Code Notes
 
-<!--
-| Month     | Notes Created |
-| :-------- | :------------ |
-| January   | 11,092        |
-| February  | 12,730        |
-| March     | 12,922        |
-| April     | 10,638        |
-| May       | 8,461         |
-| June      | 8,529         |
-| July      | 10,702        |
-| August    | 19,391        |
-| September | 19,146        |
-| October   | 18,045        |
-| November  | 10,021        |
-| December  | 27,433        |
--->
-
-| **Total** | 169,110       |
-
+## Monthly Breakdown
 ![](img/Stats/CodeNotesCreated.png)
 
+## Console Breakdown
 <div>
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Console</th><th>Notes</th></tr></thead><tbody>
@@ -204,42 +304,36 @@ toc: true
 </div>
 <br clear="left"/>
 
-| Rank | User                           | Code Notes created |
-| :--- | :----------------------------- | :----------------- |
-| 1    | {% rauserpic televandalist %}  | 16,384             |
-| 2    | {% rauserpic SporyTike %}      | 11,280             |
-| 3    | {% rauserpic blendedsea %}     | 6,716              |
-| 4    | {% rauserpic SnowPin %}        | 5,693              |
-| 5    | {% rauserpic NgNvNn %}         | 4,470              |
-| 6    | {% rauserpic Delmaru %}        | 3,936              |
-| 7    | {% rauserpic wilhitewarrior %} | 3,760              |
-| 8    | {% rauserpic guindev %}        | 3,506              |
-| 9    | {% rauserpic voiceofautumn %}  | 3,416              |
-| 10   | {% rauserpic Alfex %}          | 3,054              |
+## Top 10 Code Note Creators
+Check out which developers created the most code notes this year.
+
+<div>
+    <div style='width:49%;display:inline-block;float:left'>
+    <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
+        <tr><td>1</td><td>{% rauserpic televandalist %}</td><td>16,384</td></tr>
+        <tr><td>2</td><td>{% rauserpic SporyTike %}</td><td>11,280</td></tr>
+        <tr><td>3</td><td>{% rauserpic blendedsea %}</td><td>6,716</td></tr>
+        <tr><td>4</td><td>{% rauserpic SnowPin %}</td><td>5,693</td></tr>
+        <tr><td>5</td><td>{% rauserpic NgNvNn %}</td><td>4,470</td></tr>
+    </tbody></table>
+    </div> <div style='width:49%;display:inline-block;float:right'>
+    <table><thead><tr><th>Rank</th><th>Developer</th><th>Leaderboards</th></tr></thead><tbody>
+        <tr><td>6</td><td>{% rauserpic Delmaru %}</td><td>3,936</td></tr>
+        <tr><td>7</td><td>{% rauserpic wilhitewarrior %}</td><td>3,760</td></tr>
+        <tr><td>8</td><td>{% rauserpic guindev %}</td><td>3,506</td></tr>
+        <tr><td>9</td><td>{% rauserpic voiceofautumn %}</td><td>3,416</td></tr>
+        <tr><td>10</td><td>{% rauserpic Alfex %}</td><td>3,054</td></tr>
+    </tbody></table>
+    </div>
+</div>
+<br clear="left"/>
 
 # Mastery Awards
 
-<!--
-| Month     | Mastery Awards | Top 3 Users                                                                                                  |
-| :-------- | :------------- | :----------------------------------------------------------------------------------------------------------- |
-| January   | 3,717          | {% rauserpic mikeisafighter %} - 39<br>{% rauserpic deathbychipmunk %} - 38<br>{% rauserpic Draco655 %} - 32 |
-| February  | 3,395          | {% rauserpic AxelViex %} - 39<br>{% rauserpic deng %} - 32<br>{% rauserpic MechaZillaG %} - 30               |
-| March     | 3,565          | {% rauserpic YahwehTzVaoth %} - 32<br>{% rauserpic FireSonic %} - 31<br>{% rauserpic guineu %} - 29          |
-| April     | 3,797          | {% rauserpic Infernum %} - 47<br>{% rauserpic guineu %} - 35<br>{% rauserpic mikeisafighter %} - 35          |
-| May       | 3,799          | {% rauserpic Infernum %} - 56<br>{% rauserpic mikeisafighter %} - 37<br>{% rauserpic deng %} - 32            |
-| June      | 4,010          | {% rauserpic Infernum %} - 73<br>{% rauserpic guineu %} - 43<br>{% rauserpic Biscoitero %} - 38              |
-| July      | 3,721          | {% rauserpic Infernum %} - 52<br>{% rauserpic Sarconius %} - 37<br>{% rauserpic deng %} - 32                 |
-| August    | 3,466          | {% rauserpic Infernum %} - 37<br>{% rauserpic Bendyhuman %} - 33<br>{% rauserpic freezestar %} - 32          |
-| September | 3,541          | {% rauserpic Infernum %} - 47<br>{% rauserpic supermos %} - 38<br>{% rauserpic ShadwSonic %} - 37            |
-| October   | 4,184          | {% rauserpic Infernum %} - 38<br>{% rauserpic WellingtonBecker %} - 35<br>{% rauserpic Galaxy9000 %} - 34    |
-| November  | 3,534          | {% rauserpic AuburnRDM %} - 38<br>{% rauserpic Xeinok %} - 33<br>{% rauserpic ShadwSonic %} - 31             |
-| December  | 4,184          | {% rauserpic AuburnRDM %} - 72<br>{% rauserpic Infernum %} - 44<br>{% rauserpic Searo %} - 36                |
--->
-
-| **Total** | 44,913 |
-
+## Monthly Breakdown
 ![](img/Stats/MasteryAwards.png)
 
+## Console Breakdown
 <div>
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Console</th><th>Awards</th></tr></thead><tbody>
@@ -247,38 +341,38 @@ toc: true
         <tr><td>3DO Interactive Multiplayer</td><td>76</td></tr>
         <tr><td>Apple II</td><td>45</td></tr>
         <tr><td>Arcade</td><td>653</td></tr>
-        <tr><td>Atari 2600</td><td>1884</td></tr>
+        <tr><td>Atari 2600</td><td>1,884</td></tr>
         <tr><td>Atari 7800</td><td>62</td></tr>
         <tr><td>Atari Jaguar</td><td>7</td></tr>
         <tr><td>Atari Lynx</td><td>38</td></tr>
         <tr><td>ColecoVision</td><td>106</td></tr>
         <tr><td>Events</td><td>382</td></tr>
-        <tr><td>Game Boy</td><td>3923</td></tr>
-        <tr><td>Game Boy Advance</td><td>4345</td></tr>
-        <tr><td>Game Boy Color</td><td>2238</td></tr>
+        <tr><td>Game Boy</td><td>3,923</td></tr>
+        <tr><td>Game Boy Advance</td><td>4,345</td></tr>
+        <tr><td>Game Boy Color</td><td>2,238</td></tr>
         <tr><td>Game Gear</td><td>427</td></tr>
         <tr><td>Intellivision</td><td>57</td></tr>
         <tr><td>Magnavox Odyssey 2</td><td>39</td></tr>
         <tr><td>Master System</td><td>466</td></tr>
-        <tr><td>Mega Drive</td><td>3324</td></tr>
+        <tr><td>Mega Drive</td><td>3,324</td></tr>
         <tr><td>MSX</td><td>43</td></tr>
     </tbody></table>
     </div> <div style='width:49%;display:inline-block;float:right'>
     <table><thead><tr><th>Console</th><th>Awards</th></tr></thead><tbody>
         <tr><td>Neo Geo Pocket</td><td>57</td></tr>
-        <tr><td>NES</td><td>7127</td></tr>
-        <tr><td>Nintendo 64</td><td>2656</td></tr>
-        <tr><td>Nintendo DS</td><td>1366</td></tr>
+        <tr><td>NES</td><td>7,127</td></tr>
+        <tr><td>Nintendo 64</td><td>2,656</td></tr>
+        <tr><td>Nintendo DS</td><td>1,366</td></tr>
         <tr><td>PC Engine</td><td>257</td></tr>
         <tr><td>PC-8000/8800</td><td>42</td></tr>
         <tr><td>PC-FX</td><td>8</td></tr>
-        <tr><td>PlayStation</td><td>4308</td></tr>
+        <tr><td>PlayStation</td><td>4,308</td></tr>
         <tr><td>PlayStation Portable</td><td>494</td></tr>
         <tr><td>Pokemon Mini</td><td>341</td></tr>
         <tr><td>Saturn</td><td>208</td></tr>
         <tr><td>Sega CD</td><td>87</td></tr>
         <tr><td>SG-1000</td><td>55</td></tr>
-        <tr><td>SNES</td><td>9275</td></tr>
+        <tr><td>SNES</td><td>9,275</td></tr>
         <tr><td>Vectrex</td><td>6</td></tr>
         <tr><td>Virtual Boy</td><td>46</td></tr>
         <tr><td>Watara Supervision</td><td>418</td></tr>
@@ -288,8 +382,7 @@ toc: true
 </div>
 <br clear="left"/>
 
-
-Top 25 users with the most mastery awards this year.
+## Top 25 Mastery Awards
 <div>
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Rank</th><th>User</th><th>Awards</th></tr></thead><tbody>
@@ -326,7 +419,8 @@ Top 25 users with the most mastery awards this year.
 </div>
 <br clear="left"/>
 
-Top Mastery Amount in a single month.
+## Top 10 Single Month Masteries
+Check out which users had the most single moth mastery awards this year.
 
 | Rank | User                           | Awards | Month     |
 | ---- | ------------------------------ | ------ | --------- |
@@ -341,29 +435,28 @@ Top Mastery Amount in a single month.
 | 9    | {% rauserpic mikeisafighter %} | 39     | January   |
 | 10   | {% rauserpic AxelViex %}       | 39     | February  |
 
+## Top 10 Mastered Sets
+Check out which sets were mastered most this year.
+
+| Rank | Game                                                                                                                                                                                                                                                                                                         | Awards |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| 1    | <a class="gameicon-link" href="https://retroachievements.org/game/337" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041009.png" alt="Donkey Kong Country (SNES)"> <span>Donkey Kong Country (SNES)</span></a>                                             | 344    |
+| 2    | <a class="gameicon-link" href="https://retroachievements.org/game/10434" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/026511.png" alt="Crash Bandicoot (PlayStation)"> <span>Crash Bandicoot (PlayStation)</span></a>                                     | 249    |
+| 3    | <a class="gameicon-link" href="https://retroachievements.org/game/1627" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/011853.png" alt="Color a Dinosaur (NES)"> <span>Color a Dinosaur (NES)</span></a>                                                    | 244    |
+| 4    | <a class="gameicon-link" href="https://retroachievements.org/game/228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043749.png" alt="Super Mario World (SNES)"> <span>Super Mario World (SNES)</span></a>                                                 | 243    |
+| 5    | <a class="gameicon-link" href="https://retroachievements.org/game/13393" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/019687.png" alt="~Homebrew~ Cookie Clicker (NES)"> <span>~Homebrew~ Cookie Clicker (NES)</span></a>                                 | 241    |
+| 6    | <a class="gameicon-link" href="https://retroachievements.org/game/466" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/020222.png" alt="Donkey Kong Country 2: Diddy's Kong Quest (SNES)"> <span>Donkey Kong Country 2: Diddy's Kong Quest (SNES)</span></a> | 206    |
+| 7    | <a class="gameicon-link" href="https://retroachievements.org/game/355" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/032817.png" alt="Legend of Zelda, The: A Link to the Past (SNES)"> <span>Legend of Zelda, The: A Link to the Past (SNES)</span></a>   | 183    |
+| 8    | <a class="gameicon-link" href="https://retroachievements.org/game/7687" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/036845.png" alt="Caterpillar Construction Zone (Game Boy Color)"> <span>Caterpillar Construction Zone (Game Boy Color)</span></a>    | 182    |
+| 9    | <a class="gameicon-link" href="https://retroachievements.org/game/9026" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/019883.png" alt="~Prototype~ Diablo \| Diablo Junior (Game Boy)"> <span>~Prototype~ Diablo \| Diablo Junior (Game Boy)</span></a>    | 179    |
+| 10   | <a class="gameicon-link" href="https://retroachievements.org/game/10701" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051152.png" alt="~Test Kit~ SNES Burn-in Test Cartridge (SNES)"> <span>~Test Kit~ SNES Burn-in Test Cartridge (SNES)</span></a>     | 178    |
+
 # Set Requests
 
-<!--
-| Month     | Set Requests made |
-| :-------- | :---------------- |
-| January   | 874               |
-| February  | 763               |
-| March     | 897               |
-| April     | 930               |
-| May       | 1,014             |
-| June      | 945               |
-| July      | 1,026             |
-| August    | 1,119             |
-| September | 1,341             |
-| October   | 1,317             |
-| November  | 1,020             |
-| December  | 1,218             |
--->
-
-| **Total** | 12,464            |
-
+## Monthly Breakdown
 ![](img/Stats/SetRequestsMade.png)
 
+## Console Breakdown
 <div>
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Console</th><th>Requests</th></tr></thead><tbody>
@@ -396,20 +489,20 @@ Top Mastery Amount in a single month.
         <tr><td>NES</td><td>672</td></tr>
         <tr><td>Nintendo 3DS</td><td>3</td></tr>
         <tr><td>Nintendo 64</td><td>649</td></tr>
-        <tr><td>Nintendo DS</td><td>1633</td></tr>
+        <tr><td>Nintendo DS</td><td>1,633</td></tr>
         <tr><td>Nokia N-Gage</td><td>1</td></tr>
         <tr><td>PC Engine</td><td>141</td></tr>
         <tr><td>PC-8000/8800</td><td>4</td></tr>
         <tr><td>PC-9800</td><td>46</td></tr>
         <tr><td>PC-FX</td><td>2</td></tr>
         <tr><td>Philips CD-i</td><td>2</td></tr>
-        <tr><td>PlayStation</td><td>2907</td></tr>
-        <tr><td>PlayStation Portable</td><td>1228</td></tr>
+        <tr><td>PlayStation</td><td>2,907</td></tr>
+        <tr><td>PlayStation Portable</td><td>1,228</td></tr>
         <tr><td>Pokemon Mini</td><td>12</td></tr>
         <tr><td>Saturn</td><td>232</td></tr>
         <tr><td>Sega CD</td><td>119</td></tr>
         <tr><td>SG-1000</td><td>4</td></tr>
-        <tr><td>SNES</td><td>1261</td></tr>
+        <tr><td>SNES</td><td>1,261</td></tr>
         <tr><td>Super Cassette Vision</td><td>2</td></tr>
         <tr><td>Vectrex</td><td>1</td></tr>
         <tr><td>Virtual Boy</td><td>11</td></tr>
@@ -423,29 +516,10 @@ Top Mastery Amount in a single month.
 
 # Leaderboards
 
-<!---
-| Month     | Leaderboards |
-| :-------- | :----------- |
-| January   | 303          |
-| February  | 653          |
-| March     | 724          |
-| April     | 550          |
-| May       | 388          |
-| June      | 515          |
-| July      | 883          |
-| August    | 1,105        |
-| September | 1,333        |
-| October   | 595          |
-| November  | 480          |
-| December  | 496          |
-|           |              |
---->
-
-| **Total**         | 8,025   |
-| **Total Entries** | 264,574 |
-
+## Monthly Breakdown
 ![](img/Stats/LeaderboardsCreated.png)
 
+## Console Breakdown
 <div>
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Console</th><th>Leaderboards</th></tr></thead><tbody>
@@ -460,23 +534,22 @@ Top Mastery Amount in a single month.
         <tr><td>Game Boy Advance</td><td>289</td></tr>
         <tr><td>Game Boy Color</td><td>231</td></tr>
         <tr><td>Game Gear</td><td>31</td></tr>
-        <tr><td>Hubs</td><td>2</td></tr>
         <tr><td>Intellivision</td><td>29</td></tr>
         <tr><td>Magnavox Odyssey 2</td><td>4</td></tr>
         <tr><td>Master System</td><td>22</td></tr>
         <tr><td>Mega Drive</td><td>671</td></tr>
         <tr><td>MSX</td><td>68</td></tr>
+        <tr><td>NES</td><td>287</td></tr>
     </tbody></table>
     </div> <div style='width:49%;display:inline-block;float:right'>
     <table><thead><tr><th>Console</th><th>Leaderboards</th></tr></thead><tbody>
-        <tr><td>NES</td><td>287</td></tr>
-        <tr><td>Nintendo 64</td><td>1010</td></tr>
-        <tr><td>Nintendo DS</td><td>1304</td></tr>
+        <tr><td>Nintendo 64</td><td>1,010</td></tr>
+        <tr><td>Nintendo DS</td><td>1,304</td></tr>
         <tr><td>PC Engine</td><td>83</td></tr>
         <tr><td>PC-8000/8800</td><td>4</td></tr>
         <tr><td>PC-FX</td><td>1</td></tr>
         <tr><td>PlayStation</td><td>647</td></tr>
-        <tr><td>PlayStation Portable</td><td>1511</td></tr>
+        <tr><td>PlayStation Portable</td><td>1,511</td></tr>
         <tr><td>Pokemon Mini</td><td>43</td></tr>
         <tr><td>Saturn</td><td>33</td></tr>
         <tr><td>Sega CD</td><td>8</td></tr>
@@ -491,94 +564,26 @@ Top Mastery Amount in a single month.
 </div>
 <br clear="left"/>
 
-# Player and Developer Stats
+## Top 10 Leaderboard Creators
+Check out which developers created the most leaderboards this year.
 
-
-| Rank | Author                            | Unlocks Awarded | Points Awarded | Retro Points Awarded |
-| :--- | :-------------------------------- | :-------------: | :------------: | :------------------: |
-| 1    | {% rauserpic Brian %}             |     150,987     |   2,304,602    |      7,886,604       |
-| 2    | {% rauserpic Salsa %}             |     127,988     |   2,008,570    |      7,275,634       |
-| 3    | **{% rauserpic SporyTike %}**     |   **122,918**   | **1,447,694**  |    **4,634,326**     |
-| 4    | {% rauserpic dude1286 %}          |     104,065     |   1,820,320    |      4,126,734       |
-| 5    | **{% rauserpic televandalist %}** |   **98,383**    | **1,495,008**  |    **5,466,314**     |
-| 6    | **{% rauserpic stfN1337 %}**      |   **85,443**    | **1,313,692**  |    **2,163,146**     |
-| 7    | **{% rauserpic matheus2653 %}**   |   **78,253**    | **1,276,792**  |    **3,695,130**     |
-| 8    | {% rauserpic Dexterspet %}        |     76,945      |    978,470     |      2,586,020       |
-| 9    | {% rauserpic Jaarl %}             |     73,867      |   1,056,408    |      2,528,688       |
-| 10   | **{% rauserpic SnowPin %}**       |   **66,873**    |  **701,226**   |    **2,167,772**     |
-| 11   | **{% rauserpic jplima %}**        |   **66,654**    | **1,267,540**  |    **3,934,888**     |
-| 12   | {% rauserpic Rewsifer %}          |     65,787      |    721,880     |      1,323,696       |
-| 13   | **{% rauserpic Blazekickn %}**    |   **65,680**    |  **697,448**   |    **3,571,782**     |
-| 14   | {% rauserpic Scott %}             |     65,110      |    703,456     |      1,664,918       |
-| 15   | **{% rauserpic MGNS8M %}**        |   **63,335**    |  **903,884**   |    **3,031,792**     |
-| 16   | **{% rauserpic Altomar %}**       |   **60,797**    |  **780,374**   |    **1,883,986**     |
-| 17   | {% rauserpic SherryBirkin %}      |     55,482      |    769,554     |      1,545,938       |
-| 18   | {% rauserpic Totaya %}            |     51,749      |    860,846     |      1,722,192       |
-| 19   | **{% rauserpic BrunoKiko %}**     |   **51,055**    |  **602,354**   |    **1,261,994**     |
-| 20   | **{% rauserpic Delmaru %}**       |   **50,642**    |  **662,382**   |    **1,561,732**     |
-| 21   | {% rauserpic hardt %}             |     47,859      |    558,856     |      1,617,554       |
-| 22   | {% rauserpic Dissection %}        |     47,606      |    772,090     |      1,583,076       |
-| 23   | {% rauserpic mickyt888 %}         |     47,375      |    672,894     |      1,691,512       |
-| 24   | **{% rauserpic Shmelyoff %}**     |   **45,497**    |  **670,232**   |    **3,100,644**     |
-| 25   | {% rauserpic salvadorc17 %}       |     44,930      |    663,882     |      1,274,122       |
-
-
-
-| Rank | User                           | Achievements | Points | Retro Points | Mastery Awards |
-| ---- | ------------------------------ | :----------: | :----: | :----------: | :------------: |
-| 1    | {% rauserpic Infernum %}       |    11332     | 205774 |    733018    |      424       |
-| 2    | {% rauserpic guineu %}         |    10475     | 143948 |    374806    |      354       |
-| 3    | {% rauserpic deng %}           |     8786     | 115322 |    238344    |      289       |
-| 4    | {% rauserpic Kinglink %}       |     8716     | 79936  |    109926    |       34       |
-| 5    | {% rauserpic Retrokaiser %}    |     8360     | 89388  |    177798    |      156       |
-| 6    | {% rauserpic freezestar %}     |     8094     | 102788 |    192022    |      195       |
-| 7    | {% rauserpic JigokuNoBanken %} |     7576     | 104170 |    232646    |       63       |
-| 8    | {% rauserpic Pudpod %}         |     7530     | 96050  |    190606    |       95       |
-| 9    | {% rauserpic ShadwSonic %}     |     7267     | 98594  |    199564    |      199       |
-| 10   | {% rauserpic CobaltZeroni %}   |     7082     | 87756  |    174350    |       75       |
-| 11   | {% rauserpic FireSonic %}      |     6958     | 96868  |    232056    |      174       |
-| 12   | {% rauserpic Andrey199650 %}   |     6843     | 108578 |    262200    |      180       |
-| 13   | {% rauserpic chocolatiel %}    |     6628     | 93292  |    256338    |       93       |
-| 14   | {% rauserpic xTyrea64 %}       |     6581     | 108552 |    305690    |       93       |
-| 15   | {% rauserpic TheLooseGroose %} |     6307     | 92346  |    337170    |      180       |
-| 16   | {% rauserpic AmericanNinja %}  |     6251     | 95860  |    285198    |       35       |
-| 17   | {% rauserpic Bendyhuman %}     |     6247     | 80022  |    153924    |      258       |
-| 18   | {% rauserpic Arekdias %}       |     6145     | 117322 |    548498    |       72       |
-| 19   | {% rauserpic minibt %}         |     6109     | 84952  |    184826    |      139       |
-| 20   | {% rauserpic Olafur %}         |     5973     | 98232  |    324496    |      105       |
-| 21   | {% rauserpic HolyShinx %}      |     5872     | 89648  |    207422    |      190       |
-| 22   | {% rauserpic ChronoGear %}     |     5853     | 103230 |    489366    |      118       |
-| 23   | {% rauserpic Zio %}            |     5798     | 115704 |    499894    |      118       |
-| 24   | {% rauserpic Sarconius %}      |     5609     | 107972 |    107972    |      167       |
-| 25   | {% rauserpic Grahamtams %}     |     5575     | 84302  |    235922    |       50       |
-
-# Most Awarded Achievements
-
-| Rank | Achievement                                                                                                                                                                                                                                                                                               | Game                                                                                                                                                                                                                                                                     | Times Awarded |
-| :--- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
-| 1    | <a class="gameicon-link" href="https://retroachievements.org/achievement/342" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/46580.png" alt="Giddy Up!"> <span>Giddy Up!</span></a>                                          | <a class="gameicon-link" href="https://retroachievements.org/game/228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043749.png" alt="Super Mario World (SNES)"> <span>Super Mario World (SNES)</span></a>             | 2955          |
-| 2    | <a class="gameicon-link" href="https://retroachievements.org/achievement/341" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/46591.png" alt="Unleash The Dragon"> <span>Unleash The Dragon</span></a>                        | <a class="gameicon-link" href="https://retroachievements.org/game/228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043749.png" alt="Super Mario World (SNES)"> <span>Super Mario World (SNES)</span></a>             | 2727          |
-| 3    | <a class="gameicon-link" href="https://retroachievements.org/achievement/2253" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/46598.png" alt="I is for Icky Iggy"> <span>I is for Icky Iggy</span></a>                       | <a class="gameicon-link" href="https://retroachievements.org/game/228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043749.png" alt="Super Mario World (SNES)"> <span>Super Mario World (SNES)</span></a>             | 2231          |
-| 4    | <a class="gameicon-link" href="https://retroachievements.org/achievement/4874" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/46577.png" alt="I Believe I Can Fly"> <span>I Believe I Can Fly</span></a>                     | <a class="gameicon-link" href="https://retroachievements.org/game/228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043749.png" alt="Super Mario World (SNES)"> <span>Super Mario World (SNES)</span></a>             | 2120          |
-| 5    | <a class="gameicon-link" href="https://retroachievements.org/achievement/3159" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/40797.png" alt="Shroooooms..."> <span>Shroooooms...</span></a>                                 | <a class="gameicon-link" href="https://retroachievements.org/game/1446" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/036035.png" alt="Super Mario Bros. (NES)"> <span>Super Mario Bros. (NES)</span></a>              | 1836          |
-| 6    | <a class="gameicon-link" href="https://retroachievements.org/achievement/947" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/123740.png" alt="You Can Spell!"> <span>You Can Spell!</span></a>                               | <a class="gameicon-link" href="https://retroachievements.org/game/337" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041009.png" alt="Donkey Kong Country (SNES)"> <span>Donkey Kong Country (SNES)</span></a>         | 1783          |
-| 7    | <a class="gameicon-link" href="https://retroachievements.org/achievement/48638" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84220.png" alt="A new Journey"> <span>A new Journey</span></a>                                | <a class="gameicon-link" href="https://retroachievements.org/game/10003" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/047942.png" alt="Super Mario 64 (Nintendo 64)"> <span>Super Mario 64 (Nintendo 64)</span></a>   | 1701          |
-| 8    | <a class="gameicon-link" href="https://retroachievements.org/achievement/945" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/123739.png" alt="Tally Me Bananas"> <span>Tally Me Bananas</span></a>                           | <a class="gameicon-link" href="https://retroachievements.org/game/337" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041009.png" alt="Donkey Kong Country (SNES)"> <span>Donkey Kong Country (SNES)</span></a>         | 1689          |
-| 9    | <a class="gameicon-link" href="https://retroachievements.org/achievement/3158" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/40796.png" alt="Now You're Playing With Fire!"> <span>Now You're Playing With Fire!</span></a> | <a class="gameicon-link" href="https://retroachievements.org/game/1446" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/036035.png" alt="Super Mario Bros. (NES)"> <span>Super Mario Bros. (NES)</span></a>              | 1645          |
-| 10   | <a class="gameicon-link" href="https://retroachievements.org/achievement/2" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/00199.png" alt="Amateur Collector"> <span>Amateur Collector</span></a>                            | <a class="gameicon-link" href="https://retroachievements.org/game/1" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/016743.png" alt="Sonic the Hedgehog (Mega Drive)"> <span>Sonic the Hedgehog (Mega Drive)</span></a> | 1468          |
-
-# Most Mastered Games
-
-| Rank | Game                                                                                                                                                                                                                                                                                                         | Awards |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
-| 1    | <a class="gameicon-link" href="https://retroachievements.org/game/337" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041009.png" alt="Donkey Kong Country (SNES)"> <span>Donkey Kong Country (SNES)</span></a>                                             | 344    |
-| 2    | <a class="gameicon-link" href="https://retroachievements.org/game/10434" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/026511.png" alt="Crash Bandicoot (PlayStation)"> <span>Crash Bandicoot (PlayStation)</span></a>                                     | 249    |
-| 3    | <a class="gameicon-link" href="https://retroachievements.org/game/1627" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/011853.png" alt="Color a Dinosaur (NES)"> <span>Color a Dinosaur (NES)</span></a>                                                    | 244    |
-| 4    | <a class="gameicon-link" href="https://retroachievements.org/game/228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043749.png" alt="Super Mario World (SNES)"> <span>Super Mario World (SNES)</span></a>                                                 | 243    |
-| 5    | <a class="gameicon-link" href="https://retroachievements.org/game/13393" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/019687.png" alt="~Homebrew~ Cookie Clicker (NES)"> <span>~Homebrew~ Cookie Clicker (NES)</span></a>                                 | 241    |
-| 6    | <a class="gameicon-link" href="https://retroachievements.org/game/466" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/020222.png" alt="Donkey Kong Country 2: Diddy's Kong Quest (SNES)"> <span>Donkey Kong Country 2: Diddy's Kong Quest (SNES)</span></a> | 206    |
-| 7    | <a class="gameicon-link" href="https://retroachievements.org/game/355" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/032817.png" alt="Legend of Zelda, The: A Link to the Past (SNES)"> <span>Legend of Zelda, The: A Link to the Past (SNES)</span></a>   | 183    |
-| 8    | <a class="gameicon-link" href="https://retroachievements.org/game/7687" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/036845.png" alt="Caterpillar Construction Zone (Game Boy Color)"> <span>Caterpillar Construction Zone (Game Boy Color)</span></a>    | 182    |
-| 9    | <a class="gameicon-link" href="https://retroachievements.org/game/9026" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/019883.png" alt="~Prototype~ Diablo \| Diablo Junior (Game Boy)"> <span>~Prototype~ Diablo \| Diablo Junior (Game Boy)</span></a>    | 179    |
-| 10   | <a class="gameicon-link" href="https://retroachievements.org/game/10701" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051152.png" alt="~Test Kit~ SNES Burn-in Test Cartridge (SNES)"> <span>~Test Kit~ SNES Burn-in Test Cartridge (SNES)</span></a>     | 178    |
-
+<div>
+    <div style='width:49%;display:inline-block;float:left'>
+    <table><thead><tr><th>Rank</th><th>Developer</th><th>Leaderboards</th></tr></thead><tbody>
+        <tr><td>1</td><td>{% rauserpic SporyTike %}</td><td>1,649</td></tr>
+        <tr><td>2</td><td>{% rauserpic lordpsycho %}</td><td>837</td></tr>
+        <tr><td>3</td><td>{% rauserpic GalacticSpear %}</td><td>451</td></tr>
+        <tr><td>4</td><td>{% rauserpic NgNvNn %}</td><td>368</td></tr>
+        <tr><td>5</td><td>{% rauserpic TeddyWestside %}</td><td>348</td></tr>
+    </tbody></table>
+    </div> <div style='width:49%;display:inline-block;float:right'>
+    <table><thead><tr><th>Rank</th><th>Developer</th><th>Leaderboards</th></tr></thead><tbody>
+        <tr><td>6</td><td>{% rauserpic KingS1zzle %}</td><td>275</td></tr>
+        <tr><td>7</td><td>{% rauserpic BahamutVoid %}</td><td>237</td></tr>
+        <tr><td>8</td><td>{% rauserpic Bartis1989 %}</td><td>231</td></tr>
+        <tr><td>9</td><td>{% rauserpic valts %}</td><td>206</td></tr>
+        <tr><td>10</td><td>{% rauserpic raniejogos %}</td><td>177</td></tr>
+    </tbody></table>
+    </div>
+</div>
+<br clear="left"/>

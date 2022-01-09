@@ -2,12 +2,13 @@
 issue: 2022-01
 order: 202201-06
 layout: article
-title: A Year In Review
+title: A Year in Review
 author: MrOwnership
 toc: true
 ---
 
 # Intro
+We have taken many steps forward this past year as a community and continue to make RetroAchievements a wonderful community to be a part of. Lets take a step back and remember what we all accomplished over the past year. 
 
 # Community Updates
 * User [Code of Conduct](https://docs.retroachievements.org/Users-Code-of-Conduct/) updated to be more clear and simple.
@@ -16,7 +17,7 @@ toc: true
 * Efforts made to standardize game genres have begun.
 * Artist role created to help others with icon and badge work.
 * Rescore Project has been completed. The project lasted from June 2019 through April 2021.
-* Cheevo mascot created and discord emojis added for him.
+* [Cheevo](https://cdn.discordapp.com/attachments/357633571307126784/883215430708248596/emotegroup.png) mascot created by {% rauserpic Nydaxn %} and discord emojis added for him.
 * RA Twitter account gets revived... then blocked :cry:... then unblocked :innocent:.
 * {% rauserpic QATeam %} created to increase and maintain set quality.
 * [RAPodcast](https://www.youtube.com/channel/UCIGdJGxrzmNYMaAGPsk2sIA/videos) episodes 13-24 released.
@@ -37,7 +38,6 @@ toc: true
 * Intellivision support
 * Watara Supervision support
 * PSP support
-
 
 # Developer Rule & Policy Updates
 
@@ -70,7 +70,7 @@ If there are no hits > Ticket handling is the same as a hardcore ticket being su
 * Professor Oak Subsets no longer require approval.
 * Reminder to make a new post when reclaiming a set, don't just update the original claim post.
 * Ability to hold a finished set in unofficial for a future event, or holiday without it taking a claim spot. Must be approved by QA Team.
-* Sole/Majority devs can now request forum topic transfers so they are now the author of the first post and can edit it freely.
+* Sole/Majority devs can now request forum topic transfers so they can now be the author of the first post and can edit it freely.
 
 ## Policy Updates
 * Updates
@@ -92,7 +92,14 @@ If there are no hits > Ticket handling is the same as a hardcore ticket being su
     * `8 claim limit for Veteran Devs. It was voted on to be removed a while back, but was not changed in the docs until the Veteran Developer badge was ready.`
 
 # Artists
+The new Discord @Art-Helper role was created to help aid developers with their set icons and badges. Developers can make art requests in #art-requests channel. The Artists have worked on 2 boxart requests, 14 badge requests, and 29 icon requests this year. Here is the current Artist team:
 
+| {% rauserpic ArcaneJames %}   | {% rauserpic Ch0senlast %}     | {% rauserpic GalacticSpear %} |
+| {% rauserpic GameZone %}      | {% rauserpic Jenettebaghead %} | {% rauserpic kiwibasket %}    |
+| {% rauserpic Krylan %}        | {% rauserpic Mekevin255 %}     | {% rauserpic Nydaxn %}        |
+| {% rauserpic Soulsderfuchs %} | {% rauserpic WateredWillow %}  |                               |
+
+If you are interested in becoming a Artist please reach out to {% rauserpic Nydaxn %}.
 
 # Code Reviewers & Junior Developers
 The Junior Developer program is responsible for aiding and assisting aspiring achievement sets developers as they try to earn the rank of a full developer. New this year is the much needed and requested [Junior Developer site role](https://retroachievements.org/viewtopic.php?t=13332). This new role allows Junior Developers access to several site features, that were previously Developer only.
@@ -155,24 +162,25 @@ QA Team was created this year to monitoring achievement set quality and adherenc
 [QA Weekly Wrap: Dec 26th, 2021 - Jan 1st, 2022](https://retroachievements.org/viewtopic.php?t=14757)<br>
 
 # Events
+RetroAchievements offers a wide range of unique and entertaining events throughout the year to get the community members involved in some friendly competition. Check out the ongoing and complete events from the past year.
 
 ## Ongoing Events
-* Achievement of the Week
+* [Achievement of the Week](https://retroachievements.org/viewtopic.php?t=12143)
   * Hosted by: {% rauserpic ikki5 %} & {% rauserpic Flara %}
-* Challenge League
+* [Challenge League](https://retroachievements.org/viewtopic.php?t=12318)
   * Hosted by: {% rauserpic SnowPin %}
   * Current challenges:
-    * #1 - Leapforg
+    * #1 - Leapfrog
     * #2 - Unwanted
     * #3 - Peakstreak
     * #4 - BINGO!
     * #5 - CL3 x VGM
     * #6 - Ticket to Ride
     * #7 - Devember
-    * #7 - Daily Distractions (7 Days)
+    * #8 - Daily Distractions (7 Days)
 * Communiplay
   * Hosted by: {% rauserpic SporyTike %}
-* Daily DistRActions
+* [Daily DistRActions](https://retroachievements.org/viewtopic.php?t=14532)
   * Hosted by: {% rauserpic Bendyhuman %}
   * Currently 1st place (with 21 points):
     * {% rauserpic Akai %}
@@ -185,45 +193,45 @@ QA Team was created this year to monitoring achievement set quality and adherenc
     * {% rauserpic Searo %}
     * {% rauserpic Shmelyoff %}
     * {% rauserpic Xymjak %}
-* DevQuest
+* [DevQuest](https://retroachievements.org/viewtopic.php?t=13060)
   * Hosted by: {% rauserpic QATeam %}
   * Current Quests:
-    * #001: Ticket Massacre - 5 developers awarded.
-    * #002: Summer Set Repair - 10 developers awarded.
-    * #003: One Single Condition - 21 developers awarded.
-    * #004: Veteran Developer - 4 developers awarded.
-    * #005: Trigger Happy - 3 developers awarded.
-    * #006: The Unwanted - 17 developers awarded.
-    * #007: Most Wanted - 13 developers awarded.
-    * #008: World Traveler - 5 developers awarded.
-    * #009: Launch Party! - 32 developers awarded.
-    * #010: It Takes Two - 0 developers awarded.
-    * #011: Happy Birthday RA! - 7 developers awarded.
-* Leaderboard of the Month
+    * [#001: Ticket Massacre](https://retroachievements.org/game/15940) - 5 developers awarded.
+    * [#002: Summer Set Repair](https://retroachievements.org/game/15957) - 10 developers awarded.
+    * [#003: One Single Condition](https://retroachievements.org/game/15953) - 21 developers awarded.
+    * [#004: Veteran Developer](https://retroachievements.org/game/15947) - 4 developers awarded.
+    * [#005: Trigger Happy](https://retroachievements.org/game/15952) - 3 developers awarded.
+    * [#006: The Unwanted](https://retroachievements.org/game/15907) - 17 developers awarded.
+    * [#007: Most Wanted](https://retroachievements.org/game/17758) - 13 developers awarded.
+    * [#008: World Traveler](https://retroachievements.org/game/15918) - 5 developers awarded.
+    * [#009: Launch Party!](https://retroachievements.org/game/15937) - 32 developers awarded.
+    * [#010: It Takes Two](https://retroachievements.org/game/15939) - 0 developers awarded.
+    * [#011: Happy Birthday RA!](https://retroachievements.org/game/1280) - 7 developers awarded.
+* [Leaderboard of the Month](https://retroachievements.org/viewtopic.php?t=13412)
   * Hosted by: {% rauserpic Searo %}
   * Current results:
     * 1st: {% rauserpic multonic %} - 85 points
     * 2nd: {% rauserpic Xymjak %} - 65 Points
     * 3rd: {% rauserpic Keltron3030 %} - 50 Points
-* Master of the Month
+* [Master of the Month](https://retroachievements.org/viewtopic.php?t=10221)
   * Hosted by: {% rauserpic JAM %}
-* Peak Streak
+* [Peak Streak](https://retroachievements.org/viewtopic.php?t=12108)
   * Hosted by: {% rauserpic Bendyhuman %}
   * Currently 1st place, finished previous month with 223 points:
     * {% rauserpic YahwehTzVaoth %}
-* Simple Monthly Master
+* [Simple Monthly Master](https://retroachievements.org/viewtopic.php?t=10753)
   * Hosted by: {% rauserpic Hotscrock %}
-* The Unwanted
+* [The Unwanted](https://retroachievements.org/viewtopic.php?t=14787)
   * Hosted by: {% rauserpic SlashTangent %}, {% rauserpic televandalist %} and {% rauserpic StingX2 %}
 
 ## Completed Events
-* 2021 Retro Olympics - Spring Edition
+* [2021 Retro Olympics - Spring Edition](https://retroachievements.org/viewtopic.php?t=12473)
   * Hosted by: {% rauserpic voiceofautumn %} & {% rauserpic Searo %}
   * Results: 
     * Gold: {% rauserpic Gamechamp %}
     * Silver: {% rauserpic TheoVellum %}
     * Bronze: {% rauserpic Bendyhuman %}
-* Devember 2.0
+* [Devember 2.0](https://retroachievements.org/viewtopic.php?t=14382)
   * Hosted by: {% rauserpic SlashTangent %} & {% rauserpic wilhitewarrior %}
   * Results:
     * 824 tickets closed/resolved.
@@ -251,7 +259,7 @@ QA Team was created this year to monitoring achievement set quality and adherenc
     * RB5 winner:  {% rauserpic Draco655 %}
     * RB6 winner:  {% rauserpic HolyShinx %}
     * RB7 winner:  {% rauserpic betinho006 %}
-* The Big Achievement 2020
+* [The Big Achievement 2020](https://retroachievements.org/viewtopic.php?t=9736)
   * Hosted by: {% rauserpic televandalist %}
   * Badges created and awarded.
   * Results:
@@ -259,12 +267,12 @@ QA Team was created this year to monitoring achievement set quality and adherenc
     * 1 Gold winner.
     * 3 Silver winners.
     * 9 Bronze winners.
-* The Great Jacko
+* [The Great Jacko](https://retroachievements.org/viewtopic.php?t=13060)
   * Hosted by: {% rauserpic StingX2 %} & {% rauserpic DanielARP %}
   * Results:
     * 8 developers qualify for event badge.
     * 31 set revisions completed
-* VGM 8
+* [VGM Contest - 8-bit Edition](https://retroachievements.org/viewtopic.php?t=12997)
   * Hosted by: {% rauserpic WateredWillow %}
   * Results:
     * 1st: {% rauserpic Salsa %}
@@ -272,7 +280,6 @@ QA Team was created this year to monitoring achievement set quality and adherenc
     * 3rd: {% rauserpic JAM %}
 
 # Discord Updates
-
 In an effort to improve and organize the overall discord experience we have created several new roles and channels for the users. Here are the roles and channels that were added in the past year, as well a general purpose for them.
 
 ## Role Additions
@@ -324,7 +331,7 @@ In an effort to improve and organize the overall discord experience we have crea
 | #writing                 | Handling spelling/grammatical errors in achievement titles/descriptions and other related tasks.                         |
 | #writing-requests        | Writing requests to be handled by the Writing team.                                                                      |
 
-# RANews
+# [RANews](https://github.com/RetroAchievements/RANews)
 * 1 Year Anniversary in August.
 * New Sections:
   * Top Mastery
@@ -333,7 +340,7 @@ In an effort to improve and organize the overall discord experience we have crea
   * RAnniverseries
   * Wish this Set
 
-# RAPatches
+# [RAPatches](https://github.com/RetroAchievements/RAPatches)
 The RAPatches repo was created this year to organize and centralize where users can download various ROM patch files. This repo includes ROM hacks, translations, bonus, multi, subset, and various other patches. Here is a breakdown of patches and unique entries by system. 
 
 | System               | # of Patches | # of Entries |
@@ -362,7 +369,7 @@ The RAPatches repo was created this year to organize and centralize where users 
 | Watara Supervision   | 4            | 4            |
 | **Total**            | **2,398**    | **1,437**    |
 
-# RAGuide
+# [RAGuide](https://github.com/RetroAchievements/guides)
 The [RAGuide Wiki](https://github.com/RetroAchievements/guides/wiki) allowes users to create and share set guides with the rest of community. If you are interested in created guide head on over to the [RAGuide Wiki](https://github.com/RetroAchievements/guides/wiki) and create a new page to start working on one. In the meantime, check out the guides that were created this year.
 
 <a class="gameicon-link" href="https://retroachievements.org/game/10157" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/039082.png" alt="Harvest Moon 64 (Nintendo 64)"> <span>Harvest Moon 64 (Nintendo 64)</span></a>
@@ -396,14 +403,16 @@ The [RAGuide Wiki](https://github.com/RetroAchievements/guides/wiki) allowes use
 [Guide](https://github.com/RetroAchievements/guides/wiki/The-Legend-of-Zelda,-A-Link-to-the-Past-(SNES)) by {% rauserpic Nepiki %}
 
 
-# RABot
+# [RABot](https://github.com/RetroAchievements/RABot)
+RABot is the official RetroAchievements Discord bot. It is used to get a wide variety of RetroAchievements related data and inforamation using custom bot commands. Check out the updates that have been made to the bot this year.
+
   * Discord rules updated in the `rules` command. - {% rauserpic meleu %}
   * Junior Developer role added to the `user` command. - {% rauserpic televandalist %}
   * `ResetNextIf`, `SubHits`, `Trigger`, & `BCD` added to the `mem` command. - {% rauserpic MrOwnership %}
   * `contact` command created for RAdmin, QATeam, & RANews users. - {% rauserpic meleu %}
   * `bestdays` command fixed. - {% rauserpic MrOwnership %}
 
-# RAWeb
+# [RAWeb](https://github.com/RetroAchievements/RAWeb)
 While we didn't a new major version of the site this year, there were still a lot of features and updates made to the current version. Big thanks to {% rauserpic luchaos %} & {% rauserpic meleu %} for maintaining the repo, addressing Pull Requests, deploying new updates, and providing overall maintenance on the site. Check out what updates have been made this year and who was responsible for them.
 
 * GetUserCompletedGames API added. - {% rauserpic bdjeffyp %}
@@ -496,7 +505,7 @@ While we didn't a new major version of the site this year, there were still a lo
 # Development Tool Updates
 Without the work of {% rauserpic Jamiras %} we would still be stuck in the stone age of achievement development and toolkit features. There are no amount of words that express the appreciation and gratitude that we all have for all the time and effort he puts into this community. Check out the major updates to development tools and emulators that he has provided this year.
 
-## RAIntegration
+## [RAIntegration](https://github.com/RetroAchievements/RAIntegration)
 * [Version 0.79](https://github.com/RetroAchievements/RAIntegration/releases/tag/RAIntegration.0.79) - Released on 5/22/2021
   * Lots in this version, check the link for more details.
 * [Version 0.79.1](https://github.com/RetroAchievements/RAIntegration/releases/tag/RAIntegration.0.79.1) - Released on 5/26/2021
@@ -527,7 +536,7 @@ Without the work of {% rauserpic Jamiras %} we would still be stuck in the stone
   * fix bookmark value not updating when changing size while paused
   * fix code note size detection when note contains multiple substring matches
 
-## RATools
+## [RATools](https://github.com/Jamiras/RATools)
 * [Version 1.8.0](https://github.com/Jamiras/RATools/releases/tag/v1.8.0) - Released on 2/27/2021
   * dynamic recompilation (only process the parts of the script affected by changes)
   * several other optimizations around script processing
@@ -565,7 +574,7 @@ Without the work of {% rauserpic Jamiras %} we would still be stuck in the stone
   * fix impossible comparison [`byte > 400`] affecting neighboring conditions
 
 # Emulator Updates
-## RALibretro
+## [RALibretro](https://github.com/RetroAchievements/RALibretro)
 * [Version 1.3.5](https://github.com/RetroAchievements/RALibretro/releases/tag/1.3.5) - Released on 4/20/2021
   * support for new RetroArch save state container format
   * add yabause as a supported core (Sega Saturn)
@@ -602,7 +611,7 @@ Without the work of {% rauserpic Jamiras %} we would still be stuck in the stone
   * Fix throttling for cores with threaded audio
   * Fix issue where save state extension would be lost if path contained a period
 
-## RANes
+## [RANes](https://github.com/RetroAchievements/RANes)
 * [Version 1.0](https://github.com/RetroAchievements/RANes/releases/tag/RANes.1.0) - Released on 2/6/2021
   * Upgrade to official 2.3.0 release of FCEUX (15 Dec 2020)
   * x64 support
@@ -612,13 +621,13 @@ Without the work of {% rauserpic Jamiras %} we would still be stuck in the stone
   * Upgrade to official 2.5.0 release of FCEUX (21 Oct 2021)
   * Support for toolkit DLL larger than 2MB
 
-## RAMeka
+## [RAMeka](https://github.com/RetroAchievements/RAMeka)
 * [Version 1.0](https://github.com/RetroAchievements/RAMeka) - Released on 7/27/2021
   * Includes several compatibility improvements from upstream. Otherwise, as far as I can tell, there was one bugfix around custom skins, and one feature around stereo support for game gear audio.
   * Memory map has been updated for SG-1000 expanders (Dahjee at $2000, Othello/Castle at $4000). This makes Dahjee games work the same between RAMeka and Genesis Plus GX. Knightmare has been updated to use the new mapping, and Rally-X already supported both via alts. Genesis Plus GX does not map Othello/Castle correctly, and the other cores that support SG-1000 don't map either Dahjee or Othello/Castle at all.
   * RetroAchievements menu has been moved to the main window
 
-## RASnes9x
+## [RASnes9x](https://github.com/RetroAchievements/RASnes9x)
 * [Version 1.1](https://github.com/RetroAchievements/RASnes9x/releases/tag/RASnes9x.1.1) - Released on 12/5/2021
   * Upgrade to current (2021 Dec 4) master of Snes9x
   * Disallow forced PAL in hardcore
