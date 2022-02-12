@@ -20,7 +20,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 
 | :joystick: Category         | :trophy: Champions                                                               | Mastery Awards |
 | --------------------------- | -------------------------------------------------------------------------------- | -------------- |
-| Total Awards                | {% rauserpic guineu %}                                                           | 607            |
+| Total Awards                | {% rauserpic MaxMilyin %}                                                        | 607            |
 | 3DO Interactive Multiplayer | {% rauserpic guineu %}                                                           | 4              |
 | Apple II                    | {% rauserpic guineu %}                                                           | 11             |
 | Arcade                      | {% rauserpic DUT %}                                                              | 50             |
