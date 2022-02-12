@@ -25,7 +25,7 @@ You asked for it, you got. We have have collected a bunch of stats from January 
 
 
 ### Current Events
-TBD
+List of running events in the RetroAchievements scene that are still open to join.
 
 
 ### DevNews
