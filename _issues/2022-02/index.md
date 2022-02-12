@@ -47,7 +47,7 @@ Wish This Set is intended to convince other members to request a game that doesn
 
 
 ### RAGuide
-TBD
+If you don't get shot by Cupid's arrow this month, shoot your own arrows with {% rauser ikki5 %}'s guide for [Robin Hood: Prince of Thieves](https://retroachievements.org/game/1913).
 
 
 ### RAdvantage
@@ -95,13 +95,13 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgements
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-| {% rauserpic Akai %}            | {% rauserpic AssClownKing %}     | {% rauserpic BeekBeek85 %}     |
-| {% rauserpic Bendyhuman %}      | {% rauserpic Cadaxar %}          | {% rauserpic Chauckles %}      |
-| {% rauserpic Etron %}           | {% rauserpic Gamechamp %}        | {% rauserpic GuiltySlug %}     |
-| {% rauserpic HolyShinx %}       | {% rauserpic Hotscrock %}        | {% rauserpic JAM %}            |
-| {% rauserpic LiveFastCyYoung %} | {% rauserpic MatheusBrazuca85 %} | {% rauserpic miccmike %}       |
-| {% rauserpic MrOwnership %}     | {% rauserpic Nydaxn %}           | {% rauserpic ockerjj %}        |
-| {% rauserpic pinguupinguu %}    | {% rauserpic Rohsiph %}          | {% rauserpic Sm0r3s %}         |
-| {% rauserpic SnowPin %}         | {% rauserpic SporyTike %}        | {% rauserpic StingX2 %}        |
-| {% rauserpic televandalist %}   | {% rauserpic ViperZang %}        | {% rauserpic WanderingHeiho %} |
-| {% rauserpic Xymjak %}          |                                  |                                |
+| {% rauserpic Akai %}           | {% rauserpic AssClownKing %}    | {% rauserpic BeekBeek85 %}       |
+| {% rauserpic Bendyhuman %}     | {% rauserpic Cadaxar %}         | {% rauserpic Chauckles %}        |
+| {% rauserpic Etron %}          | {% rauserpic Gamechamp %}       | {% rauserpic GuiltySlug %}       |
+| {% rauserpic HolyShinx %}      | {% rauserpic Hotscrock %}       | {% rauserpic ikki5 %}            |
+| {% rauserpic JAM %}            | {% rauserpic LiveFastCyYoung %} | {% rauserpic MatheusBrazuca85 %} |
+| {% rauserpic miccmike %}       | {% rauserpic MrOwnership %}     | {% rauserpic Nydaxn %}           |
+| {% rauserpic ockerjj %}        | {% rauserpic pinguupinguu %}    | {% rauserpic Rohsiph %}          |
+| {% rauserpic Sm0r3s %}         | {% rauserpic SnowPin %}         | {% rauserpic SporyTike %}        |
+| {% rauserpic StingX2 %}        | {% rauserpic televandalist %}   | {% rauserpic ViperZang %}        |
+| {% rauserpic WanderingHeiho %} | {% rauserpic Xymjak %}          |                                  |
