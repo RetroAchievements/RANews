@@ -181,11 +181,11 @@ Without further ado, now presenting the RetroAchievements Dreamcast launch windo
 
 | Game                                                                                                                                                                                                                                                   | Genre   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/10842" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051134.png" alt="Tokyo Xtreme Racer 2"> <span>Tokyo Xtreme Racer 2</span></a> | Driving |
+| <a class="gameicon-link" href="https://retroachievements.org/game/10836" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/053228.png" alt="Tokyo Xtreme Racer"> <span>Tokyo Xtreme Racer</span></a> | Driving |
 
 - By: {% rauserpic Pebete %}
 
-> You may enjoy racing games, but only the truly extreme need apply here. Like its predecessor, Tokyo Xtreme Racer 2 is a mission-based racer taking place in the streets of Japan, now with improved graphics and plenty of new content. There are rivals to challenge, upgrades to purchase, and new cars to discover. Despite stiff competition, Tokyo Xtreme Racer 2 ranks among the greatest racing games on the Dreamcast.
+> A Dreamcast launch title, Tokyo Xtreme Racer sets itself apart from the competition with its unique mission structure. Additionally, rather than having traditional courses, the entire streets of Tokyo serve as your racetrack, where anywhere can be a starting or finish line. The more street rivals you defeat, the more cash you earn, which in turn lets you upgrade your vehicle to take on more challenging opponents; rinse and repeat for an addictive gameplay loop that will have racing fans hooked.
 
 | Game                                                                                                                                                                                                                                   | Genre                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
