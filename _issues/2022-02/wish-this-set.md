@@ -92,7 +92,7 @@ I really hope this game will have a set soon.
 
 | Game                                                                                                                                                                                                                                                                                    | Console     | Genre     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/3140" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Izuna 2: The Unemployed Ninja Returns"> <span>Izuna 2: The Unemployed Ninja Returns</span></a> | Nintendo DS | Roguelike |
+| <a class="gameicon-link" href="https://retroachievements.org/game/3140" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/053205.png" alt="Izuna 2: The Unemployed Ninja Returns"> <span>Izuna 2: The Unemployed Ninja Returns</span></a> | Nintendo DS | Roguelike |
 
 * Writeup by: {% rauserpic Gamechamp %}
 
@@ -117,7 +117,7 @@ I should also note I last played these games when I was a baby so I may have rem
 
 | Game                                                                                                                                                                                                                                                                   | Console     | Genre            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/15357" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="LEGO Harry Potter: Years 1-4"> <span>LEGO Harry Potter: Years 1-4</span></a> | Nintendo DS | Action-Adventure |
+| <a class="gameicon-link" href="https://retroachievements.org/game/15357" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/053206.png" alt="LEGO Harry Potter: Years 1-4"> <span>LEGO Harry Potter: Years 1-4</span></a> | Nintendo DS | Action-Adventure |
 
 * Writeup by: {% rauserpic Sm0r3s %}
 

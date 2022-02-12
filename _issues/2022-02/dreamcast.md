@@ -10,13 +10,23 @@ title: Dreamcast Launch
   <img src="img/DC.gif" />
 </p>
 
+# Intro
+
+You asked, we delivered - the sixth generation of home consoles is finally coming to RetroAchievements with the debut of the Sega Dreamcast! Achievement sets will be released to the public very, very soon; it may even be out already by the time you read this!
+
+We at the RANews team would like to extend our deepest appreciation to the many developers who have contributed to one of the most anticipated new console releases in RetroAchievements history. We also owe a great debt of gratitude to everyone hard at work on the [Libretro Project](https://www.libretro.com/), without whom none of this would be possible.
+
+Although the Dreamcast could not compete with the sales juggernaut that was the PlayStation 2 and ultimately ended up being Sega’s final console, it certainly went out with a bang. As you read through this article, you may notice repetition of words and phrases such as “unique”, “one of a kind”, and “unlike anything else”. This is not hyperbole, but rather speaks to the true nature of the Dreamcast’s library. A staggering number of these games initially sold poorly as a result of their experimental design, before going on to become cult classics years later. If this is your first exposure to the Dreamcast, we encourage you to delve into these games with a sense of curiosity and open-mindedness.
+
+Without further ado, now presenting the RetroAchievements Dreamcast launch window lineup! Some of these sets are still in development, but many have already been completed; keep your eyes peeled for the “Available At Dreamcast Launch” tag. Enjoy!
+
 | Game                                                                                                                                                                                                                        | Genre             |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/8392" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/052059.png" alt="Sega GT"> <span>Sega GT</span></a> | Racing Simulation |
 
 - By: {% rauserpic MGNS8M %}
 
->
+> Unlike the other racing games found on this list, Sega GT takes more of a simulation approach. There are tons of cars available, as well as extensive customization options to tailor your experience just how you like it. If you enjoy games like Gran Turismo, then this will be right up your alley.
 
 | Game                                                                                                                                                                                                                                                                                                      | Genre  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
@@ -63,9 +73,9 @@ title: Dreamcast Launch
 
 > If there were ever a game that both served as a game as well as a snapshot of the cultural zeitgeist at the time, Crazy Taxi is certainly it! This arcade racer is a near perfect port to the Sega Dreamcast. Your objective is to pick up customers in your taxi and get them to their destination as quickly as possible. The faster you get them there, the more money (and time in Arcade Mode) you’ll receive. The game might best be remembered for its soundtrack, including the Offspring and Bad Religion, and it’s customers destinations which include, Pizza Hut, Tower Records, Kentucky Fried Chicken and many more.
 
-| Game                                                                                                                                                                                                                                                          | Genre             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/3440" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="House of the Dead 2, The"> <span>House of the Dead 2, The</span></a> | Light-Gun Shooter |
+| Game                                                                                                                                                                                                                                                           | Console | Genre             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/18015" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051364.png" alt="House of the Dead 2, The"> <span>House of the Dead 2, The</span></a> | Arcade  | Light-Gun Shooter |
 
 - By: {% rauserpic SnowPin %}
 - **Available At Dreamcast Launch!**
@@ -78,7 +88,7 @@ title: Dreamcast Launch
 
 - By: {% rauserpic AlexGatao %}
 
->
+> Resident Evil is a series that needs no introduction, and you may have even played the Nintendo 64 or PlayStation versions of Resident Evil 2 on RA, but how does this Dreamcast port stack up? All the content you’d expect is here, with better character models and audio in comparison to previous console versions. Whether you’re revisiting the game or playing through it for the first time, you can’t go wrong with this masterclass in survival horror.
 
 | Game                                                                                                                                                                                                                                                  | Genre       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
@@ -91,13 +101,15 @@ title: Dreamcast Launch
 
 | Game                                                                                                                                                                                                                      | Genre  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| <a class="gameicon-link" href="https://retroachievements.org/game/8735" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Armada"> <span>Armada</span></a> | Action |
+| <a class="gameicon-link" href="https://retroachievements.org/game/8735" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/053208.png" alt="Armada"> <span>Armada</span></a> | Action |
 
 - By: {% rauserpic siouxerskate %}
 
 > Originally intended as an MMO, Armada is a space shooting action-RPG that presents itself as a shoot 'em up. While traversing space, you'll find yourself taking on a plenty of missions, from escorting ships, delivering materials, and destroying enemy ships. Your reward for these missions is collecting large bounties to enable you to upgrade your ship for future missions. With support for up to 4 players simultaneously, enlist three friends to help you take down the powerful Armada!
 
-**Metal Slug 6** No page
+| Game                                                                                                                                                                                                                                   | Console | Genre      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/16525" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049536.png" alt="Metal Slug 6"> <span>Metal Slug 6</span></a> | Arcade  | Run 'n Gun |
 
 - By: {% rauserpic zxmega %}
 - **Available At Dreamcast Launch!**
@@ -147,7 +159,7 @@ title: Dreamcast Launch
 
 - By: {% rauserpic Bartis1989 %} and {% rauserpic SporyTike %}
 
->
+> It’s impossible to concisely convey what makes Shenmue so special, but you’ve no doubt heard of it from its dedicated fanbase. It’s part murder mystery, part fighting game, part minigame compilation, part job simulator, and that’s only scratching the surface. It’s a slow-paced game with an intricately constructed world, thanks largely to how so much revolves around the in-game clock. Shenmue is a truly ambitious title, a one-of-a-kind experience that you have to play to truly understand the hype.
 
 | Game                                                                                                                                                                                                                                      | Genre  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
@@ -173,7 +185,7 @@ title: Dreamcast Launch
 
 - By: {% rauserpic Pebete %}
 
->
+> You may enjoy racing games, but only the truly extreme need apply here. Like its predecessor, Tokyo Xtreme Racer 2 is a mission-based racer taking place in the streets of Japan, now with improved graphics and plenty of new content. There are rivals to challenge, upgrades to purchase, and new cars to discover. Despite stiff competition, Tokyo Xtreme Racer 2 ranks among the greatest racing games on the Dreamcast.
 
 | Game                                                                                                                                                                                                                                   | Genre                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
@@ -195,7 +207,7 @@ title: Dreamcast Launch
 
 | Game                                                                                                                                                                                                                                                                            | Genre  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| <a class="gameicon-link" href="https://retroachievements.org/game/8564" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Puyo Puyo Fever \| Puyo Pop Fever"> <span>Puyo Puyo Fever \| Puyo Pop Fever</span></a> | Puzzle |
+| <a class="gameicon-link" href="https://retroachievements.org/game/8564" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/053207.png" alt="Puyo Puyo Fever \| Puyo Pop Fever"> <span>Puyo Puyo Fever \| Puyo Pop Fever</span></a> | Puzzle |
 
 - By: {% rauserpic Bearfax62 %}
 
@@ -216,9 +228,11 @@ title: Dreamcast Launch
 
 - By: {% rauserpic ZZKer %}
 
->
+> There’s no such thing as too many Tony Hawk games on RA! Though the Nintendo 64 and PlayStation versions already have achievement sets, this version has better graphics and less fog, giving it a slight edge. It’s the classic rail grinding, kickflipping gameplay you know and love, so what are you waiting for? It’s time to grab your board and jam out to the iconic soundtrack once again!
 
-**King of Fighters Neowave, The** No page
+| Game                                                                                                                                                                                                                                                                     | Console | Genre         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/17684" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/052159.png" alt="King of Fighters Neowave, The"> <span>King of Fighters Neowave, The</span></a> | Arcade  | Fighting game |
 
 - By: {% rauserpic zxmega %}
 - **Available At Dreamcast Launch!**
@@ -236,7 +250,7 @@ title: Dreamcast Launch
 
 | Game                                                                                                                                                                                                                        | Genre                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/3435" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Ikaruga"> <span>Ikaruga</span></a> | Vertical Shoot-'Em-Up |
+| <a class="gameicon-link" href="https://retroachievements.org/game/3435" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/053204.png" alt="Ikaruga"> <span>Ikaruga</span></a> | Vertical Shoot-'Em-Up |
 
 - By: {% rauserpic BenGhazi %}
 
@@ -275,7 +289,7 @@ title: Dreamcast Launch
 
 - By: {% rauserpic Chawk %}, {% rauserpic SlashTangent %}, and {% rauserpic Zpeligo %}
 
->
+> Sonic Adventure 2 effectively builds upon the foundation established by the first game. Story campaigns are split into “good” and “evil” halves this time, featuring six playable characters and plenty of varied gameplay styles. Fan favorite characters Shadow the Hedgehog and Rouge the Bat make their debut here. The ranking system is introduced here as well, adding extra incentive for completionists to perfect each stage. The graphics are improved, the soundtrack is still incredible, and you can even raise Chao once again. Sonic Adventure 2 is without a doubt one of the most memorable Dreamcast games.
 
 | Game                                                                                                                                                                                                                                        | Genre        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -324,7 +338,6 @@ title: Dreamcast Launch
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/game/6552" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/052624.png" alt="Dynamite Cop"> <span>Dynamite Cop</span></a> | Action |
 
-
 - By: {% rauserpic shnick1980 %}
 - **Available At Dreamcast Launch!**
 
@@ -342,10 +355,9 @@ title: Dreamcast Launch
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3419" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049896.png" alt="Rez"> <span>Rez</span></a> | Rail shooter, Music video game, Shoot 'em up |
 
-
 - By: {% rauserpic Etron %}
 
->
+> Rez is a one-of-a-kind rail shooter/rhythm game hybrid. You play by locking your crosshair onto enemies, who are then defeated in sync with the music. Whereas a typical rhythm game would have you performing inputs in time with the music, here the music reflects your actions. Trippy visuals and a rumble feature all combine to create a strangely Zen experience best enjoyed wearing headphones and free from distractions.
 
 | Game                                                                                                                                                                                                                                                                 | Genre  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
@@ -360,7 +372,6 @@ title: Dreamcast Launch
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/10828" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/052594.png" alt="Phantasy Star Online Ver. 2"> <span>Phantasy Star Online Ver. 2</span></a> | RPG   |
 
-
 - By: {% rauserpic SnowPin %} and {% rauserpic Zpeligo %}
 - **Available At Dreamcast Launch!**
 
@@ -372,7 +383,7 @@ title: Dreamcast Launch
 
 - By: {% rauserpic BahamutVoid %}
 
->
+> Despite lacking a number in the title, Code: Veronica is very much a main series Resident Evil game, following the events of Resident Evil 2 and 3. The series takes a big leap forward with fully 3D environments this time around, as opposed to the pre-rendered backgrounds used previously. Code: Veronica X is an improved version of that game, featuring graphical improvements and further story expansion.
 
 | Game                                                                                                                                                                                                                                            | Genre            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
@@ -387,7 +398,6 @@ title: Dreamcast Launch
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/17836" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/052398.png" alt="Cannon Spike"> <span>Cannon Spike</span></a> | Shooter |
 
-
 - By: {% rauserpic Delmaru %}
 - **Available At Dreamcast Launch!**
 
@@ -396,7 +406,6 @@ title: Dreamcast Launch
 | Game                                                                                                                                                                                                                                                  | Genre                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/6564" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051709.png" alt="Magic: The Gathering"> <span>Magic: The Gathering</span></a> | Collectible Card Game |
-
 
 - By: {% rauserpic guindev %}
 - **Available At Dreamcast Launch!**
@@ -407,7 +416,6 @@ title: Dreamcast Launch
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/10837" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/052615.png" alt="Neon Genesis Evangelion: Typing Project Advanced"> <span>Neon Genesis Evangelion: Typing Project Advanced</span></a> | Typing Practice |
 
-
 - By: {% rauserpic Mekevin255 %}
 - **Available At Dreamcast Launch!**
 
@@ -417,15 +425,13 @@ title: Dreamcast Launch
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3443" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/050654.png" alt="Skies of Arcadia"> <span>Skies of Arcadia</span></a> | Role-playing |
 
-
 - By: {% rauserpic Tayadaoc %}
 
->
+> Skies of Arcadia is an RPG that shows up on pretty much every “Best Dreamcast Games” list, and it’s easy to see why. Between dungeon crawling and exploring the massive world in your airship, there’s a constant sense of discovery, an ongoing fueling of curiosity that makes for an overwhelmingly charming experience. Combined with classic turn-based battles, an engaging story, and impressive graphics for the time, this is pure RPG bliss that embodies all that is great about the genre.
 
 | Game                                                                                                                                                                                                                                                        | Genre        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | <a class="gameicon-link" href="https://retroachievements.org/game/6685" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/052073.png" alt="Space Channel 5: Part 2"> <span>Space Channel 5: Part 2</span></a> | Music/Rhythm |
-
 
 - By: {% rauserpic DoctorV %}
 - **Available At Dreamcast Launch!**
