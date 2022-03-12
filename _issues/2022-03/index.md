@@ -31,7 +31,7 @@ Stay up to date with what's going on in Achievement Creation scene.
 ### RAScript Tutorials
 {% rauser Etron %} has another RAScript tutorial which goes over how to use Add Hits in Streets of Rage 2.
 
-<!--
+
 ### Play This Set
 Community members talking about their favorite sets and why you should play them.
 
@@ -43,11 +43,11 @@ Wish This Set is intended to convince other members to request a game that doesn
 
 
 ### RAGuide
-
+Explore and master the world of Digimon with {% rauser shauntmw %}'s guide for [Digimon World 2](https://retroachievements.org/game/11360).
 
 ### RAdvantage
 Check out some tips from the community members to help you with your achievement hunting.
--->
+
 
 ### HotCheevs Monthly
 List of achievement sets released in the last month.
@@ -60,10 +60,10 @@ Which sets got a revision or a rescore.
 ### Art Updates
 Which sets got their game icons and/or badges changed.
 
-<!--
+
 ### Top Players
 Some statistics about the top 300 players of RetroAchievements and how they progressed over the last month. New updates for this month data.
--->
+
 
 ### RAnniversaries
 Highlighting the members who have been with us and for how long.
@@ -90,8 +90,15 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgements
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-| {% rauserpic Bendyhuman %}    | {% rauserpic Etron %}     | {% rauserpic HolyShinx %}    |
-| {% rauserpic Hotscrock %}     | {% rauserpic Krylan %}    | {% rauserpic miccmike %}     |
-| {% rauserpic MrOwnership %}   | {% rauserpic Nydaxn %}    | {% rauserpic pinguupinguu %} |
-| {% rauserpic SnowPin %}       | {% rauserpic SporyTike %} | {% rauserpic StingX2 %}      |
-| {% rauserpic televandalist %} | {% rauserpic ViperZang %} | {% rauserpic Xymjak %}       |
+| {% rauserpic Akai %}          | {% rauserpic BahamutVoid %}      | {% rauserpic Bendyhuman %}      |
+| {% rauserpic Chauckles %}     | {% rauserpic deng %}             | {% rauserpic esmorais %}        |
+| {% rauserpic Etron %}         | {% rauserpic Gamechamp %}        | {% rauserpic heintsi %}         |
+| {% rauserpic HolyShinx %}     | {% rauserpic Hotscrock %}        | {% rauserpic Ideasds %}         |
+| {% rauserpic kewlpinguino %}  | {% rauserpic Krylan %}           | {% rauserpic LiveFastCyYoung %} |
+| {% rauserpic malasdair %}     | {% rauserpic MatheusBrazuca85 %} | {% rauserpic miccmike %}        |
+| {% rauserpic MrOwnership %}   | {% rauserpic Nydaxn %}           | {% rauserpic Olafur %}          |
+| {% rauserpic pinguupinguu %}  | {% rauserpic QATeam %}           | {% rauserpic Retrokaiser %}     |
+| {% rauserpic roli300 %}       | {% rauserpic ShadwSonic %}       | {% rauserpic shauntmw %}        |
+| {% rauserpic SnowPin %}       | {% rauserpic SporyTike %}        | {% rauserpic StingX2 %}         |
+| {% rauserpic televandalist %} | {% rauserpic ViperZang %}        | {% rauserpic WanderingHeiho %}  |
+| {% rauserpic WarioFan63 %}    | {% rauserpic Xymjak %}           | {% rauserpic ZZKer %}           |

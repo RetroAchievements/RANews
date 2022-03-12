@@ -16,7 +16,7 @@ toc: true
 
 ## Spot the Difference
 
-A strange increase of activity was monitored at the abadoned fortress Il'Akab. With the help of Timmy, Dr. Tina Byers tries to discover the source of the activity. Right after Timmy went to his adventure, they discovered that it would be way to dangers to just go without any protection and so they equip Timmy with a combat suit so he can protect himself. When Timmy starts his next try, they notice that the environment changed a bit and they need help to discover all 10 changes.
+A strange increase of activity was monitored at the abandoned fortress Il'Akab. With the help of Timmy, Dr. Tina Byers tries to discover the source of the activity. Right after Timmy went to his adventure, they discovered that it would be way too dangerous to just go without any protection and so they equip Timmy with a combat suit so he can protect himself. When Timmy starts his next try, they notice that the environment changed a bit and they need help to discover all 10 changes.
 
 ![spot the difference](img/Fun/SpotTheDifference.png)
 

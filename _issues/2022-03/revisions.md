@@ -22,9 +22,10 @@ toc: true
 ### Game Boy Color
 
 
-| Game                                                                                                                                                                                                                                                                   | Revision By                 | Genre            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/520" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/004440.png" alt="Metal Gear Solid: Ghost Babel"> <span>Metal Gear Solid: Ghost Babel</span></a> | {% rauser wilhitewarrior %} | Action-Adventure |
+| Game                                                                                                                                                                                                                                                                                            | Revision By                 | Genre            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/5371" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/046977.png" alt="Legend of Zelda, The: Link's Awakening DX"> <span>Legend of Zelda, The: Link's Awakening DX</span></a> | {% rauser adamjohnny5 %}    | Action-Adventure |
+| <a class="gameicon-link" href="https://retroachievements.org/game/520" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/004440.png" alt="Metal Gear Solid: Ghost Babel"> <span>Metal Gear Solid: Ghost Babel</span></a>                          | {% rauser wilhitewarrior %} | Action-Adventure |
 
 <a href="#toc">:top:</a>
 
@@ -98,10 +99,9 @@ toc: true
 ### Game Boy Color
 
 
-| Game                                                                                                                                                                                                                                                                                            | Revision Author          | Genre             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/5371" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/046977.png" alt="Legend of Zelda, The: Link's Awakening DX"> <span>Legend of Zelda, The: Link's Awakening DX</span></a> | {% rauser adamjohnny5 %} | Action-Adventure  |
-| <a class="gameicon-link" href="https://retroachievements.org/game/810" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/034421.png" alt="Pokemon Crystal Version"> <span>Pokemon Crystal Version</span></a>                                      | {% rauser msdmario %}    | Role-Playing Game |
+| Game                                                                                                                                                                                                                                                       | Revision Author       | Genre             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ----------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/810" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/034421.png" alt="Pokemon Crystal Version"> <span>Pokemon Crystal Version</span></a> | {% rauser msdmario %} | Role-Playing Game |
 
 <a href="#toc">:top:</a>
 
