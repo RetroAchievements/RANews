@@ -158,6 +158,7 @@ Many of our players had this game in childhood and it's really anticipated here,
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3917" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/016919.png" alt="Torneko no Daibouken: Fushigi no Dungeon"> <span>Torneko no Daibouken: Fushigi no Dungeon</span></a> | SNES    | Roguelike |
 
+* This game now has a set.
 * Writeup by: {% rauserpic Chauckles %}
 
 <figure style="text-align:center;float:left;width:50%;height:50%">

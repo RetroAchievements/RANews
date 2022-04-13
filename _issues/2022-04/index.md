@@ -45,10 +45,10 @@ Wish This Set is intended to convince other members to request a game that doesn
 [For those who don't know if a game doesn't have achievements, you can Request a set for it by clicking in the `Request Set` link in the game's page.]
 
 
-<!--### RAGuide***
-Explore and master the world of Digimon with {% rauser shauntmw %}'s guide for [Digimon World 2](https://retroachievements.org/game/11360).
+### RAGuide
+Tactical RPG fans are in for a treat, take to the battlefield with {% rauser Sines %}' guide for [Ogre Battle: March of the Black Queen](https://retroachievements.org/game/11360).
 
-
+<!--
 ### RAdvantage***
 Check out some tips from the community members to help you with your achievement hunting.
 -->
@@ -64,18 +64,18 @@ Which sets got a revision or a rescore.
 ### Art Updates
 Which sets got their game icons and/or badges changed.
 
-<!--
-### Top Players***
+
+### Top Players
 Some statistics about the top 300 players of RetroAchievements and how they progressed over the last month. New updates for this month data.
--->
+
 
 ### RAnniversaries
 Highlighting the members who have been with us and for how long.
 
-<!--
-### Top Masteries***
+
+### Top Masteries
 Who are the champions of each console? This section takes a look at which users have the most mastery badges for various categories.
--->
+
 
 ### Most Wanted Games
 List of games with no achievement sets that community is excited to see. Hopefully it can encourage some achievement creators to pick a game and create a set for it. Check out which system was selected to assist with DevQuest 007 this month.
@@ -94,14 +94,14 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgements
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-| {% rauserpic Akai %}          | {% rauserpic Bendyhuman %}    | {% rauserpic Chauckles %}        |
-| {% rauserpic Etron %}         | {% rauserpic GalacticSpear %} | {% rauserpic HolyShinx %}        |
-| {% rauserpic Hotscrock %}     | {% rauserpic Jungon %}        | {% rauserpic kewlpinguino %}     |
-| {% rauserpic ladynadiad %}    | {% rauserpic Lonoke31 %}      | {% rauserpic MatheusBrazuca85 %} |
-| {% rauserpic mefaun %}        | {% rauserpic meleu %}         | {% rauserpic miccmike %}         |
-| {% rauserpic MrGauss %}       | {% rauserpic MrOwnership %}   | {% rauserpic Nydaxn %}           |
-| {% rauserpic ockerjj %}       | {% rauserpic pinguupinguu %}  | {% rauserpic Rohsiph %}          |
-| {% rauserpic Rohsiph %}       | {% rauserpic ruuzilla %}      | {% rauserpic Sm0r3s %}           |
-| {% rauserpic SnowPin %}       | {% rauserpic SporyTike %}     | {% rauserpic StingX2 %}          |
-| {% rauserpic televandalist %} | {% rauserpic ThisIsDumb %}    | {% rauserpic ViperZang %}        |
-| {% rauserpic Xymjak %}        |                               |                                  |
+| {% rauserpic Akai %}       | {% rauserpic Bendyhuman %}    | {% rauserpic Chauckles %}        |
+| {% rauserpic Etron %}      | {% rauserpic GalacticSpear %} | {% rauserpic HolyShinx %}        |
+| {% rauserpic Hotscrock %}  | {% rauserpic Jungon %}        | {% rauserpic kewlpinguino %}     |
+| {% rauserpic ladynadiad %} | {% rauserpic Lonoke31 %}      | {% rauserpic MatheusBrazuca85 %} |
+| {% rauserpic mefaun %}     | {% rauserpic meleu %}         | {% rauserpic miccmike %}         |
+| {% rauserpic MrGauss %}    | {% rauserpic MrOwnership %}   | {% rauserpic Nydaxn %}           |
+| {% rauserpic ockerjj %}    | {% rauserpic pinguupinguu %}  | {% rauserpic Rohsiph %}          |
+| {% rauserpic Rohsiph %}    | {% rauserpic ruuzilla %}      | {% rauserpic Sines %}            |
+| {% rauserpic Sm0r3s %}     | {% rauserpic SnowPin %}       | {% rauserpic SporyTike %}        |
+| {% rauserpic StingX2 %}    | {% rauserpic televandalist %} | {% rauserpic ThisIsDumb %}       |
+| {% rauserpic ViperZang %}  | {% rauserpic Xymjak %}        |                                  |
