@@ -14,29 +14,29 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 
 ## Developer Anniversaries
 
-| #  | Developer         | Promotion Date | Anniversary Year |
-|----|-------------------|----------------|------------------|
-| 1  | ShadwSonic        | 4/29/2016      | 6                |
-| 2  | anty              | 4/13/2017      | 5                |
-| 3  | LinusOnline       | 4/2/2019       | 3                |
-| 4  | CosmicZeppelin    | 4/8/2020       | 2                |
-| 5  | rob180sx          | 4/11/2020      | 2                |
-| 6  | BennyBurrito      | 4/16/2020      | 2                |
-| 7  | g0dm0d3           | 4/16/2020      | 2                |
-| 8  | Skystarmania      | 4/16/2020      | 2                |
-| 9  | TeddyWestside     | 4/20/2020      | 2                |
-| 10 | tatoonie          | 4/2/2021       | 1                |
-| 11 | Alexdatadestroyer | 4/6/2021       | 1                |
-| 12 | minibt            | 4/8/2021       | 1                |
-| 13 | blendedsea        | 4/15/2021      | 1                |
-| 14 | Nydaxn            | 4/21/2021      | 1                |
-| 15 | StingX2           | 4/21/2021      | 1                |
-| 16 | ZZKer             | 4/25/2021      | 1                |
+| #   | Developer         | Promotion Date     | Anniversary Year |
+| --- | ----------------- | ------------------ | ---------------- |
+| 1   | ShadwSonic        | 4/29/2016          | 6                |
+| 2   | anty              | 4/13/2017          | 5                |
+| 3   | StingX2           | 4/21/2021 (2/8/14) | 4                |
+| 4   | LinusOnline       | 4/2/2019           | 3                |
+| 5   | CosmicZeppelin    | 4/8/2020           | 2                |
+| 6   | rob180sx          | 4/11/2020          | 2                |
+| 7   | BennyBurrito      | 4/16/2020          | 2                |
+| 8   | g0dm0d3           | 4/16/2020          | 2                |
+| 9   | Skystarmania      | 4/16/2020          | 2                |
+| 10  | TeddyWestside     | 4/20/2020          | 2                |
+| 11  | tatoonie          | 4/2/2021           | 1                |
+| 12  | Alexdatadestroyer | 4/6/2021           | 1                |
+| 13  | minibt            | 4/8/2021           | 1                |
+| 14  | blendedsea        | 4/15/2021          | 1                |
+| 15  | Nydaxn            | 4/21/2021          | 1                |
+| 16  | ZZKer             | 4/25/2021          | 1                |
 
 ## User Anniversaries
 
 | #   | User                 | Creation Date | Anniversary Year |
-|-----|----------------------|---------------|------------------|
+| --- | -------------------- | ------------- | ---------------- |
 | 1   | KC                   | 4/9/2013      | 9                |
 | 2   | Juganawt             | 4/9/2013      | 9                |
 | 3   | esmith13             | 4/9/2013      | 9                |

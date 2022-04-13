@@ -3,7 +3,7 @@ issue: 2022-04
 order: 202204-02
 layout: article
 category: RA Awards
-title: "RA Awards 2020"
+title: "RA Awards 2021"
 author: StingX2
 toc: true
 ---
@@ -76,7 +76,8 @@ October: [Kirby Squeak Squad](https://retroachievements.org/game/14700) by {% ra
 [Subsets](https://docs.retroachievements.org/Subsets/)
 
 ### Best DevQuest
-[The Unwanted](https://retroachievements.org/viewtopic.php?t=14787)
+[The Unwanted](https://retroachievements.org/game/15907)  
+![image](https://retroachievements.org/Images/045565.png)
 
 ### Best Mastery Badge
 [Metal Gear Solid: Portable Ops (PlayStation Portable)](https://retroachievements.org/game/3589)  
@@ -236,7 +237,7 @@ By: {% rauserpic ikki5 %} and {% rauserpic GalacticSpear %}
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ----------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3582" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/047296.png" alt="Mega Man Powered Up"> <span>Mega Man Powered Up</span></a> | PlayStation Portable | Action Platformer |
 
-### Atari 2600
+### Best Atari 2600
 By: {% rauserpic Flashfire42 %}
 
 | Game                                                                                                                                                                                                                                                   | Console    | Genre  |
