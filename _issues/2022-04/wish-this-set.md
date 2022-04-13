@@ -93,7 +93,7 @@ It's a unique take on Mario Kart where red bells are various items and the blue 
 
 | Game                                                                                                                                                                                                                                                   | Console | Genre      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ---------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/17184" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="\~Hack~ Rockman 7 EP"> <span>\~Hack~ Rockman 7 EP</span></a> | SNES    | Platformer |
+| <a class="gameicon-link" href="https://retroachievements.org/game/17184" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/055742.png" alt="\~Hack~ Rockman 7 EP"> <span>\~Hack~ Rockman 7 EP</span></a> | SNES    | Platformer |
 
 * Writeup by: {% rauserpic GalacticSpear %}
 

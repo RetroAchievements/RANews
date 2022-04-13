@@ -46,7 +46,7 @@ Wish This Set is intended to convince other members to request a game that doesn
 
 
 ### RAGuide
-Tactical RPG fans are in for a treat, take to the battlefield with {% rauser Sines %}' guide for [Ogre Battle: March of the Black Queen](https://retroachievements.org/game/11360).
+Tactical RPG fans are in for a treat, take to the battlefield with {% rauser Sines %}' guide for [Ogre Battle: March of the Black Queen](https://retroachievements.org/game/1412).
 
 <!--
 ### RAdvantage***
@@ -83,6 +83,9 @@ List of games with no achievement sets that community is excited to see. Hopeful
 
 ### Fun
 In this issue {% rauser SporyTike %} brings a new Spot the Difference challenge submitted by {% rauser Jungon %} from [Mamono Hunter Yohko: Dai-7 no Keisho (Mega Drive)](https://retroachievements.org/game/12822).
+
+### RASpotlight
+{% rauser meleu %} met with {% rauser MrGauss %} in person to bring you a special RASpotlight this month.
 
 
 ## How to Contribute with RANews
