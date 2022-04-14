@@ -39,7 +39,7 @@ What's happening with the developer side of the site.
 - Big thanks to the Amstrad core Developer {% rauserpic DSkywalk %} for all the help in making the Amstrad CPC launch as good as it was! 
 
 ## Launch Party Reminder
-- PSP qualification for the even have now expired & Amstrad has been added for [Launch Party](https://retroachievements.org/game/15937) eligibility!
+- PSP qualification for the event has now expired & Amstrad has been added for [Launch Party](https://retroachievements.org/game/15937) eligibility!
   
        Dreamcast dates:   2022-02-12 through 2022-08-12
        Amstrad CPC dates: 2022-03-25 through 2022-09-25
@@ -47,7 +47,7 @@ What's happening with the developer side of the site.
 
 ## DevQuest Badges Awarded
 
-## [Singles In Your Area](https://retroachievements.org/game/15940)
+## [Singles In Your Area](https://retroachievements.org/game/15953)
 - {% rauserpic TheMysticalOne %}
 - {% rauserpic ladynadiad %}
 - {% rauserpic MrOwnership %}

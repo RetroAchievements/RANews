@@ -10,7 +10,7 @@ toc: true
 
 ## Intro
 
-Welcome to the Results ofthe 2021 RA Awards! For two months the RetroAchievements community nominated, cutdown, and voted on the best RA had to offer for 2021. I just want to thank anyone that contributed in any kind of way and that includes voting. This is a massive project and it continues to grow just like RA.
+Welcome to the Results of the 2021 RA Awards! For two months the RetroAchievements community nominated, cutdown, and voted on the best RA had to offer for 2021. I just want to thank anyone that contributed in any kind of way and that includes voting. This is a massive project and it continues to grow just like RA.
 
 ## Set of the Year
 By: {% rauserpic blendedsea %}
