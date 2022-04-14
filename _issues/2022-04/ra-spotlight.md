@@ -91,7 +91,7 @@ There was a game there I played back when I was a kid. A Genesis game named [Chi
 
 I had been wanting to play it with cheevos since I first came to the site but its game page was always empty and there was a point that I checked it every week. That was the moment I convinced myself that, if I wanted to play it with cheevos, I would have to make them myself or keep waiting.
 
-Funny thing is that there was already a single comment on the RAM made by {% rauser Allena %}. At the time I had no idea who she was, haha.
+Funny thing is that there was already a single comment on the RAM made by {% rauser Alena %}. At the time I had no idea who she was, haha.
 
 So, I read the documentation, made tests on memory finding with Sonic the Hedgehog and started the project. Man... it was an amazing experience.
 
