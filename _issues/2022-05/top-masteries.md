@@ -102,7 +102,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 </p>
 - {% rauserpic guineu %} extends the 1st place lead with 25 new mastery awards this month.
 - {% rauserpic Sarconius %} moves into 7th place with 16 new mastery awards this month.
-- {% rauserpic Jungon %} has made it into the top 25 and is in 33rd place.
+- {% rauserpic Jungon %} has made it into the top 25 and is in 21st place.
 
 ### Total Awards (Excluding Hacks)
 
