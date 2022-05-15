@@ -175,30 +175,30 @@ For Pacifist IV: in this achievement, you can't attack the boss once and neither
 
 * Tip by: {% rauserpic FBernkastelKues %}
 
-**Prerequisites:**
-General knowledge of the fight
-Calculator
-Void Naginata/sword with +100 HP
-Armor of Light with Resist Magic (High)
-Shoes of Light
-Divine Pillar
-A strong persona to get you through Monad quickly and easily (preferably with Victory Cry).
-A persona (doesn't matter which) with all 3 Auto abilities.
-Messiah with High Counter, Sharp Student, Magic Skill Up, Ice Amp, Resist Slash, Resist Strike, Resist Pierce, and Niflheim.
-Chi You with Mind Charge, Null Poison, Unshaken Will, Sharp Student, Resist Strike, Resist Fire, High Counter, and Enduring Soul
-80+ Homunculuses
-At least 20 of the following: Infinity, Best Friends, Beads, and Somas
-Armageddon
+**Prerequisites:**  
+- General knowledge of the fight
+- Calculator
+- Void Naginata/sword with +100 HP
+- Armor of Light with Resist Magic (High)
+- Shoes of Light
+- Divine Pillar
+- A strong persona to get you through Monad quickly and easily (preferably with Victory Cry).
+- A persona (doesn't matter which) with all 3 Auto abilities.
+- Messiah with High Counter, Sharp Student, Magic Skill Up, Ice Amp, Resist Slash, Resist Strike, Resist Pierce, and Niflheim.
+- Chi You with Mind Charge, Null Poison, Unshaken Will, Sharp Student, Resist Strike, Resist Fire, High Counter, and Enduring Soul
+- 80+ Homunculuses
+- At least 20 of the following: Infinity, Best Friends, Beads, and Somas
+- Armageddon
 
 Because we don't have much HP to work with (529 at level 98) we're going to want to get some more, fusing Legion will give your weapon the +100 HP ability which makes the fight much more manageable.
 
 Armor/Shoes of Light can be gotten from Messiah at level 98. You'll want to fuse him the second you reach level 90 and register him in the compendium right before he reaches level 98 to easily get multiple items from him. In order to get him with Niflheim do the following fusions and reset until Niflheim gets passed along:
 
-Skadi + Yomotsu Shikome = Titania
-Titania + Samael = Succubus
-Succubus + Yomotsu Shikome = Loa
-Loa + Alice + Mot + Samael + Pale Rider + Ghoul = Thanatos
-Thanatos + Orpheus = Messiah
+- Skadi + Yomotsu Shikome = Titania
+- Titania + Samael = Succubus
+- Succubus + Yomotsu Shikome = Loa
+- Loa + Alice + Mot + Samael + Pale Rider + Ghoul = Thanatos
+- Thanatos + Orpheus = Messiah
 
 The rest of the skills can be gotten from skill cards.
 

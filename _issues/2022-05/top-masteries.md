@@ -296,7 +296,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 </p>
 - {% rauserpic Boldewin %} continues to hold the lead, but a few new users look to be in striking distance.
 - {% rauserpic Released %} has made it into the top 25 and is in 2nd place.
-- {% rauserpic Orph %} has made it into the top 25 and is in a 5-way tir for 4th place.
+- {% rauserpic Orph %} has made it into the top 25 and is in a 5-way tie for 4th place.
 
 ### SNES
 
