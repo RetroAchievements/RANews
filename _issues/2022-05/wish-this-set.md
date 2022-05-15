@@ -116,7 +116,7 @@ Note: Nothing even related to Turbo Tunnel is included in this game.
 
 | Game                                                                                                                                                                                                                               | Console     | Genre  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------ |
-| <a class="gameicon-link" href="https://retroachievements.org/game/18051" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Pax Corpus"> <span>Pax Corpus</span></a> | PlayStation | Action |
+| <a class="gameicon-link" href="https://retroachievements.org/game/18051" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/057825.png" alt="Pax Corpus"> <span>Pax Corpus</span></a> | PlayStation | Action |
 
 * Writeup by: {% rauserpic winglessshikami %}
 
@@ -179,7 +179,7 @@ Overall, it's just a much better experience, and it having a set would be a much
 
 | Game                                                                                                                                                                                                                                                                                            | Console     | Genre  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------ |
-| <a class="gameicon-link" href="https://retroachievements.org/game/5330" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Road & Track Presents: The Need for Speed"> <span>Road & Track Presents: The Need for Speed</span></a> | PlayStation | Racing |
+| <a class="gameicon-link" href="https://retroachievements.org/game/5330" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/057827.png" alt="Road & Track Presents: The Need for Speed"> <span>Road & Track Presents: The Need for Speed</span></a> | PlayStation | Racing |
 
 * Write-up by: {% rauserpic RaphMec %}
 
@@ -202,7 +202,7 @@ NFS fans, or indeed many racing fans in general, would be much the better for di
 
 | Game                                                                                                                                                                                                                                   | Console     | Genre     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/17232" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Trace Memory"> <span>Trace Memory</span></a> | Nintendo DS | Adventure |
+| <a class="gameicon-link" href="https://retroachievements.org/game/17232" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/057826.png" alt="Trace Memory"> <span>Trace Memory</span></a> | Nintendo DS | Adventure |
 
 * Write-up by: {% rauserpic WarioFan63 %}
 

@@ -88,29 +88,29 @@ These events are open to any community member who wants to particpate.
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=11073>
 - Period: July 2020 - Current
-- Host: {% rauserpic StingX2 %},  {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
+- Host: {% rauserpic StingX2 %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
 - Current Winners:
-    - Month 20: {% rauserpic AuburnRDM %} and {% rauserpic televandalist %}
+    - Month 20: {% rauserpic AuburnRDM %}
 - Previous Winners:
 	- Month 19: {% rauserpic AuburnRDM %}
-    - Month 18: {% rauserpic freezestar %} and {% rauserpic televandalist %}
-    - Month 17: {% rauserpic YahwehTzVaoth %} and {% rauserpic Etron %}
-    - Month 16: {% rauserpic Sairotra %} and {% rauserpic SlashTangent %}
-    - Month 15: {% rauserpic Xymjak %} and {% rauserpic SlashTangent %}
-    - Month 14: {% rauserpic Tayadaoc %} and {% rauserpic SlashTangent %}
-    - Month 13: {% rauserpic Tayadaoc %} and {% rauserpic wilhitewarrior %}
-    - Month 12: {% rauserpic freezestar %} and {% rauserpic televandalist %}
-    - Month 11: {% rauserpic Xymjak %} and {% rauserpic SlashTangent %}
-    - Month 10: {% rauserpic ISmileyzI %} and {% rauserpic SlashTangent %}
-    - Month 9: {% rauserpic Gamechamp %} and {% rauserpic SlashTangent %}
-    - Month 8: {% rauserpic HolyShinx %} and {% rauserpic SlashTangent %}
-    - Month 7: {% rauserpic multonic %}, {% rauserpic Whynot15 %} and {% rauserpic SlashTangent %}
-    - Month 6: {% rauserpic deng %}
-    - Month 5: {% rauserpic Kisumebuckets %}
-    - Month 4: {% rauserpic freezestar %}
-    - Month 3: {% rauserpic multonic %}
-    - Month 2: {% rauserpic guineu %}
-    - Month 1: {% rauserpic guineu %}
+  - Month 18: {% rauserpic freezestar %} and {% rauserpic televandalist %}
+  - Month 17: {% rauserpic YahwehTzVaoth %} and {% rauserpic Etron %}
+  - Month 16: {% rauserpic Sairotra %} and {% rauserpic SlashTangent %}
+  - Month 15: {% rauserpic Xymjak %} and {% rauserpic SlashTangent %}
+  - Month 14: {% rauserpic Tayadaoc %} and {% rauserpic SlashTangent %}
+  - Month 13: {% rauserpic Tayadaoc %} and {% rauserpic wilhitewarrior %}
+  - Month 12: {% rauserpic freezestar %} and {% rauserpic televandalist %}
+  - Month 11: {% rauserpic Xymjak %} and {% rauserpic SlashTangent %}
+  - Month 10: {% rauserpic ISmileyzI %} and {% rauserpic SlashTangent %}
+  - Month 9: {% rauserpic Gamechamp %} and {% rauserpic SlashTangent %}
+  - Month 8: {% rauserpic HolyShinx %} and {% rauserpic SlashTangent %}
+  - Month 7: {% rauserpic multonic %}, {% rauserpic Whynot15 %} and {% rauserpic SlashTangent %}
+  - Month 6: {% rauserpic deng %}
+  - Month 5: {% rauserpic Kisumebuckets %}
+  - Month 4: {% rauserpic freezestar %}
+  - Month 3: {% rauserpic multonic %}
+  - Month 2: {% rauserpic guineu %}
+  - Month 1: {% rauserpic guineu %}
 
 <a href="#top">:top:</a>
 
@@ -175,6 +175,8 @@ These events are open to any community member who wants to particpate.
 - Host: {% rauserpic Searo %}
 - Currently 1st place (with 136 points):
   - {% rauserpic AuburnRDM %}
+
+<a href="#top">:top:</a>
 
 ## Spot the Difference
 

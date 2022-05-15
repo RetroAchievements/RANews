@@ -16,14 +16,10 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 
 | #   | Developer   | Promotion Date | Anniversary Year |
 | --- | ----------- | -------------- | ---------------- |
-| 1   | kcin2001    | 5/25/2018      | 4                |
-| 2   | Albysqiel   | 5/17/2019      | 3                |
-| 3   | jared6502   | 5/17/2019      | 3                |
-| 4   | StarRock    | 5/17/2019      | 3                |
-| 5   | Seydie      | 5/28/2019      | 3                |
-| 6   | rj0217      | 5/22/2020      | 2                |
-| 7   | BahamutVoid | 5/24/2021      | 1                |
-| 8   | Lewis50248  | 5/27/2021      | 1                |
+| 1   | jared6502   | 5/17/2019      | 3                |
+| 2   | Seydie      | 5/28/2019      | 3                |
+| 3   | BahamutVoid | 5/24/2021      | 1                |
+| 4   | Lewis50248  | 5/27/2021      | 1                |
 
 ## User Anniversaries
 

@@ -21,7 +21,7 @@ With this new installment {% rauser Nepiki %} is going to take you for a trip do
 
 
 ### Monthly Stats
-We have have collected a bunch of stats from March for your enjoyment.
+We have collected a bunch of stats from April for your enjoyment.
 
 
 ### Current Events
@@ -99,15 +99,16 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgements
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-| {% rauserpic 14ausher %}         | {% rauserpic abwaerts %}            | {% rauserpic affftedio %}      |
-| {% rauserpic BatFastardJordy %}  | {% rauserpic Bendyhuman %}          | {% rauserpic Brandovsky %}     |
-| {% rauserpic Cadaxar %}          | {% rauserpic danyelalejandro1980 %} | {% rauserpic Enagonius %}      |
-| {% rauserpic Etron %}            | {% rauserpic Fridge %}              | {% rauserpic GalacticSpear %}  |
-| {% rauserpic GibusWearingMann %} | {% rauserpic Glendaal %}            | {% rauserpic gollawiz %}       |
-| {% rauserpic HolyShinx %}        | {% rauserpic Hotscrock %}           | {% rauserpic LaserPH1 %}       |
-| {% rauserpic malasdair %}        | {% rauserpic MrOwnership %}         | {% rauserpic Nepiki %}         |
-| {% rauserpic Nydaxn %}           | {% rauserpic pinguupinguu %}        | {% rauserpic RaphMec %}        |
-| {% rauserpic Raykusen %}         | {% rauserpic SnowPin %}             | {% rauserpic soltyd %}         |
-| {% rauserpic SpaceRaton %}       | {% rauserpic SporyTike %}           | {% rauserpic StingX2 %}        |
-| {% rauserpic televandalist %}    | {% rauserpic timenoe %}             | {% rauserpic WanderingHeiho %} |
-| {% rauserpic WarioFan63 %}       | {% rauserpic winglessshikami %}     | {% rauserpic Xymjak %}         |
+| {% rauserpic 14ausher %}        | {% rauserpic abwaerts %}            | {% rauserpic affftedio %}        |
+| {% rauserpic BatFastardJordy %} | {% rauserpic Bendyhuman %}          | {% rauserpic Brandovsky %}       |
+| {% rauserpic Cadaxar %}         | {% rauserpic danyelalejandro1980 %} | {% rauserpic Enagonius %}        |
+| {% rauserpic Etron %}           | {% rauserpic f3rns %}               | {% rauserpic Fridge %}           |
+| {% rauserpic GalacticSpear %}   | {% rauserpic Gamechamp %}           | {% rauserpic GibusWearingMann %} |
+| {% rauserpic Glendaal %}        | {% rauserpic gollawiz %}            | {% rauserpic HolyShinx %}        |
+| {% rauserpic Hotscrock %}       | {% rauserpic LaserPH1 %}            | {% rauserpic malasdair %}        |
+| {% rauserpic MrOwnership %}     | {% rauserpic Nepiki %}              | {% rauserpic Nydaxn %}           |
+| {% rauserpic pinguupinguu %}    | {% rauserpic RaphMec %}             | {% rauserpic Raykusen %}         |
+| {% rauserpic SnowPin %}         | {% rauserpic soltyd %}              | {% rauserpic SpaceRaton %}       |
+| {% rauserpic SporyTike %}       | {% rauserpic StingX2 %}             | {% rauserpic televandalist %}    |
+| {% rauserpic timenoe %}         | {% rauserpic WanderingHeiho %}      | {% rauserpic WarioFan63 %}       |
+| {% rauserpic winglessshikami %} | {% rauserpic Xymjak %}              |                                  |
