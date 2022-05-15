@@ -249,7 +249,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 <p align="center">
   <img src="img/TopMasteries/NINTENDO_DS.png" />
 </p>
-- {% rauserpic SanMarino %} remains in 1st place with 61 total master awards.
+- {% rauserpic Olafur %} remains in 1st place with 61 total master awards.
 - {% rauserpic NickGoat1990 %} moves into a tie for 9th place with 3 new mastery awards this month.
 - {% rauserpic Orph %} has made it into the top 25 and is in a 3-way tie for 19th place.
 

@@ -117,7 +117,7 @@ These events are open to any community member who wants to particpate.
 
 ## Daily DistRActions
 
-- Forum topic: <https://retroachievements.org/viewtopic.php?t=14532>
+- Forum topic: <https://retroachievements.org/viewtopic.php?t=15870>
 - Period: December 2021 - Current
 - Host: {% rauserpic Bendyhuman %}
 - Currently 1st place of Season 2(with 49 points):
@@ -183,16 +183,16 @@ The goal was to find all 10 differences between different parallel universes.
 
 - Winners of Spotting the Difference:
   - 2022:
-    - April: {% rauserpic TheFetishMachine %}	
-    - March: {% rauserpic TheFetishMachine %}	
-    - February: {% rauserpic Tayadaoc %}	
-  	- January: {% rauserpic Tayadaoc %}	
+    - April: {% rauserpic TheFetishMachine %}
+    - March: {% rauserpic TheFetishMachine %}
+    - February: {% rauserpic Tayadaoc %}
+    - January: {% rauserpic Tayadaoc %}
   - 2021:
-    - December: {% rauserpic TheFetishMachine %}	
-  	- November: {% rauserpic roli300 %}	
-  	- October: {% rauserpic roli300 %}	
-  	- September: {% rauserpic Adenothe %}	
-  	- August: {% rauserpic Nevermond12 %} & {% rauserpic TheFetishMachine %}
+    - December: {% rauserpic TheFetishMachine %}
+    - November: {% rauserpic roli300 %}
+    - October: {% rauserpic roli300 %}
+    - September: {% rauserpic Adenothe %}
+    - August: {% rauserpic Nevermond12 %} & {% rauserpic TheFetishMachine %}
     - July: {% rauserpic blendedsea %}
     - June: {% rauserpic Burgins %}
     - May: {% rauserpic Nevermond12 %}

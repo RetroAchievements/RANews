@@ -31,7 +31,7 @@ WASM-4 is a low-level fantasy game console for building small games with WebAsse
 You can check out which games currently have achievement sets [here](https://retroachievements.org/gameList.php?c=72).
 
 ## A Look Towards the Future
-While it's always exciting to get new system support, there is also a lot of work that goes into it. We need time to test core functionality and to properly expose memory. Developers need time to look through the game list, pick some games and create the sets for them. It's not somethign that happens over night. Here is a look at some potential upcoming rollout systems, please keep in mind that there is no current ETA for any of these.
+While it's always exciting to get new system support, there is also a lot of work that goes into it. We need time to test core functionality and to properly expose memory. Developers need time to look through the game list, pick some games and create the sets for them. It's not something that happens over night. Here is a look at some potential upcoming rollout systems, please keep in mind that there is no current ETA for any of these.
 - CHIP-8
 - Fairchild Channel F
 - Mega Duck
@@ -42,12 +42,12 @@ While it's always exciting to get new system support, there is also a lot of wor
 # Quality Assurance & Developer Compliance
 The [QA Team Restructure](http://retroachievements.org/viewtopic.php?t=16241) was finally implemented on 04/27/2022. The main goal of this QATeam Restructure was to split the current roles of the `@QATeam` into three: `Quality Assurance`, `Developer Compliance` and `DevQuest`. Quality Assurance would focus on achievements set quality with respect to logic and writing. Developer Compliance would focus on adherence and updates to the Developer Code of Conduct. DevQuest would focus on maintaining DevQuest spreadsheet, tracking claims and completed quests, voting on new quests, etc.
 
-The three teams can all be reached by either sending a message to the site accounts ({% rauser QATeam %}, {% rauser DevCompliance %} and {% rauser DevQuest %}) or by pinging them role in Discord.
+The three teams can all be reached by either sending a message to the site accounts ({% rauser QATeam %}, {% rauser DevCompliance %} and {% rauser DevQuest %}) or by pinging the role in Discord.
 
 ## Quality Assurance
 - Cleared out and `~Z~`'d the following game IDs: 6476, 6477, 6478, 6479, 5038, 5039, 5040, 5041.
 - [Dark License to Kill subset](https://retroachievements.org/game/19007) approved for Goldeneye 007.
-- Gold Medals subset spproved for Dragon Warrior III.
+- Gold Medals subset approved for Dragon Warrior III.
 - Approved sets for [~Homebrew~ DMG Express](https://retroachievements.org/game/6477) and [~Homebrew~ Transmissions](https://retroachievements.org/game/6478).
 - Demoted [18916](https://retroachievements.org/achievement/18916), [18922](https://retroachievements.org/achievement/18922) and [27025](https://retroachievements.org/achievement/27025) based on a revision vote.
 - Approved set for [~Hack~ Fall Guys World](https://retroachievements.org/game/17068).

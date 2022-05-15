@@ -16,6 +16,10 @@ Welcome to RANews, your #1 source for everything RetroAchievements.
 What to expect from this issue.
 
 
+### This Month In Retro
+With this new installment {% rauser Nepiki %} is going to take you for a trip down memory lane to see what happened in the retro scene in May of 1996.
+
+
 ### Monthly Stats
 We have have collected a bunch of stats from March for your enjoyment.
 
@@ -36,22 +40,19 @@ Stay up to date with all the latest RA community news.
 Community members talking about their favorite sets and why you should play them.
 
 
-<!--
-### Wish This Set **
+### Wish This Set
 Wish This Set is intended to convince other members to request a game that doesn’t have an achievement set yet.
 
 [For those who don't know if a game doesn't have achievements, you can Request a set for it by clicking in the `Request Set` link in the game's page.]
--->
 
-<!--
-### RAGuide **
-Tactical RPG fans are in for a treat, take to the battlefield with {% rauser Sines %}' guide for [Ogre Battle: March of the Black Queen](https://retroachievements.org/game/1412).
--->
 
-<!--
-### RAdvantage ***
+### RAGuide
+With a recent substantial revision by {% rauser adamjohnny5 %}, there is no better time to master [Legend of Zelda: Link's Awakening DX](https://retroachievements.org/game/5371) using the great guide created by {% rauser Nepiki %}.
+
+
+### RAdvantage
 Check out some tips from the community members to help you with your achievement hunting.
--->
+
 
 ### HotCheevs Monthly
 List of achievement sets released in the last month.
@@ -68,10 +69,10 @@ Which sets got their game icons and/or badges changed.
 ### Top Players
 Some statistics about the top 300 players of RetroAchievements and how they progressed over the last month. New updates for this month data.
 
-<!-->
+
 ### RAnniversaries
 Highlighting the members who have been with us and for how long.
--->
+
 
 ### Top Masteries
 Who are the champions of each console? This section takes a look at which users have the most mastery badges for various categories.
@@ -84,10 +85,10 @@ List of games with no achievement sets that community is excited to see. Hopeful
 ### Fun
 In this issue {% rauser SporyTike %} brings a new Spot the Difference challenge submitted by {% rauser f3rns %} from [Super Castlevania IV (SNES)](https://retroachievements.org/game/562).
 
-<!--
-### RASpotlight **
-{% rauser meleu %} met with {% rauser MrGauss %} in person to bring you a special RASpotlight this month.
--->
+
+### RASpotlight
+{% rauser Bendyhuman %} and {% rauser StingX2 %} have a fantastic interview with the one and only {% rauser Gamechamp %}.
+
 
 ## How to Contribute with RANews
 If you have an idea for an article to be published in the RANews, please go to the {% rauser RANews %} profile page and send us a message.
@@ -97,3 +98,16 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 
 ## Acknowledgements
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
+
+| {% rauserpic 14ausher %}         | {% rauserpic abwaerts %}            | {% rauserpic affftedio %}      |
+| {% rauserpic BatFastardJordy %}  | {% rauserpic Bendyhuman %}          | {% rauserpic Brandovsky %}     |
+| {% rauserpic Cadaxar %}          | {% rauserpic danyelalejandro1980 %} | {% rauserpic Enagonius %}      |
+| {% rauserpic Etron %}            | {% rauserpic Fridge %}              | {% rauserpic GalacticSpear %}  |
+| {% rauserpic GibusWearingMann %} | {% rauserpic Glendaal %}            | {% rauserpic gollawiz %}       |
+| {% rauserpic HolyShinx %}        | {% rauserpic Hotscrock %}           | {% rauserpic LaserPH1 %}       |
+| {% rauserpic malasdair %}        | {% rauserpic MrOwnership %}         | {% rauserpic Nepiki %}         |
+| {% rauserpic Nydaxn %}           | {% rauserpic pinguupinguu %}        | {% rauserpic RaphMec %}        |
+| {% rauserpic Raykusen %}         | {% rauserpic SnowPin %}             | {% rauserpic soltyd %}         |
+| {% rauserpic SpaceRaton %}       | {% rauserpic SporyTike %}           | {% rauserpic StingX2 %}        |
+| {% rauserpic televandalist %}    | {% rauserpic timenoe %}             | {% rauserpic WanderingHeiho %} |
+| {% rauserpic WarioFan63 %}       | {% rauserpic winglessshikami %}     | {% rauserpic Xymjak %}         |
