@@ -104,6 +104,21 @@ If you have an idea for an article to be published in the RANews, please go to t
 Keep in mind that the article must be written in Markdown format. If you don’t know it, you can learn it in 10 minutes following this online tutorial here: <https://commonmark.org/help/tutorial/> (it’s pretty similar to what you may be already using on discord).
 
 
-## Acknowledgements
+## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
+| {% rauserpic 14ausher %}      | {% rauserpic ABAK %}         | {% rauserpic Akai %}            |
+| {% rauserpic AuburnRDM %}     | {% rauserpic BahamutVoid %}  | {% rauserpic BatFastardJordy %} |
+| {% rauserpic Bendyhuman %}    | {% rauserpic Brandovsky %}   | {% rauserpic Cadaxar %}         |
+| {% rauserpic Cadaxar %}       | {% rauserpic Chauckles %}    | {% rauserpic deng %}            |
+| {% rauserpic Enagonius %}     | {% rauserpic Etron %}        | {% rauserpic FBernkastelKues %} |
+| {% rauserpic freezestar %}    | {% rauserpic Gamechamp %}    | {% rauserpic Glendaal %}        |
+| {% rauserpic heintsi %}       | {% rauserpic HolyShinx %}    | {% rauserpic Hotscrock %}       |
+| {% rauserpic JAM %}           | {% rauserpic KingS1zzle %}   | {% rauserpic MrBird %}          |
+| {% rauserpic MrOwnership %}   | {% rauserpic Nepiki %}       | {% rauserpic NickGoat1990 %}    |
+| {% rauserpic Nydaxn %}        | {% rauserpic pinguupinguu %} | {% rauserpic RaphMec %}         |
+| {% rauserpic Raykusen %}      | {% rauserpic Retrokaiser %}  | {% rauserpic Rohsiph %}         |
+| {% rauserpic Searo %}         | {% rauserpic Shaoden %}      | {% rauserpic SnowPin %}         |
+| {% rauserpic SporyTike %}     | {% rauserpic StingX2 %}      | {% rauserpic televandalist %}   |
+| {% rauserpic voiceofautumn %} | {% rauserpic WarioFan63 %}   | {% rauserpic Xymjak %}          |
+| {% rauserpic yahoowahooey %}  |                              |                                 |
