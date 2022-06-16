@@ -55,17 +55,14 @@ Just make sure you have a hit to spare to do this!
 
 The goal of this achievement is to beat the game deathless. Here are some tips I can give you.
 
-0. Get all other achievements before this one. Beat the game, do it fast, understand battle mechanics. Number zero because it's preparation.
-
-1. Explore the levels and clearly remember where you can get potions, what battles with guardians you can avoid, etc.
-
-2. Keep in mind that the max health you can get is 6, but the game remembers only up to 5 after you beat the level. So you need to get health expansion potion every time it's possible.
-
-3. Beat the game several times under 60 minutes and remember where you die almost in every run. It's a good idea to make saves in such places to train them before actually trying to get the achievement.
-
-4. Most death pits can be trained if you know the trick. Usually you can only jump over a 4 tile pit when running; however, if stand on the edge of the pit, turn the back to the pit by holding left and as soon as you start moving, press and hold right + jump, then you can jump over the 4 tile pit starting from a standing position. This only works when moving from left to right.
-
-5. Practice the enemy fights at levels 7-11 before actually doing the achievement and remember that the enemy behavior is different on levels 1-6.
+<ol start="0">
+  <li>Get all other achievements before this one. Beat the game, do it fast, understand battle mechanics. Number zero because it's preparation.</li>
+  <li>Explore the levels and clearly remember where you can get potions, what battles with guardians you can avoid, etc.</li>
+  <li>Keep in mind that the max health you can get is 6, but the game remembers only up to 5 after you beat the level. So you need to get health expansion potion every time it's possible.</li>
+  <li>Beat the game several times under 60 minutes and remember where you die almost in every run. It's a good idea to make saves in such places to train them before actually trying to get the achievement.</li>
+  <li>Most death pits can be trained if you know the trick. Usually you can only jump over a 4 tile pit when running; however, if stand on the edge of the pit, turn the back to the pit by holding left and as soon as you start moving, press and hold right + jump, then you can jump over the 4 tile pit starting from a standing position. This only works when moving from left to right.</li>
+  <li>Practice the enemy fights at levels 7-11 before actually doing the achievement and remember that the enemy behavior is different on levels 1-6.</li>
+</ol>
 
 ## WWF Super WrestleMania (SNES)
 

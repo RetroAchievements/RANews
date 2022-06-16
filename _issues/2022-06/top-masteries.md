@@ -168,7 +168,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 </p>
 - {% rauserpic PMniac %} remains in 1st with 2 new mastery awards this month.
 - {% rauserpic alphacrust %} moves into 5th place with 9 new mastery awards this month.
-- {% rauserpic YahwehTzVaoth %} moves into a tie fir 15th place with 4 new mastery awards this month.
+- {% rauserpic YahwehTzVaoth %} moves into a tie for 15th place with 4 new mastery awards this month.
 
 ### Dreamcast
 

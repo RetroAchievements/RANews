@@ -28,7 +28,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 |{% rauserpic FabricioPrie %}|{% rauserpic ShadwSonic %}|{% rauserpic Xymjak %}|
 |{% rauserpic yopadato %}|{% rauserpic BerserkerBR %}|{% rauserpic mikeisafighter %}|
 
-### 200,000 Points
+### 250,000 Points
 
 |{% rauserpic SeredaVadim %}|{% rauserpic metalbubble403 %}|{% rauserpic cochese788 %}|
 |{% rauserpic Draco655 %}|{% rauserpic Infernum %}|{% rauserpic Alexxi %}|
@@ -552,9 +552,148 @@ This month we have a new page being added to RANews in the form of Milestones! L
 
 ## Hardcore Achievements
 
+### 30,000 Hardcore Achievements Earned
+
+|{% rauserpic MaxMilyin %}|||
+
+### 25,000 Hardcore Achievements Earned
+
+|{% rauserpic HippopotamusRex %}|{% rauserpic Andrey199650 %}|{% rauserpic guineu %}|
+
+### 20,000 Hardcore Achievements Earned
+
+|{% rauserpic Sarconius %}|{% rauserpic FabricioPrie %}|{% rauserpic ShadwSonic %}|
+|{% rauserpic AmericanNinja %}|{% rauserpic cochese788 %}|{% rauserpic Wendigo %}|
+|{% rauserpic Draco655 %}|||
+
+### 15,000 Hardcore Achievements Earned
+
+|{% rauserpic Xymjak %}|{% rauserpic Bendyhuman %}|{% rauserpic metalbubble403 %}|
+|{% rauserpic deng %}|{% rauserpic BerserkerBR %}|{% rauserpic Veritasu %}|
+|{% rauserpic Olafur %}|{% rauserpic Kinglink %}|{% rauserpic CobaltZeroni %}|
+|{% rauserpic mikeisafighter %}|{% rauserpic HolyShinx %}|{% rauserpic MaddieKittyTV %}|
+|{% rauserpic Infernum %}|{% rauserpic Wiiner %}|{% rauserpic ChronoGear %}|
+|{% rauserpic oakley %}|{% rauserpic ilikepie345 %}||
+
+### 10,000 Hardcore Achievements Earned
+
+|{% rauserpic yopadato %}|{% rauserpic danibodom %}|{% rauserpic SeredaVadim %}|
+|{% rauserpic ramosgamer81 %}|{% rauserpic Aquator %}|{% rauserpic KangarooE12 %}|
+|{% rauserpic Searo %}|{% rauserpic Alexxi %}|{% rauserpic DUT %}|
+|{% rauserpic Arekdias %}|{% rauserpic AuburnRDM %}|{% rauserpic FlavourSavior %}|
+|{% rauserpic Pudpod %}|{% rauserpic Slime95 %}|{% rauserpic Nevermond12 %}|
+|{% rauserpic Pixelach %}|{% rauserpic yoshter2011 %}|{% rauserpic JigokuNoBanken %}|
+|{% rauserpic xTyrea64 %}|{% rauserpic Retrokaiser %}|{% rauserpic Valenstein %}|
+|{% rauserpic Shootzy %}|{% rauserpic Jungon %}|{% rauserpic zanyeyedzach %}|
+|{% rauserpic sigma62 %}|{% rauserpic ImpliedKappa %}|{% rauserpic Grahamtams %}|
+|{% rauserpic Shishio64 %}|{% rauserpic freezestar %}|{% rauserpic FireSonic %}|
+|{% rauserpic 323GONZALEZ1990 %}|{% rauserpic TioRyu %}|{% rauserpic DaniloZlatan %}|
+|{% rauserpic Thoreau %}|{% rauserpic chocolatiel %}|{% rauserpic Thanks %}|
+|{% rauserpic SamsamDaGameMan %}|{% rauserpic malasdair %}|{% rauserpic TheLooseGroose %}|
+|{% rauserpic earfly %}|{% rauserpic Annonith %}|{% rauserpic bonecrusher1022 %}|
+|{% rauserpic darkwolf7786 %}|{% rauserpic starlite %}|{% rauserpic Braek %}|
+|{% rauserpic EverElsewhere %}|{% rauserpic GOGZero %}|{% rauserpic BahamutVoid %}|
+|{% rauserpic Shioxus %}|{% rauserpic Ryan914 %}|{% rauserpic QRS666 %}|
+|{% rauserpic Lonoke31 %}|{% rauserpic Suffa28 %}|{% rauserpic marcelosnp %}|
+|{% rauserpic BOP95 %}|{% rauserpic BeekBeek85 %}|{% rauserpic jared6502 %}|
+|{% rauserpic Javisaur %}|{% rauserpic minibt %}|{% rauserpic MarcosRx %}|
+|{% rauserpic Zio %}|{% rauserpic BlotchJBMR %}|{% rauserpic Shianderu %}|
+|{% rauserpic GIGsnake %}|||
+
 ### 5000 Hardcore Achievements Earned
 
-|{% rauserpic PokeBaal %}|{% rauserpic CABBAGES %}||
+|{% rauserpic bobolopster %}|{% rauserpic Jamiras %}|{% rauserpic valkyrov %}|
+|{% rauserpic StingX2 %}|{% rauserpic televandalist %}|{% rauserpic Dancarnate %}|
+|{% rauserpic Kaymander %}|{% rauserpic Keny94140 %}|{% rauserpic Tymestalker %}|
+|{% rauserpic voiceofautumn %}|{% rauserpic SyrianBallaS %}|{% rauserpic JMaio %}|
+|{% rauserpic deathbychipmunk %}|{% rauserpic xRidley %}|{% rauserpic RetroRobb %}|
+|{% rauserpic TheJewker %}|{% rauserpic chrisjmuller1980 %}|{% rauserpic Allucardz %}|
+|{% rauserpic BenevolentDick %}|{% rauserpic Tiagoxxx %}|{% rauserpic SanMarino %}|
+|{% rauserpic adamjohnny5 %}|{% rauserpic sireture %}|{% rauserpic Shmelyoff %}|
+|{% rauserpic MrBird %}|{% rauserpic ParaParaKing %}|{% rauserpic Waishler %}|
+|{% rauserpic donutweegee %}|{% rauserpic fabiotwotwo %}|{% rauserpic IantasGames1995 %}|
+|{% rauserpic EnigmaGameZ %}|{% rauserpic Shinrashinobi %}|{% rauserpic Ducke649 %}|
+|{% rauserpic FabinSS %}|{% rauserpic Delmaru %}|{% rauserpic HeisenHower %}|
+|{% rauserpic TheJ5333 %}|{% rauserpic Haruda %}|{% rauserpic Tomberry %}|
+|{% rauserpic XashTheStampede %}|{% rauserpic Rub88 %}|{% rauserpic zato %}|
+|{% rauserpic LateNightRetro %}|{% rauserpic missiray %}|{% rauserpic Exoddis %}|
+|{% rauserpic bennz13 %}|{% rauserpic NickGoat1990 %}|{% rauserpic MegamanM %}|
+|{% rauserpic Foovatico %}|{% rauserpic FmcCordeiro %}|{% rauserpic Xotoco %}|
+|{% rauserpic Transistor %}|{% rauserpic SporyTike %}|{% rauserpic Nora00 %}|
+|{% rauserpic ourdeardexter %}|{% rauserpic Sylrifaide %}|{% rauserpic Shroomer %}|
+|{% rauserpic gustavovaladares %}|{% rauserpic leislonjose %}|{% rauserpic CMatador %}|
+|{% rauserpic drakonos85 %}|{% rauserpic VenHur %}|{% rauserpic PKRadash %}|
+|{% rauserpic Fergdog %}|{% rauserpic Lokomelo %}|{% rauserpic Kayesay %}|
+|{% rauserpic Alexjovi %}|{% rauserpic Gamechamp %}|{% rauserpic Xan0707 %}|
+|{% rauserpic FernandoFFS %}|{% rauserpic stfN1337 %}|{% rauserpic LittleTiger %}|
+|{% rauserpic DanielARP %}|{% rauserpic renanbrj %}|{% rauserpic WanderingHeiho %}|
+|{% rauserpic Kingsombra %}|{% rauserpic danilofent97 %}|{% rauserpic AllisonKnight %}|
+|{% rauserpic VinnyBill %}|{% rauserpic Fortunato1337 %}|{% rauserpic Adman77 %}|
+|{% rauserpic TerrorVan %}|{% rauserpic Beulu79 %}|{% rauserpic AgentRibinski %}|
+|{% rauserpic supergiuu %}|{% rauserpic Jacobgharibian %}|{% rauserpic Aekko %}|
+|{% rauserpic Kuluk01 %}|{% rauserpic KEM64 %}|{% rauserpic JasonVoorhees %}|
+|{% rauserpic Sef %}|{% rauserpic Kinghippo44 %}|{% rauserpic Renan007 %}|
+|{% rauserpic Dario64 %}|{% rauserpic MGNS8M %}|{% rauserpic Pampa50 %}|
+|{% rauserpic matheus2653 %}|{% rauserpic Rossovich %}|{% rauserpic Nightstorm %}|
+|{% rauserpic frenzymatt %}|{% rauserpic PMniac %}|{% rauserpic zandro %}|
+|{% rauserpic FlamingDoom %}|{% rauserpic Chauckles %}|{% rauserpic Paladincecil %}|
+|{% rauserpic Artie7386 %}|{% rauserpic BenTobitt %}|{% rauserpic Pearate %}|
+|{% rauserpic Nanashi %}|{% rauserpic msdmario %}|{% rauserpic sylar632 %}|
+|{% rauserpic TeacherGus %}|{% rauserpic raniejogos %}|{% rauserpic rev %}|
+|{% rauserpic FlareEX %}|{% rauserpic Tvols1480 %}|{% rauserpic Yakurena %}|
+|{% rauserpic AntonioFNN %}|{% rauserpic ockerjj %}|{% rauserpic multonic %}|
+|{% rauserpic echoscreen %}|{% rauserpic Tuddywutwut %}|{% rauserpic marlonhml %}|
+|{% rauserpic raizel %}|{% rauserpic Griefor %}|{% rauserpic MsAngel %}|
+|{% rauserpic infpgamer %}|{% rauserpic Altomar %}|{% rauserpic Klarth %}|
+|{% rauserpic fianovale %}|{% rauserpic perdiga %}|{% rauserpic Kreepy %}|
+|{% rauserpic XPEHOBB %}|{% rauserpic MorphingThruTime %}|{% rauserpic Baobabastass %}|
+|{% rauserpic Goldor %}|{% rauserpic ToxicAntidote %}|{% rauserpic JAM %}|
+|{% rauserpic fe3001 %}|{% rauserpic AzuchiAkeshi %}|{% rauserpic PaddyW %}|
+|{% rauserpic PixmanMuddy68 %}|{% rauserpic Hdot12 %}|{% rauserpic AlexGatao %}|
+|{% rauserpic BrothersGames %}|{% rauserpic Klarth18 %}|{% rauserpic AlluminumMallard %}|
+|{% rauserpic Jazzehjeff %}|{% rauserpic TheGameingChef %}|{% rauserpic NEOMAR %}|
+|{% rauserpic RomaKiev %}|{% rauserpic Nekonoob %}|{% rauserpic zerem %}|
+|{% rauserpic BubbleRoxie %}|{% rauserpic Alexavelino123 %}|{% rauserpic Guy4318 %}|
+|{% rauserpic menskmoon %}|{% rauserpic Nevanos %}|{% rauserpic Jaeger42 %}|
+|{% rauserpic Jeffds %}|{% rauserpic Cadaxar %}|{% rauserpic KlydeKadell %}|
+|{% rauserpic kryptin %}|{% rauserpic Lockerdown3 %}|{% rauserpic Gr1nya %}|
+|{% rauserpic poopbucket %}|{% rauserpic k176 %}|{% rauserpic russolini77 %}|
+|{% rauserpic arthur4272 %}|{% rauserpic Glendaal %}|{% rauserpic GalacticSpear %}|
+|{% rauserpic Whynot15 %}|{% rauserpic TheJediSonic %}|{% rauserpic Tirbaba %}|
+|{% rauserpic Kron %}|{% rauserpic Kathrynn %}|{% rauserpic JKnoxville %}|
+|{% rauserpic PhantomX %}|{% rauserpic tiplouffe %}|{% rauserpic vulgoaleph %}|
+|{% rauserpic Rick32 %}|{% rauserpic Edgarmcfly %}|{% rauserpic Vyach59 %}|
+|{% rauserpic Golem %}|{% rauserpic shroome %}|{% rauserpic Kiko %}|
+|{% rauserpic dcmpinguim %}|{% rauserpic Timboslice11 %}|{% rauserpic bman7 %}|
+|{% rauserpic ruri %}|{% rauserpic CanalGameHenryflush %}|{% rauserpic Rufio %}|
+|{% rauserpic HotCoffee %}|{% rauserpic Mentro %}|{% rauserpic affftedio %}|
+|{% rauserpic SlimKirby %}|{% rauserpic ivesmt666 %}|{% rauserpic Orph %}|
+|{% rauserpic gmbgustavo %}|{% rauserpic xeiden %}|{% rauserpic Remix %}|
+|{% rauserpic RideTheSkies %}|{% rauserpic jabman696 %}|{% rauserpic Meneboy88 %}|
+|{% rauserpic popoki %}|{% rauserpic MatheusBrazuca85 %}|{% rauserpic Dehkon %}|
+|{% rauserpic Lalilulelo %}|{% rauserpic hardcoregamertop %}|{% rauserpic MarioX4 %}|
+|{% rauserpic Linkgameplay %}|{% rauserpic AkumaTNT %}|{% rauserpic Flemm %}|
+|{% rauserpic Malkil %}|{% rauserpic Signum %}|{% rauserpic Pozitron %}|
+|{% rauserpic Nastas %}|{% rauserpic MysticGamer %}|{% rauserpic YahwehTzVaoth %}|
+|{% rauserpic Boldewin %}|{% rauserpic MauricioReis %}|{% rauserpic CanadianLooni %}|
+|{% rauserpic Lilpaulo3232 %}|{% rauserpic BroccoliNinja %}|{% rauserpic an7xuan %}|
+|{% rauserpic miccmike %}|{% rauserpic TiringCoyote %}|{% rauserpic SherryBirkin %}|
+|{% rauserpic Adenothe %}|{% rauserpic Hoopernatorial %}|{% rauserpic Alekon88 %}|
+|{% rauserpic gunstarheroes %}|{% rauserpic Hernandezbaladoce %}|{% rauserpic HigorHuannHardCore %}|
+|{% rauserpic tencerjeddy %}|{% rauserpic GabrielAlves %}|{% rauserpic IKINNIK %}|
+|{% rauserpic Junhyuo %}|{% rauserpic EddieMcMerlin %}|{% rauserpic Dododo %}|
+|{% rauserpic Nabas6545 %}|{% rauserpic gavmanwv3 %}|{% rauserpic MadMixa81 %}|
+|{% rauserpic MrDynamite %}|{% rauserpic Mosk59 %}|{% rauserpic zenanomaly %}|
+|{% rauserpic Jazerus %}|{% rauserpic Ryudo %}|{% rauserpic KTH %}|
+|{% rauserpic JackSamEss %}|{% rauserpic WarioFan63 %}|{% rauserpic MarioJunior10 %}|
+|{% rauserpic Nikolay77 %}|{% rauserpic luisguedes %}|{% rauserpic pulsexp %}|
+|{% rauserpic dorayaki %}|{% rauserpic Hotscrock %}|{% rauserpic dericobanjo %}|
+|{% rauserpic Kiutgh %}|{% rauserpic mx01 %}|{% rauserpic Crimsonnn %}|
+|{% rauserpic Sena %}|{% rauserpic retroloverman %}|{% rauserpic LordKuddy %}|
+|{% rauserpic chazychaz %}|{% rauserpic ZBR %}|{% rauserpic Damniel %}|
+|{% rauserpic Chrisis %}|{% rauserpic rosanoborgad %}|{% rauserpic PeedroHM %}|
+|{% rauserpic vintageclassicgamer %}|{% rauserpic Cabrunco %}|{% rauserpic rockmankun %}|
+|{% rauserpic alexminasepm82 %}|{% rauserpic PokeBaal %}|{% rauserpic CABBAGES %}|
 
 ### 4000 Hardcore Achievements Earned
 
