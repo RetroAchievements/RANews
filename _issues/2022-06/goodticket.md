@@ -216,7 +216,7 @@ In your ping or DM, place a link to the quality ticket you made, which mode you 
 
 This document is intended to give directions on how to submit a quality ticket, give insight in a Developer’s point of view when handling tickets and create a general understanding of what each piece of information means behind its initial presentation.
 
-The document is my personal view on a quality ticket. Although I personally think certains aspects of the process mentioned above should be mandatory, such as presenting a hash and an accurate description, these are not, nor am I trying to imply that they are. 
+The document is my personal view on a quality ticket. Although I personally think certain aspects of the process mentioned above should be mandatory, such as presenting a hash and an accurate description, these are not, nor am I trying to imply that they are. 
 
 I hope the document can lead to a healthy discussion on both forums and Discord to see how we can improve the ticket system to better submit and handle tickets.
 

@@ -9,7 +9,7 @@ toc: true
 
 ## Intro
 
-This month we have a new page being added to RANews in the form of Milestones! Look in these lists to find where you land in all the users or your friends on RetroAchievements. It's not only our players here on RetroAchievements that have milestones to reach. Below you will find below lists of all developers who qualified this month for the following milestones: achievements created, points awarded to users, achievements awarded to users, code notes created, and also leaderboards created.
+This month we have a new page being added to RANews in the form of Milestones! Look in these lists to find where you land in all the users or your friends on RetroAchievements. It's not only our players here on RetroAchievements that have milestones to reach. Below you will find a list of all developers who qualified this month for the following milestones: achievements created, points awarded to users, achievements awarded to users, code notes created, and also leaderboards created.
 
 
 ## Points Overall

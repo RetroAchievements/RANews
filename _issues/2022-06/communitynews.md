@@ -30,7 +30,7 @@ We've officially launched our PS2 Rollout and figured we might as well let every
 PS2 coming to RetroAchievements is a thing thanks to [Stenzek](https://github.com/stenzek) on the PCSX2 standalone team.
 
 **There is currently no ETA for PS2 support! However, many developers are actively working on achievement sets!
-Developers are using an early QT build of the PCSX2 standalone, which can be kept up with [here](https://github.com/PCSX2/pcsx2/pull/5915)..**
+Developers are using an early QT build of the PCSX2 standalone, which can be kept up with [here](https://github.com/PCSX2/pcsx2/pull/5915).**
 
 **More info on support will be posted here as we go.** 
 
@@ -79,7 +79,7 @@ Developers are using an early QT build of the PCSX2 standalone, which can be kep
 - Support for `#SAVEDISK:` m3u extension
 
 ## RetroArch Updates
-- Beetle Saturn Core Udpated: Support on Android devices & new update part of the buildbot!
+- Beetle Saturn Core Updated: Support on Android devices & new update part of the buildbot!
 
 # Site Updates
 ## RAWeb Version 1.85
@@ -142,7 +142,7 @@ Developers are using an early QT build of the PCSX2 standalone, which can be kep
 - Subset approved for [Nayuta no Kiseki [Subset - Bonus]](https://retroachievements.org/game/19563).
 - Revision vote approved for decisiding the fate of [They're just codes, lass!](https://retroachievements.org/achievement/51076).
 - [Centuries-Old Knowledge](https://retroachievements.org/achievement/21488) deemed as a welcome concept.
-- [Dragon](https://retroachievements.org/achievement/7482) deemed as a welcome concept and rescord vote passed to increase score form 25 to 50 points.
+- [Dragon](https://retroachievements.org/achievement/7482) deemed as a welcome concept and rescored vote passed to increase score form 25 to 50 points.
 - Demoted [AAAARRGHH](https://retroachievements.org/achievement/26403) for [Unwelcome Concept #4](https://docs.retroachievements.org/Developers-Code-of-Conduct/#unwelcome-concepts).
 - Demoted [Hole In... Never](https://retroachievements.org/achievement/23408) for [Unwelcome Concept #4](https://docs.retroachievements.org/Developers-Code-of-Conduct/#unwelcome-concepts).
 
@@ -203,7 +203,7 @@ Developers are using an early QT build of the PCSX2 standalone, which can be kep
 <br><br>
 
 <a class="gameicon-link" href="https://retroachievements.org/game/15939" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049337.png" alt="[DevQuest 010] It Takes Two"> <span>[DevQuest 010] It Takes Two</span></a>
-- {% rauserpic pinguupinguu %} for [Victorious: Taking The Lead (Nintendo DS)](http://retroachievements.org/game/18370) with {% rauserpic SporyTike %} & [Sega Smash Pack - Volume 1 (Dreamcast)](https://retroachievements.org/game/19152) with {% rauserpic televandalist %} {% rauserpic ladynadiad %} {% rauserpic KingS1zzle %} {% rauserpic TheMysticalOne %} {% rauserpic SnowPin %} {% rauserpic soltyd %} {% rauserpic BigWeedSmokerMan %} {% rauserpic wolfman2000 %} {% rauserpic BahamutVoid %} {% rauserpic SitnX2 %} {% rauserpic SporyTike %}
+- {% rauserpic pinguupinguu %} for [Victorious: Taking The Lead (Nintendo DS)](http://retroachievements.org/game/18370) with {% rauserpic SporyTike %} & [Sega Smash Pack - Volume 1 (Dreamcast)](https://retroachievements.org/game/19152) with {% rauserpic televandalist %}, {% rauserpic ladynadiad %}, {% rauserpic KingS1zzle %}, {% rauserpic TheMysticalOne %}, {% rauserpic SnowPin %}, {% rauserpic soltyd %}, {% rauserpic BigWeedSmokerMan %}, {% rauserpic wolfman2000 %}, {% rauserpic BahamutVoid %}, {% rauserpic StingX2 %} & {% rauserpic SporyTike %}
 <br><br>
 
 <a class="gameicon-link" href="https://retroachievements.org/game/1280" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049821.png" alt="[DevQuest 011] Happy Birthday RA!"> <span>[DevQuest 011] Happy Birthday RA!</span></a>

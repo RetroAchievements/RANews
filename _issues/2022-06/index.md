@@ -11,13 +11,18 @@ toc_float: true
 ## Intro
 Welcome to RANews, your #1 source for everything RetroAchievements.
 
+## Community Submitted Content
+RANews thrives on community submitted content, Wish This Set, Play This Set and RAdvantage are only possibly if you allow it to be and send us your submissions for those articles. If you have any contributions that you would like to see featured in these articles, please send them in a direct message to {% rauser RANews %}.
+
+We are also looking for submissions for a new planned series where your RA stories can be shared with the rest of the community. As achievement hunters, we're always seeking new mountains to conquer. We crave that dopamine rush from finally earning that tough achievement, finishing a lengthy grind, or acquiring a rare drop. We at the RANews team want to give you the opportunity to share that excitement! Write at least one paragraph sharing the story of one of your most hype gaming moments, send it in a direct message to {% rauser RANews %}, and you may appear in an upcoming issue.
+
 
 ## Quick Overview
 What to expect from this issue.
 
 
 ### The Anatomy Of A Good Ticket
-Wondering when to write tickets and what to put into them? {% rauser voiceofautumn %} has you covered going over everything that makes a a great ticket.
+Wondering when to write tickets and what to put into them? {% rauser voiceofautumn %} has you covered going over everything that makes a great ticket.
 
 
 ### This Month In Retro
@@ -95,7 +100,7 @@ In this issue {% rauser SporyTike %} brings a new Spot the Difference challenge 
 
 
 ### RASpotlight
-Get the know {% rauser Searo %} with the latest RASpotlight by {% rauser StingX2 %}.
+Get to know {% rauser Searo %} with the latest RASpotlight by {% rauser StingX2 %}.
 
 
 ## How to Contribute with RANews

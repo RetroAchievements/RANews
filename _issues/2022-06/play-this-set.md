@@ -70,7 +70,7 @@ As an Arcade Racer, the game is plenty of fun on its own to complete - A decent 
 * Set by: {% rauserpic SporyTike %}, {% rauserpic SlashTangent %}
 * Write-up by: {% rauserpic RaphMec %}
 
-Where to start with this gem? This game literally removes stress as if it were vacuuming it away. No trace left of it whatsoever. From its slow pace, to its calming music (I’m looking at you, 8pm music), to its fruit harvesting, 500+ item collecting, bug hunting, fishing and fossil digging, to its quirky inhabitants and slow progression as you chip away little by little, day by day at repaying your mortgage, filling up your museum, earning neighbours' pictures and trying to complete your catalog.
+Where to start with this gem? This game literally removes stress as if it were vacuuming it away. No trace left of it whatsoever. From its slow pace, to its calming music (I’m looking at you, 8pm music), to its fruit harvesting, 500+ item collecting, bug hunting, fishing and fossil digging, to its quirky inhabitants and slow progression as you chip away little by little, day by day at repaying your mortgage, filling up your museum, earning neighbor's pictures and trying to complete your catalog.
 
 For a big game, a worthy huge RA set courtesy of {% rauserpic SporyTike %}, finally giving players the incentive to work towards 100% in this game which will require doing certain tasks on specific days, weeks and months of the year. A true challenge that is not to be rushed but to be enjoyed as you embark on the journey for the next year (or two).
 

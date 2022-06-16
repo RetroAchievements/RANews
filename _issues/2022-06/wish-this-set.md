@@ -47,7 +47,7 @@ I asked my parents for Burnout and they accidentally gave me a copy of FlatOut 2
 
 | Game                                                                                                                                                                                                                                       | Console   | Genre                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/19533" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Cool Cool Toon"> <span>Cool Cool Toon</span></a> | Dreamcast | [Rhythm](https://retroachievements.org/game/8745) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/19533" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059369.png" alt="Cool Cool Toon"> <span>Cool Cool Toon</span></a> | Dreamcast | [Rhythm](https://retroachievements.org/game/8745) |
 
 * Write-up by: {% rauserpic freezestar %}
 

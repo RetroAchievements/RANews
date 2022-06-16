@@ -15,7 +15,7 @@ This month, the RANews team is spotlighting a master of leaderboards, super jump
 
 #### So first off, tell the readers about who you are, and what you currently do at RA
 
-Hey I'm Searo, I'm really just another retro game lover that enjoys playing games and helping out where I can. Since I have a hard time focusing on one thing at a time, I hop around between devving sets, reviewing Jr. Dev sets, working on site updates, and other various things. I also am currently hosting the Leaderboard of the Month event in an effort to encourage more leaderboard participation.
+Hey I'm {% rauser Searo %}, I'm really just another retro game lover that enjoys playing games and helping out where I can. Since I have a hard time focusing on one thing at a time, I hop around between devving sets, reviewing Jr. Dev sets, working on site updates, and other various things. I also am currently hosting the Leaderboard of the Month event in an effort to encourage more leaderboard participation.
 
 #### You are known by your strange Goku like avatar, whats the origin behind it and are you a big fan of Dragon Ball still?
 
@@ -29,11 +29,11 @@ I've also got a few more planned updates such as adding leaderboards to the tick
 
 The easiest case of where leaderboards can improve replayability is, if you're playing a game and you reach the highest score or fastest time an achievement requires you to get then you usually stop playing or trying to push yourself further because there isn't much need to. Leaderboards come in to play here and can help players get the extra reason to continue pushing themselves to show off they are the best at some game or task. They are also really helpful for developers to see if their sets are fairly balanced depending on if their scores/times are way under or above what players are getting.
 
-My favorite moments with leaderboards though are when there are at least one or two other people that you actually compete with back and forth on a specific game, taking the #1 spot back from each other and seeing how far you can push yourself. My first case of this was in Böbl where MrOwnership, televandalist and myself were all competing on the speedrun leaderboard over a few days. Then again recently with Not Just a Hat Rack competing with timenoe where we both beat the old Hattery of Fame record and pushed the speedrun to pretty crazy limits (at least timenoe did beating the game with 0 deaths).
+My favorite moments with leaderboards though are when there are at least one or two other people that you actually compete with back and forth on a specific game, taking the #1 spot back from each other and seeing how far you can push yourself. My first case of this was in [Böbl](https://retroachievements.org/game/4902) where {% rauser MrOwnership %}, {% rauser televandalist %} and myself were all competing on the speedrun leaderboard over a few days. Then again recently with [Not Just a Hat Rack](https://retroachievements.org/game/8689) competing with {% rauser timenoe %} where we both beat the old Hattery of Fame record and pushed the speedrun to pretty crazy limits (at least {% rauser timenoe %} did beating the game with 0 deaths).
 
 #### What are your favorite kind of games?
 
-I really enjoy RPGs, which are what my childhood was mostly filled with playing- Chrono Trigger being one of my all-time favorites. I also enjoy Shmups, and while I always enjoyed platformers I somewhat recently started diving into playing kaizo-beginner SMW hacks, which have been a lot of fun.
+I really enjoy RPGs, which are what my childhood was mostly filled with playing- [Chrono Trigger](https://retroachievements.org/game/319) being one of my all-time favorites. I also enjoy Shmups, and while I always enjoyed platformers I somewhat recently started diving into playing kaizo-beginner SMW hacks, which have been a lot of fun.
 
 #### What do you want to see in the future come to RA?
 
@@ -43,21 +43,21 @@ I'd like to see a lot of the things for the site that have been talked about bef
 - Tickets for leaderboards and other things like typos and cleanup. 
 - Better advertising and implementation for events on the site as opposed to just AotW. 
 
-The good news is that, as seen in luchaos' recent community post, there will be a new direction towards V2 which will be incremental and allow for these kinds of features to come out sooner. I'll also be doing what I can to contribute towards getting new features added when I can, for example I'm currently working on the softcore point change that was discussed in the past to separate them from hardcore points.
+The good news is that, as seen in {% rauser luchaos %}' recent community post, there will be a new direction towards V2 which will be incremental and allow for these kinds of features to come out sooner. I'll also be doing what I can to contribute towards getting new features added when I can, for example I'm currently working on the softcore point change that was discussed in the past to separate them from hardcore points.
 
 #### What is your proudest mastery on site?
 
-I have a few masteries that I felt really good about achieving. Mega Man X was a really fun one to obtain with the most fun one being learning the Wolf Sigma fight well enough to be able to do it without any sub tanks, health upgrades or body armor. Super Castlevania IV because of the deathless run achievement which took me a couple of weeks of attempting a run or two every now and then to prevent rushed attempts. Took me well over 30 runs before I finally achieved that one which felt really good.
+I have a few masteries that I felt really good about achieving. [Mega Man X](https://retroachievements.org/game/637) was a really fun one to obtain with the most fun one being learning the Wolf Sigma fight well enough to be able to do it without any sub tanks, health upgrades or body armor. [Super Castlevania IV](https://retroachievements.org/game/562) because of the deathless run achievement which took me a couple of weeks of attempting a run or two every now and then to prevent rushed attempts. Took me well over 30 runs before I finally achieved that one which felt really good.
 
-Lastly I'd have to say SMW Learn 2 Kaizo because it was the first kaizo-beginner hack that I completed and the final level in it puts together all of the tricks you learn throughout the game and it felt really nice to be able to pull that off as a newcomer to kaizo.
+Lastly I'd have to say [SMW Learn 2 Kaizo](https://retroachievements.org/game/12736) because it was the first kaizo-beginner hack that I completed and the final level in it puts together all of the tricks you learn throughout the game and it felt really nice to be able to pull that off as a newcomer to kaizo.
 
 #### What is one mastery you want that just seems out of reach?
 I actually have a few masteries that have been out of reach for me, but I feel I can earn them with some more practice and dedication. 
 
-- Kuru Kuru Kururin to get the "Master" Rank by beating all of the top times in every level which some have really tight times. 
-- Mega Man 2: The Power Fighters to beat Yellow Devil without being damaged (he's really tough to figure out). 
-- Snake Rattle n Roll to beat the game (the final moon level is really tough!). 
-- Super Smash Bros to do the 1P Very Hard 1 Stock No Continue run which I usually fail on the polygon fight. 
+- [Kuru Kuru Kururin](https://retroachievements.org/game/5377) to get the "Master" Rank by beating all of the top times in every level which some have really tight times. 
+- [Mega Man 2](https://retroachievements.org/game/1451): The Power Fighters to beat Yellow Devil without being damaged (he's really tough to figure out). 
+- [Snake Rattle n Roll](https://retroachievements.org/game/1958) to beat the game (the final moon level is really tough!). 
+- [Super Smash Bros.](https://retroachievements.org/game/10082) to do the 1P Very Hard 1 Stock No Continue run which I usually fail on the polygon fight. 
 
 All of these seem doable, but are ones where I just have one or two achievements preventing mastery.
 
