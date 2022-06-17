@@ -312,7 +312,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   - All 25 users had between 3 and 14 new mastery awards this month.
   - A total of 172 new mastery awards combined by just the top 25.
   - 7 new users joined the top 25.
-- {% rauserpic Sylrifaide %} takes the top spot with 14 new mastery awards this month.
+- {% rauserpic Sylrifaide %} takes the top spot with 14 new mastery awards this month and now has all of the 32 Pokemon Mini sets mastered!!!
 - {% rauserpic BlotchJBMR %} moves into a 4-way tie for 8th place with 9 new mastery awards this month.
 - {% rauserpic StingX2 %}, {% rauserpic Jenettebaghead %}, {% rauserpic IronInvoker47 %}, {% rauserpic Beulu79 %}, {% rauserpic bman7 %}, {% rauserpic CerinianShadowGaming %} & {% rauserpic DigitalDusk %} have all made it into the top 25.
 
