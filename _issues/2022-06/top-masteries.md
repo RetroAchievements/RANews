@@ -236,7 +236,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 <p align="center">
   <img src="img/TopMasteries/SEGA_MASTER_SYSTEM.png" />
 </p>
-- {% rauserpic Jungon %} remains in 1st place 64 total mastery awards.
+- {% rauserpic Jungon %} remains in 1st place with 64 total mastery awards.
 - {% rauserpic Nanashi %} jumps up 7 spots into 6th place with 7 new mastery awards this month.
 - {% rauserpic Andrey199650 %} has made it into the top 25 and is in a 6-way tie for 15th place.
 
@@ -245,7 +245,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 <p align="center">
   <img src="img/TopMasteries/MEGA_DRIVE.png" />
 </p>
-- {% rauserpic DUT %} remains in 1st place 117 total mastery awards.
+- {% rauserpic DUT %} remains in 1st place with 117 total mastery awards.
 - {% rauserpic Jungon %} moves into 5th place with 2 new mastery awards this month.
 
 ### Nintendo 64
