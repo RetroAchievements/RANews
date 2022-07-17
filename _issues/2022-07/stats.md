@@ -8,7 +8,7 @@ toc: true
 ---
 
 # Intro
-Check out the stats from the month of May.
+Check out the stats from the month of June.
 
 # General Stats
 Check out some general stats from this month.

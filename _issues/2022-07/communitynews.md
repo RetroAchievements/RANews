@@ -92,6 +92,7 @@ More information can be found [here](https://retroachievements.org/viewtopic.php
 [Full Changelog](https://github.com/RetroAchievements/RAWeb/releases/tag/1.89.0)
 
 # Quality Assurance
+- {% rauserpic DoctorV %} added to the QA Team.
 - Sets approved for DQ2 qualification:
   - [Game & Watch Gallery 4](https://retroachievements.org/game/766)
   - [Gauntlet Legends](https://retroachievements.org/game/10268)

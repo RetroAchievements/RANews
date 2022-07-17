@@ -20,7 +20,7 @@ We are also looking for submissions for a new planned series where your RA stori
 ## Quick Overview
 What to expect from this issue.
 
-## Community Subset
+### Community Subsets
 We have 3 subsets that are completely driven by community input. Create a Wario Ware microgame, Irritating Stick course, or Armored Core custom arena and see it become an achievement in the subsets.
 
 
@@ -29,14 +29,14 @@ We have 3 subsets that are completely driven by community input. Create a Wario 
 
 
 ### Monthly Stats
-We have collected a bunch of stats from May for your enjoyment.
+We have collected a bunch of stats from June for your enjoyment.
 
 
 ### Milestones
 User and developer milestones for various categories.
 
 
-### --Current Events
+### Current Events
 List of running events in the RetroAchievements scene that are still open to join.
 
 
@@ -107,3 +107,18 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
+| {% rauserpic Akai %}             | {% rauserpic BahamutVoid %}       | {% rauserpic BatFastardJordy %} |
+| {% rauserpic Bendyhuman %}       | {% rauserpic BloodParade %}       | {% rauserpic Brandovsky %}      |
+| {% rauserpic Bryan1150 %}        | {% rauserpic Cadaxar %}           | {% rauserpic CassetteCobra %}   |
+| {% rauserpic Daroachie %}        | {% rauserpic deng %}              | {% rauserpic DevCompliance%}    |
+| {% rauserpic Enagonius %}        | {% rauserpic Etron %}             | {% rauserpic Falcus %}          |
+| {% rauserpic GalacticSpear %}    | {% rauserpic Gamechamp %}         | {% rauserpic Glendaal %}        |
+| {% rauserpic HolyShinx %}        | {% rauserpic Hotscrock %}         | {% rauserpic JAM %}             |
+| {% rauserpic kewlpinguino %}     | {% rauserpic Krylan %}            | {% rauserpic Lonoke31 %}        |
+| {% rauserpic MrBird %}           | {% rauserpic MrOwnership %}       | {% rauserpic Nepiki %}          |
+| {% rauserpic NickGoat1990 %}     | {% rauserpic Nydaxn %}            | {% rauserpic pinguupinguu %}    |
+| {% rauserpic QATeam %}           | {% rauserpic Raykusen %}          | {% rauserpic Retrokaiser %}     |
+| {% rauserpic Rohsiph %}          | {% rauserpic SporyTike %}         | {% rauserpic StingX2 %}         |
+| {% rauserpic suspect15 %}        | {% rauserpic TheForeseenArcade %} | {% rauserpic TheJohanx %}       |
+| {% rauserpic TheRealBillHicks %} | {% rauserpic timenoe %}           | {% rauserpic WanderingHeiho %}  |
+| {% rauserpic Xymjak %}           |                                   |                                 |

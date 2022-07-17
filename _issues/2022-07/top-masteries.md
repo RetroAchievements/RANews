@@ -290,7 +290,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 <p align="center">
   <img src="img/TopMasteries/PLAYSTATION_PORTABLE.png" />
 </p>
-- {% rauserpic minibt %} remain in 1st with 24 total mastery awards.
+- {% rauserpic minibt %} remain in 1st with 32 total mastery awards.
 - {% rauserpic WanderingHeiho %} moves into 3rd place with 1 new mastery award this month.
 - {% rauserpic Henxorr %} has made it into the top 25 and is in a 6-way tie for 11th place.
 - {% rauserpic Aeliana %} has made it into the top 25 and is in a 4-way tie for 21st place.
