@@ -91,7 +91,7 @@ The following users and devs listed here reached a new milestone last month.
 ### 500,000 Retro Points
 
 |{% rauserpic RomaKiev %}|{% rauserpic PKRadash %}|{% rauserpic Glendaal %}|
-|{% rauserpic FabinSS %}{% rauserpic donutweegee %}|{% rauserpic dcmpinguim %}|
+|{% rauserpic FabinSS %}|{% rauserpic donutweegee %}|{% rauserpic dcmpinguim %}|
 |{% rauserpic AuburnRDM %}|||
 
 ### 250,000 Retro Points

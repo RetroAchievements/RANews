@@ -87,7 +87,7 @@ As someone that loves the platforming genre, I love the Klonoa series. I actuall
 
 | Game                                                                                                                                                                                                                                                                           | Console          | Genre             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/16638" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="\~Hack~ Touhoumon Insane Version"> <span>\~Hack~ Touhoumon Insane Version</span></a> | Game Boy Advance | Role-Playing Game |
+| <a class="gameicon-link" href="https://retroachievements.org/game/16638" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/060205.png" alt="\~Hack~ Touhoumon Insane Version"> <span>\~Hack~ Touhoumon Insane Version</span></a> | Game Boy Advance | Role-Playing Game |
 
 * Writeup by: {% rauserpic deng %}
 
@@ -104,7 +104,7 @@ Admittedly, I'm not too familiar with the Touhou series, or even the popular ser
 
 | Game                                                                                                                                                                                                                                                    | Console    | Genre                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/2533" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Tekken Card Challenge"> <span>Tekken Card Challenge</span></a> | WonderSwan | Collectible Card Game |
+| <a class="gameicon-link" href="https://retroachievements.org/game/2533" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/060206.png" alt="Tekken Card Challenge"> <span>Tekken Card Challenge</span></a> | WonderSwan | Collectible Card Game |
 
 * Writeup by: {% rauserpic BloodParade %}
 
@@ -125,7 +125,7 @@ In my opinion it's definitely a beast worth taking a look at, with enough conten
 
 | Game                                                                                                                                                                                                                                          | Console | Genre                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/1205" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Super Battleship"> <span>Super Battleship</span></a> | SNES    | [Strategy](https://retroachievements.org/game/3074) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/1205" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/060207.png" alt="Super Battleship"> <span>Super Battleship</span></a> | SNES    | [Strategy](https://retroachievements.org/game/3074) |
 
 * Writeup by: {% rauserpic TheRealBillHicks %}
 
@@ -146,7 +146,7 @@ This isn't a particularly difficult game but can be a decent challenge at times 
 
 | Game                                                                                                                                                                                                                                           | Console     | Genre                                               |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/16695" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Dream Pinball 3D"> <span>Dream Pinball 3D</span></a> | Nintendo DS | [Pinball](https://retroachievements.org/game/13449) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/16695" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/060208.png" alt="Dream Pinball 3D"> <span>Dream Pinball 3D</span></a> | Nintendo DS | [Pinball](https://retroachievements.org/game/13449) |
 
 * Writeup by: {% rauserpic TheForeseenArcade %}
 
@@ -171,7 +171,7 @@ pinball game on RetroAchievements when taking account the six tables and a missi
 
 | Game                                                                                                                                                                                                                                                                          | Console              | Genre                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------ |
-| <a class="gameicon-link" href="https://retroachievements.org/game/3199" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Tony Hawk's Underground 2: Remix"> <span>Tony Hawk's Underground 2: Remix</span></a> | PlayStation Portable | Extreme Sports - Skateboarding |
+| <a class="gameicon-link" href="https://retroachievements.org/game/3199" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/060209.png" alt="Tony Hawk's Underground 2: Remix"> <span>Tony Hawk's Underground 2: Remix</span></a> | PlayStation Portable | Extreme Sports - Skateboarding |
 
 * Write-up by: {% rauserpic Daroachie %}
 
@@ -190,7 +190,7 @@ I think more people should be aware of the fact that this game not only exists b
 
 | Game                                                                                                                                                                                                                                                        | Console     | Genre       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/3843" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Mickey's Wild Adventure"> <span>Mickey's Wild Adventure</span></a> | PlayStation | Platforming |
+| <a class="gameicon-link" href="https://retroachievements.org/game/3843" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/060210.png" alt="Mickey's Wild Adventure"> <span>Mickey's Wild Adventure</span></a> | PlayStation | Platforming |
 
 * Write-up by: {% rauserpic GalacticSpear %}
 
