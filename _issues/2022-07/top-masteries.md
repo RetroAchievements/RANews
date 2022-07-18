@@ -344,7 +344,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 <p align="center">
   <img src="img/TopMasteries/WASM-4.png" />
 </p>
-- {% rauserpic danibodom %} remains in 1st with 26 total mastery awards.
+- {% rauserpic AuburnRDM %} remains in 1st with 26 total mastery awards.
 - {% rauserpic MaddieKittyTV %} moves into 3rd place with 2 new mastery awards this month.
 {% rauserpic Maximdraco %}, {% rauserpic NEOMAR %}, {% rauserpic YouGotHitByGunner %}, {% rauserpic Dominick %} & {% rauserpic GregHouse007 %} have all made it into the top 25.
 

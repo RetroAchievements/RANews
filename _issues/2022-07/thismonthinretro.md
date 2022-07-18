@@ -138,9 +138,9 @@ The RetroAchievements set will test not only if you can beat the game, but if yo
 
 Shall we stick to licensed games for the time being? Another fairly well-known series from the early 90s saw a platforming game on the Famicom, namely Samurai Pizza Cats!
 
-| Game                                                                         |
-| ---------------------------------------------------------------------------- |
-| ![](https://retroachievements.org/Images/049844.png) [Kyatto Ninden Teyandee | Samurai Pizza Cats (NES)]( https://retroachievements.org/game/4829) |
+| Game                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://retroachievements.org/Images/049844.png) [Kyatto Ninden Teyandee \| Samurai Pizza Cats (NES)]( https://retroachievements.org/game/4829) |
 
 |                  |                   |
 | ---------------- | ----------------- |
