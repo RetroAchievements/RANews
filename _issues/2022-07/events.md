@@ -122,14 +122,22 @@ These events are open to any community member who wants to participate.
 
 ## Daily DistRActions
 
-- Forum topic: <https://retroachievements.org/viewtopic.php?t=14532>
-- Period: December 2021 - Current
+- Forum topic: <https://retroachievements.org/viewtopic.php?t=15870>
+- Period: The event has concluded
 - Host: {% rauserpic Bendyhuman %}
-- Currently 1st place of Season 2(with 90 points):
+- Season 2 winners (with 108 points):
+  - {% rauserpic 14ausher %}
   - {% rauserpic Akai %}
+  - {% rauserpic FlamingDoom %}
   - {% rauserpic Ideasds %}
+  - {% rauserpic MatheusBrazuca85 %}
+  - {% rauserpic msdmario %}
   - {% rauserpic NEOMAR %}
   - {% rauserpic Olafur %}
+  - {% rauserpic roukanumachi %}
+  - {% rauserpic ruuzilla %}
+  - {% rauserpic ShadwSonic %}
+  - {% rauserpic Wayne121 %}
 
 <a href="#top">:top:</a>
 
@@ -184,15 +192,15 @@ The goal was to find all 10 differences between different parallel universes.
   - 2022:
     - June: {% rauserpic Ryudo %}
     - May: {% rauserpic TheFetishMachine %}
-    - April: {% rauserpic TheFetishMachine %}	
-    - March: {% rauserpic TheFetishMachine %}	
-    - February: {% rauserpic Tayadaoc %}	
-    - January: {% rauserpic Tayadaoc %}	
+    - April: {% rauserpic TheFetishMachine %}
+    - March: {% rauserpic TheFetishMachine %}
+    - February: {% rauserpic Tayadaoc %}
+    - January: {% rauserpic Tayadaoc %}
   - 2021:
-    - December: {% rauserpic TheFetishMachine %}	
-    - November: {% rauserpic roli300 %}	
-    - October: {% rauserpic roli300 %}	
-    - September: {% rauserpic Adenothe %}	
+    - December: {% rauserpic TheFetishMachine %}
+    - November: {% rauserpic roli300 %}
+    - October: {% rauserpic roli300 %}
+    - September: {% rauserpic Adenothe %}
     - August: {% rauserpic Nevermond12 %} & {% rauserpic TheFetishMachine %}
     - July: {% rauserpic blendedsea %}
     - June: {% rauserpic Burgins %}

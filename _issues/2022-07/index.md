@@ -20,6 +20,7 @@ We are also looking for submissions for a new planned series where your RA stori
 ## Quick Overview
 What to expect from this issue.
 
+
 ### Community Subsets
 We have 3 subsets that are completely driven by community input. Create a Wario Ware microgame, Irritating Stick course, or Armored Core custom arena and see it become an achievement in the subsets.
 

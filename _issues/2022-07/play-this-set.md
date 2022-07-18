@@ -111,7 +111,7 @@ Do you know what original Rock n' Roll Racing is? It's a quite popular game to p
 
 A bit of history: a few years ago, romhackers were starting to research this game to see what can be changed, what can be added, etc. Most of the code (if not all) was disassembled, resulting in this hack, updating over time for several years.
 
-So what make this hack special? New planets (old ones still remain), new cars. new upgrades for them, new characters, new co-op modes (including co-op with AI), 2 new starting bonuses for characters, new difficulty levels with remakes of old ones, and more. It looks so advanced that you can basically call it a new game, like Rock n' Roll Racing 2. Blizzard should really learn how to make remakes, not just sell the old game emulated and overpriced for their anniversary.
+So what makes this hack special? New planets (old ones still remain), new cars. new upgrades for them, new characters, new co-op modes (including co-op with AI), 2 new starting bonuses for characters, new difficulty levels with remakes of old ones, and more. It looks so advanced that you can basically call it a new game, like Rock n' Roll Racing 2. Blizzard should really learn how to make remakes, not just sell the old game emulated and overpriced for their anniversary.
 
 The set itself was made because by request of hack creator. He gave a lot of ideas for the set and what he'd like to see there. It's basically counts for "game dev is also set dev" with help and guidance of outstanding dev {% rauserpic DarknessZedzi %}. If you like the original game, but want to see the new stuff and love challenges, then you shouldn't miss this one.
 
