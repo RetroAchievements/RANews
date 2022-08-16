@@ -191,7 +191,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/GAME_BOY_COLOR.png" />
 </p>
 - {% rauserpic pitapocket17 %} remains in 1st place with 1 new mastery awards this month
-- {% rauserpic YahwehTzVaoth %} has made it into the top 25 and is tied for 3rd place.
+- {% rauserpic YahwehTzVaoth %} has made it into the top 25 and is tied for 23rd place.
 
 ### Game Gear
 

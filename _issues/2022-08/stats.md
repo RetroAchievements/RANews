@@ -7,7 +7,7 @@ author: MrOwnership
 toc: true
 ---
 
-**NOTE**: _Data points used are taken from the fist of the month and therefor point values reflected are prior to the softcore point change. Updated values will be refelcted in next months issue._
+**NOTE**: _Data points used are taken from the fist of the month and therefor point values reflected are prior to the softcore point change. Updated values will be reflected in next months issue._
 
 # Intro
 Let's start off with something new. We took monthly intervals of RA Points by the current top 50 players and plotted them in this fancy [Flourish](https://flourish.studio/) graph.
@@ -18,7 +18,7 @@ Let's start off with something new. We took monthly intervals of RA Points by th
 
 The interactive version of this graph can be found [here](https://public.flourish.studio/visualisation/10845940/).
 
-In the top 50 but don't see yourself in the above graph? No worries, we have an version that displays all 50 plyers [here](https://public.flourish.studio/visualisation/10791918/). 
+In the top 50 but don't see yourself in the above graph? No worries, we have an version that displays all 50 players [here](https://public.flourish.studio/visualisation/10791918/). 
 
 # General Stats
 Check out some general stats from this month.

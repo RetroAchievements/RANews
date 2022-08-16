@@ -29,14 +29,14 @@ If you have any question(s), please reach out to {% rauser voiceofautumn %}.
   <img src="img/CommunityNews/FairchildChannelF.png" />
 </p>
 
-Support for Fairchild Channel F has been rolloed out. You can use the **FreChaF** core and earn achievmevents for the 21 [currently supported sets](https://retroachievements.org/gameList.php?c=57).
+Support for Fairchild Channel F has been rolled out. You can use the **FreChaF** core and earn achievements for the 21 [currently supported sets](https://retroachievements.org/gameList.php?c=57).
 
 ## Mega Duck
 <p align="center">
   <img src="img/CommunityNews/MegaDuck.png" />
 </p>
 
-Support for Mega Duck has been rolloed out. You can use the **SameDuck** core and earn achievmevents for the 20 [currently supported sets](https://retroachievements.org/gameList.php?c=69).
+Support for Mega Duck has been rolled out. You can use the **SameDuck** core and earn achievements for the 20 [currently supported sets](https://retroachievements.org/gameList.php?c=69).
 
 ##  PlayStation 2
 While there is no ETA on the release of PlayStation 2 support, that hasn't stopped the development team from working on sets to make the rollout the biggest yet. Take a look at the current sets that will be available on PlayStation 2 release.

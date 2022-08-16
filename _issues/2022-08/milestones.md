@@ -7,7 +7,7 @@ author: Cadaxar
 toc: true
 ---
 
-**NOTE**: _Data points used are taken from the fist of the month and therefor point values reflected are prior to the softcore point change. Updated values will be refelcted in next months issue._
+**NOTE**: _Data points used are taken from the fist of the month and therefor point values reflected are prior to the softcore point change. Updated values will be reflected in next months issue._
 
 ## Intro
 
