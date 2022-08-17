@@ -96,9 +96,30 @@ While there is no ETA on the release of PlayStation 2 support, that hasn't stopp
 [Full Changelog](https://github.com/RetroAchievements/RAWeb/releases/tag/1.89.1)
 
 # Quality Assurance
-
+* Various achievement descriptions updated for [Waku Waku 7](https://retroachievements.org/game/11797).
+* Approved for DQ2:
+  * [The Powerpuff Girls: Bad Mojo Jojo](https://retroachievements.org/game/4671)
+  * [Streets of Rage 2](https://retroachievements.org/game/3)
+  * [Pokemon Pinball: Ruby & Sapphire](https://retroachievements.org/game/789)
+* Various discussions regarding game naming and tagging.
+  * If `~Demo~` or `~Prototype~` tags are used alongside `~Hack~` or `~Homebrew~`, they they should comne afterwards.
+  * In cases where a game is unlicensed and is actually just a hack of another game, then `~Hack~` would be used instead of `~Unlicensed~`.
+  * Move A/An/The articles to the back of a title when there is a pipe separator between regional titles.
+  * Do not link bootlet/pirate games to the hubs for their series.
+  * When both English and Japanese titles are used in an RA entry's title, the Japanese title should only be first when the game was never officially released in English, making whatever English title used an unofficial title.
 
 # Developer Compliance
+
+* Approved sets:
+  * [~Hack~ Pokemon Emerald Version: Party Randomizer Plus](https://retroachievements.org/game/17757)
+  * [~Hack~ Dragoon X Omega II - Easy Mode](https://retroachievements.org/game/20271)
+  * [~Demo~ Ridge Racer Turbo](https://retroachievements.org/game/20232)
+  * [Armored Core: Master of Arena](https://retroachievements.org/game/8148) (Community submitted leaderboards)
+* [Dragon Ball Z: The Legacy of Goku II](https://retroachievements.org/game/759) passed to DevQuest team for DQ13 missing content.
+* [Tales of Phantasia](https://retroachievements.org/game/2209) reauthored to {% rauser Ryudo %}.
+* Demoted the following after a community vote:
+  * [Picross Master](https://retroachievements.org/achievement/37330)
+  * [Strain of Gems](https://retroachievements.org/achievement/39021)
 
 
 # DevQuest
