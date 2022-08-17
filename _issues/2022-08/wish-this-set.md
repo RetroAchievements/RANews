@@ -32,7 +32,7 @@ The story doesn't overstay it's welcome; it is very charming, like watching a 90
 
 | Game                                                                                                                                                                                                                                     | Console | Genre             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/16403" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Final Fantasy"> <span>Final Fantasy</span></a> | MSX     | Role-Playing Game |
+| <a class="gameicon-link" href="https://retroachievements.org/game/16403" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061072.png" alt="Final Fantasy"> <span>Final Fantasy</span></a> | MSX     | Role-Playing Game |
 
 * Write-up by: {% rauserpic DoomYoshi %}
 
@@ -53,7 +53,7 @@ For more information on Final Fantasy games sorted by release order, check out [
 
 | Game                                                                                                                                                                                                                               | Console     | Genre                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/14937" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Picross DS"> <span>Picross DS</span></a> | Nintendo DS | [Picross](https://retroachievements.org/game/4212) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/14937" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061073.png" alt="Picross DS"> <span>Picross DS</span></a> | Nintendo DS | [Picross](https://retroachievements.org/game/4212) |
 
 * Write-up by: {% rauserpic TheFetishMachine %}
 
@@ -183,7 +183,7 @@ Overall, not only is it an amazing and extremely fun game, but it has some fanta
 
 | Game                                                                                                                                                                                                                                               | Console              | Genre    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/16130" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="No Heroes Allowed!"> <span>No Heroes Allowed!</span></a> | PlayStation Portable | Strategy |
+| <a class="gameicon-link" href="https://retroachievements.org/game/16130" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061074.png" alt="No Heroes Allowed!"> <span>No Heroes Allowed!</span></a> | PlayStation Portable | Strategy |
 
 * Write-up by: {% rauserpic Sines %}
 
