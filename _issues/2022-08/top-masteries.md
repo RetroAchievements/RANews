@@ -299,7 +299,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 <p align="center">
   <img src="img/TopMasteries/PC-8000_8800.png" />
 </p>
-- {% rauserpic Olafur %} remains in 1st place with 10 total mastery awards.
+- {% rauserpic guineu %} remains in 1st place with 10 total mastery awards.
 - {% rauserpic AuburnRDM %} moves into a tie for 2nd place with 8 total mastery awards.
 - {% rauserpic Cerlayjux %} & {% rauserpic heintsi %} have made it into the top 25 and are in a 12-way tie for 16th place.
 
