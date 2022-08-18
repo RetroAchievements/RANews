@@ -42,7 +42,7 @@ Thanks to how much was added into these versions, both sets have been designed t
 
 {% rauserpic WanderingHeiho %} - Chronicles was my introduction to the Ys series, and was either my second or third ever Falcom game. While some of the bosses were a massive pain to deal with the first few times, and still can be (hello Vagullion), I strongly recommend players to at least try one of the many versions of Ys I and II just to see how its combat can sound strange at first, but be surprisingly engaging.
 
-{% rauserpic malasdair %} - Are you sick of new Ys sets yet? Well, make some room for this one. Chronicles is a truly sumptuous and slick modernization of the flagship Falcom series. WanderingHeiho and myself both put a lot of time, effort, and love into this set, and we've struck a nice balance between gentle prodding for new players and hardcore challenges for the vets. I suggest switching the soundtrack arrangements between runs - all three are fantastic, and switch the vibe up just enough to stay fresh. Good luck!
+{% rauserpic malasdair %} - Are you sick of new Ys sets yet? Well, make some room for this one. Chronicles is a truly sumptuous and slick modernization of the flagship Falcom series. {% rauserpic WanderingHeiho %} and myself both put a lot of time, effort, and love into this set, and we've struck a nice balance between gentle prodding for new players and hardcore challenges for the vets. I suggest switching the soundtrack arrangements between runs - all three are fantastic, and switch the vibe up just enough to stay fresh. Good luck!
 
 ## Rez (Dreamcast)
 

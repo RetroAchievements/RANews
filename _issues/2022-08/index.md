@@ -46,7 +46,7 @@ Stay up to date with all the latest RA community news.
 
 
 ### RAScript Tutorials
-{% rauser Etron %} has another RAScript tutorial showing how to use the CHallenge Indicators in Mega Man for NES.
+{% rauser Etron %} has another RAScript tutorial showing how to use the Challenge Indicators in Mega Man for NES.
 
 
 ### Play This Set

@@ -48,7 +48,6 @@ These events are open to any community member who wants to participate.
 - Host: {% rauserpic Hotscrock %}
 - Previous Winners:
   - 2022:
-    - July: ?????
     - June: {% rauserpic AuburnRDM %}
     - May: {% rauserpic Bendyhuman %}
     - April: {% rauserpic AuburnRDM %}

@@ -22,7 +22,7 @@ toc_float: false
 - Approximate amount of time to master: 7+ hours (Depending on skill). 
 - Minimum number of playthroughs needed: 1 (plus replaying the first 3 stages a few times) 
 - Number of missable achievements: 6
-- Do cheats disable achievements?: Yes, pressing Up+Start at the game over screen to restart at the stage you were will affect some achievements (mentionned in the achievement name)
+- Do cheats disable achievements?: Yes, pressing Up+Start at the game over screen to restart at the stage you were will affect some achievements (mentioned in the achievement name)
 - Does difficulty affect achievements?: There's no options to change difficulty
 - Glitchy achievements: None
 - Hardest achievement: Neko Dino Rikimu (Rack up nine lives!)
@@ -60,12 +60,12 @@ There are achievements for reaching the end level bosses as Macho Riki for the f
 
 Step 3: Points, lives and heart containers.
 
-Those are by far the hardest achievements in this game, but all of these can be earned on the first 3 levels. Maxing up heart requires to survive the first 2 stages without getting killed. Maxing up lives requires to beat the first 2 stages and a part of stage 3 without getting hit (unless you get hit at the right moment, see achievement description below for more informations). As for points achievements (1,000,000 points being the last one) there is a trick to earn all of them no further than stage 1, but it will be time-consuming and redundant
+Those are by far the hardest achievements in this game, but all of these can be earned on the first 3 levels. Maxing up heart requires to survive the first 2 stages without getting killed. Maxing up lives requires to beat the first 2 stages and a part of stage 3 without getting hit (unless you get hit at the right moment, see achievement description below for more information). As for points achievements (1,000,000 points being the last one) there is a trick to earn all of them no further than stage 1, but it will be time-consuming and redundant
 
 
 ## Conclusion
 
-For gamers who are experienced in shooter games this game will give a mild challenge, but green shooter gamers will find it pretty hard and frustrating, especially the platforming sections where you must jump over lily pads or ravines, which is very poorly done. The key here is to memorize the enemy patterns, which are always the same, and avoid grabbing too much speed powerups, only one is sufficent to effectively dodge enemy attacks. The good news is that all achievements can be earned on the first 3 stages except the story-related ones (finishing the stages)
+For gamers who are experienced in shooter games this game will give a mild challenge, but green shooter gamers will find it pretty hard and frustrating, especially the platforming sections where you must jump over lily pads or ravines, which is very poorly done. The key here is to memorize the enemy patterns, which are always the same, and avoid grabbing too much speed powerups, only one is sufficient to effectively dodge enemy attacks. The good news is that all achievements can be earned on the first 3 stages except the story-related ones (finishing the stages)
 
 
 
@@ -87,80 +87,80 @@ _Beat Stage 2, story-related and can't be missed_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                    | Description                                     | Points |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                   | Description                                     | Points |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38308" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39233.png" alt="Cobra Command"> <span>Cobra Command</span></a> | Defeat SPITTING COBRA at the end of Swamp Land. | 2      |
 
 _Beat Stage 3, story-related and can't be missed_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                                  | Description                                         | Points |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                                 | Description                                         | Points |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38309" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39231.png" alt="I Tried to Warn You!"> <span>I Tried to Warn You!</span></a> | Defeat PTERODACTYL at the end of SUPER Jungle Land! | 2      |
 
 _Beat Stage 4-1, story-related and can't be missed_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                                | Description                                               | Points |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                               | Description                                               | Points |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38310" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39232.png" alt="Stephen, We Did It!"> <span>Stephen, We Did It!</span></a> | Defeat TYRANNOSAURUS REX at the end of SUPER Desert Land! | 3      |
 
 _Beat Stage 4-2, story-related and can't be missed_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                            | Description                                           | Points |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                           | Description                                           | Points |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38311" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39233.png" alt="Jafar's Last Wish"> <span>Jafar's Last Wish</span></a> | Defeat SPITTING COBRA at the end of SUPER Swamp Land! | 4      |
 
 _Beat Stage 4-3, story-related and can't be missed_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                        | Description                                        | Points |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                       | Description                                        | Points |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38312" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39237.png" alt="NOT THE BEES!!!"> <span>NOT THE BEES!!!</span></a> | Defeat MAD HORNET at the end of ULTRA Desert Land! | 5      |
 
 _Beat Stage 4-4, story-related and can't be missed_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                                        | Description                                 | Points |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                                       | Description                                 | Points |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38316" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39241.png" alt="YES!  I AM INVINCIBLE!!"> <span>YES!  I AM INVINCIBLE!!</span></a> | Get a full bar of 8 hearts!  In THIS game!? | 10     |
 
 _You start the game with 2 hearts. To upgrade your max heart containers, you have to find the heart container tiles scattered through the levels. If you die, you lose one. There are three heart containers in stage 1 and three in stage 2 (and many others in the other stages), so you can earn this achievement fairly quickly if you go through the first 2 levels without dying and without missing heart container tiles. None of them are hard to find so make sure to destroy all the blocks on your path_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                                                                            | Description                                | Points |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ | ------ |
+| Achievement                                                                                                                                                                                                                                                                                           | Description                                | Points |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38317" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39242.png" alt="I Really Shouldn't Put This in HyperDrive"> <span>I Really Shouldn't Put This in HyperDrive</span></a> | Get the maximum speed of three wing-boots! | 5      |
 
 _To upgrade your speed, grab the boots powerup, you have to grab 3 of them without dying or without getting hit to earn this achievement, you should be able to unlock it naturally while playing through the game_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                        | Description                  | Points |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                       | Description                  | Points |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38318" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39243.png" alt="Maximum Carnage"> <span>Maximum Carnage</span></a> | Get the best weapon upgrade! | 5      |
 
 _Grabbing the fist powerup will improve your weapon. You start with rocks, the first upgrade will give you hammers, the second upgrade will give you boomerangs, and the final one will give you torches. The achievement unlocks when you get the torches. You will get this naturally while playing through the game_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                          | Description         | Points |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                         | Description         | Points |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38319" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39244.png" alt="Neko Dino Rikimu"> <span>Neko Dino Rikimu</span></a> | Rack up nine lives! | 25     |
 
 _You start the game with 2 lives, the only score milestone to reach to give you an extra life is 10,000. To earn more lives you have to get a streak of 9 diamond tiles without getting hit. Diamond tiles gives you points exponentially and gives you an extra life when you grab the ninth one. If you get hit, the streak goes back to zero. The streak will also reset at the end of a stage. It's highly recommended to do this on the first 3 stages. The latter ones don't have enough diamond tiles to give extra lives, and those stages are very hard anyway so not getting hit will be too challenging. You can get 3 extra lives in stage one (one for earning 10,000 points and two from diamonds streak. On stage 2 you can earn three more lives from diamonds. So you can have 8 lives after 2 stages. You can earn the final one on stage 3. Memorizing enemy patterns is a must for this achievement, as getting hit at the worst moment will screw your entire attempt. The best moment to get hit is after earning an extra life and the streak started back at 0, if you get hit at the middle of a diamond streak you're gonna have to start all over again._
 
 ***
 
-| Achievement                                                                                                                                                                                                                                        | Description                                    | Points |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                       | Description                                    | Points |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38320" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39245.png" alt="FLYING DUTCHMAN"> <span>FLYING DUTCHMAN</span></a> | Fly with MACHO RIKI to the end of Jungle Land! | 10     |
 
 _Macho Riki is a hidden powerup that gives Riki his ultimate form, he will become very muscular and will throw versions of himself as projectiles. The power will end if you suffer damage, and you can't carry this power to fight bosses. To get this achievement you have to reach the stage 1 boss's lair as Macho Riki while flying. To fly you have to find another hidden powerup, the bird, which gives you the ability to fly by holding the jump button. Like the Macho Riki powerup, suffering damage will end it, as well as releasing the jump button._
@@ -181,8 +181,8 @@ _Macho Riki Screenshot locations:_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                                                      | Description                                            | Points |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------ |
+| Achievement                                                                                                                                                                                                                                                                     | Description                                            | Points |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38321" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39245.png" alt="We Just Want to PUMP - YOU UP!"> <span>We Just Want to PUMP - YOU UP!</span></a> | Get Macho Riki in Desert Land to the end of the level! | 10     |
 
 _You have to get to the end of stage 2 as Macho Riki (no flying needed for this one), there is only one Macho Riki tile hidden in this stage. At one point you will come to a junction where you must choose between going left or right. Take the left path, the hidden Macho Riki powerup is hidden in this path right in the middle before a quick sand_
@@ -196,8 +196,8 @@ _Location:_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                                              | Description                                            | Points |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | ------ |
+| Achievement                                                                                                                                                                                                                                                             | Description                                            | Points |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38322" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39245.png" alt="THE INCREDIBLE SWAMP THING"> <span>THE INCREDIBLE SWAMP THING</span></a> | In Swamp Land, get Macho Riki to the end of the level! | 10     |
 
 _The final Macho Riki achievement requires to reach the end of level 3 as your muscular alter ego (no flying needed), there is 2 Macho Riki tiles hidden in this stage. The first tile is hidden at the far left side as the second set of 8 black orbs attacks you. The 2nd hidden Macho Riki is located after the first series of ground tears, it's located just above a skeleton fossil on the left side. Conveniently, it's located right after the last checkpoint so if you unfortunately lose your Macho Riki form you can die and try again right away_
@@ -212,32 +212,32 @@ _Locations:_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                                          | Description                                 | Points |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                                         | Description                                 | Points |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38323" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39248.png" alt="The Bird is NOT the Word"> <span>The Bird is NOT the Word</span></a> | Beat Jungle Land without getting ANY wings! | 10     |
 
 _See Prehistoric Platforming Perfection_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                            | Description                                 | Points |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                           | Description                                 | Points |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38324" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39249.png" alt="Desert Soar-vivor"> <span>Desert Soar-vivor</span></a> | Beat Desert Land without getting ANY wings! | 10     |
 
 _See Prehistoric Platforming Perfection_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                                                              | Description                                | Points |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------ |
+| Achievement                                                                                                                                                                                                                                                                             | Description                                | Points |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38325" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39250.png" alt="Prehistoric Platforming Perfection"> <span>Prehistoric Platforming Perfection</span></a> | Beat Swamp Land without getting ANY wings! | 25     |
 
 _3 achievements are awarded for completing the first 3 stages without grabbing the bird powerup. Even if you don't use it, grabbing the tile will negate the achievement. So this means you will have to go through the jumping sections on stage 1 and 3, which can be very annoying considering this inconsistent and inaccurate aspect of the game_
 
 ***
 
-| Achievement                                                                                                                                                                                                                              | Description                                             | Points |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                             | Description                                             | Points |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38326" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39238.png" alt="Encino Man"> <span>Encino Man</span></a> | Become a well-dressed caveman by getting 50,000 points! | 10     |
 
 _See How about a Hundred Hours??_
@@ -245,16 +245,16 @@ _See How about a Hundred Hours??_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                                                                                      | Description                                       | Points |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                                                                                     | Description                                       | Points |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38327" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39239.png" alt="Cactus in a Small Sombrero Trying to Play a DS"> <span>Cactus in a Small Sombrero Trying to Play a DS</span></a> | Get 500,000 points.  I have no idea what this is. | 25     |
 
 _See How about a Hundred Hours??_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                                                | Description                                                      | Points |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                                               | Description                                                      | Points |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/38328" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39238.png" alt="How About a Hundred Hours??"> <span>How About a Hundred Hours??</span></a> | Get a whopping 1,000,000 points! Who's on the title screen now?? | 50     |
 
 _There is 2 ways to earn 1 million points:_
@@ -268,56 +268,56 @@ _-The easier (but very boring) way: near the end of stage 1, you can get a flyin
 
 ## Revision Achievements
 
-| Achievement                                                                                                                                                                                                                                           | Description                                                      | Points |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                          | Description                                                      | Points |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/211935" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39231.png" alt="Didn't Turn Back"> <span>Didn't Turn Back</span></a> | Defeat the boss of Jungle Land without using the Continue cheat. | 5      |
 
 _See Prehistoric Bee Basher_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                 | Description                                                                            | Points |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                | Description                                                                            | Points |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/211930" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39232.png" alt="Scarier Rex"> <span>Scarier Rex</span></a> | Defeat the boss of Desert Land without using the Continue cheat after the first level. | 10     |
 
 _See Prehistoric Bee Basher_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                       | Description                                                                           | Points |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                      | Description                                                                           | Points |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/211931" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39233.png" alt="Going Commando"> <span>Going Commando</span></a> | Defeat the boss of Swamp Land without using the Continue cheat after the first level. | 10     |
 
 _See Prehistoric Bee Basher_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                         | Description                                                                                  | Points |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                        | Description                                                                                  | Points |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/211932" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39231.png" alt="Warning Ignored"> <span>Warning Ignored</span></a> | Defeat the boss of Super Jungle Land without using the Continue cheat after the first level. | 10     |
 
 _See Prehistoric Bee Basher_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                     | Description                                                                                  | Points |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                    | Description                                                                                  | Points |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/211933" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39232.png" alt="Stephen Saver"> <span>Stephen Saver</span></a> | Defeat the boss of Super Desert Land without using the Continue cheat after the first level. | 25     |
 
 _See Prehistoric Bee Basher_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                   | Description                                                                                 | Points |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                  | Description                                                                                 | Points |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/211934" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39233.png" alt="Jafar Jabber"> <span>Jafar Jabber</span></a> | Defeat the boss of Super Swamp Land without using the Continue cheat after the first level. | 25     |
 
 _See Prehistoric Bee Basher_
 
 ***
 
-| Achievement                                                                                                                                                                                                                                                       | Description                                             | Points |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------ |
+| Achievement                                                                                                                                                                                                                                                      | Description                                             | Points |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/Achievement/212318" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Badge/39237.png" alt="Prehistoric Bee Basher"> <span>Prehistoric Bee Basher</span></a> | Defeat the final boss without using the Continue cheat. | 50     |
 
 _For all the achievements from the latest revision, you have to complete every stage without losing all your lives. Meaning the continue cheat is not allowed for any of these. If you lose all your lives you have to start all over from the beginning._
