@@ -26,7 +26,7 @@ These events are open to any community member who wants to participate.
   - {% rauserpic BubbleRoxie %}
   - {% rauserpic GIGsnake %}
   - {% rauserpic heintsi %}
-- Currently 2nd place (with 28 points):
+- Currently 2nd place (with 38 points):
   - {% rauserpic CMatador %}
   - {% rauserpic DesertWorms %}
   - {% rauserpic DoctorV %}
