@@ -184,7 +184,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 ### Fairchild Channel F
 
 <p align="center">
-  <img src="img/TopMasteries/FAIRCHILD_Channel_F.png" />
+  <img src="img/TopMasteries/FAIRCHILD_CHANNEL_F.png" />
 </p>
 - {% rauserpic AuburnRDM %}, {% rauserpic alphacrust %} & {% rauserpic Infernum %} hold the top spots. Check in next month to see if there is any change to this.
 
