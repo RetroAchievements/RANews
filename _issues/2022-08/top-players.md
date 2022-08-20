@@ -115,7 +115,7 @@ Given period: July 1st to July 31st, 2022.
 | 096  | 🇵🇹 missiray            | 161650 |   **+12664**   |      14       |
 | 097  | 🇺🇸 Suffa28             | 161400 |   **+5307**    |       2       |
 | 098  | 🇺🇸 valkyrov            | 159787 |       -        |      -6       |
-| 099  | 🇨🇭 QRS666              | 159180 |    **+10**     |      -4       |
+| 099  | 🇸🇪 QRS666              | 159180 |    **+10**     |      -4       |
 | 100  | 🇧🇷 HeisenHower         | 158814 |   **+1914**    |      -3       |
 | 101  | 🇺🇸 zanyeyedzach        | 157992 |   **+5058**    |       4       |
 | 102  | 🇷🇺 Shmelyoff           | 157541 |    **+274**    |      -6       |
@@ -242,7 +242,7 @@ Given period: July 1st to July 31st, 2022.
 | 223  | 🇨🇦 Kaymander           | 107355 |   **+1492**    |               |
 | 224  | 🇺🇸 Jazerus             | 107338 |   **+10090**   |      40       |
 | 225  | 🇦🇷 fianovale           | 107212 |    **+400**    |      -9       |
-| 226  | 🇸🇪 Dario64             | 107195 |   **+1666**    |      -1       |
+| 226  | 🇨🇭 Dario64             | 107195 |   **+1666**    |      -1       |
 | 227  | 🇺🇸 Kinghippo44         | 107104 |   **+4038**    |       8       |
 | 228  | 🇨🇦 Chauckles           | 107000 |   **+4380**    |      11       |
 | 229  | 🇧🇷 Jeffds              | 106690 |       -        |      -12      |
@@ -257,7 +257,7 @@ Given period: July 1st to July 31st, 2022.
 | 238  | 🇺🇸 KEM64               | 104220 |    **+592**    |      -5       |
 | 239  | 🇫🇷 zerem               | 104189 |       -        |      -9       |
 | 240  | 🇧🇷 CanalGameHenryflush | 104070 |    **+174**    |      -8       |
-| 241  | 🇨🇭 ToxicAntidote (new) | 103859 |   **+18728**   |      85       |
+| 241  | 🇸🇪 ToxicAntidote (new) | 103859 |   **+18728**   |      85       |
 | 242  | 🇨🇦 TerrorVan           | 103695 |   **+2224**    |       5       |
 | 243  | 🇧🇷 Kreepy              | 103507 |    **+172**    |      -9       |
 | 244  | 🇺🇸 TheGameingChef      | 103496 |   **+2326**    |       4       |
@@ -319,7 +319,7 @@ Given period: July 1st to July 31st, 2022.
 | 300  | 🇨🇳 echoscreen          | 92300  |      -32       |      -12      |
 
 ## Top 300 Newcomers
-- 🇨🇭 ToxicAntidote
+- 🇸🇪 ToxicAntidote
 - 🇨🇦 dericobanjo
 - 🇦🇪 YamatoVergil
 - 🇺🇸 GreninjaMan
@@ -336,8 +336,8 @@ Given period: July 1st to July 31st, 2022.
 
 
 ## Reached 400k points
-- CAT guineu
 - 🇧🇷 Wendigo
+- CAT guineu
 
 ## Reached 300k points
 - 🇬🇧 Infernum
@@ -349,10 +349,10 @@ Given period: July 1st to July 31st, 2022.
 - 🇪🇸 Adman77
 - 🇧🇷 Alexavelino123
 - 🇫🇷 Adenothe
-- 🇺🇸 pulsexp
 - 🇺🇸 Jazerus
 - 🇩🇪 MrDynamite
-- 🇨🇭 ToxicAntidote
+- 🇸🇪 ToxicAntidote
+- 🇺🇸 pulsexp
 - 🇧🇷 DavidYTBR2
 - 🇫🇷 Beulu79
 - 🇺🇸 AlluminumMallard
