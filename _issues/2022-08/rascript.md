@@ -7,7 +7,7 @@ author: Etron
 toc: true
 ---
 
-# Tutorial #6 – Challenges Part 1
+# Tutorial #7 – Challenges Part 1
 
 ## Overview
 This tutorial will show a few examples of how to create deathless, damageless, and weapon limited challenge achievements. A second tutorial is planned afterwards to cover speedruns and other time related challenges.  The topic of challenge achievements is very broad and what challenges are appropriate for a game are completely dependent on the game mechanics.  The game [Mega Man](https://retroachievements.org/game/1448) was chosen for this tutorial because it is a tough yet fair game that has very little Random Number Generator (RNG) events which could mess up a damageless/deathless run.  Damageless runs of the entire game are achievable with enough practice, skill, game mechanic knowledge, and patience (see [Mr. Perfect](https://retroachievements.org/achievement/53290) from the [Mega Man Bonus](https://retroachievements.org/game/6729) set).
