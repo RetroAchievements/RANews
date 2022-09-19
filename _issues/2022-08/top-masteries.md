@@ -330,7 +330,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/PLAYSTATION_PORTABLE.png" />
 </p>
 - {% rauserpic minibt %} remain in 1st with 34 total mastery awards.
-
 - {% rauserpic AuburnRDM %} has made it into the top 25 and is in 6th place with 8 new mastery awards this month.
 - {% rauserpic Waishler %} moves up 11 spots into a 3-way tie for 7th place with 5 new mastery awards this month.
 

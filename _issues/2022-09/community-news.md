@@ -7,6 +7,10 @@ title: Community News
 toc: true
 ---
 
+# Community Subset
+Introducing the community [RAdical Custom Goals/Gaps Subset](https://retroachievements.org/game/20476) for Tony Hawk’s Underground on the PlayStation 2! Submit a save file with your own custom goals and gaps to be featured as achievements and leaderboards. There is no deadline and you can submit as many as you can fit on one save file!
+
+
 # Site Updates
 ## RAWeb 1.90.0
 - Separation of Softcore Points from Hardcore Points by [@Tsearo](https://github.com/Tsearo) in [#1033](https://github.com/RetroAchievements/RAWeb/pull/1033)
@@ -60,7 +64,7 @@ toc: true
   * [Mega Man X5 [Subset - Bonus]](https://retroachievements.org/game/16381)
 * Demoted for unwelcome concept
   * [Game of the Day](https://retroachievements.org/achievement/18733)
-* Discussions regarding restricting straight copy/past sets ongoing.
+* Discussions regarding restricting straight copy/paste sets ongoing.
 
 
 # DevQuest

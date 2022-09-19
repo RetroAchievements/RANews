@@ -14,11 +14,10 @@ Welcome to RANews, your #1 source for everything RetroAchievements.
 ## Community Submitted Content
 RANews thrives on community submitted content, Wish This Set, Play This Set and RAdvantage are only possibly if you allow it to be and send us your submissions for those articles. If you have any contributions that you would like to see featured in these articles, please send them in a direct message to {% rauser RANews %}.
 
-We are also looking for submissions for a new planned series where your RA stories can be shared with the rest of the community. As achievement hunters, we're always seeking new mountains to conquer. We crave that dopamine rush from finally earning that tough achievement, finishing a lengthy grind, or acquiring a rare drop. We at the RANews team want to give you the opportunity to share that excitement! Write at least one paragraph sharing the story of one of your most hype gaming moments, send it in a direct message to {% rauser RANews %}, and you may appear in an upcoming issue.
-
 
 ## Quick Overview
 What to expect from this issue.
+
 
 ### PlayStation 2 Preview
 The PlayStation 2 rollout is just around the corner, take a look at which sets are confirmed to be ready on launch day.
