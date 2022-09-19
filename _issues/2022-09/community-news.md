@@ -8,7 +8,16 @@ toc: true
 ---
 
 # Community Subset
-Introducing the community [RAdical Custom Goals/Gaps Subset](https://retroachievements.org/game/20476) for Tony Hawk’s Underground on the PlayStation 2! Submit a save file with your own custom goals and gaps to be featured as achievements and leaderboards. There is no deadline and you can submit as many as you can fit on one save file!
+
+| Game                                                                                                                                                                                                                                                                                                                         | Console       | Genre                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------ |
+| <a class="gameicon-link" href="https://retroachievements.org/game/20476" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/000001.png" alt="Tony Hawk's Underground [Subset - RAdical Custom Goals]"> <span>Tony Hawk's Underground [Subset - RAdical Custom Goals]</span></a> | PlayStation 2 | Extreme Sports - Skateboarding |
+
+Point of Contact: {% rauserpic timenoe %}
+
+Introducing the community RAdical Custom Goals/Gaps Subset for Tony Hawk’s Underground on the PlayStation 2! Submit a save file with your own custom goals and gaps to be featured as achievements and leaderboards. There is no deadline and you can submit as many as you can fit on one save file!
+
+An announcement with more details will be made in the upcoming days.
 
 
 # Site Updates
