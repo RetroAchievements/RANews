@@ -460,7 +460,7 @@ The Lego series by Traveller's Tales has ballooned into a truly massive franchis
 
 | Game                                                                                                                                                                                                                                       | Genre     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/20211" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/060169.png" alt="Time Crisis II"> <span>Time Crisis II</span></a> | Light Gun |
+| <a class="gameicon-link" href="https://retroachievements.org/game/20211" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061781.png" alt="Time Crisis II"> <span>Time Crisis II</span></a> | Light Gun |
 
 By: {% rauserpic shnick1980 %}
 
@@ -518,7 +518,7 @@ The fourth entry in the Resident Evil franchise stars Leon S. Kennedy as the mai
 
 | Game                                                                                                                                                                                                                                     | Genre     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/20453" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061636.png" alt="Time Crisis 3"> <span>Time Crisis 3</span></a> | Light Gun |
+| <a class="gameicon-link" href="https://retroachievements.org/game/20453" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061779.png" alt="Time Crisis 3"> <span>Time Crisis 3</span></a> | Light Gun |
 
 By: {% rauserpic shnick1980 %}
 
