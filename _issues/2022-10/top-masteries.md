@@ -128,7 +128,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/EVENTS.png" />
 </p>
 * {% rauserpic televandalist %} remains in 1st place with 28 total master awards.
-* {% rauserpic SlashTangent %} has reached 20 mastery awards and is not in 4th place.
+* {% rauserpic SlashTangent %} has reached 20 mastery awards and is now in 4th place.
 * {% rauserpic ladynadiad %} & {% rauserpic Pudpod %} have both moved up 1 rank.
 
 ### Amstrad CPC
@@ -137,7 +137,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/AMSTRAD_CPC.png" />
 </p>
 * {% rauserpic roukanumachi %} remains in 1st place with 15 total master awards.
-* {% rauserpic alundra82 %} has jumps up 2 spots into 5th place.
+* {% rauserpic alundra82 %} has jumped up 2 spots into 5th place.
 
 ### Arcade
 
@@ -153,7 +153,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 <p align="center">
   <img src="img/TopMasteries/ARDUBOY.png" />
 </p>
-* {% rauserpic HolyShinx %} remains in 1st place with 25 mastery awards.
+* {% rauserpic HolyShinx %} remains in 1st place with 35 mastery awards.
 * {% rauserpic guineu %} has jumped up 12 spots into 2nd place with 23 new mastery awards this month.
 * {% rauserpic LeakyComet %} has made it into the top 25 and is tied for 22nd place.
 
@@ -216,7 +216,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/GAME_GEAR.png" />
 </p>
 * {% rauserpic Nydaxn %} remains in 1st place with 62 total mastery awards.
-* {% rauserpic TripleDeek %} has moved up 1 splot into 5th place on their quest to top of the Game Gear leaderboards.
+* {% rauserpic TripleDeek %} has moved up 1 spot into 5th place on their quest to top of the Game Gear leaderboards.
 * {% rauserpic Tayadaoc %} has moved up 3 spots into a tie for 10th place.
 
 ### Hack Champ
@@ -233,7 +233,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/HOMEBREW.png" />
 </p>
 * {% rauserpic AuburnRDM %} remains in 1st place with 162 total mastery awards.
-* {% rauserpic guineu %} moves up 1 splot into 2nd place with 22 new mastery awards this month.
+* {% rauserpic guineu %} moves up 1 spot into 2nd place with 22 new mastery awards this month.
 * {% rauserpic Lonoke31 %} has made it into the top 25 and is in a tie for 18th place.
 
 ### Master System
@@ -351,7 +351,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/VIRTUAL_BOY.png" />
 </p>
 * {% rauserpic Grahamtams %} & {% rauserpic Jungon %} remain in 1st place with 11 total mastery awards.
-* {% rauserpic Infernum %} moves up 2 splots into 4th place with 2 new mastery awards this month.
+* {% rauserpic Infernum %} moves up 2 spots into 4th place with 2 new mastery awards this month.
 * {% rauserpic TheLooseGroose %} has made it into the top 25 and is in a 9-way tie for 10th place.
 * {% rauserpic Amir96lx %} has made it into the top 25 and is in a 29-way tie for 19th place.
 

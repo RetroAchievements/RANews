@@ -6,7 +6,7 @@ title: It's a Long Way to the Top
 author: TimeCrush
 ---
 
-With the recent PS2 console launch a new breath of life has been whirled into RetroAchievements, and the excitement is palpable. Bringing a staggering 85+ sets to the table on launch gives clear creedance and weight to the hype, showing us that despite cutting edge present day AAA releases, sometimes all you need is a loving hand weaving a modern technlogical thread through those old jeans memory values; good as new.
+With the recent PS2 console launch a new breath of life has been whirled into RetroAchievements, and the excitement is palpable. Bringing a staggering 85+ sets to the table on launch gives clear creedance and weight to the hype, showing us that despite cutting edge present day AAA releases, sometimes all you need is a loving hand weaving a modern technlogical thread through those old ~~jeans~~ memory values; good as new.
 
 Of those enjoying the new console, there seems to be one user on the beat performing better than all the rest, on key and in tune - and I had the pleasure of sitting down in an interview with them to go over just how they secured their postition at the Top.
 

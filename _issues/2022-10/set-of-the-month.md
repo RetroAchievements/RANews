@@ -14,6 +14,9 @@ At the beginning of each month a poll is created that is shared on the front pag
 ### Best PlayStation 2 Launch Set
 Set Qualification Requirement: New set for the PlayStation 2 that was ready and published on launch day.
 
+Total Qualifications: 87<br>
+Sets not listed did not receive a vote.
+
 | Rank | Votes | Game                                                                                                                                                                                                                                                                                                                                                              | Author(s)                                                               |
 | ---- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | 1    | 9     | <a class="gameicon-link" href="https://retroachievements.org/game/2721" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/038649.png" alt="Dragon Quest VIII: Journey of the Cursed King"> <span>Dragon Quest VIII: Journey of the Cursed King</span></a>                                                           | {% rauser TheMysticalOne%}                                              |
@@ -59,14 +62,11 @@ Set Qualification Requirement: New set for the PlayStation 2 that was ready and 
 | 27   | 1     | <a class="gameicon-link" href="https://retroachievements.org/game/2993" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061474.png" alt="Tony Hawk's Underground"> <span>Tony Hawk's Underground</span></a>                                                                                                       | {% rauser timenoe%}                                                     |
 | 27   | 1     | <a class="gameicon-link" href="https://retroachievements.org/game/2686" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/056040.png" alt="Wild Arms 4"> <span>Wild Arms 4</span></a>                                                                                                                               | {% rauser BrunoKiko%}                                                   |
 
-Total Qualifications: 87
-Sets not listed did not receive a vote.
-
 ### Set of the Month
 Set Qualification Requirement: New set for a game that isn't a subset or part of a console launch
 
-Total Qualifications: 81
-<br>Sets not listed did not receive a vote.
+Total Qualifications: 81<br>
+Sets not listed did not receive a vote.
 
 | Rank | Votes | Game                                                                                                                                                                                                                                                                                                                                                  | Console                                                                                | Author(s)                                                                        |
 | ---- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -113,8 +113,8 @@ Total Qualifications: 81
 ### Subset of the Month
 Set Qualification Requirement: Any new subset for a game (e.g. Bonus, DLCs, Challenge-Runs, ...)
 
-Total Qualifications: 11
-<br>Sets not listed did not receive a vote.
+Total Qualifications: 11<br>
+Sets not listed did not receive a vote.
 
 | Rank | Votes | Game                                                                                                                                                                                                                                                                                                                                                                   | Console                                                                           | Author(s)                                        |
 | ---- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -130,8 +130,8 @@ Total Qualifications: 11
 ### Revision of the Month
 Set Qualification Requirement: Any revision that wasn't made by the original developer in the same month the set released
 
-Total Qualifications: 24
-<br>Revisions not listed did not receive a vote.
+Total Qualifications: 24<br>
+Revisions not listed did not receive a vote.
 
 | Rank | Votes | Game                                                                                                                                                                                                                                                                                                                     | Console                                                                                | Author(s)                  |
 | ---- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | -------------------------- |

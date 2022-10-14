@@ -56,8 +56,8 @@ Wish This Set is intended to convince other members to request a game that doesn
 [For those who don't know if a game doesn't have achievements, you can Request a set for it by clicking in the `Request Set` link in the game's page.]
 
 
-<!-- ### --RAGuide
-Check out the latest RAGuide by {% rauser suspect15 %} to master [Dragon Force](https://retroachievements.org/game/14512). -->
+### RAGuide
+Check out the latest RAGuide by {% rauser Sines %} to master [Valkyrie Profile](https://retroachievements.org/game/11249).
 
 
 ### RAdvantage
@@ -105,5 +105,19 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|     |     |     |
-| --- | --- | --- |
+|                                  |                               |                                 |
+| -------------------------------- | ----------------------------- | ------------------------------- |
+| {% rauserpic AdrianTravelerVP %} | {% rauserpic Amir96lx %}      | {% rauserpic AngeloLeonhart %}  |
+| {% rauserpic AssClownKing %}     | {% rauserpic BahamutVoid %}   | {% rauserpic BatFastardJordy %} |
+| {% rauserpic Bendyhuman %}       | {% rauserpic BloodParade %}   | {% rauserpic Brandovsky %}      |
+| {% rauserpic ChrisPvz %}         | {% rauserpic DevCompliance %} | {% rauserpic Enagonius %}       |
+| {% rauserpic Etron %}            | {% rauserpic GalacticSpear %} | {% rauserpic Glendaal %}        |
+| {% rauserpic HolyShinx %}        | {% rauserpic Hotscrock %}     | {% rauserpic Jakiria %}         |
+| {% rauserpic Kingsombra %}       | {% rauserpic LimeJinjo %}     | {% rauserpic malasdair %}       |
+| {% rauserpic MrBird %}           | {% rauserpic MrOwnership %}   | {% rauserpic Nepiki %}          |
+| {% rauserpic Nydaxn %}           | {% rauserpic Olafur %}        | {% rauserpic pinguupinguu %}    |
+| {% rauserpic QATeam %}           | {% rauserpic RANews %}        | {% rauserpic RaphMec %}         |
+| {% rauserpic Raykusen %}         | {% rauserpic roukanumachi %}  | {% rauserpic Sines %}           |
+| {% rauserpic SnowPin %}          | {% rauserpic SporyTike %}     | {% rauserpic StingX2 %}         |
+| {% rauserpic SuperMeatBro %}     | {% rauserpic TheJohanx %}     | {% rauserpic TimeCrush %}       |
+| {% rauserpic TindalosKeeper %}   | {% rauserpic Xymjak %}        |                                 |
