@@ -43,9 +43,10 @@ These events are open to any community member who wants to participate.
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=10753>
 - Period: May 2020 - Current
-- Host: {% rauserpic Hotscrock %}
+- Host: {% rauserpic JAM %} & {% rauserpic Hotscrock %}
 - Previous Winners:
   - 2022:
+    - September: {% rauserpic CuddleBugs %}
     - July: {% rauserpic AuburnRDM %}
     - June: {% rauserpic AuburnRDM %}
     - May: {% rauserpic Bendyhuman %}
