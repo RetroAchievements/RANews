@@ -174,7 +174,7 @@ getRAGameInfo() {
     && return 1
 
   curl --silent "${BASE_URL}${ENDPOINT}?z=${raUser}&y=${raApiKey}&i=${gameId}" \
-    | jq -r '. | .Title + ":::" + .Console + ":::" + .GameIcon + ":::" +  if ( .Genre == null) then "-" else .Genre end'
+    | jq -r '. | .Title + ":::" + .Console + ":::" + .GameIcon + ":::" +  if ( .Genre == "" ) then "-" else .Genre end'
 }
 
 
