@@ -86,7 +86,7 @@ These events are open to any community member who wants to participate.
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
 - Current Winners:
-  - Month 27: Best Gamer: ??, Best Dev Fixer: ??
+  - Month 27: Best Gamer: {% rauserpic NEOMAR %}, Best Dev Fixer: {% rauserpic Falcus %}
 - Previous Winners:
   - Month 26: Best Gamer: {% rauserpic NEOMAR %} and {% rauserpic Lonoke31 %}, Best Dev Fixer: {% rauserpic ladynadiad %}
   - Month 25: Best Gamer: {% rauserpic Cerlayjux %}, Best Dev Fixer: {% rauserpic Falcus %}
@@ -145,12 +145,20 @@ These events are open to any community member who wants to participate.
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=15078>
 - Period: January 2022 - Current
 - Host: {% rauserpic StingX2 %}
-- Current Top 5:
-  - {% rauserpic WanderingHeiHo %} (100)
-  - {% rauserpic heintsi %} (85)
-  - {% rauserpic Pudpod %} (58)
-  - {% rauserpic Cadaxar %} (56)
-  - {% rauserpic FlamingDoom %} (54)
+- Current Winners:
+  1. {% rauserpic heintsi %}
+  2. {% rauserpic WanderingHeiho %}
+  3. {% rauserpic malasdair %}
+  4. {% rauserpic freezestar %}
+  5. {% rauserpic FlamingDoom %}
+  6. {% rauserpic Cadaxar %}
+  7. {% rauserpic Lonoke31 %}
+  8. {% rauserpic Pudpod %}
+  9. {% rauserpic AngeloLeonhart %}
+  10. {% rauserpic Akai %}
+  11. {% rauserpic Sef %}
+  12. {% rauserpic Tayadaoc %}
+  13. {% rauserpic LordAndrew %}
   
   
 <a href="#top">:top:</a>

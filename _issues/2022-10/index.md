@@ -22,12 +22,13 @@ What to expect from this issue.
 ### Set of the Month
 See how the community voted on the latest Set of the Month polls.
 
+
+### This Month In Retro
+{% rauser Nepiki %} continues with this new segment to take a look at what happened in the retro scene in October 2000.
+
+
 ### It's a Long Way to the Top
 {% rauser TimeCrush %} brings in a new segment interviewing the best of the best on a per console basis. What better way to start off than with the PlayStation 2.
-
-
-<!-- ### --This Month In Retro
-{% rauser Nepiki %} continues with this new segment to take a look at what happened in the retro scene in September 1986. -->
 
 
 ### Monthly Stats

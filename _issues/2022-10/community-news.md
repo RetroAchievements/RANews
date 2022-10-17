@@ -32,8 +32,27 @@ Want a recap of everything told, or want to know when you are up to play? All in
 
 The first Best of 3 will take place on November 5th, so make sure you contact all your teammates, get together in a Discord group, and pick what 3 members of your team will be competing to take home that very important first win of the tournament! More info will follow as soon as the RetroOlympics chat channels are up!
 
+## RA Teams
+### RAEvents Team
+There's a new team in town. The RAEvents team has been formed with the team responsibilities consisting of approving new events, helping run/organize events and hosting events that do not have a dedicated host.
+
+Current team members:
+- {% rauserpic AuburnRDM %}
+- {% rauserpic Bendyhuman %}
+- {% rauserpic FBernkastelKues %}
+- {% rauserpic JAM %}
+- {% rauserpic Pudpod %}
+- {% rauserpic SnowPin %}
+- {% rauserpic StingX2 %}
+- {% rauserpic televandalist %}
+
+If you would like to contact the team you can send message to {% rauserpic RAEvents %}.
+
+### RANews Team
+{% rauserpic TimeCrush %} has joined the RANews team, brining a new article series to the community. Check out [It's a Long Way to the Top](./long-way-to-the-top.html) debuting in this issue.
+
 ## Site Updates
-### RAWeb 1.91.2 has been released
+### RAWeb v1.91.2
 - Change Achievement Distribution graph to bar chart by [@Jamiras](https://github.com/Jamiras) in #1113 [#1113](https://github.com/RetroAchievements/RAWeb/pull/1113)
 - Fix white points calculation on daily/weekly leaderboard by [@Tsearo](https://github.com/Tsearo) in #1102 [#1102](https://github.com/RetroAchievements/RAWeb/pull/1102)
 - Fix hardcore indicator on player history page by [@Jamiras](https://github.com/Jamiras) in #1107 [#1107](https://github.com/RetroAchievements/RAWeb/pull/1107)
@@ -41,14 +60,14 @@ The first Best of 3 will take place on November 5th, so make sure you contact al
 
 [Full Changelog](https://github.com/RetroAchievements/RAWeb/releases/tag/1.91.2)
 
-### RAWeb v2.0.0 has been released
+### RAWeb v2.0.0
 - This is an infrastructure release. There are several visual changes, but no new features.
 - While this will enable development of some features that have always been v2+, none are currently planned or prioritized. They will come when they are ready.
 - Let us know if you experience any problems.
 
 [Full Changelog](https://github.com/RetroAchievements/RAWeb/releases/tag/2.0.0)
 
-### RAWeb v2.0.1 has been released
+### RAWeb v2.0.1
 - Lazily load tooltip cards by [@luchaos](https://github.com/luchaos) in [#1142](https://github.com/RetroAchievements/RAWeb/pull/1142)
 - Cache currently active on front page by [@luchaos](https://github.com/luchaos) in [#1143](https://github.com/RetroAchievements/RAWeb/pull/1143)
 - Use standard colors for comments widget by [@Jamiras](https://github.com/Jamiras) in [#1145](https://github.com/RetroAchievements/RAWeb/pull/1145)
