@@ -207,7 +207,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/GAME_BOY_COLOR.png" />
 </p>
 * {% rauserpic pitapocket17 %} remains in 1st place with 58 total mastery awards.
-* {% rauserpic Lonoke31 %} has moved up 4 spots into a tir for 11th place.
+* {% rauserpic Lonoke31 %} has moved up 4 spots into a tie for 11th place.
 * {% rauserpic Thoreau %} has made it into the top 25 and is in 22nd place.
 
 ### Game Gear
