@@ -141,11 +141,11 @@ There's a certain kind of magic when it comes to art. Drakengard is faulty, no d
 
 <br clear="left"/>
 
-## Dual Hearts (PlayStation 2) NO GAME PAGE, PLACEHOLDER LINK
+## Dual Hearts (PlayStation 2)
 
 | Game                                                                                                                                                                                                                                   | Console       | Genre      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/1" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png" alt="Dual Hearts"> <span>Dual Hearts</span></a> | PlayStation 2 | Action RPG |
+| <a class="gameicon-link" href="https://retroachievements.org/game/21680" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png" alt="Dual Hearts"> <span>Dual Hearts</span></a> | PlayStation 2 | Action RPG |
 
 * Writeup by: {% rauserpic mountainmohawk %}
 

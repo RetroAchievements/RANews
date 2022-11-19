@@ -106,5 +106,20 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                                  |                               |                                 |
-| -------------------------------- | ----------------------------- | ------------------------------- |
+|                                |                                  |                               |
+| ------------------------------ | -------------------------------- | ----------------------------- |
+| {% rauserpic AssClownKing %}   | {% rauserpic BatFastardJordy %}  | {% rauserpic Bendyhuman %}    |
+| {% rauserpic Brandovsky %}     | {% rauserpic Chauckles %}        | {% rauserpic DevCompliance %} |
+| {% rauserpic DevQuest %}       | {% rauserpic Enagonius %}        | {% rauserpic Etron %}         |
+| {% rauserpic Glendaal %}       | {% rauserpic gollawiz %}         | {% rauserpic hankchill %}     |
+| {% rauserpic HolyShinx %}      | {% rauserpic Hotscrock %}        | {% rauserpic kewlpinguino %}  |
+| {% rauserpic KingS1zzle %}     | {% rauserpic LimeJinjo %}        | {% rauserpic markdarkness %}  |
+| {% rauserpic mountainmohawk %} | {% rauserpic MrBird %}           | {% rauserpic MrOwnership %}   |
+| {% rauserpic Nepiki %}         | {% rauserpic Nydaxn %}           | {% rauserpic Olafur %}        |
+| {% rauserpic PaddyW %}         | {% rauserpic Pampa50 %}          | {% rauserpic pinguupinguu %}  |
+| {% rauserpic QATeam %}         | {% rauserpic RAEvents %}         | {% rauserpic RANews %}        |
+| {% rauserpic Raykusen %}       | {% rauserpic ShadwSonic %}       | {% rauserpic shauntmw %}      |
+| {% rauserpic Sines %}          | {% rauserpic SnowPin %}          | {% rauserpic SporyTike %}     |
+| {% rauserpic StingX2 %}        | {% rauserpic TheJediSonic %}     | {% rauserpic TheJohanx %}     |
+| {% rauserpic TheNegativeIon %} | {% rauserpic TheRealBillHicks %} | {% rauserpic TimeCrush %}     |
+| {% rauserpic WanderingHeiho %} | {% rauserpic WarioFan63 %}       | {% rauserpic Xymjak %}        |
