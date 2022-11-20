@@ -62,7 +62,7 @@ Wish This Set is intended to convince other members to request a game that doesn
 
 
 ### RAGuide
-Check out the latest RAGuide by {% rauser shauntmw %} to master [Shadowrun](https://retroachievements.org/game/4748).
+Check out the latest RAGuide by {% rauser shauntmw %} to master [Shadowrun (Mega Drive)](https://retroachievements.org/game/4748).
 
 
 ### HotCheevs Monthly
