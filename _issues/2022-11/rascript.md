@@ -7,7 +7,7 @@ author: Etron
 toc: true
 ---
 
-# Tutorial #8 – Challenges Part 2
+# Tutorial #9 – Trigger and Measure Together
 
 # Overview
 This tutorial will show a few examples of how to create an achievement that uses both the trigger and measure flags together.  The game [Street Fighter II: The World Warrior](https://retroachievements.org/game/11808) was chosen for this tutorial because it is a fighting game that counts both the number of fights you have won and the type of attacks made.  These types of in game statistics work well for showing both what challenges are active and how far the player has gotten into the challenge. You could code it with just triggers however, by adding a measure the player gets both on screen notifications of when the achievement is primed as well as feedback of how far along they are to achieving the challenge.
