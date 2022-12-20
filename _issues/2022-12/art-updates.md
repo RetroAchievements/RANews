@@ -33,9 +33,9 @@ toc: true
 ### Dreamcast
 
 
-| Game                                                                                                                                                                                                                                                              | Icon By                | Icon Before                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/3492" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/065096.png" alt="Rayman 2: The Great Escape"> <span>Rayman 2: The Great Escape</span></a> | {% rauser Achievess %} | <img class="gameicon" src="https://retroachievements.org/Images/053639.png" alt="old icon"> |
+| Game                                                                                                                                                                                                                                                              | Icon By               | Icon Before                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/3492" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/065096.png" alt="Rayman 2: The Great Escape"> <span>Rayman 2: The Great Escape</span></a> | {% rauser GameZone %} | <img class="gameicon" src="https://retroachievements.org/Images/053639.png" alt="old icon"> |
 
 <a href="#toc">:top:</a>
 
@@ -155,9 +155,9 @@ toc: true
 ### Nintendo DS
 
 
-| Game                                                                                                                                                                                                                                                                                                                        | Icon By                | Icon Before                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/7212" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/063592.png" alt="Pokemon HeartGold Version \| Pokemon SoulSilver Version"> <span>Pokemon HeartGold Version \| Pokemon SoulSilver Version</span></a> | {% rauser Bryan1150 %} | <img class="gameicon" src="https://retroachievements.org/Images/058715.png" alt="old icon"> |
+| Game                                                                                                                                                                                                                                                                                                                        | Icon By               | Icon Before                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/7212" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/063592.png" alt="Pokemon HeartGold Version \| Pokemon SoulSilver Version"> <span>Pokemon HeartGold Version \| Pokemon SoulSilver Version</span></a> | {% rauser GameZone %} | <img class="gameicon" src="https://retroachievements.org/Images/058715.png" alt="old icon"> |
 
 <a href="#toc">:top:</a>
 
