@@ -42,7 +42,7 @@ Current team members:
 - {% rauserpic FBernkastelKues %}
 - {% rauserpic JAM %}
 - {% rauserpic Pudpod %}
-- {% rauserpic SnowPin %}
+- {% rauserpic Snow %}
 - {% rauserpic StingX2 %}
 - {% rauserpic televandalist %}
 

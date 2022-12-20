@@ -59,7 +59,7 @@ We also listed all of the award winners here on this hub:
 
 ### Ticket Wizard
 
-{% rauserpic SnowPin %}
+{% rauserpic Snow %}
 
 ### Best Podcast Personality
 

@@ -31,7 +31,7 @@ B = Badge
 new	4288	TeddyWestside
 new	17194	Alfex
 new	7304	voiceofautumn
-new	4958	SnowPin
+new	4958	Snow
 new	17346	KingS1zzle
 new	5537	voiceofautumn
 new	2298	hardt
@@ -45,7 +45,7 @@ new	4063	BlotchJBMR
 new	14527	LeFrench
 new	4747	Ryudo
 new	14431	voiceofautumn
-new	9931	SnowPin
+new	9931	Snow
 new	2882	TeddyWestside
 new	4060	voiceofautumn
 new	2434	voiceofautumn
@@ -60,7 +60,7 @@ new	14520	Benjeta
 new	13048	Bearfax62
 new	7205	televandalist
 new	13076	BlotchJBMR
-new	14356	SnowPin
+new	14356	Snow
 new	1186	wilhitewarrior
 new	4455	wilhitewarrior
 new	5699	Alfex
@@ -85,12 +85,12 @@ new	2587	meido Daroachie
 new	17376	pinguupinguu
 new	14718	voiceofautumn
 new	17391	g0dm0d3
-new	5021	SnowPin
+new	5021	Snow
 new	6670	voiceofautumn
 new	17392	MrOwnership
-new	7385	SnowPin
+new	7385	Snow
 new	6041	Keltron3030
-new	17395	SnowPin
+new	17395	Snow
 new	7404	SlashTangent
 new	73	BrunoKiko
 new	13819	hardt
@@ -143,7 +143,7 @@ rev	6212	F	voiceofautumn
 rev	767	F	SlashTangent
 rev	10120	F	SlashTangent
 rev	472	N	herrshaun
-rev 	6956	N	SnowPin
+rev 	6956	N	Snow
 rev	580	N	BenGhazi
 
 
@@ -188,7 +188,7 @@ art	4855	B	Shmelyoff	https://user-images.githubusercontent.com/53956327/10483089
 art	769	B	Raykusen	https://user-images.githubusercontent.com/53956327/104830894-00e55180-5862-11eb-968c-bd4a09d90b95.png	https://user-images.githubusercontent.com/53956327/104830897-02167e80-5862-11eb-9cdd-e264bf2f6a75.png
 art	14721	I	blendedsea	https://retroachievements.org/Images/028453.png	http://retroachievements.org/Images/041338.png
 art	10202	B	Raykusen	https://user-images.githubusercontent.com/53956327/104830895-017de800-5862-11eb-9fe0-7037c35576e0.png	https://user-images.githubusercontent.com/53956327/104830898-02af1500-5862-11eb-9679-4f005d37e9b0.png
-art	17073	I	SnowPin	https://retroachievements.org/Images/041217.png	https://retroachievements.org/Images/041392.png
+art	17073	I	Snow	https://retroachievements.org/Images/041217.png	https://retroachievements.org/Images/041392.png
 art	11200	I	WateredWillow	https://retroachievements.org/Images/015193.png	https://retroachievements.org/Images/041427.png
 art	10154	I	WateredWillow	https://retroachievements.org/Images/011143.png	https://retroachievements.org/Images/041428.png
 art	4723	I	Raykusen	https://retroachievements.org/Images/034248.png	https://retroachievements.org/Images/041429.png

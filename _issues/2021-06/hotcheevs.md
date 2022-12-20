@@ -72,7 +72,7 @@ This is the list of brand new sets released in May/2021 grouped by systems/conso
 | Game | Author | Genre |
 |------|--------|-------|
 | <a class="gameicon-link" href="https://retroachievements.org/game/683" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/017193.png" alt="Baseball"> <span>Baseball</span></a> | {% rauser MGNS8M %}  | Sports |
-| <a class="gameicon-link" href="https://retroachievements.org/game/6473" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/025094.png" alt="James Bond 007"> <span>James Bond 007</span></a> | {% rauser SnowPin %}  | Action RPG |
+| <a class="gameicon-link" href="https://retroachievements.org/game/6473" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/025094.png" alt="James Bond 007"> <span>James Bond 007</span></a> | {% rauser Snow %}  | Action RPG |
 | <a class="gameicon-link" href="https://retroachievements.org/game/14354" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044669.png" alt="Lazlos' Leap"> <span>Lazlos' Leap</span></a> | {% rauser ZZKer %}  | Puzzle |
 | <a class="gameicon-link" href="https://retroachievements.org/game/5044" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/007237.png" alt="Skate or Die: Bad 'N Rad"> <span>Skate or Die: Bad 'N Rad</span></a> | {% rauser minibt %}  | Sports (Skateboard) |
 | <a class="gameicon-link" href="https://retroachievements.org/game/6505" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044548.png" alt="Tail 'Gator"> <span>Tail 'Gator</span></a> | {% rauser pinguupinguu %}  | Action-Adventure |
@@ -90,7 +90,7 @@ This is the list of brand new sets released in May/2021 grouped by systems/conso
 | <a class="gameicon-link" href="https://retroachievements.org/game/4872" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044278.png" alt="Breath of Fire"> <span>Breath of Fire</span></a> | {% rauser voiceofautumn %}  | RPG |
 | <a class="gameicon-link" href="https://retroachievements.org/game/11843" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/029813.png" alt="Game Boy Advance Video Series"> <span>Game Boy Advance Video Series</span></a> | {% rauser SporyTike %}  | Videos / Quiz |
 | <a class="gameicon-link" href="https://retroachievements.org/game/8010" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043921.png" alt="~Homebrew~ Flappy Bird"> <span>~Homebrew~ Flappy Bird</span></a> | {% rauser deng %}  | Endless Platformer |
-| <a class="gameicon-link" href="https://retroachievements.org/game/6663" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044088.png" alt="Star Wars Episode III: Revenge of the Sith"> <span>Star Wars Episode III: Revenge of the Sith</span></a> | {% rauser SnowPin %}  | Action, Adventure |
+| <a class="gameicon-link" href="https://retroachievements.org/game/6663" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044088.png" alt="Star Wars Episode III: Revenge of the Sith"> <span>Star Wars Episode III: Revenge of the Sith</span></a> | {% rauser Snow %}  | Action, Adventure |
 | <a class="gameicon-link" href="https://retroachievements.org/game/1420" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044113.png" alt="Super Ghouls 'n Ghosts"> <span>Super Ghouls 'n Ghosts</span></a> | {% rauser MarioJunior10 %}  | Action, Platformer |
 
 <a href="#toc">:top:</a>
@@ -101,7 +101,7 @@ This is the list of brand new sets released in May/2021 grouped by systems/conso
 
 | Game | Author | Genre |
 |------|--------|-------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/2502" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044411.png" alt="Lufia: The Legend Returns"> <span>Lufia: The Legend Returns</span></a> | {% rauser SnowPin %}  | Role-Playing (RPG) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/2502" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044411.png" alt="Lufia: The Legend Returns"> <span>Lufia: The Legend Returns</span></a> | {% rauser Snow %}  | Role-Playing (RPG) |
 
 <a href="#toc">:top:</a>
 
@@ -210,7 +210,7 @@ This is the list of brand new sets released in May/2021 grouped by systems/conso
 | <a class="gameicon-link" href="https://retroachievements.org/game/14828" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044174.png" alt="Kingdom Hearts Re:coded"> <span>Kingdom Hearts Re:coded</span></a> | {% rauser AlmightyXor %}  | Action RPG |
 | <a class="gameicon-link" href="https://retroachievements.org/game/15352" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044390.png" alt="LEGO Indiana Jones: The Original Adventures"> <span>LEGO Indiana Jones: The Original Adventures</span></a> | {% rauser pinguupinguu %}  | Action-Adventure |
 | <a class="gameicon-link" href="https://retroachievements.org/game/15351" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043871.png" alt="LEGO Star Wars: The Complete Saga"> <span>LEGO Star Wars: The Complete Saga</span></a> | {% rauser pinguupinguu %}  | Action-Adventure |
-| <a class="gameicon-link" href="https://retroachievements.org/game/17447" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044087.png" alt="Star Wars Episode III: Revenge of the Sith"> <span>Star Wars Episode III: Revenge of the Sith</span></a> | {% rauser SnowPin %}  |  Action-adventure game, Beat  |
+| <a class="gameicon-link" href="https://retroachievements.org/game/17447" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044087.png" alt="Star Wars Episode III: Revenge of the Sith"> <span>Star Wars Episode III: Revenge of the Sith</span></a> | {% rauser Snow %}  |  Action-adventure game, Beat  |
 
 <a href="#toc">:top:</a>
 

@@ -152,7 +152,7 @@ By: {% rauserpic Shmelyoff %} and {% rauserpic Infernox %}
 | <a class="gameicon-link" href="https://retroachievements.org/game/16272" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/048048.png" alt="Castlevania: Aria of Sorrow [Subset - Bonus]"> <span>Castlevania: Aria of Sorrow [Subset - Bonus]</span></a> | Game Boy Advance | Action-Adventure (Metroidvania) |
 
 ### Collab of the Year
-By: {% rauserpic SnowPin %} and {% rauserpic Ryudo %}
+By: {% rauserpic Snow %} and {% rauserpic Ryudo %}
 
 | Game                                                                                                                                                                                                                                                                                            | Console              | Genre             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ----------------- |
@@ -168,14 +168,14 @@ By: {% rauserpic Pebete %}
 | <a class="gameicon-link" href="https://retroachievements.org/game/595" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/027227.png" alt="Yu-Gi-Oh! Duel Monsters"> <span>Yu-Gi-Oh! Duel Monsters</span></a> | Game Boy | Card Battle |
 
 ### Best Gameboy Color
-By: {% rauserpic SnowPin %}
+By: {% rauserpic Snow %}
 
 | Game                                                                                                                                                                                                                                                            | Console        | Genre              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
 | <a class="gameicon-link" href="https://retroachievements.org/game/2502" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044411.png" alt="Lufia: The Legend Returns"> <span>Lufia: The Legend Returns</span></a> | Game Boy Color | Role-Playing (RPG) |
 
 ### Best Gameboy Advance
-By: {% rauserpic SnowPin %}
+By: {% rauserpic Snow %}
 
 | Game                                                                                                                                                                                                                                                         | Console          | Genre              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------ |
@@ -406,7 +406,7 @@ By: {% rauserpic StingX2 %}
 | <a class="gameicon-link" href="https://retroachievements.org/game/17589" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043483.png" alt="Balloon Fight"> <span>Balloon Fight</span></a> | Watara Supervision | Action |
 
 ### Best Wonderswan 
-By: {% rauserpic SnowPin %}
+By: {% rauserpic Snow %}
 
 | Game                                                                                                                                                                                                                                                                                                                     | Console    | Genre  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------ |
@@ -415,14 +415,14 @@ By: {% rauserpic SnowPin %}
 ## Subsets
 
 ### Best Subset
-By: {% rauserpic SnowPin %}
+By: {% rauserpic Snow %}
 
 | Game                                                                                                                                                                                                                                                                                 | Console              | Genre             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- | ----------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/17996" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049850.png" alt="Final Fantasy [Subset - Solo Class]"> <span>Final Fantasy [Subset - Solo Class]</span></a> | PlayStation Portable | Role-Playing Game |
 
 ### Best Professor Oak Subset
-By: {% rauserpic SnowPin %}
+By: {% rauserpic Snow %}
 
 | Game                                                                                                                                                                                                                                                                                                                       | Console  | Genre             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------- |

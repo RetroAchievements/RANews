@@ -110,7 +110,7 @@ Everything serious ever sent ends up at least being discussed ({% rauser ViperZa
 
 - Retro Olympics was approved and is being hosted by voiceofautumn and Searo, its currently in the 3rd week
 - Leapfrog was approved with HolyShinx as host, it is currently down to 10 players
-- Snowpin was approved to run Challenge League 3, it is currently open to anyone wanting to play
+- Snow was approved to run Challenge League 3, it is currently open to anyone wanting to play
 - The Great Jackolantern event was approved as the spring dev clean up event, it starts April 2nd
 - BendyHumans Peak Streak event was approved, it is always open to join
 - BendyHumans Master Quest event was approved, it is currently on hiatus

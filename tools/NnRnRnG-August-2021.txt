@@ -53,13 +53,13 @@ new	17868	SporyTike
 new	7679	voiceofautumn
 new	14601	siouxerskate
 new	7916	BigWeedSmokerMan
-new	16084	SnowPin
+new	16084	Snow
 new	17873	BennyBurrito
 new	16272	Shmelyoff Infernox
 new	14618	BrunoKiko
 new	15964	SporyTike
 new	10128	guindev
-new	10507	SnowPin
+new	10507	Snow
 new	9989	guindev
 new	11720	SlashTangent
 new	5467	televandalist
@@ -75,7 +75,7 @@ new	17853	KingS1zzle
 new	16634	SapphireSuicune
 new	17790	Griffin
 new	13069	Szhymphild
-new	11299	SnowPin
+new	11299	Snow
 new	16721	raniejogos
 new	11560	mopain85
 new	4023	BigWeedSmokerMan
@@ -109,7 +109,7 @@ new	3372	mario2188
 
 rev	5105	C	theanxietybuster
 rev	515	C	delmaru
-rev	519	W	SnowPin
+rev	519	W	Snow
 rev	810	W	msdmario
 rev	4598	C	Maize
 rev	990	C	SoltyD

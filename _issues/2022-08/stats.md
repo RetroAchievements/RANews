@@ -123,7 +123,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 4    | {% rauserpic dude1286 %}       |     11,045      |     90,942     |       176,514        |
 | 5    | {% rauserpic televandalist %}  |     10,797      |     79,440     |       214,382        |
 | 6    | {% rauserpic stfN1337 %}       |      9,712      |     73,645     |       119,872        |
-| 7    | {% rauserpic SnowPin %}        |      9,427      |     55,273     |       139,698        |
+| 7    | {% rauserpic Snow %}        |      9,427      |     55,273     |       139,698        |
 | 8    | {% rauserpic Scott %}          |      8,806      |     46,865     |        97,655        |
 | 9    | {% rauserpic matheus2653 %}    |      8,738      |     66,535     |       156,079        |
 | 10   | {% rauserpic Dexterspet %}     |      8,718      |     53,660     |       117,053        |

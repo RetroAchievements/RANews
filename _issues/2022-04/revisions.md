@@ -46,7 +46,7 @@ toc: true
 
 | Game                                                                                                                                                                                                                                                         | Revision By          | Genre              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- | ------------------ |
-| <a class="gameicon-link" href="https://retroachievements.org/game/11691" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/015974.png" alt="Metal Slug: 1st Mission"> <span>Metal Slug: 1st Mission</span></a> | {% rauser SnowPin %} | Action: Run 'n Gun |
+| <a class="gameicon-link" href="https://retroachievements.org/game/11691" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/015974.png" alt="Metal Slug: 1st Mission"> <span>Metal Slug: 1st Mission</span></a> | {% rauser Snow %} | Action: Run 'n Gun |
 
 <a href="#toc">:top:</a>
 
@@ -142,7 +142,7 @@ toc: true
 
 | Game                                                                                                                                                                                                                                                  | Revision Author      | Genre                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ----------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/1531" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/047157.png" alt="Adventures of Lolo 2"> <span>Adventures of Lolo 2</span></a> | {% rauser SnowPin %} | Action Puzzle (Top-Down View) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/1531" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/047157.png" alt="Adventures of Lolo 2"> <span>Adventures of Lolo 2</span></a> | {% rauser Snow %} | Action Puzzle (Top-Down View) |
 | <a class="gameicon-link" href="https://retroachievements.org/game/1491" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/039727.png" alt="Pac-Man"> <span>Pac-Man</span></a>                           | {% rauser JAM %}     | Arcade                        |
 | <a class="gameicon-link" href="https://retroachievements.org/game/1961" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/025040.png" alt="Snow Bros."> <span>Snow Bros.</span></a>                     | {% rauser JAM %}     | Platformer                    |
 

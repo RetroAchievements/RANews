@@ -76,7 +76,7 @@ Check out the top 25 achievement creators from this month.
 | 6    | {% rauserpic Layton %}              | 256          |
 | 7    | {% rauserpic suXin %}               | 254          |
 | 8    | {% rauserpic DoctorV %}             | 250          |
-| 9    | {% rauserpic SnowPin %}             | 248          |
+| 9    | {% rauserpic Snow %}             | 248          |
 | 10   | {% rauserpic EulerMoises1981 %}     | 211          |
 | 11   | {% rauserpic suspect15 %}           | 198          |
 | 12   | {% rauserpic TeddyWestside %}       | 181          |
@@ -105,7 +105,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 4    | {% rauserpic televandalist %}  |     11,532      |     85,701     |       225,294        |
 | 5    | {% rauserpic dude1286 %}       |     10,864      |     87,489     |       173,000        |
 | 6    | {% rauserpic stfN1337 %}       |      9,697      |     71,444     |       112,595        |
-| 7    | {% rauserpic SnowPin %}        |      9,310      |     55,940     |       158,464        |
+| 7    | {% rauserpic Snow %}        |      9,310      |     55,940     |       158,464        |
 | 8    | {% rauserpic matheus2653 %}    |      9,310      |     71,346     |       167,910        |
 | 9    | {% rauserpic Dexterspet %}     |      8,792      |     53,647     |       115,607        |
 | 10   | {% rauserpic MGNS8M %}         |      8,647      |     53,784     |       145,096        |
@@ -295,7 +295,7 @@ Check out which developers created the most code notes this month.
         <tr><td>6</td><td> {% rauserpic suspect15 %}      </td><td>955</td></tr>
         <tr><td>7</td><td> {% rauserpic Lewis50248 %}     </td><td>773</td></tr>
         <tr><td>8</td><td> {% rauserpic Alena %}          </td><td>753</td></tr>
-        <tr><td>9</td><td> {% rauserpic SnowPin %}        </td><td>597</td></tr>
+        <tr><td>9</td><td> {% rauserpic Snow %}        </td><td>597</td></tr>
         <tr><td>10</td><td> {% rauserpic timenoe %}        </td><td>588</td></tr>
     </tbody></table>
     </div>

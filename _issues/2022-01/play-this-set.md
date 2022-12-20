@@ -27,7 +27,7 @@ The fishing mechanic is very similar to Legend of the River King, with a simple 
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------ |
 | <a class="gameicon-link" href="https://retroachievements.org/game/765" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049979.png" alt="Final Fantasy VI Advance"> <span>Final Fantasy VI Advance</span></a> | Game Boy Advance | Role-Playing (RPG) |
 
-* Set by {% rauserpic SnowPin %}
+* Set by {% rauserpic Snow %}
 * Writeup by {% rauserpic AssClownKing %}
 
 After many a patient year, complete with several months in the Most Wanted for a handheld game (and surviving a few dropped builds no less), the "Final" Final Fantasy on GBA has Final-ly gotten an achievement set (and zero apologies for the pun). Was it worth the wait? In my opinion, absolutely. It is difficult to make what is essentially a second set of tasks to complete when another version of the game already has a set itself. Does one just make points for the same story beats, and challenges, or avoid altogether that which came before?

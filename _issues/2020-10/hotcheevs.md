@@ -69,7 +69,7 @@ This is the list of brand new sets released in September/2020 grouped by systems
 | Game | Author | Genre |
 |------|--------|-------|
 | <a class="gameicon-link" href="https://retroachievements.org/game/2430" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/017931.png" alt="Breath of Fire 2"> <span>Breath of Fire 2</span></a> | {% rauser voiceofautumn %} | Turn-based, Role-Playing |
-| <a class="gameicon-link" href="https://retroachievements.org/game/5311" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/018794.png" alt="Onimusha Tactics"> <span>Onimusha Tactics</span></a> | {% rauser SnowPin %} | Strategy/Tactics |
+| <a class="gameicon-link" href="https://retroachievements.org/game/5311" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/018794.png" alt="Onimusha Tactics"> <span>Onimusha Tactics</span></a> | {% rauser Snow %} | Strategy/Tactics |
 | <a class="gameicon-link" href="https://retroachievements.org/game/13126" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/037696.png" alt="Snood 2: On Vacation"> <span>Snood 2: On Vacation</span></a> | {% rauser pinguupinguu %} | Puzzle |
 
 <a href="#toc">:top:</a>
@@ -206,7 +206,7 @@ This is the list of brand new sets released in September/2020 grouped by systems
 | <a class="gameicon-link" href="https://retroachievements.org/game/9763" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/036821.png" alt="~Hack~ Super Moo World"> <span>~Hack~ Super Moo World</span></a> | {% rauser viniciuskombat %} | Platformer [Kaizo: Light / 16 Exits] |
 | <a class="gameicon-link" href="https://retroachievements.org/game/16571" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/036818.png" alt="~Hack~ Zap Lena World"> <span>~Hack~ Zap Lena World</span></a> | {% rauser Skystarmania %} | Platformer [Kaizo: Light / 13 Exits] |
 | <a class="gameicon-link" href="https://retroachievements.org/game/1102" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/037042.png" alt="Pocky and Rocky 2"> <span>Pocky and Rocky 2</span></a> | {% rauser Alena %} | Shoot-'Em-Up |
-| <a class="gameicon-link" href="https://retroachievements.org/game/1110" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/037095.png" alt="Prehistorik Man"> <span>Prehistorik Man</span></a> | {% rauser SnowPin %} | Platformer |
+| <a class="gameicon-link" href="https://retroachievements.org/game/1110" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/037095.png" alt="Prehistorik Man"> <span>Prehistorik Man</span></a> | {% rauser Snow %} | Platformer |
 | <a class="gameicon-link" href="https://retroachievements.org/game/1154" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/015612.png" alt="SimAnt: The Electronic Ant Colony"> <span>SimAnt: The Electronic Ant Colony</span></a> | {% rauser AzureFang %} | Strategy |
 
 <a href="#toc">:top:</a>

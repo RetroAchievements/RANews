@@ -1007,7 +1007,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 |{% rauserpic AxelViex %}|{% rauserpic SexyChazz %}|{% rauserpic Fergdog %}|
 |{% rauserpic ilikepie345 %}|{% rauserpic DaniloZlatan %}|{% rauserpic monkeytoung %}|
 |{% rauserpic renanbrj %}|{% rauserpic Tymestalker %}|{% rauserpic zandro %}|
-|{% rauserpic Aekko %}|{% rauserpic ParaParaKing %}|{% rauserpic SnowPin %}|
+|{% rauserpic Aekko %}|{% rauserpic ParaParaKing %}|{% rauserpic Snow %}|
 |{% rauserpic Delmaru %}|{% rauserpic zato %}|{% rauserpic Dario64 %}|
 |{% rauserpic Paladincecil %}|{% rauserpic Tarikkanbour %}|{% rauserpic BeekBeek85 %}|
 |{% rauserpic Malkil %}|{% rauserpic ruuzilla %}|{% rauserpic dericobanjo %}|
@@ -1114,7 +1114,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 
 ### 4,000 Achievements Created
 
-|{% rauserpic MGNS8M %}|{% rauserpic SnowPin %}||
+|{% rauserpic MGNS8M %}|{% rauserpic Snow %}||
 
 ### 3,000 Achievements Created
 
@@ -1185,7 +1185,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 |{% rauserpic Shmelyoff %}|{% rauserpic BrunoKiko %}|{% rauserpic GamerPupUK %}|
 |{% rauserpic hardt %}|{% rauserpic msdmario %}|{% rauserpic chenwulong %}|
 |{% rauserpic Alena %}|{% rauserpic Umaro137 %}|{% rauserpic tuteur51 %}|
-|{% rauserpic eldexter %}|{% rauserpic SnowPin %}|{% rauserpic SamuraiGamerCat %}|
+|{% rauserpic eldexter %}|{% rauserpic Snow %}|{% rauserpic SamuraiGamerCat %}|
 |{% rauserpic Atheistpanic %}|{% rauserpic HenrySwanson %}|{% rauserpic gooby %}|
 |{% rauserpic BenGhazi %}|{% rauserpic TrainerAbu %}|{% rauserpic voiceofautumn %}|
 |{% rauserpic Kasumariii %}|{% rauserpic Alfex %}|{% rauserpic valts %}|
@@ -1293,7 +1293,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 |{% rauserpic hardt %}|{% rauserpic BrunoKiko %}|{% rauserpic SherryBirkin %}|
 |{% rauserpic ikki5 %}|{% rauserpic msdmario %}|{% rauserpic Shmelyoff %}|
 |{% rauserpic HenrySwanson %}|{% rauserpic StingX2 %}|{% rauserpic eldexter %}|
-|{% rauserpic SnowPin %}|{% rauserpic MrGauss %}|{% rauserpic Umaro137 %}|
+|{% rauserpic Snow %}|{% rauserpic MrGauss %}|{% rauserpic Umaro137 %}|
 |{% rauserpic tuteur51 %}|{% rauserpic valts %}|{% rauserpic GamerPupUK %}|
 |{% rauserpic TrainerAbu %}|{% rauserpic NgNvNn %}|{% rauserpic voiceofautumn %}|
 |{% rauserpic Alena %}|{% rauserpic feifabricio %}|{% rauserpic chenwulong %}|
@@ -1309,7 +1309,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 
 ### 10,000 Code Notes Created
 
-|{% rauserpic SporyTike %}|{% rauserpic Alfex %}|{% rauserpic SnowPin %}|
+|{% rauserpic SporyTike %}|{% rauserpic Alfex %}|{% rauserpic Snow %}|
 |{% rauserpic TheMysticalOne %}|{% rauserpic wilhitewarrior %}|{% rauserpic SamuraiGoroh %}|
 
 ### 5,000 Code Notes Created
@@ -1376,7 +1376,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 ### 500 Leaderboards Created
 
 |{% rauserpic valts %}|{% rauserpic pinguupinguu %}|{% rauserpic NgNvNn %}|
-|{% rauserpic JAM %}|{% rauserpic GalacticSpear %}|{% rauserpic SnowPin %}|
+|{% rauserpic JAM %}|{% rauserpic GalacticSpear %}|{% rauserpic Snow %}|
 
 ### 250 Leaderboards Created
 

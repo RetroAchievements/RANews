@@ -77,7 +77,7 @@ Check out the top 25 achievement creators from this month.
 | 6    | {% rauserpic Darkc0m %}          | 229          |
 | 7    | {% rauserpic Layton %}           | 227          |
 | 8    | {% rauserpic Released %}         | 201          |
-| 9    | {% rauserpic SnowPin %}          | 190          |
+| 9    | {% rauserpic Snow %}          | 190          |
 | 10   | {% rauserpic TeddyWestside %}    | 184          |
 | 11   | {% rauserpic timenoe %}          | 163          |
 | 12   | {% rauserpic WanderingHeiho %}   | 144          |
@@ -100,7 +100,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 
 | Rank | Developer                           | Unlocks Awarded | Points Awarded | Retro Points Awarded |
 | :--- | :---------------------------------- | :-------------: | :------------: | :------------------: |
-| 1    | {% rauserpic SnowPin %}             |     16,100      |     87,741     |       181,670        |
+| 1    | {% rauserpic Snow %}             |     16,100      |     87,741     |       181,670        |
 | 2    | {% rauserpic televandalist %}       |     15,057      |    114,779     |       304,827        |
 | 3    | {% rauserpic Salsa %}               |     14,764      |    110,187     |       368,012        |
 | 4    | {% rauserpic TeddyWestside %}       |     14,458      |     89,408     |       203,165        |
@@ -298,7 +298,7 @@ Check out which developers created the most code notes this month.
     </tbody></table>
     </div> <div style='width:49%;display:inline-block;float:right'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
-        <tr><td>6</td><td>{% rauserpic SnowPin %}       </td><td>727</td></tr>
+        <tr><td>6</td><td>{% rauserpic Snow %}       </td><td>727</td></tr>
         <tr><td>7</td><td>{% rauserpic Layton %}        </td><td>703</td></tr>
         <tr><td>8</td><td>{% rauserpic Namuh %}         </td><td>678</td></tr>
         <tr><td>9</td><td>{% rauserpic Bryan1150 %}     </td><td>643</td></tr>

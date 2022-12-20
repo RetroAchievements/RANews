@@ -151,7 +151,7 @@ Even though it might be nostalgic to rewatch Coraline, why not give the DS game 
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------ |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3395" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/052747.png" alt="Soulcalibur"> <span>Soulcalibur</span></a> | Dreamcast | [3D Fighting](https://retroachievements.org/game/8359) |
 
-* Set by: {% rauserpic televandalist %}, {% rauserpic SnowPin %}
+* Set by: {% rauserpic televandalist %}, {% rauserpic Snow %}
 * Write-up by: {% rauserpic StingX2 %}
 
 I recently went back to this game after not playing it for almost two decades. Sandwiched between the playable but awkward [Soul Blade](https://retroachievements.org/game/11284) and the critically legendary [Soulcalibur II](https://retroachievements.org/game/2982), my brain just overwrote how solid this game is. Soulcalibur's base gameplay is a fighting game but every character has a unique weapon, each of them with their different weight and attached to a different game style. 

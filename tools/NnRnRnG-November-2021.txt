@@ -40,7 +40,7 @@ new	9823	blendedsea
 new	10561	adamjohnny5
 new	3910	tatoonie
 new	701	Brandovsky
-new	485	SnowPin
+new	485	Snow
 new	4251	voiceofautumn
 new	11927	TeddyWestside
 new	18125	SporyTike
@@ -57,7 +57,7 @@ new	17546	multonic
 new	4143	MarioJunior10
 new	1660	StingX2
 new	13024	StingX2
-new	3470	SnowPin
+new	3470	Snow
 new	12321	TeddyWestside
 new	18128	tatoonie
 new	12822	Shmelyoff

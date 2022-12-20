@@ -19,7 +19,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1   | JAM       | 10/23/2017    | 5                |
 | 2   | Rimsala** | 10/24/2018    | 4                |
 | 3   | 8BitOwl** | 10/19/2019    | 3                |
-| 4   | SnowPin   | 10/10/2020    | 2                |
+| 4   | Snow   | 10/10/2020    | 2                |
 | 5   | Zpeligo** | 10/11/2020    | 2                |
 | 6   | spudw**   | 10/17/2020    | 2                |
 | 7   | affftedio | 10/6/2021     | 1                |

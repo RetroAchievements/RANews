@@ -37,7 +37,7 @@ User Walls and send them a thankful message for closing so many tickets:
 - {% rauserpic theanxietybuster %}
 - {% rauserpic JAM %}
 - {% rauserpic multonic %}
-- {% rauserpic SnowPin %}
+- {% rauserpic Snow %}
 - {% rauserpic Hotscrock %}
 - {% rauserpic msdmario %}
 - {% rauserpic siouxerskate %}
@@ -58,10 +58,10 @@ Also a special thanks to:
 
 The two big heroes, tied for first with 1,288 points were
 - {% rauserpic televandalist %}
-- {% rauserpic SnowPin %}
+- {% rauserpic Snow %}
 
 Our top ticket closer, closing 181 tickets:
-- {% rauserpic SnowPin %}
+- {% rauserpic Snow %}
 
 The person who cleared the most games of tickets, resolving the tickets of 48 games:
 - {% rauserpic televandalist %}
@@ -80,7 +80,7 @@ The person who added the most RP, with Rich Presence added to 21 games:
 Rank | Participant | Points
 -----|-------------|-------
 1 | {% rauserpic televandalist %} | 1288 
-1 | {% rauserpic SnowPin %} | 1288 
+1 | {% rauserpic Snow %} | 1288 
 3 | {% rauserpic wilhitewarrior %} | 1064 
 4 | {% rauserpic Kisumebuckets %} | 938 
 5 | {% rauserpic BenGhazi %} | 762 
@@ -110,7 +110,7 @@ Rank | Participant | Points
 
 Rank | Participant | Tickets solved
 -----|-------------|-------
-1 | {% rauserpic SnowPin %} | 181
+1 | {% rauserpic Snow %} | 181
 2 | {% rauserpic televandalist %} | 163
 3 | {% rauserpic Kisumebuckets %} | 155
 4 | {% rauserpic wilhitewarrior %} | 151
@@ -143,7 +143,7 @@ Rank | Participant | Tickets solved
 Rank | Participant | Games
 -----|-------------|-------
 1 | {% rauserpic televandalist %} | 48
-2 | {% rauserpic SnowPin %} | 37
+2 | {% rauserpic Snow %} | 37
 3 | {% rauserpic wilhitewarrior %} | 30
 4 | {% rauserpic JAM %} | 27
 5 | {% rauserpic Hotscrock %} | 26
@@ -176,7 +176,7 @@ Rank | Participant | Developers
 -----|-------------|-----------
 1 | {% rauserpic televandalist %} | 22
 2 | {% rauserpic Hotscrock %} | 15
-3 | {% rauserpic SnowPin %} | 11
+3 | {% rauserpic Snow %} | 11
 3 | {% rauserpic JAM %} | 11
 5 | {% rauserpic wilhitewarrior %} | 10
 6 | {% rauserpic BenGhazi %} | 9
@@ -208,7 +208,7 @@ Rank | Participant | Rich Presence Scripts
 1 | {% rauserpic MarioJunior10 %} | 21
 2 | {% rauserpic televandalist %} | 19
 3 | {% rauserpic hardt %} | 16
-4 | {% rauserpic SnowPin %} | 13
+4 | {% rauserpic Snow %} | 13
 5 | {% rauserpic multonic %} | 11
 6 | {% rauserpic Infernox %} | 6
 6 | {% rauserpic msdmario %} | 6

@@ -125,7 +125,7 @@ The RANews project wouldn't be possible without the contributions of many passio
 | {% rauserpic Nepiki %}           | {% rauserpic Nydaxn %}        | {% rauserpic ockerjj %}        |
 | {% rauserpic Olafur %}           | {% rauserpic pinguupinguu %}  | {% rauserpic QATeam %}         |
 | {% rauserpic RANews %}           | {% rauserpic Raykusen %}      | {% rauserpic ShadwSonic %}     |
-| {% rauserpic Sines %}            | {% rauserpic SnowPin %}       | {% rauserpic SporyTike %}      |
+| {% rauserpic Sines %}            | {% rauserpic Snow %}       | {% rauserpic SporyTike %}      |
 | {% rauserpic StingX2 %}          | {% rauserpic suspect15 %}     | {% rauserpic Tayadaoc %}       |
 | {% rauserpic TheRealBillHicks %} | {% rauserpic TimeCrush %}     | {% rauserpic WanderingHeiho %} |
 | {% rauserpic WarioFan63 %}       | {% rauserpic Xymjak %}        |                                |

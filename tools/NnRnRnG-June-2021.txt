@@ -59,7 +59,7 @@ new	11802	guindev
 new	11478	guindev
 new	17601	Keltron3030
 new	17559	Alurith SlashTangent
-new	14596	SnowPin
+new	14596	Snow
 new	14307	Tybis
 new	7945	guindev
 new	5077	hardt
@@ -147,7 +147,7 @@ rev	87 	W	xnaivx
 rev	515	W	delmaru
 rev	34 	W	MrOwnership
 rev	7611	F	Thoreau
-rev	519	W	SnowPin
+rev	519	W	Snow
 rev	12625	F	Hotscrock
 rev	466	W	GalacticSpear
 rev	722	W	SlashTangent

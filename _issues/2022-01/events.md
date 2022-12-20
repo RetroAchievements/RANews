@@ -133,7 +133,7 @@ These events are open to any community member who wants to participate.
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=12318>
 - Period: February 2021 - Current
-- Host: {% rauserpic SnowPin %}
+- Host: {% rauserpic Snow %}
 - Winners of at least 4 Challenges:
   -	{% rauserpic BahamutVoid %}
   -	{% rauserpic Bendyhuman %}

@@ -30,7 +30,7 @@ B = Badge
 
 new	2275	hardt
 new	14852	wilhitewarrior
-new	5737	SnowPin
+new	5737	Snow
 new	17084	stfN1337
 new	11769	SherryBirkin
 new	17079	BlotchJBMR
@@ -91,7 +91,7 @@ rev	1961	N	JAM
 rev	11975	F	SherryBirkin
 rev	12737	F	Kisumebuckets
 rev	1076	F	multonic
-rev	4938	F	SnowPin
+rev	4938	F	Snow
 rev	7133	N	TeddyWestside
 rev	501	F	JAM
 

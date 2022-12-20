@@ -67,7 +67,7 @@ Check out some stats for the developer involved in bringing you the PSP achievem
 
 | #   | Developer                        | Achievements | Points | Retro Points | Mastery Awards |
 | --- | -------------------------------- | :----------: | :----: | :----------: | :------------: |
-| 1   | {% rauserpic SnowPin %}          |     830      | 72898  |    208998    |       28       |
+| 1   | {% rauserpic Snow %}          |     830      | 72898  |    208998    |       28       |
 | 2   | {% rauserpic lordpsycho %}       |     415      | 13293  |    19571     |       13       |
 | 3   | {% rauserpic SporyTike %}        |     375      |  9514  |    18662     |       90       |
 | 4   | {% rauserpic blendedsea %}       |     361      | 32298  |    61306     |       10       |

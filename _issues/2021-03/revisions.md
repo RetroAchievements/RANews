@@ -20,7 +20,7 @@ In this article we're going to see all the achievement sets that got revisions a
 |------|-------------|-------|
 | <a class="gameicon-link" href="https://retroachievements.org/game/12899" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041754.png" alt="~Bonus~ Legend of Zelda, The: A Link to the Past & Four Swords"> <span>~Bonus~ Legend of Zelda, The: A Link to the Past & Four Swords</span></a> | {% rauser BenGhazi %}  | Action RPG |
 | <a class="gameicon-link" href="https://retroachievements.org/game/2591" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/027740.png" alt="Global Star: Sudoku Fever"> <span>Global Star: Sudoku Fever</span></a> | {% rauser pinguupinguu %}  | Puzzle |
-| <a class="gameicon-link" href="https://retroachievements.org/game/6956" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/007213.png" alt="~Hack~ Final Fantasy I & II Mod of Balance"> <span>~Hack~ Final Fantasy I & II Mod of Balance</span></a> | {% rauser SnowPin %}  | Turn-based RPG |
+| <a class="gameicon-link" href="https://retroachievements.org/game/6956" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/007213.png" alt="~Hack~ Final Fantasy I & II Mod of Balance"> <span>~Hack~ Final Fantasy I & II Mod of Balance</span></a> | {% rauser Snow %}  | Turn-based RPG |
 | <a class="gameicon-link" href="https://retroachievements.org/game/16307" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/035172.png" alt="~Homebrew~ Tetrigram"> <span>~Homebrew~ Tetrigram</span></a> | {% rauser BlotchJBMR %}  | Tetrigram, Puzzle |
 | <a class="gameicon-link" href="https://retroachievements.org/game/580" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/031639.png" alt="Legend of Zelda, The: A Link to the Past & Four Swords"> <span>Legend of Zelda, The: A Link to the Past & Four Swords</span></a> | {% rauser BenGhazi %}  | Action-Adventure |
 
@@ -231,7 +231,7 @@ In this article we're going to see all the achievement sets that got revisions a
 
 | Game | Rescored By | Points Before | Points After |
 |------|-----------|:-------------:|:------------:|
-| <a class="gameicon-link" href="https://retroachievements.org/game/749" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/005196.png" alt="Classic NES Series: Zelda II: The Adventure of Link"> <span>Classic NES Series: Zelda II: The Adventure of Link</span></a> | {% rauser Snowpin %}  | 465 | 455 |
+| <a class="gameicon-link" href="https://retroachievements.org/game/749" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/005196.png" alt="Classic NES Series: Zelda II: The Adventure of Link"> <span>Classic NES Series: Zelda II: The Adventure of Link</span></a> | {% rauser Snow %}  | 465 | 455 |
 
 <a href="#toc">:top:</a>
 
@@ -241,7 +241,7 @@ In this article we're going to see all the achievement sets that got revisions a
 
 | Game | Rescored By | Points Before | Points After |
 |------|-----------|:-------------:|:------------:|
-| <a class="gameicon-link" href="https://retroachievements.org/game/8228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/008403.png" alt="~Unlicensed~ Zook Hero Z"> <span>~Unlicensed~ Zook Hero Z</span></a> | {% rauser Snowpin %}  | 406 | 368 |
+| <a class="gameicon-link" href="https://retroachievements.org/game/8228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/008403.png" alt="~Unlicensed~ Zook Hero Z"> <span>~Unlicensed~ Zook Hero Z</span></a> | {% rauser Snow %}  | 406 | 368 |
 
 <a href="#toc">:top:</a>
 
@@ -296,7 +296,7 @@ In this article we're going to see all the achievement sets that got revisions a
 | <a class="gameicon-link" href="https://retroachievements.org/game/4036" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/002783.png" alt="Road Fighter"> <span>Road Fighter</span></a> | {% rauser StingX2 %}  | 400 | 417 |
 | <a class="gameicon-link" href="https://retroachievements.org/game/1962" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/019705.png" alt="Soccer"> <span>Soccer</span></a> | {% rauser televandalist %}  | 290 | 375 |
 | <a class="gameicon-link" href="https://retroachievements.org/game/4818" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/004332.png" alt="Spy vs Spy"> <span>Spy vs Spy</span></a> | {% rauser televandalist %}  | 400 | 405 |
-| <a class="gameicon-link" href="https://retroachievements.org/game/1453" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/035181.png" alt="Zelda II: The Adventure of Link"> <span>Zelda II: The Adventure of Link</span></a> | {% rauser Snowpin %}  | 480 | 455 |
+| <a class="gameicon-link" href="https://retroachievements.org/game/1453" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/035181.png" alt="Zelda II: The Adventure of Link"> <span>Zelda II: The Adventure of Link</span></a> | {% rauser Snow %}  | 480 | 455 |
 
 <a href="#toc">:top:</a>
 
@@ -319,7 +319,7 @@ In this article we're going to see all the achievement sets that got revisions a
 
 | Game | Rescored By | Points Before | Points After |
 |------|-----------|:-------------:|:------------:|
-| <a class="gameicon-link" href="https://retroachievements.org/game/14907" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/029367.png" alt="Peter Pan's Playground"> <span>Peter Pan's Playground</span></a> | {% rauser Snowpin %}  | 406 | 368 |
+| <a class="gameicon-link" href="https://retroachievements.org/game/14907" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/029367.png" alt="Peter Pan's Playground"> <span>Peter Pan's Playground</span></a> | {% rauser Snow %}  | 406 | 368 |
 
 <a href="#toc">:top:</a>
 

@@ -102,6 +102,6 @@ The RANews project wouldn't be possible without the contributions of many passio
 | {% rauserpic JAM %}            | {% rauserpic LiveFastCyYoung %} | {% rauserpic MatheusBrazuca85 %} |
 | {% rauserpic miccmike %}       | {% rauserpic MrOwnership %}     | {% rauserpic Nydaxn %}           |
 | {% rauserpic ockerjj %}        | {% rauserpic pinguupinguu %}    | {% rauserpic Rohsiph %}          |
-| {% rauserpic Sm0r3s %}         | {% rauserpic SnowPin %}         | {% rauserpic SporyTike %}        |
+| {% rauserpic Sm0r3s %}         | {% rauserpic Snow %}         | {% rauserpic SporyTike %}        |
 | {% rauserpic StingX2 %}        | {% rauserpic televandalist %}   | {% rauserpic ViperZang %}        |
 | {% rauserpic WanderingHeiho %} | {% rauserpic Xymjak %}          |                                  |

@@ -88,7 +88,7 @@ new	6073	raniejogos
 
 
 
-rev	519	W	SnowPin
+rev	519	W	Snow
 rev	810	W	msdmario
 rev	4509	W	Bartis1989
 rev	10269	W	AlmightyXor

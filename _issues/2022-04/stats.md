@@ -78,7 +78,7 @@ Check out the top 25 achievement creators from this month.
 | Rank | Developer                      | Achievements |
 | ---- | ------------------------------ | ------------ |
 | 1    | {% rauserpic voiceofautumn %}  | 1,109        |
-| 2    | {% rauserpic SnowPin %}        | 558          |
+| 2    | {% rauserpic Snow %}        | 558          |
 | 3    | {% rauserpic tatoonie %}       | 416          |
 | 4    | {% rauserpic Cadaxar %}        | 390          |
 | 5    | {% rauserpic TeddyWestside %}  | 323          |
@@ -109,7 +109,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | Rank   | Developer                         | Unlocks Awarded | Points Awarded | Retro Points Awarded |
 | :----- | :-------------------------------- | :-------------: | :------------: | :------------------: |
 | 1      | {% rauserpic Salsa %}             |     12,925      |    100,221     |       336,698        |
-| **2**  | **{% rauserpic SnowPin %}**       |   **11,250**    |   **69,497**   |     **188,603**      |
+| **2**  | **{% rauserpic Snow %}**       |   **11,250**    |   **69,497**   |     **188,603**      |
 | 3      | {% rauserpic Brian %}             |     10,913      |     83,406     |       269,407        |
 | **4**  | **{% rauserpic televandalist %}** |   **10,892**    |   **80,151**   |     **258,118**      |
 | **5**  | **{% rauserpic SporyTike %}**     |   **10,634**    |   **62,778**   |     **165,838**      |

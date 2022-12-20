@@ -104,7 +104,7 @@ These events are open to any community member who wants to particpate.
 
 - Forum topic: <http://retroachievements.org/viewtopic.php?t=12318>
 - Period: February 2021 - Current
-- Host: {% rauserpic SnowPin %}
+- Host: {% rauserpic Snow %}
 
 <a href="#top">:top:</a>
 

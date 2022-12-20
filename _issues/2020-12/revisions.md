@@ -29,7 +29,7 @@ In this article we're going to see all the achievement sets that got revisions a
 
 | Game | Revision By | Genre |
 |------|-------------|-------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/4938" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/004402.png" alt="After Burst"> <span>After Burst</span></a> | {% rauser SnowPin %}  | Action |
+| <a class="gameicon-link" href="https://retroachievements.org/game/4938" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/004402.png" alt="After Burst"> <span>After Burst</span></a> | {% rauser Snow %}  | Action |
 
 <a href="#toc">:top:</a>
 

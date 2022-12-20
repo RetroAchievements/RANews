@@ -163,5 +163,5 @@ An announcement with more details will be made in the upcoming days.
 |{% rauserpic siouxerskate %}|{% rauserpic SlashTangent %}|{% rauserpic SporyTike %}|
 |{% rauserpic StingX2 %}|{% rauserpic TheMysticalOne %}|{% rauserpic timenoe %}|
 |{% rauserpic ZZKer %}|{% rauserpic GalacticSpear %}|{% rauserpic ladynadiad %}|
-|{% rauserpic pinguupinguu %}|{% rauserpic SnowPin %}|{% rauserpic televandalist %}|
+|{% rauserpic pinguupinguu %}|{% rauserpic Snow %}|{% rauserpic televandalist %}|
 |{% rauserpic voiceofautumn %}|{% rauserpic wilhitewarrior %}|{% rauserpic wolfman2000 %}|

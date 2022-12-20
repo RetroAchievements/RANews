@@ -113,7 +113,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 3    | {% rauserpic Brian %}          |     13,076      |     92,145     |       225,867        |
 | 4    | {% rauserpic dude1286 %}       |     11,287      |     94,315     |       176,371        |
 | 5    | {% rauserpic televandalist %}  |     10,958      |     82,420     |       222,339        |
-| 6    | {% rauserpic SnowPin %}        |      9,416      |     56,583     |       161,128        |
+| 6    | {% rauserpic Snow %}        |      9,416      |     56,583     |       161,128        |
 | 7    | {% rauserpic stfN1337 %}       |      9,118      |     72,526     |       107,164        |
 | 8    | {% rauserpic matheus2653 %}    |      8,040      |     64,795     |       148,262        |
 | 9    | {% rauserpic GalacticSpear %}  |      8,011      |     56,196     |       394,030        |
@@ -301,7 +301,7 @@ Check out which developers created the most code notes this month.
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
         <tr><td>1</td><td>{% rauserpic TheMysticalOne %}</td><td>3,121</td></tr>
-        <tr><td>2</td><td>{% rauserpic SnowPin %}</td><td>1,926</td></tr>
+        <tr><td>2</td><td>{% rauserpic Snow %}</td><td>1,926</td></tr>
         <tr><td>3</td><td>{% rauserpic Excessiveiser %}</td><td>1,468</td></tr>
         <tr><td>4</td><td>{% rauserpic DoctorV %}</td><td>1,186</td></tr>
         <tr><td>5</td><td>{% rauserpic PsyHunter29 %}</td><td>1,042</td></tr>

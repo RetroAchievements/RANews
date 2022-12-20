@@ -44,7 +44,7 @@ In this article we're going to see all the achievement sets that got revisions a
 
 | Game | Revision Author | Genre |
 |------|-----------------|-------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/519" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/002846.png" alt="Final Fantasy Tactics Advance"> <span>Final Fantasy Tactics Advance</span></a> | {% rauser SnowPin %}  | Tactical RPG |
+| <a class="gameicon-link" href="https://retroachievements.org/game/519" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/002846.png" alt="Final Fantasy Tactics Advance"> <span>Final Fantasy Tactics Advance</span></a> | {% rauser Snow %}  | Tactical RPG |
 | <a class="gameicon-link" href="https://retroachievements.org/game/677" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042438.png" alt="Mother 3"> <span>Mother 3</span></a> | {% rauser blendedsea %}  | RPG |
 
 <a href="#toc">:top:</a>

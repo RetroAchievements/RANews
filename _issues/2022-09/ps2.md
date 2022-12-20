@@ -335,7 +335,7 @@ Ultimate Destruction is sandbox action-adventure with a gamma-powered twist. Ins
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/2787" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059908.png" alt="Metal Gear Solid 2: Substance"> <span>Metal Gear Solid 2: Substance</span></a> | Action-adventure, stealth |
 
-By: {% rauserpic wilhitewarrior %}, {% rauserpic SnowPin %}
+By: {% rauserpic wilhitewarrior %}, {% rauserpic Snow %}
 
 Considered by many to be the greatest bait and switch of all time. Metal Gear Solid 2 was promoted in a way unlike any other game in history. The trailer was an event in E3 that people sat and watched like their child being born, but Kojima was ahead of the game and he wasn't done with his magic. Despite all the information showing this to be another Solid Snake adventure...it wasn't. Instead you play as the mysterious Raiden on a mission to save the President on the Big Shell where a terrorist organization known as Dead Cell has taken over. Get ready to hop on Kojima's wild ride again.
 
@@ -385,7 +385,7 @@ After having stopped the evil genius Specter and his army of intelligent monkeys
 | <a class="gameicon-link" href="https://retroachievements.org/game/19021" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061146.png" alt=".hack//Infection"> <span>.hack//Infection</span></a>                                                   | Action RPG |
 | <a class="gameicon-link" href="https://retroachievements.org/game/20344" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061281.png" alt=".hack//Infection \[Subset - Book of 1000]"> <span>.hack//Infection \[Subset - Book of 1000]</span></a> | Action RPG |
 
-By: {% rauserpic SnowPin %}
+By: {% rauserpic Snow %}
 
 The World is the premiere MMO + VR experience, the only of its kind. Much of its creation and history is wrapped in mystery, and when Kite signs up on the encouragement of his friend Orca who is one of the games best players, he gladly follows his lead. Things are going fine until a girl in white appears attempting to give Orca the Book of Twilight, but a monster attacks and everything crashes (they didn't use the Playtesting group on RA, darn). Afterward, Orca falls into a coma in the real world, and now Kite needs to find out what happened to his friend. He meets a girl Black Rose and they end up in a cathedral where Kite's attacked and transformed by the Book of Twilight he received instead of Orca. Now Kite has the power to alter the world, making him the best chance to save the fantasy world and also a danger to everyone. A subset for the Book of 1000 is also available.
 
@@ -398,7 +398,7 @@ The World is the premiere MMO + VR experience, the only of its kind. Much of its
 | <a class="gameicon-link" href="https://retroachievements.org/game/19019" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061149.png" alt=".hack//Quarantine"> <span>.hack//Quarantine</span></a>                                                   | Action RPG |
 | <a class="gameicon-link" href="https://retroachievements.org/game/20347" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061284.png" alt=".hack//Quarantine \[Subset - Book of 1000]"> <span>.hack//Quarantine \[Subset - Book of 1000]</span></a> | Action RPG |
 
-By: {% rauserpic SnowPin %}
+By: {% rauserpic Snow %}
 
 Mutation, Outbreak, and Quarantine each serve as direct continuations to the story that began in .hack//Infection, and are meant to be played in order. You can even transfer your save data from each game to the next. While Kite remains the protagonist throughout, many different party members join you over the course of the tetralogy. The gameplay remains more or less consistent across each entry, but the story is the main driving force that will make you want to see things through to the end. For true completionists, each set also features a subset for the Book of 1000.
 
@@ -504,7 +504,7 @@ Dragon Ball Z: Budokai is the first entry in a series of fighting video games ba
 | <a class="gameicon-link" href="https://retroachievements.org/game/5579" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061678.png" alt="Guitar Hero III: Legends of Rock"> <span>Guitar Hero III: Legends of Rock</span></a>                                                                | Rhythm |
 | <a class="gameicon-link" href="https://retroachievements.org/game/20373" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061665.png" alt="Guitar Hero III: Legends of Rock \[Subset - Expert Full Combos]"> <span>Guitar Hero III: Legends of Rock \[Subset - Expert Full Combos]</span></a> | Rhythm |
 
-By: {% rauserpic SnowPin %}, {% rauserpic pinguupinguu %}
+By: {% rauserpic Snow %}, {% rauserpic pinguupinguu %}
 
 Are you ready... TO ROCK?! Guitar Hero III is, as the name implies, the third entry in the Guitar Hero franchise, a music rhythm series that teaches how to play guitar with a controller designed after the music instrument - though no worries, you can just use regular controller inputs for this game. The game features a total of 73 songs spread across both solo and co-op career modes, ranging from classics like Welcome to the Jungle by Guns 'N Roses, to more modern songs like Stricken by Disturbed and of course, the infamous Through the Fire and Flames by DragonForce. I hope your guitar skills are up to the test, because you're going to need them - especially for the expert full combos subset!
 
@@ -536,7 +536,7 @@ After the great success of Crash Team Racing on the PlayStation 1, the Bandicoot
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/5803" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/056888.png" alt="Final Fantasy XII: International Zodiac Job System"> <span>Final Fantasy XII: International Zodiac Job System</span></a> | [Role-Playing Game](https://retroachievements.org/game/902) |
 
-By: {% rauserpic siouxerskate %}, {% rauserpic SnowPin %}
+By: {% rauserpic siouxerskate %}, {% rauserpic Snow %}
 
 The original Final Fantasy XII was released worldwide in 2006, but Japan got an exclusive upgrade called the International Zodiac Job System - which can be played with an English patch! This upgrade made heavy changes to the character development system, introducing jobs to the game, as well as some tweaks to the battle system and a completely new challenging mode that will put you against one of the toughest challenges the series has ever seen. Aside from that, the complete Ivalice experience is kept intact, following a band of resistance fighting against the Archadian Empire.
 

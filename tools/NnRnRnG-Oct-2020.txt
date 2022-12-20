@@ -59,7 +59,7 @@ new	13891	anty
 new	1708	spudw
 new	12364	Wimpy
 new	13246	stfN1337
-new	7590	SnowPin
+new	7590	Snow
 new	16927	viniciuskombat
 new	17036	ikki5
 new	17035	ikki5
@@ -75,7 +75,7 @@ new	4305	Bl4h8L4hBl4h
 new	13808	hardt
 new	15981	SherryBirkin zxmega
 new	17053	Alfex
-new	11364	SnowPin
+new	11364	Snow
 new	15086	KloggMonkey
 new	17054	Kisumebuckets
 new	4152	peyote
@@ -91,7 +91,7 @@ new	2083	hardt
 new	11409	MGNS8M
 new	17069	Kisumebuckets
 new	5468	Keltron3030
-new	6357	SnowPin
+new	6357	Snow
 new	2362	g0dm0d3
 new	854	BenGhazi
 new	17066	SherryBirkin

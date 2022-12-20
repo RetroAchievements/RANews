@@ -118,7 +118,7 @@ Developers are using an early QT build of the PCSX2 standalone, which can be kep
 # Discord Updates
 - `#devquest-log` channel created.
 - `@PS2-Crew` role created to organize the PS2 rollout.
-- {% rauserpic SnowPin %} added to the Admin team.
+- {% rauserpic Snow %} added to the Admin team.
 - {% rauserpic Suffa28 %} added to the Moderation team.
 - {% rauserpic AuburnRDM %} & {% rauserpic DoctorV %} added to the BombSquad team.
 - {% rauserpic Suffa28 %}, {% rauserpic malasdair %}, {% rauserpic timenoe %} & {% rauserpic Brandovsky %} added to the Code-Reviewer team.
@@ -203,7 +203,7 @@ Developers are using an early QT build of the PCSX2 standalone, which can be kep
 <br><br>
 
 <a class="gameicon-link" href="https://retroachievements.org/game/15939" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049337.png" alt="[DevQuest 010] It Takes Two"> <span>[DevQuest 010] It Takes Two</span></a>
-- {% rauserpic pinguupinguu %} for [Victorious: Taking The Lead (Nintendo DS)](http://retroachievements.org/game/18370) with {% rauserpic SporyTike %} & [Sega Smash Pack - Volume 1 (Dreamcast)](https://retroachievements.org/game/19152) with {% rauserpic televandalist %}, {% rauserpic ladynadiad %}, {% rauserpic KingS1zzle %}, {% rauserpic TheMysticalOne %}, {% rauserpic SnowPin %}, {% rauserpic soltyd %}, {% rauserpic BigWeedSmokerMan %}, {% rauserpic wolfman2000 %}, {% rauserpic BahamutVoid %}, {% rauserpic StingX2 %} & {% rauserpic SporyTike %}
+- {% rauserpic pinguupinguu %} for [Victorious: Taking The Lead (Nintendo DS)](http://retroachievements.org/game/18370) with {% rauserpic SporyTike %} & [Sega Smash Pack - Volume 1 (Dreamcast)](https://retroachievements.org/game/19152) with {% rauserpic televandalist %}, {% rauserpic ladynadiad %}, {% rauserpic KingS1zzle %}, {% rauserpic TheMysticalOne %}, {% rauserpic Snow %}, {% rauserpic soltyd %}, {% rauserpic BigWeedSmokerMan %}, {% rauserpic wolfman2000 %}, {% rauserpic BahamutVoid %}, {% rauserpic StingX2 %} & {% rauserpic SporyTike %}
 <br><br>
 
 <a class="gameicon-link" href="https://retroachievements.org/game/1280" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049821.png" alt="[DevQuest 011] Happy Birthday RA!"> <span>[DevQuest 011] Happy Birthday RA!</span></a>
@@ -211,7 +211,7 @@ Developers are using an early QT build of the PCSX2 standalone, which can be kep
 <br><br>
 
 <a class="gameicon-link" href="https://retroachievements.org/game/672" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/052519.png" alt="[DevQuest 012] Hacker's Habit"> <span>[DevQuest 012] Hacker's Habit</span></a>
-- {% rauserpic SnowPin %} for [~Hack~Final Fantasy IV Ultima (SNES)](https://retroachievements.org/game/1072) & [Mega Man Wily's Conquest II - Hyper Edition Turbo! (NES)](https://retroachievements.org/game/19750)
+- {% rauserpic Snow %} for [~Hack~Final Fantasy IV Ultima (SNES)](https://retroachievements.org/game/1072) & [Mega Man Wily's Conquest II - Hyper Edition Turbo! (NES)](https://retroachievements.org/game/19750)
 <br><br>
 
 <a class="gameicon-link" href="https://retroachievements.org/game/795" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/057676.png" alt="[DevQuest 013] complete.me"> <span>[DevQuest 013] complete.me</span></a>

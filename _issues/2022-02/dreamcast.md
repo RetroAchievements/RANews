@@ -77,7 +77,7 @@ Without further ado, now presenting the RetroAchievements Dreamcast launch windo
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/18015" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051364.png" alt="House of the Dead 2, The"> <span>House of the Dead 2, The</span></a> | Arcade  | Light-Gun Shooter |
 
-- By: {% rauserpic SnowPin %}
+- By: {% rauserpic Snow %}
 - **Available At Dreamcast Launch!**
 
 > This horror rail shooter is best known for its branching path system, which keeps replayability high as each playthrough is unique. Originating in arcades, high score chasers will find plenty to enjoy here. The game is designed around a light gun, though a more traditional control scheme is also available.
@@ -174,7 +174,7 @@ Without further ado, now presenting the RetroAchievements Dreamcast launch windo
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3488" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051214.png" alt="Grandia II"> <span>Grandia II</span></a> | RPG   |
 
-- By: {% rauserpic Ryudo %} and {% rauserpic SnowPin %}
+- By: {% rauserpic Ryudo %} and {% rauserpic Snow %}
 - **Available At Dreamcast Launch!**
 
 > The follow-up to the legendary RPG Grandia is finally coming to RetroAchievements! The battle system that made the original so unique returns here, and the world is now fully rendered in stunning 3D. This entry features a standalone story, making it the perfect jumping on point for newcomers.
@@ -260,7 +260,7 @@ Without further ado, now presenting the RetroAchievements Dreamcast launch windo
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3395" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/052747.png" alt="Soulcalibur"> <span>Soulcalibur</span></a> | Fighting |
 
-- By: {% rauserpic SnowPin %} and {% rauserpic televandalist %}
+- By: {% rauserpic Snow %} and {% rauserpic televandalist %}
 - **Available At Dreamcast Launch!**
 
 > Soulcalibur is a fighting game best known for its overwhelmingly positive critical response. It still holds the fourth place position on Metacritic’s [Best Video Games of All Time](https://www.metacritic.com/browse/games/score/metascore/all/all/filtered) list, and continues to receive high praise long after its release. It was a Dreamcast exclusive as well, and perhaps one of the greatest examples of what made the system so special. With the addition of achievements, now’s the perfect time to discover why this game is so beloved.
@@ -372,7 +372,7 @@ Without further ado, now presenting the RetroAchievements Dreamcast launch windo
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/10828" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/052594.png" alt="Phantasy Star Online Ver. 2"> <span>Phantasy Star Online Ver. 2</span></a> | RPG   |
 
-- By: {% rauserpic SnowPin %} and {% rauserpic Zpeligo %}
+- By: {% rauserpic Snow %} and {% rauserpic Zpeligo %}
 - **Available At Dreamcast Launch!**
 
 > The Dreamcast was ahead of its time with its online capabilities, and Sonic Team took full advantage of that technology with Phantasy Star Online, the first online console RPG. Although the achievement set is restricted to offline mode, this is still a massive game with tons to do. The “Ver. 2” in the title refers to a version update over the original that adds even more content. The gameplay loop here is all about fighting monsters and bosses with your customized build, gathering exp and loot, and returning to the hub to prepare for the next adventure.

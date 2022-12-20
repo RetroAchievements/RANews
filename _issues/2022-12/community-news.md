@@ -223,7 +223,7 @@ Approved Subsets
 
 <a class="gameicon-link" href="https://retroachievements.org/game/15952" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044441.png" alt="[DevQuest 005] Trigger Happy"> <span>[DevQuest 005] Trigger Happy</span></a>
 - {% rauserpic kmpers %}
-- {% rauserpic SnowPin %}
+- {% rauserpic Snow %}
 
 <a class="gameicon-link" href="https://retroachievements.org/game/15907" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045565.png" alt="[DevQuest 006] The Unwanted"> <span>[DevQuest 006] The Unwanted</span></a>
   - {% rauserpic Darkc0m %} for [Die Hard Arcade \| Dynamite Deka (Saturn))](https://retroachievements.org/game/14570)
@@ -258,7 +258,7 @@ Approved Subsets
 <a class="gameicon-link" href="https://retroachievements.org/game/15942" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/062544.png" alt="[DevQuest 017] RA World Cup"> <span>[DevQuest 017] RA World Cup</span></a>
   - {% rauserpic LogicalFallacy %} for [Golf (Virtual Boy)](https://retroachievements.org/game/14302) & [Final Lap Special: GT & Formula Machine (Wonderswan)](https://retroachievements.org/game/14960)
   - {% rauserpic voiceofautumn %} for [Street Hoop \| Street Slam \| Dunk Dream (Arcade)](https://retroachievements.org/game/12436) & [Pro Darts (Game Boy Color)](https://retroachievements.org/game/8757)
-  - {% rauserpic SnowPin %} for [Tony Hawk's Pro Skater 3 (PlayStation 2)](https://retroachievements.org/game/2826) & [NHL 2K10 (PlayStation 2)](https://retroachievements.org/game/21463)
+  - {% rauserpic Snow %} for [Tony Hawk's Pro Skater 3 (PlayStation 2)](https://retroachievements.org/game/2826) & [NHL 2K10 (PlayStation 2)](https://retroachievements.org/game/21463)
 
 
 ### Vet Developer Progress

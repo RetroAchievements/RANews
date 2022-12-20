@@ -29,11 +29,11 @@ B = Badge
 -----------------------------------------------------------------------------
 
 new	7474	GalacticSpear
-new	15722	SnowPin
+new	15722	Snow
 new	18635	SporyTike
 new	3397	StingX2
 new	5119	deng
-new	8376	SnowPin zxmega
+new	8376	Snow zxmega
 new	3562	ladynadiad
 new	13355	voiceofautumn
 new	3192	TeddyWestside
@@ -42,7 +42,7 @@ new	2283	TheMysticalOne
 new	3585	BahamutVoid
 new	3818	Zyvyn
 new	10424	Pebete
-new	12861	SnowPin
+new	12861	Snow
 new	18595	guindev
 new	6433	Delmaru
 new	18542	LordAndrew
@@ -52,7 +52,7 @@ new	4463	ventuz
 new	11405	tatoonie
 new	17923	AlexGatao
 new	3165	Shmelyoff
-new	6977	SnowPin
+new	6977	Snow
 new	7201	MaddieKittyTV
 new	3969	MrOwnership
 new	18610	pinguupinguu
@@ -73,7 +73,7 @@ new	7895	guindev
 new	18696	voiceofautumn
 new	17413	adamjohnny5
 new	12723	TheMysticalOne
-new	11691	SnowPin
+new	11691	Snow
 new	9734	Excessiveiser
 new	6907	Cadaxar
 new	1271	Cadaxar
@@ -92,7 +92,7 @@ new	5194	Altomar
 new	18716	Cadaxar
 new	18719	Cadaxar
 new	194	SlashTangent
-new	16826	SnowPin
+new	16826	Snow
 new	1348	guindev
 new	12175	arcadez
 new	18707	ShadwSonic
@@ -105,7 +105,7 @@ new	18724	TeddyWestside
 new	18108	LordAndrew
 new	4705	Cadaxar
 new	4819	EulerMoises1981
-new	2295	SnowPin
+new	2295	Snow
 new	7437	TheMysticalOne
 new	1457	Bedtime
 new	3807	tatoonie
@@ -113,7 +113,7 @@ new	18756	tatoonie
 new	13125	tatoonie
 new	16994	voiceofautumn
 new	17555	Brandovsky
-new	18768	SnowPin
+new	18768	Snow
 new	17366	anic
 new	18464	Ghal416
 new	14382	FireRabbit
@@ -142,7 +142,7 @@ new	4873	voiceofautumn
 new	11114	EmperorDune
 new	11601	DoctorV
 new	18690	ventuz
-new	12684	SnowPin
+new	12684	Snow
 new	18655	Lewis50248
 new	4546	Cadaxar
 new	14407	MaddieKittyTV
@@ -160,9 +160,9 @@ new	6925	LogicalFallacy
 new	7296	voiceofautumn
 new	17272	Brandovsky
 new	10823	TheMysticalOne
-new	10805	SnowPin
-new	9607	SnowPin
-new	9543	SnowPin
+new	10805	Snow
+new	9607	Snow
+new	9543	Snow
 new	6926	Soulsderfuchs
 new	10909	Brandovsky
 new	14040	Kayesay
@@ -218,14 +218,14 @@ rev	10701	F	deng
 rev	1174	N	GalacticSpear
 rev	520	F	wilhitewarrior	
 rev	1865	F	Shmelyoff
-rev	11691	F	SnowPin
+rev	11691	F	Snow
 rev	12815	F	SlashTangent
 rev	9918	F	Skystarmania
 rev	10462	N	SlashTangent
 rev	10210	N	SlashTangent
 rev	1547	F	TheMysticalOne
-rev	1531	N	SnowPin
-rev	14	N	SnowPin
+rev	1531	N	Snow
+rev	14	N	Snow
 
 
 

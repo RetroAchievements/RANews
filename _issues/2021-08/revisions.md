@@ -76,7 +76,7 @@ In this article we're going to see all the achievement sets that got revisions a
 
 | Game | Revision Author | Genre |
 |------|-----------------|-------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/519" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/002846.png" alt="Final Fantasy Tactics Advance"> <span>Final Fantasy Tactics Advance</span></a> | {% rauser SnowPin %}  | Tactical RPG |
+| <a class="gameicon-link" href="https://retroachievements.org/game/519" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/002846.png" alt="Final Fantasy Tactics Advance"> <span>Final Fantasy Tactics Advance</span></a> | {% rauser Snow %}  | Tactical RPG |
 | <a class="gameicon-link" href="https://retroachievements.org/game/770" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042859.png" alt="Kirby: Nightmare in Dream Land"> <span>Kirby: Nightmare in Dream Land</span></a> | {% rauser GalacticSpear %}  | Platformer |
 | <a class="gameicon-link" href="https://retroachievements.org/game/677" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042438.png" alt="Mother 3"> <span>Mother 3</span></a> | {% rauser blendedsea %}  | RPG |
 | <a class="gameicon-link" href="https://retroachievements.org/game/515" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042054.png" alt="Pokemon FireRed Version"> <span>Pokemon FireRed Version</span></a> | {% rauser delmaru %}  | Role-Playing Game |

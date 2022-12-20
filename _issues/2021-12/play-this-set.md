@@ -60,7 +60,7 @@ Now onto the set design. This game has a few missables but are marked with trigg
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/10387" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/047375.png" alt="Crisis Core: Final Fantasy VII"> <span>Crisis Core: Final Fantasy VII</span></a> | PlayStation Portable | Action role-playing |
 
-* Set by: {% rauserpic SnowPin %}
+* Set by: {% rauserpic Snow %}
 * Writeup by: {% rauserpic Jenettebaghead %}
 
 Get ready to join SOLDIER as Zack Fair. This game precedes the story of Final Fantasy VII and lets you see Midgar through the eyes of a down to earth hero who learns more and more about what SOLDIER is all about. While getting introduced to two new characters like Angeal and Genesis you also get reacquainted with Sephiroth before incidents take place in VII. As you play the game you’ll get to partake in side missions as you follow the story path, receive emails from coworkers and even fan clubs. 

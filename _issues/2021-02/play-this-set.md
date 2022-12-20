@@ -23,7 +23,7 @@ Our idea is to post up to 10 "Play This Set" per month. If you want to advertise
 |------|---------|-------| 
 | <a class="gameicon-link" href="https://retroachievements.org/game/4958" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041044.png" alt="Final Fantasy Tactics A2: Grimoire of the Rift"> <span>Final Fantasy Tactics A2: Grimoire of the Rift</span></a> | Nintendo DS | Strategy |
 
-Set by {% rauserpic SnowPin %}
+Set by {% rauserpic Snow %}
 
 Writeup by {% rauserpic DanielARP %}
   
@@ -103,11 +103,11 @@ Do you have what it takes to become a Pro Skater?
 |------|---------|-------| 
 | <a class="gameicon-link" href="https://retroachievements.org/game/5021" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/015536.png" alt="Donkey Kong Country"> <span>Donkey Kong Country</span></a> | Game Boy Color | Platformer |
 
-Set by {% rauserpic SnowPin %}
+Set by {% rauserpic Snow %}
 
 Writeup by {% rauserpic StingX2 %}
 
-I'm not going to lie to you, this is the worst version of Donkey Kong Country. Even the gameboy re-imagining (DK Land) is both more creative and more functional. Still this is a well developed set with great challenge for the player. SnowPin may have put more care into this set than the actual development team porting it. I say that because DKC GBC is as close to "Kuso" as any Donkey Kong game has ever reached. The colors bleed on screen, the music is off key, and the controls respond when they want too. The game even struggles to realize when you find all the minigames sometimes taking multiple attempts to load correctly.  
+I'm not going to lie to you, this is the worst version of Donkey Kong Country. Even the gameboy re-imagining (DK Land) is both more creative and more functional. Still this is a well developed set with great challenge for the player. Snow may have put more care into this set than the actual development team porting it. I say that because DKC GBC is as close to "Kuso" as any Donkey Kong game has ever reached. The colors bleed on screen, the music is off key, and the controls respond when they want too. The game even struggles to realize when you find all the minigames sometimes taking multiple attempts to load correctly.  
 
 And yet, there is small bits of magic here that aren't realized until the GBA version. Yes, dear reader this game is a port of the SNES game but the GBA game is a remake of this game. If just to see what went so wrong, it is worth playing Donkey Kong Country on GBC.
 

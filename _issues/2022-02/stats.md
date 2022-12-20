@@ -72,7 +72,7 @@ Check out the top 25 achievement creators from this month.
 | 1    | {% rauserpic Tayadaoc %}        | 366          |
 | 2    | {% rauserpic lordpsycho %}      | 249          |
 | 3    | {% rauserpic AlexGatao %}       | 245          |
-| 4    | {% rauserpic SnowPin %}         | 239          |
+| 4    | {% rauserpic Snow %}         | 239          |
 | 5    | {% rauserpic voiceofautumn %}   | 170          |
 | 6    | {% rauserpic pinguupinguu %}    | 142          |
 | 7    | {% rauserpic raniejogos %}      | 106          |
@@ -112,7 +112,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 10   | **{% rauserpic matheus2653 %}**    |    **7,726**    |  **120,666**   |     **343,794**      |
 | 11   | **{% rauserpic MGNS8M %}**         |    **7,362**    |   **88,254**   |     **297,724**      |
 | 12   | {% rauserpic Jaarl %}              |      7,224      |    105,462     |       254,460        |
-| 13   | **{% rauserpic SnowPin %}**        |    **6,987**    |   **78,004**   |     **278,416**      |
+| 13   | **{% rauserpic Snow %}**        |    **6,987**    |   **78,004**   |     **278,416**      |
 | 14   | **{% rauserpic Altomar %}**        |    **6,875**    |   **91,386**   |     **220,844**      |
 | 15   | **{% rauserpic jplima %}**         |    **6,415**    |  **123,170**   |     **363,294**      |
 | 16   | **{% rauserpic BrunoKiko %}**      |    **5,871**    |   **66,836**   |     **133,926**      |
@@ -278,7 +278,7 @@ Check out which developers created the most code notes this month.
 <div>
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
-        <tr><td>1</td><td>{% rauserpic SnowPin %}</td><td>886</td></tr>
+        <tr><td>1</td><td>{% rauserpic Snow %}</td><td>886</td></tr>
         <tr><td>2</td><td>{% rauserpic BatFastardJordy %}</td><td>640</td></tr>
         <tr><td>3</td><td>{% rauserpic guindev %}</td><td>527</td></tr>
         <tr><td>4</td><td>{% rauserpic ladynadiad %}</td><td>510</td></tr>

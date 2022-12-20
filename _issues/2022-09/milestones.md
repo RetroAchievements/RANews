@@ -181,7 +181,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 5,000 Achievements Created
 
-|{% rauserpic SnowPin %}|||
+|{% rauserpic Snow %}|||
 
 ### 3,000 Achievements Created
 

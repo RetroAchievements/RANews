@@ -112,7 +112,7 @@ new	3217	TeddyWestside
 new	3133	tatoonie
 new	19007	Bartis1989
 new	15699	AlexGatao
-new	10386	SnowPin
+new	10386	Snow
 new	18609	Flashfire42
 new	18951	Etron
 new	2005	EulerMoises1981
@@ -179,8 +179,8 @@ rev	595	F	Shaoden
 rev	1174	W	GalacticSpear
 rev	10462	W	SlashTangent
 rev	10210	W	SlashTangent
-rev	1531	F	SnowPin
-rev	14	F	SnowPin
+rev	1531	F	Snow
+rev	14	F	Snow
 rev	2182	F	wolfman2000	
 rev	537	F	TheMysticalOne
 rev	1403	N	Shaoden

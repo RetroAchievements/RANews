@@ -66,7 +66,7 @@ toc: true
 
 | Game                                                                                                                                                                                                                                                  | Revision By          | Genre                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ----------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/1531" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/047157.png" alt="Adventures of Lolo 2"> <span>Adventures of Lolo 2</span></a> | {% rauser SnowPin %} | Action Puzzle (Top-Down View) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/1531" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/047157.png" alt="Adventures of Lolo 2"> <span>Adventures of Lolo 2</span></a> | {% rauser Snow %} | Action Puzzle (Top-Down View) |
 
 <a href="#toc">:top:</a>
 

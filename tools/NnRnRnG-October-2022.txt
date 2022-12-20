@@ -31,7 +31,7 @@ B = Badge
 new	19389	Layton SporyTike							
 new	19199	MrOwnership								
 new	19024	televandalist								
-new	5803	siouxerskate SnowPin							
+new	5803	siouxerskate Snow							
 new	2928	Chawk								
 new	4761	malasdair								
 new	18141	DanB								
@@ -59,7 +59,7 @@ new	17947	Darkc0m
 new	20498	miccmike								
 new	20251	Flowleyd								
 new	5819	Tardigrade								
-new	2787	wilhitewarrior SnowPin							
+new	2787	wilhitewarrior Snow							
 new	14530	ThatAmericanSlacker								
 new	3185	KingS1zzle								
 new	3567	ladynadiad								
@@ -103,7 +103,7 @@ new	2270	Numberman
 new	20559	MrOwnership								
 new	21369	KingS1zzle								
 new	17399	Delmaru								
-new	20285	SnowPin								
+new	20285	Snow								
 new	14262	Delmaru								
 new	19316	LordAndrew								
 new	1910	Bedtime								
@@ -172,7 +172,7 @@ new	21188	MaddieKittyTV
 new	21437	timenoe								
 new	11941	Tybis								
 new	5706	voiceofautumn								
-new	2826	SnowPin								
+new	2826	Snow								
 new	19485	Tayadaoc								
 new	19553	Cadaxar								
 new	1324	valts								

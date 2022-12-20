@@ -43,7 +43,7 @@ User and developer milestones for various categories.
 List of running events in the RetroAchievements scene that are still open to join.
 
 
-### ***Community News
+### Community News
 Stay up to date with all the latest RA community news.
 
 
@@ -55,10 +55,10 @@ Stay up to date with all the latest RA community news.
 Community members talking about their favorite sets and why you should play them.
 
 
-<!-- ### **Wish This Set
+### Wish This Set
 Wish This Set is intended to convince other members to request a game that doesn’t have an achievement set yet.
 
-[For those who don't know if a game doesn't have achievements, you can Request a set for it by clicking in the `Request Set` link in the game's page.] -->
+[For those who don't know if a game doesn't have achievements, you can Request a set for it by clicking in the `Request Set` link in the game's page.]
 
 
 ### RAGuide
@@ -81,8 +81,8 @@ Which sets got their game icons and/or badges changed.
 Some statistics about the top 300 players of RetroAchievements and how they progressed over the last month. New updates for this month data.
 
 
-<!-- ### **RAnniversaries
-Highlighting the members who have been with us and for how long. -->
+### RAnniversaries
+Highlighting the members who have been with us and for how long.
 
 
 ### Top Masteries
@@ -106,5 +106,18 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                                |                                  |                               |
-| ------------------------------ | -------------------------------- | ----------------------------- |
+|                              |                                 |                                  |
+| ---------------------------- | ------------------------------- | -------------------------------- |
+| {% rauserpic AssClownKing %} | {% rauserpic BatFastardJordy %} | {% rauserpic Bendyhuman %}       |
+| {% rauserpic Brandovsky %}   | {% rauserpic Chauckles %}       | {% rauserpic DevCompliance %}    |
+| {% rauserpic Enagonius %}    | {% rauserpic Etron %}           | {% rauserpic Glendaal %}         |
+| {% rauserpic HolyShinx %}    | {% rauserpic Hotscrock %}       | {% rauserpic Ideasds %}          |
+| {% rauserpic joeblame %}     | {% rauserpic LimeJinjo %}       | {% rauserpic MatheusBrazuca85 %} |
+| {% rauserpic Monomaru %}     | {% rauserpic MrOwnership %}     | {% rauserpic Nepiki %}           |
+| {% rauserpic Nydaxn %}       | {% rauserpic ockerjj %}         | {% rauserpic Olafur %}           |
+| {% rauserpic pinguupinguu %} | {% rauserpic QATeam %}          | {% rauserpic RANews %}           |
+| {% rauserpic Raykusen %}     | {% rauserpic RetroGameMaster %} | {% rauserpic roukanumachi %}     |
+| {% rauserpic Sines %}        | {% rauserpic Snow %}            | {% rauserpic SporyTike %}        |
+| {% rauserpic StingX2 %}      | {% rauserpic SuicidalBagel %}   | {% rauserpic suspect15 %}        |
+| {% rauserpic TheJohanx %}    | {% rauserpic TheNegativeIon %}  | {% rauserpic TimeCrush %}        |
+| {% rauserpic Trobo %}        | {% rauserpic WanderingHeiho %}  | {% rauserpic Xymjak %}           |

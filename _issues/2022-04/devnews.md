@@ -91,7 +91,7 @@ What's happening with the developer side of the site.
 - {% rauserpic TheMysticalOne %} & {% rauserpic voiceofautumn %}
 
 ## [Vet Dev IV](https://retroachievements.org/achievement/153270)
-- {% rauserpic SnowPin %}
+- {% rauserpic Snow %}
 
 ## [Vet Dev VIII](https://retroachievements.org/achievement/153274)
 - {% rauserpic BahamutVoid %}, {% rauserpic LordAndrew %}, {% rauserpic TheMysticalOne %}, {% rauserpic adamjohnny5 %}, {% rauserpic DoctorV %}, {% rauserpic ladynadiad %} & {% rauserpic TheJediSonic %}

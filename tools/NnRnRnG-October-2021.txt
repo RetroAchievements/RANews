@@ -31,7 +31,7 @@ B = Badge
 new	2973	SlashTangent		
 new	2981	SlashTangent		
 new	3164	Altomar		
-new	3169	SnowPin Ryudo	
+new	3169	Snow Ryudo	
 new	3261	SporyTike		
 new	3589	wilhitewarrior		
 new	3732	SlashTangent		
@@ -45,15 +45,15 @@ new	3474	KingS1zzle
 new	3219	GalacticSpear AlexGatao	
 new	3519	KingS1zzle		
 new	10479	televandalist		
-new	10387	SnowPin		
+new	10387	Snow		
 new	3974	voiceofautumn		
 new	3993	pinguupinguu		
-new	3466	SnowPin		
+new	3466	Snow		
 new	3888	BigWeedSmokerMan		
 new	11115	televandalist		
 new	17975	SporyTike		
 new	3218	SporyTike		
-new	3203	SnowPin		
+new	3203	Snow		
 new	3710	DoctorV		
 new	1960	blackleaf199x		
 new	3541	lordpsycho		
@@ -87,8 +87,8 @@ new	6545	voiceofautumn
 new	3681	LudaX		
 new	2908	televandalist		
 new	11323	ChocoMilk		
-new	17996	SnowPin		
-new	3215	SnowPin		
+new	17996	Snow		
+new	3215	Snow		
 new	17995	pinguupinguu		
 new	7047	Delmaru		
 new	11402	ThatAmericanSlacker		
@@ -124,7 +124,7 @@ new	17568	Griffin
 new	2865	StingX2		
 new	17911	ArcaneJames		
 new	4277	DanB		
-new	765	SnowPin		
+new	765	Snow		
 new	16383	pinguupinguu		
 new	3471	zxmega		
 new	18003	tatoonie		
@@ -139,7 +139,7 @@ new	15520	AlexGatao
 new	17919	deng		
 new	17953	GalacticSpear		
 new	18057	octopox		
-new	2155	SnowPin		
+new	2155	Snow		
 new	6631	affftedio		
 new	11581	Dimedime		
 new	2608	stfN1337		
@@ -168,7 +168,7 @@ new	10163	TeddyWestside
 
 
 
-rev	519	F	SnowPin
+rev	519	F	Snow
 rev	810	W	msdmario
 rev	4509	W	Bartis1989
 rev	10269	W	AlmightyXor
@@ -191,13 +191,13 @@ rev	3921	F	lordpsycho
 rev	10210	F	ZZKer
 rev	9112	F	StingX2
 rev	15929	F	pinguupinguu
-rev	1515	F	SnowPin
+rev	1515	F	Snow
 rev	17378	N	TheJediSonic
 rev	990	N	xTr4ceur
 rev	5089	N	voiceofautumn
 rev	794	N	Lewis50248
 rev	1032	N	KitLaska
-rev	2155	F	SnowPin
+rev	2155	F	Snow
 rev	257	F	xnaivx	
 rev	203	F	Tybis
 rev	290	N	xnaivx

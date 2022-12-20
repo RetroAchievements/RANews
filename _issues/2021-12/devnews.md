@@ -79,7 +79,7 @@ Check out what the QA Team has been up to as of the last month.
 - **Rankings:**
   - Score:
     - 1st - {% rauserpic SlashTangent %}
-    - 2nd - {% rauserpic SnowPin %}
+    - 2nd - {% rauserpic Snow %}
     - 3rd - {% rauserpic televandalist %}
     - 4th - {% rauserpic Etron %}
     - 5th - {% rauserpic xnaivx %}

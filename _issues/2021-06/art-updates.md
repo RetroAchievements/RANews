@@ -232,7 +232,7 @@ toc: true
 
 #### Naruto: Ninja Council 2
  
-**New badges by {% rauser SnowPin %} .**
+**New badges by {% rauser Snow %} .**
  
 **Previous Badges:**
 

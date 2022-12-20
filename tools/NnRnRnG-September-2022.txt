@@ -32,19 +32,19 @@ new	20392	LogicalFallacy
 new	20058	SporyTike
 new	11308	suXin
 new	17760	LordAndrew
-new	19012	SnowPin
-new	19021	SnowPin
+new	19012	Snow
+new	19021	Snow
 new	3442	Numberman
-new	20344	SnowPin
-new	20345	SnowPin
-new	20346	SnowPin
+new	20344	Snow
+new	20345	Snow
+new	20346	Snow
 new	14961	blendedsea
 new	16532	SporyTike
 new	10462	SlashTangent
 new	20413	Dimedime
-new	19013	SnowPin
-new	20347	SnowPin
-new	19019	SnowPin
+new	19013	Snow
+new	20347	Snow
+new	19019	Snow
 new	16675	Cadaxar
 new	19917	timenoe
 new	20034	Lewis50248
@@ -85,8 +85,8 @@ new	11653	starblades
 new	4192	Tayadaoc
 new	14804	ThatAmericanSlacker
 new	2388	zizom
-new	5579	pinguupinguu SnowPin
-new	20373	pinguupinguu SnowPin
+new	5579	pinguupinguu Snow
+new	20373	pinguupinguu Snow
 new	2601	EulerMoises1981
 new	2606	wilhitewarrior televandalist
 new	14851	Cerlayjux

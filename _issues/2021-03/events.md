@@ -44,7 +44,7 @@ These events are open to any community member who wants to particpate.
   - {% rauserpic PlyrPls %}
   - {% rauserpic Pudpod %}
   - {% rauserpic Romanticist %}
-  - {% rauserpic SnowPin %}
+  - {% rauserpic Snow %}
   - {% rauserpic StingX2 %}
   - {% rauserpic TheLooseGroose %}
   - {% rauserpic TheRecognitionScene %}
@@ -112,7 +112,7 @@ These events are open to any community member who wants to particpate.
 
 - Forum topic: <http://retroachievements.org/viewtopic.php?t=12318>
 - Period: February 2021 - Current
-- Host: {% rauserpic SnowPin %}
+- Host: {% rauserpic Snow %}
 - Current Winners:
   - {% rauserpic Akai %}
   - {% rauserpic DanielARP %}
@@ -128,7 +128,7 @@ These events are open to any community member who wants to particpate.
   - {% rauserpic Pudpod %}
   - {% rauserpic RetroRobb %}
   - {% rauserpic SlashTangent %}
-  - {% rauserpic SnowPin %}
+  - {% rauserpic Snow %}
   - {% rauserpic StingX2 %}
   - {% rauserpic Xymjak %}
 

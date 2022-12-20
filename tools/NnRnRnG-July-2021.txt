@@ -108,7 +108,7 @@ rev	4384	C	theanxietybuster
 rev	87 	F	xnaivx
 rev	515	W	delmaru
 rev	34 	F	MrOwnership
-rev	519	W	SnowPin
+rev	519	W	Snow
 rev	466	F	GalacticSpear
 rev	722	F	SlashTangent
 rev	810	W	msdmario

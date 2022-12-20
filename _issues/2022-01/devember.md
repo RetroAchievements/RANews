@@ -34,7 +34,7 @@ Check out the results of the event below.
 | Place | User                          | Points |
 | ----- | ----------------------------- | ------ |
 | 1st   | {% rauserpic SlashTangent %}  | 546    |
-| 2nd   | {% rauserpic SnowPin %}       | 501    |
+| 2nd   | {% rauserpic Snow %}       | 501    |
 | 3rd   | {% rauserpic televandalist %} | 476    |
 
 ### Savestates Submitted
@@ -51,7 +51,7 @@ Check out the results of the event below.
 | ----- | ----------------------------- | ------- |
 | 1st   | {% rauserpic televandalist %} | 112     |
 | 2nd   | {% rauserpic SlashTangent %}  | 102     |
-| 3rd   | {% rauserpic SnowPin %}       | 100     |
+| 3rd   | {% rauserpic Snow %}       | 100     |
 
 ### Hardcore Winners
 
@@ -59,7 +59,7 @@ Check out the results of the event below.
 | {% rauserpic Etron %}        | {% rauserpic Gamechamp %}      | {% rauserpic HolyShinx %}     |
 | {% rauserpic JAM %}          | {% rauserpic Mekevin255 %}     | {% rauserpic Moka %}          |
 | {% rauserpic Ryudo %}        | {% rauserpic Searo %}          | {% rauserpic ShadwSonic %}    |
-| {% rauserpic siouxerskate %} | {% rauserpic SlashTangent %}   | {% rauserpic SnowPin %}       |
+| {% rauserpic siouxerskate %} | {% rauserpic SlashTangent %}   | {% rauserpic Snow %}       |
 | {% rauserpic SporyTike %}    | {% rauserpic StingX2 %}        | {% rauserpic televandalist %} |
 | {% rauserpic Whynot15 %}     | {% rauserpic wilhitewarrior %} | {% rauserpic xnaivx %}        |
 | {% rauserpic Xymjak %}       | {% rauserpic ZZKer %}          |                               |

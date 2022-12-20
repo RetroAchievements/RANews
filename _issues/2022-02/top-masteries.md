@@ -97,7 +97,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/TopEvents.png" />
 </p>
 - {% rauserpic televandalist %} extends the 1st place lead with 2 new even awards this month.
-- {% rauserpic SlashTangent %} and {% rauserpic SnowPin %} have moved into a 4-way tie for 6th place.
+- {% rauserpic SlashTangent %} and {% rauserpic Snow %} have moved into a 4-way tie for 6th place.
 - {% rauserpic multonic %} has made it into the top 25 and is sitting in a 6-way tie for 21st place.
 
 

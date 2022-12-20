@@ -86,7 +86,7 @@ Check out the top 25 achievement creators this year, how many achievements they 
 | Rank | Developer                      | Achievements | Favorite Console     |
 | ---- | ------------------------------ | ------------ | -------------------- |
 | 1    | {% rauserpic voiceofautumn %}  | 3,157        | Game Boy Advance     |
-| 2    | {% rauserpic SnowPin %}        | 2,461        | PlayStation Portable |
+| 2    | {% rauserpic Snow %}        | 2,461        | PlayStation Portable |
 | 3    | {% rauserpic SporyTike %}      | 2,287        | Nintendo DS          |
 | 4    | {% rauserpic AlexGatao %}      | 1,736        | SNES                 |
 | 5    | {% rauserpic guindev %}        | 1,578        | PC Engine            |
@@ -127,7 +127,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 7    | **{% rauserpic matheus2653 %}**   |   **78,253**    | **1,276,792**  |    **3,695,130**     |
 | 8    | {% rauserpic Dexterspet %}        |     76,945      |    978,470     |      2,586,020       |
 | 9    | {% rauserpic Jaarl %}             |     73,867      |   1,056,408    |      2,528,688       |
-| 10   | **{% rauserpic SnowPin %}**       |   **66,873**    |  **701,226**   |    **2,167,772**     |
+| 10   | **{% rauserpic Snow %}**       |   **66,873**    |  **701,226**   |    **2,167,772**     |
 | 11   | **{% rauserpic jplima %}**        |   **66,654**    | **1,267,540**  |    **3,934,888**     |
 | 12   | {% rauserpic Rewsifer %}          |     65,787      |    721,880     |      1,323,696       |
 | 13   | **{% rauserpic Blazekickn %}**    |   **65,680**    |  **697,448**   |    **3,571,782**     |
@@ -313,7 +313,7 @@ Check out which developers created the most code notes this year.
         <tr><td>1</td><td>{% rauserpic televandalist %}</td><td>16,384</td></tr>
         <tr><td>2</td><td>{% rauserpic SporyTike %}</td><td>11,280</td></tr>
         <tr><td>3</td><td>{% rauserpic blendedsea %}</td><td>6,716</td></tr>
-        <tr><td>4</td><td>{% rauserpic SnowPin %}</td><td>5,693</td></tr>
+        <tr><td>4</td><td>{% rauserpic Snow %}</td><td>5,693</td></tr>
         <tr><td>5</td><td>{% rauserpic NgNvNn %}</td><td>4,470</td></tr>
     </tbody></table>
     </div> <div style='width:49%;display:inline-block;float:right'>

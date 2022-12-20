@@ -124,9 +124,9 @@ new	10791	pinguupinguu
 new	20238	Searo	
 new	20231	deng pinguupinguu
 new	20217	BahamutVoid Brandovsky
-new	10790	SnowPin	
+new	10790	Snow	
 new	9083	wolfman2000	
-new	20213	SnowPin	
+new	20213	Snow	
 new	10906	wolfman2000	
 new	9010	ladynadiad	
 new	9085	Falcus	

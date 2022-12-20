@@ -22,7 +22,7 @@ Our idea is to post 10 "Play This Set" per month. If you want to advertise your 
 |------|---------|-------| 
 | <a class="gameicon-link" href="https://retroachievements.org/game/5737" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/024417.png" alt="Great Greed"> <span>Great Greed</span></a> | Game Boy | RPG |
 
-Set and Writeup by {% rauserpic SnowPin %}
+Set and Writeup by {% rauserpic Snow %}
 
 Transported to another world, Sam must help defend the Kingdom of Greene from the Evil Baby Yoda with the help of deliciously named characters. The Visual style of the game while in the over world is very reminiscent of the Final Fantasy Legends series on the Game Boy, while in battle borrowing a similar style to other similar RPG's such as Dragon Warrior. The combat is a bit different and Unique than most RPG's as you only control one character in battle while every button at your disposal does a different feature.
 

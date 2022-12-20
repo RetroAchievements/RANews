@@ -103,7 +103,7 @@ These events are open to any community member who wants to particpate.
 
 - Forum topic: <http://retroachievements.org/viewtopic.php?t=12318>
 - Period: February 2021 - Current
-- Host: {% rauserpic SnowPin %}
+- Host: {% rauserpic Snow %}
 - Winners of atleast 3 Challenges:
   - {% rauserpic freezestar %}
   - {% rauserpic Gamechamp %}

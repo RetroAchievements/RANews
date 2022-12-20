@@ -403,6 +403,6 @@ This is the list of brand new sets released in June/2021 grouped by systems/cons
 
 | Game | Author | Genre |
 |------|--------|-------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/14596" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044574.png" alt="Rockman EXE WS \| Mega Man Battle Network Wonderswan "> <span>Rockman EXE WS \| Mega Man Battle Network Wonderswan </span></a> | {% rauser SnowPin %}  | Action |
+| <a class="gameicon-link" href="https://retroachievements.org/game/14596" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044574.png" alt="Rockman EXE WS \| Mega Man Battle Network Wonderswan "> <span>Rockman EXE WS \| Mega Man Battle Network Wonderswan </span></a> | {% rauser Snow %}  | Action |
 
 <a href="#toc">:top:</a>

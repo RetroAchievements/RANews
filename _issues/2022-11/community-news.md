@@ -240,7 +240,7 @@ Demoted Achievements
 - {% rauserpic Falcus %}
 
 <a class="gameicon-link" href="https://retroachievements.org/game/15952" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043647.png" alt="[DevQuest 004] Veteran Deveoper"> <span>[DevQuest 004] Veteran Developer</span></a>
-- {% rauserpic SnowPin %}
+- {% rauserpic Snow %}
 
 <a class="gameicon-link" href="https://retroachievements.org/game/15907" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045565.png" alt="[DevQuest 006] The Unwanted"> <span>[DevQuest 006] The Unwanted</span></a>
 - {% rauserpic raniejogos %} for [King of Fighters R-2 (Neo Geo Pocket)](https://retroachievements.org/game/14250)
@@ -278,7 +278,7 @@ Demoted Achievements
 
 #### [Vet Dev III](https://retroachievements.org/achievement/153268)
 
-|{% rauserpic SnowPin %}||
+|{% rauserpic Snow %}||
 
 #### [Vet Dev VIII](https://retroachievements.org/achievement/153274)
 

@@ -18,7 +18,7 @@ To stay up to date with all DevQuest information, [check out this forum thread](
 ### QUEST #010: It Takes Two
 
 - **Goal:** Develop a collab set with at least 1 other dev
-- **Point of Contact:** {% rauserpic SnowPin %} & {% rauserpic SlashTangent%}
+- **Point of Contact:** {% rauserpic Snow %} & {% rauserpic SlashTangent%}
 - **Requirements:**
     1. Set must have a fair share of the work done by each dev - Sets like Animal Crossing DS would not be approved.
     2. Must be a full set covering every aspect of the game

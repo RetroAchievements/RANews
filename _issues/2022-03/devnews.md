@@ -67,8 +67,8 @@ What's happening with the developer side of the site.
 - {% rauserpic raniejogos %} for [Zenonia (PlayStation Portable)](https://retroachievements.org/game/11141)
 
 ## [It Takes Two](https://retroachievements.org/game/15939)
-- {% rauserpic SnowPin %} for [Grandia II (Dreamcast)](https://retroachievements.org/game/3488) with {% rauserpic Ryudo %} & [Soulcalibur (Dreamcast)](https://retroachievements.org/game/3395) with {% rauserpic televandalist %}
-- {% rauserpic televandalist %} for [Robocop (Arcade)](https://retroachievements.org/game/12366) with {% rauserpic guindev %} & [Soulcalibur (Dreamcast)](https://retroachievements.org/game/3395) with {% rauserpic SnowPin %}
+- {% rauserpic Snow %} for [Grandia II (Dreamcast)](https://retroachievements.org/game/3488) with {% rauserpic Ryudo %} & [Soulcalibur (Dreamcast)](https://retroachievements.org/game/3395) with {% rauserpic televandalist %}
+- {% rauserpic televandalist %} for [Robocop (Arcade)](https://retroachievements.org/game/12366) with {% rauserpic guindev %} & [Soulcalibur (Dreamcast)](https://retroachievements.org/game/3395) with {% rauserpic Snow %}
 - {% rauserpic SlashTangent %} [for Tony Hawk's Pro Skater 3 (Nintendo 64)](https://retroachievements.org/game/10126) with {% rauserpic ZZKer %} & [Sonic Adventure 2 (Dreamcast)](https://retroachievements.org/game/3417) with {% rauserpic Zpeligo %} & {% rauserpic Chawk %}
 
 ## [Happy Birthday RA!](https://retroachievements.org/game/1280)

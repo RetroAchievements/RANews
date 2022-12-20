@@ -74,7 +74,7 @@ new	11290	Alena
 new	6688	pinguupinguu
 new	4304	AlexGatao
 new	1828	wilhitewarrior
-new	9994	SnowPin
+new	9994	Snow
 new	2855	MrOwnership
 new	11369	valts
 new	17489	Shmelyoff
@@ -116,7 +116,7 @@ rev 	2251	D	StingX2
 rev 	5023	D	StingX2
 rev 	116	D	StingX2
 rev 	5143	D	StingX2
-rev 	8228	D	SnowPin
+rev 	8228	D	Snow
 rev 	730	D	StingX2
 rev 	1471	D	Suffa28
 rev 	1464	D	StingX2
@@ -150,14 +150,14 @@ rev	1394	N	SlashTangent
 
 res	13061	StingX2	250	321
 res	2234	StingX2	480	315
-res	1488	SnowPin	400	250
+res	1488	Snow	400	250
 res	12247	pinguupinguu	190	120
-res	4851	SnowPin	250	71
-res	13792	SnowPin	150	75
+res	4851	Snow	250	71
+res	13792	Snow	150	75
 res	1506	pinguupinguu	400	965
 res	4105	pinguupinguu	400	230
 res	6398	Suffa28	102	117
-res	807	SnowPin	390	400
+res	807	Snow	390	400
 res	10164	SlashTangent	400	603
 res	11689	SlashTangent	400	355
 res	4509	SlashTangent	195	200
@@ -215,13 +215,13 @@ res	4770	BlotchJBMR	400	405
 res	13937	BlotchJBMR	400	404
 res	1338	theanxietybuster	400	200
 res	10667	SlashTangent	400	240
-res	1655	SnowPin	400	430
+res	1655	Snow	400	430
 res	3146	BlotchJBMR	400	431
-res	2040	SnowPin	250	225
+res	2040	Snow	250	225
 res	1295	SlashTangent	357	380
 res	11821	SlashTangent	400	480
 res	10229	MarioJunior10	340	287
-res	1959	SnowPin	400	425
+res	1959	Snow	400	425
 res	13142	KingS1zzle	200	46
 res	10329	SlashTangent	400	375
 res	1861	pinguupinguu	304	448
@@ -272,9 +272,9 @@ res	1482	StingX2	400	290
 res	1830	StingX2	400	751
 res	1953	StingX2	300	305
 res	1150	BlotchJBMR	369	654
-res	1497	SnowPin	400	370
-res	1914	SnowPin	400	270
-res	12645	SnowPin	400	319
+res	1497	Snow	400	370
+res	1914	Snow	400	270
+res	12645	Snow	400	319
 res	1582	BlotchJBMR	370	421
 res	5667	BlotchJBMR	390	405
 res	1450	Pudpod	400	415
@@ -285,9 +285,9 @@ res	394	earfly	150	125
 res	11016	sireture	150	135
 res	1890	sireture	330	340
 res	583	Pudpod	200	110
-res	3907	SnowPin	400	437
+res	3907	Snow	400	437
 res	1187	Bartis1989	400	370
-res	10520	SnowPin	400	355
+res	10520	Snow	400	355
 res	1337	Bartis1989	400	380
 res	961	Pudpod	400	399
 res	10115	Slashtangent	545	515
@@ -300,8 +300,8 @@ res	11685	psyduck	313	328
 res	1745	psyduck	370	380
 res	1746	psyduck	400	365
 res	1747	psyduck	335	360
-res	2444	SnowPin	400	210
-res	2077	SnowPin	300	227
+res	2444	Snow	400	210
+res	2077	Snow	300	227
 res	1510	SlashTangent	400	450
 res	6421	SlashTangent	400	600
 res	10652	televandalist	405	427

@@ -103,5 +103,5 @@ Special thanks goes to these guys:
     - {% rauserpic ilikepie345 %}
     - {% rauserpic lordpsycho %}
     - {% rauserpic rabbids4eva %}
-    - {% rauserpic SnowPin %}
+    - {% rauserpic Snow %}
     - {% rauserpic SporyTike %}

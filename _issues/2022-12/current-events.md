@@ -41,7 +41,7 @@ These events are open to any community member who wants to participate.
   
 <a href="#top">:top:</a>
 
-## PS2 Launch Event ???
+## PS2 Launch Event
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=18243>
 - Period: October 1st, 2022 to January 1st, 2023
@@ -130,15 +130,15 @@ These events are open to any community member who wants to participate.
 <a href="#top">:top:</a>
 
 
-## The Unwanted ?? 
+## The Unwanted
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=14787>
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
 - Current Winners:
-  - Month 29: Best Gamer: {% rauserpic  %}, Best Dev Fixer: {% rauserpic  %}
+  - Month 29: Best Gamer: {% rauserpic genesislover %}, Best Dev Fixer: {% rauserpic ladynadiad %}
 - Previous Winners:
-  - Month 28: Best Gamer: {% rauserpic Genesislover %}, Best Dev Fixer: {% rauserpic ladynadiad %}
+  - Month 28: Best Gamer: {% rauserpic genesislover %}, Best Dev Fixer: {% rauserpic ladynadiad %}
   - Month 27: Best Gamer: {% rauserpic NEOMAR %}, Best Dev Fixer: {% rauserpic Falcus %}
   - Month 26: Best Gamer: {% rauserpic NEOMAR %} and {% rauserpic Lonoke31 %}, Best Dev Fixer: {% rauserpic ladynadiad %}
   - Month 25: Best Gamer: {% rauserpic Cerlayjux %}, Best Dev Fixer: {% rauserpic Falcus %}

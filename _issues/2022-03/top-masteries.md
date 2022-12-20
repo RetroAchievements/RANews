@@ -96,7 +96,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/TOP_EVENTS.png" />
 </p>
 - {% rauserpic televandalist %} extends the 1st place lead with 1 new event awards this month.
-- {% rauserpic SlashTangent %} and {% rauserpic SnowPin %} both moved up 1 place into 6th place with 1 new mastery award this month.
+- {% rauserpic SlashTangent %} and {% rauserpic Snow %} both moved up 1 place into 6th place with 1 new mastery award this month.
 - {% rauserpic multonic %} jumps into a 5 way tie for 17th place with 1 new mastery award this month.
 
 

@@ -136,7 +136,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/EVENTS.png" />
 </p>
 * {% rauserpic televandalist %} remains in 1st with 28 total mastery awards.
-* {% rauserpic SnowPin %} has moved up 2 spots and is in 5th place.
+* {% rauserpic Snow %} has moved up 2 spots and is in 5th place.
 * {% rauserpic Xymjak %} has moved up 1 spot and is tied for 10th place.
 * {% rauserpic StingX2 %} has moved up 1 spot and is in a 4-way tie for 12th place.
 * {% rauserpic voiceofautumn %} has moved up 1 spot and is in a 4-way tie for 12th place.

@@ -17,7 +17,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | # | Developer | Promotion Date | Year Anniversary |
 |---|-----------|----------------|------------------|
 | 1 | JAM       | 10/23/2017     | 4                |
-| 2 | Snowpin   | 10/10/2020     | 1                |
+| 2 | Snow   | 10/10/2020     | 1                |
 | 3 | Zpeligo   | 10/11/2020     | 1                |
 | 4 | spudw     | 10/17/2020     | 1                |
 

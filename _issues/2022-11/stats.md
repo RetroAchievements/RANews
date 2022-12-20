@@ -33,7 +33,7 @@ Check out the top 25 achievement creators since launch.
 | ---- | ----------------------------------- | ------------ |
 | 1    | {% rauserpic timenoe %}             | 849          |
 | 2    | {% rauserpic wilhitewarrior %}      | 760          |
-| 3    | {% rauserpic SnowPin %}             | 726          |
+| 3    | {% rauserpic Snow %}             | 726          |
 | 4    | {% rauserpic AlexGatao %}           | 619          |
 | 5    | {% rauserpic PsyHunter29 %}         | 611          |
 | 6    | {% rauserpic TeddyWestside %}       | 595          |
@@ -67,7 +67,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 3    | {% rauserpic timenoe %}             |     17,880      |    130,047     |       348,236        |
 | 4    | {% rauserpic blendedsea %}          |     16,271      |     99,724     |       201,668        |
 | 5    | {% rauserpic Excessiveiser %}       |     10,882      |     82,845     |       148,728        |
-| 6    | {% rauserpic SnowPin %}             |     10,178      |     48,965     |        90,821        |
+| 6    | {% rauserpic Snow %}             |     10,178      |     48,965     |        90,821        |
 | 7    | {% rauserpic wilhitewarrior %}      |      9,559      |     79,077     |       384,275        |
 | 8    | {% rauserpic Delmaru %}             |      9,039      |     56,659     |       111,807        |
 | 9    | {% rauserpic pinguupinguu %}        |      8,328      |     52,421     |        74,887        |
@@ -150,7 +150,7 @@ Check out which developers created the most code notes since launch.
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
         <tr><td>1</td><td>  {% rauserpic TheMysticalOne %} </td><td>12,970</td></tr>
-        <tr><td>2</td><td>  {% rauserpic SnowPin %}        </td><td>8,295</td></tr>
+        <tr><td>2</td><td>  {% rauserpic Snow %}        </td><td>8,295</td></tr>
         <tr><td>3</td><td>  {% rauserpic pinguupinguu %}   </td><td>5,023</td></tr>
         <tr><td>4</td><td>  {% rauserpic Delmaru %}        </td><td>4,080</td></tr>
         <tr><td>5</td><td>  {% rauserpic gollawiz %}       </td><td>4,017</td></tr>

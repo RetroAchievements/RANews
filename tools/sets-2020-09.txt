@@ -21,7 +21,7 @@
 12431	Wimpy
 14599	theanxietybuster
 2961	viniciuskombat
-1110	SnowPin
+1110	Snow
 10354	Bartis1989
 826	Flawestruck
 11473	Wimpy
@@ -55,7 +55,7 @@
 7588	Bl4h8L4hBl4h
 9770	Kayesay
 12008	Wimpy
-5311	SnowPin
+5311	Snow
 2081	logichan
 16563	hardt
 6026	hardt

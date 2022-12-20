@@ -68,7 +68,7 @@ Official release is planned for late September or early October, so stay tuned!
 
 **Final Fantasy IV: The Complete Collection**
 
-- By: SnowPin and Ryudo
+- By: Snow and Ryudo
 - **Available At PSP Launch!**
 
 > The classic fourth entry in Final Fantasy gets a beautiful definitive version for the psp that some would say is the true Pixel Remaster. Also included aside from the base game is Interlude and the After Years. The latter is the fully fledged sequel that many didn't get to play when it was released on the WiiWare service.

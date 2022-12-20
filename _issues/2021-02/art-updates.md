@@ -127,7 +127,7 @@ toc: true
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
 | <a class="gameicon-link" href="https://retroachievements.org/game/5699" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041273.png" alt="Disney's Dinosaur"> <span>Disney's Dinosaur</span></a> | {% rauser MaddieKittyTV %}  | <img class="gameicon" src="https://retroachievements.org/Images/041215.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/17073" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041392.png" alt="Gold and Glory: The Road to El Dorado"> <span>Gold and Glory: The Road to El Dorado</span></a> | {% rauser SnowPin %}  | <img class="gameicon" src="https://retroachievements.org/Images/041217.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/17073" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041392.png" alt="Gold and Glory: The Road to El Dorado"> <span>Gold and Glory: The Road to El Dorado</span></a> | {% rauser Snow %}  | <img class="gameicon" src="https://retroachievements.org/Images/041217.png" alt="old icon">
 | <a class="gameicon-link" href="https://retroachievements.org/game/17194" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041274.png" alt="Rugrats: Studio Tour"> <span>Rugrats: Studio Tour</span></a> | {% rauser MaddieKittyTV %}  | <img class="gameicon" src="https://retroachievements.org/Images/041216.png" alt="old icon">
 
 <a href="#toc">:top:</a>

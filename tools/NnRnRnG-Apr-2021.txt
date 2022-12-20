@@ -74,7 +74,7 @@ new	5509	GameZone
 new	8638	Bl4h8L4hBl4h
 new	13798	hardt
 new	3762	Bl4h8L4hBl4h
-new	4273	SnowPin
+new	4273	Snow
 new	16145	tatoonie
 new	9961	guindev
 new	4372	BrunoKiko
@@ -99,7 +99,7 @@ new	17586	tatoonie
 new	17592	guindev
 new	17616	SporyTike
 new	2330	hardt
-new	17595	SnowPin
+new	17595	Snow
 new	17615	SporyTike
 new	17617	AlexGatao
 new	17613	minibt
@@ -160,11 +160,11 @@ rev	1756	D	SlashTangent
 rev	5443	D	StingX2
 rev	1861	D	StingX2
 rev	1270	F	Delmaru
-rev	4126	F	SnowPin
+rev	4126	F	Snow
 rev	4715	F	pinguupinguu
 rev	3622	F	Infernox
 rev	465	N	televandalist
-rev	2560	F	SnowPin
+rev	2560	F	Snow
 rev	4089	F	Ryudo
 rev	577	F	SporyTike
 rev	4211	F	SlashTangent
@@ -205,9 +205,9 @@ art	3626	I	GameZone	https://retroachievements.org/Images/025614.png	https://retr
 art	4931	I	Ryudo	https://retroachievements.org/Images/004400.png	https://retroachievements.org/Images/043054.png
 art	3651	I	SporyTike	https://retroachievements.org/Images/001698.png	https://retroachievements.org/Images/043071.png
 art	6533	B	Dehkon	https://user-images.githubusercontent.com/53956327/114447635-fdcfd800-9ba8-11eb-972e-7b5ccfb00e61.png	https://user-images.githubusercontent.com/53956327/114447643-ff010500-9ba8-11eb-9540-855d6e8f6162.png
-art	4126	I	SnowPin	https://retroachievements.org/Images/002401.png	https://retroachievements.org/Images/043091.png
+art	4126	I	Snow	https://retroachievements.org/Images/002401.png	https://retroachievements.org/Images/043091.png
 art	10269	B	GameZone	https://user-images.githubusercontent.com/53956327/114447646-ff010500-9ba8-11eb-86e1-d9bd5116ea0e.png	https://user-images.githubusercontent.com/53956327/114447652-00323200-9ba9-11eb-9a77-e4ec15539689.png
-art	2560	I	SnowPin	https://retroachievements.org/Images/004406.png	https://retroachievements.org/Images/043157.png
+art	2560	I	Snow	https://retroachievements.org/Images/004406.png	https://retroachievements.org/Images/043157.png
 art	17557	I	MaddieKittyTV	https://retroachievements.org/Images/043067.png	https://retroachievements.org/Images/043158.png
 art	4002	I	Ryudo	https://retroachievements.org/Images/002858.png	https://retroachievements.org/Images/043186.png
 art	637	I	Raykusen	https://retroachievements.org/Images/038326.png	https://retroachievements.org/Images/043274.png

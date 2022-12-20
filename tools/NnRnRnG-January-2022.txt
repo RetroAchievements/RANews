@@ -49,7 +49,7 @@ new	11436	Dimedime
 new	4744	raniejogos
 new	17421	BlotchJBMR
 new	17794	pinguupinguu
-new	14837	SnowPin
+new	14837	Snow
 new	3980	Soulsderfuchs
 new	18246	lordpsycho
 new	10532	TeddyWestside
@@ -59,7 +59,7 @@ new	17002	Cadaxar
 new	18343	Bl4h8L4hBl4h
 new	6118	retrolipe
 new	10009	siouxerskate
-new	12629	SnowPin
+new	12629	Snow
 new	18370	pinguupinguu
 new	18370	SporyTike
 new	18370	BatFastardJordy
@@ -72,7 +72,7 @@ new	5502	BatFastardJordy
 new	18337	AlexGatao
 new	9496	oddgoo
 new	10533	wilhitewarrior
-new	3733	SnowPin
+new	3733	Snow
 new	14568	TeddyWestside
 new	6082	MaddieKittyTV
 new	1689	Bedtime

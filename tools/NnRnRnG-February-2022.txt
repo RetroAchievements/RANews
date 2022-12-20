@@ -60,7 +60,7 @@ new	18524	stfN1337
 new	216	MGNS8M Scott		
 new	12794	retrolipe		
 new	18336	Sasrir		
-new	18015	SnowPin		
+new	18015	Snow		
 new	3416	GalacticSpear SlashTangent	
 new	6685	DoctorV		
 new	9015	AlexGatao		
@@ -77,7 +77,7 @@ new	3441	televandalist
 new	15391	Brandovsky		
 new	9547	blendedsea		
 new	3396	SlashTangent		
-new	3395	SnowPin televandalist	
+new	3395	Snow televandalist	
 new	17684	zxmega		
 new	8132	TeddyWestside		
 new	10830	Mekevin255		
@@ -86,10 +86,10 @@ new	4566	TeddyWestside
 new	3484	DoctorV		
 new	3454	lordpsycho		
 new	17836	Delmaru		
-new	10828	SnowPin Zpeligo	
+new	10828	Snow Zpeligo	
 new	16525	zxmega		
 new	10837	Mekevin255		
-new	3488	Ryudo SnowPin	
+new	3488	Ryudo Snow	
 new	6812	GalacticSpear		
 new	10831	guindev		
 new	14582	pinguupinguu		
@@ -114,7 +114,7 @@ new	2803	ModelZGolden
 new	10836	Pebete		
 new	2564	adamjohnny5		
 new	14585	pinguupinguu		
-new	6710	SnowPin		
+new	6710	Snow		
 new	18594	SporyTike		
 new	8392	MGNS8M		
 new	1796	TheMysticalOne		
@@ -128,7 +128,7 @@ new	4846	Griffin
 new	14629	Cadaxar		
 new	15730	Infernox		
 new	18581	Dimedime		
-new	3738	SnowPin		
+new	3738	Snow		
 new	3417	Chawk SlashTangent zpeligo
 new	134	TheJediSonic		
 new	365	guindev		
@@ -136,7 +136,7 @@ new	11373	tatoonie
 new	747	raniejogos		
 new	1801	LiveFastCyYoung		
 new	6900	televandalist		
-new	7924	SnowPin		
+new	7924	Snow		
 new	705	Fridge		
 new	121	LordAndrew		
 new	11384	FireRabbit		

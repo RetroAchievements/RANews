@@ -78,7 +78,7 @@ Check out the top 25 achievement creators from this month.
 
 | Rank | Developer                        | Achievements |
 | ---- | -------------------------------- | ------------ |
-| 1    | {% rauserpic SnowPin %}          | 433          |
+| 1    | {% rauserpic Snow %}          | 433          |
 | 2    | {% rauserpic tatoonie %}         | 329          |
 | 3    | {% rauserpic Cadaxar %}          | 299          |
 | 4    | {% rauserpic WanderingHeiho %}   | 279          |
@@ -111,7 +111,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | :----- | :--------------------------------- | :-------------: | :------------: | :------------------: |
 | **1**  | **{% rauserpic SporyTike %}**      |   **17,500**    |  **101,015**   |     **229,877**      |
 | 2      | {% rauserpic Brian %}              |     13,884      |    104,073     |       281,374        |
-| *3*    | **{% rauserpic SnowPin %}**        |   **12,913**    |   **67,990**   |     **182,015**      |
+| *3*    | **{% rauserpic Snow %}**        |   **12,913**    |   **67,990**   |     **182,015**      |
 | 4      | {% rauserpic Salsa %}              |     12,844      |     97,143     |       330,294        |
 | 5      | {% rauserpic dude1286 %}           |     12,163      |     98,841     |       186,245        |
 | **6**  | **{% rauserpic televandalist %}**  |   **10,942**    |   **79,623**   |     **203,608**      |
@@ -311,7 +311,7 @@ Check out which developers created the most code notes this month.
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
         <tr><td>6</td><td>{% rauserpic wolfman2000 %}</td><td>1,046</td></tr>
         <tr><td>7</td><td>{% rauserpic LordAndrew %}</td><td>985</td></tr>
-        <tr><td>8</td><td>{% rauserpic SnowPin %}</td><td>953</td></tr>
+        <tr><td>8</td><td>{% rauserpic Snow %}</td><td>953</td></tr>
         <tr><td>9</td><td>{% rauserpic ventuz %}</td><td>944</td></tr>
         <tr><td>10</td><td>{% rauserpic Cadaxar %}</td><td>868</td></tr>
     </tbody></table>
@@ -510,7 +510,7 @@ Check out which developers created the most leaderboards this month.
         <tr><td>6</td><td>{% rauserpic WanderingHeiho %}</td><td>74</td></tr>
         <tr><td>7</td><td>{% rauserpic timenoe %}</td><td>59</td></tr>
         <tr><td>8</td><td>{% rauserpic deng %}</td><td>57</td></tr>
-        <tr><td>9</td><td>{% rauserpic SnowPin %}</td><td>53</td></tr>
+        <tr><td>9</td><td>{% rauserpic Snow %}</td><td>53</td></tr>
         <tr><td>10</td><td>{% rauserpic raniejogos %}</td><td>52</td></tr>
     </tbody></table>
     </div>

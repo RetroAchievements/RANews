@@ -39,7 +39,7 @@ new	4853	lordpsycho
 new	11340	SevaanSevant
 new	10294	TeddyWestside
 new	17441	stfN1337 Skystarmania
-new	17397	SnowPin
+new	17397	Snow
 new	17434	SporyTike
 new	14028	hardt
 new	4131	Griffin
@@ -112,7 +112,7 @@ rev	68	F	televandalist
 rev	510	W	Infernox
 rev	14342	C	FinalTheory
 rev	472	W	herrshaun
-rev 	6956	F	SnowPin
+rev 	6956	F	Snow
 rev	580	F	BenGhazi
 rev	1467	F	sireture
 rev	16307	F	BlotchJBMR
@@ -179,10 +179,10 @@ res	14469	deng	235	63
 res	1604	StingX2	400	485
 res	5288	StingX2	400	351
 res	264	Bearfax62	620	645
-res	749	Snowpin	465	455
-res	1453	Snowpin	480	455
-res	8228	Snowpin	406	368
-res	14907	Snowpin	406	368
+res	749	Snow	465	455
+res	1453	Snow	480	455
+res	8228	Snow	406	368
+res	14907	Snow	406	368
 res	1886	StingX2	400	463
 
 

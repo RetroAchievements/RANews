@@ -45,7 +45,7 @@ This is the list of brand new sets released in November/2020 grouped by systems/
 | Game | Author | Genre |
 |------|--------|-------|
 | <a class="gameicon-link" href="https://retroachievements.org/game/6435" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/009915.png" alt="Bionic Commando"> <span>Bionic Commando</span></a> | {% rauser BlotchJBMR %}  | Platformer |
-| <a class="gameicon-link" href="https://retroachievements.org/game/5737" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/024417.png" alt="Great Greed"> <span>Great Greed</span></a> | {% rauser SnowPin %}  | RPG |
+| <a class="gameicon-link" href="https://retroachievements.org/game/5737" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/024417.png" alt="Great Greed"> <span>Great Greed</span></a> | {% rauser Snow %}  | RPG |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3688" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/040229.png" alt="Pierre le Chef Is... Out to Lunch"> <span>Pierre le Chef Is... Out to Lunch</span></a> | {% rauser stfN1337 %}  | Action » Platformer » 2D |
 | <a class="gameicon-link" href="https://retroachievements.org/game/550" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/040128.png" alt="RoboCop"> <span>RoboCop</span></a> | {% rauser hardt %}  | Side-scroller |
 

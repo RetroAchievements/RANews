@@ -182,7 +182,7 @@ RetroAchievements offers a wide range of unique and entertaining events througho
     * {% rauserpic Tirbaba %}
     * {% rauserpic Xymjak %}
 * [Challenge League](https://retroachievements.org/viewtopic.php?t=12318)
-  * Hosted by: {% rauserpic SnowPin %}
+  * Hosted by: {% rauserpic Snow %}
   * Current challenges:
     * #1 - Leapfrog
     * #2 - Unwanted
@@ -260,7 +260,7 @@ RetroAchievements offers a wide range of unique and entertaining events througho
     * Killer Yoshis That Love: Bendyhuman, Draco655 [348]
     * Midcore Team: tinycyan, Venhur [318]
     * America's Favorite Cat: adamjohnny5, Terrorvan [197]
-    * Where Is The Dragon Eggs: Snowpin & Draco655 & DanielARP [72]
+    * Where Is The Dragon Eggs: Snow & Draco655 & DanielARP [72]
     * Team Damageless: Spory, Shinx, Daniel, TheRecognitionScene [0]
     * Team Spoon: wilhitewarrior, RyanRJ, Pebete [0]
 * Retro Battle

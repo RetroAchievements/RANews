@@ -63,7 +63,7 @@ This is the list of brand new sets released in February/2021 grouped by systems/
 
 | Game | Author | Genre |
 |------|--------|-------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/17397" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041941.png" alt="God Medicine \| Hukkoku Ban"> <span>God Medicine \| Hukkoku Ban</span></a> | {% rauser SnowPin %}  | RPG |
+| <a class="gameicon-link" href="https://retroachievements.org/game/17397" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041941.png" alt="God Medicine \| Hukkoku Ban"> <span>God Medicine \| Hukkoku Ban</span></a> | {% rauser Snow %}  | RPG |
 | <a class="gameicon-link" href="https://retroachievements.org/game/5735" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042263.png" alt="Hatris"> <span>Hatris</span></a> | {% rauser Kisumebuckets %}  | Puzzle |
 | <a class="gameicon-link" href="https://retroachievements.org/game/17436" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041877.png" alt="Ultraman Ball"> <span>Ultraman Ball</span></a> | {% rauser SlashTangent %}  | Platformer |
 
