@@ -136,6 +136,24 @@ bingo winner
   font-size: 2em;
 }
 
+/********************************************************************
+bingo winner small
+*********************************************************************/
+.bingo-winner-small {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+}
+
+.bingo-winner-small img.rauserpic {
+  width: 64px;
+  height: 64px;
+}
+
+.bingo-winner-small a {
+  font-size: 2em;
+}
+
 
 /********************************************************************
  * links
