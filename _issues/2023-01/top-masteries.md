@@ -76,7 +76,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 
 ### 300 Mastery Awards
 
-{% rauserpic donutweegee %}
+|{% rauserpic donutweegee %}||
 
 ### 200 Mastery Awards
 

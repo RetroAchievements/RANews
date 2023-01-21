@@ -468,7 +468,7 @@ Check out which developers created the most code notes this year.
 <br clear="left"/>
 
 ## Top 10 Single Month Masteries
-Check out which users had the most single moth mastery awards this year.
+Check out which users had the most single month mastery awards this year.
 
 | Rank | User                            | Awards | Month     |
 | ---- | ------------------------------- | ------ | --------- |

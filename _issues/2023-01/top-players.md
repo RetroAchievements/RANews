@@ -325,7 +325,7 @@ Given period: December 1st to December 31st, 2022.
 - 🇧🇷 DireWareWolf
 
 ## Left the Top300
-- 🇧🇷 Alexavelino123 50599
+- 🇧🇷 Alexavelino123
 - 🇬🇧 Zio 
 - 🇧🇷 dcmpinguim 
 - 🇧🇷 AlexGatao 

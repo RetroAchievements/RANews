@@ -26,18 +26,17 @@ toc: true
 * Awesome video by {% rauserpic iShade %} on [What are Retro Achievements?](https://www.youtube.com/watch?v=g0hmYv6czs8).
 * Various updates to RABot, RAWeb, RAIntegration, RATools, and RA Emulators throughout the year. -->
 
-## Console/Core Support
-<!-- * add yabause as a supported core (Sega Saturn)
-* add freeintv as a supported core (Intellivision)
-* add potator as a supported core (Watara Supervision)
-* add quicknes as a supported core (Nintendo Entertainment System)
-* add swanstation as a supported core (Playstation)
-* add PicoDrive as a supported core for Sega CD
-* remove Gearsystem as supported core for Genesis
-* DuckStation, NEStopia, Sameboy are officially unsupported
-* Intellivision support
-* Watara Supervision support
-* PSP support -->
+## New Console Support
+
+| Console             | Support Date | Sets | Achievements | Leaderboards |
+| ------------------- | ------------ | ---- | ------------ | ------------ |
+| Dreamcast           | 2/12/2022    | 71   | 5,054        | 1,479        |
+| Amstrad CPC         | 3/27/2022    | 41   | 1,063        | 69           |
+| Arduboy             | 5/8/2022     | 55   | 871          | 144          |
+| WASM-4              | 5/8/2022     | 37   | 400          | 51           |
+| Fairchild Channel F | 7/27/2022    | 23   | 240          | 20           |
+| Mega Duck           | 7/27/2022    | 23   | 581          | 156          |
+| Playstation 2       | 10/1/2022    | 205  | 20,105       | 7,013        |
 
 # Developer Rule & Policy Updates
 
@@ -324,7 +323,7 @@ If you are interested in becoming a Playtester please reach out to {% rauserpic 
 | #site-cleanup-discussion | Site Cleanup discussion.                                                                                                 |
 | #twitter-team            | RA twitter discussion.                                                                                                   |
 | #writing                 | Handling spelling/grammatical errors in achievement titles/descriptions and other related tasks.                         |
-| #writing-requests        | Writing requests to be handled by the Writing team.                                                                      | -->
+| #writing-requests        | Writing requests to be handled by the Writing team.                                                                      | --> |
 
 # [RANews](https://github.com/RetroAchievements/RANews)
 <!-- * 1 Year Anniversary in August.
@@ -362,7 +361,7 @@ If you are interested in becoming a Playtester please reach out to {% rauserpic 
 | Virtual Boy          | 3            | 3            |
 | WonderSwan           | 6            | 5            |
 | Watara Supervision   | 4            | 4            |
-| **Total**            | **2,398**    | **1,437**    | -->
+| **Total**            | **2,398**    | **1,437**    | --> |
 
 # [RAGuide](https://github.com/RetroAchievements/guides)
 <!-- The [RAGuide Wiki](https://github.com/RetroAchievements/guides/wiki) allowes users to create and share set guides with the rest of community. If you are interested in created guide head on over to the [RAGuide Wiki](https://github.com/RetroAchievements/guides/wiki) and create a new page to start working on one. In the meantime, check out the guides that were created this year.
@@ -584,33 +583,33 @@ Huge thanks to [luchaos](https://github.com/luchaos) & [Jamiras](https://github.
   * Fix hardcore indicator on player history page by @Jamiras in #1107
   * Fix first mutual follower showing follow link by @Jamiras in #1108
 * [Version 2.0.0](https://github.com/RetroAchievements/RAWeb/releases/tag/2.0.0) - Released on 9/16/2022
-* V2: Introduce TALL Stack by @luchaos in #1103
-* Added
-  * Add composer install line to readme
-  * Add ranking to footer nav
-* Changed
-  * Refactor requests, deprecate request helper functions, use framework request() helper
-  * Update dependencies, require node v18, npm v8, run audits
-  * Refactor CSS to Vite/Tailwind & remove unused classes & split styles.css
-  * Change utf8mb4_0900_ai_ci to utf8mb4_general_ci for mariadb compatibility
-  * Refactor "Enum" classes to be closer to PHP 8.1's Enum
-  * Refactor email update request & add global verification nag message
-  * Move logout from top area to my pages dropdown
-  * Remove HARDCORE ascii art
-  * Clean up game pages
-  * Clean up aotw component
-  * Clean up comments layout to match forum topic comments
-* Fixed
-  * Fix layout issues
-  * Fix open graph metadata
-  * Fix shortcode game resolution for unknown games
-  * Fix forum topic update redirect & add anchor
-  * Fix Apache not redirecting all php scripts in public/ to the index.php entrypoint
-  * Fix incorrect image upload request paths
-* Fixed V1
-  * Fix daily/weekly retro points calculation by @Tsearo in #1102
-  * fix hardcore indicator on player history page by @Jamiras in #1107
-  * fix first mutual follower showing follow link by @Jamiras in #1108
+  * V2: Introduce TALL Stack by @luchaos in #1103
+  * Added
+    * Add composer install line to readme
+    * Add ranking to footer nav
+  * Changed
+    * Refactor requests, deprecate request helper functions, use framework request() helper
+    * Update dependencies, require node v18, npm v8, run audits
+    * Refactor CSS to Vite/Tailwind & remove unused classes & split styles.css
+    * Change utf8mb4_0900_ai_ci to utf8mb4_general_ci for mariadb compatibility
+    * Refactor "Enum" classes to be closer to PHP 8.1's Enum
+    * Refactor email update request & add global verification nag message
+    * Move logout from top area to my pages dropdown
+    * Remove HARDCORE ascii art
+    * Clean up game pages
+    * Clean up aotw component
+    * Clean up comments layout to match forum topic comments
+  * Fixed
+    * Fix layout issues
+    * Fix open graph metadata
+    * Fix shortcode game resolution for unknown games
+    * Fix forum topic update redirect & add anchor
+    * Fix Apache not redirecting all php scripts in public/ to the index.php entrypoint
+    * Fix incorrect image upload request paths
+  * Fixed V1
+    * Fix daily/weekly retro points calculation by @Tsearo in #1102
+    * fix hardcore indicator on player history page by @Jamiras in #1107
+    * fix first mutual follower showing follow link by @Jamiras in #1108
 * [Version 2.0.1](https://github.com/RetroAchievements/RAWeb/releases/tag/2.0.1) - Released on 9/30/2022
   * Lazily load tooltip cards by @luchaos in #1142
   * Cache currently active on front page by @luchaos in #1143
@@ -1608,7 +1607,7 @@ Without the work of {% rauserpic Jamiras %} we would still be stuck in the stone
 <table>
     <thead>
         <tr>
-            <th colspan="3"><a class="gameicon-link" href="https://retroachievements.org/game/809" target="_blank"
+            <th colspan="3"><a class="gameicon-link" href="https://retroachievements.org/game/2962" target="_blank"
                     rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/058480.png"
                         alt="[DevQuest 016] Wish This Set"> <span>[DevQuest 016] Wish This Set</span></a></th>
         </tr>

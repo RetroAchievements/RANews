@@ -9,7 +9,7 @@ toc: true
 
 ## RAPodcast
 
-The RetroAchievement Pobcast is back! Check out all the hard work that has been put into the first few episodes by {% rauserpic TimeCrush %}, {% rauserpic gollawiz %} and {% rauserpic Scott %}. The first 3 episodes can be found on the official [YouTube Channel](https://www.youtube.com/@RAPodcast).
+The RetroAchievement Podcast is back! Check out all the hard work that has been put into the first few episodes by {% rauserpic TimeCrush %}, {% rauserpic gollawiz %} and {% rauserpic Scott %}. The first 3 episodes can be found on the official [YouTube Channel](https://www.youtube.com/@RAPodcast).
 
 ![](img/RAPod.png)
 

@@ -178,7 +178,7 @@ These events are open to any community member who wants to participate.
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
 - Current Winners:
-  - Month 30: Best Gamer: {% rauserpic  %}, Best Dev Fixer: {% rauserpic  %}
+  - Month 30: Best Gamer: {% rauserpic genesislover %}, Best Dev Fixer: {% rauserpic ladynadiad %}
 - Previous Winners:
   - Month 29: Best Gamer: {% rauserpic genesislover %}, Best Dev Fixer: {% rauserpic ladynadiad %}
   - Month 28: Best Gamer: {% rauserpic genesislover %}, Best Dev Fixer: {% rauserpic ladynadiad %}
@@ -261,9 +261,10 @@ These events are open to any community member who wants to participate.
   18. {% rauserpic Enagonius %}
   19. {% rauserpic Xymjak %}
   20. {% rauserpic GalacticSpear %}
-  21. {% rauserpic roukanumachi  %}
-  22. {% rauserpic Cryarionic  %}
-  23. {% rauserpic Dennis1543  %}
+  21. {% rauserpic roukanumachi %}
+  22. {% rauserpic Cryarionic %}
+  23. {% rauserpic Dennis1543 %}
+  24. {% rauserpic ockerjj %}
   
 <a href="#top">:top:</a>
 
@@ -286,7 +287,7 @@ These events are open to any community member who wants to participate.
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=13412>
 - Period: July 2021 - Current
-- Host: {% rauserpic RAEvents %}
+- Host: {% rauserpic FBernkastelKues %}
 - Top 3 Players:
   - {% rauserpic AuburnRDM %} (303)
   - {% rauserpic kmpers %} (203)

@@ -11,6 +11,11 @@ toc_float: true
 ## Intro
 Welcome to RANews, your #1 source for everything RetroAchievements.
 
+Cover by:
+<div class="bingo-winner-small">
+    {% rauserpic gollawiz %}
+</div>
+
 ## Community Submitted Content
 RANews thrives on community submitted content, Wish This Set, Play This Set and RAdvantage are only possibly if you allow it to be and send us your submissions for those articles. If you have any contributions that you would like to see featured in these articles, please send them in a direct message to {% rauser RANews %}.
 
@@ -38,7 +43,7 @@ See how the community voted on the latest Set of the Month polls.
 
 
 ### Monthly Stats
-We have collected a bunch of stats from September for your enjoyment.
+We have collected a bunch of stats from December for your enjoyment.
 
 
 ### Milestones
@@ -111,19 +116,19 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                               |                                 |                                  |
-| ----------------------------- | ------------------------------- | -------------------------------- |
-| {% rauserpic 14ausher %}      | {% rauserpic BatFastardJordy %} | {% rauserpic Bendyhuman %}       |
-| {% rauserpic BloodParade %}   | {% rauserpic BloodParade %}     | {% rauserpic Brandovsky %}       |
-| {% rauserpic Breadn %}        | {% rauserpic Chauckles %}       | {% rauserpic DevCompliance %}    |
-| {% rauserpic Enagonius %}     | {% rauserpic Erodion %}         | {% rauserpic Etron %}            |
-| {% rauserpic FlamingDoom %}   | {% rauserpic Glendaal %}        | {% rauserpic HolyRayne %}        |
-| {% rauserpic HolyShinx %}     | {% rauserpic Hotscrock %}       | {% rauserpic Kingsombra %}       |
-| {% rauserpic ladynadiad %}    | {% rauserpic LimeJinjo %}       | {% rauserpic MatheusBrazuca85 %} |
-| {% rauserpic MrOwnership %}   | {% rauserpic Nepiki %}          | {% rauserpic Nydaxn %}           |
-| {% rauserpic pinguupinguu %}  | {% rauserpic QATeam %}          | {% rauserpic RAEvents %}         |
-| {% rauserpic RANews %}        | {% rauserpic Raykusen %}        | {% rauserpic s0uth %}            |
-| {% rauserpic ShadwSonic %}    | {% rauserpic Sines %}           | {% rauserpic SporyTike %}        |
-| {% rauserpic StingX2 %}       | {% rauserpic Sutarion %}        | {% rauserpic TheJohanx %}        |
-| {% rauserpic TimeCrush %}     | {% rauserpic xtagnado %}        | {% rauserpic Xymjak %}           |
-| {% rauserpic YahwehTzVaoth %} |                                 |                                  |
+|                                  |                                 |                               |
+| -------------------------------- | ------------------------------- | ----------------------------- |
+| {% rauserpic 14ausher %}         | {% rauserpic BatFastardJordy %} | {% rauserpic Bendyhuman %}    |
+| {% rauserpic BloodParade %}      | {% rauserpic BloodParade %}     | {% rauserpic Brandovsky %}    |
+| {% rauserpic Breadn %}           | {% rauserpic Chauckles %}       | {% rauserpic DevCompliance %} |
+| {% rauserpic Enagonius %}        | {% rauserpic Erodion %}         | {% rauserpic Etron %}         |
+| {% rauserpic FlamingDoom %}      | {% rauserpic Glendaal %}        | {% rauserpic gollawiz %}      |
+| {% rauserpic HolyRayne %}        | {% rauserpic HolyShinx %}       | {% rauserpic Hotscrock %}     |
+| {% rauserpic Kingsombra %}       | {% rauserpic ladynadiad %}      | {% rauserpic LimeJinjo %}     |
+| {% rauserpic MatheusBrazuca85 %} | {% rauserpic MrOwnership %}     | {% rauserpic Nepiki %}        |
+| {% rauserpic Nydaxn %}           | {% rauserpic pinguupinguu %}    | {% rauserpic QATeam %}        |
+| {% rauserpic RAEvents %}         | {% rauserpic RANews %}          | {% rauserpic Raykusen %}      |
+| {% rauserpic s0uth %}            | {% rauserpic ShadwSonic %}      | {% rauserpic Sines %}         |
+| {% rauserpic SporyTike %}        | {% rauserpic StingX2 %}         | {% rauserpic Sutarion %}      |
+| {% rauserpic TheJohanx %}        | {% rauserpic TimeCrush %}       | {% rauserpic xtagnado %}      |
+| {% rauserpic Xymjak %}           | {% rauserpic YahwehTzVaoth %}   |                               |
