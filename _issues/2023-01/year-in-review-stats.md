@@ -121,7 +121,7 @@ Check out the top 25 achievement creators this year, how many achievements they 
 | 25   | {% rauserpic Brandovsky %}      | 943          | Game Boy Color       |
 
 ## Top 25 Developers
-Check out some stats regarding unlocks and points awarded by the developers. Included is the number of unlocks, points and retro points awarded to the players. This data includes all achievements but only counts unlocks during 2021.
+Check out some stats regarding unlocks and points awarded by the developers. Included is the number of unlocks, points and retro points awarded to the players. This data includes all achievements but only counts unlocks during 2022.
 
 | Rank | Developer                      | Unlocks Awarded | Points Awarded | Retro Points Awarded |
 | :--- | :----------------------------- | :-------------: | :------------: | :------------------: |
