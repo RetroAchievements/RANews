@@ -298,8 +298,4 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 250 Leaderboards Created
 
-|{% rauserpic kmpers %}|{% rauserpic Excessiveiser %}||
-
-### 100 Leaderboards Created
-
-|{% rauserpic Maximdraco %}|||
+|{% rauserpic Maximdraco %}|{% rauserpic kmpers %}|{% rauserpic Excessiveiser %}|
