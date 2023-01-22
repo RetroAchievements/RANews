@@ -73,7 +73,7 @@ Check out the latest RAGuide by {% rauser Sutarion %} to master [E.T.: The Extra
 
 
 ### RAdvantage
-Master [Castlevania: Harmony of Dissonance](https://retroachievements.org/game/2353) with a tips on getting the challenging [Bested Death](https://retroachievements.org/game/148821) achievement.
+Master [Castlevania: Harmony of Dissonance](https://retroachievements.org/game/2353) with a tips on getting the challenging [Bested Death](https://retroachievements.org/achievement/148821) achievement.
 
 ### HotCheevs Monthly
 List of achievement sets released in the last month.
