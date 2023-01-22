@@ -3,7 +3,7 @@ issue: 2023-01
 order: 202301-30
 layout: article
 category: RAGuide
-title: "E.T.: The Extra-Terrestrial"
+title: "E.T.: The Extra-Terrestrial (Atari 2600)"
 author: Sutarion
 toc: true
 ---
