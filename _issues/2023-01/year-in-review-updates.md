@@ -1744,7 +1744,7 @@ Without the work of {% rauserpic Jamiras %} we would still be stuck in the stone
   * fix exception pressing New button with Rich Presence filter selected
   * prevent saving achievement in invalid state when using Save All
   * add `_RA_InstallMemoryBankBlockReader` export
-* [Version 1.0.5](https://github.com/RetroAchievements/RAIntegration/releases/tag/RAIntegration.1.0.5) - Released on 11/15/2022
+* [Version 1.1.0](https://github.com/RetroAchievements/RAIntegration/releases/tag/RAIntegration.1.1.0) - Released on 11/15/2022
   * Support for indirect code notes (code notes derived from a note on a pointer)
   If the first line of a code note contains the keyword "pointer", then any following line that starts with a plus (no indent) immediately followed by a number (hexadecimal [0x prefix] or decimal, no whitespace) is treated as an indirect code note. After the number, any number of whitespace characters and/or a single non-alphanumeric character separate the indirect note from the offset. Following lines that don't start with a plus are also considered part of the indirect note. Some examples are shown [here](https://github.com/RetroAchievements/RAIntegration/pull/902#issuecomment-1180878607).
   * Support for local code notes
@@ -1854,7 +1854,7 @@ Without the work of {% rauserpic Jamiras %} we would still be stuck in the stone
   * fix optimization of division by self in leaderboard value
   * fix line endings causing rich presence to appear modified
   * fix back navigation when an asset has changed
-* [Version 1.10.0](https://github.com/Jamiras/RATools/releases/tag/v1.10.0) - Released on 1/14/2022
+* [Version 1.10.0](https://github.com/Jamiras/RATools/releases/tag/v1.10.0) - Released on 11/14/2022
   * new internal representation of logic
     * small performance boost due to not having to reevaluate on each usage
     * allows for more optimization opportunities
