@@ -357,7 +357,7 @@ Check out which developers created the most code notes this year.
         <tr><td>5</td><td>{% rauserpic SporyTike %}</td><td>8,453</td></tr>
     </tbody></table>
     </div> <div style='width:49%;display:inline-block;float:right'>
-    <table><thead><tr><th>Rank</th><th>Developer</th><th>Leaderboards</th></tr></thead><tbody>
+    <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
         <tr><td>6</td><td>{% rauserpic TeddyWestside %}</td><td>7,225</td></tr>
         <tr><td>7</td><td>{% rauserpic Bedtime %}</td><td>7,051</td></tr>
         <tr><td>8</td><td>{% rauserpic suspect15 %}</td><td>6,754</td></tr>
