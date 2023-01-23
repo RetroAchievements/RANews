@@ -23,8 +23,8 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 | :joystick: Category         | :trophy: Champions                                                             | Mastery Awards |
 | --------------------------- | ------------------------------------------------------------------------------ | -------------- |
 | Total Awards                | {% rauserpic guineu %}                                                         | 1011           |
-| Event Awards                | {% rauserpic Hotscrock %} & {% rauserpic Xymjak %}                             | 32             | <!-- 101 --> |
-| Site Awards                 | {% rauserpic Snow %}                                                           | 32             | <!-- 101 --> |
+| Event Awards                | {% rauserpic freezestar %}, {% rauserpic Hotscrock %} & {% rauserpic Xymjak %} | 16             | <!-- 101 --> |
+| Site Awards                 | {% rauserpic Snow %}                                                           | 23             | <!-- 101 --> |
 | 3DO Interactive Multiplayer | {% rauserpic Vyach59 %}                                                        | 12             | <!-- 43  --> |
 | Amstrad CPC                 | {% rauserpic roukanumachi %}                                                   | 15             | <!-- 37  --> |
 | Apple II                    | {% rauserpic guineu %}                                                         | 12             | <!-- 38  --> |
@@ -117,7 +117,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 <p align="center">
   <img src="img/TopMasteries/EVENT_AWARDS.png" />
 </p>
-* {% rauserpic Hotscrock %}, {% rauserpic Xymjak %} & {% rauserpic televandalist %} hold the top 3 spots in the Events Award split.
+* {% rauserpic freezestar %}, {% rauserpic Hotscrock %} & {% rauserpic Xymjak %} hold the top 3 spots in the Events Award split.
 
 ### Site Awards
 
