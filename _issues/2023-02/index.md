@@ -24,23 +24,23 @@ Each month, we invite the RetroAchievements community to vote for their favorite
 
 
 ## [This Month In Retro](./this-month-in-retro.html)
-If you're a fan of video games and the history behind them, you won't want to miss this article on This Month in Retro. {% rauser Nepiki %} takes us back to February 1996 and discusses the significance of that months releases. So, if you're interested in learning about the video games released in February 1996, including their sales figures and critic scores, this article is worth checking out. 
+If you're a fan of video games and the history behind them, you won't want to miss this article on This Month in Retro. {% rauser Nepiki %} takes us back to February 1996 and discusses the significance of that months releases. If you're interested in learning about the video games released in February 1996, including their sales figures and critic scores, this article is worth checking out. 
 
 
 ## [Monthly Stats](./monthly-stats.html)
-Get ready to dive into the numbers and see how you stack up against the rest of the RetroAchievements community! In this section, we'll be looking at all sorts of stats, including achievements created, most played games, mastery awards, leaderboards, and more. Whether you're a developer or not, you're sure to find something interesting here.
+Get ready to dive into the numbers and see how you stack up against the rest of the RetroAchievements community. In this section, we'll be looking at all sorts of stats, including achievements created, most played games, mastery awards, leaderboards, and more. Whether you're a developer or not, you're sure to find something interesting here.
 
 
 ## [Milestones](./milestones.html)
-In this section, we celebrate the user milestones reached this past month. We showcase users who have reached new feats ranging from impressive point totals thresholds to 100 point achievements unlocked, as well as developers milestones covering various aspects of a typical set developer. Whether you're a seasoned veteran or a newcomer to the site, we hope these highlights inspire you to push your own boundaries, achieve new goals and reach new milestones.
+In this section, we celebrate the user milestones reached this past month. We showcase user milestones ranging from total points to leaderboards joined, as well as developer milestones covering various aspects of the typical set developer. Whether you're a seasoned veteran or a newcomer to the site, we hope these highlights inspire you to push your own boundaries, achieve new goals and reach new milestones.
 
 
 ## [Current Events](./current-events.html)
-The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Event section is the perfect place to keep track of everything. From seasonal events to community-wide challenges, this section will keep you in the loop on all the exciting happenings within our community. Stay tuned for updates on upcoming events, results from past events, and more!
+The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!
 
 
 ## [Community News](./community-news.html)
-Stay up-to-date with the latest happenings in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to Team announcements and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
+Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
 
 
 ## [RAPodcast](./rapodcast.html)
@@ -48,11 +48,11 @@ Join the RetroAchievements community and listen to the latest RAPodcast, where o
 
 
 ## [Play This Set](./play-this-set.html)
-Looking for some great game recommendations? Play This Set features writeups submitted by the community about existing sets and why you should give them a play. Whether you're looking to discover a new favorite game or just need a reason to play something new, these writeups are sure to provide plenty of inspiration. So dive in, and get ready to take on a new set!
+Looking for some great game recommendations? Play This Set features writeups submitted by the community about existing sets and why you should give them a try. Whether you're looking to discover a new favorite or just need a reason to play something new, these writeups are sure to provide plenty of inspiration. So dive in, and get ready to take on a new set!
 
 
 ## [Wish This Set](./wish-this-set.html)
-In this section, users share their thoughts on which games they would love to see have sets created for. Whether it's a beloved classic or an underrated gem, we want to hear about it. So don't be shy and let us know which sets you're wishing for!
+In this section, users share their thoughts on which games they would love to see have sets created for. Whether it's a beloved classic or an underrated gem, we want to hear about it. If you are a developer looking for a new set to work on, then look no further than right here.
 
 
 ## [RAGuide](./raguide.html)
@@ -60,7 +60,7 @@ Get ready to explore the gritty world of Old Detroit with our comprehensive achi
 
 
 ## [RAdvantage](./radvantage.html)
-Are you ready to prove your mettle as a true stealth warrior? Our monthly tips section is here to help you earn the coveted [Big Boss](https://retroachievements.org/achievement/81444) achievement in [Metal Gear Solid (PlayStation)](https://retroachievements.org/game/11244). Learn how to become a true Big Boss with the helpful tips and advice from {% rauser s0uth %}.
+Are you ready to prove your skills as a true stealth warrior? Our monthly tips section is here to help you earn the coveted [Big Boss](https://retroachievements.org/achievement/81444) achievement in [Metal Gear Solid (PlayStation)](https://retroachievements.org/game/11244). Learn how to become a true Big Boss with the helpful tips and advice from {% rauser s0uth %}.
 
 
 ## [HotCheevs Monthly](./hot-cheevs.html)
@@ -72,19 +72,20 @@ In this segment, we'll be taking a closer look at the sets that have recently be
 
 
 ## [Art Updates](./art-updates.html)
-Discover the latest updates to achievmenet badges and set icons with our monthly roundup! From fresh badges to updated set icons, you'll get the scoop on all the changes happening on RetroAchievements. Join us for a closer look at the site's evolving aesthetic, and stay up-to-date on the latest changes from the artists of RetroAchievements!
+Discover the latest updates to achievmenet badges and set icons. From fresh badges to updated set icons, you'll get the scoop on all the art changes happening on RetroAchievements. Join us for a closer look at the evolving aesthetics of various achievement sets, and stay up-to-date on the latest changes from the artists of RetroAchievements!
 
 
 ## [Top Players](./top-players.html)
-Wondering who the top players on RetroAchievements are, and how they've been performing over the past month? I this section we take a deep dive into the top 300 players on the site, analyzing their progress and point totals over the past month. From the rise of new challengers to the continued dominance of top players, this section gives you a comprehensive overview of the RetroAchievements points leaderboard.
+Wondering who the top players on RetroAchievements are, and how they've been performing over the past month? In this section we take a deep dive into the top 300 players on the site, analyzing their progress and point totals over the past month. From the rise of new challengers to the continued dominance of top players, this section gives you a comprehensive overview of the RetroAchievements points leaderboard.
 
 
 ## [RAnniversaries](./ranniversaries.html)
-Joining RetroAchievements is a major milestone for gamers and achievement developers, and we love celebrating those anniversaries. In this section, we'll recognize the achievements of our dedicated members by highlighting their years of service to the site. From new members to veterans, we'll showcase everyone who's reached a new anniversary milestone. Join us in celebrating our amazing community, and the hard work and dedication that makes RetroAchievements the best achievement hunting platform out there.
+Joining RetroAchievements is a major milestone for gamers and achievement developers, and we love celebrating those anniversaries. In this section, we'll recognize the achievements of our dedicated members by highlighting their years of service to the site. From new members to veterans, we'll showcase everyone who's reached a new anniversary milestone. Join us in celebrating our amazing community, and the hard work and dedication that makes RetroAchievements the best achievement hunting community out there.
 
 
 ## [Top Masteries](./top-masteries.html)
-Mastering achievements is no easy feat, but some RetroAchievements players have proven themselves to be true champions. In this section, we celebrate the top achievers on each console by highlighting the players with the most Mastery Awards. These awards are a testament to their dedication, skill, and determination. Check out these incredible achievements and see how you rank up against some of the best players on RetroAchievements!
+Mastering achievement sets is no easy feat, but some RetroAchievements players have proven themselves to be true champions. In this section, we celebrate the top achievers on each console by highlighting the players with the most Mastery Awards. These awards are a testament to their dedication, skill, and determination. Check out these incredible achievements and see how you rank up against some of the best players on RetroAchievements!
+
 
 ## [Most Wanted Games](./most-wanted.html)
 Are you itching to tackle a new set, but can't seem to find the right one? Look no further than our Most Wanted Games section. Here, we highlight the top requested games for console, handheld, and hacks. Plus, each month we feature a new DevQuest console to encourage developers to earn that [Most Wanted](https://retroachievements.org/game/17758) DevQuest badge. Don't miss out on the chance to make your requests heard and see your favorite games added to RetroAchievements!
