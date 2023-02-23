@@ -8,15 +8,13 @@ author: Glendaal
 toc: true
 ---
 
-# About
-
 | Game                                                                                                                                                                                                                        | Console | Genre  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/game/1497" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/064968.png" alt="RoboCop"> <span>RoboCop</span></a> | NES     | Action |
 
 ![image](https://user-images.githubusercontent.com/106546659/217697482-cdffb5a2-79ed-41cd-8662-927bf2ceeaca.png)
 
-**Overview**
+## Overview
 
 - Estimated achievement difficulty: 6/10 
 - Approximate amount of time to master: 4+ hours (Depending on skill). 
@@ -27,8 +25,7 @@ toc: true
 - Glitchy achievements: None
 - Hardest achievement: Auto-9 Collector's Edition
 
-
-**Introduction**
+## Introduction
 
 Welcome to RoboCop, released in 1989 by Data East on the NES console and inspired by the highly successful arcade game of the same name released in 1988. The game was ported in Europe in 1991.
 
@@ -45,34 +42,34 @@ Upon dying, you will then go back to the main menu where you will be able to con
 In conclusion, the game itself is not really hard. The bosses are kind of a joke for the most part and once you memorize the stages layouts after a few runs you can breeze through the game without any trouble. But the achievements are a different story, a lot of them will test your nerves and you will most likely start to feel the urge to turn our lovely RoboCop into scrap metal before long, but with practice and dedication everything is very possible to do and Dick Jones's reign of terror will come to an end while you get a cool new shiny badge for your collection.
 
 
-**Roadmap**
+## Roadmap
 
 
-**Step 1:** Beat the game
+### Step 1: Beat the game
 
 Take this run to give you the opportunity to see what you're up against. This game is fairly short and you have infinite continues, so take your time and memorize the level layouts and enemy patterns for future more serious runs. You will earn all the story-related achievements and you can always attempt a few miscellaneous ones on your way to the end but don't be too stuck on doing them, you will have plenty of opportunities to earn them on your next run.
 
 
 
-**Step 2:** Take out the trash
+### Step 2: Take out the trash
 
 Now that you know the game a little bit better, you can attempt some of the special challenges that allows you to use continues (all damageless bosses, doing the continue cheat, killing the knife throwing guy on stage 5, destroying the spike wall, max out the cobra gun's ammo)
 
 
 
-**Step 3:** Put what you have learned through the test
+### Step 3: Put what you have learned through the test
 
 Now you must be starting to know the game fairly well, you can now attempt the high score achievements, the bonus stage ones, and beating the game without blocking and without using the 2 special guns (machine gun and cobra).
 
 
 
-**Step 4:** The hardest challenges
+### Step 4: The hardest challenges
 
 Everything is going well? Good! Now it's time to wrap this game up by taking out the big guns. 2 achievements are extremely hard: beating the game without using the pistol and beating the game without dying and having one extra life left after defeating the final boss. Those will be the tie breaker between those who are gonna master the game and those who won't. Which side are you? It'll all depend on how much you want it, I will sure try to help you to get though it the best I can though, see the achievements descriptions below for tips and tricks.
 
 
 
-**Achievements**
+## Achievements
 
 ![image](https://media.retroachievements.org/Badge/43061.png) **Stage 1 Clear** (1 point)
 

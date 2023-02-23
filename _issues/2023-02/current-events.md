@@ -16,6 +16,20 @@ For more info, check the [Current Competitions and Hall of Fame of RA](https://r
 
 These events are open to any community member who wants to participate.
 
+## Retro Olympics 2022
+
+- Forum topic: <https://retroachievements.org/viewtopic.php?t=18115>
+- Period: Event Complete
+- Host: {% rauserpic RetroOlympics %}
+- The winner is Team France:
+  - {% rauserpic amine456 %}
+  - {% rauserpic RaphMec %}
+  - {% rauserpic Pampa50 %}
+  - {% rauserpic Adenothe %}
+  - {% rauserpic Tayadaoc %}
+
+<a href="#top">:top:</a>
+
 ## Achievement of the Week 2023
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=19685>
@@ -39,9 +53,7 @@ These events are open to any community member who wants to participate.
 |{% rauserpic TheLooseGroose %}|{% rauserpic TheRealBillHicks %}|{% rauserpic Whynot15 %}|
 |{% rauserpic Wimpyfox %}|{% rauserpic zahgurim %}||
 
-  
 <a href="#top">:top:</a>
-
 
 ## Simple Monthly Master
 
@@ -64,14 +76,13 @@ These events are open to any community member who wants to participate.
   
 <a href="#top">:top:</a>
 
-
 ## The Unwanted
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=14787>
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
 - Current Winners:
-  - Month 31: Best Gamer: {% rauserpic  %}, Best Dev Fixer: {% rauserpic  %}
+  - Month 31: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic ladynadiad %}
 - Previous Winners:
   - Month 30: Best Gamer: {% rauserpic genesislover %}, Best Dev Fixer: {% rauserpic ladynadiad %}
   - Month 29: Best Gamer: {% rauserpic genesislover %}, Best Dev Fixer: {% rauserpic ladynadiad %}
@@ -106,48 +117,46 @@ These events are open to any community member who wants to participate.
 
 <a href="#top">:top:</a>
 
+## RA Roulette 2023
 
-## RA Roulette
+- Forum topic: <https://retroachievements.org/viewtopic.php?t=20193>
+- Period: January 2023 - Current
+- Host: {% rauserpic RAEvents %}
+- Current Standings:  
+  1: {% rauserpic malasdair %} - 8 Points  
+  1: {% rauserpic Tayadaoc %} - 8 Points  
+  3: {% rauserpic Akai %} - 6 Points  
+  3: {% rauserpic amine456 %} - 6 Points  
+  3: {% rauserpic genesislover %} - 6 Points  
+  3: {% rauserpic Sutarion %} - 6 Points  
+  3: {% rauserpic WanderingHeiho %} - 6 Points  
+  8: {% rauserpic Alarju %} - 5 Points  
+  8: {% rauserpic AuburnRDM %} - 5 Points  
+  8: {% rauserpic Erodion %} - 5 Points  
+  8: {% rauserpic FlamingDoom %} - 5 Points  
+  8: {% rauserpic heintsi %} - 5 Points  
+  8: {% rauserpic Lonoke31 %} - 5 Points
 
-- Forum topic: <https://retroachievements.org/viewtopic.php?t=15078>
-- Period: January 2022 - Current
-- Host: {% rauserpic StingX2 %}
-- Current Winners:
-  1. {% rauserpic heintsi %}
-  2. {% rauserpic WanderingHeiho %}
-  3. {% rauserpic malasdair %}
-  4. {% rauserpic freezestar %}
-  5. {% rauserpic FlamingDoom %}
-  6. {% rauserpic Cadaxar %}
-  7. {% rauserpic Lonoke31 %}
-  8. {% rauserpic Pudpod %}
-  9. {% rauserpic AngeloLeonhart %}
-  10. {% rauserpic Akai %}
-  11. {% rauserpic Sef %}
-  12. {% rauserpic Tayadaoc %}
-  13. {% rauserpic LordAndrew %}
-  14. {% rauserpic RaphMec %}
-  15. {% rauserpic Thejohanx %}
-  16. {% rauserpic HolyRayne %}
-  17. {% rauserpic Olafur %}
-  18. {% rauserpic Enagonius %}
-  19. {% rauserpic Xymjak %}
-  20. {% rauserpic GalacticSpear %}
-  21. {% rauserpic roukanumachi %}
-  22. {% rauserpic Cryarionic %}
-  23. {% rauserpic Dennis1543 %}
-  24. {% rauserpic ockerjj %}
-  25. {% rauserpic SoltyD %}
-  26. {% rauserpic AuburnRDM %}
-  27. {% rauserpic msdmario %}
-  28. {% rauserpic Hotscrock %}
-  29. {% rauserpic genesislover %}
-  30. {% rauserpic StingX2 %}
-  31. {% rauserpic Cronos74 %}
-  32. {% rauserpic Cerlayjux %}
-  33. {% rauserpic KingS1zzle %}
-  34. {% rauserpic Sharkhan %}
-  
+<a href="#top">:top:</a>
+
+## Challenge League Top 100
+
+- Forum topic: <https://retroachievements.org/viewtopic.php?t=19615>
+- Period: January 2023 - Current
+- Host: {% rauserpic RAEvents %}
+- Current Standings:  
+  1: {% rauserpic Kaizard %} - 19 Points  
+  1: {% rauserpic WanderingHeiho %} - 19 Points  
+  1: {% rauserpic wolfman2000 %} - 19 Points  
+  4: {% rauserpic pitapocket17 %} - 18 Points  
+  5: {% rauserpic FlamingDoom %} - 15 Points  
+  6: {% rauserpic Searo %} - 14 Points  
+  7: {% rauserpic ShadwSonic %} - 13 Points  
+  7: {% rauserpic thundere %} - 13 Points  
+  9: {% rauserpic DaniloZlatan %} - 12 Points  
+  9: {% rauserpic donutweegee %} - 12 Points  
+  9: {% rauserpic Sines %} - 12 Points
+
 <a href="#top">:top:</a>
 
 ## Peak Streak
@@ -164,7 +173,6 @@ These events are open to any community member who wants to participate.
 
 <a href="#top">:top:</a>
 
-
 ## Leaderboards of the Month
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=19693>
@@ -176,7 +184,6 @@ These events are open to any community member who wants to participate.
   - {% rauserpic Emoon %} (151)
 
 <a href="#top">:top:</a>
-
 
 ## Spot the Difference
 

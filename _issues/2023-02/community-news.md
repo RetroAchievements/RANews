@@ -7,6 +7,89 @@ title: Community News
 toc: true
 ---
 
+## General
+* [God of War](https://retroachievements.org/game/2782) is the fastest set on site to hit 2000 Players  
+* [Playstation 2](https://retroachievements.org/gameList.php?c=21) crossed 200 sets in under 4 months
+* Site hit a new peak of 1600 users
+* DSi Rollout has begun, as of this publication 24 sets have been finished
+
+## RA Minecraft
+RetroAchievement now has an official Minecraft server where you build anything you want in the most popular sandbox game ever created.
+
+The server can be accessed at: `mc.retroachievements.org:25588`
+
+If you would like access to the server please contact:<br>
+{% rauserpic Scott %}, {% rauserpic SporyTike %}, {% rauserpic luchaos %} or {% rauserpic BatFastardJordy %}
+
+## Jr Developer Graduates
+
+| Graduate                     | Game                                                                                                                                                                                                                                                                                                                  |
+| :--------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| {% rauserpic starlite %}     | <a class="gameicon-link" href="https://retroachievements.org/game/9008" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/064660.png" alt="Bionicle (Game Boy Advance)"> <span>Bionicle (Game Boy Advance)</span></a>                                                   |
+| {% rauserpic Guinea %}       | <a class="gameicon-link" href="https://retroachievements.org/game/17042" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/065790.png" alt="Sled Storm (PlayStation)"> <span>Sled Storm (PlayStation)</span></a>                                                        |
+| {% rauserpic RyudoSynbios %} | <a class="gameicon-link" href="https://retroachievements.org/game/4100" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/066585.png" alt="Azure Dreams (Game Boy Color)"> <span>Azure Dreams (Game Boy Color)</span></a>                                               |
+| {% rauserpic Chr0x %}        | <a class="gameicon-link" href="https://retroachievements.org/game/11804" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/066678.png" alt="Vendetta (Arcade)"> <span>Vendetta (Arcade)</span></a>                                                                      |
+| {% rauserpic thegotoguyy %}  | <a class="gameicon-link" href="https://retroachievements.org/game/3162" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/067659.png" alt="Ratchet & Clank: Size Matters (PlayStation Portable)"> <span>Ratchet & Clank: Size Matters (PlayStation Portable)</span></a> |
+| {% rauserpic acheaplemon %}  | <a class="gameicon-link" href="https://retroachievements.org/game/18157" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/066853.png" alt="DJ Max Fever (PlayStation Portable)"> <span>DJ Max Fever (PlayStation Portable)</span></a>                                  |
+
+**Current Stats**: 6 Developers have graduated in 2023 so far
+
+## Discord
+* `#Jr-Dev Help Channel` voice channel has been created so Code Reviewers can provide help over a call.
+* `#jr-dev-forum` channel has been created to help organize the jr-dev requests. Whenever you have a request, no matter if needing help with coding, game page updates or getting added to the review queue, you can now create a forum with the tag and we can easier help you. Additionally we added some guides for a few features with more coming if requested.
+* `#ra-the-game` channel has been created to document and get input as {% rauserpic Scott %} creates a WASM-4 game based on the website.
+
+## Teams
+* {% rauser DevQuest %} Team has added 1 new member: {% rauserpic SlashTangent %}
+* Art Team has added 2 new members: {% rauserpic EldridgeCrimson %}, {% rauserpic Mendil %}
+
+## Events
+* [Challenge League The Top 100](https://retroachievements.org/viewtopic.php?t=19615) started, you can start the first 10 events now! You get a badge at 30 points, or 60 if you like a challenge, or 90 if you're a stud
+* [RA Roulette (RAWR)](https://retroachievements.org/viewtopic.php?t=20193) Season 2/Year 2 has begun
+
+## Set Updates
+### Revisions
+* [Crash Bandicoot 3 Warped](https://retroachievements.org/viewtopic.php?t=5468&c=143974#143974)
+* [Road Fighter](https://retroachievements.org/viewtopic.php?t=1151&c=144069)
+* [Alex Kidd in Miracle World](https://retroachievements.org/viewtopic.php?t=4439&c=144256)
+* [Dragon Warrior Monsters 2](https://retroachievements.org/viewtopic.php?t=12547&c=144281#144281)
+* [Crusader of Centy](https://retroachievements.org/viewtopic.php?t=1857&c=144454)
+* [Battletoads and Double Dragon](https://retroachievements.org/viewtopic.php?t=3313&c=145451)
+* [Police Bust](https://retroachievements.org/viewtopic.php?t=12865&c=146026#146026)
+* [Pokemon Red Oak Subset](https://retroachievements.org/viewtopic.php?t=13636&c=146246)
+* [Alex Kidd in the Enchanted Castle](https://retroachievements.org/viewtopic.php?t=169&c=148764#148764)
+* [Wizardry](https://retroachievements.org/viewtopic.php?t=8202&c=149333#149333)
+* [Black Derulo World 2](https://retroachievements.org/viewtopic.php?t=1976&o=15)
+* [Mega Man Zero 3](https://retroachievements.org/game/625)
+
+### Rescores
+* [~Subset~ Pokemon Sapphire Version [Professor Oak Challenge] (Game Boy Advance)](https://retroachievements.org/viewtopic.php?t=13704&o=12)
+* [Donkey Kong 64 (Nintendo 64)](https://retroachievements.org/viewtopic.php?t=4569&c=147398#147398)
+* [Santa Claus Saves The Earth (Game Boy Advance)](https://retroachievements.org/viewtopic.php?t=2598&c=147421#147421)
+* [Prince of Persia (Mega Drive)](https://retroachievements.org/viewtopic.php?t=147&c=149662#149662)
+
+### Demotions
+* [Grenade](https://retroachievements.org/achievement/60619) for [Unwelcome Concept #7](https://docs.retroachievements.org/Developers-Code-of-Conduct/#unwelcome-concepts)
+
+## Developer Compliance
+### Code of Conduct Updates
+* New Developer Code of Conduct updates addressing developers changing accounts has been added [here](https://docs.retroachievements.org/Developers-Code-of-Conduct/#changing-accounts).
+<br><br>The following wording was added:
+`If a user with either Developer or Jr. Developer status changes accounts, achievements and tickets under the old account will be re-authored and reassigned to the new account.`
+
+### Set Approvals
+* [Mega Man X Collection (PlayStation 2)](https://retroachievements.org/game/5679) [Subset - Minimal Shot Presses]
+* [Shadow the Hedgehog (PlayStation 2) [Subset - 326 Endings]](https://retroachievements.org/game/22070)
+* [Final Fantasy III (PlayStation Portable) [Subset - Max Jobs]](https://retroachievements.org/game/22178)
+* [Xenosaga I](https://retroachievements.org/game/3155) & [Xenosaga III](https://retroachievements.org/game/3212) [Subset - Max SPecial Attacks]
+* [Dynamite Headdy (Japan) (Mega Drive)](https://retroachievements.org/game/22188)
+
+### Demotions
+* [Jig-A-Pix: Love Is... (Nintendo DS)](https://retroachievements.org/game/15349) due to memory issues
+* [Just chill!](https://retroachievements.org/achievement/91767) for [Unwelcome Concept #7](https://docs.retroachievements.org/Developers-Code-of-Conduct/#unwelcome-concepts)
+* [Brrrrrrrrrrrrrr...](https://retroachievements.org/achievement/91768) for [Unwelcome Concept #7](https://docs.retroachievements.org/Developers-Code-of-Conduct/#unwelcome-concepts)
+* [The Human World](https://retroachievements.org/achievement/15206) for [Unwelcome Concept #6](https://docs.retroachievements.org/Developers-Code-of-Conduct/#unwelcome-concepts)
+
 ## Site Updates
 
 ### RAWeb v2.5.0
@@ -440,7 +523,7 @@ toc: true
             <td>{% rauserpic voiceofautumn %}</td>
         </tr>
         <tr>
-            <td>{% rauserpic woflman2000 %}</td>
+            <td>{% rauserpic wolfman2000 %}</td>
             <td colspan="2">{% rauserpic BahamutVoid %}</td>
         </tr>
     </tbody>
