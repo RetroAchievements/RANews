@@ -32,7 +32,7 @@ This game is right up there with the great PS2 beat-em-ups Devil May Cry and God
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3916" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/053485.png" alt="FlatOut: Head On"> <span>FlatOut: Head On</span></a> | PlayStation Portable | [Racing](https://retroachievements.org/game/14240) |
 
-* Write-up by: {% rauserpic deng %}
+* Write-up by: {% rauserpic Blazekickn %}
 
 <figure style="text-align:center;float:left;width:50%;height:50%">
 <img src="https://retroachievements.org/Images/048406.png">

@@ -169,7 +169,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic Dominick %} has moved up 5 spots and is in 8th place.
 * {% rauserpic SuperMeatBro %} has made it into the top 25 and is tied for 10th place.
 * {% rauserpic Maximdraco %} has moved up 6 spots and is in a 3-way tie for 15th place.
-* {% rauserpic deng %} has moved up 1 spot and is in a 4-way tie for 19th place.
+* {% rauserpic Blazekickn %} has moved up 1 spot and is in a 4-way tie for 19th place.
 
 ### Atari 2600
 
@@ -205,7 +205,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic Nevermond12 %} has moved up 7 spots and is in a 3-way tie for 8th place.
 * {% rauserpic Maximdraco %} has moved up 8 spots and is in a 3-way tie for 14th place.
 * {% rauserpic HolyRayne %} has moved up 3 spots and is in a 7-way tie for 17th place.
-* {% rauserpic deng %} & {% rauserpic Timmay %} have made it into the top 25 and are in a 7-way tie for 17th place.
+* {% rauserpic Blazekickn %} & {% rauserpic Timmay %} have made it into the top 25 and are in a 7-way tie for 17th place.
 * {% rauserpic AptGaming %} has made it into the top 25 and is in a 6-way tie for 24th place.
 
 ### Game Boy
@@ -326,7 +326,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 </p>
 * {% rauserpic Olafur %} remains in 1st with 77 total mastery awards.
 * {% rauserpic Aquator %} has moved up 1 spot and is tied for 3rd place.
-* {% rauserpic deng %} has moved up 2 spots and is tied for 10th place.
+* {% rauserpic Blazekickn %} has moved up 2 spots and is tied for 10th place.
 * {% rauserpic MaddieKittyTV %} has moved up 4 spots and is tied for 12th place.
 * {% rauserpic MiningMario %} has moved up 5 spots and is in a 4-way tie for 15th place.
 * {% rauserpic Lonoke31 %} has made it into the top 25 and is in a 6-way tie for 22nd place.
@@ -379,7 +379,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic Excessiveiser %}, {% rauserpic Myanjo %} & {% rauserpic thundere %} have made it into the top 25 and are in a 6-way tie for 7th place.
 * {% rauserpic Cheshire %} has moved up 5 spots and is in a 5-way tie for 13th place.
 * {% rauserpic CassetteCobra %} & {% rauserpic HolyRayne %} has made it into the top 25 and is in a 5-way tie for 13th place.
-* {% rauserpic ChronoGear %}, {% rauserpic darksonic872 %}, {% rauserpic deng %} & {% rauserpic Lilihierax %} have made it into the top 25 and are in a 14-way tie for 18th place.
+* {% rauserpic ChronoGear %}, {% rauserpic darksonic872 %}, {% rauserpic Blazekickn %} & {% rauserpic Lilihierax %} have made it into the top 25 and are in a 14-way tie for 18th place.
 
 ### PlayStation Portable
 
@@ -455,7 +455,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic TheJediSonic %} has made it into the top 25 and is tied for 10th place.
 * {% rauserpic JoeRogan %} has made it into the top 25 and is in a 3-way tie for 12th place.
 * {% rauserpic LeakyComet %} has made it into the top 25 and is in 15th place.
-* {% rauserpic deng %} has moved up 3 spots and is tied for 16th place.
+* {% rauserpic Blazekickn %} has moved up 3 spots and is tied for 16th place.
 * {% rauserpic Searo %} has made it into the top 25 and is in a 5-way tie for 18th place.
 
 ### Watara Supervision

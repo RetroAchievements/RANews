@@ -178,7 +178,7 @@ Several Discord updates this month as a reault of the [QA Team Restructure](http
 
 <a class="gameicon-link" href="https://retroachievements.org/game/15937" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/048656.png" alt="[DevQuest 009] Launch Party!"> <span>[DevQuest 009] Launch Party!</span></a>
   - {% rauserpic Chawk %} for [Sonic Adventure 2](https://retroachievements.org/game/3417)
-  - {% rauserpic deng %} for [Beach Buggy Simulator](https://retroachievements.org/game/9674)
+  - {% rauserpic Blazekickn %} for [Beach Buggy Simulator](https://retroachievements.org/game/9674)
   - {% rauserpic SpaceRaton %} for [~Homebrew~ A Prelude To Chaos](https://retroachievements.org/game/19002)
   - {% rauserpic TheJediSonic %} for [Jet Set Radio \| Jet Grind Radio](https://retroachievements.org/game/3403)
   - {% rauserpic ventuz %} for [Klax](https://retroachievements.org/game/14348)

@@ -179,7 +179,7 @@ art	14527	I	WateredWillow	https://retroachievements.org/Images/033194.png	https:
 art	664	I	Krylan	https://retroachievements.org/Images/017532.png	https://retroachievements.org/Images/041125.png
 art	706	B	WateredWillow	https://user-images.githubusercontent.com/53956327/104113541-7b99f400-52d9-11eb-817a-1eb9e438dcab.png	https://user-images.githubusercontent.com/53956327/104113545-7d63b780-52d9-11eb-808a-c8d772edaf10.png
 art	10426	I	GameZone	https://retroachievements.org/Images/039804.png	https://retroachievements.org/Images/041164.png
-art	14431	I	deng	https://retroachievements.org/Images/041102.png	https://retroachievements.org/Images/041176.png
+art	14431	I	Blazekickn	https://retroachievements.org/Images/041102.png	https://retroachievements.org/Images/041176.png
 art	2087	I	Javisaur	https://retroachievements.org/Images/007729.png	https://retroachievements.org/Images/041177.png
 art	769	I	Raykusen	https://retroachievements.org/Images/001797.png	https://retroachievements.org/Images/041178.png
 art	5699	I	MaddieKittyTV	https://retroachievements.org/Images/041215.png	https://retroachievements.org/Images/041273.png

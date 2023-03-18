@@ -215,7 +215,7 @@ Approved Subsets
 - {% rauserpic FBernkastelKues %}
 
 <a class="gameicon-link" href="https://retroachievements.org/game/15953" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044440.png" alt="[DevQuest 003] Singles In Your Area"> <span>[DevQuest 003] Singles In Your Area</span></a>
-- {% rauserpic deng %}
+- {% rauserpic Blazekickn %}
 - {% rauserpic Bryan1150 %}
 
 <a class="gameicon-link" href="https://retroachievements.org/game/15947" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Badge/172011.png" alt="[DevQuest 004] Veteran Developer"> <span>[DevQuest 004] Veteran Developer</span></a>

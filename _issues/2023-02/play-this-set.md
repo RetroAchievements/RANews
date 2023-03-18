@@ -157,7 +157,7 @@ I played this game as a part of [The Unwanted](https://retroachievements.org/vie
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/15730" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/053574.png" alt="Petals Around the Rose"> <span>Petals Around the Rose</span></a> | Pokemon Mini | [Puzzle](https://retroachievements.org/game/1093) |
 
-* Set by: {% rauserpic deng %}, {% rauserpic Infernox %}
+* Set by: {% rauserpic Blazekickn %}, {% rauserpic Infernox %}
 * Write-up by: {% rauserpic Enagonius %}
 
 Fun. Fast. Forthright.

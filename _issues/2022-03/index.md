@@ -91,7 +91,7 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
 | {% rauserpic Akai %}          | {% rauserpic BahamutVoid %}      | {% rauserpic Bendyhuman %}      |
-| {% rauserpic Chauckles %}     | {% rauserpic deng %}             | {% rauserpic esmorais %}        |
+| {% rauserpic Chauckles %}     | {% rauserpic Blazekickn %}             | {% rauserpic esmorais %}        |
 | {% rauserpic Etron %}         | {% rauserpic Gamechamp %}        | {% rauserpic heintsi %}         |
 | {% rauserpic HolyShinx %}     | {% rauserpic Hotscrock %}        | {% rauserpic Ideasds %}         |
 | {% rauserpic kewlpinguino %}  | {% rauserpic Krylan %}           | {% rauserpic LiveFastCyYoung %} |

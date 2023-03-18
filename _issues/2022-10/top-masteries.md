@@ -364,7 +364,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic NEOMAR %} moves up 1 spot into 2nd place with 5 new mastery awards this month.
 * {% rauserpic guineu %} moves up 19 spots into 5th place with 11 new mastery awards this month.
 * {% rauserpic Amir96lx %} has made it into the top 25 and is in a 4-way tie for 13th place.
-* {% rauserpic deng %} has made it into the top 25 and is in a 4-way tie for 23rd place.
+* {% rauserpic Blazekickn %} has made it into the top 25 and is in a 4-way tie for 23rd place.
 
 ### Watara Supervision
 

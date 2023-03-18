@@ -94,7 +94,7 @@ Check out the top 25 achievement creators from this month.
 | 14   | {% rauserpic LordAndrew %}       | 145          |
 | 15   | {% rauserpic Altomar %}          | 119          |
 | 16   | {% rauserpic malasdair %}        | 115          |
-| 17   | {% rauserpic deng %}             | 106          |
+| 17   | {% rauserpic Blazekickn %}             | 106          |
 | 18   | {% rauserpic MaddieKittyTV %}    | 100          |
 | 19   | {% rauserpic TheMysticalOne %}   | 100          |
 | 20   | {% rauserpic Falcus %}           | 85           |
@@ -509,7 +509,7 @@ Check out which developers created the most leaderboards this month.
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Leaderboards</th></tr></thead><tbody>
         <tr><td>6</td><td>{% rauserpic WanderingHeiho %}</td><td>74</td></tr>
         <tr><td>7</td><td>{% rauserpic timenoe %}</td><td>59</td></tr>
-        <tr><td>8</td><td>{% rauserpic deng %}</td><td>57</td></tr>
+        <tr><td>8</td><td>{% rauserpic Blazekickn %}</td><td>57</td></tr>
         <tr><td>9</td><td>{% rauserpic Snow %}</td><td>53</td></tr>
         <tr><td>10</td><td>{% rauserpic raniejogos %}</td><td>52</td></tr>
     </tbody></table>

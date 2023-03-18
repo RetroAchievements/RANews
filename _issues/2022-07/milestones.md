@@ -24,7 +24,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 250,000 Points
 
-|{% rauserpic ramosgamer81 %}|{% rauserpic deng %}|{% rauserpic Bendyhuman %}|
+|{% rauserpic ramosgamer81 %}|{% rauserpic Blazekickn %}|{% rauserpic Bendyhuman %}|
 
 ### 200,000 Points
 
@@ -170,7 +170,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 15 100-Point Achievements Earned
 
-|{% rauserpic deng %}|{% rauserpic ChronoGear %}||
+|{% rauserpic Blazekickn %}|{% rauserpic ChronoGear %}||
 
 ### 10 100-Point Achievements Earned
 
@@ -271,7 +271,7 @@ The following users and devs listed here reached a new milestone last month.
 ### 100,000 Points Awarded to Users
 
 |{% rauserpic xnaivx %}|{% rauserpic wolfman2000 %}|{% rauserpic schick1980 %}|
-|{% rauserpic Mjollnir %}|{% rauserpic deng %}|{% rauserpic blazethecat %}|
+|{% rauserpic Mjollnir %}|{% rauserpic Blazekickn %}|{% rauserpic blazethecat %}|
 |{% rauserpic Bartis1989 %}|||
 
 
@@ -310,7 +310,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 250 Leaderboards Created
 
-|{% rauserpic deng %}|||
+|{% rauserpic Blazekickn %}|||
 
 ### 100 Leaderboards Created
 

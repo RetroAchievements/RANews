@@ -197,7 +197,7 @@ If you would like access to the server please contact:<br>
 - {% rauserpic Bartis1989 %}
 
 <a class="gameicon-link" href="https://retroachievements.org/achievement/153270" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Badge/172011.png" alt="[DevQuest 004] Vet Dev IV"> <span>[DevQuest 004] Vet Dev IV</span></a>
-- {% rauserpic deng %}
+- {% rauserpic Blazekickn %}
 - {% rauserpic wolfman2000 %}
 
 <a class="gameicon-link" href="https://retroachievements.org/achievement/153269" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Badge/172011.png" alt="[DevQuest 004] Vet Dev VII"> <span>[DevQuest 004] Vet Dev VII</span></a>

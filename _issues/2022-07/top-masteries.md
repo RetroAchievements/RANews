@@ -123,7 +123,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 </p>
 - {% rauserpic televandalist %} remains in 1st place.
 - {% rauserpic voiceofautumn %} has moved up 11 spots into 9th place.
-- {% rauserpic deng %} & {% rauserpic DoctorV %} have made it into the top 25 and in an 11-way tie for 19th place.
+- {% rauserpic Blazekickn %} & {% rauserpic DoctorV %} have made it into the top 25 and in an 11-way tie for 19th place.
 
 ### Amstrad CPC
 

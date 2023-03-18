@@ -231,7 +231,7 @@ This is the list of brand new sets released in June/2021 grouped by systems/cons
 | <a class="gameicon-link" href="https://retroachievements.org/game/5173" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045042.png" alt="~Homebrew~ Falling"> <span>~Homebrew~ Falling</span></a> | {% rauser stfN1337 %}  | Platformer |
 | <a class="gameicon-link" href="https://retroachievements.org/game/11079" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045276.png" alt="~Homebrew~ Jet-Paco: Hyper Special Space Agent!"> <span>~Homebrew~ Jet-Paco: Hyper Special Space Agent!</span></a> | {% rauser guindev %}  | Platformer |
 | <a class="gameicon-link" href="https://retroachievements.org/game/17764" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045019.png" alt="~Homebrew~ Kid Funky"> <span>~Homebrew~ Kid Funky</span></a> | {% rauser stfN1337 %}  | Platformer |
-| <a class="gameicon-link" href="https://retroachievements.org/game/13346" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045027.png" alt="~Homebrew~ Pong de las Tortugas Ninja"> <span>~Homebrew~ Pong de las Tortugas Ninja</span></a> | {% rauser deng %}  | Arcade |
+| <a class="gameicon-link" href="https://retroachievements.org/game/13346" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045027.png" alt="~Homebrew~ Pong de las Tortugas Ninja"> <span>~Homebrew~ Pong de las Tortugas Ninja</span></a> | {% rauser Blazekickn %}  | Arcade |
 | <a class="gameicon-link" href="https://retroachievements.org/game/17767" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045071.png" alt="~Homebrew~ Purple Cape Man"> <span>~Homebrew~ Purple Cape Man</span></a> | {% rauser stfN1337 %}  | Platformer |
 | <a class="gameicon-link" href="https://retroachievements.org/game/17751" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/044872.png" alt="~Homebrew~ The Ninja of the 4 Seasons"> <span>~Homebrew~ The Ninja of the 4 Seasons</span></a> | {% rauser stfN1337 %}  | Platformer |
 | <a class="gameicon-link" href="https://retroachievements.org/game/2057" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/012648.png" alt="Untouchables, The"> <span>Untouchables, The</span></a> | {% rauser wilhitewarrior %}  | Action |
@@ -323,8 +323,8 @@ This is the list of brand new sets released in June/2021 grouped by systems/cons
 
 | Game | Author | Genre |
 |------|--------|-------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/17676" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043991.png" alt="~Homebrew~ Flappy Bird"> <span>~Homebrew~ Flappy Bird</span></a> | {% rauser deng %}  | Endless Platformer |
-| <a class="gameicon-link" href="https://retroachievements.org/game/17393" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045230.png" alt="~Homebrew~ Pokemon - Orange"> <span>~Homebrew~ Pokemon - Orange</span></a> | {% rauser deng %}  | Almost Pokemon |
+| <a class="gameicon-link" href="https://retroachievements.org/game/17676" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/043991.png" alt="~Homebrew~ Flappy Bird"> <span>~Homebrew~ Flappy Bird</span></a> | {% rauser Blazekickn %}  | Endless Platformer |
+| <a class="gameicon-link" href="https://retroachievements.org/game/17393" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045230.png" alt="~Homebrew~ Pokemon - Orange"> <span>~Homebrew~ Pokemon - Orange</span></a> | {% rauser Blazekickn %}  | Almost Pokemon |
 
 <a href="#toc">:top:</a>
 

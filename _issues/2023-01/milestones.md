@@ -19,7 +19,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 150,000 Points
 
-|{% rauserpic deng %}|||
+|{% rauserpic Blazekickn %}|||
 
 ### 125,000 Points
 
@@ -174,7 +174,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 25 100-Point Achievements Earned
 
-|{% rauserpic deng %}|||
+|{% rauserpic Blazekickn %}|||
 
 ### 15 100-Point Achievements Earned
 

@@ -47,7 +47,7 @@ toc: true
 
 | Game                                                                                                                                                                                                                                                       | Revision Author   | Genre             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/515" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042054.png" alt="Pokemon FireRed Version"> <span>Pokemon FireRed Version</span></a> | {% rauser deng %} | Role-Playing Game |
+| <a class="gameicon-link" href="https://retroachievements.org/game/515" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042054.png" alt="Pokemon FireRed Version"> <span>Pokemon FireRed Version</span></a> | {% rauser Blazekickn %} | Role-Playing Game |
 
 <a href="#toc">:top:</a>
 

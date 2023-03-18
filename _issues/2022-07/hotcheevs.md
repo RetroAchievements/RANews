@@ -103,7 +103,7 @@ toc: true
 | Game                                                                                                                                                                                                                                                      | Author                   | Genre                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ---------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/5910" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059019.png" alt="Incredibles, The"> <span>Incredibles, The</span></a>             | {% rauser Nevermond12 %} | Beat 'em Up                        |
-| <a class="gameicon-link" href="https://retroachievements.org/game/7069" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/058904.png" alt="Monster Truck: Madness"> <span>Monster Truck: Madness</span></a> | {% rauser deng %}        | Racing, Arcade Racing, Kart Racing |
+| <a class="gameicon-link" href="https://retroachievements.org/game/7069" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/058904.png" alt="Monster Truck: Madness"> <span>Monster Truck: Madness</span></a> | {% rauser Blazekickn %}        | Racing, Arcade Racing, Kart Racing |
 | <a class="gameicon-link" href="https://retroachievements.org/game/19894" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059360.png" alt="~Prototype~ Quake"> <span>~Prototype~ Quake</span></a>          | {% rauser Cadaxar %}     | Shooter, First-Person Shooter      |
 
 <a href="#toc">:top:</a>
@@ -139,8 +139,8 @@ toc: true
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/5698" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059527.png" alt="Frog Bog"> <span>Frog Bog</span></a>                                    | {% rauser MGNS8M %}       | Action Platformer |
 | <a class="gameicon-link" href="https://retroachievements.org/game/19908" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059558.png" alt="Thin Ice"> <span>Thin Ice</span></a>                                   | {% rauser pinguupinguu %} | Action            |
-| <a class="gameicon-link" href="https://retroachievements.org/game/20037" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059548.png" alt="~Homebrew~ Flapee Bird"> <span>~Homebrew~ Flapee Bird</span></a>       | {% rauser deng %}         | Arcade            |
-| <a class="gameicon-link" href="https://retroachievements.org/game/20050" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059685.png" alt="~Homebrew~ Tag-Along Todd"> <span>~Homebrew~ Tag-Along Todd</span></a> | {% rauser deng %}         | Arcade            |
+| <a class="gameicon-link" href="https://retroachievements.org/game/20037" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059548.png" alt="~Homebrew~ Flapee Bird"> <span>~Homebrew~ Flapee Bird</span></a>       | {% rauser Blazekickn %}         | Arcade            |
+| <a class="gameicon-link" href="https://retroachievements.org/game/20050" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059685.png" alt="~Homebrew~ Tag-Along Todd"> <span>~Homebrew~ Tag-Along Todd</span></a> | {% rauser Blazekickn %}         | Arcade            |
 
 <a href="#toc">:top:</a>
 
@@ -160,7 +160,7 @@ toc: true
 
 | Game                                                                                                                                                                                                                                                       | Author                        | Genre             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ----------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/20039" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059572.png" alt="~Homebrew~ Happy Bird"> <span>~Homebrew~ Happy Bird</span></a>   | {% rauser deng %}             | Arcade            |
+| <a class="gameicon-link" href="https://retroachievements.org/game/20039" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059572.png" alt="~Homebrew~ Happy Bird"> <span>~Homebrew~ Happy Bird</span></a>   | {% rauser Blazekickn %}             | Arcade            |
 | <a class="gameicon-link" href="https://retroachievements.org/game/18460" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/058604.png" alt="~Prototype~ Spider-Man"> <span>~Prototype~ Spider-Man</span></a> | {% rauser BigWeedSmokerMan %} | Action (Climbing) |
 
 <a href="#toc">:top:</a>
@@ -245,7 +245,7 @@ toc: true
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | --------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/9525" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059022.png" alt="Kishin Douji Zenki FX: Vajura Fight"> <span>Kishin Douji Zenki FX: Vajura Fight</span></a> | {% rauser pinguupinguu %} | Beat 'em Up                       |
 | <a class="gameicon-link" href="https://retroachievements.org/game/16458" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059235.png" alt="Shanghai: Banri no Choujou"> <span>Shanghai: Banri no Choujou</span></a>                  | {% rauser ladynadiad %}   | Shanghai                          | Mahjong Solitaire |
-| <a class="gameicon-link" href="https://retroachievements.org/game/19912" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059196.png" alt="~Homebrew~ Simple Battle FX"> <span>~Homebrew~ Simple Battle FX</span></a>                | {% rauser deng %}         | Role-Playing Game, Turn-based RPG |
+| <a class="gameicon-link" href="https://retroachievements.org/game/19912" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059196.png" alt="~Homebrew~ Simple Battle FX"> <span>~Homebrew~ Simple Battle FX</span></a>                | {% rauser Blazekickn %}         | Role-Playing Game, Turn-based RPG |
 
 <a href="#toc">:top:</a>
 
@@ -354,7 +354,7 @@ toc: true
 | <a class="gameicon-link" href="https://retroachievements.org/game/4314" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059492.png" alt="Pole Position"> <span>Pole Position</span></a>                    | {% rauser MGNS8M %}     | Racing                    |
 | <a class="gameicon-link" href="https://retroachievements.org/game/4084" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/055010.png" alt="Solar Quest"> <span>Solar Quest</span></a>                        | {% rauser ventuz %}     | Multi-directional shooter |
 | <a class="gameicon-link" href="https://retroachievements.org/game/7603" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/058668.png" alt="Spinball"> <span>Spinball</span></a>                              | {% rauser ladynadiad %} | Pinball                   |
-| <a class="gameicon-link" href="https://retroachievements.org/game/20041" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059581.png" alt="~Homebrew~ Vector Pong"> <span>~Homebrew~ Vector Pong</span></a> | {% rauser deng %}       | Arcade, Sports - Tennis   |
+| <a class="gameicon-link" href="https://retroachievements.org/game/20041" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059581.png" alt="~Homebrew~ Vector Pong"> <span>~Homebrew~ Vector Pong</span></a> | {% rauser Blazekickn %}       | Arcade, Sports - Tennis   |
 
 <a href="#toc">:top:</a>
 

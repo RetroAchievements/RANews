@@ -118,7 +118,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 12   | {% rauserpic wilhitewarrior %} |     12,451      |     95,424     |       420,994        |
 | 13   | {% rauserpic zxmega %}         |     12,153      |     87,302     |       220,494        |
 | 14   | {% rauserpic Delmaru %}        |     11,622      |     73,789     |       154,184        |
-| 15   | {% rauserpic deng %}           |     11,526      |     56,967     |       196,305        |
+| 15   | {% rauserpic Blazekickn %}           |     11,526      |     56,967     |       196,305        |
 | 16   | {% rauserpic MGNS8M %}         |     11,290      |     74,681     |       228,349        |
 | 17   | {% rauserpic Dexterspet %}     |     11,104      |     69,496     |       160,541        |
 | 18   | {% rauserpic Jaarl %}          |     10,597      |     76,442     |       166,251        |

@@ -30,7 +30,7 @@ Special thanks to {% rauser Nydaxn %} for creating the nice-looking images for t
 | Homebrew Champ | {% rauserpic Bendyhuman %} |
 | Master System | {% rauserpic Jungon %}
 | Mega Drive | {% rauserpic Nanashi %} |
-| MSX | {% rauserpic deng %} |
+| MSX | {% rauserpic Blazekickn %} |
 | N64 | {% rauserpic Aquator %} |
 | NES | {% rauserpic SanMarino %} |
 | Nintendo DS | {% rauserpic Bendyhuman %} |
@@ -54,7 +54,7 @@ Special thanks to {% rauser Nydaxn %} for creating the nice-looking images for t
 - Gameboy Color: Welcome freezestar and Annonith to the top 25!  
 - Game Gear: BendyHuman is the newest Gear Head in the top 25!  
 - Hacks: Shinx can't stop increasing his lead, he mastered 13 more hacks in August  
-- Homebrew: The battle between Deng and Bendy for first has a new competitor. HolyShinx slammed down 15 masteries in August!  
+- Homebrew: The battle between Blazekickn and Bendy for first has a new competitor. HolyShinx slammed down 15 masteries in August!  
 - Master System: zumbertinho cracks the top 25!  
 - Mega Drive: DUT is now just 4 away from being the new champion, watch out Nanashi!  
 - NES: Mosk59 climbs the mountain earning 5 masteries in august to break into the top 25  

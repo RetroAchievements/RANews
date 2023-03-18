@@ -250,7 +250,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic Searo %} has moved up 1 spot and is in 12th place.
 * {% rauserpic seilahehe %} has moved up 3 spots and is in a 3-way tie for 16th place.
 * {% rauserpic Lonoke31 %} has moved up 5 spots and is in 19th place.
-* {% rauserpic deng %} has made it into the top 25 and is in a 3-way tie for 23rd place.
+* {% rauserpic Blazekickn %} has made it into the top 25 and is in a 3-way tie for 23rd place.
 
 ### Game Boy Advance
 
@@ -357,7 +357,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic SlashTangent %} has moved up 1 spot and is in a 3-way tie for 7th place.
 * {% rauserpic Olafur %} has moved up 3 spots and is in 10th place.
 * {% rauserpic Whithbrin %} has moved up 2 spots and is in 14th place.
-* {% rauserpic deng %} has moved up 4 spots and is tied for 15th place.
+* {% rauserpic Blazekickn %} has moved up 4 spots and is tied for 15th place.
 * {% rauserpic Signum %} has moved up 4 spots and is in a 3-way tie for 17th place.
 * {% rauserpic BahamutVoid %} has made it into the top 25 and is in a 4-way tie for 23rd place.
 
@@ -432,7 +432,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic guineu %} has moved up 1 spot and is in 6th place.
 * {% rauserpic TheJ5333 %} has moved up 1 spot and is in 11th place.
 * {% rauserpic Sylrifaide %} has moved up 1 spot and is tied for 14th place.
-* {% rauserpic deng %} has moved up 1 spot and is in a 3-way tie for 19th place.
+* {% rauserpic Blazekickn %} has moved up 1 spot and is in a 3-way tie for 19th place.
 * {% rauserpic Infernum %} has moved up 2 spots and is in a 3-way tie for 19th place.
 
 ### PlayStation 2
@@ -525,7 +525,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic Wendigo %} has moved up 2 spots and is in a 4-way tie for 9th place.
 * {% rauserpic Amir96lx %} has moved up 11 spot and is in a 5-way tie for 13th place.
 * {% rauserpic roukanumachi %} has moved up 6 spots and is in a 5-way tie for 13th place.
-* {% rauserpic deng %} & {% rauserpic Lanius %} have made it into the top 25 and are in a 10-way tie for 18th place.
+* {% rauserpic Blazekickn %} & {% rauserpic Lanius %} have made it into the top 25 and are in a 10-way tie for 18th place.
 
 ### WASM-4
 

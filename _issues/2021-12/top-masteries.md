@@ -31,7 +31,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 | Homebrew Champ       | {% rauserpic Bendyhuman %}                            | 74             |
 | Master System        | {% rauserpic Jungon %}                                | 49             |
 | Mega Drive           | {% rauserpic DUT %}                                   | 99             |
-| MSX                  | {% rauserpic deng %}                                  | 5              |
+| MSX                  | {% rauserpic Blazekickn %}                                  | 5              |
 | N64                  | {% rauserpic Aquator %}                               | 33             |
 | NES                  | {% rauserpic SanMarino %}                             | 232            |
 | Nintendo DS          | {% rauserpic Bendyhuman %}                            | 27             |
@@ -59,7 +59,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 
 #### Notable Milestones
 
-- Congratulations to {% rauserpic deng %} for reaching over 500 mastery awards.
+- Congratulations to {% rauserpic Blazekickn %} for reaching over 500 mastery awards.
 - Congratulations to {% rauserpic BlotchJBMR %}, {% rauserpic Tvols1480 %}, and {% rauserpic bonecrusher1022 %} for reaching over 200 mastery awards.
 
 ### Arcade
@@ -100,12 +100,12 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 ![Top Mastery Ranking](img/TopMasteries/top-mastery-gg.png)
 - {% rauserpic Nydaxn %} extends the 1st place lead with 7 new mastery awards this month.
 - {% rauserpic dcmpinguim %} has jumped up 11 spots into 4th place with 12 new mastery awards this month.
-- {% rauserpic Bendyhuman %} and {% rauserpic deng %} have made it into the top 25 and are in a 10-way tie for 17th place.
+- {% rauserpic Bendyhuman %} and {% rauserpic Blazekickn %} have made it into the top 25 and are in a 10-way tie for 17th place.
 
 ### Hack Champ
 
 ![Top Mastery Ranking](img/TopMasteries/top-mastery-hack.png)
-- {% rauserpic HolyShinx %} is in 1st place by a wide margin of 52 mastery awards over the 2nd place {% rauserpic deng %}.
+- {% rauserpic HolyShinx %} is in 1st place by a wide margin of 52 mastery awards over the 2nd place {% rauserpic Blazekickn %}.
 - {% rauserpic Bendyhuman %} has jumped into 4th place with 4 new mastery awards this month.
 - {% rauserpic LittleTiger %} and {% rauserpic ShadwSonic %} have made it into the top 25 with 12 and 20 new mastery awards this month, both are tied in 18th place.
 - {% rauserpic Dartfree %} has made it into the top 25 and is ties in 22nd place.

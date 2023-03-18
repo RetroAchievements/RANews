@@ -52,7 +52,7 @@ Special thanks to {% rauser Nydaxn %} for creating the nice-looking images for t
 - GBC: Bendy came and conquered the GBC Champion spot, but watch out Bendy! Guineu put up 12 as well in June!
 - Genesis: Really quiet here but mikeisafighter only 2 away from Champion slot here
 - Hacks: In this competitive category FabricioPrie earned 9 hacks this month and that wasn't good enough to move up in the leaderboard
-- Homebrew: Our new category debuts with BendyHuman as the champion, but Deng is literally right behind him!
+- Homebrew: Our new category debuts with BendyHuman as the champion, but Blazekickn is literally right behind him!
 - N64: Aquator takes her throne dethroning the once Champion Draco655. But watch out for BenTobitt he is a man on a mission!
 - NDS: A lot of action all around here but welcome to the top 25 FireSonic!
 - NES: Welcome mx01 onto the list at #21!

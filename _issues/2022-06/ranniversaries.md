@@ -397,7 +397,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 364 | dantea7x             | 6/7/2019      | 3                |
 | 365 | Teddy1103            | 6/7/2019      | 3                |
 | 366 | Bigslim2055          | 6/7/2019      | 3                |
-| 367 | deng                 | 6/7/2019      | 3                |
+| 367 | Blazekickn                 | 6/7/2019      | 3                |
 | 368 | slimdzl              | 6/8/2019      | 3                |
 | 369 | JpdNascimento        | 6/8/2019      | 3                |
 | 370 | bartsimpison         | 6/8/2019      | 3                |

@@ -65,7 +65,7 @@ new	2772	DanielARP voiceofautumn
 new	1314	Altomar
 new	11659	AfroRyan
 new	4965	Sines
-new	5085	deng
+new	5085	Blazekickn
 new	2611	EulerMoises1981
 new	16193	stfN1337 Bryan1150
 new	12358	MaddieKittyTV
@@ -88,7 +88,7 @@ new	3933	andreemendess
 new	22418	Bl4h8L4hBl4h
 new	21686	Sines
 new	19291	FRAN269 Bryan1150
-new	18326	deng
+new	18326	Blazekickn
 new	17450	Excessiveiser
 new	3124	BatFastardJordy
 new	18224	Tayadaoc
@@ -187,7 +187,7 @@ rev	6729	W	Bartis1989
 rev	473	W	GalacticSpear
 rev	11367	W	UnsolidSnake
 rev	11270	W	FBernkastelKues
-rev	515	W	deng
+rev	515	W	Blazekickn
 rev	10433	F	JAM
 rev	9998	W	Bryan1150
 rev	20	W	DarknessZedzi

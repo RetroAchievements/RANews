@@ -40,7 +40,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 | Magnavox Odyssey 2          | {% rauserpic guineu %} & {% rauserpic Jungon %}                                  | 3              |
 | Master System               | {% rauserpic Jungon %}                                                           | 53             |
 | Mega Drive                  | {% rauserpic DUT %}                                                              | 100            |
-| MSX                         | {% rauserpic deng %}                                                             | 5              |
+| MSX                         | {% rauserpic Blazekickn %}                                                             | 5              |
 | Nintendo 64                 | {% rauserpic Aquator %}                                                          | 34             |
 | Neo Geo Pocket              | {% rauserpic Nanashi %}                                                          | 4              |
 | NES                         | {% rauserpic SanMarino %}                                                        | 229            |
@@ -173,7 +173,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/Homebrew.png" />
 </p>
 - {% rauserpic AuburnRDM %} has surpassed 100 total mastery awards with 10 new ones this month.
-- {% rauserpic deng %} has jumped into 3rd place with 5 new mastery awards this month.
+- {% rauserpic Blazekickn %} has jumped into 3rd place with 5 new mastery awards this month.
 - {% rauserpic Tvols1480 %} has made it into the top 25 and is tied in 19th place.
 - {% rauserpic Shootzy %} has made it into the top 25 and is tied in 24th place.
 
@@ -202,7 +202,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 </p>
 - {% rauserpic BenTobitt %} is now just 1 mastery award away from 1st place.
 - {% rauserpic Kryle %} has moved up 3 spots into a tie for 14th place.
-- {% rauserpic deng %} has moved up 7 spots into a 7-way tir for 16th place.
+- {% rauserpic Blazekickn %} has moved up 7 spots into a 7-way tir for 16th place.
 
 ### NES
 

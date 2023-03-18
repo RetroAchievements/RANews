@@ -111,7 +111,7 @@ The RANews project wouldn't be possible without the contributions of many passio
 | {% rauserpic Akai %}             | {% rauserpic BahamutVoid %}       | {% rauserpic BatFastardJordy %} |
 | {% rauserpic Bendyhuman %}       | {% rauserpic BloodParade %}       | {% rauserpic Brandovsky %}      |
 | {% rauserpic Bryan1150 %}        | {% rauserpic Cadaxar %}           | {% rauserpic CassetteCobra %}   |
-| {% rauserpic Daroachie %}        | {% rauserpic deng %}              | {% rauserpic DevCompliance%}    |
+| {% rauserpic Daroachie %}        | {% rauserpic Blazekickn %}              | {% rauserpic DevCompliance%}    |
 | {% rauserpic Enagonius %}        | {% rauserpic Etron %}             | {% rauserpic Falcus %}          |
 | {% rauserpic GalacticSpear %}    | {% rauserpic Gamechamp %}         | {% rauserpic Glendaal %}        |
 | {% rauserpic HolyShinx %}        | {% rauserpic Hotscrock %}         | {% rauserpic JAM %}             |

@@ -38,7 +38,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 
 ### 200,000 Points
 
-|{% rauserpic ramosgamer81 %}|{% rauserpic deng %}|{% rauserpic Bendyhuman %}|
+|{% rauserpic ramosgamer81 %}|{% rauserpic Blazekickn %}|{% rauserpic Bendyhuman %}|
 |{% rauserpic Pixelach %}|{% rauserpic marcelosnp %}|{% rauserpic Jungon %}|
 |{% rauserpic danibodom %}|{% rauserpic Valenstein %}|{% rauserpic Grahamtams %}|
 |{% rauserpic 323GONZALEZ1990 %}|{% rauserpic ilikepie345 %}|{% rauserpic earfly %}|
@@ -339,7 +339,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 |{% rauserpic SamsamDaGameMan %}|{% rauserpic Nabas6545 %}|{% rauserpic xTyrea64 %}|
 |{% rauserpic Braek %}|{% rauserpic Draco655 %}|{% rauserpic Nevanos %}|
 |{% rauserpic AntonioFNN %}|{% rauserpic Nevermond12 %}|{% rauserpic darkwolf7786 %}|
-|{% rauserpic Searo %}|{% rauserpic SanMarino %}|{% rauserpic deng %}|
+|{% rauserpic Searo %}|{% rauserpic SanMarino %}|{% rauserpic Blazekickn %}|
 |{% rauserpic Transistor %}|{% rauserpic sigma62 %}|{% rauserpic MarcosRx %}|
 |{% rauserpic belarus %}|{% rauserpic Kuluk01 %}|{% rauserpic DaniloZlatan %}|
 |{% rauserpic Nanashi %}|{% rauserpic Dancarnate %}|
@@ -569,7 +569,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 ### 15,000 Hardcore Achievements Earned
 
 |{% rauserpic Xymjak %}|{% rauserpic Bendyhuman %}|{% rauserpic metalbubble403 %}|
-|{% rauserpic deng %}|{% rauserpic BerserkerBR %}|{% rauserpic Veritasu %}|
+|{% rauserpic Blazekickn %}|{% rauserpic BerserkerBR %}|{% rauserpic Veritasu %}|
 |{% rauserpic Olafur %}|{% rauserpic Kinglink %}|{% rauserpic CobaltZeroni %}|
 |{% rauserpic mikeisafighter %}|{% rauserpic HolyShinx %}|{% rauserpic MaddieKittyTV %}|
 |{% rauserpic Infernum %}|{% rauserpic Wiiner %}|{% rauserpic ChronoGear %}|
@@ -898,7 +898,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 
 |{% rauserpic Nevanos %}|{% rauserpic Infernum %}|{% rauserpic Nevermond12 %}|
 |{% rauserpic RemS2 %}|{% rauserpic Skystarmania %}|{% rauserpic FlamingDoom %}|
-|{% rauserpic Aquator %}|{% rauserpic Rarchie %}|{% rauserpic deng %}|
+|{% rauserpic Aquator %}|{% rauserpic Rarchie %}|{% rauserpic Blazekickn %}|
 |{% rauserpic metalbubble403 %}|{% rauserpic adamjohnny5 %}|{% rauserpic HigorHuannHardCore %}|
 |{% rauserpic Adenothe %}|{% rauserpic SamsamDaGameMan %}|{% rauserpic ShadwSonic %}|
 |{% rauserpic starlite %}|{% rauserpic AntonioFNN %}|{% rauserpic k176 %}|
@@ -934,7 +934,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 
 ### 500 Site Awards Earned
 
-|{% rauserpic deng %}|{% rauserpic Andrey199650 %}|{% rauserpic Sarconius %}|
+|{% rauserpic Blazekickn %}|{% rauserpic Andrey199650 %}|{% rauserpic Sarconius %}|
 |{% rauserpic Xymjak %}|{% rauserpic AuburnRDM %}|{% rauserpic ShadwSonic %}|
 
 ### 400 Site Awards Earned
@@ -1048,7 +1048,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 
 |{% rauserpic guineu %}|{% rauserpic Wiiner %}|{% rauserpic MaddieKittyTV %}|
 |{% rauserpic Shioxus %}|{% rauserpic Draco655 %}|{% rauserpic Bendyhuman %}|
-|{% rauserpic FabricioPrie %}|{% rauserpic deng %}|{% rauserpic cochese788 %}|
+|{% rauserpic FabricioPrie %}|{% rauserpic Blazekickn %}|{% rauserpic cochese788 %}|
 |{% rauserpic Wendigo %}|{% rauserpic Sarconius %}|{% rauserpic Searo %}|
 |{% rauserpic Kinglink %}|{% rauserpic Andrey199650 %}|{% rauserpic Chauckles %}|
 |{% rauserpic StingX2 %}|{% rauserpic Pudpod %}|{% rauserpic zanyeyedzach %}|
@@ -1152,7 +1152,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 |{% rauserpic msdmario %}|{% rauserpic gde %}|{% rauserpic Arcaderama %}|
 |{% rauserpic Skystarmania %}|{% rauserpic JAM %}|{% rauserpic ENZYME1 %}|
 |{% rauserpic ladynadiad %}|{% rauserpic Thundard %}|{% rauserpic Totaya %}|
-|{% rauserpic Stronghammer22 %}|{% rauserpic deng %}|{% rauserpic Kayesay %}|
+|{% rauserpic Stronghammer22 %}|{% rauserpic Blazekickn %}|{% rauserpic Kayesay %}|
 |{% rauserpic Kasumariii %}|{% rauserpic Wimpy %}|{% rauserpic Dimedime %}|
 |{% rauserpic Mutawarrior %}|{% rauserpic Thoreau %}|{% rauserpic toteman %}|
 
@@ -1325,7 +1325,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 |{% rauserpic zxmega %}|{% rauserpic pinguupinguu %}|{% rauserpic Delmaru %}|
 |{% rauserpic MrOwnership %}|{% rauserpic AlexGatao %}|{% rauserpic DanielARP %}|
 |{% rauserpic MGNS8M %}|{% rauserpic raniejogos %}|{% rauserpic lordpsycho %}|
-|{% rauserpic deng %}|{% rauserpic Blazekickn %}|{% rauserpic Altomar %}|
+|{% rauserpic Blazekickn %}|{% rauserpic Blazekickn %}|{% rauserpic Altomar %}|
 |{% rauserpic SlashTangent %}|{% rauserpic kdecks %}|{% rauserpic valts %}|
 |{% rauserpic Brandovsky %}|{% rauserpic gollawiz %}|{% rauserpic Cadaxar %}|
 |{% rauserpic Keltron3030 %}|{% rauserpic Prism %}|{% rauserpic theanxietybuster %}|
@@ -1388,7 +1388,7 @@ This month we have a new page being added to RANews in the form of Milestones! L
 ### 100 Leaderboards Created
 
 |{% rauserpic Bartis1989 %}|{% rauserpic zxmega %}|{% rauserpic TheJediSonic %}|
-|{% rauserpic deng %}|{% rauserpic Fridge %}|{% rauserpic timenoe %}|
+|{% rauserpic Blazekickn %}|{% rauserpic Fridge %}|{% rauserpic timenoe %}|
 |{% rauserpic TheMysticalOne %}|{% rauserpic soltyd %}|{% rauserpic Bedtime %}|
 |{% rauserpic blendedsea %}|{% rauserpic guindev %}|{% rauserpic Keltron3030 %}|
 |{% rauserpic Brandovsky %}|{% rauserpic Daroachie %}|{% rauserpic Alena %}|

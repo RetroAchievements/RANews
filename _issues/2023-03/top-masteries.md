@@ -78,7 +78,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 
 ### 700 Site Awards Earned
 
-|{% rauserpic deng %}|||
+|{% rauserpic Blazekickn %}|||
 
 ### 500 Site Awards Earned
 
@@ -175,7 +175,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic YahwehTzVaoth %} has made it into the top 25 and is in a 4-way tie for 5th place.
 * {% rauserpic AuburnRDM %} has moved up 2 spots and is in a 6-way tie for 9th place.
 * {% rauserpic VectorPrime40 %} has made it into the top 25 and is in a 6-way tie for 9th place.
-* {% rauserpic deng %} has moved up 3 spots and is in a 7-way tie for 15th place.
+* {% rauserpic Blazekickn %} has moved up 3 spots and is in a 7-way tie for 15th place.
 * {% rauserpic ImpliedKappa %} has moved up 5 spots and is in a 7-way tie for 15th place.
 * {% rauserpic mwelsh %} has made it into the top 25 and is in a 7-way tie for 15th place.
 * {% rauserpic AllKindsOfJames %} & {% rauserpic deathbychipmunk %} have made it into the top 25 and are in a 17-way tie for 22nd place.
@@ -204,7 +204,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic AuburnRDM %} has moved up 1 spot and is tied for 13th place.
 * {% rauserpic FlareEX %} has moved up 5 spots and is in 17th place.
 * {% rauserpic AllKindsOfJames %} has moved up 2 spots and is in a 6-way tie for 18th place.
-* {% rauserpic deng %} has moved up 5 spots and is in a 6-way tie for 18th place.
+* {% rauserpic Blazekickn %} has moved up 5 spots and is in a 6-way tie for 18th place.
 
 ### Atari 2600
 
@@ -214,7 +214,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic PMniac %} remains in 1st with 105 total mastery awards.
 * {% rauserpic AllKindsOfJames %} has moved up 2 spots and is tied for 11th place.
 * {% rauserpic Dogmeatman %} has moved up 1 spot and is tied for 19th place.
-* {% rauserpic deng %} has moved up 2 spots and is tied for 22nd place.
+* {% rauserpic Blazekickn %} has moved up 2 spots and is tied for 22nd place.
 
 ### Dreamcast
 
@@ -362,7 +362,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/NINTENDO_DS.png" />
 </p>
 * {% rauserpic Olafur %} remains in 1st with 78 total mastery awards.
-* {% rauserpic deng %} has moved up 3 spots and is in a 4-way tie for 7th place.
+* {% rauserpic Blazekickn %} has moved up 3 spots and is in a 4-way tie for 7th place.
 * {% rauserpic MaddieKittyTV %} has moved up 1 spot and is in 12th place.
 * {% rauserpic Retrokaiser %} has moved up 2 spots and is tied for 16th place.
 * {% rauserpic BlotchJBMR %} has made it into the top 25 and is in a 7-way tie for 25th place.

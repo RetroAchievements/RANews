@@ -31,7 +31,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 | Homebrew Champ      | {% rauserpic Bendyhuman %}                                                     | 72             |
 | Master System       | {% rauserpic Jungon %}                                                         | 46             |
 | Mega Drive          | {% rauserpic DUT %}                                                            | 91             |
-| MSX                 | {% rauserpic deng %}                                                           | 5              |
+| MSX                 | {% rauserpic Blazekickn %}                                                           | 5              |
 | N64                 | {% rauserpic Aquator %}                                                        | 33             |
 | NES                 | {% rauserpic SanMarino %}                                                      | 224            |
 | Nintendo DS         | {% rauserpic Bendyhuman %}                                                     | 26             |
@@ -103,13 +103,13 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 ### Hack Champ
 
 ![Top Mastery Ranking](img/top-mastery-hack.png)
-- {% rauserpic HolyShinx %} is in 1st place by a wide margin of 51 mastery awards over the 2nd place {% rauserpic deng %}.
+- {% rauserpic HolyShinx %} is in 1st place by a wide margin of 51 mastery awards over the 2nd place {% rauserpic Blazekickn %}.
 - {% rauserpic Draco655 %} is 1 mastery award shy of hitting the 100 mark.
 
 ### Homebrew Champ
 
 ![Top Mastery Ranking](img/top-mastery-homebrew.png)
-- Only 3 mastery awards separate our top the users. Do {% rauserpic deng %} or {% rauserpic HolyShinx %} have what it takes to overthrow {% rauserpic Bendyhuman %}?
+- Only 3 mastery awards separate our top the users. Do {% rauserpic Blazekickn %} or {% rauserpic HolyShinx %} have what it takes to overthrow {% rauserpic Bendyhuman %}?
 - {% rauserpic SamsamDaGameMan %} has squeaked into the top 25 and is sitting at 25th place.
 
 ### Master System
@@ -141,7 +141,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 
 ![Top Mastery Ranking](img/top-mastery-nds.png)
 - What a tight race this category is. 5 awards separate 5th from 1st place, all of which have got either 2 or 3 new mastery awards this month. {% rauserpic Bendyhuman %} is still holding onto 1st place, but the competition is hoping to change that.
-- {% rauserpic deng %} and {% rauserpic BahamutVoid %} have made their way into the top 25 are are sitting at 22nd and 25th place.
+- {% rauserpic Blazekickn %} and {% rauserpic BahamutVoid %} have made their way into the top 25 are are sitting at 22nd and 25th place.
 
 ### PlayStation
 

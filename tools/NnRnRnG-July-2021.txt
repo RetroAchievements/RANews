@@ -42,7 +42,7 @@ new	17809	g0dm0d3
 new	15374	AngelCWarrior	
 new	369	KingS1zzle	
 new	6339	guindev	
-new	16222	deng	
+new	16222	Blazekickn	
 new	2102	Pebete	
 new	1964	Rubicate	
 new	942	affftedio	
@@ -112,7 +112,7 @@ rev	519	W	Snow
 rev	466	F	GalacticSpear
 rev	722	F	SlashTangent
 rev	810	W	msdmario
-rev	788	C	deng
+rev	788	C	Blazekickn
 rev	4598	W	Maize
 rev	990	W	SoltyD
 rev	770	W	GalacticSpear

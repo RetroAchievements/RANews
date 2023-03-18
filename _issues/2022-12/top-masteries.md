@@ -124,7 +124,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/TOP_MASTERY_NO_HACKS.png" />
 </p>
 * {% rauserpic guineu %} remains in 1st with 977 total mastery awards.
-* {% rauserpic deng %} has moved up 1 spot and is in 9th place.
+* {% rauserpic Blazekickn %} has moved up 1 spot and is in 9th place.
 * {% rauserpic ShadwSonic %} has moved up 1 spot and is in 11th place.
 * {% rauserpic HippopotamusRex %} has moved up 1 spot and is tied for 15th place.
 * {% rauserpic MaddieKittyTV %} has moved up 4 spots and is tied for 15th place.
@@ -252,7 +252,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/HACKS.png" />
 </p>
 * {% rauserpic HolyShinx %} remains in 1st with 204 total mastery awards.
-* {% rauserpic deng %} has moved up 1 spot and is in 2nd place.
+* {% rauserpic Blazekickn %} has moved up 1 spot and is in 2nd place.
 * {% rauserpic ShadwSonic %} has moved up 6 spots and is in 5th place.
 * {% rauserpic chocolatiel %} has moved up 1 spot and is tied for 13th place.
 * {% rauserpic Wiiner %} has moved up 1 spot and is in 17th place.

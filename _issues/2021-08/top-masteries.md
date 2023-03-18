@@ -48,8 +48,8 @@ Special thanks to {% rauser Nydaxn %} for creating the nice-looking images for t
 - Arcade: Shoutout to dorayaki at #22 hitting the top 25  
 - Atari2600: RetroChris81 is now just one away from champion! He's doing it!  
 - GameGear: Welcome Pudpod to the top 10!  
-- GB: Biggest earner this month was Deng with 3 masteries!  
-- GBA: Deng and BendyHuman both push forward with 7 whopping masteries, check out Peak Streak and get your mastery game up!  
+- GB: Biggest earner this month was Blazekickn with 3 masteries!  
+- GBA: Blazekickn and BendyHuman both push forward with 7 whopping masteries, check out Peak Streak and get your mastery game up!  
 - GBC: The story this month is 4 new players entered the top 25! Grats!  
 - Hacks: It took 8 masteries for bendy to gain one rank but hes now in a position to seriously climb!  
 - Homebrew: The War of Homebrew is upon us, aside from Thoreau the top 10 is a warzone. Anyone can take this category  

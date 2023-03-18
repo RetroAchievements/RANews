@@ -177,7 +177,7 @@ Developers are using an early QT build of the PCSX2 standalone, which can be kep
 <a class="gameicon-link" href="https://retroachievements.org/game/15907" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045565.png" alt="[DevQuest 006] The Unwanted"> <span>[DevQuest 006] The Unwanted</span></a>
 - {% rauserpic wolfman2000 %} for [NewZealand Story, The](https://retroachievements.org/game/2176)
 - {% rauserpic timenoe %} for [Kishin Douji Zenki](https://retroachievements.org/game/12896)
-- {% rauserpic deng %} for [Space Slalom (SG-1000)](https://retroachievements.org/game/5858)
+- {% rauserpic Blazekickn %} for [Space Slalom (SG-1000)](https://retroachievements.org/game/5858)
 - {% rauserpic LordAndrew %} for [Bishoujo Senshi Sailor Moon (CD)](https://retroachievements.org/game/18279)
 <br><br>
 
@@ -243,7 +243,7 @@ Developers are using an early QT build of the PCSX2 standalone, which can be kep
 | {% rauserpic Brandovsky %}     | {% rauserpic ladynadiad %}   | {% rauserpic Infernox %} |
 | {% rauserpic LordAndrew %}     | {% rauserpic siouxerskate %} | {% rauserpic StingX2 %}  |
 | {% rauserpic TheMysticalOne %} | {% rauserpic AlexGatao %}    | {% rauserpic Cadaxar %}  |
-| {% rauserpic deng %}           |                              |                          |
+| {% rauserpic Blazekickn %}           |                              |                          |
 
 ### [Vet Dev III](https://retroachievements.org/achievement/153268)
 
@@ -262,7 +262,7 @@ Developers are using an early QT build of the PCSX2 standalone, which can be kep
 ### [Vet Dev VIII](https://retroachievements.org/achievement/153274)
 
 | {% rauserpic wolfman2000 %} | {% rauserpic Jamiras %} | {% rauserpic Searo %} |
-| {% rauserpic Cadaxar %}     | {% rauserpic deng %}    |                       |
+| {% rauserpic Cadaxar %}     | {% rauserpic Blazekickn %}    |                       |
 
 # QualityQuest
 The goal of this event is to help the website as a whole, whether it be rescores, grammar corrections, ticket save states or full game save states. This event can evolve over time to include more if the community would like, but this is a good starting point for the event.

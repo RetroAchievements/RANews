@@ -62,7 +62,7 @@ In this article we're going to see all the achievement sets that got revisions a
 
 | Game | Revision By | Genre |
 |------|-------------|-------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/4629" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/009758.png" alt="Hello Kitty World"> <span>Hello Kitty World</span></a> | {% rauser deng %}  | Platformer (Side Scrolling) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/4629" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/009758.png" alt="Hello Kitty World"> <span>Hello Kitty World</span></a> | {% rauser Blazekickn %}  | Platformer (Side Scrolling) |
 
 <a href="#toc">:top:</a>
 

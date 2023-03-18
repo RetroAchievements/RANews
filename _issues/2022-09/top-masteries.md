@@ -186,7 +186,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 </p>
 * {% rauserpic Shootzy %} remains in 1st place with 125 total mastery awards.
 * {% rauserpic PaddyW %} has made it into the top 25 and is in a 3-way tie for 21st place.
-* {% rauserpic deng %} has made it into the top 25 and is in a tie for 24th place.
+* {% rauserpic Blazekickn %} has made it into the top 25 and is in a tie for 24th place.
 
 ### Game Boy Advance
 

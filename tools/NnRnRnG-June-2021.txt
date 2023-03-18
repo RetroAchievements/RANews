@@ -90,15 +90,15 @@ new	16904	televandalist
 new	10922	voiceofautumn
 new	10760	guindev
 new	13486	pinguupinguu
-new	13346	deng
+new	13346	Blazekickn
 new	11350	tatoonie
-new	17676	deng
+new	17676	Blazekickn
 new	14565	voiceofautumn
 new	17525	voiceofautumn
 new	8112	voiceofautumn
 new	17772	voiceofautumn
 new	3819	guindev
-new	17393	deng
+new	17393	Blazekickn
 new	938	StingX2
 new	7873	GalacticSpear
 new	17771	guindev
@@ -152,7 +152,7 @@ rev	12625	F	Hotscrock
 rev	466	W	GalacticSpear
 rev	722	W	SlashTangent
 rev	810	W	msdmario
-rev	788	W	deng
+rev	788	W	Blazekickn
 rev	4598	W	Maize
 rev	990	W	SoltyD
 rev	770	W	GalacticSpear

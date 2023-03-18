@@ -112,7 +112,7 @@ toc: true
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/1491" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/039727.png" alt="Pac-Man"> <span>Pac-Man</span></a>                                                                                                                           | {% rauser JAM %}  | Arcade            |
 | <a class="gameicon-link" href="https://retroachievements.org/game/1961" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/025040.png" alt="Snow Bros."> <span>Snow Bros.</span></a>                                                                                                                     | {% rauser JAM %}  | Platforming       |
-| <a class="gameicon-link" href="https://retroachievements.org/game/5777" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/022637.png" alt="~Unlicensed~ Pokemon - Yellow \| Lei Dian Huang Bi Ka Qiu Chuan Shuo"> <span>~Unlicensed~ Pokemon - Yellow \| Lei Dian Huang Bi Ka Qiu Chuan Shuo</span></a> | {% rauser deng %} | Role-Playing Game |
+| <a class="gameicon-link" href="https://retroachievements.org/game/5777" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/022637.png" alt="~Unlicensed~ Pokemon - Yellow \| Lei Dian Huang Bi Ka Qiu Chuan Shuo"> <span>~Unlicensed~ Pokemon - Yellow \| Lei Dian Huang Bi Ka Qiu Chuan Shuo</span></a> | {% rauser Blazekickn %} | Role-Playing Game |
 
 <a href="#toc">:top:</a>
 
@@ -165,7 +165,7 @@ toc: true
 
 | Game                                                                                                                                                                                                                                | Rescored By            | Points Before | Points After |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | :-----------: | :----------: |
-| <a class="gameicon-link" href="https://retroachievements.org/game/19516" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/057686.png" alt="ArduGods"> <span>ArduGods</span></a>      | {% rauser deng %}      |      47       |      80      |
+| <a class="gameicon-link" href="https://retroachievements.org/game/19516" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/057686.png" alt="ArduGods"> <span>ArduGods</span></a>      | {% rauser Blazekickn %}      |      47       |      80      |
 | <a class="gameicon-link" href="https://retroachievements.org/game/5816" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/056451.png" alt="Flappy Ball"> <span>Flappy Ball</span></a> | {% rauser HolyShinx %} |      30       |      75      |
 
 <a href="#toc">:top:</a>

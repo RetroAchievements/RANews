@@ -126,7 +126,7 @@ Special thanks goes to these guys:
 - {% rauserpic wilhitewarrior %} for the Devember article.
 - All those who wrote for the "Play This Set" segment:
   - {% rauserpic BlotchJBMR %}
-  - {% rauserpic deng %}
+  - {% rauserpic Blazekickn %}
   - {% rauserpic HolyShinx %}
   - {% rauserpic KingS1zzle %}
   - {% rauserpic meleu %}

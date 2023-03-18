@@ -280,7 +280,7 @@ The following users and devs listed here reached a new milestone last month.
 ### 1,000 Achievements Created
 
 |{% rauserpic WanderingHeiho %}|{% rauserpic suXin %}|{% rauserpic EulerMoises1981 %}|
-|{% rauserpic deng %}|{% rauserpic DarknessZedzi %}|{% rauserpic Brandovsky %}|
+|{% rauserpic Blazekickn %}|{% rauserpic DarknessZedzi %}|{% rauserpic Brandovsky %}|
 |{% rauserpic BigWeedSmokerMan %}|||
 
 ### 500 Achievements Created

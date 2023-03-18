@@ -19,7 +19,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1   | Alfex        | 1/31/2015      | 7                |
 | 2   | Mutawarrior  | 1/13/2016      | 6                |
 | 3   | earfly       | 1/25/2016      | 6                |
-| 4   | deng         | 1/22/2018      | 4                |
+| 4   | Blazekickn         | 1/22/2018      | 4                |
 | 5   | Shmelyoff    | 1/4/2019       | 3                |
 | 6   | MrOwnership  | 1/12/2019      | 3                |
 | 7   | Poppers      | 1/20/2019      | 3                |

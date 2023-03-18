@@ -57,7 +57,7 @@ As far as the set itself goes, it has the standard progression achievements of c
 | <a class="gameicon-link" href="https://retroachievements.org/game/10457" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/054763.png" alt="Cruis'n Exotica"> <span>Cruis'n Exotica</span></a> | Nintendo 64 | [Racing](https://retroachievements.org/game/14240) |
 
 * Set by: {% rauserpic Nevermond12 %}
-* Write-up by: {% rauserpic deng %}
+* Write-up by: {% rauserpic Blazekickn %}
 
 As an Arcade Racer, the game is plenty of fun on its own to complete - A decent amount of tracks and cars to play and unlock with all the wackiness and fun Cruis'n is known for. An achievement set isn't just about the game, however - the set for this game really enhances the experience. Plenty of fun and creative challenge achievements that you don't see very often with racing games. There were plenty of times where I questioned if some of the achievements were even possible, followed by me figuring it out and becoming a better player as a result. One thing I failed to mention is that the game itself is pretty easy once you know what you're doing - I probably wouldn't have ever needed to use a lot of the strategies I learned or the cars I unlocked if the set was just "beat every race on Hard difficulty". The set really helps add that level of hard but fair challenge into the game and make it a very satisfying game to master.
 

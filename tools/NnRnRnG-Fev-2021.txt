@@ -175,7 +175,7 @@ res	3912	StingX2	400	310
 res	273	StingX2	400	385
 res	4993	StingX2	400	290
 res	6215	StingX2	400	280
-res	14469	deng	235	63
+res	14469	Blazekickn	235	63
 res	1604	StingX2	400	485
 res	5288	StingX2	400	351
 res	264	Bearfax62	620	645
@@ -189,13 +189,13 @@ res	1886	StingX2	400	463
 art	12899	I	BenGhazi	https://retroachievements.org/Images/017996.png	https://retroachievements.org/Images/041754.png
 art	559	B	GameZone	https://user-images.githubusercontent.com/53956327/107123200-fe7f8180-687a-11eb-885e-39b2cf9ef2fc.png	https://user-images.githubusercontent.com/53956327/107123201-ffb0ae80-687a-11eb-8903-5cb63d5a8bbf.png
 art	11353	I	Raykusen	https://retroachievements.org/Images/026470.png	https://retroachievements.org/Images/041767.png
-art	15723	I	deng	https://retroachievements.org/Images/031476.png	https://retroachievements.org/Images/041806.png
-art	15723	B	deng	https://user-images.githubusercontent.com/53956327/107123351-d5132580-687b-11eb-83bd-d1b8b6e9442f.png	https://user-images.githubusercontent.com/53956327/107123355-d7757f80-687b-11eb-9079-56cd936865f5.png
-art	16056	I	deng	https://retroachievements.org/Images/034557.png	https://retroachievements.org/Images/041841.png
-art	16056	B	deng	https://user-images.githubusercontent.com/53956327/107123352-d6445280-687b-11eb-8ba5-c1f7d36228ab.png	https://user-images.githubusercontent.com/53956327/107123357-d7757f80-687b-11eb-85bf-3b5886a05946.png
+art	15723	I	Blazekickn	https://retroachievements.org/Images/031476.png	https://retroachievements.org/Images/041806.png
+art	15723	B	Blazekickn	https://user-images.githubusercontent.com/53956327/107123351-d5132580-687b-11eb-83bd-d1b8b6e9442f.png	https://user-images.githubusercontent.com/53956327/107123355-d7757f80-687b-11eb-9079-56cd936865f5.png
+art	16056	I	Blazekickn	https://retroachievements.org/Images/034557.png	https://retroachievements.org/Images/041841.png
+art	16056	B	Blazekickn	https://user-images.githubusercontent.com/53956327/107123352-d6445280-687b-11eb-8ba5-c1f7d36228ab.png	https://user-images.githubusercontent.com/53956327/107123357-d7757f80-687b-11eb-85bf-3b5886a05946.png
 art	14835	B	Infernox	https://user-images.githubusercontent.com/53956327/107123197-fd4e5480-687a-11eb-9038-1f10be8fc2f0.png	https://user-images.githubusercontent.com/53956327/107123205-00e1db80-687b-11eb-94b0-7878b7ea124f.png
-art	16386	I	deng	https://retroachievements.org/Images/035252.png	https://retroachievements.org/Images/041842.png
-art	16386	B	deng	https://user-images.githubusercontent.com/53956327/107123354-d6dce900-687b-11eb-8902-0505aafde9f6.png	https://user-images.githubusercontent.com/53956327/107123358-d80e1600-687b-11eb-8cc8-7b945bedb1e3.png
+art	16386	I	Blazekickn	https://retroachievements.org/Images/035252.png	https://retroachievements.org/Images/041842.png
+art	16386	B	Blazekickn	https://user-images.githubusercontent.com/53956327/107123354-d6dce900-687b-11eb-8902-0505aafde9f6.png	https://user-images.githubusercontent.com/53956327/107123358-d80e1600-687b-11eb-8cc8-7b945bedb1e3.png
 art	14468	B	KingS1zzle	https://user-images.githubusercontent.com/53956327/107123199-fe7f8180-687a-11eb-8082-bc06b313d250.png	https://user-images.githubusercontent.com/53956327/107123208-02130880-687b-11eb-8b96-8e1434758ffe.png
 art	13891	I	Komojo	https://retroachievements.org/Images/022758.png	https://retroachievements.org/Images/041971.png
 art	521	I	WateredWillow	https://retroachievements.org/Images/010578.png	https://retroachievements.org/Images/041972.png
@@ -222,8 +222,8 @@ art	14449	I	KingS1zzle	https://retroachievements.org/Images/026769.png	https://r
 art	1752	I	KingS1zzle	https://retroachievements.org/Images/009163.png	https://retroachievements.org/Images/042191.png
 art	4514	I	KingS1zzle	https://retroachievements.org/Images/005350.png	https://retroachievements.org/Images/042236.png
 art	13910	I	KingS1zzle	https://retroachievements.org/Images/022753.png	https://retroachievements.org/Images/042237.png
-art	14469	I	deng	https://retroachievements.org/Images/028847.png	https://retroachievements.org/Images/042239.png
-art	14469	B	deng	https://user-images.githubusercontent.com/53956327/109424017-b6a6d280-79c0-11eb-9408-ee5c9b958875.png	https://user-images.githubusercontent.com/53956327/109424020-b8709600-79c0-11eb-812a-ca9cbc029546.png
+art	14469	I	Blazekickn	https://retroachievements.org/Images/028847.png	https://retroachievements.org/Images/042239.png
+art	14469	B	Blazekickn	https://user-images.githubusercontent.com/53956327/109424017-b6a6d280-79c0-11eb-9408-ee5c9b958875.png	https://user-images.githubusercontent.com/53956327/109424020-b8709600-79c0-11eb-812a-ca9cbc029546.png
 art	6930	I	luizfilipekz	https://retroachievements.org/Images/029055.png	http://retroachievements.org/Images/042259.png
 art	11353	B	Raykusen	https://user-images.githubusercontent.com/53956327/109424018-b73f6900-79c0-11eb-8e55-73263b54b8e6.png	https://user-images.githubusercontent.com/53956327/109424021-b9092c80-79c0-11eb-9d8b-da0ce71fd3b8.png
 art	4942	I	HolyShinx	https://retroachievements.org/Images/004044.png	https://retroachievements.org/Images/042311.png

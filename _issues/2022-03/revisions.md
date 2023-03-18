@@ -66,7 +66,7 @@ toc: true
 | Game                                                                                                                                                                                                                                                                                       | Revision By         | Genre              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | ------------------ |
 | <a class="gameicon-link" href="https://retroachievements.org/game/1411" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/008516.png" alt="Live-A-Live"> <span>Live-A-Live</span></a>                                                        | {% rauser QATeam %} | Role-Playing (RPG) |
-| <a class="gameicon-link" href="https://retroachievements.org/game/10701" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051152.png" alt="~Test Kit~ SNES Burn-in Test Cartridge"> <span>~Test Kit~ SNES Burn-in Test Cartridge</span></a> | {% rauser deng %}   | Diagnostics Tool   |
+| <a class="gameicon-link" href="https://retroachievements.org/game/10701" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051152.png" alt="~Test Kit~ SNES Burn-in Test Cartridge"> <span>~Test Kit~ SNES Burn-in Test Cartridge</span></a> | {% rauser Blazekickn %}   | Diagnostics Tool   |
 
 <a href="#toc">:top:</a>
 

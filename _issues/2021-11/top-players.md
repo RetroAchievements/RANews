@@ -44,7 +44,7 @@ Given period: October 1st to October 31st, 2021.
 | 025  | 🇫🇷 sigma62             | 214643 |      -790      |      -2       |
 | 026  | 🇧🇷 earfly              | 208860 |   **+2194**    |       1       |
 | 027  | 🇧🇷 oakley              | 207991 |   **+8289**    |       1       |
-| 028  | 🇺🇸 deng                | 207250 |   **+8624**    |       1       |
+| 028  | 🇺🇸 Blazekickn                | 207250 |   **+8624**    |       1       |
 | 029  | 🇺🇸 323GONZALEZ1990     | 206832 |    **+20**     |      -3       |
 | 030  | 🇧🇷 DUT                 | 205177 |   **+13736**   |       3       |
 | 031  | 🇧🇷 Valenstein          | 196900 |   **+3332**    |               |
@@ -346,7 +346,7 @@ Given period: October 1st to October 31st, 2021.
 
 ## Reached 200k points
 - 🇧🇷 oakley
-- 🇺🇸 deng
+- 🇺🇸 Blazekickn
 - 🇧🇷 DUT
 
 ## Reached 100k points

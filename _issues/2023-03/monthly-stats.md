@@ -127,7 +127,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 13   | {% rauserpic Bryan1150 %}      |     11,874      |     74,962     |       459,096        |
 | 14   | {% rauserpic MGNS8M %}         |     11,007      |     75,413     |       229,530        |
 | 15   | {% rauserpic Scott %}          |     10,387      |     51,387     |       100,847        |
-| 16   | {% rauserpic deng %}           |     10,127      |     56,845     |       204,916        |
+| 16   | {% rauserpic Blazekickn %}     |     10,127      |     56,845     |       204,916        |
 | 17   | {% rauserpic wilhitewarrior %} |     10,092      |     78,434     |       331,417        |
 | 18   | {% rauserpic Dexterspet %}     |      9,110      |     55,840     |       135,964        |
 | 19   | {% rauserpic BrunoKiko %}      |      8,697      |     51,950     |       100,212        |
@@ -552,7 +552,7 @@ Check out which developers created the most leaderboards this month.
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Leaderboards</th></tr></thead><tbody>
         <tr><td>6</td><td>{% rauserpic Numberman %}     </td><td>206</td></tr>
         <tr><td>7</td><td>{% rauserpic Guinea %}        </td><td>86</td></tr>
-        <tr><td>8</td><td>{% rauserpic deng %}          </td><td>68</td></tr>
+        <tr><td>8</td><td>{% rauserpic Blazekickn %}          </td><td>68</td></tr>
         <tr><td>9</td><td>{% rauserpic Excessiveiser %} </td><td>64</td></tr>
         <tr><td>10</td><td>{% rauserpic valts %}         </td><td>64</td></tr>
     </tbody></table>

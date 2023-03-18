@@ -48,7 +48,7 @@ new	19019	Snow
 new	16675	Cadaxar
 new	19917	timenoe
 new	20034	Lewis50248
-new	20417	deng
+new	20417	Blazekickn
 new	15614	Bryan1150
 new	20418	SlashTangent
 new	1304	Fridge
@@ -104,13 +104,13 @@ new	9462	Bryan1150
 new	6311	Pebete
 new	7838	MaddieKittyTV
 new	9576	Alena
-new	20488	deng
-new	20427	deng
+new	20488	Blazekickn
+new	20427	Blazekickn
 new	6056	PsyHunter29
 new	16696	PsyHunter29
 new	2661	Bartis1989
 new	2992	blendedsea
-new	20059	deng
+new	20059	Blazekickn
 new	14169	raniejogos
 new	2721	TheMysticalOne
 new	3060	DoctorV

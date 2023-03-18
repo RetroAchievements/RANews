@@ -37,7 +37,7 @@ Given period: December 1st to December 31st, 2022.
 | 018  | 🇮🇸 Olafur              | 162041 |   **+3997**    |               |
 | 019  | 🇧🇷 BerserkerBR         | 158900 |   **+1793**    |               |
 | 020  | 🇺🇸 AuburnRDM           | 157772 |   **+3943**    |               |
-| 021  | 🇺🇸 deng                | 154780 |   **+6083**    |               |
+| 021  | 🇺🇸 Blazekickn                | 154780 |   **+6083**    |               |
 | 022  | 🇧🇷 marcelosnp          | 147700 |   **+5223**    |       3       |
 | 023  | 🇧🇷 DUT                 | 146946 |   **+3694**    |      -1       |
 | 024  | 🇵🇱 HolyShinx           | 145587 |   **+2763**    |      -1       |
@@ -335,7 +335,7 @@ Given period: December 1st to December 31st, 2022.
 - 🇺🇸 Sarconius
 
 ## Reached 150k points
-- 🇺🇸 deng
+- 🇺🇸 Blazekickn
 
 ## Reached 100k points
 - 🇦🇷 xRidley

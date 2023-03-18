@@ -126,16 +126,16 @@ These events are open to any community member who wants to participate.
 - Period: January 2023 - Current
 - Host: {% rauserpic RAEvents %}
 - Current Standings:  
-  1: {% rauserpic Kaizard %} - 25 Points  
-  2: {% rauserpic WanderingHeiho %} - 24 Points  
+  1: {% rauserpic Kaizard %} - 29 Points  
+  2: {% rauserpic WanderingHeiho %} - 28 Points  
+  4: {% rauserpic pitapocket17 %} - 24 Points  
   3: {% rauserpic wolfman2000 %} - 24 Points  
-  4: {% rauserpic pitapocket17 %} - 22 Points  
-  5: {% rauserpic ShadwSonic %} - 21 Points  
-  6: {% rauserpic donutweegee %} - 20 Points  
-  7: {% rauserpic FlamingDoom %} - 17 Points  
-  8: {% rauserpic Searo %} - 17 Points  
-  9: {% rauserpic Sines %} - 17 Points  
-  10: {% rauserpic thundere %} - 17 Points
+  5: {% rauserpic ShadwSonic %} - 23 Points  
+  6: {% rauserpic donutweegee %} - 22 Points  
+  7: {% rauserpic FlamingDoom %} - 20 Points  
+  8: {% rauserpic Sines %} - 19 Points  
+  9: {% rauserpic Searo %} - 18 Points  
+  9: {% rauserpic thundere %} - 18 Points
 
 <a href="#top">:top:</a>
 

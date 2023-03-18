@@ -65,6 +65,7 @@ In this section, users share their thoughts on which games they would love to se
 
 
 ## [RAGuide](./raguide.html) <!-- Update each issue -->
+Are you ready to catch 'em all? {% rauser Nepiki %} has created a comprehensive achievement set guide for the beloved Game Boy classic, [Pokemon Yellow Version](https://retroachievements.org/game/723). From unlocked all the moods of Pikachu to collecting all the badges, this guide covers everything you need to master the set. So grab your Pokeballs and get ready to embark on a journey to become a Pokemon master!
 
 
 ## [RAdvantage](./radvantage.html) <!-- Update each issue -->
@@ -97,6 +98,10 @@ Mastering achievement sets is no easy feat, but some RetroAchievements players h
 
 ## [Most Wanted Games](./most-wanted.html)
 Are you itching to tackle a new set, but can't seem to find the right one? Look no further than our Most Wanted Games section. Here, we highlight the top requested games for console, handheld, and hacks. Plus, each month we feature a new DevQuest console to encourage developers to earn that [Most Wanted](https://retroachievements.org/game/17758) DevQuest badge. Don't miss out on the chance to make your requests heard and see your favorite games added to RetroAchievements!
+
+
+## [Set Creation Leaderboard](./set-creation-leaderboard.html)
+Are you curious about which developers have contributed the most seta to RetroAchievements for each console? This section has you covered. Here you can see which developers have made the most sets for the RetroAchievements community for each console. This section offers valuable insights into the individuals who have contributed the most to the world of achievement creation. Check it out now, and see which developers have left their mark on your favorite consoles!
 
 
 ## [Spot The Difference](./spot-the-difference.html) <!-- Update each issue -->

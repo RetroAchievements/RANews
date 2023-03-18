@@ -127,7 +127,7 @@ in [this forum post](https://retroachievements.org/viewtopic.php?t=12155).
 | 103 | 🇦🇷 fianovale | 110208 | **+445** | -3 |
 | 104 | 🇧🇷 SecoPlataforniano | 109092 | **+360** | -2 |
 | 105 | 🇺🇸 yoshter2011 | 108980 | **+3758** | 1 |
-| 106 | 🇺🇸 deng | 108454 | **+5796** | 5 |
+| 106 | 🇺🇸 Blazekickn | 108454 | **+5796** | 5 |
 | 107 | 🇷🇺 Pixelach | 108454 | **+5702** | 3 |
 | 108 | 🇧🇷 VICTORKRATOS | 108075 | - | -4 |
 | 109 | 🇺🇸 ChronoGear | 105606 | **+5704** | 8 |

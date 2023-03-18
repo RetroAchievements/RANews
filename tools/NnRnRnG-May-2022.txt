@@ -38,7 +38,7 @@ new	12002	soltyd
 new	8564	Bearfax62
 new	13577	guindev
 new	19153	wolfman2000
-new	5858	deng
+new	5858	Blazekickn
 new	4051	EulerMoises1981
 new	5041	Snow
 new	5357	KingS1zzle
@@ -48,7 +48,7 @@ new	11274	Altomar
 new	19505	StingX2
 new	15729	ladynadiad
 new	4622	Tardigrade
-new	19508	deng pinguupinguu
+new	19508	Blazekickn pinguupinguu
 new	18512	raniejogos
 new	19498	TheMysticalOne
 new	17338	BigWeedSmokerMan
@@ -56,7 +56,7 @@ new	18976	wolfman2000
 new	13162	Brandovsky
 new	19428	Dimedime
 new	6807	Lewis50248
-new	19510	deng
+new	19510	Blazekickn
 new	19509	Searo
 new	18257	pinguupinguu
 new	8948	pinguupinguu
@@ -67,7 +67,7 @@ new	19294	wolfman2000
 new	19296	Cadaxar
 new	19301	BahamutVoid
 new	19305	Etron
-new	19321	deng
+new	19321	Blazekickn
 new	19325	voiceofautumn
 new	19542	pinguupinguu
 new	7910	voiceofautumn
@@ -114,7 +114,7 @@ new	19317	Brandovsky
 new	19293	Infernox
 new	9237	DoctorV
 new	7911	msdmario
-new	5816	pinguupinguu deng
+new	5816	pinguupinguu Blazekickn
 new	19520	Snow
 new	8689	timenoe
 new	9251	pinguupinguu
@@ -126,7 +126,7 @@ new	8779	ladynadiad
 new	8632	ventuz
 new	3660	Bartis1989
 new	10627	Excessiveiser
-new	19548	deng
+new	19548	Blazekickn
 new	19304	guindev
 new	19334	kmpers
 new	9250	guindev
@@ -192,7 +192,7 @@ new	1072	Snow
 new	3159	malasdair WanderingHeiho
 new	14619	Hotscrock
 new	3419	Etron
-new	4749	deng
+new	4749	Blazekickn
 new	18160	Excessiveiser
 new	4124	rauvoir
 new	14593	Infernox
@@ -238,14 +238,14 @@ rev	5136	F	TheMysticalOne
 rev	1829	F	XTr4ceur
 rev	1863	F	kmpers
 rev	1234 	N	LordAndrew
-rev	5777	N	deng
+rev	5777	N	Blazekickn
 rev	17593	F 	Bearfax62
 rev	17626	F	ladynadiad
 
 
 
 res	6473	StingX2	171	196
-res	19516	deng	47	80
+res	19516	Blazekickn	47	80
 res	9818	Shmelyoff	556	590
 res	1883	Searo	500	525
 res	1174	GalacticSpear	655	709

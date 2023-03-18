@@ -324,7 +324,7 @@ toc: true
 
 #### Arduminer
  
-**New badges by {% rauser deng %}.**
+**New badges by {% rauser Blazekickn %}.**
  
 **Previous Badges:**
 
@@ -344,7 +344,7 @@ toc: true
 
 #### Super Mario Land [Subset - Bonus]
  
-**New badges by {% rauser deng %}.**
+**New badges by {% rauser Blazekickn %}.**
  
 **Previous Badges:**
 

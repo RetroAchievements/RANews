@@ -73,7 +73,7 @@ These events are open to any community member who wants to participate.
 |{% rauserpic roukanumachi %} [6]|{% rauserpic Serih %} [6]|{% rauserpic SuperMeatBro %} [6]|
 |{% rauserpic Swagneto %} [6]|{% rauserpic VenHur %} [6]|{% rauserpic AbysswalkerSoul %} [5]|
 |{% rauserpic Agnam %} [5]|{% rauserpic AlexGatao %} [5]|{% rauserpic Andrew0125 %} [5]|
-|{% rauserpic AngeloLeonhart %} [5]|{% rauserpic Dabot %} [5]|{% rauserpic deng %} [5]|
+|{% rauserpic AngeloLeonhart %} [5]|{% rauserpic Dabot %} [5]|{% rauserpic Blazekickn %} [5]|
 |{% rauserpic Doggy227 %} [5]|{% rauserpic Galopa %} [5]|{% rauserpic Gamechamp %} [5]|
 |{% rauserpic grapeisgreat %} [5]|{% rauserpic ilikepie345 %} [5]|{% rauserpic jabman696 %} [5]|
 |{% rauserpic LordKingGundam %} [5]|{% rauserpic MaddieKittyTV %} [5]|{% rauserpic MastuDenton %} [5]|
@@ -160,7 +160,7 @@ These events are open to any community member who wants to participate.
   - Month 9: {% rauserpic Gamechamp %} and {% rauserpic SlashTangent %}
   - Month 8: {% rauserpic HolyShinx %} and {% rauserpic SlashTangent %}
   - Month 7: {% rauserpic multonic %}, {% rauserpic Whynot15 %} and {% rauserpic SlashTangent %}
-  - Month 6: {% rauserpic deng %}
+  - Month 6: {% rauserpic Blazekickn %}
   - Month 5: {% rauserpic Kisumebuckets %}
   - Month 4: {% rauserpic freezestar %}
   - Month 3: {% rauserpic multonic %}

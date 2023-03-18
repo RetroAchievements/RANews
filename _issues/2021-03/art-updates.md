@@ -62,7 +62,7 @@ toc: true
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
 | <a class="gameicon-link" href="https://retroachievements.org/game/5939" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042348.png" alt="Adventures of Elmo in Grouchland, The"> <span>Adventures of Elmo in Grouchland, The</span></a> | {% rauser Griffin %}  | <img class="gameicon" src="https://retroachievements.org/Images/041302.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/16386" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041842.png" alt="~Homebrew~ Piecrust"> <span>~Homebrew~ Piecrust</span></a> | {% rauser deng %}  | <img class="gameicon" src="https://retroachievements.org/Images/035252.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/16386" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041842.png" alt="~Homebrew~ Piecrust"> <span>~Homebrew~ Piecrust</span></a> | {% rauser Blazekickn %}  | <img class="gameicon" src="https://retroachievements.org/Images/035252.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
@@ -73,7 +73,7 @@ toc: true
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
 | <a class="gameicon-link" href="https://retroachievements.org/game/10554" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042113.png" alt="Castle of Illusion starring Mickey Mouse"> <span>Castle of Illusion starring Mickey Mouse</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/022261.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/14469" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042239.png" alt="~Homebrew~ Picross"> <span>~Homebrew~ Picross</span></a> | {% rauser deng %}  | <img class="gameicon" src="https://retroachievements.org/Images/028847.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/14469" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042239.png" alt="~Homebrew~ Picross"> <span>~Homebrew~ Picross</span></a> | {% rauser Blazekickn %}  | <img class="gameicon" src="https://retroachievements.org/Images/028847.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
@@ -141,7 +141,7 @@ toc: true
 
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/15723" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041806.png" alt="~Homebrew~ PokeSnake"> <span>~Homebrew~ PokeSnake</span></a> | {% rauser deng %}  | <img class="gameicon" src="https://retroachievements.org/Images/031476.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/15723" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041806.png" alt="~Homebrew~ PokeSnake"> <span>~Homebrew~ PokeSnake</span></a> | {% rauser Blazekickn %}  | <img class="gameicon" src="https://retroachievements.org/Images/031476.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 
@@ -154,7 +154,7 @@ toc: true
 | <a class="gameicon-link" href="https://retroachievements.org/game/2374" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042130.png" alt="Clock Tower"> <span>Clock Tower</span></a> | {% rauser WateredWillow %}  | <img class="gameicon" src="https://retroachievements.org/Images/023368.png" alt="old icon">
 | <a class="gameicon-link" href="https://retroachievements.org/game/1450" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042011.png" alt="Dragon Ball Z: Super Saiya Densetsu"> <span>Dragon Ball Z: Super Saiya Densetsu</span></a> | {% rauser Javisaur %}  | <img class="gameicon" src="https://retroachievements.org/Images/015810.png" alt="old icon">
 | <a class="gameicon-link" href="https://retroachievements.org/game/4942" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042311.png" alt="~Hack~ Super Mario World: VIP and Wall Mix 2 - ASCII Art Edition"> <span>~Hack~ Super Mario World: VIP and Wall Mix 2 - ASCII Art Edition</span></a> | {% rauser HolyShinx %}  | <img class="gameicon" src="https://retroachievements.org/Images/004044.png" alt="old icon">
-| <a class="gameicon-link" href="https://retroachievements.org/game/16056" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041841.png" alt="~Homebrew~ Super Sudoku"> <span>~Homebrew~ Super Sudoku</span></a> | {% rauser deng %}  | <img class="gameicon" src="https://retroachievements.org/Images/034557.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/16056" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041841.png" alt="~Homebrew~ Super Sudoku"> <span>~Homebrew~ Super Sudoku</span></a> | {% rauser Blazekickn %}  | <img class="gameicon" src="https://retroachievements.org/Images/034557.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 

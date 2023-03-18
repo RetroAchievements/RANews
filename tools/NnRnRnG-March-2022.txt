@@ -32,7 +32,7 @@ new	7474	GalacticSpear
 new	15722	Snow
 new	18635	SporyTike
 new	3397	StingX2
-new	5119	deng
+new	5119	Blazekickn
 new	8376	Snow zxmega
 new	3562	ladynadiad
 new	13355	voiceofautumn
@@ -68,7 +68,7 @@ new	5741	adamjohnny5
 new	368	malasdair
 new	2915	raniejogos
 new	18165	princentvice
-new	17671	deng
+new	17671	Blazekickn
 new	7895	guindev
 new	18696	voiceofautumn
 new	17413	adamjohnny5
@@ -167,7 +167,7 @@ new	6926	Soulsderfuchs
 new	10909	Brandovsky
 new	14040	Kayesay
 new	14347	Tybis
-new	9674	deng
+new	9674	Blazekickn
 new	9647	guindev
 new	9668	guindev
 new	8137	guindev
@@ -214,7 +214,7 @@ rev	330	W	xTr4ceur
 rev	14691	F	SChaotyx
 rev	595	W	Shaoden
 rev	5371	F	adamjohnny5
-rev	10701	F	deng
+rev	10701	F	Blazekickn
 rev	1174	N	GalacticSpear
 rev	520	F	wilhitewarrior	
 rev	1865	F	Shmelyoff
@@ -286,7 +286,7 @@ art	4578	I	PeedroHM	https://retroachievements.org/Images/054112.png	https://retr
 art	11275	I	Ryudo	https://retroachievements.org/Images/033228.png	https://retroachievements.org/Images/054471.png
 art	6278	I	ReiKaz	https://retroachievements.org/Images/049870.png	https://retroachievements.org/Images/054546.png
 art	3615	I	PeedroHM	https://retroachievements.org/Images/003317.png	https://retroachievements.org/Images/054545.png
-art	5591	I	deng	https://retroachievements.org/Images/052064.png	https://retroachievements.org/Images/022703.png
+art	5591	I	Blazekickn	https://retroachievements.org/Images/052064.png	https://retroachievements.org/Images/022703.png
 art	79	I	zxmega	https://retroachievements.org/Images/000221.png	https://retroachievements.org/Images/054555.png
 art	60	I	zxmega	https://retroachievements.org/Images/011788.png	https://retroachievements.org/Images/054556.png
 art	647	I	zxmega	https://retroachievements.org/Images/009207.png	https://retroachievements.org/Images/054557.png

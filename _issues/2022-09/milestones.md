@@ -155,7 +155,7 @@ The following users and devs listed here reached a new milestone last month.
 
 |{% rauserpic Wiiner %}|{% rauserpic Wendigo %}|{% rauserpic ToxicAntidote %}|
 |{% rauserpic Sarconius %}|{% rauserpic Kinglink %}|{% rauserpic Grahamtams %}|
-|{% rauserpic deng %}|||
+|{% rauserpic Blazekickn %}|||
 
 ### 1000 Leaderboards Joined
 
@@ -232,7 +232,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 5,000 Code Notes Created
 
-|{% rauserpic MrOwnership %}|{% rauserpic ladynadiad %}|{% rauserpic deng %}|
+|{% rauserpic MrOwnership %}|{% rauserpic ladynadiad %}|{% rauserpic Blazekickn %}|
 
 ### 2,500 Code Notes Created
 

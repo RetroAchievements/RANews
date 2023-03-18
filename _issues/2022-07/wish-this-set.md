@@ -89,7 +89,7 @@ As someone that loves the platforming genre, I love the Klonoa series. I actuall
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/16638" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/060205.png" alt="\~Hack~ Touhoumon Insane Version"> <span>\~Hack~ Touhoumon Insane Version</span></a> | Game Boy Advance | Role-Playing Game |
 
-* Writeup by: {% rauserpic deng %}
+* Writeup by: {% rauserpic Blazekickn %}
 
 <figure style="text-align:center;float:right;width:50%;height:50%">
 <img src="https://i.ytimg.com/vi/Svr2M63xz2Y/hqdefault.jpg">

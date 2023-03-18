@@ -88,7 +88,7 @@ new	16197	Delmaru
 new	17520	tatoonie
 new	7202	DanielARP
 new	2100	TeddyWestside
-new	8781	deng
+new	8781	Blazekickn
 new	17182	DarknessZedzi
 new	11377	gde
 new	1262	AlexGatao
@@ -127,7 +127,7 @@ rev	712	D	StingX2
 rev	4285	D	StingX2
 rev	506	D	StingX2
 rev 	625	F	zxmega
-rev	5364	F	deng
+rev	5364	F	Blazekickn
 rev	2353	F	televandalist
 rev 	1857	F	MarioJunior10
 rev	4384	W	theanxietybuster
@@ -140,7 +140,7 @@ rev	4129	D	Infernox
 rev	3619	F	SlashTangent
 rev	1337	F	Keltron3030
 rev	4716	N	pinguupinguu
-rev	4629	N	deng
+rev	4629	N	Blazekickn
 rev	2817	N	televandalist
 rev	4149	N	BlotchJBMR
 rev	4690	N	DanielARP
@@ -315,7 +315,7 @@ res	1493	BlotchJBMR	400	380
 res	1886	StingX2	400	463
 res	25	KingS1zzle	396	376
 res	13909	DanielARP	300	79
-res	5364	deng	25	30
+res	5364	Blazekickn	25	30
 res	10962	SlashTangent	400	1920
 res	970	psyduck	400	405
 res	15975	theanxietybuster	150	295

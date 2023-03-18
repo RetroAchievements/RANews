@@ -246,7 +246,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 2,500 Leaderboards Joined
 
-|{% rauserpic deng %}|||
+|{% rauserpic Blazekickn %}|||
 
 ### 2,000 Leaderboards Joined
 
@@ -292,7 +292,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 2,000 Achievements Created
 
-|{% rauserpic GalacticSpear %}|{% rauserpic deng %}||
+|{% rauserpic GalacticSpear %}|{% rauserpic Blazekickn %}||
 
 ### 1,000 Achievements Created
 
@@ -315,7 +315,7 @@ The following users and devs listed here reached a new milestone last month.
 ### 1,000,000 Points Awarded to Users
 
 |{% rauserpic voiceofautumn %}|{% rauserpic TeddyWestside %}|{% rauserpic FBernkastelKues %}|
-|{% rauserpic deng %}|||
+|{% rauserpic Blazekickn %}|||
 
 ### 500,000 Points Awarded to Users
 
@@ -343,7 +343,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 250,000 Achievements Awarded to Users
 
-|{% rauserpic Snow %}|{% rauserpic Deng %}|{% rauserpic Delmaru %}|
+|{% rauserpic Snow %}|{% rauserpic Blazekickn %}|{% rauserpic Delmaru %}|
 
 ### 100,000 Achievements Awarded to Users
 

@@ -40,7 +40,7 @@ new	3718	Cadaxar
 new	9193	guindev
 new	17365	malasdair
 new	4465	Etron
-new	8644	deng
+new	8644	Blazekickn
 new	14348	ventuz
 new	18793	Brandovsky
 new	3708	guindev
@@ -162,7 +162,7 @@ new	4174	msdmario
 new	6479	televandalist
 new	16965	pinguupinguu
 new	19382	BigWeedSmokerMan
-new	11777	deng	
+new	11777	Blazekickn	
 
 
 

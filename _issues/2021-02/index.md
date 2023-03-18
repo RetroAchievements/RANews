@@ -104,7 +104,7 @@ Special thanks goes to these guys:
 - {% rauserpic hardt %} for the revealing the secrets of Gradius (PC Engine) in his article.
 - All those who wrote for the "Play This Set" segment:
   - {% rauserpic DanielARP %}
-  - {% rauserpic deng %}
+  - {% rauserpic Blazekickn %}
   - {% rauserpic NgNvNn %}
   - {% rauserpic SlashTangent %}
   - {% rauserpic pinguupinguu %}

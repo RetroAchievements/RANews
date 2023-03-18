@@ -306,7 +306,7 @@ This year almost 300 DevQuest awards and 150 Veteran Developer achievements were
         <tr>
             <td>{% rauserpic Brandovsky %}</td>
             <td>{% rauserpic Bryan1150 %}</td>
-            <td>{% rauserpic deng %}</td>
+            <td>{% rauserpic Blazekickn %}</td>
         </tr>
         <tr>
             <td>{% rauserpic Etron %}</td>
@@ -418,7 +418,7 @@ This year almost 300 DevQuest awards and 150 Veteran Developer achievements were
         </tr>
         <tr>
             <td>{% rauserpic Delmaru %}</td>
-            <td>{% rauserpic deng %}</td>
+            <td>{% rauserpic Blazekickn %}</td>
             <td>{% rauserpic GalacticSpear %}</td>
         </tr>
         <tr>
@@ -578,7 +578,7 @@ This year almost 300 DevQuest awards and 150 Veteran Developer achievements were
         <tr>
             <td>{% rauserpic Chawk %}</td>
             <td>{% rauserpic DarkyAndreas %}</td>
-            <td>{% rauserpic deng %}</td>
+            <td>{% rauserpic Blazekickn %}</td>
         </tr>
         <tr>
             <td>{% rauserpic Etron %}</td>
@@ -821,7 +821,7 @@ This year almost 300 DevQuest awards and 150 Veteran Developer achievements were
     </thead>
     <tbody>
         <tr>
-            <td>{% rauserpic deng %}</td>
+            <td>{% rauserpic Blazekickn %}</td>
             <td>{% rauserpic kmpers %}</td>
             <td>{% rauserpic ladynadiad %}</td>
         </tr>
@@ -932,7 +932,7 @@ This year almost 300 DevQuest awards and 150 Veteran Developer achievements were
         </tr>
         <tr>
             <td>{% rauserpic Delmaru %}</td>
-            <td>{% rauserpic deng %}</td>
+            <td>{% rauserpic Blazekickn %}</td>
             <td>{% rauserpic ladynadiad %}</td>
         </tr>
         <tr>
@@ -974,7 +974,7 @@ This year almost 300 DevQuest awards and 150 Veteran Developer achievements were
         </tr>
         <tr>
             <td>{% rauserpic Delmaru %}</td>
-            <td>{% rauserpic deng %}</td>
+            <td>{% rauserpic Blazekickn %}</td>
             <td>{% rauserpic DoctorV %}</td>
         </tr>
         <tr>
@@ -1020,7 +1020,7 @@ This year almost 300 DevQuest awards and 150 Veteran Developer achievements were
         </tr>
         <tr>
             <td>{% rauserpic DanielARP %}</td>
-            <td>{% rauserpic deng %}</td>
+            <td>{% rauserpic Blazekickn %}</td>
             <td>{% rauserpic FBernkastelKues %}</td>
         </tr>
         <tr>
@@ -1058,7 +1058,7 @@ This year almost 300 DevQuest awards and 150 Veteran Developer achievements were
         <tr>
             <td>{% rauserpic Cadaxar %}</td>
             <td>{% rauserpic Delmaru %}</td>
-            <td>{% rauserpic deng %}</td>
+            <td>{% rauserpic Blazekickn %}</td>
         </tr>
         <tr>
             <td>{% rauserpic ladynadiad %}</td>
@@ -1094,7 +1094,7 @@ This year almost 300 DevQuest awards and 150 Veteran Developer achievements were
             <td>{% rauserpic blendedsea %}</td>
         </tr>
         <tr>
-            <td>{% rauserpic deng %}</td>
+            <td>{% rauserpic Blazekickn %}</td>
             <td>{% rauserpic Hotscrock %}</td>
             <td>{% rauserpic pinguupinguu %}</td>
         </tr>
@@ -1117,7 +1117,7 @@ This year almost 300 DevQuest awards and 150 Veteran Developer achievements were
         <tr>
             <td>{% rauserpic AlexGatao %}</td>
             <td>{% rauserpic Delmaru %}</td>
-            <td>{% rauserpic deng %}</td>
+            <td>{% rauserpic Blazekickn %}</td>
         </tr>
         <tr>
             <td>{% rauserpic kmpers %}</td>
@@ -1144,7 +1144,7 @@ This year almost 300 DevQuest awards and 150 Veteran Developer achievements were
     <tbody>
         <tr>
             <td>{% rauserpic Delmaru %}</td>
-            <td>{% rauserpic deng %}</td>
+            <td>{% rauserpic Blazekickn %}</td>
             <td>{% rauserpic ladynadiad %}</td>
         </tr>
         <tr>
@@ -1179,7 +1179,7 @@ This year almost 300 DevQuest awards and 150 Veteran Developer achievements were
             <td>{% rauserpic Cadaxar %}</td>
         </tr>
         <tr>
-            <td>{% rauserpic deng %}</td>
+            <td>{% rauserpic Blazekickn %}</td>
             <td>{% rauserpic DoctorV %}</td>
             <td>{% rauserpic Falcus %}</td>
         </tr>

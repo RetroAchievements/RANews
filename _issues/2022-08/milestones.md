@@ -166,7 +166,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 20 100-Point Achievements Earned
 
-|{% rauserpic deng %}|||
+|{% rauserpic Blazekickn %}|||
 
 ### 15 100-Point Achievements Earned
 
@@ -192,7 +192,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 600 Site Awards Earned
 
-|{% rauserpic deng %}|{% rauserpic AuburnRDM %}||
+|{% rauserpic Blazekickn %}|{% rauserpic AuburnRDM %}||
 
 ### 500 Site Awards Earned
 

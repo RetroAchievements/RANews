@@ -220,7 +220,7 @@ toc: true
 
 #### ~Homebrew~ Sudoku Micro
  
-**New badges by {% rauser deng %} .**
+**New badges by {% rauser Blazekickn %} .**
  
 **Previous Badges:**
 

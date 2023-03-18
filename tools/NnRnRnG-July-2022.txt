@@ -66,7 +66,7 @@ new	20099	Bl4h8L4hBl4h
 new	20088	SporyTike	
 new	14104	Tayadaoc	
 new	20098	timenoe	
-new	20077	deng	
+new	20077	Blazekickn	
 new	12720	Maximdraco	
 new	11834	luizfilipekz	
 new	20072	pinguupinguu	
@@ -122,7 +122,7 @@ new	19535	Excessiveiser
 new	20252	stfN1337	
 new	10791	pinguupinguu	
 new	20238	Searo	
-new	20231	deng pinguupinguu
+new	20231	Blazekickn pinguupinguu
 new	20217	BahamutVoid Brandovsky
 new	10790	Snow	
 new	9083	wolfman2000	
@@ -189,7 +189,7 @@ rev	1234 	W	LordAndrew
 rev	755	F	MelodyAsh
 rev	14548	F	wolfman2000 WanderingHeiho Searo
 rev	2041	F	Shmelyoff
-rev	14553	F	deng
+rev	14553	F	Blazekickn
 rev	2367	F	ladynadiad
 rev	350	F	GalacticSpear
 rev	4720	F	Shmelyoff

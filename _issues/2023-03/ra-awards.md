@@ -34,7 +34,7 @@ By: {% rauserpic TheMysticalOne %}
 {% rauserpic Searo %}
   
 ### Best Discord Streamer
-{% rauserpic deng %}
+{% rauserpic Blazekickn %}
 
 ### Best NEW Developer
 {% rauserpic gollawiz %}
@@ -256,6 +256,10 @@ By: {% rauserpic Snow %}
 
 ### Best Nintendo 64 Set
 By: {% rauserpic AlexGatao %}
+
+| Game                                                                                                                                                                                                                                                                                | Console     | Genre            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/17923" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059607.png" alt=""> <span>Legend of Zelda, The: Ocarina of Time - Master Quest [Subset - Bonus]</span></a> | Nintendo 64 | Action-Adventure |
 
 
 ### Best Nintendo 64 Non Retail Set
@@ -523,7 +527,7 @@ By: {% rauserpic MGNS8M %}
 
 
 ### Best Magnavox Odyssey 2 Set
-By: {% rauserpic deng %}
+By: {% rauserpic Blazekickn %}
 
 | Game                                                                                                                                                                                                                                           | Console            | Genre        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------ |
@@ -689,6 +693,11 @@ By: {% rauserpic KingS1zzle %}
 
 
 ### Best Castlevania Hack
+By: {% rauserpic YuriRod50248 %}
+
+| Game                                                                                                                                                                                                                                                                                                 | Console          | Genre                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------ |
+| <a class="gameicon-link" href="https://retroachievements.org/game/18655" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/053932.png" alt="~Hack~ Castlevania: Serenade Under the Moon"> <span>~Hack~ Castlevania: Serenade Under the Moon</span></a> | Game Boy Advance | Action-Adventure, Metroidvania |
 
 
 ### Best Mega Man Hack

@@ -32,7 +32,7 @@ On top of probably the coolest visual style to grace the PSP, Patapon has a supe
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3217" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049644.png" alt="Thrillville: Off the Rails"> <span>Thrillville: Off the Rails</span></a> | PlayStation Portable | Simulation |
 
-* Writeup by: {% rauserpic deng %}
+* Writeup by: {% rauserpic Blazekickn %}
 
 <figure style="text-align:center;float:left;width:50%;height:50%">
 <img src="https://media.pocketgamer.com/artwork/na-zvc/thrillvilleotr.jpg">

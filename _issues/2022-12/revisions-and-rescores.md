@@ -44,7 +44,7 @@ toc: true
 
 | Game                                                                                                                                                                                                                                 | Revision By       | Genre  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ------ |
-| <a class="gameicon-link" href="https://retroachievements.org/game/17140" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041006.png" alt="Rock Band 3"> <span>Rock Band 3</span></a> | {% rauser deng %} | Rhythm |
+| <a class="gameicon-link" href="https://retroachievements.org/game/17140" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041006.png" alt="Rock Band 3"> <span>Rock Band 3</span></a> | {% rauser Blazekickn %} | Rhythm |
 
 <a href="#toc">:top:</a>
 

@@ -153,7 +153,7 @@ The following users and devs listed here reached a new milestone last month.
 ### 2,000 Leaderboards Joined
 
 |{% rauserpic Lokomelo %}|{% rauserpic Kinglink %}|{% rauserpic Grahamtams %}|
-|{% rauserpic deng %}|{% rauserpic Amir96lx %}|{% rauserpic Aeliana %}|
+|{% rauserpic Blazekickn %}|{% rauserpic Amir96lx %}|{% rauserpic Aeliana %}|
 
 ### 1,500 Leaderboards Joined
 

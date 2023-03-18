@@ -32,7 +32,7 @@ In this article we're going to see all the achievement sets that got revisions a
 |------|-------------|-------|
 | <a class="gameicon-link" href="https://retroachievements.org/game/510" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/024363.png" alt="Castlevania: Aria of Sorrow"> <span>Castlevania: Aria of Sorrow</span></a> | {% rauser Infernox %}  | Action-adventure (Metroidvania) |
 | <a class="gameicon-link" href="https://retroachievements.org/game/2353" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/024365.png" alt="Castlevania: Harmony of Dissonance"> <span>Castlevania: Harmony of Dissonance</span></a> | {% rauser televandalist %}  | Action-Adventure (Metroidvania) |
-| <a class="gameicon-link" href="https://retroachievements.org/game/5364" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/034782.png" alt="~Homebrew~ Snakes"> <span>~Homebrew~ Snakes</span></a> | {% rauser deng %}  | Unknown |
+| <a class="gameicon-link" href="https://retroachievements.org/game/5364" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/034782.png" alt="~Homebrew~ Snakes"> <span>~Homebrew~ Snakes</span></a> | {% rauser Blazekickn %}  | Unknown |
 | <a class="gameicon-link" href="https://retroachievements.org/game/625" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042926.png" alt="Mega Man Zero 3"> <span>Mega Man Zero 3</span></a> | {% rauser zxmega %}  | Platformer |
 
 <a href="#toc">:top:</a>
@@ -124,7 +124,7 @@ In this article we're going to see all the achievement sets that got revisions a
 
 | Game | Revision Author | Genre |
 |------|-----------------|-------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/4629" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/009758.png" alt="Hello Kitty World"> <span>Hello Kitty World</span></a> | {% rauser deng %}  | Platformer (Side Scrolling) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/4629" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/009758.png" alt="Hello Kitty World"> <span>Hello Kitty World</span></a> | {% rauser Blazekickn %}  | Platformer (Side Scrolling) |
 
 <a href="#toc">:top:</a>
 
@@ -305,7 +305,7 @@ In this article we're going to see all the achievement sets that got revisions a
 
 | Game | Rescored By | Points Before | Points After |
 |------|-----------|:-------------:|:------------:|
-| <a class="gameicon-link" href="https://retroachievements.org/game/5364" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/034782.png" alt="~Homebrew~ Snakes"> <span>~Homebrew~ Snakes</span></a> | {% rauser deng %}  | 25 | 30 |
+| <a class="gameicon-link" href="https://retroachievements.org/game/5364" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/034782.png" alt="~Homebrew~ Snakes"> <span>~Homebrew~ Snakes</span></a> | {% rauser Blazekickn %}  | 25 | 30 |
 | <a class="gameicon-link" href="https://retroachievements.org/game/7095" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/007246.png" alt="Shining Soul II"> <span>Shining Soul II</span></a> | {% rauser voiceofautumn %}  | 429 | 454 |
 
 <a href="#toc">:top:</a>

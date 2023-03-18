@@ -38,7 +38,7 @@ In short, London Life is a game for those who enjoy the relaxed nature of games 
 * Write-up by: {% rauserpic Sines %}
 
 <figure style="text-align:center;float:left;width:50%;height:50%">
-<img src="http://www.hardcoregaming101.net/wp-content/uploads/2017/05/princesscrown-8.png">
+<img src="https://i.imgur.com/k0ZBUYD.png">
 <figcaption></figcaption>
 </figure>
 

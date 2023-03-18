@@ -191,7 +191,7 @@ rev	2501	F	wolfman2000
 rev	11367	W	UnsolidSnake
 rev	12749	F	MaddieKittyTV
 rev	11270	W	FBernkastelKues
-rev	515	W	deng
+rev	515	W	Blazekickn
 rev	10433	W	JAM
 rev	9998	W	Bryan1150
 rev	1438	F	Ghal416

@@ -55,7 +55,7 @@ These events are open to any community member who wants to particpate.
     - Month 3: {% rauserpic multonic %}
     - Month 4: {% rauserpic freezestar %}
     - Month 5: {% rauserpic Kisumebuckets %}
-    - Month 6: {% rauserpic deng %}
+    - Month 6: {% rauserpic Blazekickn %}
     - Month 7: {% rauserpic multonic %}, {% rauserpic Whynot15 %} and {% rauserpic SlashTangent %}
 
 
@@ -90,7 +90,7 @@ These events are open to any community member who wants to particpate.
 - Period: January 2021 - Current
 - Host: {% rauserpic Bendyhuman %}
 - Currently 1st place (with 39 points):
-  - {% rauserpic deng %}
+  - {% rauserpic Blazekickn %}
   - {% rauserpic Draco655 %}
   - {% rauserpic HolyShinx %}
   - {% rauserpic mikeisafighter %}

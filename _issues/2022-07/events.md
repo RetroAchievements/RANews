@@ -110,7 +110,7 @@ These events are open to any community member who wants to participate.
   - Month 9: {% rauserpic Gamechamp %} and {% rauserpic SlashTangent %}
   - Month 8: {% rauserpic HolyShinx %} and {% rauserpic SlashTangent %}
   - Month 7: {% rauserpic multonic %}, {% rauserpic Whynot15 %} and {% rauserpic SlashTangent %}
-  - Month 6: {% rauserpic deng %}
+  - Month 6: {% rauserpic Blazekickn %}
   - Month 5: {% rauserpic Kisumebuckets %}
   - Month 4: {% rauserpic freezestar %}
   - Month 3: {% rauserpic multonic %}

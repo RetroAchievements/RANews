@@ -66,7 +66,7 @@ new	14595	Cadaxar
 new	4763	kmpers
 new	3272	MGNS8M
 new	2047	EulerMoises1981
-new	6403	deng
+new	6403	Blazekickn
 new	4973	Etron
 new	20097	Etron
 new	6950	TheJediSonic
@@ -105,7 +105,7 @@ new	19429	zxmega
 new	5804	MrOwnership
 new	20277	gollawiz GalacticSpear
 new	20348	MGNS8M
-new	6955	Maximdraco deng
+new	6955	Maximdraco Blazekickn
 new	4600	Bedtime
 new	19322	MGNS8M
 new	419	ModelZGolden

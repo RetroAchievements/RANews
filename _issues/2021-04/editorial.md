@@ -50,7 +50,7 @@ Everything serious ever sent ends up at least being discussed ({% rauser ViperZa
     - Same system, different sets (see Pokemon Red and Blue vs Pocket Monsters Midori)
     - Merge = a viable fourth option when games are the same (Pokemon Red and Blue, SNK Vs Capcom Card Fighters)
 
-- Randomizers are still not allowed for sets with one exception, the Mario 64 Randomizer being self contained could be approved for a set with a not lazy proposal (see Dengs awesome proposal in the forum). Other self contained randomizers like Factory Adventure would fit here as well. Out of date broken randomizers like Majora's Mask would not fit.
+- Randomizers are still not allowed for sets with one exception, the Mario 64 Randomizer being self contained could be approved for a set with a not lazy proposal (see Blazekickns awesome proposal in the forum). Other self contained randomizers like Factory Adventure would fit here as well. Out of date broken randomizers like Majora's Mask would not fit.
 
 - Sets can now only be considered complete with basic progression, achievement badges, achievement names/descriptions, and a game icon
 

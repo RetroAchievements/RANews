@@ -86,7 +86,7 @@ While there is no ETA on the release of PlayStation 2 support, that hasn't stopp
 | <a class="gameicon-link" href="https://retroachievements.org/game/2672" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/057479.png" alt="We Love Katamari"> <span>We Love Katamari</span></a>                                                                                          | {% rauserpic gollawiz %}                                   |
 | <a class="gameicon-link" href="https://retroachievements.org/game/19283" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/058245.png" alt="WRC Rally Evolved"> <span>WRC Rally Evolved</span></a>                                                                                       | {% rauserpic suXin %}                                      |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3212" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/060010.png" alt="Xenosaga Episode III: Also Sprach Zarathustra"> <span>Xenosaga Episode III: Also Sprach Zarathustra</span></a>                                | {% rauserpic FBernkastelKues %}                            |
-| <a class="gameicon-link" href="https://retroachievements.org/game/19438" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/058430.png" alt="~Demo~ Need for Speed: Most Wanted"> <span>~Demo~ Need for Speed: Most Wanted</span></a>                                                     | {% rauserpic deng %}                                       |
+| <a class="gameicon-link" href="https://retroachievements.org/game/19438" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/058430.png" alt="~Demo~ Need for Speed: Most Wanted"> <span>~Demo~ Need for Speed: Most Wanted</span></a>                                                     | {% rauserpic Blazekickn %}                                       |
 
 # Site Updates
 ## RAWeb Version 1.89.1
@@ -177,12 +177,12 @@ While there is no ETA on the release of PlayStation 2 support, that hasn't stopp
 ### [Vet Dev I](https://retroachievements.org/achievement/153266)
 {% rauserpic blendedsea %}
 {% rauserpic Cadaxar %}
-{% rauserpic deng %}
+{% rauserpic Blazekickn %}
 
 ### [Vet Dev III](https://retroachievements.org/achievement/153268)
 {% rauserpic DanielARP %}
 {% rauserpic Suffa28 %}
-{% rauserpic deng %}
+{% rauserpic Blazekickn %}
 
 ### [Vet Dev IV](https://retroachievements.org/achievement/153270)
 {% rauserpic blendedsea %}
@@ -192,7 +192,7 @@ While there is no ETA on the release of PlayStation 2 support, that hasn't stopp
 {% rauserpic AlmightyXor %}
 {% rauserpic blendedsea %}
 {% rauserpic Hotscrock %}
-{% rauserpic deng %}
+{% rauserpic Blazekickn %}
 
 ### [Vet Dev VII](https://retroachievements.org/achievement/153269)
 {% rauserpic Searo %}

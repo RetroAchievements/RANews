@@ -48,7 +48,7 @@ toc: true
 | Game                                                                                                                                                                                                                                                             | Author               | Genre                |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/16675" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061442.png" alt="Doom"> <span>Doom</span></a>                                           | {% rauser Cadaxar %} | First-Person Shooter |
-| <a class="gameicon-link" href="https://retroachievements.org/game/20427" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061888.png" alt="~Homebrew~ ~Demo~ Osmozys"> <span>~Homebrew~ ~Demo~ Osmozys</span></a> | {% rauser deng %}    | Puzzle               |
+| <a class="gameicon-link" href="https://retroachievements.org/game/20427" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061888.png" alt="~Homebrew~ ~Demo~ Osmozys"> <span>~Homebrew~ ~Demo~ Osmozys</span></a> | {% rauser Blazekickn %}    | Puzzle               |
 
 <a href="#toc">:top:</a>
 
@@ -130,7 +130,7 @@ toc: true
 
 | Game                                                                                                                                                                                                                                           | Author            | Genre        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------ |
-| <a class="gameicon-link" href="https://retroachievements.org/game/20059" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061896.png" alt="~Homebrew~ Boobs"> <span>~Homebrew~ Boobs</span></a> | {% rauser deng %} | Shoot 'em Up |
+| <a class="gameicon-link" href="https://retroachievements.org/game/20059" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061896.png" alt="~Homebrew~ Boobs"> <span>~Homebrew~ Boobs</span></a> | {% rauser Blazekickn %} | Shoot 'em Up |
 
 <a href="#toc">:top:</a>
 
@@ -200,8 +200,8 @@ toc: true
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- | ------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/2278" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061493.png" alt="Bonk III: Bonk's Big Adventure"> <span>Bonk III: Bonk's Big Adventure</span></a>            | {% rauser Bedtime %} | Platforming               |
 | <a class="gameicon-link" href="https://retroachievements.org/game/2340" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061539.png" alt="World Court Tennis"> <span>World Court Tennis</span></a>                                    | {% rauser MGNS8M %}  | Sports                    |
-| <a class="gameicon-link" href="https://retroachievements.org/game/20488" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061869.png" alt="~Homebrew~ HuZERO: Caravan Edition"> <span>~Homebrew~ HuZERO: Caravan Edition</span></a>   | {% rauser deng %}    | Racing                    |
-| <a class="gameicon-link" href="https://retroachievements.org/game/20417" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061467.png" alt="~Homebrew~ Ultimate Rally Club (CD)"> <span>~Homebrew~ Ultimate Rally Club (CD)</span></a> | {% rauser deng %}    | Racing, Racing Simulation |
+| <a class="gameicon-link" href="https://retroachievements.org/game/20488" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061869.png" alt="~Homebrew~ HuZERO: Caravan Edition"> <span>~Homebrew~ HuZERO: Caravan Edition</span></a>   | {% rauser Blazekickn %}    | Racing                    |
+| <a class="gameicon-link" href="https://retroachievements.org/game/20417" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/061467.png" alt="~Homebrew~ Ultimate Rally Club (CD)"> <span>~Homebrew~ Ultimate Rally Club (CD)</span></a> | {% rauser Blazekickn %}    | Racing, Racing Simulation |
 
 <a href="#toc">:top:</a>
 

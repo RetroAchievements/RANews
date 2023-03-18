@@ -88,7 +88,7 @@ Check out the top 25 achievement creators from this month.
 | 9    | {% rauserpic TheMysticalOne %} | 198          |
 | 10   | {% rauserpic Shmelyoff %}      | 197          |
 | 11   | {% rauserpic StingX2 %}        | 180          |
-| 12   | {% rauserpic deng %}           | 123          |
+| 12   | {% rauserpic Blazekickn %}           | 123          |
 | 13   | {% rauserpic siouxerskate %}   | 122          |
 | 14   | {% rauserpic malasdair %}      | 102          |
 | 15   | {% rauserpic Nevermond12 %}    | 102          |
@@ -315,7 +315,7 @@ Check out which developers created the most code notes this month.
         <tr><td>1</td><td>{% rauserpic Bedtime %}</td><td>2,731</td></tr>
         <tr><td>2</td><td>{% rauserpic Cadaxar %}</td><td>818</td></tr>
         <tr><td>3</td><td>{% rauserpic voiceofautumn %}</td><td>809</td></tr>
-        <tr><td>4</td><td>{% rauserpic deng %}</td><td>670</td></tr>
+        <tr><td>4</td><td>{% rauserpic Blazekickn %}</td><td>670</td></tr>
         <tr><td>5</td><td>{% rauserpic TheJediSonic %}</td><td>630</td></tr>
     </tbody></table>
     </div> <div style='width:49%;display:inline-block;float:right'>
@@ -521,7 +521,7 @@ Check out which developers created the most leaderboards this month.
         <tr><td>2</td><td>{% rauserpic KitLaska %}</td><td>128</td></tr>
         <tr><td>3</td><td>{% rauserpic blendedsea %}</td><td>97</td></tr>
         <tr><td>4</td><td>{% rauserpic Nevermond12 %}</td><td>60</td></tr>
-        <tr><td>5</td><td>{% rauserpic deng %}</td><td>42</td></tr>
+        <tr><td>5</td><td>{% rauserpic Blazekickn %}</td><td>42</td></tr>
     </tbody></table>
     </div> <div style='width:49%;display:inline-block;float:right'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Leaderboards</th></tr></thead><tbody>

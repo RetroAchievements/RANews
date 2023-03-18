@@ -117,14 +117,14 @@ By: {% rauserpic Griffin %}
 | <a class="gameicon-link" href="https://retroachievements.org/game/17790" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/046303.png" alt="My Health Coach: Stop Smoking With Allen Carr"> <span>My Health Coach: Stop Smoking With Allen Carr</span></a> | Nintendo DS | Education, Simulation |
 
 ### Easiest Free Point Set
-By: {% rauserpic deng %}
+By: {% rauserpic Blazekickn %}
 
 | Game                                                                                                                                                                                                                                                                           | Console      | Genre |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ----- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/17393" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/045230.png" alt="~Demo~ ~Homebrew~ Pokemon Orange"> <span>~Demo~ ~Homebrew~ Pokemon Orange</span></a> | Pokemon Mini | Role  |
 
 ### Best Unlicensed
-By: {% rauserpic deng %}
+By: {% rauserpic Blazekickn %}
 
 | Game                                                                                                                                                                                                                                                                        | Console    | Genre         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------- |

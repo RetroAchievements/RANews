@@ -143,13 +143,13 @@ An announcement with more details will be made in the upcoming days.
 
 ## [Vet Dev VI](https://retroachievements.org/achievement/153273)
 
-|{% rauserpic Delmaru %}|{% rauserpic AlexGatao %}|{% rauserpic deng %}|
+|{% rauserpic Delmaru %}|{% rauserpic AlexGatao %}|{% rauserpic Blazekickn %}|
 |{% rauserpic kmpers %}|{% rauserpic ladynadiad %}|{% rauserpic Suffa28 %}|
 |{% rauserpic Searo %}|{% rauserpic timenoe %}||
 
 ## [Vet Dev VII](https://retroachievements.org/achievement/153269)
 
-|{% rauserpic Delmaru %}|{% rauserpic deng %}|{% rauserpic pinguupinguu %}|
+|{% rauserpic Delmaru %}|{% rauserpic Blazekickn %}|{% rauserpic pinguupinguu %}|
 
 ## [Vet Dev VIII](https://retroachievements.org/achievement/153274)
 

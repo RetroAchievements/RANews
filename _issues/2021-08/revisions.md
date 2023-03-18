@@ -182,7 +182,7 @@ In this article we're going to see all the achievement sets that got revisions a
 
 | Game | Author | Genre |
 |------|--------|-------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/788" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042055.png" alt="Pokemon LeafGreen Version"> <span>Pokemon LeafGreen Version</span></a> | {% rauser deng %}  | Role-Playing Game |
+| <a class="gameicon-link" href="https://retroachievements.org/game/788" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042055.png" alt="Pokemon LeafGreen Version"> <span>Pokemon LeafGreen Version</span></a> | {% rauser Blazekickn %}  | Role-Playing Game |
 
 <a href="#toc">:top:</a>
 

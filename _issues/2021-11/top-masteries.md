@@ -31,7 +31,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images. Ranks 
 | Homebrew Champ       | {% rauserpic Bendyhuman %}                                                     | 72             |
 | Master System        | {% rauserpic Jungon %}                                                         | 48             |
 | Mega Drive           | {% rauserpic DUT %}                                                            | 99             |
-| MSX                  | {% rauserpic deng %}                                                           | 5              |
+| MSX                  | {% rauserpic Blazekickn %}                                                           | 5              |
 | N64                  | {% rauserpic Aquator %}                                                        | 33             |
 | NES                  | {% rauserpic SanMarino %}                                                      | 229            |
 | Nintendo DS          | {% rauserpic Bendyhuman %}, {% rauserpic ShadwSonic %}                         | 26             |
@@ -104,14 +104,14 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images. Ranks 
 ### Hack Champ
 
 ![Top Mastery Ranking](img/top-mastery-hack.png)
-- {% rauserpic HolyShinx %} is in 1st place by a wide margin of 51 mastery awards over the 2nd place {% rauserpic deng %}.
+- {% rauserpic HolyShinx %} is in 1st place by a wide margin of 51 mastery awards over the 2nd place {% rauserpic Blazekickn %}.
 - {% rauserpic Draco655 %} and {% rauserpic Bendyhuman %} have both broke the 100 mastery awards mark.
 - {% rauserpic domenyX %} has made it into the top 25 and is sitting at 25th place.
 
 ### Homebrew Champ
 
 ![Top Mastery Ranking](img/top-mastery-homebrew.png)
-- {% rauserpic Bendyhuman %} is in danger of losing that top spot. {% rauserpic deng %} and {% rauserpic HolyShinx %} are only an award or two away from reaching the top spot. 
+- {% rauserpic Bendyhuman %} is in danger of losing that top spot. {% rauserpic Blazekickn %} and {% rauserpic HolyShinx %} are only an award or two away from reaching the top spot. 
 - {% rauserpic Shootzy %} has made it into the top 25 and is tied in 22nd place.
 - {% rauserpic miccmike %} has made it into the top 25 and is sitting at 25th place.
 

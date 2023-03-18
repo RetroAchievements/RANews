@@ -81,7 +81,7 @@ new	9362	MelodyAsh
 new	2679	Shmelyoff								
 new	20529	TheMysticalOne								
 new	20640	MaddieKittyTV pinguupinguu							
-new	10807	voiceofautumn deng							
+new	10807	voiceofautumn Blazekickn							
 new	14741	raniejogos								
 new	12556	oblo								
 new	20633	Bryan1150								
@@ -128,7 +128,7 @@ new	20748	PsyHunter29
 new	7427	MaddieKittyTV pinguupinguu							
 new	21428	LordAndrew								
 new	20602	zxmega								
-new	21433	MaddieKittyTV pinguupinguu Cerlayjux FRAN269 deng Soulsderfuchs Numberman Anic Excessiveiser Maximdraco BatFastardJordy			
+new	21433	MaddieKittyTV pinguupinguu Cerlayjux FRAN269 Blazekickn Soulsderfuchs Numberman Anic Excessiveiser Maximdraco BatFastardJordy			
 new	4236	Numberman								
 new	955	Bedtime							
 new	2990	lordpsycho								
@@ -151,7 +151,7 @@ new	20071	Etron
 new	20763	Numberman								
 new	10231	EulerMoises1981								
 new	17841	Delmaru								
-new	8926	Anic deng							
+new	8926	Anic Blazekickn							
 new	21365	raniejogos								
 new	1998	Bedtime								
 new	3062	TeddyWestside								

@@ -339,7 +339,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/PLAYSTATION_PORTABLE.png" />
 </p>
 * {% rauserpic minibt %} remains in 1st with 36 total mastery awards.
-* {% rauserpic deng %} has moved up 4 spots and is tied for 14th place.
+* {% rauserpic Blazekickn %} has moved up 4 spots and is tied for 14th place.
 * {% rauserpic Caelum %} has made it into the top 25 and is in a 5-way tie for 21th place.
 
 ### Pokémon Mini
@@ -349,7 +349,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 </p>
 * {% rauserpic Sylrifaide %} remians in 1st having mastered all 32 sets.
 * {% rauserpic guineu %} has moved up 2 spots and is tied for 3rd place.
-* {% rauserpic deng %} & {% rauserpic Xinorok %} have made it into the top 25 and are in a 3-way tie for 14th place.
+* {% rauserpic Blazekickn %} & {% rauserpic Xinorok %} have made it into the top 25 and are in a 3-way tie for 14th place.
 * {% rauserpic FlareEX %} has made it into the top 25 and is in a 5-way tie for 18th place.
 * {% rauserpic bman7 %} & {% rauserpic bonecrusher1022 %} have made it into the top 25 and are in a 9-way tie for 23rd place.
 
@@ -398,7 +398,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic AuburnRDM %} remains in 1st with 30 total mastery awards.
 * {% rauserpic alphacrust %} has made it into the top 25 and is in 2nd place.
 * {% rauserpic Xotoco %} has moved up 7 spots and is in a 3-way tie for 13th place.
-* {% rauserpic deng %} has moved up 7 spots and is in a 5-way tie for 16th place.
+* {% rauserpic Blazekickn %} has moved up 7 spots and is in a 5-way tie for 16th place.
 * {% rauserpic HolyShinx %} has made it into the top 25 and is in a 5-way tie for 16th place.
 
 ### Watara Supervision

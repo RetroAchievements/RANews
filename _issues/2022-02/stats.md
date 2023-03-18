@@ -93,7 +93,7 @@ Check out the top 25 achievement creators from this month.
 | 22   | {% rauserpic g0dm0d3 %}         | 40           |
 | 23   | {% rauserpic Bartis1989 %}      | 36           |
 | 24   | {% rauserpic BrunoKiko %}       | 36           |
-| 25   | {% rauserpic deng %}            | 35           |
+| 25   | {% rauserpic Blazekickn %}            | 35           |
 
 ## Top 25 Developers
 Check out some stats regarding unlocks and points awarded by the developers. Included is the number of unlocks, points and retro points awarded to the players over the past month. **Bolded** rows indicate active developers.
@@ -286,7 +286,7 @@ Check out which developers created the most code notes this month.
     </tbody></table>
     </div> <div style='width:49%;display:inline-block;float:right'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
-        <tr><td>6</td><td>{% rauserpic deng %}</td><td>430</td></tr>
+        <tr><td>6</td><td>{% rauserpic Blazekickn %}</td><td>430</td></tr>
         <tr><td>7</td><td>{% rauserpic raniejogos %}</td><td>426</td></tr>
         <tr><td>8</td><td>{% rauserpic Brandovsky %}</td><td>368</td></tr>
         <tr><td>9</td><td>{% rauserpic Freedan %}</td><td>332</td></tr>

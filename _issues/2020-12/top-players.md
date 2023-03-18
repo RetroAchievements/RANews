@@ -127,7 +127,7 @@ Given period: November 1st to November 30th, 2020.
 | 108 | 🇧🇷 Rick32 | 104344 | **+380** | -1 |
 | 109 | 🇷🇺 Nightstorm | 102840 | - | -1 |
 | 110 | 🇷🇺 Pixelach | 102752 | **+6278** | 13 |
-| 111 | 🇺🇸 deng | 102658 | **+12954** | 28 |
+| 111 | 🇺🇸 Blazekickn | 102658 | **+12954** | 28 |
 | 112 | 🇧🇷 SherryBirkin | 100958 | **+2057** | 4 |
 | 113 | 🇺🇸 bonecrusher1022 | 100540 | **+3540** | 8 |
 | 114 | 🇷🇺 Gr1nya | 100356 | **+90** | -3 |
@@ -351,4 +351,4 @@ Given period: November 1st to November 30th, 2020.
 - 🇧🇷 SherryBirkin
 - 🇺🇸 bonecrusher1022
 - 🇷🇺 Pixelach
-- 🇺🇸 deng
+- 🇺🇸 Blazekickn

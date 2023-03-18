@@ -75,7 +75,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 - {% rauserpic Infernum %}
 
 600 Mastery Awards
-- {% rauserpic deng %}
+- {% rauserpic Blazekickn %}
 - {% rauserpic AuburnRDM %}
 
 500 Mastery Awards

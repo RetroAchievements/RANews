@@ -229,7 +229,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 700 Site Awards Earned
 
-|{% rauserpic deng %}|||
+|{% rauserpic Blazekickn %}|||
 
 ### 500 Site Awards Earned
 
@@ -380,7 +380,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 500 Leaderboards Created
 
-|{% rauserpic deng %}|{% rauserpic DarkyAndreas %}||
+|{% rauserpic Blazekickn %}|{% rauserpic DarkyAndreas %}||
 
 ### 250 Leaderboards Created
 

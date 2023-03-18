@@ -168,7 +168,7 @@ More information can be found [here](https://retroachievements.org/viewtopic.php
 
 
 <a class="gameicon-link" href="https://retroachievements.org/game/862" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/057070.png" alt="[DevQuest 014] Laudable Leaderboards"> <span>[DevQuest 014] Laudable Leaderboards</span></a>
-- {% rauserpic deng %}
+- {% rauserpic Blazekickn %}
 - {% rauserpic pinguupinguu %}
 - {% rauserpic voiceofautumn %}
 - {% rauserpic wolfma2000 %}

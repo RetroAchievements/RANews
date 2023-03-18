@@ -44,7 +44,7 @@ new	1589	EulerMoises1981
 new	3953	Riot2212
 new	9764	Fara0
 new	19858	lordpsycho
-new	7069	deng
+new	7069	Blazekickn
 new	19860	soltyd
 new	19579	AlexGatao
 new	14643	MGNS8M
@@ -70,7 +70,7 @@ new	19896	pinguupinguu
 new	19897	pinguupinguu
 new	14261	minibt
 new	14511	timenoe
-new	19912	deng
+new	19912	Blazekickn
 new	11332	Sasrir AngeloLeonhart luizfilipekz
 new	5576	SporyTike
 new	10101	Cadaxar
@@ -105,20 +105,20 @@ new	5507	Lewis50248
 new	2014	Bedtime
 new	6698	Excessiveiser
 new	19908	pinguupinguu
-new	20037	deng
+new	20037	Blazekickn
 new	19803	EulerMoises1981
 new	16385	Shmelyoff
 new	5698	MGNS8M
 new	14788	Bryan1150
 new	19847	multonic
 new	20036	MrOwnership
-new	20039	deng
+new	20039	Blazekickn
 new	2215	LordAndrew
 new	12335	pinguupinguu
 new	17750	ThatAmericanSlacker
 new	19319	MaddieKittyTV
 new	15972	KingS1zzle
-new	20041	deng
+new	20041	Blazekickn
 new	19726	pinguupinguu
 new	16458	ladynadiad
 new	17952	timenoe
@@ -128,7 +128,7 @@ new	17469	Numberman
 new	10477	TeddyWestside
 new	20046	voiceofautumn
 new	18278	Landy
-new	20050	deng
+new	20050	Blazekickn
 new	20047	Skystarmania
 new	14266	MGNS8M
 new	837	Falcus
@@ -154,7 +154,7 @@ rev	1174	W	GalacticSpear
 rev	10462	W	SlashTangent
 rev	1403	W	Shaoden
 rev	1234 	W	LordAndrew
-rev	5777	F	deng
+rev	5777	F	Blazekickn
 rev	755	N	MelodyAsh
 rev	14548	N	wolfman2000
 rev	184	F	voiceofautumn

@@ -47,7 +47,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 | Magnavox Odyssey 2          | {% rauserpic guineu %}                                                           | 3              |
 | Master System               | {% rauserpic Jungon %}                                                           | 52             |
 | Mega Drive                  | {% rauserpic DUT %}                                                              | 97             |
-| MSX                         | {% rauserpic deng %}                                                             | 5              |
+| MSX                         | {% rauserpic Blazekickn %}                                                             | 5              |
 | N64                         | {% rauserpic Aquator %}                                                          | 34             |
 | Neo Geo Pocket              | {% rauserpic Nanashi %}                                                          | 4              |
 | NES                         | {% rauserpic SanMarino %}                                                        | 225            |
@@ -118,12 +118,12 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 - {% rauserpic Shootzy %} remains on top with 110 mastery awards.
 - {% rauserpic guineu %} and {% rauserpic MaxMilyin %} are now tied in second with 88 mastery awards.
 - {% rauserpic Searo %} jumped 12 spots into 10th place.
-- {% rauserpic deng %} and {% rauserpic Draco655 %} both took a hit with the exclusion of hacks, dropping 8 and 11 spots in the leaderboards.
+- {% rauserpic Blazekickn %} and {% rauserpic Draco655 %} both took a hit with the exclusion of hacks, dropping 8 and 11 spots in the leaderboards.
 
 ### Game Boy Advance
 
 ![Top Mastery Ranking](img/TopMasteries/GBA.png)
-- {% rauserpic bonecrusher1022 %}, {% rauserpic metalbubble403 %}, {% rauserpic deng %}, {% rauserpic Braek %}, and {% rauserpic Draco655 %} all took bit hits with the exclusion of hacks, all losing over 10 mastery awards.
+- {% rauserpic bonecrusher1022 %}, {% rauserpic metalbubble403 %}, {% rauserpic Blazekickn %}, {% rauserpic Braek %}, and {% rauserpic Draco655 %} all took bit hits with the exclusion of hacks, all losing over 10 mastery awards.
 - {% rauserpic bonecrusher1022 %} and {% rauserpic metalbubble403 %} are still sitting above the rest even with the large awards decrease.
 - {% rauserpic starlite %} has made it into the top 25 and is sitting in a 3-way tie for 14th place.
 - {% rauserpic Thoreau %} has made it into the top 25 without any new mastery awards this month and is sitting in 23rd place.
@@ -207,7 +207,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking images.
 
 ![Top Mastery Ranking](img/TopMasteries/PSP.png)
 - {% rauserpic minibt %} extends the 1st place lead with 3 new mastery awards this month.
-- {% rauserpic Lonoke31 %}, {% rauserpic deng %}, {% rauserpic vaanxbahn %}, {% rauserpic Daroachie %} and {% rauserpic Nevermond12 %} have all joined the top 25 this month.
+- {% rauserpic Lonoke31 %}, {% rauserpic Blazekickn %}, {% rauserpic vaanxbahn %}, {% rauserpic Daroachie %} and {% rauserpic Nevermond12 %} have all joined the top 25 this month.
 
 ### Pokémon Mini
 

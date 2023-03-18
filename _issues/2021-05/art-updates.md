@@ -358,7 +358,7 @@ toc: true
 
 #### SuperLite 1500 Series: Suudoku 4
  
-**New badges by {% rauser deng %} .**
+**New badges by {% rauser Blazekickn %} .**
  
 **Previous Badges:**
 
@@ -370,7 +370,7 @@ toc: true
 
 #### SuperLite 1500 Series: Suudoku 5
  
-**New badges by {% rauser deng %} .**
+**New badges by {% rauser Blazekickn %} .**
  
 **Previous Badges:**
 
@@ -382,7 +382,7 @@ toc: true
 
 #### SuperLite 1500 Series: Suudoku
  
-**New badges by {% rauser deng %} .**
+**New badges by {% rauser Blazekickn %} .**
  
 **Previous Badges:**
 

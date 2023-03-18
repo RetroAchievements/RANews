@@ -173,7 +173,7 @@ And here's a hint for aspiring achievement creators: homebrew's memory is usuall
 
 Set by {% rauserpic mickyt888 %}
 
-Writeup by {% rauserpic deng %}
+Writeup by {% rauserpic Blazekickn %}
 
 Usually with these ~Unlicensed~ games, they are poorly made and only created to steal money from unsuspecting customers. This demake of Pokemon Yellow, however, is surprisingly close to the real thing! Kanto is all here and accounted for - although all the areas are redesigned, making it more or a rom hack of the original than a remake. Also much like a rom hack, the game is way harder. Battles give you less experience and movesets have been balanced to make stronger pokemon less overpowered, so unless you want to grind for hours you will have to build a full team and use your brain to win. 
 

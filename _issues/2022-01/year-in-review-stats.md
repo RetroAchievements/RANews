@@ -207,7 +207,7 @@ Check out who has the most achievement unlocks, points, retro points, and master
 | ---- | ------------------------------ | :----------: | :-----: | :----------: | :------------: |
 | 1    | {% rauserpic Infernum %}       |    11,332    | 205,774 |   733,018    |      424       |
 | 2    | {% rauserpic guineu %}         |    10,475    | 143,948 |   374,806    |      354       |
-| 3    | {% rauserpic deng %}           |    8,786     | 115,322 |   238,344    |      289       |
+| 3    | {% rauserpic Blazekickn %}           |    8,786     | 115,322 |   238,344    |      289       |
 | 4    | {% rauserpic Kinglink %}       |    8,716     | 79,936  |   109,926    |       34       |
 | 5    | {% rauserpic Retrokaiser %}    |    8,360     | 89,388  |   177,798    |      156       |
 | 6    | {% rauserpic freezestar %}     |    8,094     | 102,788 |   192,022    |      195       |
@@ -388,7 +388,7 @@ Check out which developers created the most code notes this year.
     <table><thead><tr><th>Rank</th><th>User</th><th>Awards</th></tr></thead><tbody>
         <tr><td>1</td><td>{% rauserpic Infernum %}</td><td>424</td></tr>
         <tr><td>2</td><td>{% rauserpic guineu %}</td><td>354</td></tr>
-        <tr><td>3</td><td>{% rauserpic deng %}</td><td>289</td></tr>
+        <tr><td>3</td><td>{% rauserpic Blazekickn %}</td><td>289</td></tr>
         <tr><td>4</td><td>{% rauserpic Bendyhuman %}</td><td>258</td></tr>
         <tr><td>5</td><td>{% rauserpic YahwehTzVaoth %}</td><td>253</td></tr>
         <tr><td>6</td><td>{% rauserpic ShadwSonic %}</td><td>199</td></tr>

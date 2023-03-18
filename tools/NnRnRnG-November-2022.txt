@@ -30,10 +30,10 @@ B = Badge
 
 new	21448	Layton
 new	18009	KingS1zzle
-new	21475	FRAN269 pinguupinguu deng Cerlayjux Soulsderfuchs Excessiveiser Delmaru BatFastardJordy voiceofautumn HolyShinx
+new	21475	FRAN269 pinguupinguu Blazekickn Cerlayjux Soulsderfuchs Excessiveiser Delmaru BatFastardJordy voiceofautumn HolyShinx
 new	7716	BigXTH
 new	1003	DarknessZedzi
-new	19210	deng
+new	19210	Blazekickn
 new	21481	FRAN269
 new	16310	Layton
 new	19839	Tybis
@@ -148,7 +148,7 @@ rev	802	F	Searo
 rev	2501	W	wolfman2000
 rev	1571	F	ladynadiad
 rev	1003	F	DarknessZedzi
-rev	17140	F	deng	
+rev	17140	F	Blazekickn	
 rev	12630	F	ladynadiad
 rev	5151	N	Bryan1150
 rev	11367	N	UnsolidSnake

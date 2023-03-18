@@ -50,7 +50,7 @@ toc: true
 
 | Game | Icon By | Icon Before |
 |------|---------|-------------|
-| <a class="gameicon-link" href="https://retroachievements.org/game/14431" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041176.png" alt="~Hack~ Pokemon - Crystal Kaizo"> <span>~Hack~ Pokemon - Crystal Kaizo</span></a> | {% rauser deng %}  | <img class="gameicon" src="https://retroachievements.org/Images/041102.png" alt="old icon">
+| <a class="gameicon-link" href="https://retroachievements.org/game/14431" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041176.png" alt="~Hack~ Pokemon - Crystal Kaizo"> <span>~Hack~ Pokemon - Crystal Kaizo</span></a> | {% rauser Blazekickn %}  | <img class="gameicon" src="https://retroachievements.org/Images/041102.png" alt="old icon">
 
 <a href="#toc">:top:</a>
 

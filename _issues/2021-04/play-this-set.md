@@ -54,7 +54,7 @@ On the other side everybody wanted and waited something completely new and diffe
 |------|---------|-------| 
 | <a class="gameicon-link" href="https://retroachievements.org/game/10310" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/040255.png" alt="Superman: The New Superman Aventures"> <span>Superman: The New Superman Aventures</span></a> | Nintendo 64 | Best Flying Simulator Ever |
 
-Set by {% rauserpic deng %} and {% rauserpic wilhitewarrior %}
+Set by {% rauserpic Blazekickn %} and {% rauserpic wilhitewarrior %}
 
 Writeup by {% rauserpic wilhitewarrior %}
 

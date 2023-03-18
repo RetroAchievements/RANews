@@ -141,7 +141,7 @@ Extermination is a survival horror game taking place in a facility overrun by ni
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | <a class="gameicon-link" href="https://retroachievements.org/game/19438" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/058430.png" alt="\~Demo~ Need for Speed: Most Wanted"> <span>\~Demo~ Need for Speed: Most Wanted</span></a> | [Racing](https://retroachievements.org/game/14240), [Arcade Racing](https://retroachievements.org/game/6934) |
 
-By: {% rauserpic deng %}
+By: {% rauserpic Blazekickn %}
 
 Most Wanted is the ninth Need for Speed game and the fourth on the PlayStation 2. This demo was made in an earlier stage of development, several months before the game hit store shelves. While it was released to the public, it is more like a prototype in some ways, featuring many differences in comparison to the full version. Three events are available to play, with further achievements for unique playstyles. Racing game fans, game history enthusiasts, and free point hunters will all find something to enjoy here.
 

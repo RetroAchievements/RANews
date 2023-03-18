@@ -252,7 +252,7 @@ In this article we're going to see all the achievement sets that got revisions a
 | Game | Rescored By | Points Before | Points After |
 |------|-----------|:-------------:|:------------:|
 | <a class="gameicon-link" href="https://retroachievements.org/game/10439" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/014254.png" alt="Great Volleyball"> <span>Great Volleyball</span></a> | {% rauser Whynot15 %}  | 265 | 410 |
-| <a class="gameicon-link" href="https://retroachievements.org/game/14469" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042239.png" alt="~Homebrew~ Picross"> <span>~Homebrew~ Picross</span></a> | {% rauser deng %}  | 235 | 63 |
+| <a class="gameicon-link" href="https://retroachievements.org/game/14469" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042239.png" alt="~Homebrew~ Picross"> <span>~Homebrew~ Picross</span></a> | {% rauser Blazekickn %}  | 235 | 63 |
 
 <a href="#toc">:top:</a>
 

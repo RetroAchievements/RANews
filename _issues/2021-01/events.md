@@ -100,7 +100,7 @@ These events are open to any community member who wants to particpate.
 - Host: {% rauserpic Bendyhuman %}
 - Currently 1st place (with 5 points):
   - {% rauserpic Bendyhuman %}
-  - {% rauserpic deng %}
+  - {% rauserpic Blazekickn %}
   - {% rauserpic Draco655 %}
   - {% rauserpic HolyShinx %}
   - {% rauserpic mikeisafighter %}

@@ -41,7 +41,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 | Magnavox Odyssey 2          | {% rauserpic guineu %} & {% rauserpic Jungon %}                                                       | 3              |
 | Master System               | {% rauserpic Jungon %}                                                                                | 54             |
 | Mega Drive                  | {% rauserpic DUT %}                                                                                   | 107            |
-| MSX                         | {% rauserpic deng %} & {% rauserpic guineu %}                                                         | 5              |
+| MSX                         | {% rauserpic Blazekickn %} & {% rauserpic guineu %}                                                         | 5              |
 | Nintendo 64                 | {% rauserpic BenTobitt %}                                                                             | 35             |
 | Neo Geo Pocket              | {% rauserpic Nanashi %}                                                                               | 4              |
 | NES                         | {% rauserpic SanMarino %}                                                                             | 229            |

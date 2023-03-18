@@ -61,7 +61,7 @@ new	9093	blendedsea
 new	11801	hardt
 new	2152	TeddyWestside
 new	17439	MGNS8M
-new	2429	deng
+new	2429	Blazekickn
 new	6076	hardt
 new	15356	pinguupinguu
 new	8184	blendedsea
@@ -92,7 +92,7 @@ new	5236	Nydaxn
 new	17589	StingX2
 new	17610	blendedsea
 new	17593	SporyTike
-new	17607	deng
+new	17607	Blazekickn
 new	17600	Infernox
 new	9144	Delmaru
 new	17586	tatoonie
@@ -144,7 +144,7 @@ rev	4384	W	theanxietybuster
 rev	2353	F	MarioJunior10
 rev	10133	F	Searo
 rev	4716	F	pinguupinguu
-rev	4629	F	deng
+rev	4629	F	Blazekickn
 rev	2817	F	televandalist
 rev	4149	W	BlotchJBMR
 rev	4690	F	DanielARP
@@ -247,7 +247,7 @@ art	2436	I	Javisaur	https://retroachievements.org/Images/001544.png	https://retr
 art	5323	I	GameZone	https://retroachievements.org/Images/031521.png	https://retroachievements.org/Images/043729.png
 art	5293	I	WateredWillow	https://retroachievements.org/Images/005744.png	https://retroachievements.org/Images/043748.png
 art	228	I	WateredWillow	https://retroachievements.org/Images/032815.png	https://retroachievements.org/Images/043749.png
-art	9873	B	deng	https://user-images.githubusercontent.com/53956327/117317481-f1653500-ae5f-11eb-9dc1-f8f9edd3998c.png	https://user-images.githubusercontent.com/53956327/117317482-f1fdcb80-ae5f-11eb-8afe-6522193c582f.png
+art	9873	B	Blazekickn	https://user-images.githubusercontent.com/53956327/117317481-f1653500-ae5f-11eb-9dc1-f8f9edd3998c.png	https://user-images.githubusercontent.com/53956327/117317482-f1fdcb80-ae5f-11eb-8afe-6522193c582f.png
 art	13368	I	WateredWillow	https://retroachievements.org/Images/019572.png	https://retroachievements.org/Images/043750.png
 art	10598	I	WateredWillow	https://retroachievements.org/Images/014536.png	https://retroachievements.org/Images/043751.png
 art	9627	I	WateredWillow	https://retroachievements.org/Images/014677.png	https://retroachievements.org/Images/043752.png
@@ -263,8 +263,8 @@ art	715	I	MaddieKittyTV	https://retroachievements.org/Images/001576.png	https://
 art	178	I	MaddieKittyTV	https://retroachievements.org/Images/010953.png	https://retroachievements.org/Images/043830.png
 art	5808	I	MaddieKittyTV	https://retroachievements.org/Images/010264.png	https://retroachievements.org/Images/043831.png
 art	1016	I	GalacticSpear	https://retroachievements.org/Images/006889.png	https://retroachievements.org/Images/043843.png
-art	9733	B	deng	https://user-images.githubusercontent.com/53956327/117317489-f32ef880-ae5f-11eb-871b-d543a095527e.png	https://user-images.githubusercontent.com/53956327/117317493-f32ef880-ae5f-11eb-8b47-e096da4b0b9b.png
-art	9691	B	deng	https://user-images.githubusercontent.com/53956327/117317495-f32ef880-ae5f-11eb-99cb-85558698914d.png	https://user-images.githubusercontent.com/53956327/117317497-f3c78f00-ae5f-11eb-9db6-e4d3f2f24acc.png
+art	9733	B	Blazekickn	https://user-images.githubusercontent.com/53956327/117317489-f32ef880-ae5f-11eb-871b-d543a095527e.png	https://user-images.githubusercontent.com/53956327/117317493-f32ef880-ae5f-11eb-8b47-e096da4b0b9b.png
+art	9691	B	Blazekickn	https://user-images.githubusercontent.com/53956327/117317495-f32ef880-ae5f-11eb-99cb-85558698914d.png	https://user-images.githubusercontent.com/53956327/117317497-f3c78f00-ae5f-11eb-9db6-e4d3f2f24acc.png
 art	5575	B	MaddieKittyTV	https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80884.png	https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/169843.png
 art	5844	I	benmoot	https://retroachievements.org/Images/013835.png	https://retroachievements.org/Images/043859.png
 art	17359	I	jabman696	https://retroachievements.org/Images/041030.png	https://retroachievements.org/Images/043864.png

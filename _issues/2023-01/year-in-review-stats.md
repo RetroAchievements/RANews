@@ -133,7 +133,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 6    | {% rauserpic Snow %}           |     136,332     |    756,638     |      1,897,222       |
 | 7    | {% rauserpic dude1286 %}       |     133,964     |   1,099,601    |      2,120,280       |
 | 8    | {% rauserpic stfN1337 %}       |     107,308     |    799,824     |      1,236,598       |
-| 9    | {% rauserpic deng %}           |     99,705      |    545,892     |      1,859,124       |
+| 9    | {% rauserpic Blazekickn %}           |     99,705      |    545,892     |      1,859,124       |
 | 10   | {% rauserpic Scott %}          |     96,522      |    504,579     |      1,019,840       |
 | 11   | {% rauserpic Dexterspet %}     |     92,834      |    580,098     |      1,301,312       |
 | 12   | {% rauserpic MGNS8M %}         |     90,791      |    609,022     |      1,703,714       |
@@ -454,7 +454,7 @@ Check out which developers created the most code notes this year.
         <tr><td>15</td><td>{% rauserpic BrothersGames %}</td><td>199</td></tr>
         <tr><td>16</td><td>{% rauserpic pitapocket17 %}</td><td>194</td></tr>
         <tr><td>17</td><td>{% rauserpic CerinianShadowGaming %}</td><td>192</td></tr>
-        <tr><td>18</td><td>{% rauserpic deng %}</td><td>187</td></tr>
+        <tr><td>18</td><td>{% rauserpic Blazekickn %}</td><td>187</td></tr>
         <tr><td>19</td><td>{% rauserpic Orph %}</td><td>181</td></tr>
         <tr><td>20</td><td>{% rauserpic Retrokaiser %}</td><td>178</td></tr>
         <tr><td>21</td><td>{% rauserpic Beulu79 %}</td><td>177</td></tr>
@@ -657,7 +657,7 @@ Check out which developers created the most leaderboards this year.
         <tr><td>7</td><td>{% rauserpic timenoe %}</td><td>726</td></tr>
         <tr><td>8</td><td>{% rauserpic Anic %}</td><td>588</td></tr>
         <tr><td>9</td><td>{% rauserpic lordpsycho %}</td><td>478</td></tr>
-        <tr><td>10</td><td>{% rauserpic deng %}</td><td>410</td></tr>
+        <tr><td>10</td><td>{% rauserpic Blazekickn %}</td><td>410</td></tr>
     </tbody></table>
     </div>
 </div>

@@ -143,7 +143,7 @@ rev	1143	F	MelodyAsh
 rev	5151	F	Bryan1150
 rev	12749	N	MaddieKittyTV
 rev	11270	N	FBernkastelKues
-rev	515	N	deng
+rev	515	N	Blazekickn
 rev	10433	N	JAM
 rev	9998	N	Bryan1150
 rev	1438	N	Ghal416
@@ -218,10 +218,10 @@ art	12273	I	RezM1R	https://retroachievements.org/Images/034162.png	https://retro
 art	12271	I	RezM1R	https://retroachievements.org/Images/029169.png	https://retroachievements.org/Images/065204.png	
 art	3164	I	gollawiz	https://retroachievements.org/Images/055035.png	https://retroachievements.org/Images/065205.png	
 art	16552	I	Pallares	https://retroachievements.org/Images/047931.png	https://retroachievements.org/Images/065242.png	
-art	10664	B	deng	https://user-images.githubusercontent.com/53956327/210445701-4ef8438b-85ef-4230-b406-2259a6113789.png	https://user-images.githubusercontent.com/53956327/210445709-ddbffce7-ac3b-4c48-998a-d37d72c46bab.png	
+art	10664	B	Blazekickn	https://user-images.githubusercontent.com/53956327/210445701-4ef8438b-85ef-4230-b406-2259a6113789.png	https://user-images.githubusercontent.com/53956327/210445709-ddbffce7-ac3b-4c48-998a-d37d72c46bab.png	
 art	11983	I	RezM1R	https://retroachievements.org/Images/064975.png	https://retroachievements.org/Images/065295.png	
 art	10438	I	Achievess	https://retroachievements.org/Images/026516.png	https://retroachievements.org/Images/065283.png	
-art	7596	B	deng	https://user-images.githubusercontent.com/53956327/210445703-3026ada0-4a78-4c1c-8d10-8321f09243e7.png	https://user-images.githubusercontent.com/53956327/210445710-5a1e65f3-2726-4551-b54d-d87e0805f3d0.png	
+art	7596	B	Blazekickn	https://user-images.githubusercontent.com/53956327/210445703-3026ada0-4a78-4c1c-8d10-8321f09243e7.png	https://user-images.githubusercontent.com/53956327/210445710-5a1e65f3-2726-4551-b54d-d87e0805f3d0.png	
 art	11955	I	RezM1R	https://retroachievements.org/Images/056801.png	https://retroachievements.org/Images/065284.png	
 art	985	B	AdeptTempest	https://user-images.githubusercontent.com/53956327/210445704-a3827a1b-48cf-4978-a2b2-5d56b5e3a53c.png	https://user-images.githubusercontent.com/53956327/210445713-b5364c01-4876-4363-b4f3-5af01e564849.png	
 art	12072	I	RezM1R	https://retroachievements.org/Images/064921.png	https://retroachievements.org/Images/065314.png	

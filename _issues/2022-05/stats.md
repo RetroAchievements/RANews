@@ -307,7 +307,7 @@ Check out which developers created the most code notes this month.
     </tbody></table>
     </div> <div style='width:49%;display:inline-block;float:right'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
-        <tr><td>6</td><td>{% rauserpic deng %}</td><td>676</td></tr>
+        <tr><td>6</td><td>{% rauserpic Blazekickn %}</td><td>676</td></tr>
         <tr><td>7</td><td>{% rauserpic raniejogos %}</td><td>629</td></tr>
         <tr><td>8</td><td>{% rauserpic Brandovsky %}</td><td>621</td></tr>
         <tr><td>9</td><td>{% rauserpic Cadaxar %}</td><td>583</td></tr>

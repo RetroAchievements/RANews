@@ -182,7 +182,7 @@ rev	14582	F	pinguupinguu
 rev	1411	F	QATeam
 rev	595	N	Shaoden
 rev	5371	N	adamjohnny5
-rev	10701	F	deng
+rev	10701	F	Blazekickn
 rev	14842	F	SporyTike
 
 

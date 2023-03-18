@@ -37,7 +37,7 @@ new	15726	guindev
 new	15387	guindev
 new	8055	wilhitewarrior
 new	13025	ZZKer
-new	8010	deng
+new	8010	Blazekickn
 new	9105	voiceofautumn
 new	17640	SporyTike
 new	15351	pinguupinguu
@@ -185,7 +185,7 @@ rev	576	F	blendedsea
 rev	466	F	GalacticSpear
 rev	722	N	SlashTangent
 rev	810	N	msdmario
-rev	788	N	deng
+rev	788	N	Blazekickn
 rev	3615	F	xnaivx
 rev	4598	N	Maize
 rev	3623	F	Infernox
@@ -226,7 +226,7 @@ art	4061	I	Dehkon	https://retroachievements.org/Images/009504.png	https://retroa
 art	1552	I	Dehkon	https://retroachievements.org/Images/007694.png	https://retroachievements.org/Images/044096.png
 art	1551	I	Dehkon	https://retroachievements.org/Images/007696.png	https://retroachievements.org/Images/044097.png
 art	4740	I	Dehkon	https://retroachievements.org/Images/021743.png	https://retroachievements.org/Images/044098.png
-art	14466	B	deng	https://user-images.githubusercontent.com/53956327/117839329-85b10c80-b251-11eb-95c2-51f1f73ac7c0.png	https://user-images.githubusercontent.com/53956327/117839332-8649a300-b251-11eb-9e49-fe97a9bfb55d.png
+art	14466	B	Blazekickn	https://user-images.githubusercontent.com/53956327/117839329-85b10c80-b251-11eb-95c2-51f1f73ac7c0.png	https://user-images.githubusercontent.com/53956327/117839332-8649a300-b251-11eb-9e49-fe97a9bfb55d.png
 art	1395	I	Javisaur	https://retroachievements.org/Images/004977.png	https://retroachievements.org/Images/044099.png
 art	2572	I	SporyTike	https://retroachievements.org/Images/001881.png	https://retroachievements.org/Images/044008.png
 art	1813	I	SporyTike	https://retroachievements.org/Images/003087.png	https://retroachievements.org/Images/044100.png
