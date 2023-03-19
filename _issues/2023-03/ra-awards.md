@@ -259,7 +259,7 @@ By: {% rauserpic AlexGatao %}
 
 | Game                                                                                                                                                                                                                                                                                | Console     | Genre            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/17923" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059607.png" alt=""> <span>Legend of Zelda, The: Ocarina of Time - Master Quest [Subset - Bonus]</span></a> | Nintendo 64 | Action-Adventure |
+| <a class="gameicon-link" href="https://retroachievements.org/game/17923" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/047893.png" alt=""> <span>Legend of Zelda, The: Ocarina of Time - Master Quest [Subset - Bonus]</span></a> | Nintendo 64 | Action-Adventure |
 
 
 ### Best Nintendo 64 Non Retail Set
