@@ -9,12 +9,14 @@ toc_float: true
 ---
 
 ## Intro <!-- Update each issue -->
-Welcome to RANews, your #1 source for everything RetroAchievements. In this issue we'll be covering a wide range of topics, including the impact of March 2004 on the history of video games, the latest in achievement and set news, tons of data organized throughout several articles, and much more. Whether you're a seasoned reader or a first-timer, our team ensures that every issue of RANews is packed with fresh and exciting content. So sit back, relax, and get ready to dive into the exciting world of RetroAchievements with RANews!
+Welcome to RANews, your #1 source for everything RetroAchievements. In this issue we'll be covering a wide range of topics, including the 2022 RA Awards results, the impact of March 2004 on the history of video games, the latest in achievement and set news, tons of data organized throughout several articles, and much more. Whether you're a seasoned reader or a first-timer, our team ensures that every issue of RANews is packed with fresh and exciting content. So sit back, relax, and get ready to dive into the exciting world of RetroAchievements with RANews!
 
 Cover by:
 <div class="bingo-winner-small">
     {% rauserpic Nydaxn %}
 </div>
+
+<br clear="right"/>
 
 ## Community Submitted Content
 RANews thrives on community submitted content, Wish This Set, Play This Set and RAdvantage are only possibly if you allow it to be and send us your submissions for those articles. If you have any contributions that you would like to see featured in these articles, please send them in a direct message to {% rauser RANews %}.
