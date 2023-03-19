@@ -164,14 +164,6 @@ By: {% rauserpic Searo %}
 | <a class="gameicon-link" href="https://retroachievements.org/game/19509" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/057489.png" alt="~Homebrew~ Flappy Cheep Cheep"> <span>~Homebrew~ Flappy Cheep Cheep</span></a> | Virtual Boy | Arcade |
 
 
-### Best Prototype Set
-By: {% rauserpic Cadaxar %}
-
-| Game                                                                                                                                                                                                                                             | Console          | Genre                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/19894" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059360.png" alt="~Prototype~ Quake"> <span>~Prototype~ Quake</span></a> | Game Boy Advance | Shooter, First-Person Shooter |
-
-
 ## Systems
 
 ### Best Game Boy Set 
