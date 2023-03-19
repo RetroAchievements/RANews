@@ -23,7 +23,6 @@ category: Spot The Difference
 There are many stories about Super Mario but today I want to tell you about the Legend of the Seven Stars. Once upon a time Mario needed to rescue Mushroom Kingdom with the help of Princess Toadstool, Bowser, a doll and even a cloud creature. It's unknown what exactly happened back then but the story is always the same beside a few differences... Can you find all 10 differences?
 
 <p align="center">
-  <a href="https://tinyurl.com/2p8uraz8" />
   <img src="img/Fun/SpotTheDifference.png" />
 </p>
 
