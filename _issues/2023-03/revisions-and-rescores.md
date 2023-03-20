@@ -65,9 +65,9 @@ toc: true
 ### Master System
 
 
-| Game                                                                                                                                                                                                                                                              | Revision Author        | Genre          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/9998" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/064914.png" alt="Alex Kidd in Miracle World"> <span>Alex Kidd in Miracle World</span></a> | {% rauser Bryan1150 %} | 2D Platforming |
+| Game                                                                                                                                                                                                                                                              | Revision Author  | Genre          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/9998" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/064914.png" alt="Alex Kidd in Miracle World"> <span>Alex Kidd in Miracle World</span></a> | {% rauser JAM %} | 2D Platforming |
 
 <a href="#toc">:top:</a>
 
