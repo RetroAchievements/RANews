@@ -22,8 +22,8 @@ category: Spot The Difference
 The children from the neighborhood decided to do some races with their toy cars to see who of them is the best driver. While racing some of them did some photos and at the evening they noticed a few differences between the pictures they took. Can you find all 10 differences?
 
 <p align="center">
-  <a href="https://tinyurl.com/2p8uraz8" />
-  <img src="img/Fun/SpotTheDifferenceTemp.png" />
+  <!-- <a href="https://tinyurl.com/2p8uraz8" /> -->
+  <img src="img/Fun/SpotTheDifference.png" />
 </p>
 
 ## About the Game
