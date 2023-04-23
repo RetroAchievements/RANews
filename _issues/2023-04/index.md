@@ -9,7 +9,7 @@ toc_float: true
 ---
 
 ## Intro <!-- Update each issue -->
-Welcome to RANews, your #1 source for everything RetroAchievements. In this issue we'll be covering a wide range of topics, the impact of April 1994 on the history of video games, the latest in achievement and set news, tons of data organized throughout several articles, and much more. Whether you're a seasoned reader or a first-timer, our team ensures that every issue of RANews is packed with fresh and exciting content. So sit back, relax, and get ready to dive into the exciting world of RetroAchievements with RANews!
+Welcome to RANews, your #1 source for everything RetroAchievements. In this issue we'll be covering a wide range of topics, the impact of April 1992 on the history of video games, the latest in achievement and set news, tons of data organized throughout several articles, and much more. Whether you're a seasoned reader or a first-timer, our team ensures that every issue of RANews is packed with fresh and exciting content. So sit back, relax, and get ready to dive into the exciting world of RetroAchievements with RANews!
 
 Cover by:
 <div class="bingo-winner-small">
@@ -30,7 +30,7 @@ Each month, we invite the RetroAchievements community to vote for their favorite
 
 
 ## [This Month In Retro](./this-month-in-retro.html) <!-- Update each issue -->
-If you're a fan of video games and the history behind them, you won't want to miss this article on This Month in Retro. {% rauser Nepiki %} takes us back to April 1994 and discusses the significance of that months releases. If you're interested in learning about the video games released in April 1994, including their sales figures and critic scores, this article is worth checking out.
+If you're a fan of video games and the history behind them, you won't want to miss this article on This Month in Retro. {% rauser Nepiki %} takes us back to April 1992 and discusses the significance of that months releases. If you're interested in learning about the video games released in April 1992, including their sales figures and critic scores, this article is worth checking out.
 
 
 ## [It's a Long Way to the Top](./its-a-long-way-to-the-top.html) <!-- Update each issue -->
@@ -54,7 +54,7 @@ Stay up-to-date with the latest news in the RetroAchievements community with our
 
 
 ## [RAPodcast](./rapodcast.html) <!-- Update each issue -->
-Join the RetroAchievements community and listen to the latest RAPodcast, where our host {% rauser TimeCrush %} talsk with {% rauser TheMysticalOne %}, chosen as "Developer of the Year", discussing set creation, game choice, community experience, team interactions, and future prospects. As well as {% rauser BahamutVoid %} to talk about the recent Console Wars event, his contributions to RA, and future plans.
+Join the RetroAchievements community and listen to the latest RAPodcast, where our host {% rauser TimeCrush %} talks with {% rauser TheMysticalOne %}, chosen as "Developer of the Year", discussing set creation, game choice, community experience, team interactions, and future prospects. As well as {% rauser BahamutVoid %} to talk about the recent Console Wars event, his contributions to RA, and future plans. In the second episode featured this month, {% rauser TimeCrush %} sits down with {% rauser Nydaxn%} to take a look deeper into the importance of animation as it relates to gaming, and gaining the insightful perspective of a professional who works in this field.
 
 
 ## [Play This Set](./play-this-set.html)
@@ -82,7 +82,7 @@ In this segment, we'll be taking a closer look at the sets that have recently be
 
 
 ## [Art Updates](./art-updates.html)
-Discover the latest updates to achievmenet badges and set icons. From fresh badges to updated set icons, you'll get the scoop on all the art changes happening on RetroAchievements. Join us for a closer look at the evolving aesthetics of various achievement sets, and stay up-to-date on the latest changes from the artists of RetroAchievements!
+Discover the latest updates to achievement badges and set icons. From fresh badges to updated set icons, you'll get the scoop on all the art changes happening on RetroAchievements. Join us for a closer look at the evolving aesthetics of various achievement sets, and stay up-to-date on the latest changes from the artists of RetroAchievements!
 
 
 ## [Top Players](./top-players.html)

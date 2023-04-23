@@ -72,7 +72,7 @@ In this segment, we'll be taking a closer look at the sets that have recently be
 
 
 ## [Art Updates](./art-updates.html)
-Discover the latest updates to achievmenet badges and set icons. From fresh badges to updated set icons, you'll get the scoop on all the art changes happening on RetroAchievements. Join us for a closer look at the evolving aesthetics of various achievement sets, and stay up-to-date on the latest changes from the artists of RetroAchievements!
+Discover the latest updates to achievement badges and set icons. From fresh badges to updated set icons, you'll get the scoop on all the art changes happening on RetroAchievements. Join us for a closer look at the evolving aesthetics of various achievement sets, and stay up-to-date on the latest changes from the artists of RetroAchievements!
 
 
 ## [Top Players](./top-players.html)

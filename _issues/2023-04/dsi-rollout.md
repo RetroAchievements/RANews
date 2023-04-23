@@ -12,7 +12,7 @@ author: RANews
   <img src="img/DSi/Nintendo_DSi_logo_white.png" />
 </p>
 
-We're excited to introduce achievmeent support for the Nintendo DSi. With over 40 new achievement sets developed by over 30 different developers, you're sure to find a challenge that's perfect for you. Checkout the launch titles below and see which ones you want to tackle first.
+We're excited to introduce achievement support for the Nintendo DSi. With over 40 new achievement sets developed by over 30 different developers, you're sure to find a challenge that's perfect for you. Checkout the launch titles below and see which ones you want to tackle first.
 
 [Bizhawk Standalone](https://tasvideos.org/BizHawk/ReleaseHistory) is required to earn Nintendo DSI achievements. Huge thanks to {%rauserpic CasualPokePlayer %} for Bizhawk integration.
 

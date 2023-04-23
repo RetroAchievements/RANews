@@ -16,7 +16,7 @@ Below we will take a look at which users rank among the best with the most maste
 
 Special thanks to {% rauserpic Nydaxn %} for creating the ranking image templates.
 
-\* Data as of March 1st 2023.
+\* Data as of April 1st 2023.
 
 <br clear="right"/>
 
@@ -113,7 +113,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/TOP_MASTERY.png" />
 </p>
 * {% rauserpic guineu %} remains in 1st with 1072 total mastery awards.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is in 6th place.
 * {% rauserpic Jungon %} has moved up 1 spot and is in 12th place.
 * {% rauserpic NEOMAR %} has moved up 2 spots and is in 16th place.
 * {% rauserpic donutweegee %} has made it into the top 25 and is in 23rd place.
@@ -127,7 +126,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic guineu %} remains in 1st with 1049 total mastery awards.
 * {% rauserpic Sarconius %} has moved up 1 spot and is in 5th place.
 * {% rauserpic Jungon %} has moved up 1 spot and is in 9th place.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is in 10th place.
 * {% rauserpic NEOMAR %} has moved up 2 spots and is in 16th place.
 * {% rauserpic ChronoGear %} has moved up 1 spot and is in 18th place.
 * {% rauserpic Shootzy %} has moved up 1 spot and is in 22nd place.
@@ -166,7 +164,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 </p>
 * {% rauserpic roukanumachi %} remains in 1st with 15 total mastery awards.
 * {% rauserpic Mosk59 %} has moved up 2 spots and is tied for 8th place.
-* {% rauserpic Blazekickn %} and {% rauserpic genesislover %} have made it into the top 25 and are in a 17-way tie for 12th place.
+* {% rauserpic genesislover %} has made it into the top 25 and is in a 17-way tie for 12th place.
 
 ### Apple II
 
@@ -179,7 +177,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic Dogmeatman %} has moved up 1 spot and is in a 4-way tie for 4th place.
 * {% rauserpic Sylrifaide %} has made it into the top 25 and is in a 4-way tie for 4th place.
 * {% rauserpic multonic %} and {% rauserpic mwelsh %} have moved up 7 spots and are in a 7-way tie for 11th place.
-* {% rauserpic Blazekickn %} and {% rauserpic phalnx %} have made it into the top 25 and are in a 6-way tie for 18th place.
+* {% rauserpic phalnx %} has made it into the top 25 and is in a 6-way tie for 18th place.
 
 ### Arcade
 
@@ -206,7 +204,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic Amir96lx %} has moved up 1 spot and is tied for 15th place.
 * {% rauserpic AllKindsOfJames %} has moved up 1 spot and is in a 4-way tie for 17th place.
 * {% rauserpic Maximdraco %} and {% rauserpic Shootzy %} have moved up 3 spots and are in a 4-way tie for 17th place.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is in a 3-way tie for 21st place.
 * {% rauserpic Deikorim %} has moved up 1 spot and is in a 4-way tie for 24th place.
 * {% rauserpic MiningMario %} has made it into the top 25 and is in a 4-way tie for 24th place.
 
@@ -221,7 +218,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic mwelsh %} has made it into the top 25 and is in 10th place.
 * {% rauserpic Botch %} has moved up 8 spots and is in a 4-way tie for 16th place.
 * {% rauserpic dtkiller %} has moved up 1 spot and is in a 4-way tie for 16th place.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is tied for 24th place.
 
 ### Dreamcast
 
@@ -261,7 +257,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic Sarconius %} has moved up 3 spots and is in 8th place.
 * {% rauserpic seilahehe %} has moved up 6 spots and is in 13th place.
 * {% rauserpic Tiagoxxx %} and {% rauserpic Xotoco %} have moved up 2 spots and are tied for 15th place.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is tied for 22nd place.
 * {% rauserpic PaddyW %} has made it into the top 25 and is in 24th place.
 
 ### Game Boy Advance
@@ -270,7 +265,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/GAME_BOY_ADVANCE.png" />
 </p>
 * {% rauserpic bonecrusher1022 %} remains in 1st with 138 total mastery awards.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is in 5th place.
 * {% rauserpic voiceofautumn %} has moved up 1 spot and is in 7th place.
 * {% rauserpic Infernum %} has moved up 3 spots and is tied for 9th place.
 * {% rauserpic Valenstein %} has moved up 1 spot and is in 11th place.
@@ -284,7 +278,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 </p>
 * {% rauserpic pitapocket17 %} remains in 1st with 97 total mastery awards.
 * {% rauserpic Xotoco %} has moved up 1 spot and is in 12th place.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is tied for 18th place.
 * {% rauserpic AllKindsOfJames %} has made it into the top 25 and is in a 4-way tie for 22nd place.
 
 ### Game Gear
@@ -302,7 +295,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 </p>
 * {% rauserpic HolyShinx %} remains in 1st with 214 total mastery awards.
 * {% rauserpic Bendyhuman %} has moved up 1 spot and is in 4th place.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is in 5th place.
 * {% rauserpic Skystarmania %} has moved up 1 spot and is in 12th place.
 * {% rauserpic Jacobgharibian %} has moved up 1 spot and is in a 3-way tie for 15th place.
 * {% rauserpic MaxMilyin %} has moved up 1 spot and is in 21st place.
@@ -358,7 +350,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic SlashTangent %} has moved up 1 spot and is tied for 5th place.
 * {% rauserpic zandro %} has moved up 2 spots and is tied for 10th place.
 * {% rauserpic Whithbrin %} has moved up 1 spot and is in a 3-way tie for 12th place.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is tied for 15th place.
 * {% rauserpic BahamutVoid %} has moved up 1 spot and is tied for 22nd place.
 
 ### NES
@@ -377,7 +368,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic Bendyhuman %} has moved up 1 spot and is in 2nd place.
 * {% rauserpic Orph %} has moved up 2 spots and is tied for 3rd place.
 * {% rauserpic Dennis1543 %} has moved up 3 spots and is in 5th place.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is in 8th place.
 * {% rauserpic MaddieKittyTV %} has moved up 1 spot and is in 11th place.
 * {% rauserpic MiningMario %} has moved up 2 spots and is tied for 12th place.
 * {% rauserpic Retrokaiser %} has moved up 1 spot and is tied for 14th place.
@@ -408,7 +398,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic Orph %} remains in 1st with 14 total mastery awards.
 * {% rauserpic Nanashi %} has made it into the top 25 and is tied for 5th place.
 * {% rauserpic bTesta %} has moved up 4 spots and is in a 4-way tie for 9th place.
-* {% rauserpic Blazekickn %} and {% rauserpic genesislover %} have made it into the top 25 and are in a 9-way tie for 13th place.
+* {% rauserpic genesislover %} has made it into the top 25 and is in a 9-way tie for 13th place.
 
 ### PlayStation
 
@@ -420,7 +410,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic Sylrifaide %} has moved up 1 spot and is in 14th place.
 * {% rauserpic Fantastic %} has moved up 3 spots and is in 16th place.
 * {% rauserpic Infernum %} has moved up 1 spot and is tied for 19th place.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is tied for 21st place.
 * {% rauserpic xRidley %} has made it into the top 25 and is in 23rd place.
 * {% rauserpic Retrokaiser %} has made it into the top 25 and is in 25th place.
 
@@ -451,7 +440,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic AuburnRDM %} has moved up 1 spot and is tied for 7th place.
 * {% rauserpic Caelum %} has moved up 6 spots and is in a 3-way tie for 13th place.
 * {% rauserpic guineu %} has moved up 7 spots and is in a 3-way tie for 13th place.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is in a 3-way tie for 16th place.
 * {% rauserpic JetForceGeneric %} has made it into the top 25 and is in a 5-way tie for 19th place.
 
 ### Pokémon Mini
@@ -461,7 +449,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 </p>
 * {% rauserpic Sylrifaide %} remains in 1st with 36 total mastery awards.
 * {% rauserpic Jungon %} has moved up 7 spots and is tied for 7th place.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is tied for 18th place.
 * {% rauserpic Griffin %} and {% rauserpic Timmay %} have made it into the top 25 and are in a 4-way tie for 23rd place.
 
 ### Sega Saturn
@@ -501,7 +488,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 </p>
 * {% rauserpic Grahamtams %} remains in 1st with 15 total mastery awards.
 * {% rauserpic Amir96lx %} has moved up 4 spots and is in a 5-way tie for 9th place.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is in a 11-way tie for 18th place.
 
 ### WASM-4
 
@@ -517,7 +503,6 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic kadenperfen %} has made it into the top 25 and is in a 7-way tie for 14th place.
 * {% rauserpic Timmay %} has moved up 6 spots and is in a 7-way tie for 14th place.
 * {% rauserpic xClawz %} has moved up 2 spots and is in a 7-way tie for 14th place.
-* {% rauserpic Blazekickn %} has made it into the top 25 and is tied for 25th place.
 
 ### Watara Supervision
 
