@@ -50,9 +50,9 @@ If you would like access to the server please contact:<br>
 * [Super Mario 64 [Subset - Lazy Lakitu]](https://retroachievements.org/game/22905)
 
 ### Set Denials
-* Pokemon Reb/Blue/Yellow Rumor Subset
+* Pokemon Red/Blue/Yellow Rumor Subset
 * Super Mario 64 Mirror Mode Subset
-* Pokemon HeartGold Version \| Pokemon SoulSilver Version Little Cup CHallenge
+* Pokemon HeartGold Version \| Pokemon SoulSilver Version Little Cup Challenge
 
 ### Reauthors
 * [Metal Slug Advance](https://retroachievements.org/game/514) to {% rauserpic TheMysticalOne %}
