@@ -49,6 +49,7 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 5    | {% rauserpic rabbids4eva %}   | 1            |
 | 5    | {% rauserpic Snow %}          | 1            |
 | 5    | {% rauserpic voiceofautumn %} | 1            |
+| 5    | {% rauserpic zizom %}         | 1            |
 
 ## Amstrad CPC
 
@@ -112,16 +113,16 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 
 | Rank | Developer                     | Sets Created |
 | ---- | ----------------------------- | ------------ |
-| 1    | {% rauserpic hardt %}         | 19           |
-| 2    | {% rauserpic Salsa %}         | 18           |
-| 3    | {% rauserpic SherryBirkin %}  | 14           |
-| 4    | {% rauserpic TeddyWestside %} | 12           |
-| 5    | {% rauserpic KloggMonkey %}   | 11           |
-| 6    | {% rauserpic guindev %}       | 10           |
-| 6    | {% rauserpic jplima %}        | 10           |
-| 6    | {% rauserpic voiceofautumn %} | 10           |
-| 9    | {% rauserpic Wimpy %}         | 9            |
-| 10   | {% rauserpic NgNvNn %}        | 6            |
+| 1    | {% rauserpic zxmega %}        | 20           |
+| 2    | {% rauserpic hardt %}         | 19           |
+| 3    | {% rauserpic Salsa %}         | 18           |
+| 4    | {% rauserpic SherryBirkin %}  | 14           |
+| 5    | {% rauserpic TeddyWestside %} | 12           |
+| 6    | {% rauserpic KloggMonkey %}   | 11           |
+| 7    | {% rauserpic guindev %}       | 10           |
+| 7    | {% rauserpic jplima %}        | 10           |
+| 7    | {% rauserpic voiceofautumn %} | 10           |
+| 10   | {% rauserpic Wimpy %}         | 9            |
 
 ## Arduboy
 
@@ -206,6 +207,7 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 4    | {% rauserpic rabbids4eva %}      | 1            |
 | 4    | {% rauserpic stfN1337 %}         | 1            |
 | 4    | {% rauserpic WanderingHeiho %}   | 1            |
+| 4    | {% rauserpic ZZKer %}            | 1            |
 
 ## Atari Jaguar
 
@@ -287,6 +289,7 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 5    | {% rauserpic tatoonie %}            | 2            |
 | 5    | {% rauserpic TeddyWestside %}       | 2            |
 | 5    | {% rauserpic voiceofautumn %}       | 2            |
+| 5    | {% rauserpic zxmega %}              | 2            |
 
 ## Fairchild Channel F
 
@@ -369,49 +372,18 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 
 ## Game Gear
 
-| Rank | Developer                           | Sets Created |
-| ---- | ----------------------------------- | ------------ |
-| 1    | {% rauserpic ikki5 %}               | 13           |
-| 2    | {% rauserpic caricatur %}           | 10           |
-| 3    | {% rauserpic MarioJunior10 %}       | 5            |
-| 4    | {% rauserpic Flara %}               | 3            |
-| 4    | {% rauserpic salvadorc17 %}         | 3            |
-| 4    | {% rauserpic Tayadaoc %}            | 3            |
-| 7    | {% rauserpic Searo %}               | 2            |
-| 7    | {% rauserpic televandalist %}       | 2            |
-| 7    | {% rauserpic TheJediSonic %}        | 2            |
-| 10   | {% rauserpic Alena %}               | 1            |
-| 10   | {% rauserpic Bl4h8L4hBl4h %}        | 1            |
-| 10   | {% rauserpic BrunoKiko %}           | 1            |
-| 10   | {% rauserpic Cadaxar %}             | 1            |
-| 10   | {% rauserpic Darkc0m %}             | 1            |
-| 10   | {% rauserpic Deltttaa %}            | 1            |
-| 10   | {% rauserpic Etron %}               | 1            |
-| 10   | {% rauserpic GalacticSpear %}       | 1            |
-| 10   | {% rauserpic guindev %}             | 1            |
-| 10   | {% rauserpic Infernox %}            | 1            |
-| 10   | {% rauserpic Jenettebaghead %}      | 1            |
-| 10   | {% rauserpic ladynadiad %}          | 1            |
-| 10   | {% rauserpic lmig %}                | 1            |
-| 10   | {% rauserpic MGNS8M %}              | 1            |
-| 10   | {% rauserpic mopain85 %}            | 1            |
-| 10   | {% rauserpic MrOwnership %}         | 1            |
-| 10   | {% rauserpic multonic %}            | 1            |
-| 10   | {% rauserpic Mutawarrior %}         | 1            |
-| 10   | {% rauserpic NgNvNn %}              | 1            |
-| 10   | {% rauserpic pinguupinguu %}        | 1            |
-| 10   | {% rauserpic Pudpod %}              | 1            |
-| 10   | {% rauserpic rabbids4eva %}         | 1            |
-| 10   | {% rauserpic reddyxd %}             | 1            |
-| 10   | {% rauserpic Sines %}               | 1            |
-| 10   | {% rauserpic Snow %}                | 1            |
-| 10   | {% rauserpic StingX2 %}             | 1            |
-| 10   | {% rauserpic ThatAmericanSlacker %} | 1            |
-| 10   | {% rauserpic TheMysticalOne %}      | 1            |
-| 10   | {% rauserpic timenoe %}             | 1            |
-| 10   | {% rauserpic voiceofautumn %}       | 1            |
-| 10   | {% rauserpic waldhof1907 %}         | 1            |
-| 10   | {% rauserpic WanderingHeiho %}      | 1            |
+| Rank | Developer                     | Sets Created |
+| ---- | ----------------------------- | ------------ |
+| 1    | {% rauserpic ikki5 %}         | 13           |
+| 2    | {% rauserpic caricatur %}     | 10           |
+| 3    | {% rauserpic MarioJunior10 %} | 5            |
+| 4    | {% rauserpic Flara %}         | 3            |
+| 4    | {% rauserpic salvadorc17 %}   | 3            |
+| 4    | {% rauserpic Tayadaoc %}      | 3            |
+| 7    | {% rauserpic Searo %}         | 2            |
+| 7    | {% rauserpic televandalist %} | 2            |
+| 7    | {% rauserpic TheJediSonic %}  | 2            |
+| 7    | {% rauserpic YuriRod50248 %}  | 2            |
 
 ## Intellivision
 
@@ -563,6 +535,7 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 2    | {% rauserpic televandalist %}       | 1            |
 | 2    | {% rauserpic ThatAmericanSlacker %} | 1            |
 | 2    | {% rauserpic Thoreau %}             | 1            |
+| 2    | {% rauserpic zxmega %}              | 1            |
 
 ## NES
 
@@ -626,6 +599,7 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 7    | {% rauserpic MGNS8M %}        | 2            |
 | 7    | {% rauserpic princentvice %}  | 2            |
 | 7    | {% rauserpic Schnitzel %}     | 2            |
+| 7    | {% rauserpic Zaphnath %}      | 2            |
 
 ## PC Engine CD
 
@@ -713,16 +687,14 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | ---- | ----------------------------- | ------------ |
 | 1    | {% rauserpic Snow %}          | 18           |
 | 2    | {% rauserpic TeddyWestside %} | 16           |
-| 3    | {% rauserpic blendedsea %}    | 12           |
-| 3    | {% rauserpic timenoe %}       | 12           |
-| 5    | {% rauserpic gollawiz %}      | 11           |
-| 6    | {% rauserpic Excessiveiser %} | 10           |
-| 7    | {% rauserpic Layton %}        | 7            |
-| 7    | {% rauserpic pinguupinguu %}  | 7            |
-| 7    | {% rauserpic SporyTike %}     | 7            |
-| 10   | {% rauserpic Anic %}          | 6            |
-| 10   | {% rauserpic Delmaru %}       | 6            |
-| 10   | {% rauserpic televandalist %} | 6            |
+| 3    | {% rauserpic zxmega %}        | 13           |
+| 4    | {% rauserpic blendedsea %}    | 12           |
+| 4    | {% rauserpic timenoe %}       | 12           |
+| 6    | {% rauserpic gollawiz %}      | 11           |
+| 7    | {% rauserpic Excessiveiser %} | 10           |
+| 8    | {% rauserpic Layton %}        | 7            |
+| 8    | {% rauserpic pinguupinguu %}  | 7            |
+| 8    | {% rauserpic SporyTike %}     | 7            |
 
 ## PlayStation Portable
 
@@ -964,6 +936,7 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 6    | {% rauserpic ventuz %}           | 1            |
 | 6    | {% rauserpic voiceofautumn %}    | 1            |
 | 6    | {% rauserpic wolfman2000 %}      | 1            |
+| 6    | {% rauserpic ZZKer %}            | 1            |
 
 ## Watara Supervision
 
@@ -998,6 +971,7 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 5    | {% rauserpic Snow %}             | 1            |
 | 5    | {% rauserpic televandalist %}    | 1            |
 | 5    | {% rauserpic voiceofautumn %}    | 1            |
+| 5    | {% rauserpic ZZKer %}            | 1            |
 
 ## WonderSwan
 
