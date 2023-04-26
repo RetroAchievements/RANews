@@ -110,7 +110,7 @@ These events are open to any community member who wants to participate.
   3: {% rauserpic WanderingHeiho %} - 29 Points  
   4: {% rauserpic TheJohanx %} - 27 Points  
   5: {% rauserpic malasdair %} - 26 Points  
-  6: {% rauserpic Amine456 %} - 25 Points  
+  6: {% rauserpic amine456 %} - 25 Points  
   7: {% rauserpic Agnam %} - 24 Points  
   8: {% rauserpic Erodion %} - 23 Points  
   9: {% rauserpic freezestar %} - 22 Points  
