@@ -1,0 +1,386 @@
+
+new = new sets
+GameID | User(s)
+
+-------
+
+rev = revisions
+GameID | Status | User(s)
+
+C = Cancelled
+D = Demotion (Completed)
+F = Finished
+W = WIP
+N = new
+
+-------
+
+res = rescores
+GameID | User(s) | Before | After
+
+-------
+
+art = badge and icons
+GameID | Type | User(s) | Before | After
+
+I = Icon
+B = Badge
+
+-----------------------------------------------------------------------------
+
+new	22905	DarkyAndreas
+new	23902	televandalist
+new	5315	Appotheozz
+new	1658	Tayadaoc
+new	23793	wolfman2000
+new	23904	JAM
+new	13894	Guinea
+new	20721	thegotoguyy
+new	23901	Dimedime
+new	22863	SlashTangent
+new	19496	zxmega
+new	12198	Bryan1150
+new	22622	ladynadiad
+new	14185	BrunoKiko
+new	5602	Cerlayjux
+new	20595	zxmega
+new	23907	timenoe
+new	19046	malasdair
+new	18350	Griffin
+new	14270	Excessiveiser
+new	4498	KingRognar
+new	5255	AfroRyan ThatAmericanSlacker
+new	22188	Tybis
+new	6319	Cerlayjux
+new	14189	WanderingHeiho
+new	2697	Bryan1150
+new	23905	ZamArch
+new	14751	Juaroomblah
+new	20639	MaddieKittyTV
+new	22344	dericobanjo
+new	21490	ToastLover
+new	11394	SlashTangent
+new	22846	wolfman2000
+new	24002	Bryan1150
+new	18532	AfroRyan
+new	20375	Valvadis
+new	12176	WanderingHeiho
+new	23747	MaddieKittyTV
+new	8869	AfroRyan
+new	4630	EulerMoises1981
+new	22417	Cadaxar
+new	24006	LordAndrew
+new	22872	clymax
+new	24004	kmpers
+new	9701	Xalerzyx
+new	503	Casually
+new	11996	SubliminalSiren
+new	23768	ModelZGolden
+new	2791	gollawiz Falcus Bryan1150
+new	22747	Guininhas
+new	21470	tomojin
+new	10833	Delmaru
+new	21484	Layton
+new	2725	valts
+new	5065	Brandovsky
+new	6136	wolfman2000
+new	3490	MGNS8M
+new	6409	AdeptTempest
+new	23910	suspect15
+new	15020	WCopeland
+new	1118	Blazekickn
+new	24007	Dimedime
+new	2689	Butternnife
+new	22351	FRAN269
+new	22403	FRAN269
+new	22307	Snow
+new	22331	Blazekickn
+new	22373	Bryan1150
+new	22525	ladynadiad
+new	18547	ladynadiad
+new	22404	FRAN269
+new	22363	Fridge
+new	22391	timenoe
+new	22451	timenoe
+new	22435	timenoe
+new	22440	timenoe
+new	22412	timenoe
+new	22455	timenoe
+new	22321	TheJediSonic
+new	22310	TheMysticalOne
+new	22374	Layton
+new	23789	Bilalscape12
+new	22392	Released
+new	22311	televandalist
+new	22326	LordAndrew
+new	22375	Maximdraco
+new	22621	pinguupinguu FRAN269
+new	22330	Cadaxar
+new	22379	Brandovsky
+new	22458	pinguupinguu FRAN269
+new	22376	MelodyAsh
+new	22325	Darkc0m
+new	22338	Shmelyoff
+new	22369	wolfman2000
+new	22319	LogicalFallacy
+new	22332	Dennis1543
+new	22358	Excessiveiser
+new	22382	malasdair
+new	22314	DoctorV
+new	22336	ZamArch
+new	22397	SporyTike
+new	22400	SporyTike
+new	22433	SporyTike
+new	22437	SporyTike
+new	22308	voiceofautumn
+new	22327	Etron
+new	1351	HolySanctum
+new	22323	Sines
+new	6504	Casually
+new	22377	MGNS8M
+new	20397	Sines
+new	20493	FBernkastelKues
+new	22405	BrunoKiko
+new	22331	Blazekickn
+new	22842	Cadaxar
+new	6949	Released
+new	19773	Hexadigital
+new	349	Bryan1150
+new	2537	kiwibasket
+new	3058	SubliminalSiren
+new	24081	TheMysticalOne
+new	16394	Psyrek
+new	2612	bjoehanna
+new	13161	Bryan1150 Sines
+new	11656	nietscape
+new	11375	AntonioFNN
+new	17685	zxmega
+new	1923	wolfman2000
+new	231	MiguelsoaresGames2
+new	2747	Mendil
+new	20619	Excessiveiser
+new	24045	Excessiveiser
+new	20545	Fridge
+new	24096	televandalist
+new	24082	Sines AuburnRDM
+new	21514	MelodyAsh
+new	12659	malasdair
+new	24119	Cerlayjux
+new	24083	AlexGatao
+new	11417	KillingDead6
+new	24054	AdeptTempest
+new	24122	Hexadigital
+new	24124	Cerlayjux
+new	3965	wolfman2000
+new	3213	Falcus
+new	23999	PaulGoesDEV
+new	24000	PaulGoesDEV
+new	20536	SubliminalSiren
+new	20749	PsyHunter29
+new	7222	MGNS8M
+new	20230	blendedsea
+new	23790	MaddieKittyTV
+new	13005	Hexadigital
+new	20531	zxmega
+new	22589	MaddieKittyTV
+new	23760	dericobanjo
+new	22572	Cadaxar
+new	21942	Casually
+new	19009	ZamArch
+new	5142	EulerMoises1981
+new	24138	Cerlayjux
+new	4771	wolfman2000
+new	114	Shroomer
+new	12091	PaulGoesDEV
+new	13454	MahBoi
+new	8985	Sines
+new	21138	Bryan1150
+new	3927	raniejogos
+new	14322	Jamiras
+new	22859	SlashTangent
+new	14183	Brandovsky
+new	11837	Tayadaoc
+new	11475	ladynadiad
+new	24164	SporyTike
+new	24168	SporyTike
+new	24165	SporyTike
+new	24139	wolfman2000
+
+
+
+rev	2399	W	GalacticSpear
+rev	6729	F	Bartis1989
+rev	473	W	GalacticSpear
+rev	11367	W	UnsolidSnake
+rev	11270	F	FBernkastelKues
+rev	515	C	deng
+rev	9998	W	JAM
+rev	20	W	DarknessZedzi
+rev	13937	C	Orph
+rev	2075	F	Schengo
+rev	10667	W	siouxerskate
+rev	1571	F	clymax
+rev	1485	W	StingX2
+rev	1277 	F	suspect15
+rev	5137	F	TheMysticalOne
+rev	14545	N	Ghal416
+rev	252	F	suspect15
+rev	764	N	TheMysticalOne
+rev	26	N	AfroRyan
+rev	11247	F	BahamutVoid
+rev	1453	F	suspect15
+rev	787	F	Layton
+rev	10024	N	SlashTangent
+rev	355	N	suspect15
+rev	534	N	Ghal416
+
+
+
+res	22905	Nevermond12	1640	1254
+res	5137	TheMysticalOne	634	475
+
+
+
+art	2863	I	IDarkReaderW	https://retroachievements.org/Images/067464.png	https://retroachievements.org/Images/070778.png
+art	14790	I	Butternnife	https://retroachievements.org/Images/049352.png	https://retroachievements.org/Images/070779.png
+art	22510	I	Achievess	https://retroachievements.org/Images/067939.png	https://retroachievements.org/Images/070780.png
+art	19030	I	NeonPug	https://retroachievements.org/Images/063388.png	https://retroachievements.org/Images/070781.png
+art	11734	I	NeonPug	https://retroachievements.org/Images/049003.png	https://retroachievements.org/Images/070782.png
+art	1449	I	jenettebaghead	https://retroachievements.org/Images/049611.png	https://retroachievements.org/Images/070783.png
+art	3215	I	jenettebaghead	https://retroachievements.org/Images/049616.png	https://retroachievements.org/Images/070784.png
+art	5527	I	jenettebaghead	https://retroachievements.org/Images/049612.png	https://retroachievements.org/Images/070785.png
+art	3822	I	jenettebaghead	https://retroachievements.org/Images/049789.png	https://retroachievements.org/Images/070786.png
+art	5553	I	jenettebaghead	https://retroachievements.org/Images/049932.png	https://retroachievements.org/Images/070787.png
+art	4663	I	jenettebaghead	https://retroachievements.org/Images/049978.png	https://retroachievements.org/Images/070788.png
+art	3216	I	jenettebaghead	https://retroachievements.org/Images/047588.png	https://retroachievements.org/Images/070789.png
+art	3528	I	jenettebaghead	https://retroachievements.org/Images/033366.png	https://retroachievements.org/Images/070790.png
+art	9994	I	jenettebaghead	https://retroachievements.org/Images/049692.png	https://retroachievements.org/Images/070791.png
+art	763	I	jenettebaghead	https://retroachievements.org/Images/049951.png	https://retroachievements.org/Images/070792.png
+art	15582	I	jenettebaghead	https://retroachievements.org/Images/062169.png	https://retroachievements.org/Images/070793.png
+art	1072	I	jenettebaghead	https://retroachievements.org/Images/057069.png	https://retroachievements.org/Images/070794.png
+art	1386	I	jenettebaghead	https://retroachievements.org/Images/041027.png	https://retroachievements.org/Images/070795.png
+art	341	I	jenettebaghead	https://retroachievements.org/Images/041023.png	https://retroachievements.org/Images/070796.png
+art	765	I	jenettebaghead	https://retroachievements.org/Images/049979.png	https://retroachievements.org/Images/070797.png
+art	11242	I	jenettebaghead	https://retroachievements.org/Images/068516.png	https://retroachievements.org/Images/070798.png
+art	11270	I	jenettebaghead	https://retroachievements.org/Images/049693.png	https://retroachievements.org/Images/070799.png
+art	11247	I	jenettebaghead	https://retroachievements.org/Images/049613.png	https://retroachievements.org/Images/070800.png
+art	2778	I	jenettebaghead	https://retroachievements.org/Images/056389.png	https://retroachievements.org/Images/070801.png
+art	5803	I	jenettebaghead	https://retroachievements.org/Images/056888.png	https://retroachievements.org/Images/070802.png
+art	2779	I	jenettebaghead	https://retroachievements.org/Images/056390.png	https://retroachievements.org/Images/070803.png
+art	11246	I	jenettebaghead	https://retroachievements.org/Images/056311.png	https://retroachievements.org/Images/070804.png
+art	519	I	jenettebaghead	https://retroachievements.org/Images/056313.png	https://retroachievements.org/Images/070805.png
+art	4958	I	jenettebaghead	https://retroachievements.org/Images/056314.png	https://retroachievements.org/Images/070806.png
+art	14435	I	jenettebaghead	https://retroachievements.org/Images/026656.png	https://retroachievements.org/Images/070807.png
+art	9790	I	Layton	https://retroachievements.org/Images/070454.png	https://retroachievements.org/Images/070808.png
+art	21	I	Achievess	https://retroachievements.org/Images/038195.png	https://retroachievements.org/Images/070809.png
+art	4874	I	Achievess	https://retroachievements.org/Images/025170.png	https://retroachievements.org/Images/070837.png
+art	20031	I	Achievess	https://retroachievements.org/Images/059429.png	https://retroachievements.org/Images/070838.png
+art	1351	I	HolySanctum	https://retroachievements.org/Images/070713.png	https://retroachievements.org/Images/070839.png
+art	19831	I	Jomojo	https://retroachievements.org/Images/070396.png	https://retroachievements.org/Images/070840.png
+art	16403	I	jenettebaghead	https://retroachievements.org/Images/061072.png	https://retroachievements.org/Images/071058.png
+art	5582	I	jenettebaghead	https://retroachievements.org/Images/068639.png	https://retroachievements.org/Images/071115.png
+art	17996	I	Soulsderfuchs	https://retroachievements.org/Images/049850.png	https://retroachievements.org/Images/071169.png
+art	1556	I	gollawiz	https://retroachievements.org/Images/026007.png	https://retroachievements.org/Images/071267.png
+art	16559	I	gollawiz	https://retroachievements.org/Images/036696.png	https://retroachievements.org/Images/071268.png
+art	4203	I	Achievess	https://retroachievements.org/Images/059257.png	https://retroachievements.org/Images/071269.png
+art	796	I	Achievess	https://retroachievements.org/Images/059519.png	https://retroachievements.org/Images/071270.png
+art	4204	I	Achievess	https://retroachievements.org/Images/059252.png	https://retroachievements.org/Images/071271.png
+art	12858	I	kmpers	https://retroachievements.org/Images/017542.png	https://retroachievements.org/Images/071272.png
+art	391	I	NeonPug	https://retroachievements.org/Images/025174.png	https://retroachievements.org/Images/071273.png
+art	18136	I	NeonPug	https://retroachievements.org/Images/054784.png	https://retroachievements.org/Images/071274.png
+art	1335	I	BahamutVoid	https://retroachievements.org/Images/053988.png	https://retroachievements.org/Images/071275.png
+art	184	I	NeonPug	https://retroachievements.org/Images/025173.png	https://retroachievements.org/Images/071350.png
+art	4009	I	LimeJinjo	https://retroachievements.org/Images/023364.png	https://retroachievements.org/Images/071351.png
+art	24006	I	GorbrushThreepwood	https://retroachievements.org/Images/071191.png	https://retroachievements.org/Images/071352.png
+art	2075	B	Schengo	https://user-images.githubusercontent.com/53956327/232657601-2be768c5-d47f-4622-8bcb-5f708907df56.png	https://user-images.githubusercontent.com/53956327/232657607-e5913aa0-9253-448e-87ff-0aa49b97dce6.png
+art	10000	I	FRAN269	https://retroachievements.org/Images/010480.png	https://retroachievements.org/Images/071353.png
+art	18724	I	FRAN269	https://retroachievements.org/Images/054577.png	https://retroachievements.org/Images/071354.png
+art	787	B	Layton	https://user-images.githubusercontent.com/53956327/232657605-42c11a39-538a-4179-8826-a37d14897c84.png	https://user-images.githubusercontent.com/53956327/232657610-c8b7086b-45cf-4a4f-95ef-c3121096a908.png
+art	2879	I	WateredWillow	https://retroachievements.org/Images/040154.png	https://retroachievements.org/Images/071384.png
+art	6388	I	WateredWillow	https://retroachievements.org/Images/019749.png	https://retroachievements.org/Images/071385.png
+art	3511	I	raniejogos	https://retroachievements.org/Images/049643.png	https://retroachievements.org/Images/071386.png
+art	14771	I	ErustDevilen	https://retroachievements.org/Images/028789.png	https://retroachievements.org/Images/071387.png
+art	2796	I	ErustDevilen	https://retroachievements.org/Images/005652.png	https://retroachievements.org/Images/071388.png
+art	14719	I	ToastLover	https://retroachievements.org/Images/043008.png	https://retroachievements.org/Images/071357.png
+art	9537	I	gollawiz	https://retroachievements.org/Images/060427.png	https://retroachievements.org/Images/071381.png
+art	9962	I	WateredWillow	https://retroachievements.org/Images/063481.png	https://retroachievements.org/Images/071498.png
+art	9240	I	WateredWillow	https://retroachievements.org/Images/043323.png	https://retroachievements.org/Images/071499.png
+art	1613	I	WateredWillow	https://retroachievements.org/Images/048281.png	https://retroachievements.org/Images/071500.png
+art	3696	I	WateredWillow	https://retroachievements.org/Images/023365.png	https://retroachievements.org/Images/071501.png
+art	5065	I	NeonPug	https://retroachievements.org/Images/070864.png	https://retroachievements.org/Images/071502.png
+art	2306	I	MelodyAsh	https://retroachievements.org/Images/024931.png	https://retroachievements.org/Images/071503.png
+art	5501	I	Ryudo	https://retroachievements.org/Images/063144.png	https://retroachievements.org/Images/071506.png
+art	1277	B	GorbrushThreepwood	https://user-images.githubusercontent.com/53956327/234138431-5114c2aa-22d8-4e1e-94ae-fb417f750e8d.png	https://user-images.githubusercontent.com/53956327/234138438-8f5c0e21-beb9-43ca-b380-612d1b85ebbc.png
+art	7821	I	QuinnWasTaken	https://retroachievements.org/Images/027039.png	https://retroachievements.org/Images/071443.png
+art	5137	I	IDarkReaderW	https://retroachievements.org/Images/070500.png	https://retroachievements.org/Images/071507.png
+art	5137	B	IDarkReaderW	https://user-images.githubusercontent.com/53956327/234138435-e050f10c-57cf-4587-82a5-79a5ddaa8e8a.png	https://user-images.githubusercontent.com/53956327/234138439-1fad6799-04f6-4b29-926b-0983c791e28b.png
+art	1913	I	GorbrushThreepwood	https://retroachievements.org/Images/008563.png	https://retroachievements.org/Images/071585.png
+art	1627	I	GorbrushThreepwood	https://retroachievements.org/Images/011853.png	https://retroachievements.org/Images/071671.png
+art	1685	I	GorbrushThreepwood	https://retroachievements.org/Images/048143.png	https://retroachievements.org/Images/071672.png
+art	2361	I	GorbrushThreepwood	https://retroachievements.org/Images/047082.png	https://retroachievements.org/Images/071673.png
+art	11410	I	GorbrushThreepwood	https://retroachievements.org/Images/019432.png	https://retroachievements.org/Images/071674.png
+art	18684	I	NeonPug	https://retroachievements.org/Images/054005.png	https://retroachievements.org/Images/071840.png
+art	10328	I	NeonPug	https://retroachievements.org/Images/064493.png	https://retroachievements.org/Images/071841.png
+art	10392	I	NeonPug	https://retroachievements.org/Images/016629.png	https://retroachievements.org/Images/071842.png
+art	92	I	GorbrushThreepwood	https://retroachievements.org/Images/022403.png	https://retroachievements.org/Images/071843.png
+art	142	I	GorbrushThreepwood	https://retroachievements.org/Images/024986.png	https://retroachievements.org/Images/071844.png
+art	22474	I	NeonPug	https://retroachievements.org/Images/067838.png	https://retroachievements.org/Images/071845.png
+art	3700	I	GorbrushThreepwood	https://retroachievements.org/Images/050276.png	https://retroachievements.org/Images/071846.png
+art	4647	I	NeonPug	https://retroachievements.org/Images/061351.png	https://retroachievements.org/Images/071847.png
+art	16716	I	NeonPug	https://retroachievements.org/Images/051469.png	https://retroachievements.org/Images/071848.png
+art	351	I	NeonPug	https://retroachievements.org/Images/058717.png	https://retroachievements.org/Images/071849.png
+art	1472	I	NeonPug	https://retroachievements.org/Images/023369.png	https://retroachievements.org/Images/071850.png
+art	4840	B	Layton	https://user-images.githubusercontent.com/53956327/235496493-2d34739d-2658-4619-bcb4-b170846e8232.png	https://user-images.githubusercontent.com/53956327/235496500-fb86bdba-94cd-4ce2-b0ef-e6524fd8f4fa.png
+art	4346	I	AlbertAK	https://retroachievements.org/Images/064698.png	https://retroachievements.org/Images/071851.png
+art	14672	I	NeonPug	https://retroachievements.org/Images/027605.png	https://retroachievements.org/Images/071852.png
+art	2473	I	WateredWillow	https://retroachievements.org/Images/036403.png	https://retroachievements.org/Images/071853.png
+art	10135	I	NeonPug	https://retroachievements.org/Images/041731.png	https://retroachievements.org/Images/071854.png
+art	5173	I	GorbrushThreepwood	https://retroachievements.org/Images/045042.png	https://retroachievements.org/Images/071893.png
+art	5173	B	GorbrushThreepwood	https://user-images.githubusercontent.com/53956327/235496495-d2bb1fd4-a2a1-47bc-a702-e8a4c73b12aa.png	https://user-images.githubusercontent.com/53956327/235496503-3a1944c6-51c3-4e5f-9c92-529ede36bdd4.png
+art	340	I	Deltttaa	https://retroachievements.org/Images/010178.png	https://retroachievements.org/Images/071911.png
+art	9616	I	Lunarr	https://retroachievements.org/Images/027164.png	https://retroachievements.org/Images/071894.png
+art	4073	I	Lunarr	https://retroachievements.org/Images/062341.png	https://retroachievements.org/Images/072182.png
+art	762	B	ladynadiad	https://media.retroachievements.org/Badge/241411.png	https://user-images.githubusercontent.com/53956327/235496506-3cd51a74-0d5b-4818-9df3-2d66d1a3c091.png
+art	3062	I	Empovyle	https://retroachievements.org/Images/062566.png	https://retroachievements.org/Images/071903.png
+art	9594	I	Empovyle	https://retroachievements.org/Images/039334.png	https://retroachievements.org/Images/071904.png
+art	6818	B	Achievess	https://user-images.githubusercontent.com/53956327/235496498-1010ffea-2051-4eb8-a7f1-f2b455e661f3.png	https://user-images.githubusercontent.com/53956327/235496508-239d60ff-d24c-4d62-be5e-e0364a9fb9c1.png
+art	6818	I	Achievess	https://retroachievements.org/Images/044668.png	https://retroachievements.org/Images/071905.png
+art	20586	I	NeonPug	https://retroachievements.org/Images/070511.png	https://retroachievements.org/Images/071906.png
+art	19198	I	Lunarr	https://retroachievements.org/Images/065897.png	https://retroachievements.org/Images/071981.png
+art	17841	B	WanderingHeiho	https://user-images.githubusercontent.com/53956327/235496499-d3bd1d29-253a-4c59-8087-c2a3ea805e20.png	https://user-images.githubusercontent.com/53956327/235496509-f978f855-2b2b-416a-8daf-9669fd8934da.png
+art	6312	B	Achievess	https://user-images.githubusercontent.com/53956327/235497971-8fde2528-f480-4f7b-997d-755652ed1f40.png	https://user-images.githubusercontent.com/53956327/235497981-6f4cf281-ddb5-4de2-811f-509240ee1e5a.png
+art	4236	B	Achievess	https://user-images.githubusercontent.com/53956327/235497976-5b89c190-4730-4a2a-9da2-4df5796c61d5.png	https://user-images.githubusercontent.com/53956327/235497982-8136fb04-725b-4a69-bb81-bfe9dc3c5268.png
+art	12138	I	TheJediSonic	https://retroachievements.org/Images/043430.png	https://retroachievements.org/Images/071982.png
+art	14262	I	Lunarr	https://retroachievements.org/Images/062956.png	https://retroachievements.org/Images/072032.png
+art	1834	I	Ryudo	https://retroachievements.org/Images/012752.png	https://retroachievements.org/Images/072033.png
+art	15614	I	Deltttaa	https://retroachievements.org/Images/029997.png	https://retroachievements.org/Images/072034.png
+art	13432	I	Empovyle	https://retroachievements.org/Images/020534.png	https://retroachievements.org/Images/072180.png
+art	1658	I	Raichi	https://retroachievements.org/Images/066617.png	https://retroachievements.org/Images/072184.png
+art	4073	I	ErustDevilen	https://retroachievements.org/Images/071895.png	https://retroachievements.org/Images/072182.png
+art	14686	I	Raichi	https://retroachievements.org/Images/027713.png	https://retroachievements.org/Images/072183.png
+art	4198	B	Shaoden	https://github.com/RetroAchievements/RANews/assets/53956327/e5099ccc-de4b-410a-bf43-d2caad176dfd	https://github.com/RetroAchievements/RANews/assets/53956327/6889943f-abb1-4000-9329-9313bee88754]
+art	762	B	GorbrushThreepwood	https://github.com/RetroAchievements/RANews/assets/53956327/dadde8e1-c2e8-4a32-9810-47caff11fb59	https://github.com/RetroAchievements/RANews/assets/53956327/b758d5d8-0be8-4817-a6e4-a864288c98fe]
+art	11951	I	Raichi	https://retroachievements.org/Images/064971.png	https://retroachievements.org/Images/072185.png
+art	1857	I	Alarju	https://retroachievements.org/Images/003563.png	https://retroachievements.org/Images/072186.png
+art	750	I	Raichi	https://retroachievements.org/Images/046206.png	https://retroachievements.org/Images/072187.png
+art	751	I	Raichi	https://retroachievements.org/Images/001725.png	https://retroachievements.org/Images/072188.png
+art	13916	I	Achievess	https://retroachievements.org/Images/045249.png	https://retroachievements.org/Images/072189.png
+art	12875	I	NeonPug	https://retroachievements.org/Images/039109.png	https://retroachievements.org/Images/072190.png
+art	15985	I	QuinnWasTaken	https://retroachievements.org/Images/034436.png	https://retroachievements.org/Images/072191.png
+art	2327	I	QuinnWasTaken	https://retroachievements.org/Images/026968.png	https://retroachievements.org/Images/072192.png
+art	1268	I	QuinnWasTaken	https://retroachievements.org/Images/009380.png	https://retroachievements.org/Images/072442.png
+art	1233	I	QuinnWasTaken	https://retroachievements.org/Images/002089.png	https://retroachievements.org/Images/072194.png
+art	81	I	QuinnWasTaken	https://retroachievements.org/Images/016759.png	https://retroachievements.org/Images/072195.png
+art	13906	I	WanderingHeiho	https://retroachievements.org/Images/041717.png	https://retroachievements.org/Images/072160.png
+art	6076	I	WanderingHeiho	https://retroachievements.org/Images/015412.png	https://retroachievements.org/Images/072161.png
+art	62	I	WanderingHeiho	https://retroachievements.org/Images/011733.png	https://retroachievements.org/Images/072162.png
+art	3311	I	WanderingHeiho	https://retroachievements.org/Images/010455.png	https://retroachievements.org/Images/072133.png
+art	4650	I	WanderingHeiho	https://retroachievements.org/Images/008373.png	https://retroachievements.org/Images/072132.png
+art	1921	I	WanderingHeiho	https://retroachievements.org/Images/001922.png	https://retroachievements.org/Images/072130.png
+art	12765	I	WanderingHeiho	https://retroachievements.org/Images/034226.png	https://retroachievements.org/Images/072094.png
+art	4714	I	QuinnWasTaken	https://retroachievements.org/Images/003909.png	https://retroachievements.org/Images/072196.png
+art	1309	I	QuinnWasTaken	https://retroachievements.org/Images/009687.png	https://retroachievements.org/Images/072197.png
+art	1452	I	QuinnWasTaken	https://retroachievements.org/Images/020323.png	https://retroachievements.org/Images/072198.png
+art	225	I	QuinnWasTaken	https://retroachievements.org/Images/001801.png	https://retroachievements.org/Images/072199.png
+art	2039	I	QuinnWasTaken	https://retroachievements.org/Images/019614.png	https://retroachievements.org/Images/072200.png
+art	12737	I	QuinnWasTaken	https://retroachievements.org/Images/016674.png	https://retroachievements.org/Images/072203.png
