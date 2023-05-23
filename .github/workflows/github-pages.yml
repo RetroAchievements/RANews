@@ -13,4 +13,8 @@ jobs:
       - uses: helaili/jekyll-action@2.0.3
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pre_build_commands: git config --global http.version HTTP/1.1; apk fetch git-lfs;
+          target_branch: 'gh-pages'
 
