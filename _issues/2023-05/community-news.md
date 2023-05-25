@@ -7,8 +7,66 @@ title: Community News
 toc: true
 ---
 
+## House Cleaning
+Welcome to House Cleaning! The event with the aim to clean up the house and get some tickets resolved.
+The event is open to both developers and players, and players can help out a lot by providing saves which can be submitted to the {% rauserpic TicketHounds %} account.
+
+You can find out more about the event here: [https://retroachievements.org/viewtopic.php?t=21503](https://retroachievements.org/viewtopic.php?t=21503)
+
+On the initial month we were able to build up a nice supply of saves as a result of these being submitted by players and also knock out around 100 tickets. As more players and developers get involved we can then increase this even further to make every set as great as they can be!
+
+Top contributors for month 1 below split into a player and developer category.
+
+**Players:**  
+1: {% rauserpic Sutarion %} - 26  
+2: {% rauserpic genesislover %} - 18
+
+**Top 5 Developers:**  
+1: {% rauserpic ladynadiad %} - 22  
+2: {% rauserpic JAM %} - 17  
+3: {% rauserpic Searo %} - 14  
+4: {% rauserpic SlashTangent %} - 13  
+5: {% rauserpic xnaivx %} - 10  
+5: {% rauserpic Bilalscape12 %} - 10  
+5: {% rauserpic kmpers %} - 10
+
+## Jr Developer Graduates
+
+| Graduate                     | Game                                                                                                                                                                                                                                                                    |
+| :--------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| {% rauserpic AfroRyan %}     | <a class="gameicon-link" href="https://retroachievements.org/game/5255" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/069964.png" alt=""> <span>Sonic Pinball Party (Game Boy Advance)</span></a>               |
+| {% rauserpic dericobanjo %}  | <a class="gameicon-link" href="https://retroachievements.org/game/22344" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/069813.png" alt=""> <span>~Hack~ Gamma64 (Nintendo 64)</span></a>                        |
+| {% rauserpic Casually %}     | <a class="gameicon-link" href="https://retroachievements.org/game/503" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/071306.png" alt=""> <span>Tetris Worlds (Game Boy Advance)</span></a>                      |
+| {% rauserpic LazyFecks %}    | <a class="gameicon-link" href="https://retroachievements.org/game/11996" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/069898.png" alt=""> <span>Buster Bros. \| Pang (Arcade)</span></a>                       |
+| {% rauserpic AdeptTempest %} | <a class="gameicon-link" href="https://retroachievements.org/game/6409" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/070528.png" alt=""> <span>Danny Phantom: The Ultimate Enemy (Game Boy Advance)</span></a> |
+| {% rauserpic WCopeland %}    | <a class="gameicon-link" href="https://retroachievements.org/game/15020" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/070479.png" alt=""> <span>Defender (Arcade)</span></a>                                   |
+| {% rauserpic Hexadigital %}  | <a class="gameicon-link" href="https://retroachievements.org/game/19773" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/069120.png" alt=""> <span>Hidden Objects: Mystery Stories (Nintendo DS)</span></a>       |
+| {% rauserpic MahBoi %}       | <a class="gameicon-link" href="https://retroachievements.org/game/13454" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/069871.png" alt=""> <span>Langrisser II (Mega Drive)</span></a>                          |
+
+**Current Stats**: 19 Developers have graduated in 2023 so far
+
+## RA Minecraft
+RetroAchievement now has an official Minecraft server where you build anything you want in the most popular sandbox game ever created.
+
+The server can be accessed at: `mc.retroachievements.org:25588`
+
+If you would like access to the server please contact:<br>
+{% rauserpic Scott %}, {% rauserpic SporyTike %}, {% rauserpic luchaos %} or {% rauserpic BatFastardJordy %}
+
+## Developer Compliance
+
+Subsets Approved
+* [Pokemon White Version 2 [Subset - Challenge Mode]](https://retroachievements.org/game/24180)
+* [Suikoden Tierkreis [Subset - Master Trader]](https://retroachievements.org/game/24080)
+* [Mario Tennis](https://retroachievements.org/game/10024) [Subset - Full Exibition Wins]
+
+Demoted Achievements
+* [Wrong button!](https://retroachievements.org/achievement/61872)
+* [This is not Donkey Kong Country](https://retroachievements.org/achievement/61720)
+
 ## Site Updates
-### RAWeb 2.12.0 has been released
+
+### RAWeb v2.12.0
 - Improved site award reordering, including drag/drop by [@wescopeland](https://github.com/wescopeland) in [#1439](https://github.com/RetroAchievements/RAWeb/pull/1439)
 - System icons in main menu and game lists by [@oddgoo](https://github.com/oddgoo) in [#1432](https://github.com/RetroAchievements/RAWeb/pull/1432)
 - Allow devs to edit code notes on the website by [@wescopeland](https://github.com/wescopeland) in [#1440](https://github.com/RetroAchievements/RAWeb/pull/1440)
@@ -29,7 +87,9 @@ toc: true
 - Fix best days query to not include demoted achievements by [@Jamiras](https://github.com/Jamiras) in [#1455](https://github.com/RetroAchievements/RAWeb/pull/1455)
 - Fix rank display for first user when viewing daily ranks by [@Jamiras](https://github.com/Jamiras) in [#1445](https://github.com/RetroAchievements/RAWeb/pull/1445)
 
-### RAWeb 2.13.0 has been released
+[Full Changelog](https://github.com/RetroAchievements/RAWeb/releases/tag/2.12.0)
+
+### RAWeb v2.13.0
 - Site URLs pasted into forums will now automatically be converted into embeds when possible by [@wescopeland](https://github.com/wescopeland) in [#1502](https://github.com/RetroAchievements/RAWeb/pull/1502)
 - Links in new comments notifications should now take you directly to the new comment by [@Jamiras](https://github.com/Jamiras) in [#1491](https://github.com/RetroAchievements/RAWeb/pull/1491)
 - Added "Hide completed sets" checkbox to Completion Progress widget by [@wescopeland](https://github.com/wescopeland) in [#1477](https://github.com/RetroAchievements/RAWeb/pull/1477)
@@ -52,8 +112,11 @@ toc: true
 - Fix Closed By appearing in tooltips for tickets in Request status by [@wescopeland](https://github.com/wescopeland) in [#1497](https://github.com/RetroAchievements/RAWeb/pull/1497)
 - Fix unique achievement tickets count for resubmitted tickets by [@Tsearo](https://github.com/Tsearo) in [#1510](https://github.com/RetroAchievements/RAWeb/pull/1510)
 
+[Full Changelog](https://github.com/RetroAchievements/RAWeb/releases/tag/2.13.0)
+
 ## RATools Updates
-###  RATools 1.12.0 has been released
+
+### RATools v1.12.0
 - Only show first line of code notes in achievement/leaderboard views
 - New dialog to preview list of achievements as they would appear in the emulator
 - Ability to export list of achievements from preview dialog
@@ -68,20 +131,26 @@ toc: true
 - Fix exception when tally target is greater than 0x7FFFFFFF
 - Fix exception generating script for game without name
 
-## Standalone Updates
-### RAProject64 1.0 has been released
-- This release is primarily to upgrade to new APIs so we can deprecate the old ones. 
-It also contains~5 years of upstream changes, but I didn't notice anything in the commits that seems worth mentioning, and there's no explicit changelog to reference. 
-- I recommend using a separate install/backing up your existing install. I've noticed that going back and forth between versions is kind of clunky. Additionally, save files are now stored in per-game subdirectories, so you'll have to move them to get it to recognize them (load the game in the new version first to have it generate the subdirectory, exit out, then copy the files over). I did notice that a portion of save states were not be compatible (I had about 85% compatibility for those states that I tested), but the eeprom/mempak data does seem to be fully compatible.
+[Full Changelog](https://github.com/Jamiras/RATools/releases/tag/v1.12.0)
 
-### RAppleWin 1.3 has been released
-- Upgrades from AppleWin 1.30.5 to 1.30.14.1, and adds new frame advance functionality via Shift+Pause
+## Emulator Updates
 
-### RAQuasi88 1.2 has been released
-- This release is only to upgrade to new APIs so we can deprecate the old ones. The upstream emulator hasn't been touched since the last release of RAQuasi88.
+### RAProject64 v1.0
+- Reimplement RAIntegration using 27 Mar 2023 upstream code
+- Upgrade to newer APIs for version negotiation and overlay
 
+[Full Changelog](https://github.com/RetroAchievements/RAProject64/releases/tag/RAProject64.1.0.0)
 
+### RAppleWin v1.3
+- Upgrade from AppleWin 1.30.5 to [1.30.14.1](https://github.com/AppleWin/AppleWin/blob/5e06ddaa948d03536a9d8c09a8683d2937600b0f/bin/History.txt)
+- Add frame advance via Shift+Pause
 
+[Full Changelog](https://github.com/RetroAchievements/AppleWin/releases/tag/RAppleWin.1.3.0)
+
+### RAQuasi88 v1.2
+- Upgrade to newer APIs for version negotiation and overlay
+
+[Full Changelog](https://github.com/RetroAchievements/quasi88/releases/tag/RAQuasi88.1.2.0)
 
 ## DevQuest
 

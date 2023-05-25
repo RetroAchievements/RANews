@@ -13,7 +13,7 @@ Welcome to RANews, your #1 source for everything RetroAchievements. In this issu
 
 Cover by:
 <div class="bingo-winner-small">
-    {% rauserpic Nydaxn %}
+    {% rauserpic KingS1zzle %}
 </div>
 
 <br clear="right"/>
@@ -34,7 +34,7 @@ If you're a fan of video games and the history behind them, you won't want to mi
 Get ready to dive into the numbers and see how you stack up against the rest of the RetroAchievements community. In this section, we'll be looking at all sorts of stats, including achievements created, most played games, mastery awards, leaderboards, and more. Whether you're a developer or not, you're sure to find something interesting here.
 
 
-## [---Milestones](./milestones.html)
+## [Milestones](./milestones.html)
 In this section, we celebrate the user milestones reached this past month. We showcase user milestones ranging from total points to leaderboards joined, as well as developer milestones covering various aspects of the typical set developer. Whether you're a seasoned veteran or a newcomer to the site, we hope these highlights inspire you to push your own boundaries, achieve new goals and reach new milestones.
 
 
@@ -42,12 +42,12 @@ In this section, we celebrate the user milestones reached this past month. We sh
 The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!
 
 
-## [---Community News](./community-news.html)
+## [Community News](./community-news.html)
 Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
 
 
 ## [RAPodcast](./rapodcast.html) <!-- Update each issue -->
-Join the RetroAchievements community and listen to the latest RAPodcast, where our host {% rauser TimeCrush %} talks with {% rauser MaxMilyin %} to dive inot the into the captivating world of video game streaming, exploring the rise of gaming as a industry and the challenges faced by aspiring streamers.
+Join the RetroAchievements community and listen to the latest RAPodcast, where our host {% rauser TimeCrush %} talks with {% rauser MaxMilyin %} to dive into the into the captivating world of video game streaming, exploring the rise of gaming as a industry and the challenges faced by aspiring streamers.
 
 
 ## [RAScript Tutorials](./rascript.html) <!-- Update each issue -->
@@ -86,7 +86,7 @@ Discover the latest updates to achievement badges and set icons. From fresh badg
 Wondering who the top players on RetroAchievements are, and how they've been performing over the past month? In this section we take a deep dive into the top 300 players on the site, analyzing their progress and point totals over the past month. From the rise of new challengers to the continued dominance of top players, this section gives you a comprehensive overview of the RetroAchievements points leaderboard.
 
 
-## [---RAnniversaries](./ranniversaries.html)
+## [RAnniversaries](./ranniversaries.html)
 Joining RetroAchievements is a major milestone for gamers and achievement developers, and we love celebrating those anniversaries. In this section, we'll recognize the achievements of our dedicated members by highlighting their years of service to the site. From new members to veterans, we'll showcase everyone who's reached a new anniversary milestone. Join us in celebrating our amazing community, and the hard work and dedication that makes RetroAchievements the best achievement hunting community out there.
 
 

@@ -78,33 +78,33 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 
 ## Notable Milestones
 
-<!-- ### 500 Site Awards Earned
+### 500 Mastery Awards
 
-|{% rauserpic MaddieKittyTV %}|||
+|{% rauserpic Pixelach %}|{% rauserpic NEOMAR %}||
 
-### 400 Site Awards Earned
+### 500 Mastery Awards
 
-|{% rauserpic Shootzy %}|{% rauserpic Retrokaiser %}|{% rauserpic Nevermond12 %}|
-|{% rauserpic donutweegee %}|||
+|{% rauserpic Searo %}|{% rauserpic Amir96lx %}|{% rauserpic AllKindsOfJames %}|
 
-### 300 Site Awards Earned
+### 500 Mastery Awards
 
-|{% rauserpic WanderingHeiho %}|{% rauserpic bonecrusher1022 %}|{% rauserpic Amir96lx %}|
+|{% rauserpic Valenstein %}|{% rauserpic Tvols1480 %}|{% rauserpic marcelosnp %}|
+|{% rauserpic danibodom %}|||
 
-### 200 Site Awards Earned
+### 500 Mastery Awards
 
-|{% rauserpic yoshter2011 %}|{% rauserpic Pampa50 %}|{% rauserpic mudrik %}|
-|{% rauserpic MiningMario %}|{% rauserpic Kayesay %}|{% rauserpic Grahamtams %}|
-|{% rauserpic Etron %}|{% rauserpic CerinianShadowGaming %}|{% rauserpic Advent %}|
+|{% rauserpic Waishler %}|{% rauserpic Sutarion %}|{% rauserpic Sef %}|
+|{% rauserpic Mosk59 %}|{% rauserpic MarioKness %}|{% rauserpic Kofigao %}|
 
-### 100 Site Awards Earned
+### 500 Mastery Awards
 
-|{% rauserpic zxmega %}|{% rauserpic zanyeyedzach %}|{% rauserpic vintageclassicgamer %}|
-|{% rauserpic TneraOgeid %}|{% rauserpic sludgemastic %}|{% rauserpic seilahehe %}|
-|{% rauserpic pulsexp %}|{% rauserpic MuckPie %}|{% rauserpic MrBird %}|
-|{% rauserpic JigokuNoBanken %}|{% rauserpic Exoddis %}|{% rauserpic Enagonius %}|
-|{% rauserpic Dogmeatman %}|{% rauserpic Doggy227 %}|{% rauserpic Dehly %}|
-|{% rauserpic Bananas731 %}||| -->
+|{% rauserpic sulpemago %}|{% rauserpic SoloConde98 %}|{% rauserpic Ryudo %}|
+|{% rauserpic Released %}|{% rauserpic rbloodriver %}|{% rauserpic mefaun %}|
+|{% rauserpic Kyluya %}|{% rauserpic KnockerKrazy %}|{% rauserpic Kaizard %}|
+|{% rauserpic Jenettebaghead %}|{% rauserpic Jaeger42 %}|{% rauserpic IzaNamiZX %}|
+|{% rauserpic Guininhas %}|{% rauserpic ferminius %}|{% rauserpic Excessiveiser %}|
+|{% rauserpic dtkiller %}|{% rauserpic Cadaxar %}|{% rauserpic Andrevus %}|
+|{% rauserpic AkumaTNT %}|||
 
 ## Category Rankings
 
