@@ -73,7 +73,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
     <tr><td><div style="display: flex; align-items: center;"><img src="../../img/systems/virtual-boy.png" alt="" style="max-width: 50%; margin-right: 1em;"><div style="flex: 1;">Virtual Boy</div></div></td>        <td>{% rauserpic Grahamtams %}<br>{% rauserpic Jungon %}</td>   <td>15</td><td><!-- 28  --></td></tr>
     <tr><td><div style="display: flex; align-items: center;"><img src="../../img/systems/wasm-4.png" alt="" style="max-width: 50%; margin-right: 1em;"><div style="flex: 1;">WASM-4</div></div></td>                  <td>{% rauserpic Amir96lx %}<br>{% rauserpic FlyssWhizzle %}<br>{% rauserpic GregHouse007 %}</td><td>40</td><td><!-- 72  --></td></tr>
     <tr><td><div style="display: flex; align-items: center;"><img src="../../img/systems/supervision.png" alt="" style="max-width: 50%; margin-right: 1em;"><div style="flex: 1;">Watara Supervision</div></div></td> <td>{% rauserpic AzuchiAkeshi %}</td>                           <td>47</td><td><!-- 63  --></td></tr>
-    <tr><td><div style="display: flex; align-items: center;"><img src="../../img/systems/wonderswan.png" alt="" style="max-width: 50%; margin-right: 1em;"><div style="flex: 1;">WonderSwan</div></div></td>          <td>{% rauserpic Nanashi %}</td>                                <td>3</td><td><!-- 53  --></td></tr>
+    <tr><td><div style="display: flex; align-items: center;"><img src="../../img/systems/wonderswan.png" alt="" style="max-width: 50%; margin-right: 1em;"><div style="flex: 1;">WonderSwan</div></div></td>          <td>{% rauserpic Nanashi %}</td>                                <td>5</td><td><!-- 53  --></td></tr>
 </table>
 
 ## Notable Milestones

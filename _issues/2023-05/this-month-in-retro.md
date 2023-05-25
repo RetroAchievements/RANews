@@ -74,9 +74,9 @@ The achievement set comes with a total of 92 achievements, focusing on a playthr
 
 Wow, what a great line-up of games we have so far! It would be a shame if there was an infamous game that may ruin the streak... right?
 
-| Game                                                                                       |
-| ------------------------------------------------------------------------------------------ |
-| ![](https://retroachievements.org/Images/040255.png) [Superman: The New Superman Aventures | Superman 64 (Nintendo 64)]( https://retroachievements.org/game/10310) |
+| Game                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://retroachievements.org/Images/040255.png) [Superman: The New Superman Aventures \| Superman 64 (Nintendo 64)]( https://retroachievements.org/game/10310) |
 
 |                   |                                                               |
 | ----------------- | ------------------------------------------------------------- |
