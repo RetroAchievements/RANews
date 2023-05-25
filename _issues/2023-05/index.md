@@ -47,7 +47,7 @@ Stay up-to-date with the latest news in the RetroAchievements community with our
 
 
 ## [RAPodcast](./rapodcast.html) <!-- Update each issue -->
-Join the RetroAchievements community and listen to the latest RAPodcast, where our host {% rauser TimeCrush %} talks with {% rauser MaxMilyin %} to dive into the into the captivating world of video game streaming, exploring the rise of gaming as a industry and the challenges faced by aspiring streamers.
+Join the RetroAchievements community and listen to the latest RAPodcast, where our host {% rauser TimeCrush %} talks with {% rauser MaxMilyin %} to dive into the captivating world of video game streaming, exploring the rise of gaming as a industry and the challenges faced by aspiring streamers.
 
 
 ## [RAScript Tutorials](./rascript.html) <!-- Update each issue -->
