@@ -2,7 +2,7 @@
 issue: 2023-05
 order: 202305-56
 layout: article
-author: RANews
+author: pinguupinguu
 category: RAnniversaries
 title: RAnniversaries
 toc: true

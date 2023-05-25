@@ -22,7 +22,7 @@ category: Spot The Difference
 On her journey to Grado, Eirika was attacked by strong enemy forces and lost her life in battle. Because of Renais' deep sorrow, one of the gods has decided to rewind the time and give her another chance of encounter. While most of her memories seem to be the same, some things have changed. Can you find all 10 Differences?
 
 <p align="center">
-  <img src="img/Fun/SpotTheDifferenceTemp.png" />
+  <img src="img/Fun/SpotTheDifference.png" />
 </p>
 
 ## About the Game
