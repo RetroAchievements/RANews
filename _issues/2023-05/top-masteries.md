@@ -82,21 +82,21 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 
 |{% rauserpic Pixelach %}|{% rauserpic NEOMAR %}||
 
-### 500 Mastery Awards
+### 400 Mastery Awards
 
 |{% rauserpic Searo %}|{% rauserpic Amir96lx %}|{% rauserpic AllKindsOfJames %}|
 
-### 500 Mastery Awards
+### 300 Mastery Awards
 
 |{% rauserpic Valenstein %}|{% rauserpic Tvols1480 %}|{% rauserpic marcelosnp %}|
 |{% rauserpic danibodom %}|||
 
-### 500 Mastery Awards
+### 200 Mastery Awards
 
 |{% rauserpic Waishler %}|{% rauserpic Sutarion %}|{% rauserpic Sef %}|
 |{% rauserpic Mosk59 %}|{% rauserpic MarioKness %}|{% rauserpic Kofigao %}|
 
-### 500 Mastery Awards
+### 100 Mastery Awards
 
 |{% rauserpic sulpemago %}|{% rauserpic SoloConde98 %}|{% rauserpic Ryudo %}|
 |{% rauserpic Released %}|{% rauserpic rbloodriver %}|{% rauserpic mefaun %}|

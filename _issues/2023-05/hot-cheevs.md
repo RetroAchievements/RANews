@@ -46,6 +46,12 @@ toc: true
 <a href="#toc">:top:</a>
 
 
+### Atari Lynx
+
+| Game                                                                                                                                                                                                                                 | Author                  | Genre   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | ------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/11475" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/071337.png" alt="Pinball Jam"> <span>Pinball Jam</span></a> | {% rauser ladynadiad %} | Pinball |
+
 ### Dreamcast
 
 
@@ -165,6 +171,13 @@ toc: true
 | <a class="gameicon-link" href="https://retroachievements.org/game/24082" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/071442.png" alt="~Homebrew~ Canyon Racer"> <span>~Homebrew~ Canyon Racer</span></a> | {% rauser Sines %} {% rauser AuburnRDM %} | Endless Runner |
 
 <a href="#toc">:top:</a>
+
+
+### MSX
+
+| Game                                                                                                                                                                                                                           | Author                  | Genre      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | ---------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/22622" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/069673.png" alt="Silviana"> <span>Silviana</span></a> | {% rauser ladynadiad %} | Action RPG |
 
 
 ### NES
