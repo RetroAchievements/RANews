@@ -18,7 +18,7 @@ Wish This Set is a showcase for our passionate community members to write about 
 * Write-up by: {% rauserpic Sines %}
 
 <figure style="text-align:center;float:right;width:50%;height:50%">
-<img src="http://www.hardcoregaming101.net/wp-content/uploads/2019/01/leynos2-9.png">
+<img src="https://i.imgur.com/MGgID1h.png">
 <figcaption></figcaption>
 </figure>
 

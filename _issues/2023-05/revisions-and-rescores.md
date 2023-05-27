@@ -132,10 +132,10 @@ toc: true
 ### SNES
 
 
-| Game                                                                                                                                                                                                                                                                                                               | Revision Author            | Genre            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | ---------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/473" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/020968.png" alt="Donkey Kong Country 3: Dixie Kong's Double Trouble!"> <span>Donkey Kong Country 3: Dixie Kong's Double Trouble!</span></a> | {% rauser GalacticSpear %} | 2D Platforming   |
-| <a class="gameicon-link" href="https://retroachievements.org/game/355" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059119.png" alt="Legend of Zelda, The: A Link to the Past"> <span>Legend of Zelda, The: A Link to the Past</span></a>                       | {% rauser suspect15 %}     | Action-Adventure |
+| Game                                                                                                                                                                                                                                                                                                               | Revision Author                                                           | Genre            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ---------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/473" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/020968.png" alt="Donkey Kong Country 3: Dixie Kong's Double Trouble!"> <span>Donkey Kong Country 3: Dixie Kong's Double Trouble!</span></a> | {% rauser GalacticSpear %}                                                | 2D Platforming   |
+| <a class="gameicon-link" href="https://retroachievements.org/game/355" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059119.png" alt="Legend of Zelda, The: A Link to the Past"> <span>Legend of Zelda, The: A Link to the Past</span></a>                       | {% rauser JAM %}<br>{% rauser suspect15 %}<br>{% rauser TheMysticalOne %} | Action-Adventure |
 
 <a href="#toc">:top:</a>
 
@@ -185,9 +185,9 @@ toc: true
 ### Nintendo 64
 
 
-| Game                                                                                                                                                                                                                                                                                     | Rescored By              | Points Before | Points After |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | :-----------: | :----------: |
-| <a class="gameicon-link" href="https://retroachievements.org/game/22905" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/069887.png" alt="Super Mario 64 [Subset - Lazy Lakitu]"> <span>Super Mario 64 [Subset - Lazy Lakitu]</span></a> | {% rauser Nevermond12 %} |     1640      |     1254     |
+| Game                                                                                                                                                                                                                                                                                     | Rescored By               | Points Before | Points After |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | :-----------: | :----------: |
+| <a class="gameicon-link" href="https://retroachievements.org/game/22905" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/069887.png" alt="Super Mario 64 [Subset - Lazy Lakitu]"> <span>Super Mario 64 [Subset - Lazy Lakitu]</span></a> | {% rauser DarkyAndreas %} |     1640      |     1254     |
 
 <a href="#toc">:top:</a>
 

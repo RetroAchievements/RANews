@@ -104,9 +104,9 @@ toc: true
 ### Game Gear
 
 
-| Game                                                                                                                                                                                                                                           | Icon By                    | Icon Before                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/12737" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/072203.png" alt="Mortal Kombat II"> <span>Mortal Kombat II</span></a> | {% rauser QuinnWasTaken %} | <img class="gameicon" src="https://retroachievements.org/Images/016674.png" alt="old icon"> |
+| Game                                                                                                                                                                                                                                           | Icon By            | Icon Before                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/12737" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/072203.png" alt="Mortal Kombat II"> <span>Mortal Kombat II</span></a> | {% rauser Ryudo %} | <img class="gameicon" src="https://retroachievements.org/Images/016674.png" alt="old icon"> |
 
 <a href="#toc">:top:</a>
 
