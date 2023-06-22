@@ -1,6 +1,6 @@
 ---
-issue: 2023-05
-order: 202305-08
+issue: 2023-06
+order: 202306-08
 layout: article
 category: Current Events
 title: Current Events
@@ -21,34 +21,25 @@ These events are open to any community member who wants to participate.
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=19685>
 - Period: January 2023 - December 2023
 - Host: {% rauserpic RAEvents %}
-- Users tied in 1st with 24 points:
+- Users tied in 1st with 29 points:
 
-|{% rauserpic 8bitsmephisto %}|{% rauserpic Agnam %}|{% rauserpic BahamutVoid %}|
-|{% rauserpic Billaw %}|{% rauserpic Braek %}|{% rauserpic BrothersGames %}|
-|{% rauserpic DoctorV %}|{% rauserpic FlamingDoom %}|{% rauserpic freezestar %}|
-|{% rauserpic GIGsnake %}|{% rauserpic HolyRayne %}|{% rauserpic IcePhoenix %}|
-|{% rauserpic Jurbadis %}|{% rauserpic KlydeKadell %}|{% rauserpic MarioKness %}|
-|{% rauserpic Nezperdian %}|{% rauserpic PenguGG %}|{% rauserpic perdiga %}|
-|{% rauserpic Pudpod %}|{% rauserpic SmallRoach %}|{% rauserpic TheLooseGroose %}|
-|{% rauserpic TheRealBillHicks %}|{% rauserpic thundere %}|{% rauserpic yoshter2011 %}|
+|{% rauserpic Braek %}|{% rauserpic BrothersGames %}|{% rauserpic FlamingDoom %}|
+|{% rauserpic Jurbadis %}|{% rauserpic MarioKness %}|{% rauserpic NEOMAR %}|
+|{% rauserpic PenguGG %}|{% rauserpic perdiga %}|{% rauserpic Pudpod %}|
+|{% rauserpic TheLooseGroose %}|{% rauserpic yoshter2011 %}|{% rauserpic zahgurim %}|
 
 ## Console Wars
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=20706>
 - Period: March 2023 - Current
 - Host: {% rauserpic BahamutVoid %}
-- Current Leaders with 20 points:
+- Current Leaders with 28 points:
   - {% rauserpic 14ausher %}
-  - {% rauserpic Agnam %}
   - {% rauserpic Akai %}
-  - {% rauserpic amine456 %}
   - {% rauserpic BahamutVoid %}
-  - {% rauserpic Enagonius %}
   - {% rauserpic NEOMAR %}
   - {% rauserpic Nezperdian %}
   - {% rauserpic PenguGG %}
   - {% rauserpic ruuzilla %}
-  - {% rauserpic Sef %}
-  - {% rauserpic Whynot15 %}
 
 
 <a href="#top">:top:</a>
@@ -59,8 +50,9 @@ These events are open to any community member who wants to participate.
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
 - Current Winners:
-  - Month 34: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic kmpers %}
+  - Month 35: Best Gamer: {% rauserpic ?? %}, Best Dev Fixer: {% rauserpic ?? %}
 - Previous Winners:
+  - Month 34: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic kmpers %}
   - Month 33: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic SlashTangent %}
   - Month 32: Best Gamer: {% rauserpic genesislover %}
   - Month 31: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic ladynadiad %}
@@ -71,7 +63,6 @@ These events are open to any community member who wants to participate.
   - Month 26: Best Gamer: {% rauserpic NEOMAR %} and {% rauserpic Lonoke31 %}, Best Dev Fixer: {% rauserpic ladynadiad %}
   - Month 25: Best Gamer: {% rauserpic Cerlayjux %}, Best Dev Fixer: {% rauserpic Falcus %}
   - Month 24: Best Gamer: {% rauserpic Sairotra %}, Best Dev Fixer: {% rauserpic Etron %}
-  - Month 23: Best Gamer: {% rauserpic multonic %}, Best Dev Fixer: {% rauserpic kmpers %}
 
 <a href="#top">:top:</a>
 
@@ -81,18 +72,17 @@ These events are open to any community member who wants to participate.
 - Period: January 2023 - Current
 - Host: {% rauserpic RAEvents %}
 - Current top 10:  
-  1: {% rauserpic Tayadaoc %} - 52 Points  
-  2: {% rauserpic Akai %} - 45 Points  
-  3: {% rauserpic WanderingHeiho %} - 43 Points  
-  4: {% rauserpic TheJohanx %} - 39 Points  
-  5: {% rauserpic amine456 %} - 38 Points  
-  6: {% rauserpic Agnam %} - 37 Points  
-  7: {% rauserpic Erodion %} - 36 Points  
-  8: {% rauserpic Dennis1543 %} - 32 Points  
-  8: {% rauserpic PlayFast %} - 32 Points  
-  10: {% rauserpic NEOMAR %} - 31 Points  
-  10: {% rauserpic PenguGG %} - 31 Points  
-  10: {% rauserpic Sutarion %} - 31 Points  
+  1: {% rauserpic Akai %} - 57 Points  
+  2: {% rauserpic WanderingHeiho %} - 56 Points  
+  3: {% rauserpic Tayadaoc %} - 53 Points  
+  4: {% rauserpic TheJohanx %} - 50 Points  
+  5: {% rauserpic Agnam %} - 49 Points  
+  5: {% rauserpic Amine456 %} - 49 Points  
+  7: {% rauserpic Dennis1543 %} - 42 Points  
+  8: {% rauserpic Erodion %} - 42 Points  
+  8: {% rauserpic PlayFast %} - 42 Points  
+  8: {% rauserpic Sutarion %} - 42 Points  
+
 
 <a href="#top">:top:</a>
 
@@ -102,16 +92,16 @@ These events are open to any community member who wants to participate.
 - Period: January 2023 - Current
 - Host: {% rauserpic RAEvents %}
 - Current top 10:  
-  1: {% rauserpic WanderingHeiho %} - 50 Points  
-  2: {% rauserpic wolfman2000 %} - 50 Points  
-  3: {% rauserpic Kaizard %} - 48 Points  
-  4: {% rauserpic pitapocket17 %} - 42 Points  
-  4: {% rauserpic ShadwSonic %} - 42 Points  
-  6: {% rauserpic FlamingDoom %} - 40 Points  
-  7: {% rauserpic Agnam %} - 35 Points  
-  7: {% rauserpic KlydeKadell %} - 35 Points  
-  9: {% rauserpic MarioKness %} - 34 Points  
-  9: {% rauserpic QuinnWasTaken %} - 34 Points  
+  1: {% rauserpic WanderingHeiho %} - 60 Points  
+  1: {% rauserpic wolfman2000 %} - 60 Points  
+  3: {% rauserpic Kaizard %} - 57 Points  
+  4: {% rauserpic pitapocket17 %} - 52 Points  
+  4: {% rauserpic ShadwSonic %} - 52 Points  
+  6: {% rauserpic FlamingDoom %} - 46 Points  
+  7: {% rauserpic Agnam %} - 45 Points  
+  8: {% rauserpic PinguGG %} - 42 points  
+  9: {% rauserpic KlydeKadell %} - 40 Points  
+  10: {% rauserpic BatFastardJordy %} - 38 Points  
 
 <a href="#top">:top:</a>
 
@@ -121,10 +111,10 @@ These events are open to any community member who wants to participate.
 - Period: January 2021 - Current
 - Host: {% rauserpic Bendyhuman %}
 - Current standings (* active streak):
-  - {% rauserpic NEOMAR %}* - 497 Points
-  - {% rauserpic Lonoke31 %}* - 414 Points
+  - {% rauserpic NEOMAR %}* - 527 Points
+  - {% rauserpic Lonoke31 %}* - 444 Points
+  - {% rauserpic Advent %}* - 281 Points
   - {% rauserpic NickGoat1990 %} - 266 Points
-  - {% rauserpic Advent %}* - 251 Points
   - {% rauserpic ShadwSonic %} - 245 Points
 
 <a href="#top">:top:</a>
@@ -136,8 +126,8 @@ These events are open to any community member who wants to participate.
 - Host: {% rauserpic FBernkastelKues %}
 - Top 3 Players:
   - {% rauserpic AuburnRDM %} (309)
-  - {% rauserpic kmpers %} (203)
-  - {% rauserpic Emoon %} (192)
+  - {% rauserpic Etron %} (207)
+  - {% rauserpic kmpers %} (206)
 
 <a href="#top">:top:</a>
 
@@ -145,6 +135,11 @@ These events are open to any community member who wants to participate.
 
 The RANews Spot the difference minigame was posted in a previous [Spot The Difference](spot-the-difference) section of RANews.
 The goal was to find all 10 differences between different parallel universes.
+
+May:
+
+|{% rauserpic LordKingGundam %}|{% rauserpic LordAndrew %}|{% rauserpic AfroRyan %}|
+|{% rauserpic Gemyma %}|{% rauserpic Tayadaoc %}||
 
 April:
 
