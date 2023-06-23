@@ -19,14 +19,14 @@ category: Spot The Difference
 A supercomputer experiment went wrong and many citizens were taken as hostages. To rescue them three brave warriors need to beat all levels and defeat the final boss. Currently two of the warriors are struggling with a level and needed to restart it but their second playthrough seems to be a bit different. Can you find all 10 differences?
 
 <p align="center">
-  <img src="img/Fun/SpotTheDifferenceTemp.png" />
+  <img src="img/Fun/SpotTheDifference.png" />
 </p>
 
 ## About the Game
 
-| Game                                                                                                                                                                                                                                         | Console       | Genre           |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/11659" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/069804.png" alt=""> <span>Fire Emblem: The Sacred Stones</span></a> | Master System | Action Strategy |
+| Game                                                                                                                                                                                                                      | Console       | Genre           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/11659" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/069804.png" alt=""> <span>Gain Ground</span></a> | Master System | Action Strategy |
 
 
 * Suggested by: {% rauserpic AfroRyan %}

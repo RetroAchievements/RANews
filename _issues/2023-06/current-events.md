@@ -77,7 +77,7 @@ These events are open to any community member who wants to participate.
   3: {% rauserpic Tayadaoc %} - 53 Points  
   4: {% rauserpic TheJohanx %} - 50 Points  
   5: {% rauserpic Agnam %} - 49 Points  
-  5: {% rauserpic Amine456 %} - 49 Points  
+  5: {% rauserpic amine456 %} - 49 Points  
   7: {% rauserpic Dennis1543 %} - 42 Points  
   8: {% rauserpic Erodion %} - 42 Points  
   8: {% rauserpic PlayFast %} - 42 Points  
@@ -99,7 +99,7 @@ These events are open to any community member who wants to participate.
   4: {% rauserpic ShadwSonic %} - 52 Points  
   6: {% rauserpic FlamingDoom %} - 46 Points  
   7: {% rauserpic Agnam %} - 45 Points  
-  8: {% rauserpic PinguGG %} - 42 points  
+  8: {% rauserpic PenguGG %} - 42 points  
   9: {% rauserpic KlydeKadell %} - 40 Points  
   10: {% rauserpic BatFastardJordy %} - 38 Points  
 
