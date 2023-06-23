@@ -9,7 +9,7 @@ toc_float: true
 ---
 
 ## Intro <!-- Update each issue -->
-Welcome to RANews, your #1 source for everything RetroAchievements. In this issue we'll be covering a wide range of topics, the impact of May 1999 on the history of video games, the latest in achievement and set news, tons of data organized throughout several articles, and much more. Whether you're a seasoned reader or a first-timer, our team ensures that every issue of RANews is packed with fresh and exciting content. So sit back, relax, and get ready to dive into the exciting world of RetroAchievements with RANews!
+Welcome to RANews, your #1 source for everything RetroAchievements. In this issue we'll be covering a wide range of topics, the latest in achievement and set news, tons of data organized throughout several articles, and much more. Whether you're a seasoned reader or a first-timer, our team ensures that every issue of RANews is packed with fresh and exciting content. So sit back, relax, and get ready to dive into the exciting world of RetroAchievements with RANews!
 
 Cover by:
 <div class="bingo-winner-small">
