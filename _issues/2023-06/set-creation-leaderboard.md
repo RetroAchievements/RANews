@@ -157,9 +157,9 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 7    | {% rauserpic timenoe %}          | 1            |
 | 7    | {% rauserpic tomojin %}          | 1            |
 | 7    | {% rauserpic ventuz %}           | 1            |
-| 7    | {% rauserpic ventuz %}           | 1            |
-| 7    | {% rauserpic ventuz %}           | 1            |
-| 7    | {% rauserpic ventuz %}           | 1            |
+| 7    | {% rauserpic voiceofautumn %}    | 1            |
+| 7    | {% rauserpic wolfman2000 %}      | 1            |
+| 7    | {% rauserpic ZZKer %}            | 1            |
 
 ## Atari 2600
 
@@ -354,11 +354,6 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 9    | {% rauserpic Rdannylor2 %}    | 5            |
 | 9    | {% rauserpic Som1 %}          | 5            |
 | 9    | {% rauserpic voiceofautumn %} | 5            |
-| 17   | {% rauserpic Cadaxar %}       | 4            |
-| 17   | {% rauserpic Infernox %}      | 4            |
-| 17   | {% rauserpic mopain85 %}      | 4            |
-| 17   | {% rauserpic StingX2 %}       | 4            |
-| 17   | {% rauserpic tuinj %}         | 4            |
 
 ## Game Boy Advance
 
