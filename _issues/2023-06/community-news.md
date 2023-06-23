@@ -72,12 +72,13 @@ toc: true
 | :---------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | {% rauserpic Butternnife %}   | <a class="gameicon-link" href="https://retroachievements.org/game/14789" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/061273.png" alt=""> <span>Tingle's Balloon Fight DS (Nintendo DS)</span></a>                     |
 | {% rauserpic Coloradohusky %} | <a class="gameicon-link" href="https://retroachievements.org/game/20419" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/071389.png" alt=""> <span>Space Subtraction (Apple II)</span></a>                                |
+| {% rauserpic clymax %}        | <a class="gameicon-link" href="https://retroachievements.org/game/2236" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/074945.png" alt=""> <span>Pop'n Twinbee: Rainbow Bell Adventures (SNES)</span></a>                |
 | {% rauserpic QuinnWasTaken %} | <a class="gameicon-link" href="https://retroachievements.org/game/7821" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/071443.png" alt=""> <span>Arcade Classic No. 1: Asteroids + Missile Command (Game Boy)</span></a> |
 | {% rauserpic AntonioFNN %}    | <a class="gameicon-link" href="https://retroachievements.org/game/136" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/073830.png" alt=""> <span>Out of This World \| Another World (Mega Drive)</span></a>               |
 | {% rauserpic tomojin %}       | <a class="gameicon-link" href="https://retroachievements.org/game/9641" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/073373.png" alt=""> <span>Boulder Dash EX (Game Boy Advance)</span></a>                           |
 | {% rauserpic Sutarion %}      | <a class="gameicon-link" href="https://retroachievements.org/game/10010" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/072351.png" alt=""> <span>Sonic Chaos (Master System)</span></a>                                 |
 
-**Current Stats**: 25 Developers have graduated in 2023 so far
+**Current Stats**: 26 Developers have graduated in 2023 so far
 
 ## RA Minecraft
 RetroAchievement now has an official Minecraft server where you build anything you want in the most popular sandbox game ever created.
