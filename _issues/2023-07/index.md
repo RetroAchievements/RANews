@@ -22,11 +22,13 @@ Cover by:
 RANews thrives on community submitted content, Wish This Set, Play This Set and RAdvantage are only possibly if you allow it to be and send us your submissions for those articles. If you have any contributions that you would like to see featured in these articles, please send them in a direct message to {% rauser RANews %}.
 
 
-## ---[WinArcadia](./winarcadia.html)
+## [WinArcadia](./winarcadia.html)
+Discover gaming nostalgia at its finest with our latest addition! We've now introduced support for three consoles - [Interton VC 4000](https://retroachievements.org/gameList.php?c=74), [Elektor TV Games Computer](https://retroachievements.org/gameList.php?c=75), and [Arcadia 2001](https://retroachievements.org/gameList.php?c=73) - using the [WinArcadia](https://retroachievements.org/download.php#winarcadia) emulator. Unearth the hidden gems of gaming's past and explore their captivating stories.
 
 
 ## [Set of the Month](./set-of-the-month.html)
 Each month, we invite the RetroAchievements community to vote for their favorite set, subset, and revision from the previous month. We gather the votes and share the results in this Set of the Month section. This is a great way to discover new sets that you may have missed and to celebrate the hard work and creativity of our dedicated set developers.
+
 
 ## [This Month In Retro](./this-month-in-retro.html) <!-- Update each issue -->
 If you're a fan of video games and the history behind them, you won't want to miss this article on This Month in Retro. {% rauser Nepiki %} takes us back to July 1995 and discusses the significance of that months releases. If you're interested in learning about the video games released in July 1995, including their sales figures and critic scores, this article is worth checking out.
@@ -44,18 +46,21 @@ In this section, we celebrate the user milestones reached this past month. We sh
 The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!
 
 
-## ---[Community News](./community-news.html)
+## [Community News](./community-news.html)
 Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
 
 
-## -[RAPodcast](./rapodcast.html) <!-- Update each issue -->
+## [RAPodcast](./rapodcast.html) <!-- Update each issue -->
+Join the RetroAchievements community and listen to the latest RAPodcasts. First up, our host {% rauser TimeCrush %} talks again with {% rauser Sutarion %} and {% rauser Gollawiz %} about even more mysteries, debates, and answers to our burning questions about the Legend of Zelda Series.
+
+In the second podcase, explore the captivating alliance between video games and television. Listen along for a nostalgic journey through animated treasures and live-action wonders with {% rauser MaxMilyin %}.
 
 
 ## [Play This Set](./play-this-set.html)
 Looking for some great game recommendations? Play This Set features writeups submitted by the community about existing sets and why you should give them a try. Whether you're looking to discover a new favorite or just need a reason to play something new, these writeups are sure to provide plenty of inspiration. So dive in, and get ready to take on a new set!
 
 
-## ---[Wish This Set](./wish-this-set.html)
+## [Wish This Set](./wish-this-set.html)
 In this section, users share their thoughts on which games they would love to see have sets created for. Whether it's a beloved classic or an underrated gem, we want to hear about it. If you are a developer looking for a new set to work on, then look no further than right here.
 
 
@@ -63,9 +68,8 @@ In this section, users share their thoughts on which games they would love to se
 Set off on a captivating journey through [Treasure Hunter G](https://retroachievements.org/game/1415). Find hidden riches, take part in triumphant victories, and become a legendary treasure hunter as you master the set using this months guide. Get ready to unleash your inner adventurer and claim the gaming glory you deserve!
 
 
-## -[RAdvantage](./radvantage.html) <!-- Update each issue -->
-[Devil May Cry 3: Special Edition [Subset - Bonus]](https://retroachievements.org/game/20503)
-[Dante Must-Die Rank SS](https://retroachievements.org/achievement/251668)
+## [RAdvantage](./radvantage.html) <!-- Update each issue -->
+Unleash your inner demon-slayer with our ultimate guide to conquer [Dante Must-Die Rank SS](https://retroachievements.org/achievement/251668) in [Devil May Cry 3: Special Edition [Subset - Bonus]](https://retroachievements.org/game/20503). If you've been craving to achieve greatness, we've got the tips you need to obtain the elusive Rank SS in every mission on the infamous Dante Must Die mode. Prepare to face relentless hordes of foes and execute devilish combos as we lead you through this adrenaline-pumping journey towards gaming glory.
 
 
 ## [HotCheevs Monthly](./hot-cheevs.html)
@@ -113,6 +117,18 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                                 |                                  |                               |
-| ------------------------------- | -------------------------------- | ----------------------------- |
-
+|                                     |                                 |                              |
+| ----------------------------------- | ------------------------------- | ---------------------------- |
+| {% rauserpic BahamutVoid %}         | {% rauserpic BatFastardJordy %} | {% rauserpic Bendyhuman %}   |
+| {% rauserpic Brandovsky %}          | {% rauserpic CobaltZeroni %}    | {% rauserpic cykette %}      |
+| {% rauserpic danyelalejandro1980 %} | {% rauserpic DevCompliance %}   | {% rauserpic diablo666 %}    |
+| {% rauserpic DrJordo %}             | {% rauserpic Enagonius %}       | {% rauserpic Etron %}        |
+| {% rauserpic Glendaal %}            | {% rauserpic HolyShinx %}       | {% rauserpic Hotscrock %}    |
+| {% rauserpic MrOwnership %}         | {% rauserpic Nepiki %}          | {% rauserpic Nydaxn %}       |
+| {% rauserpic PenguGG %}             | {% rauserpic pickledyamsman %}  | {% rauserpic pinguupinguu %} |
+| {% rauserpic Probored %}            | {% rauserpic QATeam %}          | {% rauserpic RANews %}       |
+| {% rauserpic Raykusen %}            | {% rauserpic RetroGameMaster %} | {% rauserpic s0uth %}        |
+| {% rauserpic SegoeUI %}             | {% rauserpic ShadwSonic %}      | {% rauserpic Sines %}        |
+| {% rauserpic Snow %}                | {% rauserpic SporyTike %}       | {% rauserpic StingX2 %}      |
+| {% rauserpic Sutarion %}            | {% rauserpic TheJediSonic %}    | {% rauserpic TimeCrush %}    |
+| {% rauserpic wolfman2000 %}         | {% rauserpic Xymjak %}          |                              |

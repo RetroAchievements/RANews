@@ -56,7 +56,7 @@ These events are open to any community member who wants to participate.
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
 - Current Winners:
-  - Month 36: Best Gamer: {% rauserpic  %}, Best Dev Fixer: {% rauserpic  %}
+  - Month 36: Best Gamer: {% rauserpic MelodyAsh %}, Best Dev Fixer: {% rauserpic kmpers %}
 - Previous Winners:
   - Month 35: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic kmpers %}
   - Month 34: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic kmpers %}
@@ -123,6 +123,28 @@ These events are open to any community member who wants to participate.
   - {% rauserpic Advent %}* - 312 Points
   - {% rauserpic NickGoat1990 %} - 266 Points
   - {% rauserpic Sutarion %} - 266 Points
+
+<a href="#top">:top:</a>
+
+## Mario Party RA
+
+- Forum topic: <https://retroachievements.org/viewtopic.php?t=22460>
+- Period: July 2023 - Current
+- Host: {% rauserpic freezestar %}
+
+<a href="#top">:top:</a>
+
+## Four Job Fiesta
+
+- Forum topic: <https://retroachievements.org/viewtopic.php?t=21992>
+- Period: June 2023 - Current
+- Host: {% rauserpic Sutarion %}
+- Badge Results
+
+| Badge Requirement | User Count |
+| ----------------- | ---------- |
+| ExDeath Badge     | 21         |
+| Superboss Badge   | 71         |
 
 <a href="#top">:top:</a>
 
