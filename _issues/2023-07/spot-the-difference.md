@@ -25,7 +25,7 @@ category: Spot The Difference
 The Bounty Hunter Samus Aran is on a mission on Zebes. Her goal is to rescue the last Metroid, a Metroid larva, that was stolen from the Ceres' laboratory by Ridley. On her adventure she gets a deeper connection to the Metroid baby which allows her to see the planet with different eyes. Can you find all 10 differences?
 
 <p align="center">
-  <img src="img/Fun/SpotTheDifferenceTemp.png" />
+  <img src="img/Fun/SpotTheDifference.png" />
 </p>
 
 ## About the Game
