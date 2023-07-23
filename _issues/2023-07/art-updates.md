@@ -25,7 +25,6 @@ toc: true
 | Game                                                                                                                                                                                                                                                                             | Icon By                  | Icon Before                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/696" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/074449.png" alt="Dr. Mario"> <span>Dr. Mario</span></a>                                                   | {% rauser NeonPug %}     | <img class="gameicon" src="https://retroachievements.org/Images/058718.png" alt="old icon">                                                  |
-| <a class="gameicon-link" href="https://retroachievements.org/game/540" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/057183.png" alt="Super Mario Land 2: 6 Golden Coins"> <span>Super Mario Land 2: 6 Golden Coins</span></a> | {% rauser PlugMeister %} | <img class="gameicon" src="https://github.com/RetroAchievements/RANews/assets/53956327/768349f0-00fe-4949-87a5-baa8834b77f8" alt="old icon"> |
 
 <a href="#toc">:top:</a>
 
@@ -308,6 +307,20 @@ toc: true
 **Current Badges:**
 
 ![after](https://github.com/RetroAchievements/RANews/assets/53956327/eb10be36-5f83-49e8-8dfa-4315d72dd5de)
+
+<a href="#toc">:top:</a>
+
+#### Super Mario Land 2: 6 Golden Coins
+
+**New badges by {% rauser PlugMeister %}.**
+ 
+**Previous Badges:**
+
+![before](https://i.imgur.com/yJj7wNN.png)
+ 
+**Current Badges:**
+
+![after](https://i.imgur.com/HhsZ5a8.png)
 
 <a href="#toc">:top:</a>
 
