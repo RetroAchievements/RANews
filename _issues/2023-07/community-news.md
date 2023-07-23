@@ -181,10 +181,10 @@ Code of Conduct Updates
             <td colspan="3"><a class="gameicon-link" href="https://retroachievements.org/game/1819" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/062595.png" alt=""> <span>Magician</span></a></td>
         </tr>
         <tr>
-            <td colspan="3"><a class="gameicon-link" href="https://retroachievements.org/game/4919" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/053956.png" alt=""> <span>Quest: Brian's Journey</span></a></td>
+            <td colspan="3"><a class="gameicon-link" href="https://retroachievements.org/game/1449" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/070783.png" alt=""> <span>Final Fantasy</span></a></td>
         </tr>
         <tr>
-            <td colspan="3"><a class="gameicon-link" href="https://retroachievements.org/game/242" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/035303.png" alt=""> <span>Terranigma</span></a></td>
+            <td colspan="3"><a class="gameicon-link" href="https://retroachievements.org/game/762" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/059662.png" alt=""> <span>Final Fantasy I & II: Dawn of Souls</span></a></td>
         </tr>
     </tbody>
 </table>

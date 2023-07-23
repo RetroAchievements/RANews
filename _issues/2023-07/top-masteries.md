@@ -148,8 +148,13 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 <p align="center">
   <img src="img/TopMasteries/SITE_AWARDS.png" />
 </p>
-* {% rauserpic Orph %} remains in 1st with 16 total mastery awards.
-* {% rauserpic Hyrulehero %} has moved up 8 spots and is in a 9-way tie for 11th place.
+* {% rauserpic Snow %} remains in 1st with 25 total mastery awards.
+* {% rauserpic suspect15 %} has moved up 1 spot and is tied for 6 place.
+* {% rauserpic Bryan1150 %} has moved up 3 spots and is in a 5-way tie for 10 place.
+* {% rauserpic WanderingHeiho %} has moved up 2 spots and is in a 5-way tie for 10 place.
+* {% rauserpic pinguupinguu %} has moved up 3 spots and is in a 3-way tie for 15 place.
+* {% rauserpic kmpers %} has moved up 2 spots and is in a 4-way tie for 18 place.
+* {% rauserpic LogicalFallacy %} has made it into the top 25 and is in a 3-way tie for 22 place.
 
 ### Amstrad CPC
 

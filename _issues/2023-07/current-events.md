@@ -122,7 +122,7 @@ These events are open to any community member who wants to participate.
   - {% rauserpic Lonoke31 %}* - 475 Points
   - {% rauserpic Advent %}* - 312 Points
   - {% rauserpic NickGoat1990 %} - 266 Points
-  - {% rauserpic Sutarion %} - 266 Points
+  - {% rauserpic Sutarion %}* - 266 Points
 
 <a href="#top">:top:</a>
 

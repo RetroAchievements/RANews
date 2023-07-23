@@ -14,9 +14,9 @@ Check out some general stats from this month.
 | Number of achievements released.                                 | 6,716      | <!-- 01 -->
 | Number of hardcore achievements earned.                          | 841,653    | <!-- 02 -->
 | Number of code notes created.                                    | 29,130     | <!-- 03 -->
-| Number of mastery awards awarded.                                | 80,42      | <!-- 04 -->
-| Number of set requests made.                                     | 29,71      | <!-- 05 -->
-| Number of leaderboards created.                                  | 18,83      | <!-- 06 -->
+| Number of mastery awards awarded.                                | 8,042      | <!-- 04 -->
+| Number of set requests made.                                     | 2,971      | <!-- 05 -->
+| Number of leaderboards created.                                  | 1,883      | <!-- 06 -->
 | Number of leaderboard entries submitted.                         | 115,817    | <!-- 07 -->
 | Number of users who have earned at least 1 hardcore achievement. | 15,699     | <!-- 08 -->
 | Number of total hardcore points earned by players.               | 5,467,339  | <!-- 09 -->

@@ -433,25 +433,8 @@ toc: true
 
 ![after](https://github.com/RetroAchievements/RANews/assets/53956327/3f224ac8-983e-43ec-871a-5f18d4046d7d)
 
-#### SuperLite 1500 Series: Tenant Wars Alpha \| Top Shop
- 
-**New badges by {% rauser LiveFastCyYoung %}.**
- 
-**Previous Badges:**
-
-![before](https://github.com/RetroAchievements/RANews/assets/53956327/17973733-ebf8-4288-a1fc-04390d923480)
- 
-**Current Badges:**
-
-![after](https://github.com/RetroAchievements/RANews/assets/53956327/002273d9-9e8c-46da-94ca-4a28226acafc)
-
-<a href="#toc">:top:</a>
-
 
 ### Pokemon Mini
-
-
-
 
 #### ~Homebrew~ ~Demo~ Pazuru
  
