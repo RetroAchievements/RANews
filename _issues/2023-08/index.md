@@ -41,11 +41,11 @@ Get ready to dive into the numbers and see how you stack up against the rest of 
 In this section, we celebrate the user milestones reached this past month. We showcase user milestones ranging from total points to leaderboards joined, as well as developer milestones covering various aspects of the typical set developer. Whether you're a seasoned veteran or a newcomer to the site, we hope these highlights inspire you to push your own boundaries, achieve new goals and reach new milestones.
 
 
-## ---[Current Events](./current-events.html)
+## [Current Events](./current-events.html)
 The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!
 
 
-## ---[Community News](./community-news.html)
+## [Community News](./community-news.html)
 Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
 
 
@@ -62,15 +62,15 @@ In this section, users share their thoughts on which games they would love to se
 
 
 ## [RAGuide](./raguide.html) <!-- Update each issue -->
-Eradicate the monsters that plague planet Nimola and master the the set for [~Homebrew~ Repugnant Bounty](https://retroachievements.org/game/22650) with this months guide. Do you have what it takes to fight your way though the monsters that that killed your people in this Metroid II inspired Game Boy Color homebrew?
+Eradicate the monsters that plague planet Nimola and master the set for [~Homebrew~ Repugnant Bounty](https://retroachievements.org/game/22650) with this months guide. Do you have what it takes to fight your way through the monsters that killed your people in this Metroid II inspired Game Boy Color homebrew?
 
 
 ## [RAdvantage](./radvantage.html) <!-- Update each issue -->
-Prepare for the ultimate challenge of [Zero Irritation](https://retroachievements.org/achievement/231995) in [Irritating Stick](https://retroachievements.org/game/8929)! Can you complete all 7 main courses consecutively without losing a life? This months tip will help you carve your name among the elite who whave unlocked this feat.
+Prepare for the ultimate challenge of [Zero Irritation](https://retroachievements.org/achievement/231995) in [Irritating Stick](https://retroachievements.org/game/8929)! Can you complete all 7 main courses consecutively without losing a life? This month's tip will help you carve your name among the elite who whave unlocked this feat.
 
 
 ## [HotCheevs Monthly](./hot-cheevs.html)
-Stay up-to-date on the latest achievements with our monthly roundup of new sets on RetroAchievements! We'll take look at the newest achievement sets from the community for each system. Stick around and take a look at all the new sets from last month, you may even find a set that you have been wishing for.
+Stay up-to-date on the latest achievements with our monthly roundup of new sets on RetroAchievements! We'll take a look at the newest achievement sets from the community for each system. Stick around and take a look at all the new sets from last month, you may even find a set that you have been wishing for.
 
 
 ## [Revisions and Rescores](./revisions-and-rescores.html)
@@ -98,7 +98,7 @@ Are you itching to tackle a new set, but can't seem to find the right one? Look 
 
 
 ## [Set Creation Leaderboard](./set-creation-leaderboard.html)
-Are you curious about which developers have contributed the most seta to RetroAchievements for each console? This section has you covered. Here you can see which developers have made the most sets for the RetroAchievements community for each console. This section offers valuable insights into the individuals who have contributed the most to the world of achievement creation. Check it out now, and see which developers have left their mark on your favorite consoles!
+Are you curious about which developers have contributed the most sets to RetroAchievements for each console? This section has you covered. Here you can see which developers have made the most sets for the RetroAchievements community for each console. This section offers valuable insights into the individuals who have contributed the most to the world of achievement creation. Check it out now, and see which developers have left their mark on your favorite consoles!
 
 
 ## [Spot The Difference](./spot-the-difference.html) <!-- Update each issue -->
