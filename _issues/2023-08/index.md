@@ -13,7 +13,7 @@ Welcome to RANews, your #1 source for everything RetroAchievements. In this issu
 
 Cover by:
 <div class="bingo-winner-small">
-    {% rauserpic Nydaxn %}
+    {% rauserpic televandalist %}
 </div>
 
 <br clear="right"/>
@@ -57,7 +57,7 @@ Join the RetroAchievements community and listen to the latest RAPodcasts. Two ne
 Looking for some great game recommendations? Play This Set features writeups submitted by the community about existing sets and why you should give them a try. Whether you're looking to discover a new favorite or just need a reason to play something new, these writeups are sure to provide plenty of inspiration. So dive in, and get ready to take on a new set!
 
 
-## ---[Wish This Set](./wish-this-set.html)
+## [Wish This Set](./wish-this-set.html)
 In this section, users share their thoughts on which games they would love to see have sets created for. Whether it's a beloved classic or an underrated gem, we want to hear about it. If you are a developer looking for a new set to work on, then look no further than right here.
 
 
@@ -114,6 +114,18 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                                     |                                 |                              |
-| ----------------------------------- | ------------------------------- | ---------------------------- |
-
+|                                 |                              |                                 |
+| ------------------------------- | ---------------------------- | ------------------------------- |
+| {% rauserpic Aeliana %}         | {% rauserpic Amir96lx %}     | {% rauserpic BatFastardJordy %} |
+| {% rauserpic Bendyhuman %}      | {% rauserpic Brandovsky %}   | {% rauserpic clymax %}          |
+| {% rauserpic DevCompliance %}   | {% rauserpic Enagonius %}    | {% rauserpic Etron %}           |
+| {% rauserpic Glendaal %}        | {% rauserpic HolyShinx %}    | {% rauserpic Hotscrock %}       |
+| {% rauserpic Kingsombra %}      | {% rauserpic KlydeKadell %}  | {% rauserpic MrBird %}          |
+| {% rauserpic MrOwnership %}     | {% rauserpic Nepiki %}       | {% rauserpic Nydaxn %}          |
+| {% rauserpic PenguGG %}         | {% rauserpic pinguupinguu %} | {% rauserpic Probored %}        |
+| {% rauserpic QATeam %}          | {% rauserpic RANews %}       | {% rauserpic Raykusen %}        |
+| {% rauserpic RetroGameMaster %} | {% rauserpic SegoeUI %}      | {% rauserpic ShadwSonic %}      |
+| {% rauserpic Sines %}           | {% rauserpic Snow %}         | {% rauserpic SporyTike %}       |
+| {% rauserpic StingX2 %}         | {% rauserpic Sutarion %}     | {% rauserpic televandalist %}   |
+| {% rauserpic theelkspeaks %}    | {% rauserpic TimeCrush %}    | {% rauserpic Xymjak %}          |
+| {% rauserpic YahwehTzVaoth %}   |                              |                                 |

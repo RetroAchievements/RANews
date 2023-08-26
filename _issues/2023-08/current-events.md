@@ -50,7 +50,7 @@ These events are open to any community member who wants to participate.
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
 - Current Winners:
-  - Month 36: Best Gamer: {% rauserpic  %}, Best Dev Fixer: {% rauserpic  %}
+  - Month 37: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic Hotscrock %}
 - Previous Winners:
   - Month 36: Best Gamer: {% rauserpic MelodyAsh %}, Best Dev Fixer: {% rauserpic kmpers %}
   - Month 35: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic kmpers %}
@@ -63,7 +63,6 @@ These events are open to any community member who wants to participate.
   - Month 28: Best Gamer: {% rauserpic genesislover %}, Best Dev Fixer: {% rauserpic ladynadiad %}
   - Month 27: Best Gamer: {% rauserpic NEOMAR %}, Best Dev Fixer: {% rauserpic Falcus %}
   - Month 26: Best Gamer: {% rauserpic NEOMAR %} and {% rauserpic Lonoke31 %}, Best Dev Fixer: {% rauserpic ladynadiad %}
-  - Month 25: Best Gamer: {% rauserpic Cerlayjux %}, Best Dev Fixer: {% rauserpic Falcus %}
 
 <a href="#top">:top:</a>
 

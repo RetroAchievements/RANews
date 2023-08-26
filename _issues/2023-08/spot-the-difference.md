@@ -23,7 +23,7 @@ category: Spot The Difference
 Yoshi and Baby Mario are on an adventure to rescue Baby Luigi who was kidnapped by Kamek and brought to Baby Bowser. They need to travel through the Jungle, where Yoshi accidentally touched Fuzzies and felt dizzy. After feeling better something looks off, can you find all 10 differences?
 
 <p align="center">
-  <img src="img/Fun/SpotTheDifferenceTemp.png" />
+  <img src="img/Fun/SpotTheDifference.png" />
 </p>
 
 ## About the Game
