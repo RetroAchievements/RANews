@@ -72,20 +72,17 @@ These events are open to any community member who wants to participate.
 - Period: January 2023 - Current
 - Host: {% rauserpic RAEvents %}
 - Current top 10:  
-  1: {% rauserpic WanderingHeiho %} - 81 Points  
-  2: {% rauserpic Akai %} - 79 Points  
-  3: {% rauserpic Agnam %} - 58 Points  
-  4: {% rauserpic Silveryami %} - 56 Points  
-  4: {% rauserpic Sutarion %} - 56 Points  
-  6: {% rauserpic Tayadaoc %} - 55 Points  
-  7: {% rauserpic amine456 %} - 53 Points  
-  8: {% rauserpic Dennis1543 %} - 52 Points  
-  8: {% rauserpic Erodion %} - 52 Points  
-  8: {% rauserpic freezestar %} - 52 Points  
-  8: {% rauserpic NEOMAR %} - 52 Points  
-  8: {% rauserpic PenguGG %} - 52 Points  
-  8: {% rauserpic PlayFast %} - 52 Points  
-  8: {% rauserpic TheJohanx %} - 52 Points  
+  1: {% rauserpic heintsi %} - 46 Points  
+  2: {% rauserpic Whynot15 %} - 45 Points  
+  3: {% rauserpic FlamingDoom %} - 43 Points  
+  4: {% rauserpic Amir96lx %} - 41 Points  
+  4: {% rauserpic Olafur %} - 41 Points  
+  6: {% rauserpic Xymjak %} - 40 Points  
+  7: {% rauserpic Lonoke31 %} - 39 Points  
+  7: {% rauserpic Sef %} - 39 Points  
+  7: {% rauserpic Xionx %} - 39 Points  
+  10: {% rauserpic BendyHuman %} - 36 Points  
+  10: {% rauserpic bigdud24 %} - 36 Points  
 
 
 <a href="#top">:top:</a>
