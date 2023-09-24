@@ -13,10 +13,7 @@ toc: true
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/18761" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/060045.png" alt=""> <span>Phantom Brave: The Hermuda Triangle</span></a> | PlayStation Portable | Strategy, Tactical RPG |
 
-
-Guide written by [MelodyAsh](https://retroachievements.org/User/MelodyAsh)
-
-![Box art for the US PSP version of Phantom Brave](https://retroachievements.org/Images/060044.png)
+<p align="middle"><img src="https://retroachievements.org/Images/060044.png"></p>
 
 :no_entry: **\*\* NOTE: CONTAINS MAJOR SPOILERS FOR SOLVING ACHIEVEMENT PUZZLES \*\*** :no_entry:
 <br>Spoiler solutions for the achievement strategies and a potential order to earning the achievements will be hidden in a collapsible entry that you must click to expand so that only the solutions you need assistance with will be viewable. 

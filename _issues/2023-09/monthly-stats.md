@@ -240,18 +240,18 @@ Check out who has the most achievement unlocks, points, retro points, and master
 ## Top 10 Awarded Achievements <!-- 16 -->
 Check out which achievements were earned the most this month. Limit one achievement per game.
 
-| Rank | Achievement                                                                                                                                                                                                                                                                                | Game                                                                                                                                                                                                                                                                               | Times Awarded |
-| :--- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
-| 1    | <a class="gameicon-link" href="https://retroachievements.org/achievement/342" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/46580.png" alt="Giddy Up!"> <span>Giddy Up!</span></a>                           | <a class="gameicon-link" href="https://retroachievements.org/game/228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/066393.png" alt="Super Mario World"> <span>Super Mario World</span></a>                                     | 548           |
-| 2    | <a class="gameicon-link" href="https://retroachievements.org/achievement/3159" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/321909.png" alt="Shroooooms..."> <span>Shroooooms...</span></a>                 | <a class="gameicon-link" href="https://retroachievements.org/game/1446" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/036035.png" alt="Super Mario Bros."> <span>Super Mario Bros.</span></a>                                    | 446           |
-| 3    | <a class="gameicon-link" href="https://retroachievements.org/achievement/947" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/123740.png" alt="You Can Spell!"> <span>You Can Spell!</span></a>                | <a class="gameicon-link" href="https://retroachievements.org/game/337" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041009.png" alt="Donkey Kong Country"> <span>Donkey Kong Country</span></a>                                 | 368           |
-| 4    | <a class="gameicon-link" href="https://retroachievements.org/achievement/2" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/250352.png" alt="Amateur Collector"> <span>Amateur Collector</span></a>            | <a class="gameicon-link" href="https://retroachievements.org/game/1" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/067895.png" alt="Sonic the Hedgehog"> <span>Sonic the Hedgehog</span></a>                                     | 318           |
-| 5    | <a class="gameicon-link" href="https://retroachievements.org/achievement/48638" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84220.png" alt="A New Journey"> <span>A New Journey</span></a>                 | <a class="gameicon-link" href="https://retroachievements.org/game/10003" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/047942.png" alt="Super Mario 64"> <span>Super Mario 64</span></a>                                         | 292           |
-| 6    | <a class="gameicon-link" href="https://retroachievements.org/achievement/4126" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/143635.png" alt="Prepare For Take-Off"> <span>Prepare For Take-Off</span></a>   | <a class="gameicon-link" href="https://retroachievements.org/game/1995" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/047650.png" alt="Super Mario Bros. 3"> <span>Super Mario Bros. 3</span></a>                                | 260           |
-| 7    | <a class="gameicon-link" href="https://retroachievements.org/achievement/82936" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89266.png" alt="Rutabaga!"> <span>Rutabaga!</span></a>                         | <a class="gameicon-link" href="https://retroachievements.org/game/10434" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/081157.png" alt="Crash Bandicoot"> <span>Crash Bandicoot</span></a>                                       | 242           |
-| 8    | <a class="gameicon-link" href="https://retroachievements.org/achievement/327028" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/368762.png" alt="What Mightâ€™ve Been"> <span>What Mightâ€™ve Been</span></a> | <a class="gameicon-link" href="https://retroachievements.org/game/5677" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/075933.png" alt="Spider-Man 2"> <span>Spider-Man 2</span></a>                                              | 230           |
-| 9    | <a class="gameicon-link" href="https://retroachievements.org/achievement/7588" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/204958.png" alt="Oh Wow, a Present!"> <span>Oh Wow, a Present!</span></a>       | <a class="gameicon-link" href="https://retroachievements.org/game/677" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042438.png" alt="Mother 3"> <span>Mother 3</span></a>                                                       | 227           |
-| 10   | <a class="gameicon-link" href="https://retroachievements.org/achievement/82635" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89059.png" alt="What is a Man?"> <span>What is a Man?</span></a>               | <a class="gameicon-link" href="https://retroachievements.org/game/11240" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042618.png" alt="Castlevania: Symphony of the Night"> <span>Castlevania: Symphony of the Night</span></a> | 217           |
+| Rank | Achievement                                                                                                                                                                                                                                                                              | Game                                                                                                                                                                                                                                                                               | Times Awarded |
+| :--- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| 1    | <a class="gameicon-link" href="https://retroachievements.org/achievement/342" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/46580.png" alt="Giddy Up!"> <span>Giddy Up!</span></a>                         | <a class="gameicon-link" href="https://retroachievements.org/game/228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/066393.png" alt="Super Mario World"> <span>Super Mario World</span></a>                                     | 548           |
+| 2    | <a class="gameicon-link" href="https://retroachievements.org/achievement/3159" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/321909.png" alt="Shroooooms..."> <span>Shroooooms...</span></a>               | <a class="gameicon-link" href="https://retroachievements.org/game/1446" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/036035.png" alt="Super Mario Bros."> <span>Super Mario Bros.</span></a>                                    | 446           |
+| 3    | <a class="gameicon-link" href="https://retroachievements.org/achievement/947" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/123740.png" alt="You Can Spell!"> <span>You Can Spell!</span></a>              | <a class="gameicon-link" href="https://retroachievements.org/game/337" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041009.png" alt="Donkey Kong Country"> <span>Donkey Kong Country</span></a>                                 | 368           |
+| 4    | <a class="gameicon-link" href="https://retroachievements.org/achievement/2" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/250352.png" alt="Amateur Collector"> <span>Amateur Collector</span></a>          | <a class="gameicon-link" href="https://retroachievements.org/game/1" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/067895.png" alt="Sonic the Hedgehog"> <span>Sonic the Hedgehog</span></a>                                     | 318           |
+| 5    | <a class="gameicon-link" href="https://retroachievements.org/achievement/48638" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84220.png" alt="A New Journey"> <span>A New Journey</span></a>               | <a class="gameicon-link" href="https://retroachievements.org/game/10003" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/047942.png" alt="Super Mario 64"> <span>Super Mario 64</span></a>                                         | 292           |
+| 6    | <a class="gameicon-link" href="https://retroachievements.org/achievement/4126" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/143635.png" alt="Prepare For Take-Off"> <span>Prepare For Take-Off</span></a> | <a class="gameicon-link" href="https://retroachievements.org/game/1995" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/047650.png" alt="Super Mario Bros. 3"> <span>Super Mario Bros. 3</span></a>                                | 260           |
+| 7    | <a class="gameicon-link" href="https://retroachievements.org/achievement/82936" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89266.png" alt="Rutabaga!"> <span>Rutabaga!</span></a>                       | <a class="gameicon-link" href="https://retroachievements.org/game/10434" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/081157.png" alt="Crash Bandicoot"> <span>Crash Bandicoot</span></a>                                       | 242           |
+| 8    | <a class="gameicon-link" href="https://retroachievements.org/achievement/327028" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/368762.png" alt="What Might've Been"> <span>What Might've Been</span></a>   | <a class="gameicon-link" href="https://retroachievements.org/game/5677" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/075933.png" alt="Spider-Man 2"> <span>Spider-Man 2</span></a>                                              | 230           |
+| 9    | <a class="gameicon-link" href="https://retroachievements.org/achievement/7588" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/204958.png" alt="Oh Wow, a Present!"> <span>Oh Wow, a Present!</span></a>     | <a class="gameicon-link" href="https://retroachievements.org/game/677" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042438.png" alt="Mother 3"> <span>Mother 3</span></a>                                                       | 227           |
+| 10   | <a class="gameicon-link" href="https://retroachievements.org/achievement/82635" target="_blank" rel="noopener"> <img class="gameicon" src="https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89059.png" alt="What is a Man?"> <span>What is a Man?</span></a>             | <a class="gameicon-link" href="https://retroachievements.org/game/11240" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/042618.png" alt="Castlevania: Symphony of the Night"> <span>Castlevania: Symphony of the Night</span></a> | 217           |
 
 \* Hardcore only
 
@@ -593,3 +593,74 @@ Check out which developers created the most leaderboards this month.
     </div>
 </div>
 <br clear="left"/>
+
+# Tickets
+
+## General Stats <!-- 25 -->
+
+| Number of tickets created.                     | 1,046 | <!-- A -->
+| Number of tickets triggered at the wrong time. | 264   | <!-- B -->
+| Number of tickets did not trigger.             | 782   | <!-- C -->
+| Number of tickets resolved.                    | 628   | <!-- D -->
+| Number of tickets closed.                      | 423   | <!-- E -->
+
+## Console Breakdown <!-- F -->
+
+<div>
+    <div style='width:49%;display:inline-block;float:left'>
+    <table><thead><tr><th>Console</th><th>Tickets</th></tr></thead><tbody>
+        <tr><td>3DO Interactive Multiplayer </td><td>        3</td></tr>
+        <tr><td>Apple II                    </td><td>        1</td></tr>
+        <tr><td>Arcade                      </td><td>       24</td></tr>
+        <tr><td>Arduboy                     </td><td>        1</td></tr>
+        <tr><td>Atari 2600                  </td><td>        4</td></tr>
+        <tr><td>Atari 7800                  </td><td>        1</td></tr>
+        <tr><td>ColecoVision                </td><td>        2</td></tr>
+        <tr><td>Dreamcast                   </td><td>       14</td></tr>
+        <tr><td>Fairchild Channel F         </td><td>        1</td></tr>
+        <tr><td>Game Boy                    </td><td>       21</td></tr>
+        <tr><td>Game Boy Advance            </td><td>       97</td></tr>
+        <tr><td>Game Boy Color              </td><td>       25</td></tr>
+        <tr><td>Game Gear                   </td><td>        3</td></tr>
+        <tr><td>Intellivision               </td><td>        8</td></tr>
+        <tr><td>Interton VC 4000            </td><td>        3</td></tr>
+        <tr><td>Master System               </td><td>        7</td></tr>
+    </tbody></table>
+    </div> <div style='width:49%;display:inline-block;float:right'>
+    <table><thead><tr><th>Console</th><th>Tickets</th></tr></thead><tbody>
+        <tr><td>Mega Drive                  </td><td>       54</td></tr>
+        <tr><td>MSX                         </td><td>        1</td></tr>
+        <tr><td>Neo Geo Pocket              </td><td>        3</td></tr>
+        <tr><td>NES                         </td><td>       76</td></tr>
+        <tr><td>Nintendo 64                 </td><td>       27</td></tr>
+        <tr><td>Nintendo DS                 </td><td>       59</td></tr>
+        <tr><td>Nintendo DSi                </td><td>        9</td></tr>
+        <tr><td>PC Engine CD                </td><td>        8</td></tr>
+        <tr><td>PC-FX                       </td><td>        1</td></tr>
+        <tr><td>PlayStation                 </td><td>      177</td></tr>
+        <tr><td>PlayStation 2               </td><td>      261</td></tr>
+        <tr><td>PlayStation Portable        </td><td>       46</td></tr>
+        <tr><td>Saturn                      </td><td>       10</td></tr>
+        <tr><td>Sega CD                     </td><td>        3</td></tr>
+        <tr><td>SNES                        </td><td>       84</td></tr>
+        <tr><td>Uzebox                      </td><td>       12</td></tr>
+    </tbody></table>
+    </div>
+</div>
+<br clear="left"/>
+
+## Top 10 Ticket Hounds <!-- G -->
+Check out which developer cleared the most tickets this month. This does not inclue their own tickets.
+
+| Rank | User                           | Cleared Tickets |
+| ---- | ------------------------------ | --------------- |
+| 1    | {% rauserpic BoomEX %}         | 37              |
+| 2    | {% rauserpic televandalist %}  | 28              |
+| 3    | {% rauserpic ladynadiad %}     | 17              |
+| 4    | {% rauserpic Hotscrock %}      | 17              |
+| 5    | {% rauserpic suspect15 %}      | 14              |
+| 6    | {% rauserpic thegotoguyy %}    | 13              |
+| 7    | {% rauserpic Gollawiz %}       | 12              |
+| 8    | {% rauserpic TheMysticalOne %} | 11              |
+| 9    | {% rauserpic Falcus %}         | 11              |
+| 10   | {% rauserpic VampireLord %}    | 10              |

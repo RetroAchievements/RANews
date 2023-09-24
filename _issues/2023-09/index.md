@@ -11,7 +11,7 @@ toc_float: true
 ## Intro <!-- Update each issue -->
 Welcome to RANews, your #1 source for everything RetroAchievements. In this issue we'll be covering a wide range of topics, the impact of September 1989 on the history of video games. the latest in achievement and set news, tons of data organized throughout several articles, and much more. Whether you're a seasoned reader or a first-timer, our team ensures that every issue of RANews is packed with fresh and exciting content. So sit back, relax, and get ready to dive into the exciting world of RetroAchievements with RANews!
 
-Cover by:
+**Cover by:**
 <div class="bingo-winner-small">
     {% rauserpic Nydaxn %}
 </div>
@@ -20,6 +20,9 @@ Cover by:
 
 ## Community Submitted Content
 RANews thrives on community submitted content, Wish This Set, Play This Set and RAdvantage are only possibly if you allow it to be and send us your submissions for those articles. If you have any contributions that you would like to see featured in these articles, please send them in a direct message to {% rauser RANews %}.
+
+**NOTICE:**  
+Wish This Set, is taking a break this month. We'll be back next month, so if there's a game you'd like to see get an achievement set, let us know all about it by sending a private message.
 
 
 ## [RetroAchievements Development Experience](./development-experience.html)
@@ -46,7 +49,7 @@ In this section, we celebrate the user milestones reached this past month. We sh
 The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!
 
 
-## ---[Community News](./community-news.html)
+## [Community News](./community-news.html)
 Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
 
 
@@ -104,9 +107,19 @@ If you have an idea for an article to be published in the RANews, please go to t
 Keep in mind that the article must be written in Markdown format. If you don’t know it, you can learn it in 10 minutes following this online tutorial here: <https://commonmark.org/help/tutorial/> (it’s pretty similar to what you may be already using on discord).
 
 
-## ---Acknowledgments
+## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                                 |                              |                                 |
-| ------------------------------- | ---------------------------- | ------------------------------- |
-
+|                                 |                              |                              |
+| ------------------------------- | ---------------------------- | ---------------------------- |
+| {% rauserpic BatFastardJordy %} | {% rauserpic Bendyhuman %}   | {% rauserpic Brandovsky %}   |
+| {% rauserpic DevCompliance %}   | {% rauserpic diablo666 %}    | {% rauserpic Enagonius %}    |
+| {% rauserpic Etron %}           | {% rauserpic Glendaal %}     | {% rauserpic HolyRayne %}    |
+| {% rauserpic HolyShinx %}       | {% rauserpic Hotscrock %}    | {% rauserpic KhobarKast %}   |
+| {% rauserpic MelodyAsh %}       | {% rauserpic MrOwnership %}  | {% rauserpic Nepiki %}       |
+| {% rauserpic Nydaxn %}          | {% rauserpic PenguGG %}      | {% rauserpic pinguupinguu %} |
+| {% rauserpic QATeam %}          | {% rauserpic RANews %}       | {% rauserpic Raykusen %}     |
+| {% rauserpic RetroGameMaster %} | {% rauserpic ShadwSonic %}   | {% rauserpic Sines %}        |
+| {% rauserpic Snow %}            | {% rauserpic SporyTike %}    | {% rauserpic StingX2 %}      |
+| {% rauserpic suXin %}           | {% rauserpic theelkspeaks %} | {% rauserpic theelkspeaks %} |
+| {% rauserpic TimeCrush %}       | {% rauserpic Xymjak %}       |                              |

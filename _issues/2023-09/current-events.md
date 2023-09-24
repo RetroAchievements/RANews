@@ -60,14 +60,13 @@ These events are open to any community member who wants to participate.
   - {% rauserpic ruuzilla %}
 
 
-
 ## The Unwanted
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=14787>
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
 - Current Winners:
-  - Month 38: Best Gamer: {% rauserpic  %}, Best Dev Fixer: {% rauserpic  %}
+  - Month 38: Best Gamer: {% rauserpic alundra82 %}, Best Dev Fixer: {% rauserpic Hotscrock %}
 - Previous Winners:
   - Month 37: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic Hotscrock %}
   - Month 36: Best Gamer: {% rauserpic MelodyAsh %}, Best Dev Fixer: {% rauserpic kmpers %}
@@ -87,22 +86,19 @@ These events are open to any community member who wants to participate.
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=20193>
 - Period: January 2023 - Current
 - Host: {% rauserpic RAEvents %}
-- Current top 10:  
-  1: {% rauserpic Akai %} - 91 Points  
-  2: {% rauserpic WanderingHeiho %} - 88 Points  
-  3: {% rauserpic Silveryami %} - 68 Points  
-  4: {% rauserpic Agnam %} - 58 Points  
-  5: {% rauserpic Sutarion %} - 56 Points  
-  5: {% rauserpic Tayadaoc %} - 56 Points  
-  7: {% rauserpic Amine456 %} - 53 Points  
-  8: {% rauserpic Dennis1543 %} - 52 Points  
-  8: {% rauserpic Erodion %} - 52 Points  
-  8: {% rauserpic freezestar %} - 52 Points  
-  8: {% rauserpic heintsi %} - 52 Points  
-  8: {% rauserpic NEOMAR %} - 52 Points  
-  8: {% rauserpic PenguGG %} - 52 Points  
-  8: {% rauserpic PlayFast %} - 52 Points  
-  8: {% rauserpic TheJohanx %} - 52 Points  
+- Current Winners: 15
+- Top 10 without Winners:  
+  1: {% rauserpic Whynot15 %} - 49 Points  
+  2: {% rauserpic Amir96lx %} - 48 Points  
+  3: {% rauserpic FlamingDoom %} - 47 Points  
+  3: {% rauserpic Olafur %} - 47 Points  
+  5: {% rauserpic Xymjak %} - 45 Points  
+  6: {% rauserpic Sef %} - 44 Points  
+  7: {% rauserpic Xionx %} - 43 Points  
+  8: {% rauserpic bigdud24 %} - 42 Points  
+  8: {% rauserpic Lonoke31 %} - 42 Points  
+  10: {% rauserpic Bendyhuman %} - 38 Points  
+  10: {% rauserpic Enagonius %} - 38 Points  
 
 
 ## Challenge League Top 100
