@@ -31,7 +31,7 @@ category: Spot The Difference
 Characters from the Marvel and Capcom series clash together to find out who the strongest of them is. Each battle consists of multiple rounds and while the power of the teams seem to be equally, there are several differences in the second round of the battle between Team Tron Bonne and Team Wolverine. Can you find all 10 differences?
 
 <p align="center">
-  <img src="img/Fun/SpotTheDifferenceTemp.png" />
+  <img src="img/Fun/SpotTheDifference.png" />
 </p>
 
 ## About the Game

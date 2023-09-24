@@ -7,6 +7,24 @@ title: Community News
 toc: true
 ---
 
+## Progression Tagging
+A new progression tagging system is in the works, this allows developers to tag specific achievements as "progression" and "Win Condition". When the set progression criteria is met, this will mark the game as "Beaten" for the player. More is in the works on this feature, for now we can share a couple stats on the ongoing effort to update all the sets for the new tagging system.
+
+- 5,100+ achievement sets with progression tagging.
+- 98.5% of Top 200 games have achievements tagged.
+- 65.8% of all achievement sets have been tagged.
+- 106,000+ Beaten game awards granted.
+
+### Top 5 Most Commonly Beaten Games
+
+| Game                                                                                                                                                                                                                                                    | Console    | Awards |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
+| <a class="gameicon-link" href="https://retroachievements.org/game/706" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/051343.png" alt=""> <span>Kirby's Dream Land</span></a>                          | Game Boy   | 1,153  |
+| <a class="gameicon-link" href="https://retroachievements.org/game/228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/066393.png" alt=""> <span>Super Mario World</span></a>                           | SNES       | 1,048  |
+| <a class="gameicon-link" href="https://retroachievements.org/game/355" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/059119.png" alt=""> <span>Legend of Zelda, The: A Link to the Past</span></a>    | SNES       | 829    |
+| <a class="gameicon-link" href="https://retroachievements.org/game/724" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/034419.png" alt=""> <span>Pokemon Red Version \| Pokemon Blue Version</span></a> | Game Boy   | 795    |
+| <a class="gameicon-link" href="https://retroachievements.org/game/1" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/067895.png" alt=""> <span>Sonic the Hedgehog</span></a>                            | Mega Drive | 703    |
+
 ## Official RA YouTube
 
 An official [RetroAchievements YouTube Channel](https://www.youtube.com/@retrocheevos) has been created. We're looking for users who may already have videos or would like to make videos to contribute to the channel.

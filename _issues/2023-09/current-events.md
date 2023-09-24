@@ -48,7 +48,7 @@ These events are open to any community member who wants to participate.
 
 ## Console Wars
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=20706>
-- Period: March 2023 - Current
+- Period: March 2023 - August 2023
 - Host: {% rauserpic BahamutVoid %}
 - Current Leaders with 44 points:
   - {% rauserpic 14ausher %}
