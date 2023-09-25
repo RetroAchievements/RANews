@@ -9,7 +9,7 @@ toc_float: true
 ---
 
 ## Intro <!-- Update each issue -->
-Welcome to RANews, your #1 source for everything RetroAchievements. In this issue we'll be covering a wide range of topics, the impact of September 1989 on the history of video games. the latest in achievement and set news, tons of data organized throughout several articles, and much more. Whether you're a seasoned reader or a first-timer, our team ensures that every issue of RANews is packed with fresh and exciting content. So sit back, relax, and get ready to dive into the exciting world of RetroAchievements with RANews!
+Welcome to RANews, your #1 source for everything RetroAchievements. In this issue we'll be covering a wide range of topics, the impact of September 1989 on the history of video games, the latest in achievement and set news, tons of data organized throughout several articles, and much more. Whether you're a seasoned reader or a first-timer, our team ensures that every issue of RANews is packed with fresh and exciting content. So sit back, relax, and get ready to dive into the exciting world of RetroAchievements with RANews!
 
 **Cover by:**
 <div class="bingo-winner-small">
@@ -26,7 +26,7 @@ Wish This Set, is taking a break this month. We'll be back next month, so if the
 
 
 ## [RetroAchievements Development Experience](./development-experience.html)
-In the summer of 2021, {% rauser suXin %} stumbled upon retroachievements.com on their Twitter feed, sparking their interest in the world of retro gaming achievements. What began as a casual curiosity evolved into a deep dive into achievement development for various classic games across different consoles, leading them to share their experiences and insights with the rest of the community.
+In the summer of 2021, {% rauser suXin %} stumbled upon retroachievements.com on his Twitter feed, sparking his interest in the world of retro gaming achievements. What began as a casual curiosity evolved into a deep dive into achievement development for various classic games across different consoles, leading him to share his experiences and insights with the rest of the community.
 
 
 ## [Set of the Month](./set-of-the-month.html)

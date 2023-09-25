@@ -8,6 +8,10 @@ toc: true
 toc_float: false
 ---
 
+**Originally posted on suXin's personal blog, which you can find [here](https://suxin.space/notes/retroachievements-development-experience/)**
+
+***
+
 During the stressful mid-late summer of 2021 I've noticed [retroachievements.com](https://retroachievements.org/) show up on my Twitter feed. I actually found out about it several years prior, but didn't bother because I had an impression it's not polished enough, and the platforms supported were too retro for me. This is definitely not the case anymore: much more game consoles are supported, and new achievement sets are reviewed by people with the experience to ensure quality (only if developer is new). Initially I looked into [available PlayStation games](https://retroachievements.org/gameList.php?c=12) and got an excuse to replay [the original Gran Turismo](https://retroachievements.org/game/11320), and while playing I thought: _there are no Colony Wars achievements, if no one else did them so far then who will? Me, I guess. I could give it a try._
 
 I wonder how many people actually developed their first achievement set with same exact motivation. In this blogpost I want to introduce you to the whole thing, share my struggles and give an opinion on achievement development workflow through perspective of a regular programmer.
