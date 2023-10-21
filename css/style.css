@@ -348,7 +348,7 @@ main nav > span {
 }
 
 main > article {
-  max-width: 720px;
+  max-width: 1024px;
   margin: 0 auto;
   padding: 40px;
 }
@@ -474,7 +474,7 @@ main > article table tbody tr:hover {
  * main content
  ********************************************************************/
 
-@media (max-width: 720px) {
+@media (max-width: 1024px) {
   .grid {
     grid-template-columns: 1fr;
   }
