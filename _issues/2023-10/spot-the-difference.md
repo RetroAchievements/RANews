@@ -29,7 +29,7 @@ category: Spot The Difference
 In the year 2142 a species called Morphs is attacking the planet. Intelligence Agent Conrad B. Hart escapes but loses his memory and finds himself in a jungle. While being unconscious there, a lot of time passes and things change. Can you find all 10 differences?
 
 <p align="center">
-  <img src="img/Fun/SpotTheDifferenceTemp.png" />
+  <img src="img/Fun/SpotTheDifference.png" />
 </p>
 
 ## About the Game
