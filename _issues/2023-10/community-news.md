@@ -39,13 +39,30 @@ If you're interested in making content for the channel reach out to {% rauserpic
 
 ## Developer Compliance
 
-### Progression Guidelines
-
 ### Set Approvals
+- [Tony Hawk's Project 8 [Subset - Single Run Classic Goals]](https://retroachievements.org/game/25687)
+- [King's Field IV](https://retroachievements.org/game/2675) [All Weapons Max Level]
+- [Radiata Stories [Subset - Fireworks Festival Dates]](https://retroachievements.org/game/25835)
+- [Super Mario 64 [Subset - Speedrun Showcase]](https://retroachievements.org/game/25863)
+- [~Hack~ Teenage Mutant Ninja Turtles: Shredder's Re-Revenge [Subset - Mania]](https://retroachievements.org/game/25811)
+- [~Hack~ Teenage Mutant Ninja Turtles Shredder's Re-Revenge [Subset - Multi]](https://retroachievements.org/game/25808)
+- [Super Mario World](https://retroachievements.org/game/228) - RA Level Design Contest
+- [Rock n' Bolt [Subset - Overtime Overload]](https://retroachievements.org/game/25998)
 
 ### Updated Achievements
+- [Can't Touch This](https://retroachievements.org/achievement/23161) updated to 35 points.
+- [Kamikaze ZXY 250](https://retroachievements.org/achievement/353579) updated level requirement.
+
+### Demoted Achievements
+- [Hate Made Flesh](https://retroachievements.org/achievement/157135) demoted for achievement spam.
 
 ### Approved Reauthors
+- [Venom and Spider-Man: Separation Anxiety](https://retroachievements.org/game/1180)
+- [Shaman King: Master of Spirits](https://retroachievements.org/game/527)
+- [Action Man: Robot Atak](https://retroachievements.org/game/9848)
+- [Zunou Senkan Galg](https://retroachievements.org/game/4816)
+- [Final Fantasy Anthology: Final Fantasy V](https://retroachievements.org/game/14435)
+- [Sinistar](https://retroachievements.org/game/15125)
 
 ## Site Updates
 

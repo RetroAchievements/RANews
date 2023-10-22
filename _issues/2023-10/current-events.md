@@ -78,7 +78,7 @@ The Halloween 2023 event is live and waiting for you to master some spooky games
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
 - Current Winners:
-  - Month 39: Best Gamer: {% rauserpic %}, Best Dev Fixer: {% rauserpic %}
+  - Month 39: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic kmpers %}
 - Previous Winners:
   - Month 38: Best Gamer: {% rauserpic alundra82 %}, Best Dev Fixer: {% rauserpic Hotscrock %}
   - Month 37: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic Hotscrock %}
@@ -100,16 +100,16 @@ The Halloween 2023 event is live and waiting for you to master some spooky games
 - Host: {% rauserpic RAEvents %}
 - Current Winners: 19
 - Top 10 without Winners:  
-  1: {% rauserpic WanderingHeiho %} - 99 Points  
-  2: {% rauserpic Akai %} - 98 Points  
-  3: {% rauserpic Silveryami %} - 80 Points  
-  4: {% rauserpic Agnam %} - 58 Points  
-  4: {% rauserpic heintsi %} - 58 Points  
-  4: {% rauserpic PenguGG %} - 58 Points  
-  7: {% rauserpic Tayadaoc %} - 57 Points  
-  8: {% rauserpic Sutarion %} - 56 Points  
-  9: {% rauserpic Amir96lx %} - 54 Points  
-  10: {% rauserpic amine456 %} - 53 Points  
+  1: {% rauserpic Xymjak %} - 51 Points  
+  2: {% rauserpic Sef %} - 50 Points  
+  3: {% rauserpic bigdud24 %} - 49 Points  
+  4: {% rauserpic Enagonius %} - 48 Points  
+  4: {% rauserpic Lonoke31 %} - 48 Points  
+  4: {% rauserpic Pudpod %} - 48 Points  
+  7: {% rauserpic Xionx %} - 47 Points  
+  8: {% rauserpic BendyHuman %} - 46 Points  
+  9: {% rauserpic Blatancy %} - 45 Points  
+  10: {% rauserpic  MarioKness %} - 44 Points  
 
 
 ## Challenge League Top 100

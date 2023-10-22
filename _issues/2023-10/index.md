@@ -19,7 +19,7 @@ Welcome to RANews, your #1 source for everything RetroAchievements. In this issu
 <br clear="right"/>
 
 ## Community Submitted Content
-RANews thrives on community submitted content,z Wish This Set, Play This Set and RAdvantage are only possibly if you allow it to be and send us your submissions for those articles. If you have any contributions that you would like to see featured in these articles, please send them in a direct message to {% rauser RANews %}.
+RANews thrives on community submitted content, Wish This Set, Play This Set and RAdvantage are only possibly if you allow it to be and send us your submissions for those articles. If you have any contributions that you would like to see featured in these articles, please send them in a direct message to {% rauser RANews %}.
 
 
 ## [Console Wars](./console-wars.html)
