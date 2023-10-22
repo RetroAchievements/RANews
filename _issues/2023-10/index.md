@@ -1,6 +1,6 @@
 ---
 issue: 2023-10
-order: 2023010-00
+order: 202310-00
 layout: article
 title: Introduction
 author: MrOwnership
