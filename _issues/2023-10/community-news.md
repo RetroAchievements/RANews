@@ -50,7 +50,7 @@ If you're interested in making content for the channel reach out to {% rauserpic
 - [Rock n' Bolt [Subset - Overtime Overload]](https://retroachievements.org/game/25998)
 
 ### Updated Achievements
-- [Can't Touch This](https://retroachievements.org/achievement/23161) updated to 35 points.
+- [Can't Touch This](https://retroachievements.org/achievement/23161) updated to 25 points.
 - [Kamikaze ZXY 250](https://retroachievements.org/achievement/353579) updated level requirement.
 
 ### Demoted Achievements
