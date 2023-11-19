@@ -140,7 +140,7 @@ bingo winner
 bingo winner small
 *********************************************************************/
 .bingo-winner-small {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 2em;
 }
