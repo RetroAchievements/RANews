@@ -46,6 +46,10 @@ In this section, we celebrate the user milestones reached this past month. We sh
 The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!
 
 
+## [Halloween Collage 2023](./halloween-collage.html)
+Take a look at the community fanart that was submitted as part of the Halloween event. Which one of the spooky fanarts is youre favorite?
+
+
 ## [Community News](./community-news.html)
 Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
 
@@ -103,7 +107,7 @@ In this section, we challenge readers to put their observation skills to the tes
 
 
 ## [RA Crossword](./crossword.html)
-Unleash your inner wordsmith and conquer the clever clues that await in this months Crossword puzzle.
+THe RA Crossword puzzles makes it debut in this issue. Unleash your inner wordsmith and conquer the clever clues that await in this months Crossword puzzle.
 
 
 ## How to Contribute with RANews

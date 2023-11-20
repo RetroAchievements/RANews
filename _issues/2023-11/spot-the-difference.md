@@ -43,7 +43,7 @@ category: Spot The Difference
 ToeJam and Earl love to do parties and so they do another one today. After a while Earl mentions that the party is similar to another one they had except 10 things. Can you find all 10 differences?
 
 <p align="center">
-  <img src="img/Fun/SpotTheDifferenceTemp.png" />
+  <img src="img/Fun/SpotTheDifference.png" />
 </p>
 
 ## About the Game
