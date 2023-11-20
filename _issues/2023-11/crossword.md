@@ -6,6 +6,8 @@ title: RA Crossword
 author: Nevermond12
 ---
 
+Complete the crossword and send the results to {% rauserpic Nevermond12 %} to get your name featured in next months issue.
+
 <p align="center">
   <img src="img/Fun/crossword.png" />
 </p>

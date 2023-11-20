@@ -23,16 +23,16 @@ These events are open to any community member who wants to participate.
 The Halloween 2023 event has concluded with lots of participation, fanart, and awards to be given out soon. Check out the [forum topic](https://retroachievements.org/viewtopic.php?t=24016) for andditional information on the event.
 
 The following number of badges have earned:
-- 92 Gold - Oogie Boogie
-- 121 Silver - Ghostbusters
-- 234 Bronze - Slenderman
+- 115 Gold - Oogie Boogie
+- 145 Silver - Ghostbusters
+- 248 Bronze - Slenderman
 
 As part of the event, players were able to submit fanart earning them a point for the event. Checkout out all the submitted fanart in the [Halloween Collage 2023](./halloween-collage.html).
 
 
 ## Retro Olympics 2023
 
-Retro Olympics is back for anohte ryear. The event will take place each Saturday starting in January and running through into March, starting at 5PM UTC. There's a list of 35 games ready for this years edition, with plenty of room to show off all kind of gamer skills.
+Retro Olympics is back for another year. The event will take place each Saturday starting in January and running through into March, starting at 5PM UTC. There's a list of 35 games ready for this years edition, with plenty of room to show off all kind of gamer skills.
 
 Sign ups and additional information on the event can be found at https://retroolympics.com/.
 
@@ -85,7 +85,7 @@ Check out the [forum topic](https://retroachievements.org/viewtopic.php?t=24475)
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
 - Current Winners:
-  - Month 40: Best Gamer: {% rauserpic  %}, Best Dev Fixer: {% rauserpic  %}
+  - Month 40: Best Gamer: {% rauserpic kmpers %}, Best Dev Fixer: {% rauserpic MelodyAsh %}
 - Previous Winners:
   - Month 39: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic kmpers %}
   - Month 38: Best Gamer: {% rauserpic alundra82 %}, Best Dev Fixer: {% rauserpic Hotscrock %}
@@ -105,9 +105,18 @@ Check out the [forum topic](https://retroachievements.org/viewtopic.php?t=24475)
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=20193>
 - Period: January 2023 - Current
 - Host: {% rauserpic RAEvents %}
-- Current Winners: 19
+- Current Winners: 23
 - Top 10 without Winners:  
-
+  1: {% rauserpic MarioKness %} - 51 Points  
+  1: {% rauserpic Xionx %} - 51 Points  
+  3: {% rauserpic bigdud24 %} - 50 Points  
+  3: {% rauserpic Lonoke31 %} - 50 Points  
+  3: {% rauserpic Sef %} - 50 Points  
+  6: {% rauserpic Blatancy %} - 49 Points  
+  7: {% rauserpic AmazingBaha %} - 48 Points  
+  7: {% rauserpic Enagonius %} - 48 Points  
+  9: {% rauserpic KlydeKadell %} - 47 Points  
+  9: {% rauserpic Roroprata %} - 47 Points  
 
 ## Challenge League Top 100
 

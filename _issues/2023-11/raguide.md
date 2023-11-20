@@ -4,7 +4,7 @@ order: 202311-30
 layout: article
 category: RAGuide
 title: "Eternal Eyes"
-author: Cykette
+author: cykette
 toc: true
 ---
 

@@ -46,7 +46,7 @@ In this section, we celebrate the user milestones reached this past month. We sh
 The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!
 
 
-## ---[Community News](./community-news.html)
+## [Community News](./community-news.html)
 Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
 
 
@@ -115,17 +115,20 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                                 |                               |                                 |
-| ------------------------------- | ----------------------------- | ------------------------------- |
-| {% rauserpic AfroRyan %}        | {% rauserpic AstrodomeKid %}  | {% rauserpic BahamutVoid %}     |
-| {% rauserpic BatFastardJordy %} | {% rauserpic Bendyhuman %}    | {% rauserpic Brandovsky %}      |
-| {% rauserpic cicadahuman %}     | {% rauserpic DevCompliance %} | {% rauserpic EthGoesBOOM %}     |
-| {% rauserpic Etron %}           | {% rauserpic Glendaal %}      | {% rauserpic Guinea %}          |
-| {% rauserpic HolyShinx %}       | {% rauserpic Hotscrock %}     | {% rauserpic Lilpaulo3232 %}    |
-| {% rauserpic MrOwnership %}     | {% rauserpic Nepiki %}        | {% rauserpic Nydaxn %}          |
-| {% rauserpic pinguupinguu %}    | {% rauserpic PlugMeister %}   | {% rauserpic QATeam %}          |
-| {% rauserpic RANews %}          | {% rauserpic Raykusen %}      | {% rauserpic RetroGameMaster %} |
-| {% rauserpic ShadwSonic %}      | {% rauserpic Sines %}         | {% rauserpic Snow %}            |
-| {% rauserpic SporyTike %}       | {% rauserpic StingX2 %}       | {% rauserpic SuperMeatBro %}    |
-| {% rauserpic TimeCrush %}       | {% rauserpic WarioFan63 %}    | {% rauserpic Whynot15 %}        |
-| {% rauserpic Xymjak %}          | {% rauserpic yuvi3000 %}      |                                 |
+|                                 |                                 |                                 |
+| ------------------------------- | ------------------------------- | ------------------------------- |
+| {% rauserpic 1stPrize %}        | {% rauserpic AmazingBaha %}     | {% rauserpic BatFastardJordy %} |
+| {% rauserpic Bearfax62 %}       | {% rauserpic Bendyhuman %}      | {% rauserpic Brandovsky %}      |
+| {% rauserpic BrothersGames %}   | {% rauserpic CassetteCobra %}   | {% rauserpic Chauckles %}       |
+| {% rauserpic cykette %}         | {% rauserpic DevCompliance %}   | {% rauserpic Enagonius %}       |
+| {% rauserpic Erodion %}         | {% rauserpic Etron %}           | {% rauserpic Glendaal %}        |
+| {% rauserpic HolyShinx %}       | {% rauserpic Hotscrock %}       | {% rauserpic JamesBond %}       |
+| {% rauserpic JRodslegend %}     | {% rauserpic ManyHours %}       | {% rauserpic MrOwnership %}     |
+| {% rauserpic mywifeleftm %}     | {% rauserpic Nepiki %}          | {% rauserpic Nevermond12 %}     |
+| {% rauserpic Nydaxn %}          | {% rauserpic PenguGG %}         | {% rauserpic pinguupinguu %}    |
+| {% rauserpic QATeam %}          | {% rauserpic RANews %}          | {% rauserpic Raykusen %}        |
+| {% rauserpic RetroGameMaster %} | {% rauserpic SamsamDaGameMan %} | {% rauserpic Scott %}           |
+| {% rauserpic ShadwSonic %}      | {% rauserpic Sines %}           | {% rauserpic Snow %}            |
+| {% rauserpic SporyTike %}       | {% rauserpic StingX2 %}         | {% rauserpic SuperMeatBro %}    |
+| {% rauserpic Sutarion %}        | {% rauserpic Tdiggity13 %}      | {% rauserpic theelkspeaks %}    |
+| {% rauserpic TimeCrush %}       | {% rauserpic WanderingHeiho %}  | {% rauserpic Xymjak %}          |
