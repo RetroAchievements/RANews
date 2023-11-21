@@ -131,11 +131,11 @@ This title in the [Ape Escape](https://retroachievements.org/game/3028) series s
 
 <br clear="left"/>
 
-## One Piece: Big Secret Treasure of the Seven Phantom Islands (Game Boy Advance)
+## One Piece: Great Hidden Treasure of the Nanatsu Islands (Game Boy Advance)
 
-| Game                                                                                                                                                                                                                                                                                                                                      | Console          | Genre             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/2174" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png" alt="One Piece: Big Secret Treasure of the Seven Phantom Islands"> <span>One Piece: Big Secret Treasure of the Seven Phantom Islands</span></a> | Game Boy Advance | Role=Playing Game |
+| Game                                                                                                                                                                                                                                                                                                                              | Console          | Genre             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/2174" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png" alt="One Piece: Great Hidden Treasure of the Nanatsu Islands"> <span>One Piece: Great Hidden Treasure of the Nanatsu Islands</span></a> | Game Boy Advance | Role-Playing Game |
 
 * Writeup by: {% rauserpic CassetteCobra %}
 

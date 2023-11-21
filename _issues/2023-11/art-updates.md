@@ -231,11 +231,25 @@ toc: true
 
 <a href="#toc">:top:</a>
 
+### Game Boy
+
+#### Mega Man II
+ 
+**New badges by {% rauser Bryan1150 %}.**
+ 
+**Previous Badges:**
+
+![before](https://github.com/RetroAchievements/RANews/assets/53956327/9a5e5812-de52-4cea-b85d-2d472f1bbc26)
+ 
+**Current Badges:**
+
+![after](https://github.com/RetroAchievements/RANews/assets/53956327/b8c833b7-d3b4-4bfe-a5e3-ee51c5bd8cd2)
+
+<a href="#toc">:top:</a>
+
+
 
 ### Game Boy Advance
-
-
-
 
 #### Super Mario World: Super Mario Advance 2
  
@@ -290,26 +304,4 @@ toc: true
 ![after](https://github.com/RetroAchievements/RANews/assets/53956327/6072c2d1-88de-472a-a386-b24e6c3e0be4)
 
 <a href="#toc">:top:</a>
-
-
-### PlayStation
-
-
-
-
-#### Syndicate Wars
- 
-**New badges by {% rauser Bryan1150 %}.**
- 
-**Previous Badges:**
-
-![before](https://github.com/RetroAchievements/RANews/assets/53956327/9a5e5812-de52-4cea-b85d-2d472f1bbc26)
- 
-**Current Badges:**
-
-![after](https://github.com/RetroAchievements/RANews/assets/53956327/b8c833b7-d3b4-4bfe-a5e3-ee51c5bd8cd2)
-
-<a href="#toc">:top:</a>
-
-
 
