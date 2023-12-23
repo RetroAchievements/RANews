@@ -139,24 +139,20 @@ The game released on both the DS and PSP and as far as I can tell both ports hav
 
 <br clear="left"/>
 
-## Corvette (PlayStation 2)
+## \~Hack~ Fire Emblem: Storge (Game Boy Advance)
 
-| Game                                                                                                                                                                                                                                 | Console       | Genre                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | -------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/20773" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/076260.png" alt="Corvette"> <span>Corvette</span></a> | PlayStation 2 | [Racing](https://retroachievements.org/game/14240) |
+| Game                                                                                                                                                                                                                                                                     | Console          | Genre                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/26633" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/084206.png" alt="~Hack~ Fire Emblem: Storge"> <span>~Hack~ Fire Emblem: Storge</span></a> | Game Boy Advance | [Tactical RPG](https://retroachievements.org/game/3069) |
 
-* Writeup by: {% rauserpic AstrodomeKid %}
+* Writeup by: {% rauserpic SegoeUI %}
 
 <figure style="text-align:center;float:right;width:50%;height:50%">
-<img src="https://media.retroachievements.org/Images/076066.png">
+<img src="https://media.retroachievements.org/Images/084208.png">
 <figcaption></figcaption>
 </figure>
 
-This was an arcade/sim racer published by Global Star Software and developed by Steel Monkeys. Originally released for PC in 2003 (and later ported to PS2) to celebrate the legendary namesake's 50th Anniversary, it allowed fans to drive almost every Corvette ever made at the time, including standard models, limited editions, race models, and even police models.
-
-It has both an arcade mode and a career mode, each with an Amateur mode where you race all the standard Corvettes throughout the years and a Professional mode for the special models. Arcade mode, as you can imagine, is a no-frills mode that lets you race in any order you want, while Career mode uses a more linear path where winning races unlocks upgrades to enhance your Corvette's performance. In addition, it has five unlockable special modes where you can take on time trials, one-on-one, endurance races, etc. And by completing modes or winning every race within a specific generation in arcade or career, you will unlock trophies and movies honoring your accomplishments. And this trophy system would work great as inspiration for devs to create achievements on the site.
-
-I wouldn't call this game a masterpiece, but I love it nonetheless, especially with all the childhood memories I have of it. If you're a Corvette fan like me or just have a thing for racing games, definitely give this one a shot.
+Storge is a fully custom strategy RPG campaign built on top of Fire Emblem: The Sacred Stones. While there's plenty of Fire Emblem romhacks I wouldn't mind seeing, this one stands out due to its unique design niche. Storge is short (only 6 full maps), highly variable based on player choice, and designed to be replayed. The game's concept: You are a merchant looking for mercenaries to get you from point A to point B. You have a limited amount of funds to hire your bodyguards, properly outfit them with weapons and useful items, and deal with the situations that the campaign puts you into. If you aren't looking ahead, you've only got an educated guess about which hirelings will be the most useful, and their quality varies widely from obvious scrubs (but hey, he's dirt cheap!) to blatantly overpowered juggernauts (hmm, looks like he's requesting... 95% of my starting funds??). Taking along everybody in one run won't be an option. I think this hack could lend itself well to a whole variety of challenges regarding how you manage your resources and what characters you bring through the journey, and after getting a taste of the gameplay I'm itching to see more.
 
 <br clear="right"/>
 

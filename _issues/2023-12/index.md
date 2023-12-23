@@ -125,7 +125,7 @@ The RANews project wouldn't be possible without the contributions of many passio
 |                                 |                                 |                              |
 | ------------------------------- | ------------------------------- | ---------------------------- |
 | {% rauserpic AmazingBaha %}     | {% rauserpic Amir96lx %}        | {% rauserpic AssClownKing %} |
-| {% rauserpic AstrodomeKid %}    | {% rauserpic BatFastardJordy %} | {% rauserpic Bendyhuman %}   |
+| {% rauserpic SegoeUI %}         | {% rauserpic BatFastardJordy %} | {% rauserpic Bendyhuman %}   |
 | {% rauserpic Brandovsky %}      | {% rauserpic Chauckles %}       | {% rauserpic ChristinRex %}  |
 | {% rauserpic cicadahuman %}     | {% rauserpic DevCompliance %}   | {% rauserpic Enagonius %}    |
 | {% rauserpic Etron %}           | {% rauserpic Glendaal %}        | {% rauserpic GrampyBack %}   |

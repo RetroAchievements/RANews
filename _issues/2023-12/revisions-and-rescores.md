@@ -107,9 +107,9 @@ toc: true
 ### PC Engine
 
 
-| Game                                                                                                                                                                                                                                               | Revision Author        | Genre |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/15684" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/031105.png" alt="Final Match Tennis"> <span>Final Match Tennis</span></a> | {% rauser Bryan1150 %} | -     |
+| Game                                                                                                                                                                                                                                               | Revision Author        | Genre           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/15684" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/031105.png" alt="Final Match Tennis"> <span>Final Match Tennis</span></a> | {% rauser Bryan1150 %} | Sports - Tennis |
 
 <a href="#toc">:top:</a>
 
