@@ -15,6 +15,7 @@ Check out some general stats from this month.
 | Number of hardcore achievements earned.                          | 978,409    | <!-- 02 -->
 | Number of code notes created.                                    | 26,859     | <!-- 03 -->
 | Number of mastery awards awarded.                                | 10,527     | <!-- 04 -->
+| Number of beaten awards awarded.                                 | 16,601     | <!-- 04B -->
 | Number of set requests made.                                     | 3,431      | <!-- 05 -->
 | Number of leaderboards created.                                  | 1,733      | <!-- 06 -->
 | Number of leaderboard entries submitted.                         | 159,648    | <!-- 07 -->
@@ -432,6 +433,103 @@ Check out which sets were mastered most this month.
 | 8    | <a class="gameicon-link" href="https://retroachievements.org/game/10646" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/082474.png" alt="Scooby-Doo! Classic Creep Capers (Nintendo 64)"> <span>Scooby-Doo! Classic Creep Capers (Nintendo 64)</span></a>                             | 52     |
 | 9    | <a class="gameicon-link" href="https://retroachievements.org/game/13393" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/019687.png" alt="~Homebrew~ Cookie Clicker (NES)"> <span>~Homebrew~ Cookie Clicker (NES)</span></a>                                                           | 50     |
 | 10   | <a class="gameicon-link" href="https://retroachievements.org/game/8915" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/084084.png" alt="Dora the Explorer: Dora's World Adventure (Game Boy Advance)"> <span>Dora the Explorer: Dora's World Adventure (Game Boy Advance)</span></a>  | 47     |
+
+# Beaten Awards
+
+## Console Breakdown <!-- 19B -->
+<div>
+    <div style='width:49%;display:inline-block;float:left'>
+    <table><thead><tr><th>Console</th><th>Awards</th></tr></thead><tbody>
+        <tr><td> 32X                         </td><td>38</td></tr>
+        <tr><td> 3DO Interactive Multiplayer </td><td>32</td></tr>
+        <tr><td> Amstrad CPC                 </td><td>16</td></tr>
+        <tr><td> Apple II                    </td><td>127</td></tr>
+        <tr><td> Arcade                      </td><td>707</td></tr>
+        <tr><td> Arcadia 2001                </td><td>42</td></tr>
+        <tr><td> Arduboy                     </td><td>138</td></tr>
+        <tr><td> Atari 2600                  </td><td>725</td></tr>
+        <tr><td> Atari 7800                  </td><td>33</td></tr>
+        <tr><td> Atari Jaguar                </td><td>5</td></tr>
+        <tr><td> Atari Jaguar CD             </td><td>5</td></tr>
+        <tr><td> Atari Lynx                  </td><td>25</td></tr>
+        <tr><td> ColecoVision                </td><td>35</td></tr>
+        <tr><td> Dreamcast                   </td><td>192</td></tr>
+        <tr><td> Elektor TV Games Computer   </td><td>51</td></tr>
+        <tr><td> Fairchild Channel F         </td><td>79</td></tr>
+        <tr><td> Game Boy                    </td><td>1,034</td></tr>
+        <tr><td> Game Boy Advance            </td><td>1,506</td></tr>
+        <tr><td> Game Boy Color              </td><td>740</td></tr>
+        <tr><td> Game Gear                   </td><td>152</td></tr>
+        <tr><td> Intellivision               </td><td>35</td></tr>
+        <tr><td> Interton VC 4000            </td><td>45</td></tr>
+        <tr><td> Magnavox Odyssey 2          </td><td>22</td></tr>
+        <tr><td> Master System               </td><td>150</td></tr>
+        <tr><td> Mega Drive                  </td><td>715</td></tr>
+        <tr><td> Mega Duck                   </td><td>10</td></tr>
+    </tbody></table>
+    </div> <div style='width:49%;display:inline-block;float:right'>
+    <table><thead><tr><th>Console</th><th>Awards</th></tr></thead><tbody>
+        <tr><td> MSX                         </td><td>27</td></tr>
+        <tr><td> Neo Geo CD                  </td><td>76</td></tr>
+        <tr><td> Neo Geo Pocket              </td><td>38</td></tr>
+        <tr><td> NES                         </td><td>1,854</td></tr>
+        <tr><td> Nintendo 64                 </td><td>796</td></tr>
+        <tr><td> Nintendo DS                 </td><td>716</td></tr>
+        <tr><td> Nintendo DSi                </td><td>17</td></tr>
+        <tr><td> PC Engine                   </td><td>76</td></tr>
+        <tr><td> PC Engine CD                </td><td>33</td></tr>
+        <tr><td> PC-8000/8800                </td><td>15</td></tr>
+        <tr><td> PC-FX                       </td><td>10</td></tr>
+        <tr><td> PlayStation                 </td><td>1,703</td></tr>
+        <tr><td> PlayStation 2               </td><td>1,338</td></tr>
+        <tr><td> PlayStation Portable        </td><td>414</td></tr>
+        <tr><td> Pokemon Mini                </td><td>176</td></tr>
+        <tr><td> Saturn                      </td><td>64</td></tr>
+        <tr><td> Sega CD                     </td><td>58</td></tr>
+        <tr><td> SG-1000                     </td><td>230</td></tr>
+        <tr><td> SNES                        </td><td>1,843</td></tr>
+        <tr><td> Uzebox                      </td><td>120</td></tr>
+        <tr><td> Vectrex                     </td><td>26</td></tr>
+        <tr><td> Virtual Boy                 </td><td>38</td></tr>
+        <tr><td> WASM-4                      </td><td>209</td></tr>
+        <tr><td> Watara Supervision          </td><td>41</td></tr>
+        <tr><td> WonderSwan                  </td><td>24</td></tr>
+    </tbody></table>
+    </div>
+</div>
+<br clear="left"/>
+
+## Top 10 Beaten Awards <!-- 20B -->
+Check out the users with the most beaten awards this month.
+
+| Rank | User                           | Awards |
+| ---- | ------------------------------ | ------ |
+| 1    | {% rauserpic 14ausher %}       | 125    |
+| 2    | {% rauserpic Catlin %}         | 108    |
+| 3    | {% rauserpic Whoops %}         | 78     |
+| 4    | {% rauserpic metalbubble403 %} | 62     |
+| 5    | {% rauserpic Bums79 %}         | 60     |
+| 6    | {% rauserpic sludgemastic %}   | 57     |
+| 7    | {% rauserpic Reeve42 %}        | 49     |
+| 8    | {% rauserpic Kinglink %}       | 47     |
+| 9    | {% rauserpic MarioKness %}     | 47     |
+| 10   | {% rauserpic StarrlightSims %} | 44     |
+
+## Top 10 Beaten Sets <!-- 21B -->
+Check out which sets were beaten most this month.
+
+| Rank | Game                                                                                                                                                                                                                                                                                                                                                                                       | Awards |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| 1    | <a class="gameicon-link" href="https://retroachievements.org/game/26387" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/084043.png" alt="~Homebrew~ Slide Boy in Maze Land (Atari 2600)"> <span>~Homebrew~ Slide Boy in Maze Land (Atari 2600)</span></a>                                                                                 | 120    |
+| 2    | <a class="gameicon-link" href="https://retroachievements.org/game/1361" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/049699.png" alt="Ghost Sweeper Mikami: Joreishi wa Nice Body (SNES)"> <span>Ghost Sweeper Mikami: Joreishi wa Nice Body (SNES)</span></a>                                                                          | 100    |
+| 3    | <a class="gameicon-link" href="https://retroachievements.org/game/228" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/066393.png" alt="Super Mario World (SNES)"> <span>Super Mario World (SNES)</span></a>                                                                                                                               | 91     |
+| 4    | <a class="gameicon-link" href="https://retroachievements.org/game/24124" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/071726.png" alt="~Homebrew~ Slender: The 8 Pages (Game Boy Color)"> <span>~Homebrew~ Slender: The 8 Pages (Game Boy Color)</span></a>                                                                             | 72     |
+| 5    | <a class="gameicon-link" href="https://retroachievements.org/game/11240" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/085764.png" alt="Castlevania: Symphony of the Night (PlayStation)"> <span>Castlevania: Symphony of the Night (PlayStation)</span></a>                                                                             | 68     |
+| 6    | <a class="gameicon-link" href="https://retroachievements.org/game/337" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/041009.png" alt="Donkey Kong Country (SNES)"> <span>Donkey Kong Country (SNES)</span></a>                                                                                                                           | 67     |
+| 7    | <a class="gameicon-link" href="https://retroachievements.org/game/802" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/034678.png" alt="WarioWare, Inc.: Mega Microgames! \| WarioWare, Inc.: Minigame Mania (Game Boy Advance)"> <span>WarioWare, Inc.: Mega Microgames! \| WarioWare, Inc.: Minigame Mania (Game Boy Advance)</span></a> | 65     |
+| 8    | <a class="gameicon-link" href="https://retroachievements.org/game/504" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/078873.png" alt="Super Mario Land (Game Boy)"> <span>Super Mario Land (Game Boy)</span></a>                                                                                                                         | 64     |
+| 9    | <a class="gameicon-link" href="https://retroachievements.org/game/27432" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/085870.png" alt="~Homebrew~ You Are a Skeleton & That Is a Problem (Game Boy)"> <span>~Homebrew~ You Are a Skeleton & That Is a Problem (Game Boy)</span></a>                                                     | 56     |
+| 10   | <a class="gameicon-link" href="https://retroachievements.org/game/1351" target="_blank" rel="noopener"> <img class="gameicon" src="https://retroachievements.org/Images/084492.png" alt="Scooby-Doo! Classic Creep Capers (Game Boy Color)"> <span>Scooby-Doo! Classic Creep Capers (Game Boy Color)</span></a>                                                                            | 55     |
 
 # Set Requests
 

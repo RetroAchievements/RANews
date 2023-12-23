@@ -338,13 +338,16 @@ Nintendo Switch Online didn't see any new games for the first time this year, le
 
 As usual for December, there isn't really too much to talk about this month. That said, we got a new _Dragon Quest Monsters_ game which has been a few years! Released at the start of this month was _Dragon Quest Monsters: The Dark Prince_, which is the seventh title in this spin-off series. The player takes control of Psaro, the titular half-human, half-monster prince who has been laid a curse upon him to become unable to attack monsters. But Psaro is big brained and now uses monsters to fight for him instead! With the classic monster-taming gameplay of the series, fans are sure to have a fun time with this new release.
 
-But yeah, that's about it. Fortunately we still have Nintendo Switch Online to talk about, which would bring us three new Nintendo 64 titles: _Harvest Moon 64_, _1080º Snowboarding_, and _Jet Force Gemini_. All three of them are very beloved games of the system, and will surely be appreciated by many. Sony's line-up is not yet announced, and may or may not be updated if this article goes live before then.
+But yeah, that's about it. Fortunately we still have Nintendo Switch Online to talk about, which would bring us three new Nintendo 64 titles: _Harvest Moon 64_, _1080º Snowboarding_, and _Jet Force Gemini_. All three of them are very beloved games of the system, and will surely be appreciated by many. Sony has added both _Mega Man Legacy Collection's_ to their line-up, as well as _Thrillville_, _Thrillville: Off the Rails_, and perhaps most surprisingly of all, _Buzz Lightyear of Star Command_. The Thrillville series is essentially "What if Rollercoaster Tycoon but I actually get to play myself?", while Buzz Lightyear got a pretty average 3D Platformer.
 
-| Game                                                                                                                                         | Has a set? |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| ![](https://retroachievements.org/Images/011233.png) [1080° TenEighty: Snowboarding (Nintendo 64)](https://retroachievements.org/game/10136) | Yes        |
-| ![](https://retroachievements.org/Images/039082.png) [Harvest Moon 64 (Nintendo 64)](https://retroachievements.org/game/10157)               | Yes        |
-| ![](https://retroachievements.org/Images/019875.png) [Jet Force Gemini (Nintendo 64)](https://retroachievements.org/game/30)                 | Yes        |
+| Game                                                                                                                                              | Has a set? |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| ![](https://retroachievements.org/Images/011233.png) [1080° TenEighty: Snowboarding (Nintendo 64)](https://retroachievements.org/game/10136)      | Yes        |
+| ![](https://retroachievements.org/Images/039082.png) [Harvest Moon 64 (Nintendo 64)](https://retroachievements.org/game/10157)                    | Yes        |
+| ![](https://retroachievements.org/Images/019875.png) [Jet Force Gemini (Nintendo 64)](https://retroachievements.org/game/30)                      | Yes        |
+| ![](https://retroachievements.org/Images/087057.png) [Thrillville (PlayStation 2)](https://retroachievements.org/game/20799)                      | No         |
+| ![](https://retroachievements.org/Images/049644.png) [Thrillville: Off the Rails (PlayStation Portable)](https://retroachievements.org/game/3217) | Yes        |
+| ![](https://retroachievements.org/Images/067621.png) [Buzz Lightyear of Star Command (PlayStation)](https://retroachievements.org/game/16650)     | Yes        |
 
 # Conclusion
 

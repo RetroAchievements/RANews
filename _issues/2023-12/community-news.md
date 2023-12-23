@@ -49,10 +49,10 @@ If you're interested in making content for the channel reach out to {% rauserpic
 
 ## Jr Developer Graduates
 
-| Graduate                  | Game                                                                                                                                                                                                                                                        |
-| :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Graduate                       | Game                                                                                                                                                                                                                                                                  |
+| :----------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | {% rauserpic pickledyamsman %} | <a class="gameicon-link" href="https://retroachievements.org/game/17521" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/083827.png" alt=""> <span>Ian Livingstone's Deathtrap Dungeon (PlayStation)</span></a> |
-| {% rauserpic tsyque %} | <a class="gameicon-link" href="https://retroachievements.org/game/3649" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/084579.png" alt=""> <span>Grandia: Parallel Trippers (Game Boy Color)</span></a> |
+| {% rauserpic tsyque %}         | <a class="gameicon-link" href="https://retroachievements.org/game/3649" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/084579.png" alt=""> <span>Grandia: Parallel Trippers (Game Boy Color)</span></a>        |
 
 
 **Current Stats**: 38 Developers have graduated in 2023 so far
@@ -61,10 +61,40 @@ If you're interested in making content for the channel reach out to {% rauserpic
 ## Developer Compliance
 
 ### Code of Conduct Updates
+* [Progreesionand Win Condition Guidelines](https://docs.retroachievements.org/Progression-and-Win-Condition-Guidelines/) page added outlining how to use the new achievement typing feature.
+
+### Reauthors
+* [Space Channel 5: Ulala's Cosmic Attack](https://retroachievements.org/game/5443)
+* [Track & Field](https://retroachievements.org/game/2045)
 
 ### Set Approvals
+* [Dragon Quest \| Dragon Warrior [Subset - Bonus]](https://retroachievements.org/game/25939)
+* [Mega Man X6](https://retroachievements.org/game/11382) [Subset - Speedrun Showcase]
+* [Resident Evil 3: Nemesis [Subset - Speedrun Showcase]](https://retroachievements.org/game/27233)
+* [Shining Force: Resurrection of the Dark Dragon](https://retroachievements.org/game/4707) [Subset - New Game+]
+* [Super Smash Bros. [Subset - Targets and Platforms]](https://retroachievements.org/game/27303)
+* ~Hack~ Sonic 32X Bad Apple
 
-### Demoted Achievements
+### Updated Achievements
+* [The Stig](https://retroachievements.org/achievement/6472) dmeoted for Unwelcome Concept: Zero Effort Without Purpose.
+* [Palette Enthusiast](https://retroachievements.org/achievement/7529) demoted for Unwelcome Concept: Zero Effort Without Purpose.
+* [Doin' it By the Book](https://retroachievements.org/achievement/6466) demoted for Unwelcome Concept: Zero Effort Without Purpose.
+* [Wrong Game](https://retroachievements.org/achievement/6467) demoted for Unwelcome Concept: Zero Effort Without Purpose.
+* [There's a Reason We Don't Use DOS Anymore](https://retroachievements.org/achievement/8839) demoted for Unwelcome Concept: Zero Effort Without Purpose.
+* [The Pirate Hunter](https://retroachievements.org/achievement/6313) demoted for unwelcome concept: Achievement Spam.
+* [Mysterious Girl](https://retroachievements.org/achievement/6319) demoted for unwelcome concept: Achievement Spam.
+* [Do I Get To Be Captain?](https://retroachievements.org/achievement/6326) demoted for unwelcome concept: Achievement Spam.
+* [Zeff's Aprentice](https://retroachievements.org/achievement/6332) demoted for unwelcome concept: Achievement Spam.
+* [Treasure Hoarder](https://retroachievements.org/achievement/6339) demoted for unwelcome concept: Achievement Spam.
+* [Nave Base](https://retroachievements.org/achievement/6310) description updated to account for demoted achievements above.
+* [Port Town](https://retroachievements.org/achievement/6315) description updated to account for demoted achievements above.
+* [Syrup Village](https://retroachievements.org/achievement/6322) description updated to account for demoted achievements above.
+* [Baratie](https://retroachievements.org/achievement/6328) description updated to account for demoted achievements above.
+* [Arlong Park](https://retroachievements.org/achievement/6335) description updated to account for demoted achievements above.
+* [Waterfall Blue Racer](https://retroachievements.org/achievement/52188) demoted for Unwelcome Concept: Requires Playing Poorly.
+* [Waterfall Red Racer](https://retroachievements.org/achievement/52189) demoted for Unwelcome Concept: Requires Playing Poorly.
+* [Red Invisible wall of death](https://retroachievements.org/achievement/52182) demoted for Unwelcome Concept: Requires Playing Poorly.
+* [Blue Invisible wall of death](https://retroachievements.org/achievement/52183) demoted for Unwelcome Concept: Requires Playing Poorly.
 
 
 ## Site Updates
@@ -84,7 +114,7 @@ If you're interested in making content for the channel reach out to {% rauserpic
 - Migrate Report Issue popups from Knockout.js to Alpine by @wescopeland in [#1881](https://github.com/RetroAchievements/RAWeb/pull/1881)
 - Remove 'Your Progress' heading from game progress widget by @wescopeland in [#1955](https://github.com/RetroAchievements/RAWeb/pull/1955)
 
-### Features in progress (currently disabled):
+### Features in progress:
 - Add Completion Progress page by @wescopeland in [#1833](https://github.com/RetroAchievements/RAWeb/pull/1833)
 
 ### Environment:
@@ -142,12 +172,11 @@ Remove Knockout.js by @wescopeland in [#1957](https://github.com/RetroAchievemen
 - Fix highlight for hub in hub page not covering entire row by @wescopeland in [#2011](https://github.com/RetroAchievements/RAWeb/pull/2011)
 - Fix completion badges not being revoked when resetting softcore achievements by @Jamiras in [#2013](https://github.com/RetroAchievements/RAWeb/pull/2013)
 
-### Features in progress (currently disabled):
+### Features in progress:
 
 - Add global leaderboard for beaten games by @wescopeland in [#1999](https://github.com/RetroAchievements/RAWeb/pull/1999)
 - Add beaten games to Recent Masteries page [progression] by @wescopeland in [#1782](https://github.com/RetroAchievements/RAWeb/pull/1782)
 - Prevent setting types on subset and event achievements by @wescopeland in #2014, #2015, and [#2016](https://github.com/RetroAchievements/RAWeb/pull/2016)
-
 
 ### Performance improvements:
 
@@ -167,7 +196,6 @@ Remove Knockout.js by @wescopeland in [#1957](https://github.com/RetroAchievemen
 ## DevQuest
 
 ### DevQuest Awards
-
 
 <table>
     <thead>

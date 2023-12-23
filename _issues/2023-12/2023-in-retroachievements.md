@@ -253,9 +253,10 @@ The yearly [Devember](https://retroachievements.org/viewtopic.php?t=24475) event
 Finally, the Playtester team has been restructured. This team works together with both developers- and junior developers to playtest their set before review or before release, finding bugs and reporting them back to the developers can work on fixing them in advance. If you are working on sets, definitely check this team out as they are invaluable to the development process.
 
 The achievement set awards would go to:
-* Set of the Month: [TBA](link) by TBA.
-* Subset of the Month: [TBA](link) by TBA.
-* Revision of the Month: [TBA](link) by TBA.
+* Neo Geo CD launch set: [King of Fighters '97, The](https://retroachievements.org/game/23873) by clymax.
+* Set of the Month: [Pokemon Diamond Version](https://retroachievements.org/game/9852) by Tayadaoc.
+* Subset of the Month: [Final Fantasy V: Advance [Subset - Low Level Game]](https://retroachievements.org/game/26438) by clymax.
+* Revision of the Month: [Earthbound](https://retroachievements.org/game/264) by televandalist.
 
 The following developers graduated this month:
 
@@ -270,11 +271,18 @@ For the final month of the year, the Web Team has finally been able to end the d
 
 For events, there is the new [Rack it up](https://retroachievements.org/viewtopic.php?t=24535) event, which will last an entire year. This event is dedicated to the good ol' classic magazines, where you are assigned a task pased on what page of a magazine that you roll. Depending on which page you roll, your task will be different, which could be simply beating a level or boss, or even drawing or creating a fan-fiction! And of course, there will be both a gamer and developer challenge if applicable.
 
+The Retro Olympics 3rd year kicked off with an amazing ceremony. 21 teams with 69 (nice) players in total will duke it out this year for the famed gold medal, each having their own anthem and name based on the favourite franchise of the team. All the games have been announced, and the first stream will happen on January 6th. Be sure to follow [RetroOlympics](https://www.twitch.tv/retroolympics) over on Twitch so you will be notified when the streams go live, or check out the [highly detailed website](https://retroolympics.com/) which has the full schedule and group line-up. Yours truly will be there too!
+
 The following developer graduated this month:
 
-| Developer                | Graduation set                                                                                                             |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| {% rauserpic manakoDE %} | ![](https://retroachievements.org/Images/085737.png) [Danger Girl (PlayStation)](https://retroachievements.org/game/16988) |
+| Developer                  | Graduation set                                                                                                                                    |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| {% rauserpic manakoDE %}   | ![](https://retroachievements.org/Images/085737.png) [Danger Girl (PlayStation)](https://retroachievements.org/game/16988)                        |
+| {% rauserpic Whithbrin %}  | ![](https://retroachievements.org/Images/083339.png) [Jackie Chan Adventures (PlayStation 2)](https://retroachievements.org/game/20734)           |
+| {% rauserpic Kinglink %}   | ![](https://retroachievements.org/Images/063772.png) [Dynasty Warriors 3 (PlayStation 2)](https://retroachievements.org/game/20722)               |
+| {% rauserpic Gorgar %}     | ![](https://retroachievements.org/Images/070694.png) [WWF War Zone (Nintendo 64)](https://retroachievements.org/game/10325)                       |
+| {% rauserpic s0uth %}      | ![](https://retroachievements.org/Images/083609.png) [Batman Beyond: Return of the Joker (PlayStation)](https://retroachievements.org/game/18515) |
+| {% rauserpic kiwibasket %} | ![](https://retroachievements.org/Images/073905.png) [Super Nazo Puyo: Ruruu no Ruu (SNES)](https://retroachievements.org/game/3797)              |
 
 # Conclusion
 

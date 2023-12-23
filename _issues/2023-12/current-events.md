@@ -84,13 +84,14 @@ Check out the [forum topic](https://retroachievements.org/viewtopic.php?t=24475)
 |{% rauserpic SegoeUI %}|{% rauserpic snek2eater %}|{% rauserpic TheJohanx %}|
 |{% rauserpic yoshter2011 %}|{% rauserpic Yurana %}||
 
+
 ## The Unwanted
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=14787>
 - Period: July 2020 - Current
 - Host: {% rauserpic StingX2 %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
 - Current Winners:
-  - Month 41: Best Gamer: {% rauserpic  %}, Best Dev Fixer: {% rauserpic  %}
+  - Month 41: Best Gamer: {% rauserpic MelodyAsh %}, Best Dev Fixer: {% rauserpic Hotscrock %} & {% rauserpic Sutarion %}
 - Previous Winners:
   - Month 40: Best Gamer: {% rauserpic kmpers %}, Best Dev Fixer: {% rauserpic MelodyAsh %}
   - Month 39: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic kmpers %}
@@ -110,18 +111,18 @@ Check out the [forum topic](https://retroachievements.org/viewtopic.php?t=24475)
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=20193>
 - Period: January 2023 - Current
 - Host: {% rauserpic RAEvents %}
-- Current Winners: 23
+- Current Winners: 34
 - Top 10 without Winners:  
-  1: {% rauserpic MarioKness %} - 51 Points  
-  1: {% rauserpic Xionx %} - 51 Points  
-  3: {% rauserpic bigdud24 %} - 50 Points  
-  3: {% rauserpic Lonoke31 %} - 50 Points  
-  3: {% rauserpic Sef %} - 50 Points  
-  6: {% rauserpic Blatancy %} - 49 Points  
-  7: {% rauserpic AmazingBaha %} - 48 Points  
-  7: {% rauserpic Enagonius %} - 48 Points  
-  9: {% rauserpic KlydeKadell %} - 47 Points  
-  9: {% rauserpic Roroprata %} - 47 Points  
+  1: {% rauserpic Doggy227 %} - 51 Points  
+  2: {% rauserpic Enagonius %} - 48 Points  
+  2: {% rauserpic Hotscrock %} - 48 Points  
+  2: {% rauserpic Iamcloud %} - 48 Points  
+  2: {% rauserpic ladynadiad %} - 48 Points  
+  2: {% rauserpic theelkspeaks %} - 48 Points  
+  7: {% rauserpic Empovyle %} - 47 Points  
+  8: {% rauserpic Nezperdian %} - 46 Points  
+  9: {% rauserpic abdalin %} - 44 Points  
+  9: {% rauserpic genesislover %} - 44 Points  
 
 
 ## Challenge League Top 100

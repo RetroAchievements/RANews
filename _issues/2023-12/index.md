@@ -50,7 +50,7 @@ The RetroAchievements community is always buzzing with events and competitions, 
 In this engaging interview with {% rauser GrampyBack %}, {% rauser jamesbuc %} explores {% rauser GrampyBack %}'s journey from speedrunning to creating content on YouTube and Twitch for his "Road 2 Rank 1" series. {% rauser GrampyBack %} discusses the motivations behind his videos, shares insights into his toughest game, and expresses excitement about future achievements on GameCube and Xbox 360. Check out the interview for a glimpse into {% rauser GrampyBack %}'s retro gaming experiences and his unforgiving journey on RetroAchievements.
 
 
-## ---[Community News](./community-news.html)
+## [Community News](./community-news.html)
 Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
 
 
@@ -89,7 +89,7 @@ Discover the latest updates to achievement badges and set icons. From fresh badg
 Wondering who the top players on RetroAchievements are, and how they've been performing over the past month? In this section we take a deep dive into the top 300 players on the site, analyzing their progress and point totals over the past month. From the rise of new challengers to the continued dominance of top players, this section gives you a comprehensive overview of the RetroAchievements points leaderboard.
 
 
-## ---[RAnniversaries](./ranniversaries.html)
+## [RAnniversaries](./ranniversaries.html)
 Joining RetroAchievements is a major milestone for gamers and achievement developers, and we love celebrating those anniversaries. In this section, we'll recognize the achievements of our dedicated members by highlighting their years of service to the site. From new members to veterans, we'll showcase everyone who's reached a new anniversary milestone. Join us in celebrating our amazing community, and the hard work and dedication that makes RetroAchievements the best achievement hunting community out there.
 
 
