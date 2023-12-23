@@ -44,7 +44,7 @@ category: Spot The Difference
 Space Soldiers are on their mission to restore peace in an unknown wasteland. Shortly after sending out the first team, the headquarters lose contact to them and sends out another team. It seems that the teams start under different starting conditions, can you find all 10 differences?
 
 <p align="center">
-  <img src="img/Fun/SpotTheDifferenceTemp.png" />
+  <img src="img/Fun/SpotTheDifference.png" />
 </p>
 
 ## About the Game

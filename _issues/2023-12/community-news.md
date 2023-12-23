@@ -76,7 +76,7 @@ If you're interested in making content for the channel reach out to {% rauserpic
 * ~Hack~ Sonic 32X Bad Apple
 
 ### Updated Achievements
-* [The Stig](https://retroachievements.org/achievement/6472) dmeoted for Unwelcome Concept: Zero Effort Without Purpose.
+* [The Stig](https://retroachievements.org/achievement/6472) demoted for Unwelcome Concept: Zero Effort Without Purpose.
 * [Palette Enthusiast](https://retroachievements.org/achievement/7529) demoted for Unwelcome Concept: Zero Effort Without Purpose.
 * [Doin' it By the Book](https://retroachievements.org/achievement/6466) demoted for Unwelcome Concept: Zero Effort Without Purpose.
 * [Wrong Game](https://retroachievements.org/achievement/6467) demoted for Unwelcome Concept: Zero Effort Without Purpose.

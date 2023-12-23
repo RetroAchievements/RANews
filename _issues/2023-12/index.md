@@ -57,11 +57,11 @@ Stay up-to-date with the latest news in the RetroAchievements community with our
 ## [RAPodcast](./rapodcast.html) <!-- Update each issue -->
 Join the RetroAchievements community and listen to the latest RAPodcasts. This month's podcast has our host, {% rauser TimeCrush %}, engages with {% rauser WCopeland %}, a recent admin, official Guinness record holder, and web developer, delving into the subjective nature of achievements and seeking valuable guidance and perspective on the evolving landscape of gaming. {% rauser WCopeland %}'s rich history and experience promise a fantastic discussion on the path forward for this dynamic platform.
 
-## ---[Play This Set](./play-this-set.html)
+## [Play This Set](./play-this-set.html)
 Looking for some great game recommendations? Play This Set features writeups submitted by the community about existing sets and why you should give them a try. Whether you're looking to discover a new favorite or just need a reason to play something new, these writeups are sure to provide plenty of inspiration. So dive in, and get ready to take on a new set!
 
 
-## ---[Wish This Set](./wish-this-set.html)
+## [Wish This Set](./wish-this-set.html)
 In this section, users share their thoughts on which games they would love to see have sets created for. Whether it's a beloved classic or an underrated gem, we want to hear about it. If you are a developer looking for a new set to work on, then look no further than right here.
 
 
@@ -119,8 +119,23 @@ If you have an idea for an article to be published in the RANews, please go to t
 Keep in mind that the article must be written in Markdown format. If you don’t know it, you can learn it in 10 minutes following this online tutorial here: <https://commonmark.org/help/tutorial/> (it’s pretty similar to what you may be already using on discord).
 
 
-## ---Acknowledgments
+## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|     |     |     |
-| --- | --- | --- |
+|                                 |                                 |                              |
+| ------------------------------- | ------------------------------- | ---------------------------- |
+| {% rauserpic AmazingBaha %}     | {% rauserpic Amir96lx %}        | {% rauserpic AssClownKing %} |
+| {% rauserpic AstrodomeKid %}    | {% rauserpic BatFastardJordy %} | {% rauserpic Bendyhuman %}   |
+| {% rauserpic Brandovsky %}      | {% rauserpic Chauckles %}       | {% rauserpic ChristinRex %}  |
+| {% rauserpic cicadahuman %}     | {% rauserpic DevCompliance %}   | {% rauserpic Enagonius %}    |
+| {% rauserpic Etron %}           | {% rauserpic Glendaal %}        | {% rauserpic GrampyBack %}   |
+| {% rauserpic HolyShinx %}       | {% rauserpic Hotscrock %}       | {% rauserpic jamesbuc %}     |
+| {% rauserpic KlydeKadell %}     | {% rauserpic Made1nAbyss %}     | {% rauserpic MrOwnership %}  |
+| {% rauserpic NekroG %}          | {% rauserpic Nepiki %}          | {% rauserpic Nevermond12 %}  |
+| {% rauserpic Nydaxn %}          | {% rauserpic pickledyamsman %}  | {% rauserpic pinguupinguu %} |
+| {% rauserpic QATeam %}          | {% rauserpic RANews %}          | {% rauserpic Raykusen %}     |
+| {% rauserpic RetroGameMaster %} | {% rauserpic s0uth %}           | {% rauserpic Signum %}       |
+| {% rauserpic Sines %}           | {% rauserpic Snow %}            | {% rauserpic SporyTike %}    |
+| {% rauserpic StingX2 %}         | {% rauserpic Sutarion %}        | {% rauserpic theelkspeaks %} |
+| {% rauserpic TheJohanx %}       | {% rauserpic TheMysticalOne %}  | {% rauserpic TimeCrush %}    |
+| {% rauserpic Whynot15 %}        | {% rauserpic wolfman2000 %}     | {% rauserpic Xymjak %}       |
