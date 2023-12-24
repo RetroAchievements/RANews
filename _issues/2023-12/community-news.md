@@ -18,9 +18,9 @@ With the release of RAWeb 5.2, the Progression feature has been fully rolled out
 
 Check out the [announcement forum topic](https://retroachievements.org/viewtopic.php?t=24464) for more information.
 
-## Playtester Revamp
+## PlayTester Revamp
 
-The playtester team has been revamped in order to expant the team and it's current capabilities. Playtest request can be submitted and discussed via Discord in the new forum channel.
+The PlayTester team has been revamped in order to expant the team and it's current capabilities. Playtest request can be submitted and discussed via Discord in the new forum channel.
 
 Reach out to {% rauserpic TimeCrush %} for more information.
 
@@ -61,7 +61,7 @@ If you're interested in making content for the channel reach out to {% rauserpic
 ## Developer Compliance
 
 ### Code of Conduct Updates
-* [Progreesionand Win Condition Guidelines](https://docs.retroachievements.org/Progression-and-Win-Condition-Guidelines/) page added outlining how to use the new achievement typing feature.
+* [Progreesion and Win Condition Guidelines](https://docs.retroachievements.org/Progression-and-Win-Condition-Guidelines/) page added outlining how to use the new achievement typing feature.
 
 ### Reauthors
 * [Space Channel 5: Ulala's Cosmic Attack](https://retroachievements.org/game/5443)

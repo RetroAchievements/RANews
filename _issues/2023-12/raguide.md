@@ -34,7 +34,7 @@ The Oracle games, both Oracle of Ages and Oracle of Seasons, are unique entries 
 
 # 3) Set Introduction
 
-Oracle of Seasons has 59 achievements, with 37 written by [dude1286](https://retroachievements.org/user/dude1286) and 22 written by [FBernkastelKues](https://retroachievements.org/user/FBernkastelKues). Oracle of Ages has 55 achievements, with 34 written by dude1286 and 21 written by FBernkastelKues. These cheevos cover the entire games, both with and without the password systems in play.
+Oracle of Seasons has 59 achievements, with 37 written by {% rauser dude1286 %} and 22 written by {% rauser FBernkastelKues %}. Oracle of Ages has 55 achievements, with 34 written by dude1286 and 21 written by FBernkastelKues. These cheevos cover the entire games, both with and without the password systems in play.
 
 # 4) General Approach
 
@@ -56,7 +56,7 @@ To translate the above into table form:
 
 This guide will assume the first iteration will be used, but both routes are valid. Make adjustments as you need to.
 
-The general goals of each playthrough will be as follows (thanks to [CasetteCobra](https://retroachievements.org/user/CassetteCobra) for the data):
+The general goals of each playthrough will be as follows (thanks to {% rauser CassetteCobra %} for the data):
 
 |                      | First      | Second     | Third     | Fourth                           |
 | :------------------- | :--------- | :--------- | :-------- | :------------------------------- |
