@@ -28,11 +28,11 @@ Each month, we invite the RetroAchievements community to vote for their favorite
 
 
 ## [A Year of Stats](./a-year-of-stats.html)
-Step into the collective heartbeat of our thriving Retroachievement community! As we reflect on the past year, immerse yourself in the fascinating statistics that paint a vivid portrait of our shared journey. From total achievements unlocked to new milestones achieved, this page is a testament to you gamers who have made 2023 a year to remember. Join us in celebrating the numbers that tell the tale of our ever-growing community.
+As we reflect on the past year, immerse yourself in some fascinating statistics that show the massive growth of the community. From total achievements unlocked to new milestones achieved, this page is a testament to you gamers who have made 2023 a year to remember. Join us in celebrating the numbers that tell the tale of RetroAchievements over the past year.
 
 
 ## [Developers Year In Review](./dev-year-in-review.html)
-Uncover the stories behind our developers' masterpieces, their challenges conquered, and the digital adventures that defined their journey. Join us on a nostalgic ride through the personalized Year in Review pages, where every click unveils a unique tale of passion and achievement in the world of retro gaming.
+Take a few minutes to celebrate all the work from developers active in 2023. Here you can see a personalized page for each developer showing individual stats for Sets, Achievements, Masteries, and more. Join us on a ride looking back at all the developer contributions, where every click unveils a unique tale of each developers passion for the RetroAchievements community.
 
 
 ## [Monthly Stats](./monthly-stats.html)
