@@ -13,21 +13,21 @@
     <ul class="article-list">
       {% assign articles = site.issues | where: "issue", page.issue %}
       {% for article in articles %}
+        {% if article.hide == nil %}
+          {% if article.category == "" or article.category == nil %}
+            {% assign category = article.title %}
+          {% else %}
+            {% assign category = article.category %}
+          {% endif %}
 
-        {% if article.category == "" or article.category == nil %}
-          {% assign category = article.title %}
-        {% else %}
-          {% assign category = article.category %}
+          {% if article.url == page.url %}
+            <li class="active">{{ category }}</li>
+          {% else %}
+            <a href="{{ site.baseurl }}{{ article.url }}">
+              <li>{{ category }}</li>
+            </a>
+          {% endif %}
         {% endif %}
-
-        {% if article.url == page.url %}
-          <li class="active">{{ category }}</li>
-        {% else %}
-          <a href="{{ site.baseurl }}{{ article.url }}">
-            <li>{{ category }}</li>
-          </a>
-        {% endif %}
-
       {% endfor %}
     </ul>
   </div>
