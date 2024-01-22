@@ -16,7 +16,6 @@ Welcome to RANews, your #1 source for everything RetroAchievements. In this issu
     {% rauserpic Nydaxn %}
 </div>
 
-
 <br clear="right"/>
 
 ## Community Submitted Content
@@ -51,11 +50,15 @@ The RetroAchievements community is always buzzing with events and competitions, 
 This month's featured Rack It Up interview by {% rauser sioneus %} talks with {% rauser crrool %}, a seasoned Pokémon speedrunner and long-time member of the RetroAchievements community. Uncover their journey from an eight-year hiatus to an active year of conquering challenging sets, their perspective on speedrun achievements, and their goals for 2024. Discover the intriguing world of achievement hunting and the games that have captivated this dedicated gamer's attention.
 
 
+## [Rack It Up Editorial](./rack-it-up-editorial.html)
+This month we are featuring an editorial section where the Rack It Up players tasked to write up an editorial can to share insights, critiques, and love letters to the games and topics that unite us. We have two editorials being featured month, one talking about the "Retro" system debate and another about sports games going extreme. Read up on the thoughts from the authors and see where you fall within these topics of discussion.
+
+
 ## [Community News](./community-news.html)
 Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
 
 
-## ---[Play This Set](./play-this-set.html)
+## [Play This Set](./play-this-set.html)
 Looking for some great game recommendations? Play This Set features writeups submitted by the community about existing sets and why you should give them a try. Whether you're looking to discover a new favorite or just need a reason to play something new, these writeups are sure to provide plenty of inspiration. So dive in, and get ready to take on a new set!
 
 
@@ -103,8 +106,8 @@ Are you itching to tackle a new set, but can't seem to find the right one? Look 
 Are you curious about which developers have contributed the most sets to RetroAchievements for each console? This section has you covered. Here you can see which developers have made the most sets for the RetroAchievements community for each console. This section offers valuable insights into the individuals who have contributed the most to the world of achievement creation. Check it out now, and see which developers have left their mark on your favorite consoles!
 
 
-## ---[Spot The Difference](./spot-the-difference.html) <!-- Update each issue -->
-In this section, we challenge readers to put their observation skills to the test with a Spot the Difference game created by {% rauser SporyTike %} for the game {% ragame %}. There are 10 differences to find, and readers who spot them all will be featured in the next issue. So sharpen your eyes and get ready for some fun!
+## [Spot The Difference](./spot-the-difference.html) <!-- Update each issue -->
+In this section, we challenge readers to put their observation skills to the test with a Spot the Difference game created by {% rauser SporyTike %} for the game {% ragame 769, Kirby & The Amazing Mirror (Game Boy Advance) %}. There are 10 differences to find, and readers who spot them all will be featured in the next issue. So sharpen your eyes and get ready for some fun!
 
 
 ## [RA Crossword](./crossword.html) <!-- Update to say something else -->
@@ -117,8 +120,21 @@ If you have an idea for an article to be published in the RANews, please go to t
 Keep in mind that the article must be written in Markdown format. If you don’t know it, you can learn it in 10 minutes following this online tutorial here: <https://commonmark.org/help/tutorial/> (it’s pretty similar to what you may be already using on discord).
 
 
-## ---Acknowledgments
+## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                                 |                                 |                              |
-| ------------------------------- | ------------------------------- | ---------------------------- |
+|                                    |                                 |                                      |
+| ---------------------------------- | ------------------------------- | ------------------------------------ |
+| {% rauserpic AmazingBaha %}        | {% rauserpic Amir96lx %}        | {% rauserpic Bilalscape12 %}         |
+| {% rauserpic Chauckles %}          | {% rauserpic crrool %}          | {% rauserpic danyelalejandro1980 %}  |
+| {% rauserpic Daroachie %}          | {% rauserpic DevCompliance %}   | {% rauserpic diablo666 %}            |
+| {% rauserpic FlamingDoom %}        | {% rauserpic groundedshikami %} | {% rauserpic Lafungo %}              |
+| {% rauserpic MeloDeathAtmoBlack %} | {% rauserpic MrOwnership %}     | {% rauserpic Nepiki %}               |
+| {% rauserpic Nevermond12 %}        | {% rauserpic NiterZ7 %}         | {% rauserpic Nydaxn %}               |
+| {% rauserpic orchidcnr %}          | {% rauserpic pinguupinguu %}    | {% rauserpic Pudpod %}               |
+| {% rauserpic QATeam %}             | {% rauserpic r0ach3d %}         | {% rauserpic RANews %}               |
+| {% rauserpic Raykusen %}           | {% rauserpic RetroGameMaster %} | {% rauserpic Sines %}                |
+| {% rauserpic sioneus %}            | {% rauserpic SlashTangent %}    | {% rauserpic snek2eater %}           |
+| {% rauserpic Snow %}               | {% rauserpic solidification %}  | {% rauserpic SporyTike %}            |
+| {% rauserpic StingX2 %}            | {% rauserpic TimeCrush %}       | {% rauserpic ViceroyOfMonteCristo %} |
+| {% rauserpic wolfman2000 %}        | {% rauserpic Xionx %}           | {% rauserpic Xymjak %}               |

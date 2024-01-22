@@ -187,8 +187,6 @@ In order to standardize writing across the RA library and present our content to
 
 ### DevQuest Awards
 
-### Vet Developer Progress
-
 <table>
     <thead>
         <tr>

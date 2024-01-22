@@ -84,12 +84,6 @@ hide: true
 
 ## 3 Mastery Awards Awarded
 
-## Users with Most Beaten Awards for Sets Created in 2023
-
-| User            | Beaten Awards |
-| --------------- | ------------- |
-| {% rauserpic %} | COUNT(*)      |
-| {% rauserpic %} | 9             |
 ## 9 Code Notes Created
 
 ## Top Code Noted Sets

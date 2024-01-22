@@ -7,7 +7,7 @@ author: sioneus
 toc: false
 ---
 
-Rack-it-up is an on-going event where participants are assigned a task related to a chosen magazine each week and are then challenged to complete it. For Week 3, I was challenged to interview a fellow member of the RetroAchievements community and had the pleasure of interviewing [crrool](https://retroachievements.org/user/crrool), a well-known speedrunner and now achievement hunter, and coincidentally the one who introduced me to RetroAchievements himself.
+[Rack It Up](https://retroachievements.org/viewtopic.php?t=24535) is an on-going event where participants are assigned a task related to a chosen magazine each week and are then challenged to complete it. For Week 3, I was challenged to interview a fellow member of the RetroAchievements community and had the pleasure of interviewing [crrool](https://retroachievements.org/user/crrool), a well-known speedrunner and now achievement hunter, and coincidentally the one who introduced me to RetroAchievements himself.
 
 ***
 

@@ -154,12 +154,6 @@ hide: true
 | {% rauserpic CrashCharted %}    | 1             |
 | {% rauserpic AllKindsOfJames %} | 1             |
 
-## Users with Most Beaten Awards for Sets Created in 2023
-
-| User            | Beaten Awards |
-| --------------- | ------------- |
-| {% rauserpic %} | COUNT(*)      |
-| {% rauserpic %} | 152           |
 ## 152 Code Notes Created
 
 ## Top Code Noted Sets
