@@ -853,7 +853,7 @@ Check out which sets were mastered most this year.
 </div>
 <br clear="left"/>
 
-## Top 10 Leaderboard Creators
+## Top 25 Leaderboard Creators
 Check out which developers created the most leaderboards this year.
 
 <div>
