@@ -100,7 +100,7 @@ Check out some general stats from this year.
 <br clear="left"/>
 
 ## Top 25 Achievement Creators
-Check out the top 25 achievement creators this year, how many achievements they created and what console they created the most achievements for.
+Check out the top 25 achievement creators this year and how many achievements they created.
 
 | Rank | Developer                           | Achievements |
 | ---- | ----------------------------------- | ------------ |
@@ -131,7 +131,7 @@ Check out the top 25 achievement creators this year, how many achievements they 
 | 25   | {% rauserpic pinguupinguu %}        | 1,039        |
 
 ## Top 25 Developers
-Check out some stats regarding unlocks and points awarded by the developers. Included is the number of unlocks, points and retro points awarded to the players. This data includes all achievements but only counts unlocks during 2022.
+Check out some stats regarding unlocks and points awarded by the developers. Included is the number of unlocks, points and retro points awarded to the players. This data includes all achievements but only counts unlocks during 2023.
 
 | Rank | Developer                           | Unlocks Awarded | Points Awarded | Retro Points Awarded |
 | :--- | :---------------------------------- | :-------------: | :------------: | :------------------: |
@@ -234,7 +234,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 <br clear="left"/>
 
 ## Top 25 Users
-Check out who has the most achievement unlocks, points, retro points, and mastery awards earned this year.
+Check out who has the most achievement unlocks, points, and retro points this year.
 
 | Rank | User                            | Achievements | Points  | Retro Points |
 | ---- | ------------------------------- | :----------: | :-----: | :----------: |
