@@ -121,7 +121,7 @@ The Saturn DevJam launch is going to be January 31st at 00:00 GMT.
 ## Rack It Up
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=24535&c=194300#194300>
-- Period: December 2023 - Decemner 2024
+- Period: December 2023 - December 2024
 - Host: {% rauserpic RAEvents %}
 - Users tied in 1st with 7 points:
 
