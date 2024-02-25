@@ -35,7 +35,7 @@ end
 class RAGame < Liquid::Tag
   def initialize(tag_name, args, tokens)
   super
-    @args = args.split(',').map(&:strip)
+    @args = args.split(',', 2).map(&:strip)
   end
 
   def render(context)
@@ -51,7 +51,7 @@ end
 class RAGamePic < Liquid::Tag
   def initialize(tag_name, args, tokens)
   super
-    @args = args.split(',').map(&:strip)
+    @args = args.split(',', 3).map(&:strip)
   end
 
   def render(context)
@@ -72,7 +72,7 @@ end
 class RAAchievement < Liquid::Tag
   def initialize(tag_name, args, tokens)
   super
-    @args = args.split(',').map(&:strip)
+    @args = args.split(',', 2).map(&:strip)
   end
 
   def render(context)
@@ -88,7 +88,7 @@ end
 class RAAchievementPic < Liquid::Tag
   def initialize(tag_name, args, tokens)
   super
-    @args = args.split(',').map(&:strip)
+    @args = args.split(',', 3).map(&:strip)
   end
 
   def render(context)

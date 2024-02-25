@@ -173,8 +173,10 @@ getRAGameInfo() {
     2> /dev/null \
     && return 1
 
+  # Sleep to prevent "Too Many Requests" response
+  sleep 1
   curl --silent "${BASE_URL}${ENDPOINT}?z=${raUser}&y=${raApiKey}&i=${gameId}" \
-    | jq -r '. | .Title + ":::" + .Console + ":::" + .GameIcon + ":::" +  if ( .Genre == "" ) then "-" else .Genre end'
+    | jq -r '. | .GameTitle + ":::" + .Console + ":::" + if ( .GameIcon == null ) then "-" else .GameIcon end + ":::" +  if ( .Genre == "" ) then "-" else .Genre end'
 }
 
 
@@ -323,31 +325,15 @@ parseAuthors() {
 }
 
 formatReleaseTable() {
-  echo \
-    "| <a class=\"gameicon-link\" href=\"https://retroachievements.org/game/${gameId}\" target=\"_blank\" rel=\"noopener\">" \
-    "<img class=\"gameicon\" src=\"https://retroachievements.org${gameIconUri}\" alt=\"${gameTitle}\">" \
-    "<span>${gameTitle}</span></a>" \
-    "| $( parseAuthors "${author}" )" \
-    "| ${gameGenre} |"
+  echo "| {% ragamepic ${gameId}, ${gameIconUri}, ${gameTitle} %} | $( parseAuthors "${author}" ) | ${gameGenre} |"
 }
 
-
 formatRescoreTable() {
-  echo \
-    "| <a class=\"gameicon-link\" href=\"https://retroachievements.org/game/${gameId}\" target=\"_blank\" rel=\"noopener\">" \
-    "<img class=\"gameicon\" src=\"https://retroachievements.org${gameIconUri}\" alt=\"${gameTitle}\">" \
-    "<span>${gameTitle}</span></a>" \
-    "| $( parseAuthors "${author}" )" \
-    "| ${before} | ${after} |"
+  echo "| {% ragamepic ${gameId}, ${gameIconUri}, ${gameTitle} %} | $( parseAuthors "${author}" ) | ${before} | ${after} |"
 }
 
 formatIconTable() {
-  echo \
-    "| <a class=\"gameicon-link\" href=\"https://retroachievements.org/game/${gameId}\" target=\"_blank\" rel=\"noopener\">" \
-    "<img class=\"gameicon\" src=\"https://retroachievements.org${gameIconUri}\" alt=\"${gameTitle}\">" \
-    "<span>${gameTitle}</span></a>" \
-    "| $( parseAuthors "${author}" )" \
-    "| <img class=\"gameicon\" src=\"${before}\" alt=\"old icon\">"
+  echo "| {% ragamepic ${gameId}, ${gameIconUri}, ${gameTitle} %} | $( parseAuthors "${author}" ) | <img class=\"gameicon\" src=\"${before}\">"
 }
 
 formatBadgesInfo() {
@@ -382,8 +368,9 @@ separateByConsole() {
       || [[ $line =~ $regexRawEntry2 ]] \
       || continue
     gameTitle="${BASH_REMATCH[1]//|/\\|}"
-    consoleName="${BASH_REMATCH[2]}"
+    consoleName="${BASH_REMATCH[2]%/*}"
     gameIconUri="${BASH_REMATCH[3]}"
+    gameIconUri=$(echo "$gameIconUri" | sed 's/[^0-9]*//g')
     gameGenre="${BASH_REMATCH[4]}"
     gameId="${BASH_REMATCH[5]}"
     author="${BASH_REMATCH[6]}"
@@ -514,19 +501,16 @@ quickGameTable() {
 
     [[ $gameInfo =~ $regexRawEntry ]] || return 1
     gameTitle="${BASH_REMATCH[1]//|/\\|}"
-    consoleName="${BASH_REMATCH[2]}"
+    consoleName="${BASH_REMATCH[2]%/*}"
     gameIconUri="${BASH_REMATCH[3]}"
+    gameIconUri=$(echo "$gameIconUri" | sed 's/[^0-9]*//g')
     gameGenre="${BASH_REMATCH[4]}"
     gameId="${BASH_REMATCH[5]}"
 
     echo -e \
       '\n| Game | Console | Genre |' \
       '\n|------|---------|-------|' \
-      "\n| <a class=\"gameicon-link\" href=\"https://retroachievements.org/game/${gameId}\" target=\"_blank\" rel=\"noopener\">" \
-      "<img class=\"gameicon\" src=\"https://retroachievements.org${gameIconUri}\" alt=\"${gameTitle}\">" \
-      "<span>${gameTitle}</span></a>" \
-      "| ${consoleName}" \
-      "| ${gameGenre} |"
+      "\n| {% ragamepic ${gameId}, ${gameIconUri}, ${gameTitle} %} | ${consoleName} | ${gameGenre} |"
   done
 }
 
@@ -573,6 +557,5 @@ main() {
   createFinalFiles
   echo 'DONE!'
 }
-
 
 [[ "$0" == "${BASH_SOURCE[0]}" ]] && main "$@"
