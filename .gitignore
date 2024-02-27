@@ -5,7 +5,8 @@ tmp/*
 tools/.env
 tools/err
 tools/*
-!tools/*.txt
+tools/**/*
+!tools/**/*.txt
 !tools/*.sh
 tools/post-on-forums.txt
 *.zip

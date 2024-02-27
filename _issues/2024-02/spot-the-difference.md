@@ -38,7 +38,7 @@ category: Spot The Difference
 Something terrible happened! Bowser and an evil witch entered Princess Peach's castle and cause chaos. Can you help Mario and Luigi to defeat them by finding all 10 differences?
 
 <p align="center">
-  <img src="img/Fun/SpotTheDifferenceTemp.png" />
+  <img src="img/Fun/SpotTheDifference.png" />
 </p>
 
 ## About the Game

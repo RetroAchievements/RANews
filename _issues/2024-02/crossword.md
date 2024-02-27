@@ -27,10 +27,10 @@ Complete the crossword and send the results to {% rauserpic Nevermond12 %} to ge
 ## Crossword
 
 <p align="center">
-  <img src="img/Fun/crosswordTemp.png" />
+  <img src="img/Fun/crossword.png" />
 </p>
 <p align="center">
-  <img src="img/Fun/crossword-cluesTemp.png" />
+  <img src="img/Fun/crossword-clues.png" />
 </p>
 
 ***
