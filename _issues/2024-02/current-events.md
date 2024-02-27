@@ -79,6 +79,28 @@ Teams, standings, schedule, and more can be found at [https://retroolympics.com/
 |{% rauserpic Snow %}|{% rauserpic televandalist %}|{% rauserpic AuburnRDM %}|
 
 
+## PlayJam
+- Active Season: Sega Saturn
+- Forum topic: <https://retroachievements.org/viewtopic.php?t=25257>
+- Period: Ongoing
+- Hosts: {% rauserpic Sutarion %} and {% rauserpic AuburnRDM %}
+
+### Season 1 (SG-1000) Results
+- Total Participants: 264
+- Most First Masteries: Thoreau
+- Top 10 Earners:
+  1. PMniac - 83  
+  2. Jungon - 82  
+  3. Hexadigital - 53  
+  4. IzaNamiZX - 42  
+  4. Wookash - 42  
+  6. Thoreau - 39  
+  7. sludgemastic - 36  
+  8. tmap - 34  
+  9. Lonoke31 - 26  
+  10. Milesady1983 - 25  
+
+
 ## Rack It Up
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=24535&c=194300#194300>
@@ -98,9 +120,9 @@ Teams, standings, schedule, and more can be found at [https://retroolympics.com/
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=14787>
 - Period: July 2020 - Current
-- Host: {% rauserpic StingX2 %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
+- Host: {% rauserpic genesislover %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
 - Current Winners:
-  - Month 43: Best Gamer: {% rauserpic  %}, Best Dev Fixer: {% rauserpic  %}
+  - Month 43: Best Gamer: {% rauserpic Crystalline343 %} & {% rauserpic Glyphid %}, Best Dev Fixer: {% rauserpic Hotscrock %}
 - Previous Winners:
   - Month 42: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic StingX2 %}
   - Month 41: Best Gamer: {% rauserpic MelodyAsh %}, Best Dev Fixer: {% rauserpic Hotscrock %} & {% rauserpic Sutarion %}
@@ -116,41 +138,33 @@ Teams, standings, schedule, and more can be found at [https://retroolympics.com/
   - Month 31: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic ladynadiad %}
 
 
-## RA Roulette 2023
+## RA Roulette 2024
 
-- Forum topic: <https://retroachievements.org/viewtopic.php?t=20193>
-- Period: January 2023 - Current
+- Forum topic: <https://retroachievements.org/viewtopic.php?t=25399>
+- Period: January 2024 - Current
 - Host: {% rauserpic RAEvents %}
-- Current Winners: 43
-- Top 10 without Winners:  
-  1: {% rauserpic Enagonius %} - 50 Points  
-  2: {% rauserpic ChocoMilk %} - 49 Points  
-  2: {% rauserpic thundere %} - 49 Points  
-  4: {% rauserpic AuburnRDM %} - 48 Points  
-  4: {% rauserpic genesislover %} - 48 Points  
-  6: {% rauserpic Grawl %} - 47 Points  
-  6: {% rauserpic MonkeyBug %} - 47 Points  
-  8: {% rauserpic StingX2 %} - 45 Points  
-  9: {% rauserpic JackManPog %} - 37 Points  
-  10: {% rauserpic malasdair %} - 29 Points  
+- Current Winners: 0
+- Top Players:  
+  1: {% rauserpic Agnam %} - 9 Points  
+  1: {% rauserpic Akai %} - 9 Points  
+  1: {% rauserpic Alakatrore %} - 9 Points  
+  1: {% rauserpic Crystalline343 %} - 9 Points  
+  1: {% rauserpic haavikassu %} - 9 Points  
+  1: {% rauserpic Jurbadis %} - 9 Points  
+  1: {% rauserpic Sutarion %} - 9 Points  
+  1: {% rauserpic Tyrota %} - 9 Points  
 
 
-## Challenge League Top 100
-
-- Forum topic: <https://retroachievements.org/viewtopic.php?t=19615>
-- Period: January 2023 - February 1st 2024
+## Challenge League: Ticket to the Universe
+- Forum topic: <https://retroachievements.org/viewtopic.php?t=24927>
+- Period: January 1st, 2024 - December 31st, 2024
 - Host: {% rauserpic RAEvents %}
-- Current top 10:  
-  1: {% rauserpic KlydeKadell %} - 100 Points  
-  1: {% rauserpic Tayadaoc %} - 100 Points  
-  1: {% rauserpic WanderingHeiho %} - 100 Points  
-  1: {% rauserpic wolfman2000 %} - 100 Points  
-  5: {% rauserpic FlamingDoom %} - 97 Points  
-  5: {% rauserpic pitapocket17 %} - 97 Points  
-  7: {% rauserpic Xymjak %} - 93 Points  
-  8: {% rauserpic ShadwSonic %} - 92 Points  
-  8: {% rauserpic WeerDough %} - 92 Points  
-  10: {% rauserpic pickledyamsman %} - 91 Points  
+- Total Participants: 340
+- Total Games Beaten: 1,956
+- Board Clears:
+  - Ticket to the World (Board 1): 287 (84.4%)
+  - Heroes Assemble (Board 2): 100 (29.1%)
+
 
 ## Peak Streak
 
@@ -165,18 +179,11 @@ Teams, standings, schedule, and more can be found at [https://retroolympics.com/
   - {% rauserpic Timmay %}* - 475 Points
 
 
-## Mario Party RA
-
-- Forum topic: <https://retroachievements.org/viewtopic.php?t=22460>
-- Period: July 2023 - Current
-- Host: {% rauserpic freezestar %}
-
-
 ## Leaderboards of the Month
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=19693>
 - Period: July 2021 - Current
-- Host: {% rauserpic FBernkastelKues %}
+- Host: {% rauserpic drisc %} and {% rauserpic Xionx %}
 - Current Top 5:  
   1: {% rauserpic AuburnRDM %} - 312 Points  
   2: {% rauserpic MarioKness %} - 272 Points  

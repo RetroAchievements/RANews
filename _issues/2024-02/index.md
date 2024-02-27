@@ -42,12 +42,12 @@ The RetroAchievements community is always buzzing with events and competitions, 
 Dive into the artistic world of our RetroAchievements community with our new Fanart section. Discover a visual feast of nostalgia as members showcase their talent in celebrating the timeless charm of retro gaming. Immerse yourself in the pixelated passion that makes our community truly special.
 
 
-## [Rack It Up Editorial 1](./rack-it-up-editorial-1.html)
-Dive into the hidden gems of the original Xbox with our editorial spotlight. From NFL Street 2 to Grabbed by the Ghoulies, we explore 10 titles deserving of a RetroAchievements revival. Power your dreams and achieve the impossible as we celebrate these overlooked treasures of the original Xbox era.
+## [Rack It Up Editorial: If I Had an Xbox](./rack-it-up-editorial-1.html)
+Dive into the hidden gems of the original Xbox with the editorial spotlight by {% rauser Campingcam %}. From NFL Street 2 to Grabbed by the Ghoulies, we explore 10 titles deserving of a RetroAchievements revival. Power your dreams and achieve the impossible as we celebrate these overlooked treasures of the original Xbox era.
 
 
-## [Rack It Up Editorial 2](./rack-it-up-editorial-2.html)
-Explore IWDM's Top 10 Video Games of 1995, all with RetroAchievements sets ready. From Comix Zone's stylish world to Twisted Metal's car combat chaos, and the platforming brilliance of Rayman, to classics like Donkey Kong Country 2 and EarthBound. These games defined an era you're one set away from reliving the magic of 1995.
+## [Rack It Up Editorial: Top 10 Video Games of 1995](./rack-it-up-editorial-2.html)
+Explore {% rauser IWDM %}'s Top 10 Video Games of 1995, all with RetroAchievements sets ready. From Comix Zone's stylish world to Twisted Metal's car combat chaos, and the platforming brilliance of Rayman, to classics like Donkey Kong Country 2 and EarthBound. These games defined an era you're one set away from reliving the magic of 1995.
 
 
 ## [Community News](./community-news.html)
@@ -86,7 +86,7 @@ Discover the latest updates to achievement badges and set icons. From fresh badg
 Wondering who the top players on RetroAchievements are, and how they've been performing over the past month? In this section we take a deep dive into the top 300 players on the site, analyzing their progress and point totals over the past month. From the rise of new challengers to the continued dominance of top players, this section gives you a comprehensive overview of the RetroAchievements points leaderboard.
 
 
-## ---[RAnniversaries](./ranniversaries.html)
+## [RAnniversaries](./ranniversaries.html)
 Joining RetroAchievements is a major milestone for gamers and achievement developers, and we love celebrating those anniversaries. In this section, we'll recognize the achievements of our dedicated members by highlighting their years of service to the site. From new members to veterans, we'll showcase everyone who's reached a new anniversary milestone. Join us in celebrating our amazing community, and the hard work and dedication that makes RetroAchievements the best achievement hunting community out there.
 
 
@@ -119,5 +119,15 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                                    |                                 |                                      |
-| ---------------------------------- | ------------------------------- | ------------------------------------ |
+|                               |                                 |                              |
+| ----------------------------- | ------------------------------- | ---------------------------- |
+| {% rauserpic 1stPrize %}      | {% rauserpic AlexC25 %}         | {% rauserpic Amir96lx %}     |
+| {% rauserpic Campingcam %}    | {% rauserpic DevCompliance %}   | {% rauserpic FlamingDoom %}  |
+| {% rauserpic Impferno93 %}    | {% rauserpic IWDM %}            | {% rauserpic ladynadiad %}   |
+| {% rauserpic MrOwnership %}   | {% rauserpic Nepiki %}          | {% rauserpic Nevermond12 %}  |
+| {% rauserpic Nydaxn %}        | {% rauserpic Olafur %}          | {% rauserpic pinguupinguu %} |
+| {% rauserpic Poefred %}       | {% rauserpic QATeam %}          | {% rauserpic RANews %}       |
+| {% rauserpic Raykusen %}      | {% rauserpic RetroGameMaster %} | {% rauserpic Sines %}        |
+| {% rauserpic Snow %}          | {% rauserpic SporyTike %}       | {% rauserpic StingX2 %}      |
+| {% rauserpic ThePotato4242 %} | {% rauserpic TimeCrush %}       | {% rauserpic wolfman2000 %}  |
+| {% rauserpic Xymjak %}        |                                 |                              |

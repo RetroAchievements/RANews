@@ -2,16 +2,14 @@
 issue: 2024-02
 order: 202402-10
 layout: article
-title: "Rack It Up Editorial 1"
-author: RANews
+title: "If I Had an Xbox"
+author: Campingcam
 toc: false
 ---
 
 This article was sent in as a challenge for the Rack It Up event. For more information, you can check the forum topic [here](https://retroachievements.org/viewtopic.php?t=24535).
 
 ***
-
-# If I Had an Xbox by Campingcam
 
 A preview of 10 underrated or hidden gems on the original Xbox that we could get sets for. These are in no specific order. Side Note: some of these games may already have sets as ports on other platforms but who cares about them. Power your Dreams, Baby.
 

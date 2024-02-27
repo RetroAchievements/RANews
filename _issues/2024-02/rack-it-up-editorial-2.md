@@ -2,7 +2,7 @@
 issue: 2024-02
 order: 202402-11
 layout: article
-title: "Rack It Up Editorial 2"
+title: "Top 10 Video Games of 1995"
 author: IWDM
 toc: false
 ---
@@ -10,8 +10,6 @@ toc: false
 This article was sent in as a challenge for the Rack It Up event. For more information, you can check the forum topic [here](https://retroachievements.org/viewtopic.php?t=24535).
 
 ***
-
-# IWDM's Top 10 Video Games of 1995
 
 So a quick introduction for this list. I set some rules for what games could appear on this list:
 
