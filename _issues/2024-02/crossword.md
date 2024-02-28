@@ -35,4 +35,4 @@ Complete the crossword and send the results to {% rauserpic Nevermond12 %} to ge
 
 ***
 
-Crossword answers will be provided in next month's issue. Last monsth's answers can be found [here](img/Fun/crossword-answers.png).
+Crossword answers will be provided in next month's issue. Last month's answers can be found [here](img/Fun/crossword-answers.png).

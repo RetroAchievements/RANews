@@ -48,6 +48,6 @@ Something terrible happened! Bowser and an evil witch entered Princess Peach's c
 | {% ragamepic 771, 067287, Mario & Luigi: Superstar Saga %} | Game Boy Advance | Role-Playing Game, Turn-based RPG |
 
 
-* Suggested by: {% rauserpic s0uth %}
+* Suggested by: {% rauserpic MonkeyBug %}
 
 **Note:** Every user who finds all 10 differences and sends proof to SporyTike via Site DM or Discord will be listed in the next issue. Additionally a random selected user who submitted the solution until the end of the month will be chosen to select the game of the next picture.
