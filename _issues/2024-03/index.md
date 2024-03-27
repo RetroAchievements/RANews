@@ -27,7 +27,7 @@ Each month, we invite the RetroAchievements community to vote for their favorite
 
 
 ## [Most Mastered: Genesis/Mega Drive](./most-mastered.html) <!-- Update each issue -->
-into the Sega Genesis/Mega Drive to uncover the top 10 most mastered games. Ever wondered which titles reign supreme? Join us as we explore each game's reputation, why they made the list, and more. Share your guesses on Discord in the RA News channel and let's see if you're right!"
+Dive into the Sega Genesis/Mega Drive to uncover the top 10 most mastered games. Ever wondered which titles reign supreme? Join us as we explore each game's reputation, why they made the list, and more. Share your guesses on Discord in the RA News channel and let's see if you're right!"
 
 
 ## [Monthly Stats](./monthly-stats.html)
