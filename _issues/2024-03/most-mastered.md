@@ -4,7 +4,7 @@ order: 202403-04
 layout: article
 title: Most Mastered ‐ Genesis/Mega Drive
 author: Nepiki
-toc: true
+toc: false
 toc_float: false
 ---
 
@@ -146,7 +146,7 @@ RetroAchievements users really do be liking their beat 'em ups huh? Ignoring the
 
 What was really surprising to me researching this topic is that there was only really one game that can truly be seen as free points. Sure, the _Show do Milhão_ games are probably not too difficult if you can get past the language barrier and know what you are doing, and some of the beat 'em ups probably won't take much effort either, but none of them can really be considered free points. Also yes, this title was published by Sega of America and is therefore a first-party title. You are welcome for learning about this interesting fact. You control Barney through a total of four themed levels, each teaching the kids the way of education, like counting, matching, and problem solving. Barney needs to find give children and five presents in each level and get a special reward for doing so! It uh, didn't receive the most positive reviews, though it did succeed in its goal of being perfectly suited for children which causes one critic to give it a whopping 80%! Yeah, take that _Altered Beast_, its' barney tiem!! Anyway, I don't really have to tell you why this game is up here right? You can beat it in less than 5 minutes and for whatever cursed reason, there is even a self-playing feature so you can beat this game without actually doing anything yourself. Yeah, I'm not kidding, that exists. So yeah, if you're a fan of Barney... somehow, this is the game for you!
 
- ## 1: Sonic the Hedgehog - 1052 Masteries
+## 1: Sonic the Hedgehog - 1052 Masteries
 
 | Game                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------- |

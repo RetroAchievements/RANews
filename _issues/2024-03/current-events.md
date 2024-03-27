@@ -146,20 +146,9 @@ Teams, standings, schedule, and more can be found at [https://retroolympics.com/
 - Period: Ongoing
 - Hosts: {% rauserpic Sutarion %} and {% rauserpic AuburnRDM %}
 
-### Season 1 (SG-1000) Results
-- Total Participants: 264
-- Most First Masteries: Thoreau
-- Top 10 Earners:
-  1. PMniac - 83  
-  2. Jungon - 82  
-  3. Hexadigital - 53  
-  4. IzaNamiZX - 42  
-  4. Wookash - 42  
-  6. Thoreau - 39  
-  7. sludgemastic - 36  
-  8. tmap - 34  
-  9. Lonoke31 - 26  
-  10. Milesady1983 - 25  
+Saturn Sets: 60 (8 exempt from community goals)  
+Sets Beat: 50 out of 52  
+Sets Mastered: 42 out of 52
 
 
 ## Rack It Up
@@ -222,11 +211,12 @@ Teams, standings, schedule, and more can be found at [https://retroolympics.com/
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=24927>
 - Period: January 1st, 2024 - December 31st, 2024
 - Host: {% rauserpic RAEvents %}
-- Total Participants: 340
-- Total Games Beaten: 1,956
+- Total Participants: 352
+- Total Games Beaten: 2,686
 - Board Clears:
-  - Ticket to the World (Board 1): 287 (84.4%)
-  - Heroes Assemble (Board 2): 100 (29.1%)
+  - Ticket to the World (Board 1): 205 (58.2%)
+  - Heroes Assemble (Board 2): 143 (40.6%)
+  - Assault on the Dark Castle (Board 3): 39 (11.1%)
 
 
 ## Peak Streak
