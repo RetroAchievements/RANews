@@ -22,10 +22,10 @@ toc: true
 ### NES
 
 
-| Game                                               | Revision By            | Genre             |
-| -------------------------------------------------- | ---------------------- | ----------------- |
-| {% ragamepic 1449, 070783, Final Fantasy %}        | {% rauser suspect15 %} | Role-Playing Game |
-| {% ragamepic 1764, 005734, Jimmy Connors Tennis %} | {% rauser s0uth %}     | Sports (Tennis)   |
+| Game                                               | Revision By                                           | Genre             |
+| -------------------------------------------------- | ----------------------------------------------------- | ----------------- |
+| {% ragamepic 1449, 070783, Final Fantasy %}        | {% rauser suspect15 %}<br>{% rauser TheMysticalOne %} | Role-Playing Game |
+| {% ragamepic 1764, 005734, Jimmy Connors Tennis %} | {% rauser s0uth %}                                    | Sports (Tennis)   |
 
 <a href="#toc">:top:</a>
 
