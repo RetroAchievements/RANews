@@ -99,7 +99,7 @@ Retro Olympics has concluded with a thrilling finale that you can watch below.
     </tbody>
 </table>
 <br>
-Teams, standings, schedule, and more can be found at [https://retroolympics.com/](https://retroolympics.com/). If you are interested in helping withing Retro Olympics next year, check out the [Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLSftOC8I-xDnUJprQlDkSJ86-sS_YsVNfDXmc8RTIRvyNtDa-g/viewform).
+Teams, standings, schedule, and more can be found at [https://retroolympics.com/](https://retroolympics.com/). If you are interested in helping with Retro Olympics next year, check out the [Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLSftOC8I-xDnUJprQlDkSJ86-sS_YsVNfDXmc8RTIRvyNtDa-g/viewform).
 
 
 ## Achievement of the Week 2024
