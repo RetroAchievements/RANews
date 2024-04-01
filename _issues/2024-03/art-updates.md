@@ -39,7 +39,7 @@ toc: true
 | {% ragamepic 6653, 089608, Azumanga Daioh Advance %}                      | {% rauser Achievess %}    | <img class="gameicon" src="https://retroachievements.org/Images/085867.png"> |
 | {% ragamepic 6030, 090167, Garfield and his Nine Lives %}                 | {% rauser ZeeRA %}        | <img class="gameicon" src="https://retroachievements.org/Images/080722.png"> |
 | {% ragamepic 1416, 089901, Grand Theft Auto Advance %}                    | {% rauser Achievess %}    | <img class="gameicon" src="https://retroachievements.org/Images/074703.png"> |
-| {% ragamepic 10111, 089336, Metroid Fusion [Subset - Japan] %}            | {% rauser MeV3Ker %}      | <img class="gameicon" src="https://retroachievements.org/Images/059660.png"> |
+| {% ragamepic 10111, 089336, Metroid Fusion [Subset - Japan] %}            | {% rauser gollawiz %}     | <img class="gameicon" src="https://retroachievements.org/Images/059660.png"> |
 | {% ragamepic 785, 089338, Metroid Fusion %}                               | {% rauser Ryudo %}        | <img class="gameicon" src="https://retroachievements.org/Images/060995.png"> |
 | {% ragamepic 534, 089340, Metroid: Zero Mission %}                        | {% rauser MeV3Ker %}      | <img class="gameicon" src="https://retroachievements.org/Images/059551.png"> |
 | {% ragamepic 22834, 089913, ~Hack~ Castlevania: Aria of Sorrow Reprise %} | {% rauser markdarkness %} | <img class="gameicon" src="https://retroachievements.org/Images/069810.png"> |
