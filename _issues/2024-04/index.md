@@ -34,7 +34,7 @@ Get your wallets out and explore the world of paid homebrew games in our latest 
 Get ready to dive into the numbers and see how you stack up against the rest of the RetroAchievements community. In this section, we'll be looking at all sorts of stats, including achievements created, most played games, mastery awards, leaderboards, and more. Whether you're a developer or not, you're sure to find something interesting here.
 
 
-## [Code Reviewer Status](./code-reviewer-stats.html)
+## [Code Reviewer Q1 Stats](./code-reviewer-stats.html)
 Introducing our newest section: Code Reviewer Stats. This is a quarterly article highlighting the review stats from the past 3 months. We highlight the exceptional efforts of our code reviewers who diligently evaluate junior developer sets, guaranteeing top-notch quality and adherence to standards within our retro gaming community.
 
 

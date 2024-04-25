@@ -55,15 +55,18 @@ These events are open to any community member who wants to participate.
 |{% rauserpic Snow %}|{% rauserpic televandalist %}|{% rauserpic AuburnRDM %}|
 
 
-## PlayJam ??
+## PlayJam
+
 - Active Season: Sega Saturn
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=25257>
 - Period: Ongoing
 - Hosts: {% rauserpic Sutarion %} and {% rauserpic AuburnRDM %}
 
-Saturn Sets: 60 (8 exempt from community goals)  
-Sets Beat: 50 out of 52  
-Sets Mastered: 42 out of 52
+Saturn Sets: 60 (9 exempt from community goals)
+Sets Beat: 51 out of 51
+Sets Mastered: 50 out of 51
+
+New Season launches on April 30th featuring the PC Engine and PC Engine CD!
 
 
 ## Rack It Up
@@ -122,12 +125,12 @@ Sets Mastered: 42 out of 52
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=24927>
 - Period: January 1st, 2024 - December 31st, 2024
 - Host: {% rauserpic RAEvents %}
-- Total Participants: 352
-- Total Games Beaten: 2,686
+- Total Participants: 363
+- Total Games Beaten: 3,642
 - Board Clears:
-  - Ticket to the World (Board 1): 205 (58.2%)
-  - Heroes Assemble (Board 2): 143 (40.6%)
-  - Assault on the Dark Castle (Board 3): 39 (11.1%)
+  - Ticket to the World (Board 1): 217 (59.8%)
+  - Heroes Assemble (Board 2): 161 (44.4%)
+  - Assault on the Dark Castle (Board 3): 93 (25.6%)
 
 
 ## Peak Streak
