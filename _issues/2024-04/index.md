@@ -99,7 +99,6 @@ Mastering achievement sets is no easy feat, but some RetroAchievements players h
 
 
 ## [Most Wanted Games](./most-wanted.html)
-Rando
 Are you itching to tackle a new set, but can't seem to find the right one? Look no further than our Most Wanted Games section. Here, we highlight the top requested games for console, handheld, and hacks. Plus, each month we feature a new DevQuest console to encourage developers to earn that [Most Wanted](https://retroachievements.org/game/17758) DevQuest badge. Don't miss out on the chance to make your requests heard and see your favorite games added to RetroAchievements!
 
 
@@ -108,7 +107,7 @@ Are you curious about which developers have contributed the most sets to RetroAc
 
 
 ## [Spot The Difference](./spot-the-difference.html) <!-- Update each issue -->
-In this section, we challenge readers to put their observation skills to the test with a Spot the Difference game created by {% rauser SporyTike %} for the game {% ragame 2619, 063363, Ganbare Goemon 3: Shishi Juurokubei no Karakuri Manjigatame %}. There are 10 differences to find, and readers who spot them all will be featured in the next issue. So sharpen your eyes and get ready for some fun!
+In this section, we challenge readers to put their observation skills to the test with a Spot the Difference game created by {% rauser SporyTike %} for the game {% ragame 2619, Ganbare Goemon 3: Shishi Juurokubei no Karakuri Manjigatame %}. There are 10 differences to find, and readers who spot them all will be featured in the next issue. So sharpen your eyes and get ready for some fun!
 
 
 ## [RA Crossword](./crossword.html)
