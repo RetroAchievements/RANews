@@ -54,12 +54,12 @@ Dive into the artistic world of our RetroAchievements community with our new Fan
 Immerse yourself in a nostalgic journey through the golden era of PlayStation gaming with the latest Rack It Up Editorial. {% rauser TheRoadkill %} shares personal insights and fond memories of the iconic titles that have left an indelible mark on the gaming landscape. From classic platformers to adrenaline-fueled racing games, join us as we celebrate the timeless favorites and discover the hidden gems that defined a generation of gamers.
 
 
-## ---[Community News](./community-news.html)
+## [Community News](./community-news.html)
 Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
 
 
-## ---[RAPodcast](./rapodcast.html) <!-- Update each issue -->
-
+## [RAPodcast](./rapodcast.html) <!-- Update each issue -->
+Join the RetroAchievements community and listen to the latest RAPodcasts. This months podcast has our host, {% rauser TimeCrush %} chats with {% rauser CobaltZeroni %}, a legacy member embarking on an extraordinary Grand Tour through RA. Discover the passion, challenges, and triumphs behind this unique quest, and delve into the vibrant community of achievement hunters.
 
 
 ## [Play This Set](./play-this-set.html)
@@ -107,7 +107,8 @@ Are you itching to tackle a new set, but can't seem to find the right one? Look 
 Are you curious about which developers have contributed the most sets to RetroAchievements for each console? This section has you covered. Here you can see which developers have made the most sets for the RetroAchievements community for each console. This section offers valuable insights into the individuals who have contributed the most to the world of achievement creation. Check it out now, and see which developers have left their mark on your favorite consoles!
 
 
-## ---[Spot The Difference](./spot-the-difference.html) <!-- Update each issue -->
+## [Spot The Difference](./spot-the-difference.html) <!-- Update each issue -->
+In this section, we challenge readers to put their observation skills to the test with a Spot the Difference game created by {% rauser SporyTike %} for the game {% ragame 2619, 063363, Ganbare Goemon 3: Shishi Juurokubei no Karakuri Manjigatame %}. There are 10 differences to find, and readers who spot them all will be featured in the next issue. So sharpen your eyes and get ready for some fun!
 
 
 ## [RA Crossword](./crossword.html)
@@ -127,5 +128,16 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                                  |                                 |                             |
-| -------------------------------- | ------------------------------- | --------------------------- |
+|                                |                               |                                 |
+| ------------------------------ | ----------------------------- | ------------------------------- |
+| {% rauserpic ahtea %}          | {% rauserpic Alarju %}        | {% rauserpic Amir96lx %}        |
+| {% rauserpic Crystalline343 %} | {% rauserpic DevCompliance %} | {% rauserpic Enagonius %}       |
+| {% rauserpic Gloves %}         | {% rauserpic Jurbadis %}      | {% rauserpic Krylan %}          |
+| {% rauserpic LogicalFallacy %} | {% rauserpic MrOwnership %}   | {% rauserpic Nepiki %}          |
+| {% rauserpic Nevermond12 %}    | {% rauserpic Nydaxn %}        | {% rauserpic Obliv %}           |
+| {% rauserpic orchidcnr %}      | {% rauserpic pinguupinguu %}  | {% rauserpic QATeam %}          |
+| {% rauserpic RANews %}         | {% rauserpic Raykusen %}      | {% rauserpic RetroGameMaster %} |
+| {% rauserpic Sines %}          | {% rauserpic Snow %}          | {% rauserpic SporyTike %}       |
+| {% rauserpic StingX2 %}        | {% rauserpic theelkspeaks %}  | {% rauserpic TheJohanx %}       |
+| {% rauserpic TheRoadkill %}    | {% rauserpic TimeCrush %}     | {% rauserpic Whynot15 %}        |
+| {% rauserpic Xymjak %}         |                               |                                 |

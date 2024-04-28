@@ -36,4 +36,4 @@ Complete the Code Breaker to reveal a famous video game quote. Send the results 
 
 ---
 
-Code Breaker answers will be provided in next month's issue.
+Code Breaker will be provided in next month's issue. Last month's answers can be found [here](img/Fun/CodeBreakerAnswers.png).
