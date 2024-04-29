@@ -37,7 +37,7 @@ _"Radio control racing done right!"_
 
 If you asked for my favorite game of all time, it would be the PC fan project of this game, RVGL. However, the PlayStation port of this game is… less than spectacular. My bias is absolutely playing a part here, but even still this version of the game is a blast. This physics based racer has you controlling RC cars in everyday environments like neighborhoods, supermarkets, museums, and cruise ships. When you get hit by a Rocket or Shockwave, instead of your car going through a generic animation, it causes you to go flying off in some direction, flipping over and spinning out. Even the best versions of this game are not the most polished, but are still great fun! If you want to try a set of this game, check out the N64 set created by the legendary Bl4h8L4hBl4h!
 
-| 6 | {% ragamepic 11260, 089303, Spyro 2: Ripto's Rage! \| Spyro 2: Gateway to Glimmer %} |
+| 6 | {% ragamepic 11260, 089383, Spyro 2: Ripto's Rage! \| Spyro 2: Gateway to Glimmer %} |
 
 _"Mess with this dragon and feel the burn!"_
 
@@ -71,4 +71,4 @@ Now, when you think of PSX mascots, Crash Bandicoot IS the first to come to mind
 
 _"High speed racing action"_
 
-Well, this is "Roadkill’s top 10 PlayStation games", not top 10 PlayStation games! This was my favorite game growing up, and continues to be one of my favorites to this day. My favorite style of racing game is easily the “physics” racer, as I don’t know what else to call it. Racing games where your car can flip, tumble, spin out, and bounce around. In this game, you are rewarded for taking the risk of doing a flip or spin after a big jump by getting turbo. Also, it scratches my collectathon itch by hiding cars in all of the tracks for you to unlock if you find them! The soundtrack has an allstar guest list with acts like Primus, The Reverend Horton Heat, and even using Fuel by Metallica as the title track! If you want to play a set for this game, check out the one developed for the N64 port by MaddieKittyTV!
+Well, this is "Roadkill’s top 10 PlayStation games", not top 10 PlayStation games! This was my favorite game growing up, and continues to be one of my favorites to this day. My favorite style of racing game is easily the “physics” racer, as I don’t know what else to call it. Racing games where your car can flip, tumble, spin out, and bounce around. In this game, you are rewarded for taking the risk of doing a flip or spin after a big jump by getting turbo. Also, it scratches my collectathon itch by hiding cars in all of the tracks for you to unlock if you find them! The soundtrack has an allstar guest list with acts like Primus, The Reverend Horton Heat, and even using Fuel by Metallica as the title track!
