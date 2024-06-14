@@ -25,10 +25,10 @@ toc: true
 | Game                                                                                         | Icon By                         | Icon Before                                                                  |
 | -------------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------- |
 | {% ragamepic 7421, 093757, Amida %}                                                          | {% rauser AzuchiAkeshi %}       | <img class="gameicon" src="https://retroachievements.org/Images/088311.png"> |
-| {% ragamepic 3621, 005524, Animaniacs %}                                                     | {% rauser AzuchiAkeshi %}       | <img class="gameicon" src="https://retroachievements.org/Images/075775.png"> |
 | {% ragamepic 6357, 093755, Cave Noire %}                                                     | {% rauser AzuchiAkeshi %}       | <img class="gameicon" src="https://retroachievements.org/Images/039538.png"> |
 | {% ragamepic 692, 094382, Donkey Kong %}                                                     | {% rauser Bryan1150 %}          | <img class="gameicon" src="https://retroachievements.org/Images/038382.png"> |
 | {% ragamepic 4150, 095383, Garfield Labyrinth \| The Real Ghostbusters \| Mickey Mouse IV %} | {% rauser ZeeRA %}              | <img class="gameicon" src="https://retroachievements.org/Images/040451.png"> |
+| {% ragamepic 3629, 093758, Noobow %}                                                         | {% rauser AzuchiAkeshi %}       | <img class="gameicon" src="https://retroachievements.org/Images/075775.png"> |
 | {% ragamepic 17399, 094381, ~Hack~ Twitch Plays Pokemon: Anniversary Red %}                  | {% rauser GorbrushThreepwood %} | <img class="gameicon" src="https://retroachievements.org/Images/081296.png"> |
 
 <a href="#toc">:top:</a>
@@ -100,9 +100,9 @@ toc: true
 ### Master System
 
 
-| Game                                                  | Icon By                   | Icon Before                                                                  |
-| ----------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------- |
-| {% ragamepic 10000, 094022, Aleste \| Power Strike %} | {% rauser AzuchiAkeshi %} | <img class="gameicon" src="https://retroachievements.org/Images/071353.png"> |
+| Game                                                  | Icon By                          | Icon Before                                                                  |
+| ----------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------- |
+| {% ragamepic 10000, 094022, Aleste \| Power Strike %} | {% rauser ThatAmericanSlacker %} | <img class="gameicon" src="https://retroachievements.org/Images/071353.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -204,7 +204,7 @@ toc: true
 | {% ragamepic 20971, 095378, Garfield: Lasagna World Tour %}                                      | {% rauser ZeeRA %}        | <img class="gameicon" src="https://retroachievements.org/Images/084430.png"> |
 | {% ragamepic 20972, 095380, Garfield: Saving Arlene %}                                           | {% rauser ZeeRA %}        | <img class="gameicon" src="https://retroachievements.org/Images/084429.png"> |
 | {% ragamepic 20739, 095366, Garfield %}                                                          | {% rauser ZeeRA %}        | <img class="gameicon" src="https://retroachievements.org/Images/062687.png"> |
-| {% ragamepic 25598, 095489, Kingdom Hearts: Final Mix [Subset - Level 100 on Destiny Islands] %} | {% rauser Nevermond12 %}  | <img class="gameicon" src="https://retroachievements.org/Images/095489.png"> |
+| {% ragamepic 25598, 095489, Kingdom Hearts: Final Mix [Subset - Level 100 on Destiny Islands] %} | {% rauser Nevermond12 %}  | <img class="gameicon" src="https://retroachievements.org/Images/084330.png"> |
 | {% ragamepic 19086, 095385, PopCap Hits! Vol. 1 %}                                               | {% rauser ZeeRA %}        | <img class="gameicon" src="https://retroachievements.org/Images/072528.png"> |
 | {% ragamepic 19287, 095382, PopCap Hits! Vol. 2 %}                                               | {% rauser ZeeRA %}        | <img class="gameicon" src="https://retroachievements.org/Images/000001.png"> |
 | {% ragamepic 3008, 093577, Shin Megami Tensei: Persona 3 %}                                      | {% rauser Gollawiz %}     | <img class="gameicon" src="https://retroachievements.org/Images/086958.png"> |

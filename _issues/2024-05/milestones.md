@@ -209,7 +209,22 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 3,000 Hardcore Achievements Earned
 
-|{% rauserpic TheRealHedgehogSonic %}|{% rauserpic RevJohn %}|{% rauserpic 1stPrize %}|
+|{% rauserpic zotofmu %}|{% rauserpic XavierUtka %}|{% rauserpic UltraGodAzgorath %}|
+|{% rauserpic TheRealHedgehogSonic %}|{% rauserpic ThaTruth716 %}|{% rauserpic TeensiesKing %}|
+|{% rauserpic SuperTails0991 %}|{% rauserpic speedneedle %}|{% rauserpic SonOfTheSky %}|
+|{% rauserpic seiryu %}|{% rauserpic SegaShinobi %}|{% rauserpic sebmal %}|
+|{% rauserpic Saschasushi %}|{% rauserpic Rhodey %}|{% rauserpic RevJohn %}|
+|{% rauserpic RetroVanny %}|{% rauserpic RafaelsGame %}|{% rauserpic PixuL %}|
+|{% rauserpic PGaz %}|{% rauserpic Niccimon %}|{% rauserpic nakavelli %}|
+|{% rauserpic MrNinchat %}|{% rauserpic mcbenfica %}|{% rauserpic lizstar %}|
+|{% rauserpic Lardinou %}|{% rauserpic kurtkiste %}|{% rauserpic KillingDead6 %}|
+|{% rauserpic JowOliveira %}|{% rauserpic JBoneCapone %}|{% rauserpic Jaxas %}|
+|{% rauserpic hyperloony %}|{% rauserpic hugohikari %}|{% rauserpic HowDoUPlay %}|
+|{% rauserpic GregoryAnimeFan %}|{% rauserpic Gaiden %}|{% rauserpic ferhound %}|
+|{% rauserpic Ericoadriano2 %}|{% rauserpic Dustellar %}|{% rauserpic dumbFKNidiot %}|
+|{% rauserpic doofsupreme %}|{% rauserpic Crazeuh %}|{% rauserpic ClayShaw %}|
+|{% rauserpic Chemnitz %}|{% rauserpic CelestialKoopa64 %}|{% rauserpic CabbageDevourer %}|
+|{% rauserpic bobtheblob2 %}|{% rauserpic ahtea %}|{% rauserpic 1stPrize %}|
 
 ## 100-Point Achievements
 

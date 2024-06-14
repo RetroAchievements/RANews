@@ -621,7 +621,9 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
   <img src="img/TopMasteries/SG-1000.png" />
 </p>
 
-* {% rauserpic Drakub %} remains in 1st with 20 total mastery awards.
+* {% rauserpic Jungon %} remains in 1st with 61 total mastery awards.
+* {% rauserpic xnaivx %} has made it into the top 25 and is tied for 20th place.
+* {% rauserpic GregHouse007 %} has made it into the top 25 and is in a 8-way tie for 22nd place.
 
 ### SNES
 
