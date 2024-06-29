@@ -127,19 +127,18 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                             |                                    |                              |
-| --------------------------- | ---------------------------------- | ---------------------------- |
-| {% rauserpic AmazingBaha %} | {% rauserpic AmazingBaha %}        | {% rauserpic Amir96lx %}     |
-| {% rauserpic Brandovsky %}  | {% rauserpic calendario %}         | {% rauserpic coolscribble %} |
-| {% rauserpic crrool %}      | {% rauserpic DevCompliance %}      | {% rauserpic Digifiend %}    |
-| {% rauserpic DrJordo %}     | {% rauserpic Hexadigital %}        | {% rauserpic jamesbuc %}     |
-| {% rauserpic ladynadiad %}  | {% rauserpic MeloDeathAtmoBlack %} | {% rauserpic MrOwnership %}  |
-| {% rauserpic mywifeleftm %} | {% rauserpic Nepiki %}             | {% rauserpic Nevermond12 %}  |
-| {% rauserpic Nezperdian %}  | {% rauserpic Nydaxn %}             | {% rauserpic Obliv %}        |
-| {% rauserpic Olafur %}      | {% rauserpic PaddyW %}             | {% rauserpic pinguupinguu %} |
-| {% rauserpic Prota %}       | {% rauserpic QATeam %}             | {% rauserpic RANews %}       |
-| {% rauserpic Raykusen %}    | {% rauserpic RetroGameMaster %}    | {% rauserpic scatter %}      |
-| {% rauserpic Sines %}       | {% rauserpic Snow %}               | {% rauserpic SporyTike %}    |
-| {% rauserpic StingX2 %}     | {% rauserpic Sutarion %}           | {% rauserpic TheRoadkill %}  |
-| {% rauserpic TimeCrush %}   | {% rauserpic vikdarkbomb %}        | {% rauserpic Whynot15 %}     |
-| {% rauserpic Xymjak %}      |                                    |                              |
+|                                    |                              |                             |
+| ---------------------------------- | ---------------------------- | --------------------------- |
+| {% rauserpic AmazingBaha %}        | {% rauserpic Amir96lx %}     | {% rauserpic Brandovsky %}  |
+| {% rauserpic calendario %}         | {% rauserpic coolscribble %} | {% rauserpic crrool %}      |
+| {% rauserpic DevCompliance %}      | {% rauserpic Digifiend %}    | {% rauserpic DrJordo %}     |
+| {% rauserpic Hexadigital %}        | {% rauserpic jamesbuc %}     | {% rauserpic ladynadiad %}  |
+| {% rauserpic MeloDeathAtmoBlack %} | {% rauserpic MrOwnership %}  | {% rauserpic mywifeleftm %} |
+| {% rauserpic Nepiki %}             | {% rauserpic Nevermond12 %}  | {% rauserpic Nezperdian %}  |
+| {% rauserpic Nydaxn %}             | {% rauserpic Obliv %}        | {% rauserpic Olafur %}      |
+| {% rauserpic PaddyW %}             | {% rauserpic pinguupinguu %} | {% rauserpic Prota %}       |
+| {% rauserpic QATeam %}             | {% rauserpic RANews %}       | {% rauserpic Raykusen %}    |
+| {% rauserpic RetroGameMaster %}    | {% rauserpic scatter %}      | {% rauserpic Sines %}       |
+| {% rauserpic Snow %}               | {% rauserpic SporyTike %}    | {% rauserpic StingX2 %}     |
+| {% rauserpic Sutarion %}           | {% rauserpic TheRoadkill %}  | {% rauserpic TimeCrush %}   |
+| {% rauserpic vikdarkbomb %}        | {% rauserpic Whynot15 %}     | {% rauserpic Xymjak %}      |
