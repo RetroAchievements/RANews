@@ -272,7 +272,7 @@ This is a forced encounter, and the achievement wants you to catch the Gyarados.
 
 **Happens between: Gym 6 and Gym 7**
 
-There are a total of 16 fights in Team Rocket's Hideout, with 5 of them being triggered by the statues on the first basement floor. Aside from that, there are 2 fights on B1F, 3 on B2F, and 4 on B3F. Make sure you take care of all of these before fighting the mandatory story battle at the end of B3F, as that will be the point of no return.
+There are a total of 16 fights in Team Rocket's Hideout, with 5 of them being triggered by the statues on the first basement floor. Be wary that you do not flip the switch on B1F behind the scientist, as this will permanently deactive statues and you will be unable to fight team rocket members you hadn't fought yet before. Aside from that, there are 2 fights on B1F, 3 on B2F, and 4 on B3F. Make sure you take care of all of these before fighting the mandatory story battle at the end of B3F, as that will be the point of no return.
 
 | {% raachpic 199572, 228688, Rocket Takeover Thwarted (5) %} | Defeat all trainers in the Radio Tower and Underground Warehouse. |
 
@@ -502,7 +502,7 @@ There are four puzzles scattered throughout the ruins, all showing a different P
 
 | {% raachpic 5955, 228658, All Unown (10) %} | Catch all 26 types of Unown. |
 
-As the description implies, you need to catch every letter of the alphabet here. The Pokédex has an additional tab for Unown to check which ones you already have. More Unown letters spawn after each puzzle is solved within the ruins, so you can use that to your advantage to either limit the ones you want to see or just have them all unlocked at once. A-K is available after the Kabuto Puzzle, L-R after Omanyt, S-W after Ho-oh, and X-Z after Aerodactyl.
+As the description implies, you need to catch every letter of the alphabet here. The Pokédex has an additional tab for Unown to check which ones you already have. More Unown letters spawn after each puzzle is solved within the ruins, so you can use that to your advantage to either limit the ones you want to see or just have them all unlocked at once. A-K is available after the Kabuto Puzzle, L-R after Omanyte, S-W after Aerodactyl, and X-Z after Ho-oh.
 
 | {% raachpic 199626, 229522, Didn't Know I Had It in Me! (2) %} | Get a "Super Effective" using Hidden Power. |
 

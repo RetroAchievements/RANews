@@ -151,6 +151,19 @@ Board 6 launches on July 1st!
   - {% rauserpic Timmay %}* - 598 Points
   - {% rauserpic Amir96lx %}* - 542 Points
 
+## Bounty Hunters
+
+- Forum Topic: <https://retroachievements.org/viewtopic.php?t=26501>
+- Period: May 20th 2024-November 10th 2024
+- Host: {% rauserpic RAEvents %}
+- Total Participants: 188
+- Users with the most points at 360:
+  - {% rauserpic Jurbadis %}
+  - {% rauserpic s0uth %}
+  - {% rauserpic TeensiesKing %}
+  
+**Current Board**: Kirby
+
 
 ## Leaderboards of the Month
 

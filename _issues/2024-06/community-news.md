@@ -13,7 +13,7 @@ toc: true
   <img src="img/radocs.png" />
 </p>
 
-[RADocs](https://docs.retroachievements.org/) has gone through a much needed and overdue overhaul. Along with a new look,the new docs has better seaching accurace, language support, and a dark mode theme. Edits to the docs are no longer wiki edits, but rather proper Pull Requests that get revied and merged. Information about how to contribute to the new docs can be found [here](https://docs.retroachievements.org/general/contributing-to-the-docs.html).
+[RADocs](https://docs.retroachievements.org/) has gone through a much needed and overdue overhaul. Along with a new look, the new docs have better seaching accuracy, language support, and a dark mode theme. Edits to the docs are no longer wiki edits, but rather proper Pull Requests that get reviewed and merged. Information about how to contribute to the new docs can be found [here](https://docs.retroachievements.org/general/contributing-to-the-docs.html).
 
 ## RA Awards
 
