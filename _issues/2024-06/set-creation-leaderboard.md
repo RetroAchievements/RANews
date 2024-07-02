@@ -12,7 +12,7 @@ toc_float: true
 
 Welcome to the Set Creation Leaderboard page! In this section, we highlight the hard work and dedication of developers who have created the most achievement sets as the majority developer for each console. We hope these leaderboards inspire you to join in the fun and create your own sets for your favorite retro games. Check back regularly to see who is making the most waves in the world of RetroAchievements set creation!
 
-\* Data as of June 1st 2023.
+\* Data as of June 1st 2024.
 
 <br clear="right"/>
 

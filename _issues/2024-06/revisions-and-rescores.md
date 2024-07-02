@@ -169,7 +169,7 @@ toc: true
 
 | Game                                                         | Rescored By          | Points Before | Points After |
 | ------------------------------------------------------------ | -------------------- | :-----------: | :----------: |
-| {% ragamepic 745, 068339, Castlevania: Circle of the Moon %} | {% rauser StingX1 %} |      828      |     873      |
+| {% ragamepic 745, 068339, Castlevania: Circle of the Moon %} | {% rauser StingX2 %} |      828      |     873      |
 
 <a href="#toc">:top:</a>
 
