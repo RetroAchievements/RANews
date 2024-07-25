@@ -1,0 +1,238 @@
+
+new = new sets
+GameID | User(s)
+
+-------
+
+rev = revisions
+GameID | Status | User(s)
+
+C = Canceled
+D = Demotion (Completed)
+F = Finished
+W = WIP
+N = new
+
+-------
+
+res = rescores
+GameID | User(s) | Before | After
+
+-------
+
+art = badge and icons
+GameID | Type | User(s) | Before | After
+
+I = Icon
+B = Badge
+
+-----------------------------------------------------------------------------
+
+new	13171	wormdrivepro
+new	7973	MaddieKittyTV Amir96lx
+new	19488	Whithbrin
+new	13067	Cadaxar
+new	20827	kmpers
+new	29843	AlexGatao
+new	817	Gloves
+new	14887	Kiutgh
+new	24746	wolfman2000
+new	13370	NamcoPlayer9871
+new	29152	Riku55
+new	21901	snek2eater
+new	20953	ZeeRA
+new	7274	AfroRyan
+new	403	Gloves
+new	4220	lizstar
+new	29295	pinguupinguu
+new	3144	SuperMeatBro
+new	13993	Gloves
+new	29579	Dimedime
+new	27354	Snow
+new	4538	AntonioFNN
+new	615	RANGO666
+new	29790	orchidcnr
+new	17507	s0uth
+new	29858	Amir96lx
+new	2170	AlexGatao
+new	3306	Vancleef
+new	29869	AlexGatao
+new	25785	wolfman2000
+new	1523	Rej72380
+new	17895	Yurana
+new	24606	WanderingHeiho
+new	20940	Retrokaiser
+new	9689	SuperMeatBro
+new	29859	Whithbrin
+new	29831	MGNS8M
+new	26242	NamcoPlayer9871
+new	28325	Unji
+new	1294	LiveFastCyYoung
+new	1137	Dws18
+new	4064	Jamiras
+new	29874	Retrokaiser
+new	3047	Lilihierax zizom
+new	29879	Excessiveiser
+new	2489	Vancleef
+new	9159	HardSonicStorm
+new	24949	MajinWamu
+new	8443	authorblues Souzooka
+new	27561	SuperMeatBro
+new	29880	Retrokaiser
+new	29800	AlexGatao
+new	1888	Wulden
+new	26203	pickledyamsman
+new	7262	Yanbetari
+new	13075	MaddieKittyTV
+new	29895	BahamutVoid
+new	5075	Delmaru
+new	19859	kmpers
+new	2621	televandalist
+new	26513	DrewMHax0r
+new	9286	ladynadiad
+new	10086	Kinglink
+new	5010	Bl4h8L4hBl4h
+new	3997	Gudra SporyTike
+new	28626	SuperMeatBro
+new	16464	Amir96lx
+new	29935	ladynadiad
+new	29046	Gloves
+new	19076	Snow
+new	12827	MaddieKittyTV
+new	2681	EulerMoises1981
+new	6713	biezel
+new	1086	WatWuzDat
+new	2741	WatWuzDat
+new	18372	Snow
+new	20870	xClawz
+new	7008	dorakii
+new	29960	Snow
+new	19231	Vancleef
+new	12881	Alena
+new	10147	Lilihierax
+new	8728	Crazeuh
+new	23744	Snow
+new	29938	Bl4h8L4hBl4h
+new	3988	EulerMoises1981
+new	10413	DeviMetric
+new	3739	siouxerskate
+new	12986	snek2eater
+new	15523	AlexGatao
+new	28231	jamesbcrazy
+new	20553	Griffin
+new	22079	Amir96lx
+new	13289	Cheatsalot123
+new	29829	SuperMeatBro
+new	18741	Falcus
+new	22291	Sutarion
+new	29875	kmpers
+new	28799	NewPointless
+new	26329	NamcoPlayer9871
+new	13028	orangepeelbeef
+new	24684	Amir96lx
+new	21642	Amir96lx
+new	16248	starlite
+new	7388	Retrokaiser
+new	22833	AlexGatao
+new	29933	BahamutVoid
+new	20708	Xyghost
+new	28951	clymax
+new	16632	Snow
+new	13051	ThatAmericanSlacker
+new	21384	Retrokaiser
+new	29854	suXin
+new	12219	Triforce
+new	18831	AlexGatao
+new	3130	Excessiveiser
+new	28324	Retrokaiser
+new	14432	Amir96lx
+new	30101	Retrokaiser
+new	30116	AlexGatao
+new	20846	SuperMeatBro
+new	19035	blendedsea
+new	29731	Nevermond12
+new	27859	Vancleef
+new	29886	wolfman2000
+new	25380	NeonPug
+new	30128	Cadaxar
+new	19178	lordpsycho
+new	6845	Nisstq
+new	29870	Layton
+
+
+
+rev	2024	W	AuburnRDM
+rev	14541	W	Sines
+rev	9226	W	DanielARP
+rev	14437	W	Butternife
+rev	16193	W	stfN1337
+rev	11147	W	siouxerskate
+rev	16626	W	Xalerzyx
+rev	5043	W	UnsolidSnake
+rev	24371	F	Sutarion
+rev	3514	W	Sutarion
+rev	7274	F	AfroRyan
+rev	3825	F	AfroRyan
+rev	11242	N	Ghal416
+rev	4687	F	Gloves
+rev	1	F	BahamutVoid
+rev	3047	F	Lilihierax
+rev	17577	N	pickledyamsman
+rev	10023	N	AfroRyan
+rev	10328	F	kinglink
+rev	780	N	Yurana 
+rev	1604	N	Wulden
+rev	74	F	PsyHunter29
+rev	548	F	Snow
+rev	1651	N	siouxerskate
+rev	5029	N	Snow 
+
+
+
+res	10486	StingX2		305	330
+res	11268	Xalerzyx	1085	640
+res	1333	UnsolidSnake	55	145
+
+
+
+art	5502	I	DaniWoX	https://retroachievements.org/Images/052560.png	https://retroachievements.org/Images/097934.png
+art	326	I	FlashbackGuyYT	https://retroachievements.org/Images/063221.png	https://retroachievements.org/Images/098168.png
+art	11404	B	NeonPug	https://i.imgur.com/TtYTQwM.png	https://i.imgur.com/KwuDqG5.png
+art	20782	I	japinhamaluco321	https://retroachievements.org/Images/092088.png	https://retroachievements.org/Images/098198.png
+art	7336	I	ZeeRA	https://retroachievements.org/Images/098038.png	https://retroachievements.org/Images/098044.png
+art	26530	I	ZeeRA	https://retroachievements.org/Images/098084.png	https://retroachievements.org/Images/098164.png
+art	20782	I	japinhamaluco321	https://retroachievements.org/Images/092088.png	https://retroachievements.org/Images/098198.png
+art	7336	I	ZeeRA	https://retroachievements.org/Images/098038.png	https://retroachievements.org/Images/098044.png
+art	26530	I	ZeeRA	https://retroachievements.org/Images/098084.png	https://retroachievements.org/Images/098164.png
+art	10536	I	televandalist	https://retroachievements.org/Images/061136.png	https://retroachievements.org/Images/098146.png
+art	20352	I	televandalist	https://retroachievements.org/Images/061137.png	https://retroachievements.org/Images/098145.png
+art	14370	I	televandalist	https://retroachievements.org/Images/048166.png	https://retroachievements.org/Images/098142.png
+art	14371	I	televandalist	https://retroachievements.org/Images/048167.png	https://retroachievements.org/Images/098150.png
+art	4347	B	PsyHunter29	https://i.imgur.com/z49No0H.png	https://i.imgur.com/i3k7kE3.png
+art	10608	I	miccmike	https://retroachievements.org/Images/069462.png	https://retroachievements.org/Images/098648.png
+art	10329	I	Gloves	https://retroachievements.org/Images/047335.png	https://retroachievements.org/Images/098726.png
+art	11399	I	miccmike	https://retroachievements.org/Images/032522.png	https://retroachievements.org/Images/098673.png
+art	26796	I	miccmike	https://retroachievements.org/Images/086744.png	https://retroachievements.org/Images/098727.png
+art	18915	I	DarkyAndreas	https://retroachievements.org/Images/085889.png	https://retroachievements.org/Images/098728.png
+art	26784	I	DarkyAndreas	https://retroachievements.org/Images/086429.png	https://retroachievements.org/Images/098729.png
+art	20822	I	SuperMeatBro	https://retroachievements.org/Images/078955.png	https://retroachievements.org/Images/098735.png
+art	5795	I	miccmike	https://retroachievements.org/Images/072114.png	https://retroachievements.org/Images/099033.png
+art	2373	B	PsyHunter29	https://i.imgur.com/YxDorBY.png	https://i.imgur.com/tvcmAw7.png
+art	1244	B	PsyHunter29	https://i.imgur.com/9yoAGJm.png	https://i.imgur.com/yIJeRKj.png
+art	10308	I	miccmike	https://retroachievements.org/Images/043230.png	https://retroachievements.org/Images/099034.png
+art	8371	I	miccmike	https://retroachievements.org/Images/044523.png	https://retroachievements.org/Images/099035.png
+art	20708	I	ZeeRA	https://retroachievements.org/Images/083340.png	https://retroachievements.org/Images/099036.png
+art	6290	I	ZeeRA	https://retroachievements.org/Images/053991.png	https://retroachievements.org/Images/099037.png
+art	17015	I	Poefred	https://retroachievements.org/Images/053315.png	https://retroachievements.org/Images/099038.png
+art	8925	I	miccmike	https://retroachievements.org/Images/075503.png	https://retroachievements.org/Images/099194.png
+art	12933	I	miccmike	https://retroachievements.org/Images/050646.png	https://retroachievements.org/Images/099195.png
+art	29005	I	OldSport	https://retroachievements.org/Images/000001.png	https://retroachievements.org/Images/099196.png
+art	29055	I	OldSport	https://retroachievements.org/Images/000001.png	https://retroachievements.org/Images/099197.png
+art	18282	I	OldSport	https://retroachievements.org/Images/060094.png	https://retroachievements.org/Images/099250.png
+art	22064	I	OldSport	https://retroachievements.org/Images/066279.png	https://retroachievements.org/Images/099252.png
+art	22069	I	OldSport	https://retroachievements.org/Images/066304.png	https://retroachievements.org/Images/099253.png
+art	25378	I	OldSport	https://retroachievements.org/Images/080760.png	https://retroachievements.org/Images/099254.png
+art	20736	I	Nevermond12	https://retroachievements.org/Images/000001.png	https://retroachievements.org/Images/099198.png
+art	24988	I	OldSport	https://retroachievements.org/Images/075955.png	https://retroachievements.org/Images/099255.png
+art	2188	B	GatoMago	https://i.imgur.com/0gu1bo0.png	https://i.imgur.com/9scUbg3.png
+art	13041	I	Poefred	https://retroachievements.org/Images/031324.png	https://retroachievements.org/Images/099256.png
