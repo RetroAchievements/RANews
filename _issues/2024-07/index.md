@@ -58,7 +58,7 @@ This month's featured Rack It Up Editorial discusses the importance of regional 
 Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
 
 
-## [RAPodcast](./rapodcast.html) <!-- Update each issue
+## [RAPodcast](./rapodcast.html) <!-- Update each issue -->
 Join the RetroAchievements community and listen to the latest RAPodcasts. In this months podcast, {% rauser TimeCrush %} talks with {% rauser Nepiki %} on their involvement with RA and their experience with being lead of the Writing team.
 
 
