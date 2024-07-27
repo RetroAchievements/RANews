@@ -1,6 +1,6 @@
 ---
 issue: 2024-07
-order: 202407-05
+order: 202407-01
 layout: article
 title: GameCube Launch
 author: RANews

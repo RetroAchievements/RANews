@@ -23,7 +23,7 @@ RANews thrives on community submitted content, Wish This Set, Play This Set and 
 
 
 ## [GameCube Launch](./gamecube-launch.html)
-Discover new levels of excitement with our achievement support for the Nintendo GameCube! Explore over 100 new sets from various developers and take your gaming experience to the next level. Checkout information on the GameBube launch as well as writie ups for 50 of the launch sets.
+Discover new levels of excitement with our achievement support for the Nintendo GameCube! Explore over 100 new sets from various developers and take your gaming experience to the next level. Checkout information on the GameCube launch as well as write ups for 50 of the launch sets.
 
 
 ## [Set of the Month](./set-of-the-month.html)
@@ -58,8 +58,8 @@ This month's featured Rack It Up Editorial discusses the importance of regional 
 Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
 
 
-<!-- ## ---[RAPodcast](./rapodcast.html) <!-- Update each issue
-Join the RetroAchievements community and listen to the latest RAPodcasts. In this months podcast, {% rauser TimeCrush %} talking with {% rauser MrOwnership %} on how his involvement with RANews started and to get a look at what goes on behind the scenes on how each issues come together. -->
+## [RAPodcast](./rapodcast.html) <!-- Update each issue
+Join the RetroAchievements community and listen to the latest RAPodcasts. In this months podcast, {% rauser TimeCrush %} talks with {% rauser Nepiki %} on their involvement with RA and their experience with being lead of the Writing team.
 
 
 ## [Wish This Set](./wish-this-set.html)

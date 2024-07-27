@@ -176,20 +176,21 @@ August is a catch up month, so board 7 launches on September 1st!
 - Forum Topic: <https://retroachievements.org/viewtopic.php?t=26501>
 - Period: May 20th 2024-November 10th 2024
 - Host: {% rauserpic RAEvents %}
-- Total Participants: 217
+- Total Participants: 230
 
 Top 10 players:  
 
+  1: {% rauserpic Nezperdian %} - 600 Points  
   1: {% rauserpic Tyrota %} - 600 Points  
-  2: {% rauserpic 1stPrize %} - 595 Points  
-  3: {% rauserpic Jurbadis %} - 590 Points  
-  4: {% rauserpic Nezperdian %} - 565 Points  
-  5: {% rauserpic scatter %} - 530 Points  
-  6: {% rauserpic OldSport %} - 525 Points  
-  6: {% rauserpic Zouiguipopo %} - 525 Points  
-  8: {% rauserpic Shippoppy %} - 510 Points  
-  9: {% rauserpic Adenothe %} - 505 Points  
-  10: {% rauserpic TeensiesKing %} - 485 Points  
+  1: {% rauserpic Zouiguipopo %} - 600 Points  
+  4: {% rauserpic 1stPrize %} - 595 Points  
+  4: {% rauserpic notjohn %} - 595 Points  
+  6: {% rauserpic Adenothe %} - 590 Points  
+  6: {% rauserpic Jurbadis %} - 590 Points  
+  6: {% rauserpic Shippoppy %} - 590 Points  
+  9: {% rauserpic Dennis1543 %} - 575 Points  
+  9: {% rauserpic Laoth %} - 575 Points  
+
 
 **Current Board**: Luigi
 

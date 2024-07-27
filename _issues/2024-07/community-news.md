@@ -77,6 +77,10 @@ If you're interested in making content for the channel reach out to {% rauserpic
             <td colspan="1">{% rauserpic suspect15 %}</td>
             <td colspan="1">{% rauserpic tomojin %}</td>
         </tr>
+        <tr>
+            <td colspan="1">{% rauserpic Bilalscape12 %}</td>
+            <td colspan="2">{% rauserpic BahamutVoid %}</td>
+        </tr>
     </tbody>
 </table>
 
