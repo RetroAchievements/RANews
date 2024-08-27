@@ -1,0 +1,359 @@
+
+new = new sets
+GameID | User(s)
+
+-------
+
+rev = revisions
+GameID | Status | User(s)
+
+C = Canceled
+D = Demotion (Completed)
+F = Finished
+W = WIP
+N = new
+
+-------
+
+res = rescores
+GameID | User(s) | Before | After
+
+-------
+
+art = badge and icons
+GameID | Type | User(s) | Before | After
+
+I = Icon
+B = Badge
+
+-----------------------------------------------------------------------------
+
+new	25177	Hexadigital
+new	2742	NamcoPlayer9871
+new	16301	Amir96lx
+new	30117	DoctorV
+new	3110	DoctorV
+new	17496	Mogul
+new	8105	Cadaxar
+new	16713	Snow
+new	18804	AlexGatao
+new	17729	Yurana
+new	30137	Bryan1150
+new	3437	andreemendess
+new	29863	clymax
+new	29846	xTr4ceur
+new	30133	Vancleef
+new	29855	Skystarmania SuperMeatBro
+new	30132	SuperMeatBro
+new	30141	SuperMeatBro
+new	29924	MaddieKittyTV
+new	28329	AlexGatao
+new	2659	andreemendess
+new	21870	Excessiveiser
+new	7528	Vancleef
+new	23024	andreemendess
+new	30146	DoctorV
+new	29868	NamcoPlayer9871
+new	29025	clymax
+new	30142	SuperMeatBro
+new	30143	SuperMeatBro
+new	2267	snek2eater
+new	20076	Layton
+new	3686	scatter
+new	20205	Nevermond12
+new	16633	Gemyma
+new	29923	wolfman2000
+new	25073	dericobanjo
+new	17510	Dimedime
+new	6032	NeonPug
+new	8802	AppleAndo
+new	19875	xTr4ceur
+new	1876	zizom
+new	21111	kiwibasket Brandovsky KingS1zzle
+new	19159	Cadaxar
+new	23001	authorblues
+new	18987	Delmaru
+new	7720	Fraise
+new	25837	pinguupinguu
+new	5504	andreemendess
+new	30131	AuburnRDM
+new	3107	xClawz
+new	13415	ladynadiad
+new	30153	NamcoPlayer9871
+new	13455	authorblues
+new	30157	Hexadigital
+new	25469	QuinnWasTaken
+new	25429	Hexadigital
+new	6915	Whithbrin
+new	25456	Layton
+new	3154	TheMysticalOne Ghal416
+new	25457	Layton
+new	6605	Xalerzyx Gudra Butternnife
+new	3178	Layton
+new	25423	WilHiteWarrior
+new	6837	Layton
+new	8492	WilHiteWarrior BoomEX
+new	25444	Bilalscape12
+new	3827	Sutarion
+new	2708	LiveFastCyYoung
+new	29177	Raichi
+new	29881	orchidcnr
+new	25463	MaddieKittyTV
+new	2259	ThatAmericanSlacker
+new	29039	LiveFastCyYoung
+new	25426	LiveFastCyYoung
+new	25484	Bilalscape12
+new	30151	dericobanjo
+new	30122	WilHiteWarrior
+new	25417	Sigma501
+new	6313	WanderingHeiho DarkyAndreas
+new	25428	LiveFastCyYoung
+new	30053	WilHiteWarrior
+new	3535	WilHiteWarrior
+new	29803	WilHiteWarrior
+new	6151	WanderingHeiho
+new	2731	TheMysticalOne
+new	9190	suspect15 AlmightyXor
+new	24974	pinguupinguu
+new	3934	pinguupinguu AlexGatao WilHiteWarrior SporyTike
+new	7423	Delmaru
+new	6049	timenoe
+new	28374	dericobanjo
+new	28797	Delmaru
+new	3802	Cadaxar
+new	28809	Dennis1543
+new	28657	timenoe
+new	28560	timenoe
+new	4325	Fridge DarkyAndreas
+new	28561	timenoe
+new	28263	tomojin
+new	25454	Yurana
+new	28369	KingS1zzle
+new	7777	TwosomesUP
+new	6850	Falcus
+new	3885	blendedsea
+new	4000	LogicalFallacy ilikepie345
+new	28644	blendedsea
+new	28855	blendedsea
+new	13727	Searo
+new	6253	Bryan1150
+new	25467	Blazekickn
+new	29173	Lilihierax
+new	28385	AlexGatao
+new	2356	AlexGatao shnick1980
+new	6870	AlexGatao
+new	29801	AlexGatao
+new	25477	Snow
+new	24163	Snow
+new	5404	Snow
+new	28660	Snow
+new	3176	shnick1980
+new	28598	MGNS8M
+new	6238	MGNS8M
+new	7054	MGNS8M
+new	25459	Excessiveiser
+new	3792	tsyque
+new	3781	tsyque
+new	28384	Maximdraco
+new	25460	AfroRyan
+new	9602	TheJediSonic DarkyAndreas Hexadigital lordpsycho ThatAmericanSlacker
+new	25437	authorblues
+new	30135	s0uth
+new	25451	s0uth
+new	25473	Mendil
+new	27527	pinguupinguu
+new	25493	AuburnRDM
+new	30167	AuburnRDM
+new	28605	Retrokaiser
+new	25476	Gollawiz
+new	14817	Gollawiz Griffin
+new	25472	Gollawiz
+new	25450	lordpsycho
+new	15376	zxmega
+new	25435	Amir96lx Mendil
+new	7693	AdeptTempest
+new	28381	TeddyWestside
+new	1362	Schengo
+new	8489	Kinglink
+new	15540	SlashTangent Dennis1543
+new	28800	SlashTangent
+new	28604	Sines
+new	9699	Sines
+new	3536	Sines
+new	25483	snek2eater
+new	2199	Guinea
+new	28426	Gudra
+new	25453	Dennis1543
+new	30035	xClawz
+new	28807	BoomEX
+new	3783	BoomEX
+new	25431	DoctorV
+new	8231	voiceofautumn
+new	28368	BrunoKiko
+new	6981	Jenettebaghead
+new	28798	Jenettebaghead
+new	1442	RyudoSynbios
+new	9915	Bartis1989
+new	30159	Excessiveiser
+new	28656	Gollawiz
+new	28854	stfN1337
+new	3792	tsyque
+new	24331	Hexadigital
+new	28368	BrunoKiko
+new	14732	luizfilipekz
+new	417	cdpowe
+new	25864	ArchWCR96
+new	30254	SuperMeatBro
+new	9051	RyCuLe
+new	8577	SporyTike
+new	30145	QuinnWasTaken
+new	18649	Cheatsalot123
+new	2844	Schengo
+new	18135	Brandovsky
+new	26910	snek2eater
+new	7352	EulerMoises1981
+new	29339	oddgoo
+new	2901	Bedtime Bryan1150
+new	24944	ladynadiad
+new	28373	NeonPug
+new	3417	DarkyAndreas
+new	27596	MaddieKittyTV
+new	30194	Hexadigital
+new	6974	Sines
+new	19792	Talzuz
+new	4532	Goodbite
+new	28371	Tybis
+new	2466	AlexGatao
+new	26531	MaddieKittyTV
+new	798	ThtOnePumpkin
+new	30400	ladynadiad
+new	3222	suspect15
+new	6336	pickledyamsman
+new	27655	AngeloLeonhart
+new	1892	SuperMeatBro
+new	30446	Dimedime
+new	18322	zizom
+new	30328	MaddieKittyTV
+new	19115	Vancleef
+new	20281	SuperMeatBro
+new	21393	Vancleef
+new	23942	pinguupinguu
+new	22683	ladynadiad
+new	3534	Butternnife siouxerskate
+new	30125	Yurana
+new	7379	MegaGoat
+new	7306	NamcoPlayer9871
+new	5079	SporyTike
+new	30164	Maximdraco
+new	27393	Skiichi
+new	3803	Blazekickn
+new	11127	Vancleef
+new	19070	Altomar
+new	18593	SporyTike
+new	4982	SporyTike
+new	18163	abdalin
+new	1028	solidification
+
+
+
+rev	2024	W	AuburnRDM
+rev	14541	W	Sines
+rev	9226	W	DanielARP
+rev	14437	W	Butternife
+rev	16193	W	stfN1337
+rev	11147	W	siouxerskate
+rev	16626	W	Xalerzyx
+rev	5043	W	UnsolidSnake
+rev	3514	W	Sutarion
+rev	11242	W	Ghal416
+rev	17577	W	pickledyamsman
+rev	10023	W	AfroRyan
+rev	780	F	Yurana 
+rev	1604	W	Wulden
+rev	1651	W	siouxerskate
+rev	5029	F	Snow 
+rev	11760	F	Snow
+rev	5859	N	AlexGatao
+rev	909	F	suspect15
+rev	25476	F	Gollawiz
+rev	3934	F	SporyTike
+rev	14683	N	Gorgar
+rev	14739	N	blueYOSHI
+rev	8492	F	WilHiteWarrior
+rev	3145	C	clymax
+rev	6605	F	Xalerzyx
+
+
+
+res	425	QATeam	320	190
+res	5859	QATeam	475	595
+res	6311	QATeam	212	421
+res	5613	QATeam	475	530
+res	5083	QATeam	280	320
+res	2298	QATeam	421	437
+res	11975	QATeam	170	195
+res	17272	QATeam	190	230
+res	11391	QATeam	415	460
+res	1509	QATeam	510	460
+res	7693	QATeam	729	1073
+res	780	QATeam	66	57
+res	8915	QATeam	52	40
+res	2588	QATeam	450	525
+res	780	QATeam	66	57
+res	8915	QATeam	52	40
+res	2588	QATeam	450	525
+res	5777	QATeam	100	50
+res	11391	QATeam	415	460
+
+
+
+art	11252	I	KnockerKrazy	https://retroachievements.org/Images/054359.png	https://retroachievements.org/Images/099257.png
+art	1457	I	miccmike	https://retroachievements.org/Images/011368.png	https://retroachievements.org/Images/099258.png
+art	12	I	DaniWoX	https://retroachievements.org/Images/048141.png	https://retroachievements.org/Images/099515.png
+art	829	I	DaniWoX	https://retroachievements.org/Images/049690.png	https://retroachievements.org/Images/099516.png
+art	8879	I	miccmike	https://retroachievements.org/Images/051070.png	https://retroachievements.org/Images/099517.png
+art	8316	I	miccmike	https://retroachievements.org/Images/058076.png	https://retroachievements.org/Images/099518.png
+art	20838	B	MajinWamu	https://i.imgur.com/QP1wYb0.png	https://i.imgur.com/pS5oOqe.png
+art	19662	I	miccmike	https://retroachievements.org/Images/089296.png	https://retroachievements.org/Images/099519.png
+art	5267	I	SleeplessSP	https://retroachievements.org/Images/053778.png	https://retroachievements.org/Images/099520.png
+art	127	I	ZeeRA	https://retroachievements.org/Images/011699.png	https://retroachievements.org/Images/099521.png
+art	828	I	ZeeRA	https://retroachievements.org/Images/064771.png	https://retroachievements.org/Images/099522.png
+art	12665	I	miccmike	https://retroachievements.org/Images/040387.png	https://retroachievements.org/Images/099523.png
+art	1478	I	Gollawiz	https://retroachievements.org/Images/035729.png	https://retroachievements.org/Images/099524.png
+art	1773	I	miccmike	https://retroachievements.org/Images/012369.png	https://retroachievements.org/Images/099525.png
+art	11445	I	plutopower	https://retroachievements.org/Images/070360.png	https://retroachievements.org/Images/099483.png
+art	20782	I	Raichi	https://retroachievements.org/Images/098273.png	https://retroachievements.org/Images/099507.png
+art	90	I	ZeeRA	https://retroachievements.org/Images/078356.png	https://retroachievements.org/Images/099526.png
+art	18068	I	miccmike	https://retroachievements.org/Images/049552.png	https://retroachievements.org/Images/099589.png
+art	4055	I	Ryudo	https://retroachievements.org/Images/082803.png	https://retroachievements.org/Images/099527.png
+art	13415	I	ladynadiad	https://retroachievements.org/Images/095677.png	https://retroachievements.org/Images/099588.png
+art	20838	I	MajinWamu	https://retroachievements.org/Images/075210.png	https://retroachievements.org/Images/099757.png
+art	2761	I	ValHam	https://retroachievements.org/Images/018569.png	https://retroachievements.org/Images/099827.png
+art	25308	I	SpiritOfRei	https://retroachievements.org/Images/079088.png	https://retroachievements.org/Images/099828.png
+art	15566	I	miccmike	https://retroachievements.org/Images/051974.png	https://retroachievements.org/Images/099829.png
+art	2761	I	ValHam	https://retroachievements.org/Images/018569.png	https://retroachievements.org/Images/100031.png
+art	11815	I	SpiritOfRei	https://retroachievements.org/Images/077624.png	https://retroachievements.org/Images/100032.png
+art	1109	I	miccmike	https://retroachievements.org/Images/029464.png	https://retroachievements.org/Images/100033.png
+art	18343	I	miccmike	https://retroachievements.org/Images/052047.png	https://retroachievements.org/Images/100034.png
+art	5535	B	Inirdin	https://i.imgur.com/Ybfjeks.png	https://i.imgur.com/zekMQky.png
+art	9555	I	miccmike	https://retroachievements.org/Images/047180.png	https://retroachievements.org/Images/100100.png
+art	16292	I	ZeeRA	https://retroachievements.org/Images/099885.png	https://retroachievements.org/Images/100101.png
+art	15566	I	miccmike	https://retroachievements.org/Images/099829.png	https://retroachievements.org/Images/100102.png
+art	24934	I	ZeeRA	https://retroachievements.org/Images/075487.png	https://retroachievements.org/Images/100116.png
+art	4996	B	ZeeRA	https://i.imgur.com/BeMIW4y.png	https://i.imgur.com/axx3Twp.png
+art	4996	I	ZeeRA	https://retroachievements.org/Images/087974.png	https://retroachievements.org/Images/100106.png
+art	29987	I	Minish	https://retroachievements.org/Images/000001.png	https://retroachievements.org/Images/100104.png
+art	30433	I	ZeeRA	https://retroachievements.org/Images/100056.png	https://retroachievements.org/Images/100105.png
+art	5859	B	GalacticSpear	https://i.imgur.com/YUZn5xp.png	https://i.imgur.com/5skTfXN.png
+art	27655	I	Minish	https://retroachievements.org/Images/099791.png	https://retroachievements.org/Images/100085.png
+art	526	B	Inirdin	https://i.imgur.com/cOV55BU.png	https://i.imgur.com/aMDLH1P.png
+art	8835	I	DarkyAndreas	https://retroachievements.org/Images/069587.png	https://retroachievements.org/Images/100392.png
+art	10148	I	MaddieKittyTV	https://retroachievements.org/Images/047209.png	https://retroachievements.org/Images/100393.png
+art	23968	I	plutopower	https://retroachievements.org/Images/000001.png	https://retroachievements.org/Images/100123.png
+art	18180	I	miccmike	https://retroachievements.org/Images/050217.png	https://retroachievements.org/Images/100394.png
+art	10149	I	MaddieKittyTV	https://retroachievements.org/Images/025963.png	https://retroachievements.org/Images/100395.png
+art	20838	B	MajinWamu	https://i.imgur.com/KQh301l.png	https://i.imgur.com/uDR3rSS.png
+art	6871	I	shnick1980	https://retroachievements.org/Images/099688.png	https://retroachievements.org/Images/100151.png
+art	3200	I	miccmike	https://retroachievements.org/Images/066167.png	https://retroachievements.org/Images/100396.png
+art	2584	I	miccmike	https://retroachievements.org/Images/043297.png	https://retroachievements.org/Images/100397.png
+art	16183	I	miccmike	https://retroachievements.org/Images/047607.png	https://retroachievements.org/Images/100398.png
