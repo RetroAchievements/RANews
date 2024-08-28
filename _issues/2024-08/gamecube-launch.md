@@ -22,6 +22,8 @@ We also need to thank the Writing Team led by [Nepiki](https://retroachievements
 
 Furthermore, an event for the GameCube launch is now ongoing as well. Check out [this forum post](https://retroachievements.org/viewtopic.php?t=27246) for all the details regarding this event!
 
+An additional thank you to the Writing Team for helping write some paragraphs you can see down below, including [Kiwiron](https://retroachievements.org/user/Kiwiron), [Jazerus](https://retroachievements.org/user/Jazerus), [PlugMeister](https://retroachievements.org/user/PlugMeister), and [BloodParade](https://retroachievements.org/user/BloodParade)!
+
 **With RANews, we wanted to take a look at each of the games released during this rollout and give you a short introduction on what to expect. This will be split up into three articles, with each covering a random set of games! Here is the second set for you to check out:**
 
 ***
@@ -202,3 +204,43 @@ It’s time to moooo-ve and groove! Based on the “hit” animated movie from N
 By: {% rauserpic lordpsycho %}
 
 Mario and crew are back to party for the fourth time, and the first of four games on the GameCube! Travel across six unique boards fully rendered in 3D, roll the dice and make enemies by stealing your opponents' coins and stars in popular minigames such as Booksquirm and Dungeon Duos. The items from Mario Party 2 and 3 return, but there are loads of new features first introduced in this game, like the ability to team up in pairs in Party Mode. Custom mini-game packs can also be created by players of the game, and collectibles in the form of presents are found throughout the game as well. Complete the story as every character and clear all boards on the hardest-possible difficulty, and become a master of mini-games in the achievement set, now available on RetroAchievements!
+
+| Game                                                   | Genre                           |
+| ------------------------------------------------------ | ------------------------------- |
+| {% ragamepic 2199, 086944, Simpsons, The: Hit & Run %} | Racing, 3D Platforming, Sandbox |
+
+By: {% rauserpic Guinea %}
+
+Fasten your seatbelts and prepare to terrorize the good citizens of Springfield once again, the GameCube version of The Simpsons: Hit & Run has arrived! Play as the Simpsons family (except Maggie of course, babies can't drive...) and Apu in an original story created by the show's writers, with the original voice cast reprising their roles! Mysterious vans, robot wasps, and the new Buzz Cola drive a conspiracy that threatens to shake Springfield to its core.
+
+The gameplay is quite similar to Grand Theft Auto, but with a stronger focus on the vehicular aspects. You'll help and compete against a range of familiar characters in races and timed missions, or simply explore Springfield if the mood strikes you! All of this is accompanied by the tongue-in-cheek, referential humor you'd expect from The Simpsons. The achievement set focuses on full completion, with a range of extra challenges to test your skill.
+
+| Game                                                                  | Genre                |
+| --------------------------------------------------------------------- | -------------------- |
+| {% ragamepic 30157, 099467, Universal Studios Theme Park Adventure %} | Adventure, Minigames |
+
+By: {% rauserpic Hexadigital %}
+
+Have you ever dreamed of visiting one of the captivating and wonderful Universal Studios theme parks? Hollywood, Orlando, Japan? Well, keep on dreaming, because you're about to have Universal Studios Theme Parks Adventure invade your cranium! This notorious GameCube exclusive puts you in the shoes of a child exploring Universal Studios Japan. Your objective? Collect stamps by completing various rides throughout the park, each inspired by the most iconic Universal Studios franchises! Experience thrilling attractions based on classics like Jurassic Park, Jaws, Back to the Future, E.T., and... Backdraft?
+
+Of course, there are always the queues! To avoid them, you'll need to earn points and buy franchise-specific hats to skip ahead. If only it was that easy in real life! You'll gain these points by completing extra activities, like interacting with the various characters in the park, why not shake their hand while you're at it? You'll also need to pick up plenty of litter and dispose of it in trash cans, because no one else will! The achievement set for this game will ask you to finish the game on Hard, buy all the items, and collect all the Universal Studios letters hidden around the park. And remember, you're at a theme park, don't forget to have fun!
+
+
+| Game                                                                                           | Genre                      |
+| ---------------------------------------------------------------------------------------------- | -------------------------- |
+| {% ragamepic 25467, 095345, Road Trip: The Arcade Edition %}                                   | Arcade Racing, Kart Racing |
+| {% ragamepic 30490, 100391, Road Trip: The Arcade Edition [Subset - Road Trip Encyclopedia] %} | Arcade Racing, Kart Racing |
+
+By: {% rauserpic Blazekickn %}
+
+Hop into the Choro-Q cars and get ready to go on another Road Trip Adventure (heh) with Road Trip: The Arcade Edition! Choose from 10 different car types that all have multiple icon bodies to change their look, and race through six different tracks, each coming with different lengths as well as reversed editions to bring up the variety. But the biggest change to this game in particular, is that you don't just want to win races, but also make the lives of your opponents a living hell. That's right, it's weapons time! Not only are there some cartoony items to obstruct opponents, but you can attach actual guns to your car like a machine gun or a bazooka. Yeah this isn't your silly kart racer, you actually want your cars-without-actual-humans-inside-so-completely-legal-opponents dead! Alright, that's enough edge for today, but if this does sound right up your alley, then do consider giving Road Trip: The Arcade Edition a shot. And if you really, really, REALLY like the game, there's a subset for completing the encyclopedia. You'll be racing for a very long while to come but hey, this will be absolute satisfaction to completionists!
+
+| Game                                                               | Genre            |
+| ------------------------------------------------------------------ | ---------------- |
+| {% ragamepic 9190, 099022, Legend of Zelda, The: The Wind Waker %} | Action-Adventure |
+
+By: {% rauserpic suspect15 %} and {% rauserpic AlmightyXor %}
+
+Ahoy! Link and Zelda return for another epic adventure in this seaborne addition to a legendary game franchise. Wield the titular Wind Waker, board the King of Red Lions, and set sail on the Great Sea as you attempt to thwart Ganondorf's plans once again! This former GameCube exclusive has a timeless cel-shaded art style that makes it stand out from other Zelda titles, giving it a fun, tongue-in-cheek feel. The world is unique for a Zelda game, set in a vast ocean with unique islands dotted across the map. Many of these islands have obstacles that can only be overcome with the right equipment, a staple mechanic of the franchise. The world and its visuals are beautifully complemented by a soundtrack featuring iconic pieces like Dragon Roost Island and The Great Sea.
+
+Okay, that's enough fanboying (this is my favourite Zelda game, after all...), I'm sure you've heard it all before. Let's discuss the achievement set! This set covers most aspects of the game and will keep you occupied for a long time. Fully explore the map, collect everything that isn't glued to the floor, and obtain all the Nintendo Gallery figurines. There are also challenge achievements, including timed tasks and beating the game with only 3 Hearts and 1 Bottle! If you're a Zelda fan and haven't played or completed this game, what are you waiting for!? Get to it!
