@@ -23,7 +23,7 @@ RANews thrives on community submitted content, Wish This Set, Play This Set and 
 
 
 ## [GameCube Launch Part 2](./gamecube-launch.html)
-
+Discover new levels of excitement with our achievement support for the Nintendo GameCube! Explore over 100 new sets from various developers and take your gaming experience to the next level. Part 2 includes new writeups for several more of the launch sets.
 
 
 ## [Set of the Month](./set-of-the-month.html)
@@ -31,6 +31,7 @@ Each month, we invite the RetroAchievements community to vote for their favorite
 
 
 ## [The History of the Nintendo GameCube](./gamecube-history.html)
+With the recent addition of GameCube support, it's the perfect time to dive into the origins and impact of this beloved console. In this article, we’ll explore the GameCube’s journey from its inception to its lasting legacy, highlighting why it remains a fan favorite in the gaming community.
 
 
 ## [Monthly Stats](./monthly-stats.html)
@@ -50,6 +51,7 @@ Dive into the artistic world of our RetroAchievements community with our new Fan
 
 
 ## [Rack It Up Editorial](./rack-it-up-editorial-1.html)
+This month's featured Rack It Up Editorial explores some of the games that make the Xbox special. Join us as we uncover these unique experiences and invite you to discover the rich tapestry of Sega's arcade legacy.
 
 
 ## [Community News](./community-news.html)
@@ -65,9 +67,11 @@ In this section, users share their thoughts on which games they would love to se
 
 
 ## [RAGuide](./raguide.html) <!-- Update each issue -->
+Soak up the sun with the achievement guide for {% ragame 6049, Super Mario Sunshine %} on the GameCube. Join Mario on a tropical adventure as he cleans up Isle Delfino, battling mischievous enemies and solving tricky puzzles. With our expert tips, you'll master FLUDD, uncover hidden Shine Sprites, and restore peace to the island paradise in this sun-soaked classic.
 
 
 ## [RAdvantage](./radvantage.html) <!-- Update each issue -->
+Think you’ve got the skills to unlock {% raach 181117, Angry Wings %} in {% ragame 6580, Jetpack Joyride %} and get the Profit Bird twice in a single run? This months tip will show you the best strategies to make this achievement yours. Master your timing and keep those coins flying!
 
 
 ## [HotCheevs Monthly](./hot-cheevs.html)
@@ -108,10 +112,6 @@ In this section, we challenge readers to put their observation skills to the tes
 
 ## [RA Crossword](./crossword.html)
 Dive into the delightful challenge of our monthly crossword puzzle article, where words weave and letters dance! Unleash your inner wordsmith and conquer the clever clues that await in this months Crossword puzzle.
-
-
-## [Code Breaker](./code-breaker.html)
-Ready to put your word skills to the test? Introducing our newest section, Code Breaker! Challenge your mind as you unscramble words and decipher clues to unlock the hidden message. With each puzzle, you'll sharpen your vocabulary and problem-solving abilities. Are you up for the challenge? Dive in and crack the code today!
 
 
 ## How to Contribute with RANews
