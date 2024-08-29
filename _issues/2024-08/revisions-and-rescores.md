@@ -12,9 +12,9 @@ toc: true
 ### Arcade
 
 
-| Game                                     | Revision By       | Genre        |
-| ---------------------------------------- | ----------------- | ------------ |
-| {% ragamepic 11760, 032828, Zed Blade %} | {% rauser Snow %} | Shoot 'em Up |
+| Game                                     | Revision By        | Genre        |
+| ---------------------------------------- | ------------------ | ------------ |
+| {% ragamepic 11760, 032828, Zed Blade %} | {% rauser Sines %} | Shoot 'em Up |
 
 <a href="#toc">:top:</a>
 

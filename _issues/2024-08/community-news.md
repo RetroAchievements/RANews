@@ -188,7 +188,7 @@ If you're interested in making content for the channel reach out to {% rauserpic
 <table>
     <thead>
         <tr>
-            <th colspan="3">{% ragamepic 15952, 043647, [DevQuest 004] Veteran Deveoper %}</th>
+            <th colspan="3">{% ragamepic 15947, 069722, [DevQuest 004] Veteran Deveoper %}</th>
         </tr>
     </thead>
     <tbody>
