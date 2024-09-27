@@ -15,7 +15,7 @@ toc: true
 
 GameCube is finally here. With over 100 sets available on release, this is the largest console launch in RA history. Huge thanks to everyone involved making the deam of GameCube achievment on RA a reality.
 
-Head over to [GameCube Launch Part 2](./gamecube-launch.html) for more even more writeups for launch sets.
+Head over to [GameCube Launch Part 3](./gamecube-launch.html) for more even more writeups for launch sets.
 
 ## RADocs Overhaul
 
