@@ -54,10 +54,6 @@ Stay up-to-date with the latest news in the RetroAchievements community with our
 Join the RetroAchievements community and listen to the latest RAPodcasts. In this months podcast, {% rauser TimeCrush %} talks with {% rauser Gollawiz %} about the GameCube launch, some of it's beloved games, what it means for RA, and more.
 
 
-## ---[Play This Set](./play-this-set.html)
-Looking for some great game recommendations? Play This Set features writeups submitted by the community about existing sets and why you should give them a try. Whether you're looking to discover a new favorite or just need a reason to play something new, these writeups are sure to provide plenty of inspiration. So dive in, and get ready to take on a new set!
-
-
 ## [Wish This Set](./wish-this-set.html)
 In this section, users share their thoughts on which games they would love to see have sets created for. Whether it's a beloved classic or an underrated gem, we want to hear about it. If you are a developer looking for a new set to work on, then look no further than right here.
 
@@ -86,7 +82,7 @@ Discover the latest updates to achievement badges and set icons. From fresh badg
 Wondering who the top players on RetroAchievements are, and how they've been performing over the past month? In this section we take a deep dive into the top 300 players on the site, analyzing their progress and point totals over the past month. From the rise of new challengers to the continued dominance of top players, this section gives you a comprehensive overview of the RetroAchievements points leaderboard.
 
 
-## ---[RAnniversaries](./ranniversaries.html)
+## [RAnniversaries](./ranniversaries.html)
 Joining RetroAchievements is a major milestone for gamers and achievement developers, and we love celebrating those anniversaries. In this section, we'll recognize the achievements of our dedicated members by highlighting their years of service to the site. From new members to veterans, we'll showcase everyone who's reached a new anniversary milestone. Join us in celebrating our amazing community, and the hard work and dedication that makes RetroAchievements the best achievement hunting community out there.
 
 
@@ -106,7 +102,7 @@ Are you curious about which developers have contributed the most sets to RetroAc
 In this section, we challenge readers to put their observation skills to the test with a Spot the Difference game created by {% rauser SporyTike %} for the game {% ragame 11276, Tomba! \| Tombi! \| Ore! Tomba %}. There are 10 differences to find, and readers who spot them all will be featured in the next issue. So sharpen your eyes and get ready for some fun!
 
 
-## ---[RA Crossword](./crossword.html)
+## [RA Crossword](./crossword.html)
 Dive into the delightful challenge of our monthly crossword puzzle article, where words weave and letters dance! Unleash your inner wordsmith and conquer the clever clues that await in this months Crossword puzzle.
 
 
@@ -119,5 +115,19 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                               |                                 |                                   |
-| ----------------------------- | ------------------------------- | --------------------------------- |
+|                               |                                 |                                     |
+| ----------------------------- | ------------------------------- | ----------------------------------- |
+| {% rauserpic AmazingBaha %}   | {% rauserpic Amir96lx %}        | {% rauserpic Amir96lx %}            |
+| {% rauserpic Brandovsky %}    | {% rauserpic Campingcam %}      | {% rauserpic DaniloZlatan %}        |
+| {% rauserpic DevCompliance %} | {% rauserpic dumbFKNidiot %}    | {% rauserpic FlakBlast %}           |
+| {% rauserpic gamer097 %}      | {% rauserpic JMC4789 %}         | {% rauserpic KingS1zzle %}          |
+| {% rauserpic LeftyGuitar %}   | {% rauserpic Lushtakular %}     | {% rauserpic MetalShadowOverlord %} |
+| {% rauserpic Minish %}        | {% rauserpic MrOwnership %}     | {% rauserpic MysticalSylph %}       |
+| {% rauserpic Nepiki %}        | {% rauserpic Nevermond12 %}     | {% rauserpic Nydaxn %}              |
+| {% rauserpic Obliv %}         | {% rauserpic pickledyamsman %}  | {% rauserpic pinguupinguu %}        |
+| {% rauserpic PrinnyofTime %}  | {% rauserpic QATeam %}          | {% rauserpic RANews %}              |
+| {% rauserpic Raykusen %}      | {% rauserpic RetroGameMaster %} | {% rauserpic Sines %}               |
+| {% rauserpic Snow %}          | {% rauserpic SporyTike %}       | {% rauserpic StingX2 %}             |
+| {% rauserpic Sushi81 %}       | {% rauserpic TheJohanx %}       | {% rauserpic TimeCrush %}           |
+| {% rauserpic Trinitroid %}    | {% rauserpic ursineultra %}     | {% rauserpic vikdarkbomb %}         |
+| {% rauserpic Xymjak %}        | {% rauserpic yoshter2011 %}     |                                     |

@@ -316,7 +316,7 @@ Given period: August 1st to August 31st, 2024.
 | 297  | 🇧🇷 Tarikkanbour         | 76183  |   **+1204**    |      -6       |
 | 298  | 🇺🇸 Delmaru              | 75992  |    **+710**    |      -11      |
 | 299  | 🇺🇸 Dennis1543 (new)     | 75964  |   **+3511**    |      17       |
-
+| 300  | 🇷🇺 Hunser               | 75467  |    **+511**    |      -8       |
 
 ## Top 300 Newcomers
 - 🇬🇧 StarrlightSims
@@ -332,7 +332,6 @@ Given period: August 1st to August 31st, 2024.
 - 🇺🇸 Dennis1543
 
 ## Left the Top 300
-- 🇷🇺 Hunser 75467
 - CAT Kazama168 75269
 - 🇪🇸 sireture 75049
 - 🇺🇸 Ryan914 74828
@@ -358,10 +357,10 @@ Given period: August 1st to August 31st, 2024.
 - 🇨🇦 Glendaal
 
 ## Reached 100k points
-- 🇫🇷 MarioX4
-- 🇧🇷 sludgemastic
-- 🇷🇺 grapeisgreat
-- 🇷🇺 diablo666
 - 🇺🇸 manakate
 - 🇧🇷 Sef
+- 🇫🇷 MarioX4
+- 🇧🇷 sludgemastic
+- 🇷🇺 diablo666
+- 🇷🇺 grapeisgreat
 - 🇺🇸 Reeve42
