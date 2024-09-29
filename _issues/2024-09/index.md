@@ -22,8 +22,8 @@ Welcome to RANews, your #1 source for everything RetroAchievements. In this issu
 RANews thrives on community submitted content, Wish This Set, Play This Set and RAdvantage are only possibly if you allow it to be and send us your submissions for those articles. If you have any contributions that you would like to see featured in these articles, please send them in a direct message to {% rauser RANews %}.
 
 
-## ---[GameCube Launch Part 3](./gamecube-launch.html)
-Discover new levels of excitement with our achievement support for the Nintendo GameCube! Explore over 100 new sets from various developers and take your gaming experience to the next level. Part 3 includes new writeups for several more of the launch sets.
+## [GameCube Launch Part 3](./gamecube-launch.html)
+Discover new levels of excitement with our achievement support for the Nintendo GameCube! Explore over 100 new sets from various developers and take your gaming experience to the next level. Part 3 includes the remaining writeups for the launch sets.
 
 
 ## [Set of the Month](./set-of-the-month.html)
