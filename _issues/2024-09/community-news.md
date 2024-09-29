@@ -13,7 +13,7 @@ toc: true
   <img src="img/gamecube.gif" style="border-radius: 5%; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);" />
 </p>
 
-GameCube is finally here. With over 100 sets available on release, this is the largest console launch in RA history. Huge thanks to everyone involved making the deam of GameCube achievment on RA a reality.
+GameCube is finally here. With over 100 sets available on release, this is the largest console launch in RA history. Huge thanks to everyone involved making the deam of GameCube achievement on RA a reality.
 
 Head over to [GameCube Launch Part 3](./gamecube-launch.html) for more even more writeups for launch sets.
 
@@ -74,7 +74,7 @@ If you're interested in making content for the channel reach out to {% rauserpic
 - [Dragon Ball Z: Budokai 2 [Subset - World Tournament]](https://retroachievements.org/game/30720)
 - [~Hack~ Andaron Saga [Subset - Secrets Hunt]](https://retroachievements.org/game/30883)
 
-### Achievment & Set Updates
+### Achievement & Set Updates
 - [Mighty Beanz: Pocket Puzzles](https://retroachievements.org/game/3620): Demotion - Unwelcome Concept: Demoted for consistent unwelcome concepts
 - [Gillionaire](https://retroachievements.org/achievement/7200): Demotion - Unwelcome Concept: Pointless Grinding
 - [Pac-Man](https://retroachievements.org/game/12192): Title/Description Updates: Updated to avoid plagiarism
