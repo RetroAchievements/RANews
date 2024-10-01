@@ -438,16 +438,16 @@ Check out the users with the most mastery awards this month.
 
 | Rank | User                            | Awards |
 | ---- | ------------------------------- | ------ |
-| 1    | {% rauserpic midgetstrawdog %}  | 139    |
-| 2    | {% rauserpic Nicholacci %}      | 116    |
-| 3    | {% rauserpic VisionOne %}       | 98     |
-| 4    | {% rauserpic YoureWithStupid %} | 92     |
-| 5    | {% rauserpic madminimalist %}   | 87     |
-| 6    | {% rauserpic Zombie %}          | 85     |
-| 7    | {% rauserpic DeanXP %}          | 71     |
-| 8    | {% rauserpic InsaniumCoil %}    | 69     |
-| 9    | {% rauserpic Verbena %}         | 56     |
-| 10   | {% rauserpic ChocoMilk %}       | 53     |
+| 1    | {% rauserpic VisionOne %}       | 96     |
+| 2    | {% rauserpic Nicholacci %}      | 90     |
+| 3    | {% rauserpic YoureWithStupid %} | 83     |
+| 4    | {% rauserpic Zombie %}          | 83     |
+| 5    | {% rauserpic DeanXP %}          | 67     |
+| 6    | {% rauserpic Verbena %}         | 58     |
+| 7    | {% rauserpic ChocoMilk %}       | 53     |
+| 8    | {% rauserpic R3ZM4N %}          | 53     |
+| 9    | {% rauserpic Noisyneighbour %}  | 51     |
+| 10   | {% rauserpic EBAChandler %}     | 49     |
 
 ## Top 10 Mastered Sets <!-- 21 -->
 Check out which sets were mastered most this month.
@@ -535,18 +535,18 @@ Check out which sets were mastered most this month.
 ## Top 10 Beaten Awards <!-- 20B -->
 Check out the users with the most beaten awards this month.
 
-| Rank | User            | Awards |
-| ---- | --------------- | ------ |
-| 1    | midgetstrawdog  | 139    |
-| 2    | Nicholacci      | 116    |
-| 3    | VisionOne       | 98     |
-| 4    | YoureWithStupid | 92     |
-| 5    | madminimalist   | 87     |
-| 6    | Zombie          | 85     |
-| 7    | DeanXP          | 71     |
-| 8    | InsaniumCoil    | 69     |
-| 9    | Verbena         | 56     |
-| 10   | ChocoMilk       | 53     |
+| Rank | User                            | Awards |
+| ---- | ------------------------------- | ------ |
+| 1    | {% rauserpic midgetstrawdog %}  | 139    |
+| 2    | {% rauserpic Nicholacci %}      | 116    |
+| 3    | {% rauserpic VisionOne %}       | 98     |
+| 4    | {% rauserpic YoureWithStupid %} | 92     |
+| 5    | {% rauserpic madminimalist %}   | 87     |
+| 6    | {% rauserpic Zombie %}          | 85     |
+| 7    | {% rauserpic DeanXP %}          | 71     |
+| 8    | {% rauserpic InsaniumCoil %}    | 69     |
+| 9    | {% rauserpic Verbena %}         | 56     |
+| 10   | {% rauserpic ChocoMilk %}       | 53     |
 
 ## Top 10 Beaten Sets <!-- 21B -->
 Check out which sets were beaten most this month.

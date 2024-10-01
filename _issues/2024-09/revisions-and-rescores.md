@@ -123,9 +123,9 @@ toc: true
 ### PlayStation Portable
 
 
-| Game                                                   | Revision Author       | Genre          |
-| ------------------------------------------------------ | --------------------- | -------------- |
-| {% ragamepic 3514, 100514, Ape Escape: On the Loose %} | {% rauser Sutarion %} | 3D Platforming |
+| Game                                                   | Revision Author          | Genre          |
+| ------------------------------------------------------ | ------------------------ | -------------- |
+| {% ragamepic 3514, 100514, Ape Escape: On the Loose %} | {% rauser Butternnife %} | 3D Platforming |
 
 <a href="#toc">:top:</a>
 

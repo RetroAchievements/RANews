@@ -27,11 +27,11 @@ Head over to [GameCube Launch Part 3](./gamecube-launch.html) for more even more
 
 ## RA Awards
 
-Th RA Awards discussion and voting is at it again for it's 4th year. Checkout the `#rawards-discussion` and `#rawards-voting` Discord channels for more information and the latests polls.
+Th RA Awards discussion and voting is at it again for its 4th year. Checkout the `#rawards-discussion` and `#rawards-voting` Discord channels for more information and the latest polls.
 
 ## PlayTester Revamp
 
-The PlayTester team has been revamped in order to expant the team and it's current capabilities. Playtest request can be submitted and discussed via Discord in the new forum channel.
+The PlayTester team has been revamped in order to expand the team and its current capabilities. Playtest request can be submitted and discussed via Discord in the new forum channel.
 
 Reach out to {% rauserpic TimeCrush %} for more information.
 
@@ -414,7 +414,7 @@ Web API Changes:
             <td rowspan="2" width=250>{% rauserpic Excessiveiser %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 2267, 099275, Fire Shark (MD) %}</td>
+            <td colspan="1">{% ragamepic 224, 100950, Olympic Gold: Barcelona '92 (MD) %}</td>
         </tr>
         <tr>
             <td rowspan="2" width=250>{% rauserpic MaddieKittyTV %}</td>

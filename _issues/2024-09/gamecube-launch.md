@@ -86,7 +86,7 @@ Get back on the court with the fourth entry in the tennis sub-series of Mario, M
 
 | Game                                              | Genre                 |
 | ------------------------------------------------- | --------------------- |
-| {% ragamepic 6253, 088925, Super Monkey Ball 2 %} | 3D Platforming, Party |
+| {% ragamepic 6253, 089484, Super Monkey Ball 2 %} | 3D Platforming, Party |
 
 By: {% rauserpic Bryan1150 %}
 
@@ -105,7 +105,7 @@ A subset with extreme time trials were also in development, but the developer wa
 | Game                                                                               | Genre         |
 | ---------------------------------------------------------------------------------- | ------------- |
 | {% ragamepic 2708, 089937, Mario Golf: Toadstool Tour %}                           | Sports - Golf |
-| {% ragamepic 29039, 096896, Mario Golf: Toadstool Tour [Subset - Completionist] %} | Sports - Golf |
+| {% ragamepic 29039, 096986, Mario Golf: Toadstool Tour [Subset - Completionist] %} | Sports - Golf |
 
 By: {% rauserpic LiveFastCyYoung %}
 
