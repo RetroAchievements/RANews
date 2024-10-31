@@ -115,5 +115,21 @@ Keep in mind that the article must be written in Markdown format. If you don’t
 ## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                               |                                 |                                     |
-| ----------------------------- | ------------------------------- | ----------------------------------- |
+|                               |                                    |                                  |
+| ----------------------------- | ---------------------------------- | -------------------------------- |
+| {% rauserpic 1stPrize %}      | {% rauserpic Amir96lx %}           | {% rauserpic AssClownKing %}     |
+| {% rauserpic Bilalscape12 %}  | {% rauserpic Brandovsky %}         | {% rauserpic BrothersGames %}    |
+| {% rauserpic crrool %}        | {% rauserpic DeadmanRetro %}       | {% rauserpic DevCompliance %}    |
+| {% rauserpic DrMunkee %}      | {% rauserpic gamer097 %}           | {% rauserpic HiroshiTaguchi %}   |
+| {% rauserpic lizstar %}       | {% rauserpic MeloDeathAtmoBlack %} | {% rauserpic MrOwnership %}      |
+| {% rauserpic mywifeleftm %}   | {% rauserpic Nepiki %}             | {% rauserpic Nevermond12 %}      |
+| {% rauserpic Nydaxn %}        | {% rauserpic Obliv %}              | {% rauserpic ockerjj %}          |
+| {% rauserpic Paradise1 %}     | {% rauserpic pinguupinguu %}       | {% rauserpic psychosailor1119 %} |
+| {% rauserpic puroseki %}      | {% rauserpic QATeam %}             | {% rauserpic r0ach3d %}          |
+| {% rauserpic RANews %}        | {% rauserpic Raykusen %}           | {% rauserpic RetroGameMaster %}  |
+| {% rauserpic Rixor14 %}       | {% rauserpic Scorpion16 %}         | {% rauserpic Sines %}            |
+| {% rauserpic sioneus %}       | {% rauserpic SleeplessSP %}        | {% rauserpic Snow %}             |
+| {% rauserpic SporyTike %}     | {% rauserpic StingX2 %}            | {% rauserpic Sutarion %}         |
+| {% rauserpic TimeCrush %}     | {% rauserpic Totempanic %}         | {% rauserpic Trinitroid %}       |
+| {% rauserpic victormoreira %} | {% rauserpic vikdarkbomb %}        | {% rauserpic wolfman2000 %}      |
+| {% rauserpic Xymjak %}        |                                    |                                  |
