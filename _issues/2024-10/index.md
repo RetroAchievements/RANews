@@ -22,7 +22,8 @@ Welcome to RANews, your #1 source for everything RetroAchievements. In this issu
 RANews thrives on community submitted content, Wish This Set, Play This Set and RAdvantage are only possibly if you allow it to be and send us your submissions for those articles. If you have any contributions that you would like to see featured in these articles, please send them in a direct message to {% rauser RANews %}.
 
 
-## [RA Awards 2023](./ra-awards.html)
+## [RA Awards](./ra-awards.html)
+Looking for some inspiration to tackle new RetroAchievements sets or simply curious about which ones stood out over the past year? Look no further than our RA Awards section! Each year, we invite the community to vote for their favorite sets, achievements, users, and various other categories recognizing the ones that truly shine in terms of creativity, challenge, and overall quality. So without further ado, let's dive into this year's winners and see what they have in store for us!
 
 
 ## [Set of the Month](./set-of-the-month.html)
@@ -37,7 +38,7 @@ Get ready to dive into the numbers and see how you stack up against the rest of 
 In this section, we celebrate the user milestones reached this past month. We showcase user milestones ranging from total points to leaderboards joined, as well as developer milestones covering various aspects of the typical set developer. Whether you're a seasoned veteran or a newcomer to the site, we hope these highlights inspire you to push your own boundaries, achieve new goals and reach new milestones.
 
 
-## ---[Current Events](./current-events.html)
+## [Current Events](./current-events.html)
 The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!
 
 
@@ -45,8 +46,12 @@ The RetroAchievements community is always buzzing with events and competitions, 
 Dive into the artistic world of our RetroAchievements community with our new Fanart section. Discover a visual feast of nostalgia as members showcase their talent in celebrating the timeless charm of retro gaming. Immerse yourself in the pixelated passion that makes our community truly special.
 
 
-## ---[Community News](./community-news.html)
+## [Community News](./community-news.html)
 Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
+
+
+## [Play This Set](./play-this-set.html)
+Looking for some great game recommendations? Play This Set features writeups submitted by the community about existing sets and why you should give them a try. Whether you're looking to discover a new favorite or just need a reason to play something new, these writeups are sure to provide plenty of inspiration. So dive in, and get ready to take on a new set!
 
 
 ## [Wish This Set](./wish-this-set.html)
@@ -54,9 +59,11 @@ In this section, users share their thoughts on which games they would love to se
 
 
 ## [RAGuide](./raguide.html) <!-- Update each issue -->
+Unfold an epic adventure with our achievement guide for {% ragame 4000, Paper Mario: The Thousand-Year Door %} on the GameCube. Join Mario and friends as they journey through mysterious lands, solve puzzles, and battle unique foes to uncover the secrets of the legendary door. Our guide will equip you with expert strategies and tips to conquer every chapter and master this beloved RPG classic.
 
 
 ## [RAdvantage](./radvantage.html) <!-- Update each issue -->
+Want to master {% ragame 13283, Devilish %} on the Game Gear? Precision, patience, and strategy are your best friends here. Dive into the latest RADvantage tip to discover techniques that will help you survive each stage and unlock {% raach 299872, Hard Master %}!
 
 
 ## [HotCheevs Monthly](./hot-cheevs.html)
@@ -64,7 +71,7 @@ Stay up-to-date on the latest achievements with our monthly roundup of new sets 
 
 
 ## [Revisions and Rescores](./revisions-and-rescores.html)
-In this segment, we'll be taking a closer look at the sets that have recently been revised or rescored. From minor tweaks to major overhauls, we'll keep you up to date on every set revisions from the previous month. Check out if you need to remaster any of the sets and claim that Top 10 High Score spot.
+In this segment, we'll be taking a closer look at the sets that have recently been revised or rescored. From minor tweaks to major overhauls, we'll keep you up to date on every set revision from the previous month. Check out if you need to remaster any of the sets and claim that Top 10 High Score spot.
 
 
 ## [Art Updates](./art-updates.html)
@@ -75,7 +82,7 @@ Discover the latest updates to achievement badges and set icons. From fresh badg
 Wondering who the top players on RetroAchievements are, and how they've been performing over the past month? In this section we take a deep dive into the top 300 players on the site, analyzing their progress and point totals over the past month. From the rise of new challengers to the continued dominance of top players, this section gives you a comprehensive overview of the RetroAchievements points leaderboard.
 
 
-## ---[RAnniversaries](./ranniversaries.html)
+## [RAnniversaries](./ranniversaries.html)
 Joining RetroAchievements is a major milestone for gamers and achievement developers, and we love celebrating those anniversaries. In this section, we'll recognize the achievements of our dedicated members by highlighting their years of service to the site. From new members to veterans, we'll showcase everyone who's reached a new anniversary milestone. Join us in celebrating our amazing community, and the hard work and dedication that makes RetroAchievements the best achievement hunting community out there.
 
 
@@ -95,7 +102,7 @@ Are you curious about which developers have contributed the most sets to RetroAc
 In this section, we challenge readers to put their observation skills to the test with a Spot the Difference game created by {% rauser SporyTike %} for the game {% ragame 4941, One %}. There are 10 differences to find, and readers who spot them all will be featured in the next issue. So sharpen your eyes and get ready for some fun!
 
 
-## ---[RA Crossword](./crossword.html)
+## [RA Crossword](./crossword.html)
 Dive into the delightful challenge of our monthly crossword puzzle article, where words weave and letters dance! Unleash your inner wordsmith and conquer the clever clues that await in this months Crossword puzzle.
 
 

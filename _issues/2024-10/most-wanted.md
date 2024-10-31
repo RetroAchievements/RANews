@@ -10,7 +10,7 @@ toc_float: true
 
 ## Intro
 
-Since the implementation of the set request feature we have seen over 100,000 set requests made, over 40,000 of which have been fulfilled. Check out what the most wanted games on RetroAchievements are.
+Since the implementation of the set request feature we have seen over 115,000 set requests made, over 65,000 of which have been fulfilled. Check out what the most wanted games on RetroAchievements are.
 
 ### DevQuest News
 
