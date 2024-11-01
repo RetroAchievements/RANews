@@ -46,6 +46,6 @@ Waking up in an apartment with no memory, John Cain need to find out who he is, 
 | --------------------------------- | ----------- | ----------------------------------------------- |
 | {% ragamepic 4941, 082577, One %} | PlayStation | 3D Platforming, Third-Person Shooter, Run & Gun |
 
-* Suggested by: {% rauserpic Brosephski %}
+* Suggested by: {% rauserpic lagoooona %}
 
 **Note:** Every user who finds all 10 differences and sends proof to SporyTike via Site DM or Discord will be listed in the next issue. Additionally a random selected user who submitted the solution until the end of the month will be chosen to select the game of the next picture.

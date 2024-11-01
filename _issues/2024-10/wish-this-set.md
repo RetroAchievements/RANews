@@ -113,7 +113,7 @@ I feel that it would be a successful set because it is accessible, I don't see i
 * Write-up by: {% rauserpic victormoreira %}
 
 <figure style="text-align:center;float:left;width:50%;height:50%">
-<img src="http://www.pcengine.co.uk/Images-Screenshots_A-K/Doraemon_02.gif">
+<img src="https://i.imgur.com/LGKxnHA.gif">
 <figcaption></figcaption>
 </figure>
 
