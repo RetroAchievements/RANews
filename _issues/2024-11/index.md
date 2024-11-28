@@ -34,7 +34,7 @@ Get ready to dive into the numbers and see how you stack up against the rest of 
 In this section, we celebrate the user milestones reached this past month. We showcase user milestones ranging from total points to leaderboards joined, as well as developer milestones covering various aspects of the typical set developer. Whether you're a seasoned veteran or a newcomer to the site, we hope these highlights inspire you to push your own boundaries, achieve new goals and reach new milestones.
 
 
-## -[Current Events](./current-events.html)
+## [Current Events](./current-events.html)
 The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!
 
 
@@ -43,10 +43,10 @@ Dive into the artistic world of our RetroAchievements community with our new Fan
 
 
 ## [Weekly Topics](./weekly-topics.html)
-Discord's Weekly Topics channel is back. Check out some of the topics highlights covering members most mastered syatems, favorite game composers, diving into the impact of the Beat feature, and imagining wishful game adaptations of beloved media. Join in on the discussions in the `#weekly-topic` Discord channel.
+Discord's Weekly Topics channel is back. Check out some of the topics highlights covering members most mastered systems, favorite game composers, diving into the impact of the Beat feature, and imagining wishful game adaptations of beloved media. Join in on the discussions in the `#weekly-topic` Discord channel.
 
 
-## -[Community News](./community-news.html)
+## [Community News](./community-news.html)
 Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
 
 
@@ -111,5 +111,19 @@ Keep in mind that the article must be written in Markdown format. If you don't k
 ## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                               |                                    |                                  |
-| ----------------------------- | ---------------------------------- | -------------------------------- |
+|                               |                                 |                                      |
+| ----------------------------- | ------------------------------- | ------------------------------------ |
+| {% rauserpic 1stPrize %}      | {% rauserpic Amir96lx %}        | {% rauserpic Ancycles %}             |
+| {% rauserpic AssClownKing %}  | {% rauserpic authorblues %}     | {% rauserpic Brandovsky %}           |
+| {% rauserpic DevCompliance %} | {% rauserpic Gamechamp %}       | {% rauserpic gamer097 %}             |
+| {% rauserpic kingdevil999 %}  | {% rauserpic kongming00 %}      | {% rauserpic Maiodin %}              |
+| {% rauserpic MrOwnership %}   | {% rauserpic Neonguy79 %}       | {% rauserpic Nepiki %}               |
+| {% rauserpic Nevermond12 %}   | {% rauserpic Nydaxn %}          | {% rauserpic Obliv %}                |
+| {% rauserpic ockerjj %}       | {% rauserpic pinguupinguu %}    | {% rauserpic psychosailor1119 %}     |
+| {% rauserpic QATeam %}        | {% rauserpic r0ach3d %}         | {% rauserpic RANews %}               |
+| {% rauserpic Raykusen %}      | {% rauserpic RetroGameMaster %} | {% rauserpic s0uth %}                |
+| {% rauserpic SegoeUI %}       | {% rauserpic Sines %}           | {% rauserpic Snow %}                 |
+| {% rauserpic SporyTike %}     | {% rauserpic StingX2 %}         | {% rauserpic TimeCrush %}            |
+| {% rauserpic ToastedSyrup %}  | {% rauserpic Totempanic %}      | {% rauserpic TrogdorTheBurninator %} |
+| {% rauserpic vikdarkbomb %}   | {% rauserpic Xavvvvier %}       | {% rauserpic Xymjak %}               |
+| {% rauserpic yuvi3000 %}      |                                 |                                      |

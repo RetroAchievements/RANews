@@ -22,7 +22,7 @@ These events are open to any community member who wants to participate.
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=24926>
 - Period: July 2024 - November 2024
 - Host: {% rauserpic RAEvents %}
-- Users with perfert scores:
+- Users with perfect scores:
 
 **58 Points**
 
@@ -81,16 +81,32 @@ Earn points towards Gold, Silver, and Bronze badges by beating and mastering Gam
 
 ## PlayJam
 
-- Active Season: PC-Engine & PC-Engine CD
-- Forum topic: <https://retroachievements.org/viewtopic.php?t=25257>
+- Active Season: Arcade
+- Forum topic: <https://retroachievements.org/viewtopic.php?t=27885>
 - Period: Ongoing
 - Hosts: {% rauserpic Sutarion %} and {% rauserpic AuburnRDM %}
 
-**Arcade Sets**: 84 (5 exempt from community goals)
-**Sets Beat**: 83 out of 84
-**Sets Mastered**: 69 out of 84
+**Arcade Sets:** 85 (6 exempt from community goals)
+**Sets Beat:** 84 out of 85
+**Sets Mastered:** 71 out of 85
 
-The community goal for beating all the sets has been met!  Every player that participates this season earns TWO bonus points!  The Arcade season of PlayJam will be active until on November 30th!
+The community goal for beating all the sets has been met!  Every player that participates this season earns TWO bonus points!  The Arcade season of PlayJam will be active until on November 30th!  Next up is the PC-8801 and PC-8001 season!
+
+**Season 3 (PC-Engine/PC-Engine CD) Results**  
+Total Participants: 266  
+Most First Masteries: {% rauserpic Trisscorp %}  
+
+Top 10 Earners:  
+  1.  {% rauserpic Nanashi %} - 60 Points  
+  2.  {% rauserpic IzaNamiZX %} - 40 Points  
+  3.  {% rauserpic Hexcreed %} - 36 Points  
+  4.  {% rauserpic Limper %} - 33 Points  
+  5.  {% rauserpic Jungon %} - 26 Points  
+  6.  {% rauserpic LordBBH %} - 25 Points  
+  6.  {% rauserpic ValueOfTime0 %} - 25 Points  
+  8.  {% rauserpic SteevL %} - 22 Points  
+  9.  {% rauserpic VitorKDT %} - 19 Points  
+  10. {% rauserpic NEOMAR %} - 18.5 Points  
 
 
 ## Rack It Up
@@ -123,8 +139,9 @@ Top Players:
 - Period: July 2020 - Current
 - Host: {% rauserpic genesislover %}, {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
 - Current Winners:
-  - Month 51: Best Gamer: {% rauserpic Tayadaoc %} & {% rauserpic alundra82 %}, Best Dev Fixer: {% rauserpic Hotscrock %}
+  - Month 52: Best Gamer: {% rauserpic NEOMAR %} & {% rauserpic Sutarion %}, Best Dev Fixer: {% rauserpic Hotscrock %}
 - Previous Winners:
+  - Month 51: Best Gamer: {% rauserpic Tayadaoc %} & {% rauserpic alundra82 %}, Best Dev Fixer: {% rauserpic Hotscrock %}
   - Month 50: Best Gamer: {% rauserpic Tayadaoc %} & {% rauserpic NightOwl35 %}
   - Month 49: Best Gamer: {% rauserpic NEOMAR %}, Best Dev Fixer: {% rauserpic kmpers %}
   - Month 48: Best Gamer: {% rauserpic DesertWorms %}, Best Dev Fixer: {% rauserpic televandalist %}
@@ -135,7 +152,6 @@ Top Players:
   - Month 43: Best Gamer: {% rauserpic Crystalline343 %} & {% rauserpic Glyphid %}, Best Dev Fixer: {% rauserpic Hotscrock %}
   - Month 42: Best Gamer: {% rauserpic Amir96lx %}, Best Dev Fixer: {% rauserpic StingX2 %}
   - Month 41: Best Gamer: {% rauserpic MelodyAsh %}, Best Dev Fixer: {% rauserpic Hotscrock %} & {% rauserpic Sutarion %}
-  - Month 40: Best Gamer: {% rauserpic kmpers %}, Best Dev Fixer: {% rauserpic MelodyAsh %}
 
 
 ## RA Roulette 2024
@@ -162,20 +178,21 @@ Top Players:
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=24927>
 - Period: January 1st, 2024 - December 31st, 2024
 - Host: {% rauserpic RAEvents %}
-- Total Participants: 422
-- Total Nodes Cleared: 8,772
+- Total Participants: 434
+- Total Nodes Cleared: 9,869
 
-**Board Clears (Last Updated July 5th):**  
-- Ticket to the World (Board 1): 251 (59.5%)  
-- Heroes Assemble (Board 2): 198 (46.9%)  
-- Assault on the Dark Castle (Board 3): 169 (40.0%)  
-- Ticket to the Stars (Board 4): 115 (27.3%)  
-- Magitek Fusion (Board 5): 113 (26.8%)  
-- Wings of Time (Board 6): 112 (26.5%)  
-- Ticket to RA (Board 7): 87 (20.6%)  
-- Challenge League Legends (Board 8): 62 (14.7%)  
+**Board Clears (Last Updated July 5th):**
+- Ticket to the World (Board 1): 261 (60.1%)
+- Heroes Assemble (Board 2): 205 (47.2%)
+- Assault on the Dark Castle (Board 3): 177 (40.8%)
+- Ticket to the Stars (Board 4): 128 (29.5%)
+- Magitek Fusion (Board 5): 127 (29.3%)
+- Wings of Time (Board 6): 129 (29.7%)
+- Ticket to RA (Board 7): 107 (24.7%)
+- Challenge League Legends (Board 8): 98 (22.6%)
+- Event Horizon (Board 9): 63 (14.5%)
 
-The Final Board launches on November 1st!
+This year's challenge league ends on December 31st, so be sure to clear those boards and get your submissions in!
 
 
 ## Peak Streak
