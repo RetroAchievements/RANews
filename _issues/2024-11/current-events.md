@@ -115,6 +115,10 @@ Top 10 Earners:
 - Period: December 2023 - December 2024
 - Host: {% rauserpic RAEvents %}
 
+Current Winners:  
+- {% rauserpic Lafungo %}  
+- {% rauserpic Prota %}  
+
 Top Players:  
   1: {% rauserpic s0uth %} - 52 Points  
   2: {% rauserpic psychosailor1119 %} - 51 Points  
