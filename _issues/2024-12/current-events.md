@@ -289,7 +289,7 @@ These events are open to any community member who wants to participate.
 |{% rauserpic Snow %}|{% rauserpic televandalist %}|{% rauserpic AuburnRDM %}|
 
 
-## ---PlayJam
+## PlayJam
 
 - Active Season: Arcade
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=27885>
@@ -297,26 +297,26 @@ These events are open to any community member who wants to participate.
 - Hosts: {% rauserpic Sutarion %} and {% rauserpic AuburnRDM %}
 
 **Arcade Sets:** 85 (6 exempt from community goals)
-**Sets Beat:** 84 out of 85
-**Sets Mastered:** 71 out of 85
+**Sets Beat:** 85 out of 85
+**Sets Mastered:** 76 out of 85
 
-The community goal for beating all the sets has been met!  Every player that participates this season earns TWO bonus points!  The Arcade season of PlayJam will be active until on November 30th!  Next up is the PC-8801 and PC-8001 season!
+The community goal for beating all the sets has been met! Every player that participates this season earns TWO bonus points! The Arcade season of PlayJam completed on November 30th! Next up is the PC-8801 and PC-8001 season!
 
-**Season 3 (PC-Engine/PC-Engine CD) Results**  
-Total Participants: 266  
-Most First Masteries: {% rauserpic Trisscorp %}  
+**Season 4 (Arcade) Results**  
+Total Participants: 648  
+Most First Masteries: {% rauserpic LordBBH %}  
 
 Top 10 Earners:  
-  1.  {% rauserpic Nanashi %} - 60 Points  
-  2.  {% rauserpic IzaNamiZX %} - 40 Points  
-  3.  {% rauserpic Hexcreed %} - 36 Points  
-  4.  {% rauserpic Limper %} - 33 Points  
-  5.  {% rauserpic Jungon %} - 26 Points  
-  6.  {% rauserpic LordBBH %} - 25 Points  
-  6.  {% rauserpic ValueOfTime0 %} - 25 Points  
-  8.  {% rauserpic SteevL %} - 22 Points  
-  9.  {% rauserpic VitorKDT %} - 19 Points  
-  10. {% rauserpic NEOMAR %} - 18.5 Points  
+  1.  {% rauserpic LordBBH %} - 63 Points  
+  2.  {% rauserpic Barra %} - 53 Points  
+  3.  {% rauserpic Trisscorp %} - 51 Points  
+  4.  {% rauserpic Whoops %} - 45 Points  
+  5.  {% rauserpic Amir96lx %} - 44 Points  
+  6.  {% rauserpic CthulhuThe3rd %}- 41 Points  
+  7.  {% rauserpic Dazzer123456 %} - 41 Points  
+  8.  {% rauserpic jaydee03 %} - 41 Points  
+  9.  {% rauserpic Jungon %} - 40 Points  
+  10. {% rauserpic lizstar %} - 40 Points  
 
 
 ## Rack It Up
@@ -380,24 +380,24 @@ Top Players:
   10. {% rauserpic Reeve42 %} - 76 Points  
 
 
-## ---Challenge League: Ticket to the Universe
+## Challenge League: Ticket to the Universe
 
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=24927>
 - Period: January 1st, 2024 - December 31st, 2024
 - Host: {% rauserpic RAEvents %}
-- Total Participants: 434
-- Total Nodes Cleared: 9,869
+- Total Participants: 436
+- Total Nodes Cleared: 11,002
 
 **Board Clears (Last Updated July 5th):**
-- Ticket to the World (Board 1): 261 (60.1%)
-- Heroes Assemble (Board 2): 205 (47.2%)
-- Assault on the Dark Castle (Board 3): 177 (40.8%)
-- Ticket to the Stars (Board 4): 128 (29.5%)
-- Magitek Fusion (Board 5): 127 (29.3%)
-- Wings of Time (Board 6): 129 (29.7%)
-- Ticket to RA (Board 7): 107 (24.7%)
-- Challenge League Legends (Board 8): 98 (22.6%)
-- Event Horizon (Board 9): 63 (14.5%)
+- Ticket to the World (Board 1): 270 (61.9%)
+- Heroes Assemble (Board 2): 215 (49.3%)
+- Assault on the Dark Castle (Board 3): 189 (43.3%)
+- Ticket to the Stars (Board 4): 147 (33.7%)
+- Magitek Fusion (Board 5): 141 (32.3%)
+- Wings of Time (Board 6): 144 (33.0%)
+- Ticket to RA (Board 7): 132 (30.3%)
+- Challenge League Legends (Board 8): 124 (28.4%)
+- Event Horizon (Board 9): 111 (25.5%)
 
 This year's challenge league ends on December 31st, so be sure to clear those boards and get your submissions in!
 

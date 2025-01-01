@@ -18,6 +18,13 @@ Welcome to RANews, your #1 source for everything RetroAchievements. In this issu
 
 <br clear="right"/>
 
+## Holidays Poster
+Happy Holidays from the RANews team! Enjoy a poster with your two favorite RA mascots: **RAChan** and **Cheevo**.
+
+<p align="center">
+  <img src="img/poster.png"/>
+</p>
+
 ## Community Submitted Content
 RANews thrives on community submitted content, Wish This Set, Play This Set and RAdvantage are only possibly if you allow it to be and send us your submissions for those articles. If you have any contributions that you would like to see featured in these articles, please send them in a direct message to {% rauser RANews %}.
 
@@ -46,7 +53,7 @@ Dive into the artistic world of our RetroAchievements community with our new Fan
 Discord's Weekly Topics channel is back. Check out some of the topics highlights covering unexpected creative and difficult achievements sets, franchises that are due for a new release, how users and devs deicide their next game, and who the community members are thankful for. Join in on the discussions in the `#weekly-topic` Discord channel.
 
 
-## ---[Community News](./community-news.html)
+## [Community News](./community-news.html)
 Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.
 
 
