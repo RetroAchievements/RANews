@@ -388,7 +388,7 @@ Top Players:
 - Total Participants: 436
 - Total Nodes Cleared: 11,002
 
-**Board Clears (Last Updated July 5th):**
+**Board Clears:**
 - Ticket to the World (Board 1): 270 (61.9%)
 - Heroes Assemble (Board 2): 215 (49.3%)
 - Assault on the Dark Castle (Board 3): 189 (43.3%)

@@ -1,0 +1,175 @@
+---
+issue: 2024-12
+order: 202412-20
+layout: article
+title: Play This Set
+author: Bendyhuman
+toc: true
+---
+
+Play This Set is a showcase for our passionate community members to write about the games and achievement sets they love. Whether you're an achievement developer looking to promote your work or a player wanting to spread the word about your favorite hidden gem, we're always looking for new Play This Set submissions. If interested, submit your write-up as a private message to {% rauserpic RANews %}.
+
+## Golden Sun (Game Boy Advance)
+
+| Game                                                                                                                                                                                                                                   | Console          | Genre                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/767" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/059231.png" alt="Golden Sun"> <span>Golden Sun</span></a> | Game Boy Advance | [Turn-based RPG](https://retroachievements.org/game/5663) |
+
+* Set by: {% rauserpic Rewsifer %}, {% rauserpic gooby %}
+* Write-up by: {% rauserpic Stardy %}
+
+Golden Sun is a game that needs no introduction, so obviously I'm going to do it anyway. A masterpiece of a JRPG that started life as an RPG for the N64 that somehow ended up becoming two titles on the GBA that go hand in hand with each other (that's this one and [The Lost Age](https://retroachievements.org/game/2592)), giving you one delightful adventure filled to the brim with enemies to kill with over the top attacks that'll make your GBA lag, puzzles and problems to solve that will make you wish you bound Move to a hotkey earlier in the game, and an intriguing plot to uncover along the way. They're not hard games by any means, but they are games that are worth your time to see what they have to offer. And these sets are a great way to see that. I'll just be talking about the first one here, but once I finish The Lost Age I could come back and talk to you about that later.
+
+The first game's set is a fairly simple one to complete in a single playthrough, which I think is always appreciated by many around here now, but it will point you in directions that'll let you see optional content and challenges you may have missed otherwise. There are obvious achievements like one for each story beat and one for each Djinni, but in between pop up the optional bonus stuff, like [Out of Order](https://retroachievements.org/achievement/34238) which wants you to do two of the first major dungeons the wrong way around, while [May the Force Not Be With You](https://retroachievements.org/achievement/34239) encourages you to not take the Orb of Force when you're clearly meant to and instead backtracking for it late game all in order to show you a funny scene you would have missed otherwise. They also point you in the direction of other easily missable bonus scenes such as [Worried Sick](https://retroachievements.org/achievement/34229) and the optional bosses the game has to offer like [Pirate's Treasure](https://retroachievements.org/achievement/34232), encouraging you to to explore even more of the game and check out some of its more difficult challenges. Not like you'll need the encouraging, though; once Golden Sun hooks you, you won't want to put it down. It's just nice to see the set lets you know that there is more to see and try beyond what is obvious. And on top of all this, your save file will transfer over to The Lost Age with [The Golden Password](https://retroachievements.org/achievement/35957), so you will want to have as much done in this game as possible. TLA even locks you out of some things if you didn't do it here, like going back for the Orb of Force. You will definitely want Force in TLA. Do not forget it!
+
+The achievements to really watch out for are the remaining ones that haven't been covered yet. There are five for obtaining the best equipment in the game, with [Dance of Ashura](https://retroachievements.org/achievement/34233) and [RNG Goddess](https://retroachievements.org/achievement/34234) being much bigger bastards than the others. Thanks to RNG manipulation strategies there are easy ways to collect them: be sure to hold onto your equip items that raise agility and win a pair of Quick Boots or two with your millions of Game Tickets you'll accumulate across the game. But if you sold that ninja hood and didn't play the slots you can enjoy grinding for the 1/128 chance of a drop, or 1/32 if you use the right summon to kill the enemy. But if you aren't privy to the pretty famous now RNG manipulation (that are even showcased inside the achievements themselves), you likely won't know about that summon 1/32 thing either. That's less of a worry and more of a heads up, though.
+
+The other four belong to the battle mode which you can access from the main menu and are rather unassuming. Just win 3, 10, 15 and 25 consecutive hordes. That's all fine and easy. The trick is on [Lord of Gods](https://retroachievements.org/achievement/16416), which requires Isaac to be level 40. This makes sense, as the monsters scale with you and that's all to form a strong challenge to overcome at the end. The actual difficulty comes from the fact that you'll likely finish the game around a level of the late 20s to early 30s, the battle mode doesn't level you up, and the grind to get to 40 will take some time and effort. If you're willing to put it in, then you can experience an awesome JRPG with an almost free mastery to collect. Just make sure you're willing to do that final time consuming grind if you want the mastery and not just a beat, though. Oh, and don't do what I did and save at the top of the lighthouse at the end of the game on impulse - once you're at the top of that lighthouse, you can't go back. Always keep an endgame save in that room with the Psy crystal, you'll know the one. In fact, keep two. Three if you can afford it. Other than that, enjoy the ride! It'll take you about 30 hours to do everything, which is pretty respectful of your time for a JRPG. That's probably because it's only the first half of the overall story, but still. This is one of the classics for a reason.
+
+## \~Homebrew~ Knight Owls (Game Boy Advance)
+
+| Game                                                                                                                                                                                                                                                               | Console          | Genre                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | --------------------------------------------------------------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/30907" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/101972.png" alt="\~Homebrew~ Knight Owls"> <span>\~Homebrew~ Knight Owls</span></a> | Game Boy Advance | [Strategy](https://retroachievements.org/game/3074), [Roguelike](https://retroachievements.org/game/3390) |
+
+* Set by: {% rauserpic RyCuLe %}
+* Write-up by: {% rauserpic 14ausher %}
+
+Knight Owls is a very interesting little roguelike with a fun little achievement set. It's entirely a numbers game; you keep summoning owls to boost your attack and money and hope you don't exceed your power limit. If you exceed it, you lose some life and have to start the round over. The goal is to get more or equal attack to the current enemy; if you say you're done summoning, it's compared, and then you either win or lose and then gain some life back or lose some life back and move on to the buying phase, where you use the money you've accrued to be able to add more owls to your pool of summonable ones. You then repeat until you've beaten the boss of the world you're in, and then it all resets for the next level, with the exception of special permanent passives you acquire at the middle and end of each world. It's kind of an RPG at its very simplest, but it manages to have just enough interest and depth to make you want to keep trying until you win. It's very fun and also not very long; I managed to win a run in an hour or so.
+
+Of course, that's where the achievement set itself comes in; in addition to providing the standard progression achievements and whatnot, it also adds a handful of interesting little challenges that you can chose to go for if your regular playthrough left you hungry for more. The challenges aren't the most difficult things in the world, thankfully, but they're still fun and interesting to go for, so they do their job of making an already fun game more interesting. I would highly recommend the set.
+
+## Bananan Ouji no Daibouken \| Banana Prince (NES/Famicom)
+
+| Game                                                                                                                                                                                                                                                                                                    | Console     | Genre                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/5795" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/099033.png" alt="Bananan Ouji no Daibouken \| Banana Prince"> <span>Bananan Ouji no Daibouken \| Banana Prince</span></a> | NES/Famicom | [2D Platforming](https://retroachievements.org/game/9368) |
+
+* Set by: {% rauserpic Xanders08 %}, {% rauserpic JAM %}
+* Write-up by: {% rauserpic diablo666 %}
+
+In 200X, I got acquainted with this game on my console and it fell into my soul. It was graphically interesting and memorable, feeling like how the anime would look on NES/Famicom. In terms of management, content, bosses, and unusual presentation, it is a kind of benchmark for my youth which is pleasant to go through again and again.
+
+I didn't really think much about how achievements would improve the game, but having tried it out, I understand that achievements reveal the potential of the game more. I didn't know about some secrets in the game, some techniques, some warps, and how variably you can complete the game. The achievements revealed the game more than I could have imagined. An honest, fair, interesting, and intriguing set of achievements - it was able to hook me no less than the most original game!
+
+About the game itself: I didn't find any flaws. Strong 5/5
+
+About the achievements: They fully cover the game and deepen the experience. 5/5 
+
+It's a pity that the game is not popular. Try the set of achievements and the game itself. They are literate and interesting to read, so it's a pleasure to play.
+
+(Familiarization with the anime itself is at your discretion)
+
+## Cuby Panic (PC-8000/8800)
+
+| Game                                                                                                                                                                                                                                     | Console      | Genre                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/14132" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/101111.png" alt="Cuby Panic"> <span>Cuby Panic</span></a> | PC-8000/8800 | [Puzzle](https://retroachievements.org/game/1093) |
+
+* Set and write-up by: {% rauserpic PasokonDeacon %}
+
+[Game Arts](https://retroachievements.org/game/2514) made a lot of, uh, games before their well-known [Lunar](https://retroachievements.org/game/2770) and [Grandia](https://retroachievements.org/game/8418) series, many of which lived and died on Japan-exclusive PCs. I've long had a fascination with their earliest works, such as the cult-classic action platformer [Thexder](https://retroachievements.org/game/13709), so I was surprised to learn they had another debut title in Cuby Panic. Both of them released on PC-88 in April of 1985, but only the former got console ports and an overseas MS-DOS version. It's a shame because the latter game is a simple, addictive, and challenging twist on the maze chase formula that defined the fading Golden Age of arcade gaming. The more I played, the more I knew this deserved a set that could expand on what it already offered. As my first-ever RetroAchievements project, it was more than worth the effort.
+
+You play a behatted pudding man, Mr. Knots, who's accidentally become trapped in an amusement park attraction of his own design. Each "plane" he visits hosts varying numbers of mobile, all-crushing cubes following patterns you must learn in order to survive and escape. All you have to do is touch and use any white cube to clear a level, supposing you've collected every key or dodged every death trap on a stage without keys. Doesn't sound too bad, right? Well, it gets worse when you encounter seemingly impossible configurations of cubes to pass through, or must use up part of your life gauge to slow down time just enough for part of the puzzle. Whether playing for score or trying to progress without losing lives (or taking any damage), Cuby Panic offers a lot of tension and release for such a straightforward game design.
+
+With modern know-how and the goals offered by this set, I think this sibling of Thexder stands up well despite the ravages of time. Start it up and you're greeted with a menu that allows skipping to any level you'd like; in-game, you can even set your life count as high as 99 at any time! The overall focus on deciphering increasingly difficult puzzle layouts allows some breathing room for your own playstyle, which I reflected in the set proper. In addition to the usual suspects — ye olde completion, damageless, deathless, and time-based achievements — I've added a few challenges based around not losing too many lives over a set of levels, or alternating between keys and hearts (solely a points pickup) on a particularly tricky stage. A lot of testing went into polishing all this to match what's on offer for the PC-8001/PC-8801 [PlayJam](https://retroachievements.org/viewtopic.php?t=28915) this season.
+
+There's something to be said for how Cuby Panic turns your lil' guy, often the aggressor or prey in these maze games, into more of a detective than usual. When the "monsters" are this passive, dancing to their own waltz (hence the main theme being such an earworm), it's more about safely navigating at your leisure than rushing to victory. The lead designer had previously created Chack 'n' Pop at [Taito](https://retroachievements.org/game/7805)'s behest, a better known but more infamous arcade staple which saw much refinement here (and in [Bubble Bobble](https://retroachievements.org/game/12023) years later). Compared to that earlier title's uncompromising difficulty curve, this one eases you in more gently, with a steadily ramping and relaxing set of concepts and thresholds to master. It's a great example of how to adapt Golden Era principles to a largely new and untested home platform, back when you'd have to use cheats just to skip levels or buy yourself some retries.
+
+Definitely try this one out if you're looking for a solid, humble entry into the PC-88's heyday! It all runs on a single disk (no .m3u required), and rebinding controls from numpad to cursor or controller is easy. This set currently doesn't support user-created planes (oh, did I forget to mention the game's bundled with a level creator?), but there's room for a future subset. Now that this and Thexder have excellent sets, I can only hope more people give Game Arts' foundational duo a shot, and there's surely more to come.
+
+## \~Hack~ Pokémon Renegade Platinum (Nintendo DS)
+
+| Game                                                                                                                                                                                                                                                                                   | Console     | Genre                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/16196" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/066999.png" alt="\~Hack~ Pokémon Renegade Platinum"> <span>\~Hack~ Pokémon Renegade Platinum</span></a> | Nintendo DS | [Turn-based RPG](https://retroachievements.org/game/5663) |
+
+* Set by: {% rauserpic Bryan1150 %}
+* Write-up by: {% rauserpic TeensiesKing %}
+
+For a Pokemon fan, this game and set contains everything that makes the series great while also improving on some of the worse aspects. To start, this is not the Gen 4 you remember. The difficulty on everything is turned up to 8/10 which makes the Pokemon you use more important than previously, but you can still use your favorites fairly reliably by the end of the main game. In base [Platinum](https://retroachievements.org/game/11732), the first gym leader uses 3 Pokemon with an ace at level 14, but in this hack, he has 6 that go up to level 16, and this is only the start. Cynthia's Garchomp becomes a hyper-focused level 78 killing machine with a Yache Berry.
+
+To compensate for this, the game gives most current gen techniques of training your own Pokemon: the Move Tutors are conveniently placed together next to Pastoria, the Move Relearner can teach Pokemon egg moves (no longer requiring a Heart Scale for any services), and there are 2 new NPCs in the daycare. One sells EV reducing berries at a steal of 500 for 15 of each, and the other provides EV training and EXP grinding to allow for making new teams infinitely easier than previously. The only things missing are bottle caps to max out IVs and Mints to change natures, but this set is still more than reasonable even with those missing.
+
+If you're going for mastery, you'll need to use every advantage you can get. The set boasts 21 challenge achievements for post-game rematches against the stat trainers, gym leaders, rivals, and the E4, and each one has a different requirement. Think you can make a better team of Water Pokemon than the Gym Leader can? Now, you get to prove it with the added condition of no Pokemon on your team can be leveled above his ace. If that's not enough challenge, what about 5 different mono-type runs through the E4 including one with only Fairy types, because this hack gives Fairy typing to Pokemon that gain it in Gen 6 plus even a few others! If all that seems too easy, we can cap it off with a 24 trainer battle marathon against each rematch team where you only heal every 3 battles. But, well, these are only post-game optional challenges, but for someone like me who feels the mainline games are just too easy at this point, this gives a wonderful challenge to aim for.
+
+Lastly, I should mention the catch phrase: "Gotta Catch 'Em All", and you certainly will in this hack! It contains ways to get all 493 Pokemon up through Gen 4 including every legendary and mythical, with the bigger names even getting cute little special events for them. If you're worried about finding all of them, worry no more! The Google Drive link the hack creator has provided contains documentation on almost everything from where Pokemon spawn to the moves Pokemon learn on level up to trainer Pokemon, and, for the more important trainers battled, even movesets.
+
+As of writing this, I haven't finished the set yet, but it has given me so much enjoyment seeing my Pokedex number not-so-slowly rise all the way up to 493 and creating numerous monotype teams. I hope you all give this absolutely wonderful hack a try!
+
+## Dragon Ball Z: Budokai 2 (GameCube)
+
+| Game                                                                                                                                                                                                                                                                 | Console  | Genre                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------ |
+| <a class="gameicon-link" href="https://retroachievements.org/game/28373" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/102805.png" alt="Dragon Ball Z: Budokai 2"> <span>Dragon Ball Z: Budokai 2</span></a> | GameCube | [3D Fighting](https://retroachievements.org/game/8359) |
+
+* Set by: {% rauserpic NeonPug %}
+* Write-up by: {% rauserpic TheJohanx %}
+
+The second game of the beloved trilogy, this one often gets ignored but is, in my opinion, better than the [first](https://retroachievements.org/game/20444). In Budokai 2 we have the enhanced cel-shaded graphics that have now become iconic, new characters, a better fight system, and an expanded character roster. While the story mode kinda leaves a lot to be desired, for me, everything else is superior to the first game.
+
+The set covers pretty much all the content - story mode, tournaments, and collectibles. It also adds the infamous Z and Z2 difficulty to have a hard challenge on the story mode, which you will be playing a lot if you want to master this set. The set also has some custom fights and challenges in the extra Babidi spaceship mode that are pretty fun. Overall it's a really great experience that I recommend to all Dragon Ball fans, and if you want more you can attempt the [tournament subset](https://retroachievements.org/game/25229), which makes you use all characters in the game.
+
+## Game & Watch: Ball, Flagman, & Vermin (Nintendo DSi)
+
+| Game                                                                                                                                                                                                                                                           | Console      | Genre                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------ |
+| <a class="gameicon-link" href="https://retroachievements.org/game/22397" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/067353.png" alt="Game & Watch: Ball"> <span>Game & Watch: Ball</span></a>       | Nintendo DSi | [Action](https://retroachievements.org/game/839) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/22433" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/067527.png" alt="Game & Watch: Flagman"> <span>Game & Watch: Flagman</span></a> | Nintendo DSi | [Action](https://retroachievements.org/game/839) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/22437" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/067571.png" alt="Game & Watch: Vermin"> <span>Game & Watch: Vermin</span></a>   | Nintendo DSi | [Action](https://retroachievements.org/game/839) |
+
+* Sets by: {% rauserpic SporyTike %}
+* Write-up by: {% rauserpic Totempanic %}
+
+I'm a pretty huge fan of [Game & Watch](https://retroachievements.org/game/11435) games. They are addicting and fun games to play when you can't think of anything else to play. I decided to group these 3 games together due to the fact their original versions were part of the Silver Series of Game & Watch games.
+
+First off, Ball. This is the most basic Game & Watch game there is. Your goal is to juggle either 2 or 3 balls by moving your arms left to right with the game speeding up the longer you go, which gets reset every 100 points. Next up, Flagman. The two modes in this game are actually quite different with Game A being a "Simon Says" type game and Game B being about reaction time. Honestly, this might be my least favorite out of the 3 games. Finally, Vermin is very similar to Ball, but much more fast-paced, and some would say better than Ball.
+
+The achievement lists are very simple for all 3 of these games, being to get a high enough score, so the following achievements are the hardest: [Dark Devil Inside](https://retroachievements.org/achievement/284267) for Ball, [Flag of the Year](https://retroachievements.org/achievement/285308) for Flagman, and [Punish Them](https://retroachievements.org/achievement/288649) for Vermin.
+
+Overall Scores:
+
+Ball: (Originally Completed December 31st 2023)
+* Gameplay: 5/10
+* Achievement Set: 7/10
+
+Flagman: (Originally Completed November 15th 2024)
+* Gameplay: 3/10
+* Achievement Set: 6/10
+
+Vermin: (Originally Completed September 28th 2024)
+* Gameplay: 7/10
+* Achievement Set: 7/10
+
+## Haunting Ground (PlayStation 2)
+
+| Game                                                                                                                                                                                                                                              | Console       | Genre                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/1314" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/083747.png" alt="Haunting Ground"> <span>Haunting Ground</span></a> | PlayStation 2 | [Survival Horror](https://retroachievements.org/game/8816) |
+
+* Set by: {% rauserpic Altomar %}
+* Write-up by: {% rauserpic Alakatrore %}
+
+Haunting Ground is a rebranded [Clock Tower 3](https://retroachievements.org/game/2698), and I think that's neat. I really enjoyed playing this and mastering the set, despite the partner AI being a bit braindead. Mastering this I finally learnt where Resident Evil 5 got its partner AI from, and how they basically ripped Fiona's model and called it Jill.
+
+I really liked the achievements that made me get hidden cutscenes and animations. There's some real cartoony stuff in there and it's similar to Clock Tower 3. The hardest achievements were the challenge ones, as having the partner AI play ball took a few attempts. By playing through multiple times I learnt how to harass bosses and not let them get any hits in.
+
+This set got me to play until 100% completion and get all notes and endings. I highly recommend that people who like Resident Evil 5 and [Clock Tower](https://retroachievements.org/game/7051) play through this and get ideas on how things ended up the way they did. I still find it funny that Hewie was only added in due to perceptions that audiences wouldn't want to play as a woman. The fact that it was 2005 when this game came out and plenty of games with female protagonists were already out and selling well must have escaped Capcom's management.
+
+## Breath of Fire 2 (SNES/Super Famicom & Game Boy Advance)
+
+| Game                                                                                                                                                                                                                                                 | Console            | Genre                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/450" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/008647.png" alt="Breath of Fire II"> <span>Breath of Fire II</span></a> | SNES/Super Famicom | [Turn-based RPG](https://retroachievements.org/game/5663) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/2430" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/017931.png" alt="Breath of Fire 2"> <span>Breath of Fire 2</span></a>  | Game Boy Advance   | [Turn-based RPG](https://retroachievements.org/game/5663) |
+
+* Sets by: {% rauserpic Altomar %}, {% rauserpic voiceofautumn %}
+* Write-up by: {% rauserpic Stardy %}
+
+The [Breath of Fire](https://retroachievements.org/game/6702) series contains some of the most charming RPGs you can find on the planet, with [3](https://retroachievements.org/game/11269) and [4](https://retroachievements.org/game/11292) being series high points but 2 always being my personal favourite due to nostalgia reasons. 2's got a hell of a lot of problems, from the insane encounter rate seemingly giving you a fight every couple of steps to the absolutely dreadful translation giving you false information on how to progress in an already confusing game to progress in, but the two sets available for the game for SNES and GBA do so much to help highlight just how much there is to love here.
+
+The thing I like the most about them is just how split they are in what they're trying to accomplish. The SNES set pushes you in the right direction, showing you everything the game has to offer. Its missables are usually down to when there's some kind of choice or failure potential, such as early on being able to save Katt/Lin depending on your translation from the poison darts, and (outside of when you get a carpenter for your town) are all fixed with a quick and easy save before it happens. Getting all in a single playthrough is completely possible. And the carpenters just require one more story plot beat to be completed really, so it's not the biggest ask, and you can copy your save file just in case you're absolutely worried. I'm in the process of finishing off the mastery through a single playthrough as I write this, just grinding out the final few levels for [Infinity](https://retroachievements.org/achievement/16720) and getting the best ending.
+
+On the flipside, the GBA set is all about giving experienced players challenges to consider. You'll still have some for the basic plot beats, but now there'll also be a lot more beating bosses under certain conditions, from the simple [Dongroach](https://retroachievements.org/achievement/125677) to the more complicated [System Of A Down - Toxicity](https://retroachievements.org/achievement/126254) and [Mother Gaia](https://retroachievements.org/achievement/126270) available for the people who have visited the game before and are looking for a bigger challenge. They also have an achievement tied to every single town upgrade, all 27 of the villagers, and point out quirks within the game such as [This Cheat Code Is Allowed!](https://retroachievements.org/achievement/126316), encouraging replay of the game and maybe teaching you things you have never seen before. I've played through the game a ton and didn't even consider trying [I'm Right Here!](https://retroachievements.org/achievement/126318), for example. And nothing even happens! But it's funny and should be pointed it out! Player beware though, my playthrough's stalled out at [Harvest Moon](https://retroachievements.org/achievement/126274), which is a complete bastard. It's something I'd never tried to do before and added another layer to the game I'd not even considered before, so I like that it's there. But it doesn't stop it from being a bastard. And based on the rest of the set, it's not even the biggest bastard there.
+
+The two sets have different priorities, but each basically nailed exactly what they've went for. I know that people have preferences in what type of sets they go for - some only like sets that they can keep to a single playthrough, while others are into achievement hunting for the actual challenge and want to test themselves at their favourite games - so the fact that the two different versions of the game offers both means there's an even better reason to check out one of the most underrated JRPGs of all time. I don't know if that was coordinated between the authors, or if that was sheer coincidence, but what a great end result either way. For newcomers I recommend playing through the new retranslation of the SNES version as the perfect place to start, but if you've dipped your feet in it before and just want to revisit a classic, then pick whichever achievement set type you prefer. Hell, do what I did and play both.

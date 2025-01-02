@@ -63,7 +63,7 @@ But if we are talking about posing for a picture, then Sonic did not get the mem
   <img src="https://github.com/user-attachments/assets/fe8f2214-b559-401e-8ccc-d4137ef6d2a9" />
 </p>
 
-By {% rauserpic GroundedShikami %}
+By {% rauserpic groundedshikami %}
 
 But then, we have two more of the same character! First up is GroundedShikami, drawing stickman Ryu in his most unnatural habitat: calm and collected, no expression, just standing there.
 

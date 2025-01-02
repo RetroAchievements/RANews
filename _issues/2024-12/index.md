@@ -61,7 +61,11 @@ Stay up-to-date with the latest news in the RetroAchievements community with our
 Join the RetroAchievements community and listen to the latest RAPodcasts. In this months podcast, {% rauser TimeCrush %} talks with {% rauser voiceofautumn %} their history with RA from user to developer to RAOlympics organizer including all the highs and lows in between.
 
 
-## ---[Wish This Set](./wish-this-set.html)
+## [Play This Set](./play-this-set.html)
+Looking for some great game recommendations? Play This Set features writeups submitted by the community about existing sets and why you should give them a try. Whether you're looking to discover a new favorite or just need a reason to play something new, these writeups are sure to provide plenty of inspiration. So dive in, and get ready to take on a new set!
+
+
+## [Wish This Set](./wish-this-set.html)
 In this section, users share their thoughts on which games they would love to see have sets created for. Whether it's a beloved classic or an underrated gem, we want to hear about it. If you are a developer looking for a new set to work on, then look no further than right here.
 
 
@@ -119,8 +123,24 @@ If you have an idea for an article to be published in the RANews, please go to t
 Keep in mind that the article must be written in Markdown format. If you don't know it, you can learn it in 10 minutes following this online tutorial here: <https://commonmark.org/help/tutorial/> (it's pretty similar to what you may be already using on discord).
 
 
-## ---Acknowledgments
+## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                               |                                    |                                  |
-| ----------------------------- | ---------------------------------- | -------------------------------- |
+|                                 |                                      |                                 |
+| ------------------------------- | ------------------------------------ | ------------------------------- |
+| {% rauserpic 14ausher %}        | {% rauserpic AbrahamItchy %}         | {% rauserpic Alakatrore %}      |
+| {% rauserpic Amir96lx %}        | {% rauserpic AssClownKing %}         | {% rauserpic Bendyhuman %}      |
+| {% rauserpic BMT619 %}          | {% rauserpic Brandovsky %}           | {% rauserpic Burgins %}         |
+| {% rauserpic chirpchirp96 %}    | {% rauserpic cicadahuman %}          | {% rauserpic DevCompliance %}   |
+| {% rauserpic diablo666 %}       | {% rauserpic dumbFKNidiot %}         | {% rauserpic gamer097 %}        |
+| {% rauserpic groundedshikami %} | {% rauserpic Kijin %}                | {% rauserpic LocalS %}          |
+| {% rauserpic Mindez %}          | {% rauserpic MrOwnership %}          | {% rauserpic Nepiki %}          |
+| {% rauserpic Nevermond12 %}     | {% rauserpic Nydaxn %}               | {% rauserpic Obliv %}           |
+| {% rauserpic PaddyShade %}      | {% rauserpic PasokonDeacon %}        | {% rauserpic PenguGG %}         |
+| {% rauserpic pinguupinguu %}    | {% rauserpic QATeam %}               | {% rauserpic RANews %}          |
+| {% rauserpic Raykusen %}        | {% rauserpic Reekanomiks %}          | {% rauserpic RetroGameMaster %} |
+| {% rauserpic Sines %}           | {% rauserpic Snow %}                 | {% rauserpic SporyTike %}       |
+| {% rauserpic Stardy %}          | {% rauserpic StingX2 %}              | {% rauserpic Sutarion %}        |
+| {% rauserpic TeensiesKing %}    | {% rauserpic TheJohanx %}            | {% rauserpic TimeCrush %}       |
+| {% rauserpic Totempanic %}      | {% rauserpic TrogdorTheBurninator %} | {% rauserpic vikdarkbomb %}     |
+| {% rauserpic wolfman2000 %}     | {% rauserpic Xymjak %}               |                                 |
