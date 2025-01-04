@@ -309,14 +309,14 @@ Most First Masteries: {% rauserpic LordBBH %}
 Top 10 Earners:  
   1.  {% rauserpic LordBBH %} - 63 Points  
   2.  {% rauserpic Barra %} - 53 Points  
-  3.  {% rauserpic Trisscorp %} - 51 Points  
+  3.  {% rauserpic GundamStarRacer %} - 51 Points  
   4.  {% rauserpic Whoops %} - 45 Points  
-  5.  {% rauserpic Amir96lx %} - 44 Points  
-  6.  {% rauserpic CthulhuThe3rd %}- 41 Points  
-  7.  {% rauserpic Dazzer123456 %} - 41 Points  
-  8.  {% rauserpic jaydee03 %} - 41 Points  
-  9.  {% rauserpic Jungon %} - 40 Points  
-  10. {% rauserpic lizstar %} - 40 Points  
+  5.  {% rauserpic Substylee %} - 44 Points  
+  6.  {% rauserpic jaydee03 %}- 41 Points  
+  6.  {% rauserpic midgetstrawdog %} - 41 Points  
+  6.  {% rauserpic prismfighter %} - 41 Points  
+  9.  {% rauserpic limper %} - 40 Points  
+  9.  {% rauserpic spoorloos %} - 40 Points  
 
 
 ## Rack It Up

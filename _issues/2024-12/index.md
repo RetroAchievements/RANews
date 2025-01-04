@@ -18,7 +18,7 @@ Welcome to RANews, your #1 source for everything RetroAchievements. In this issu
 
 <br clear="right"/>
 
-## Holidays Poster
+## Holiday Poster
 Happy Holidays from the RANews team! Enjoy a poster with your two favorite RA mascots: **RAChan** and **Cheevo**.
 
 <p align="center">
