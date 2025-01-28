@@ -55,7 +55,7 @@ toc: true
         <tr>
             <td><br><a href="../img/SpotTheDifferenceAnswers/2024-10.png"><img src="../img/SpotTheDifferenceAnswers/2024-10.png" width="400"></a></td>
             <td><br><a href="../img/SpotTheDifferenceAnswers/2024-11.png"><img src="../img/SpotTheDifferenceAnswers/2024-11.png" width="400"></a></td>
-            <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2024-12.png"><img src="../img/SpotTheDifferenceAnswers/2024-12.png" width="400"></a></td> -->
+            <td><br><a href="../img/SpotTheDifferenceAnswers/2024-12.png"><img src="../img/SpotTheDifferenceAnswers/2024-12.png" width="400"></a></td>
         </tr>
     </tbody>
 </table>

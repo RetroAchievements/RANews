@@ -1,0 +1,236 @@
+
+new = new sets
+GameID | User(s)
+
+-------
+
+rev = revisions
+GameID | Status | User(s)
+
+C = Canceled
+D = Demotion (Completed)
+F = Finished
+W = WIP
+N = new
+
+-------
+
+res = rescores
+GameID | User(s) | Before | After
+
+-------
+
+art = badge and icons
+GameID | Type | User(s) | Before | After
+
+I = Icon
+B = Badge
+
+-----------------------------------------------------------------------------
+
+new	7273	Delmaru
+new	31197	multonic
+new	21700	Vancleef
+new	20751	Skiichi
+new	2728	AlexGatao
+new	777	Yurana
+new	31184	RyCuLe
+new	5552	MaddieKittyTV
+new	19056	Snow
+new	16516	SuperMeatBro
+new	12958	Atroyo
+new	5593	RyCuLe
+new	364	Excessiveiser
+new	12509	WatWuzDat
+new	31768	Kiutgh
+new	29083	KnusperBKN
+new	27957	MaddieKittyTV
+new	23799	Hdot12
+new	32004	Layton
+new	3077	Homuki
+new	32345	Monomaru
+new	5853	Bryan1150
+new	5056	WanderingHeiho
+new	31308	WanderingHeiho
+new	2343	Vancleef
+new	31925	ThatAmericanSlacker
+new	16337	DimensionBomber
+new	4111	joshraphael
+new	3319	NeonPug
+new	30021	Excessiveiser
+new	21107	WilHiteWarrior
+new	21108	WilHiteWarrior
+new	21109	WilHiteWarrior
+new	9746	bruhgamer
+new	32346	PaulGoesDEV
+new	20657	suspect15
+new	30988	blendedsea
+new	1239	Goodbite
+new	17506	Dimedime
+new	11094	ASolidSnack
+new	32486	Excessiveiser
+new	3257	Delmaru
+new	31202	Triforce
+new	32487	Layton
+new	30085	Player1041
+new	30085	Player1041
+new	21972	SuperMeatBro
+new	1741	AaronDobbe
+new	18315	WatWuzDat
+new	1856	zaydoc
+new	31886	Whithbrin
+new	21265	Excessiveiser
+new	32480	NeonPug
+new	4918	Vancleef
+new	1564	Suffa28
+new	10775	Jamiras
+new	25651	SuperMeatBro
+new	11514	ChocoMilk
+new	32532	Excessiveiser
+new	28133	blendedsea
+new	26279	Skiichi
+new	3909	decimate
+new	3089	RyCuLe
+new	7751	lj4kolb
+new	26276	Wulden
+new	27366	StingX2
+new	26550	Mendil
+new	18826	s0uth
+new	31885	Layton
+new	4561	zaydoc
+new	17001	Alena
+new	14373	Alena
+new	7748	Sikayduh
+new	30901	ojijo
+new	16624	kmpers
+new	17139	AshMetalRaf
+new	5365	AfroRyan
+new	30930	suXin
+new	9295	radiozebra
+new	11972	MrBot3
+new	15653	Searo
+new	3709	ladynadiad
+new	18829	solidification
+new	9939	drimakus300
+new	16945	zaydoc
+new	13124	PotatOS
+new	15626	ggodeny1
+new	20248	Mulbruk
+new	20648	raniejogos
+new	30918	solidification
+new	9492	KiwiTaco
+new	30329	Layton
+new	28922	Skiichi Raeyene
+new	27683	KniteRite
+new	32481	Yurana
+new	12705	Agnam
+new	18544	shnick1980
+new	19440	suspect15
+new	32562	PaulGoesDEV
+new	8220	Nisstq
+
+
+
+rev	14541	W	Sines
+rev	14437	W	Butternife
+rev	16193	W	stfN1337
+rev	10023	W	AfroRyan
+rev	14739	F	blueYOSHI
+rev	4874	W	DarknessZedzi
+rev	11268	W	Xalerzyx
+rev	677	W	blendedsea
+rev	17	F	Gorgar
+rev	11404	W	Xalerzyx
+rev	4	F	Wulden
+rev	31	F	Yanbetari
+rev	228	W	AuburnRDM
+rev	13908	C	Hexadigital
+rev	18648	W	Ghal416
+rev	5887	W	Alexgatao
+rev	10211	F	Whithbrin
+rev	1256	N	cdpowe
+rev	11309	N	BahamutVoid
+rev	2114	F	Gorgar
+rev	13904	F	TheMysticalOne
+rev	1899	F	TwosomesUP
+rev	13910	F	Griffin
+rev	18257	F	Tayadaoc scatter tomojin s0uth RyCuLe DarkyAndreas Gudra
+rev	5948	N	TheMysticalOne
+rev	4953	N	zaydoc
+
+
+
+art	469	I	xTr4ceur	https://media.retroachievements.org/Images/024525.png	https://media.retroachievements.org/Images/105305.png
+art	2647	I	blueYoshi	https://media.retroachievements.org/Images/079409.png	https://media.retroachievements.org/Images/105228.png
+art	12399	I	JustLilith	https://media.retroachievements.org/Images/048475.png	https://media.retroachievements.org/Images/105306.png
+art	16516	I	SuperMeatBro	https://media.retroachievements.org/Images/055744.png	https://media.retroachievements.org/Images/105284.png
+art	5045	I	Mulbruk	https://media.retroachievements.org/Images/035726.png	https://media.retroachievements.org/Images/105307.png
+art	10714	I	j32b	https://media.retroachievements.org/Images/025862.png	https://media.retroachievements.org/Images/105308.png
+art	2679	I	IDarkReaderW	https://media.retroachievements.org/Images/063012.png	https://media.retroachievements.org/Images/105341.png
+art	10076	I	j32b	https://media.retroachievements.org/Images/076408.png	https://media.retroachievements.org/Images/105342.png
+art	745	I	IDarkReaderW	https://media.retroachievements.org/Images/068339.png	https://media.retroachievements.org/Images/105343.png
+art	23763	I	IDarkReaderW	https://media.retroachievements.org/Images/087271.png	https://media.retroachievements.org/Images/105344.png
+art	2353	I	IDarkReaderW	https://media.retroachievements.org/Images/068495.png	https://media.retroachievements.org/Images/105376.png
+art	31	B	Yanbetari	https://i.imgur.com/Fcpq2ph.png	https://i.imgur.com/JU8xRbL.png
+art	20648	I	Typh	https://media.retroachievements.org/Images/070123.png	https://media.retroachievements.org/Images/105377.png
+art	986	I	JustLilith	https://media.retroachievements.org/Images/038246.png	https://media.retroachievements.org/Images/105378.png
+art	1510	I	IDarkReaderW	https://media.retroachievements.org/Images/070499.png	https://media.retroachievements.org/Images/105479.png
+art	986	B	JustLilith	https://i.imgur.com/u7YETc0.png	https://i.imgur.com/vq2BjRv.png
+art	723	I	Cruzelion	https://media.retroachievements.org/Images/092936.png	https://media.retroachievements.org/Images/105480.png
+art	576	I	Cruzelion	https://media.retroachievements.org/Images/105172.png	https://media.retroachievements.org/Images/105481.png
+art	1329	I	voiceofautumn	https://media.retroachievements.org/Images/042072.png	https://media.retroachievements.org/Images/105528.png
+art	14849	I	voiceofautumn	https://media.retroachievements.org/Images/044230.png	https://media.retroachievements.org/Images/105529.png
+art	10439	I	voiceofautumn	https://media.retroachievements.org/Images/014254.png	https://media.retroachievements.org/Images/105530.png
+art	14271	I	Aaamdacuaga	https://media.retroachievements.org/Images/105185.png	https://media.retroachievements.org/Images/105531.png
+art	1179	I	DaniWox	https://media.retroachievements.org/Images/039461.png	https://media.retroachievements.org/Images/105532.png
+art	9768	I	Sniwott	https://media.retroachievements.org/Images/073934.png	https://media.retroachievements.org/Images/105533.png
+art	4744	I	Cruzelion	https://media.retroachievements.org/Images/053325.png	https://media.retroachievements.org/Images/105534.png
+art	16290	I	Whynot15	https://media.retroachievements.org/Images/034706.png	https://media.retroachievements.org/Images/105564.png
+art	30055	I	tomojin	https://media.retroachievements.org/Images/103223.png	https://media.retroachievements.org/Images/105565.png
+art	6203	B	voiceofautumn	https://i.imgur.com/QTVByHw.png	https://i.imgur.com/SQ1trOs.png
+art	14852	I	tomojin	https://media.retroachievements.org/Images/039583.png	https://media.retroachievements.org/Images/105566.png
+art	4513	I	YoungFlexerOG	https://media.retroachievements.org/Images/092889.png	https://media.retroachievements.org/Images/105567.png
+art	21582	I	tomojin	https://media.retroachievements.org/Images/075559.png	https://media.retroachievements.org/Images/105568.png
+art	2686	I	Yurana	https://media.retroachievements.org/Images/056040.png	https://media.retroachievements.org/Images/105569.png
+art	2023	I	Whynot15	https://media.retroachievements.org/Images/013575.png	https://media.retroachievements.org/Images/105570.png
+art	14654	I	NeonPug	https://media.retroachievements.org/Images/055399.png	https://media.retroachievements.org/Images/105571.png
+art	70	I	NeonPug	https://media.retroachievements.org/Images/054584.png	https://media.retroachievements.org/Images/105572.png
+art	36707	I	cdpowe	https://media.retroachievements.org/Badge/37496.png	https://media.retroachievements.org/Badge/549576.png
+art	36697	I	cdpowe	https://media.retroachievements.org/Badge/37494.png	https://media.retroachievements.org/Badge/549577.png
+art	14050	I	Cruzelion	https://media.retroachievements.org/Images/034058.png	https://media.retroachievements.org/Images/105573.png
+art	1989	I	KnockerKrazy	https://media.retroachievements.org/Images/010341.png	https://media.retroachievements.org/Images/105580.png
+art	6836	I	KnockerKrazy	https://media.retroachievements.org/Images/048327.png	https://media.retroachievements.org/Images/105581.png
+art	7159	I	j32b	https://media.retroachievements.org/Images/047837.png	https://media.retroachievements.org/Images/105604.png
+art	11657	I	j32b	https://media.retroachievements.org/Images/061075.png	https://media.retroachievements.org/Images/105605.png
+art	16772	I	Manperson	https://media.retroachievements.org/Images/076923.png	https://media.retroachievements.org/Images/105607.png
+art	6159	I	Yurana	https://media.retroachievements.org/Images/069584.png	https://media.retroachievements.org/Images/105674.png
+art	6183	I	Yurana	https://media.retroachievements.org/Images/023470.png	https://media.retroachievements.org/Images/105675.png
+art	18146	I	Yurana	https://media.retroachievements.org/Images/058743.png	https://media.retroachievements.org/Images/105676.png
+art	7596	I	JustLilith	https://media.retroachievements.org/Images/078855.png	https://media.retroachievements.org/Images/105677.png
+art	7873	I	GameZone	https://media.retroachievements.org/Images/045162.png	https://media.retroachievements.org/Images/105696.png
+art	11196	I	JustLilith	https://media.retroachievements.org/Images/000001.png	https://media.retroachievements.org/Images/105734.png
+art	5325	I	JustLilith	https://media.retroachievements.org/Images/056835.png	https://media.retroachievements.org/Images/105735.png
+art	13910	B	Griffin	https://i.imgur.com/DlDcecL.png	https://i.imgur.com/Su27uFe.png
+art	7550	I	voiceofautumn	https://media.retroachievements.org/Images/039302.png	https://media.retroachievements.org/Images/105758.png
+art	8178	I	voiceofautumn	https://media.retroachievements.org/Images/009673.png	https://media.retroachievements.org/Images/105759.png
+art	797	I	voiceofautumn	https://media.retroachievements.org/Images/048182.png	https://media.retroachievements.org/Images/105760.png
+art	15024	I	Sutarion	https://media.retroachievements.org/Images/030895.png	https://media.retroachievements.org/Images/105761.png
+art	2276	I	LivRetro	https://media.retroachievements.org/Images/052081.png	https://media.retroachievements.org/Images/105762.png
+art	26048	I	MatheusBrazuca85	https://media.retroachievements.org/Images/095907.png	https://media.retroachievements.org/Images/105809.png
+art	2276	B	LivRetro	https://i.imgur.com/IYQPcxm.png	https://i.imgur.com/giXbBmo.png
+art	6639	I	SonilanSo6	https://media.retroachievements.org/Images/103349.png	https://media.retroachievements.org/Images/105810.png
+art	26792	I	JustLilith	https://media.retroachievements.org/Images/000001.png	https://media.retroachievements.org/Images/105811.png
+art	351	B	JustLilith	https://i.imgur.com/k2HngsB.png	https://i.imgur.com/39q8D1K.png
+art	9664	I	EfeNeptuno	https://media.retroachievements.org/Images/025144.png	https://media.retroachievements.org/Images/105842.png
+art	24969	I	BillyBnMOfficial	https://media.retroachievements.org/Images/102082.png	https://media.retroachievements.org/Images/105843.png
+art	1795	I	Typh	https://media.retroachievements.org/Images/011473.png	https://media.retroachievements.org/Images/105859.png
+art	10467	I	Typh	https://media.retroachievements.org/Images/086140.png	https://media.retroachievements.org/Images/105860.png
+art	22160	I	EfeNeptuno	https://media.retroachievements.org/Images/082706.png	https://media.retroachievements.org/Images/105862.png
+art	8024	I	VenHur	https://media.retroachievements.org/Images/000001.png	https://media.retroachievements.org/Images/105896.png
+art	2384	I	Shaoden	https://media.retroachievements.org/Images/058593.png	https://media.retroachievements.org/Images/105897.png
+art	14739	B	blueYoshi	https://i.imgur.com/hTN3bgu.png	https://i.imgur.com/f7LKxZ6.png
+art	4928	I	ZeeRA	https://media.retroachievements.org/Images/090166.png	https://media.retroachievements.org/Images/105968.png
+art	5212	I	EfeNeptuno	https://media.retroachievements.org/Images/069639.png	https://media.retroachievements.org/Images/105969.png
+art	1899	B	Fridge	https://i.imgur.com/NkuUP4h.png	https://i.imgur.com/0dZ0NYV.png
+art	16197	I	Cruzelion	https://media.retroachievements.org/Images/066716.png	https://media.retroachievements.org/Images/105970.png
+art	4568	B	LivRetro	https://i.imgur.com/oJRtUKZ.png	https://i.imgur.com/fWYwfpa.png
