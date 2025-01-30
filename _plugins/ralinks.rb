@@ -149,7 +149,7 @@ class RASystemPic < Liquid::Tag
     # Check for the 'joy' usage and remove that page link.
     # All other systems will point to a games page.
     if @system_id == 0
-      "<img class=\"rauserpic\" src=\"../../img/#{@system_icon_name}.png\"> #{@system_name}"
+      "<img class=\"rauserpic\" src=\"../../img/systems/#{@system_icon_name}.png\"> #{@system_name}"
     else
       "<a href=\"https://retroachievements.org/system/#{@system_id}/games\" target=\"_blank\" rel=\"noopener\"><img class=\"rauserpic\" src=\"https://static.retroachievements.org/assets/images/system/#{@system_icon_name}.png\"> #{@system_name}</a>"
     end
