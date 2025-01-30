@@ -52,27 +52,11 @@ AotW, as well as many other events, are now being automatically tracked on site.
 - Period: Ongoing
 - Hosts: {% rauserpic Sutarion %} and {% rauserpic AuburnRDM %}
 
-**Arcade Sets:** 85 (6 exempt from community goals)
-**Sets Beat:** 85 out of 85
-**Sets Mastered:** 76 out of 85
+**PC-8000/PC-8801 Sets**: 40  
+**Sets Beat**: 36 out of 40  
+**Sets Mastered**: 34 out of 40  
 
-The community goal for beating all the sets has been met! Every player that participates this season earns TWO bonus points! The Arcade season of PlayJam completed on November 30th! Next up is the PC-8801 and PC-8001 season!
-
-**Season 4 (Arcade) Results**  
-Total Participants: 648  
-Most First Masteries: {% rauserpic LordBBH %}  
-
-Top 10 Earners:  
-  1.  {% rauserpic LordBBH %} - 63 Points  
-  2.  {% rauserpic Barra %} - 53 Points  
-  3.  {% rauserpic GundamStarRacer %} - 51 Points  
-  4.  {% rauserpic Whoops %} - 45 Points  
-  5.  {% rauserpic Substylee %} - 44 Points  
-  6.  {% rauserpic jaydee03 %}- 41 Points  
-  6.  {% rauserpic midgetstrawdog %} - 41 Points  
-  6.  {% rauserpic prismfighter %} - 41 Points  
-  9.  {% rauserpic limper %} - 40 Points  
-  9.  {% rauserpic spoorloos %} - 40 Points  
+The PC-8000/PC-8801 season of PlayJam will be active until on February 28th!  
 
 
 ## Rack It Up
@@ -139,25 +123,19 @@ Top Players with 53 points:
 
 ## Challenge League: Ticket to the Universe
 
+
+{% ragamepic 32827, 106730, Challenge League 2024: Ticket to the Universe %}
+
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=24927>
 - Period: January 1st, 2024 - December 31st, 2024
 - Host: {% rauserpic RAEvents %}
-- Total Participants: 436
-- Total Nodes Cleared: 11,002
 
-**Board Clears:**
-- Ticket to the World (Board 1): 270 (61.9%)
-- Heroes Assemble (Board 2): 215 (49.3%)
-- Assault on the Dark Castle (Board 3): 189 (43.3%)
-- Ticket to the Stars (Board 4): 147 (33.7%)
-- Magitek Fusion (Board 5): 141 (32.3%)
-- Wings of Time (Board 6): 144 (33.0%)
-- Ticket to RA (Board 7): 132 (30.3%)
-- Challenge League Legends (Board 8): 124 (28.4%)
-- Event Horizon (Board 9): 111 (25.5%)
-
-This year's challenge league ends on December 31st, so be sure to clear those boards and get your submissions in!
-
+The badges for Challenge League 2024 have been awarded!  Here are the final results of this event:  
+**Total Participants**: 436  
+**Nodes Cleared**: 11,441  
+**Gold Badges**: 114  
+**Silver Badges**: 32  
+**Bronze Badges**: 56  
 
 ## Peak Streak
 

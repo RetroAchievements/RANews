@@ -102,14 +102,35 @@ Are you curious about which developers have contributed the most sets to RetroAc
 In this section, we challenge readers to put their observation skills to the test with a Spot the Difference game created by {% rauser SporyTike %} for the game {% ragame 10523, LocoRoco %}. There are 10 differences to find, and readers who spot them all will be featured in the next issue. So sharpen your eyes and get ready for some fun!
 
 
+## [RA Crossword](./crossword.html)
+Dive into the delightful challenge of our monthly crossword puzzle article, where words weave and letters dance! Unleash your inner wordsmith and conquer the clever clues that await in this months Crossword puzzle.
+
+
 ## How to Contribute with RANews
 If you have an idea for an article to be published in the RANews, please go to the {% rauser RANews %} profile page and send us a message.
 
 Keep in mind that the article must be written in Markdown format. If you don't know it, you can learn it in 10 minutes following this online tutorial here: <https://commonmark.org/help/tutorial/> (it's pretty similar to what you may be already using on discord).
 
 
-## ---Acknowledgments
+## Acknowledgments
 The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.
 
-|                                 |                                      |                                 |
-| ------------------------------- | ------------------------------------ | ------------------------------- |
+|                                      |                                    |                                      |
+| ------------------------------------ | ---------------------------------- | ------------------------------------ |
+| {% rauserpic 14ausher %}             | {% rauserpic AbrahamItchy %}       | {% rauserpic AmazingBaha %}          |
+| {% rauserpic Amir96lx %}             | {% rauserpic ASolidSnack %}        | {% rauserpic AssClownKing %}         |
+| {% rauserpic Bilalscape12 %}         | {% rauserpic Brandovsky %}         | {% rauserpic Burgins %}              |
+| {% rauserpic cicadahuman %}          | {% rauserpic crrool %}             | {% rauserpic DevCompliance %}        |
+| {% rauserpic DrewMHax0r %}           | {% rauserpic dumbFKNidiot %}       | {% rauserpic Eeveelution %}          |
+| {% rauserpic Enagonius %}            | {% rauserpic gamer097 %}           | {% rauserpic horrorqueen7 %}         |
+| {% rauserpic jamesbuc %}             | {% rauserpic jhonen124 %}          | {% rauserpic KelleyBean %}           |
+| {% rauserpic kylejohnston89 %}       | {% rauserpic MeloDeathAtmoBlack %} | {% rauserpic Mindez %}               |
+| {% rauserpic Mogul %}                | {% rauserpic mrmistermistermr %}   | {% rauserpic MrOwnership %}          |
+| {% rauserpic Nepiki %}               | {% rauserpic Nevermond12 %}        | {% rauserpic Nydaxn %}               |
+| {% rauserpic Obliv %}                | {% rauserpic PenguGG %}            | {% rauserpic pinguupinguu %}         |
+| {% rauserpic psychosailor1119 %}     | {% rauserpic QATeam %}             | {% rauserpic RANews %}               |
+| {% rauserpic Raykusen %}             | {% rauserpic RetroGameMaster %}    | {% rauserpic SegoeUI %}              |
+| {% rauserpic Sines %}                | {% rauserpic Snow %}               | {% rauserpic SporyTike %}            |
+| {% rauserpic StingX2 %}              | {% rauserpic TimeCrush %}          | {% rauserpic TrogdorTheBurninator %} |
+| {% rauserpic ViceroyOfMonteCristo %} | {% rauserpic vikdarkbomb %}        | {% rauserpic Wangfou %}              |
+| {% rauserpic Xymjak %}               | {% rauserpic ZuperG7 %}            |                                      |
