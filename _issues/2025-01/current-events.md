@@ -31,18 +31,27 @@ AotW, as well as many other events, are now being automatically tracked on site.
 
 ## DevJam
 
-- Forum topic: <https://retroachievements.org/viewtopic.php?t=22368>
+- Event Details: <https://docs.retroachievements.org/developer-docs/devjam.html>
 - Period: July 2023 - Current
 - Host: {% rauserpic televandalist %} and {% rauserpic AuburnRDM %}
-- Users tied in 1st with 6 points:
+- Current Jam: Apple II - Launches Feb 28th
 
-|{% rauserpic Sines %}|{% rauserpic pinguupinguu %}|{% rauserpic ThatAmericanSlacker %}|
-|{% rauserpic AdeptTempest %}|{% rauserpic Released %}|{% rauserpic Bilalscape12 %}|
-|{% rauserpic DoctorV %}|{% rauserpic DarkyAndreas %}|{% rauserpic Amir96lx %}|
-|{% rauserpic ladynadiad %}|{% rauserpic LiveFastCyYoung %}|{% rauserpic kmpers %}|
-|{% rauserpic LordAndrew %}|{% rauserpic Sutarion %}|{% rauserpic AfroRyan %}|
-|{% rauserpic Bl4h8L4hBl4h %}|{% rauserpic TheMysticalOne %}|{% rauserpic Hexadigital %}|
-|{% rauserpic Snow %}|{% rauserpic televandalist %}|{% rauserpic AuburnRDM %}|
+**Rankings:**  
+- 1st (30 points)
+  - {% rauserpic Hexadigital %}
+  - {% rauserpic LordAndrew %}
+  - {% rauserpic Sines %}
+  - {% rauserpic Snow %}
+  - {% rauserpic Sutarion %}
+  - {% rauserpic TheMysticalOne %}
+- 2nd (28 points)
+  - {% rauserpic televandalist %}
+- 3rd (24 points)
+  - {% rauserpic AfroRyan %}
+  - {% rauserpic Bl4h8L4hBl4h %}
+  - {% rauserpic kmpers %}
+  - {% rauserpic ladynadiad %}
+  - {% rauserpic tomojin %}
 
 
 ## PlayJam
