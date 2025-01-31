@@ -56,7 +56,7 @@ AotW, as well as many other events, are now being automatically tracked on site.
 
 ## PlayJam
 
-- Active Season: Arcade
+- Active Season: PC-8000/PC-8801
 - Forum topic: <https://retroachievements.org/viewtopic.php?t=27885>
 - Period: Ongoing
 - Hosts: {% rauserpic Sutarion %} and {% rauserpic AuburnRDM %}
