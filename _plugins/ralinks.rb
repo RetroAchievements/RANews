@@ -132,6 +132,32 @@ class RASystem < Liquid::Tag
   Liquid::Template.register_tag 'rasystem', self
 end
 
+class RASystemNoLink < Liquid::Tag
+  def initialize(tag_name, args, tokens)
+  super
+    @args = args.split(',').map(&:strip)
+  end
+
+  def render(context)
+    getSystemInfo(@args[0])
+
+    # Override any default name if one is passed in
+    if @args.size > 1
+      @system_name = @args[1]
+    end
+
+    # Check for the 'joy' usage and remove that page link.
+    # All other systems will point to a games page.
+    if @system_id == 0
+      ""
+    else
+      "#{@system_name}"
+    end
+  end
+  
+  Liquid::Template.register_tag 'rasystemnolink', self
+end
+
 class RASystemPic < Liquid::Tag
   def initialize(tag_name, args, tokens)
   super
@@ -156,6 +182,32 @@ class RASystemPic < Liquid::Tag
   end
   
   Liquid::Template.register_tag 'rasystempic', self
+end
+
+class RASystemPicNoLink < Liquid::Tag
+  def initialize(tag_name, args, tokens)
+  super
+    @args = args.split(',').map(&:strip)
+  end
+
+  def render(context)
+    getSystemInfo(@args[0])
+
+    # Override any default name if one is passed in
+    if @args.size > 1
+      @system_name = @args[1]
+    end
+
+    # Check for the 'joy' usage and remove that page link.
+    # All other systems will point to a games page.
+    if @system_id == 0
+      "<img class=\"rauserpic\" src=\"../../img/systems/#{@system_icon_name}.png\"> #{@system_name}"
+    else
+      "<img class=\"rauserpic\" src=\"https://static.retroachievements.org/assets/images/system/#{@system_icon_name}.png\"> #{@system_name}"
+    end
+  end
+  
+  Liquid::Template.register_tag 'rasystempicnolink', self
 end
 
 
@@ -336,9 +388,9 @@ def getSystemInfo(system)
     @system_name = 'Sega 32X'
     @system_id = 10
     @system_icon_name = '32x'
-  when 'sat', "37"
+  when 'sat', "39"
     @system_name = 'Sega Saturn'
-    @system_id = 37
+    @system_id = 39
     @system_icon_name = 'sat'
   when 'scd', "9"
     @system_name = 'Sega CD'
