@@ -59,7 +59,7 @@ toc_float: false
     </a>
 </div>
 <div class="section-link">
-    <a href="./Milestones.html">
+    <a href="./milestones.html">
         <div class="section-content">
             <h1 id="milestones">Milestones</h1>
             <p>In this section, we celebrate the user milestones reached this past month. We showcase user milestones ranging from total points to leaderboards joined, as well as developer milestones covering various aspects of the typical set developer. Whether you're a seasoned veteran or a newcomer to the site, we hope these highlights inspire you to push your own boundaries, achieve new goals and reach new milestones.</p>
@@ -139,7 +139,7 @@ toc_float: false
     </a>
 </div>
 <div class="section-link">
-    <a href="./with-this-set.html">
+    <a href="./wish-this-set.html">
         <div class="section-content">
             <h1 id="wish-this-set">Wish This Set</h1>
             <p>In this section, users share their thoughts on which games they would love to see have sets created for. Whether it's a beloved classic or an underrated gem, we want to hear about it. If you are a developer looking for a new set to work on, then look no further than right here.</p>
