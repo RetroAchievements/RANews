@@ -18,6 +18,8 @@ toc: true
 
 ## RAPatches
 
+[https://github.com/RetroAchievements/RAPatches](https://github.com/RetroAchievements/RAPatches)
+
 ### {% rasystempicnolink 1 %}
 
 | Game                                                                       | Patch Type | Patch Link                                                                                                                                                                                                        |
@@ -206,6 +208,8 @@ toc: true
 ***
 
 ## Lost Level Archive
+
+[https://github.com/televandalist/lost-level-archive](https://github.com/televandalist/lost-level-archive)
 
 ### {% rasystempicnolink 4 %}
 

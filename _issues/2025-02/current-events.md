@@ -208,7 +208,59 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Rankings:</strong></td>
-            <td></td>
+            <td>
+                <table>
+                    <thead>
+                        <tr>
+                            <th colspan=3>30 Points</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>{% rauserpic Hexadigital %}</td>
+                            <td>{% rauserpic LordAndrew %}</td>
+                            <td>{% rauserpic Sines %}</td>
+                        </tr>
+                        <tr>
+                            <td>{% rauserpic SnowPin %}</td>
+                            <td>{% rauserpic Sutarion %}</td>
+                            <td>{% rauserpic TheMysticalOne %}</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br>
+                <table>
+                    <thead>
+                        <tr>
+                            <th colspan=3>28 Points</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan=3>{% rauserpic televandalist %}</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br>
+                <table>
+                    <thead>
+                        <tr>
+                            <th colspan=3>24 Points</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>{% rauserpic AfroRyan %}</td>
+                            <td>{% rauserpic Bl4h8L4hBl4h %}</td>
+                            <td>{% rauserpic kmpers %}</td>
+                        </tr>
+                        <tr>
+                            <td>{% rauserpic ladynadiad %}</td>
+                            <td colspan=2>{% rauserpic tomojin %}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
         </tr>
     </tbody>
 </table>
@@ -239,7 +291,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Rankings:</strong></td>
-            <td></td>
+            <td>Results for the completion of Season 5 will provided in the next issue.</td>
         </tr>
     </tbody>
 </table>
@@ -270,31 +322,72 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Results:</strong></td>
-            <td>
-                <ul>
-                    <li>Month 55
-                        <ul>
-                            <li>Best Gamer: {% rauserpic  %}</li>
-                            <li>Best Dev Fixer: {% rauserpic  %}</li>
-                        </ul>
-                    </li>
-                </ul>
-                <ul>
-                    <li>Month 54
-                        <ul>
-                            <li>Best Gamer: {% rauserpic Tayadaoc %}</li>
-                            <li>Best Dev Fixer: {% rauserpic kmpers %}</li>
-                        </ul>
-                    </li>
-                </ul>
-                <ul>
-                    <li>Month 53
-                        <ul>
-                            <li>Best Gamer: {% rauserpic taz332fly %}</li>
-                            <li>Best Dev Fixer: {% rauserpic Sutarion %}</li>
-                        </ul>
-                    </li>
-                </ul>
+            <td>Month 55 Results<br><br>
+                <table>
+                    <thead>
+                        <tr>
+                            <th colspan=3>Platinum Awards</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>{% rauserpic 12353315 %}</td>
+                            <td colspan=2>{% ragamepic 14823, 048493, Super Monkey Ball: Touch & Roll %}</td>
+                        </tr>
+                        <tr>
+                            <td>{% rauserpic HappyCrabCo %}</td>
+                            <td colspan=2>{% ragamepic 14266, 046098, Scrapyard Dog %}</td>
+                        </tr>
+                        <tr>
+                            <td rowspan=3>{% rauserpic MelodyAsh %}</td>
+                        </tr>
+                        <tr>
+                            <td colspan=2>{% ragamepic 4691, 025742, Iridion II %}</td>
+                        </tr>
+                        <tr>
+                            <td colspan=2>{% ragamepic 10204, 014787, Wave Race %}</td>
+                        </tr>
+                        <tr>
+                            <td>{% rauserpic UsedForks %}</td>
+                            <td colspan=2>{% ragamepic 4691, 025742, Iridion II %}</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br>
+                <table>
+                    <thead>
+                        <tr>
+                            <th colspan=3>3 Tier Qualification</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>{% rauserpic 12353315 %}</td>
+                            <td>{% rauserpic alundra82 %}</td>
+                            <td>{% rauserpic DeeCee %}</td>
+                        </tr>
+                        <tr>
+                            <td>{% rauserpic HappyCrabCo %}</td>
+                            <td>{% rauserpic Jurbadis %}</td>
+                            <td>{% rauserpic MelodyAsh %}</td>
+                        </tr>
+                        <tr>
+                            <td>{% rauserpic Meremorem %}</td>
+                            <td>{% rauserpic PaddyShade %}</td>
+                            <td>{% rauserpic Retrokaiser %}</td>
+                        </tr>
+                        <tr>
+                            <td>{% rauserpic RyCuLe %}</td>
+                            <td>{% rauserpic s0uth %}</td>
+                            <td>{% rauserpic samtimes %}</td>
+                        </tr>
+                        <tr>
+                            <td>{% rauserpic Sartoonel %}</td>
+                            <td>{% rauserpic Sobou %}</td>
+                            <td>{% rauserpic Sutarion %}</td>
+                        </tr>
+                    </tbody>
+                </table>
             </td>
         </tr>
     </tbody>

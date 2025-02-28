@@ -85,16 +85,8 @@ toc_float: false
 <div class="section-link">
     <a href="./rack-it-up-editorial-1.html">
         <div class="section-content">
-            <h1 id="rack-it-up-editorial">-Rack It Up Editorial</h1>
-            <p>...</p>
-        </div>
-    </a>
-</div>
-<div class="section-link">
-    <a href="./weekly-topics.html">
-        <div class="section-content">
-            <h1 id="weekly-topics">?? Weekly Topics</h1>
-            <p>Discord's Weekly Topics channel is back. Check out some of the topics highlights covering games that would benefit from a multiplayer set, favorite memories of the Super Nintendo, user experiences with randomizers, favorite christmas gaming memories, and favorite sets from 2024. Join in on the discussions in the `#weekly-topic` Discord channel.</p>
+            <h1 id="rack-it-up-editorial">Rack It Up Editorial</h1>
+            <p>This month's featured Rack It Up Editorial dives into some of the lesser know Wii titles that may get a future set on RA. From using the Wii motion controls to go fishing to swinging a club on the links. Wii games are sure to add a twist to achievement hunting in RetroAchievement's future.</p>
         </div>
     </a>
 </div>
@@ -107,26 +99,26 @@ toc_float: false
     </a>
 </div>
 <div class="section-link">
+    <a href="./rapodcast.html">
+        <div class="section-content">
+            <h1 id="rapodcast">RAPodcast</h1>
+            <p>Join the RetroAchievements community and listen to the latest RAPodcasts. This months podcast has our host, TimeCrush, discussing with Ghal416 their experience at RetroAchievements, mastering new game techniques, and the ultimate satisfaction of leveling up their gaming skills.</p>
+        </div>
+    </a>
+</div>
+<div class="section-link">
     <a href="./jr-developer-program.html">
         <div class="section-content">
-            <h1 id="jr-developer-program">-Jr. Developer Program</h1>
-            <p>...</p>
+            <h1 id="jr-developer-program">Jr. Developer Program</h1>
+            <p>The Junior Developer program is the entrypoint into set development. Run by the Code Reviewer team, this program offers users interested in developing achievement sets the necessary environment for development support and set reviews. Here we take a look at the sets reviewed and promoted from the previous month as well as a little bit about the game that might interest you in trying it out.</p>
         </div>
     </a>
 </div>
 <div class="section-link">
     <a href="./rapatches.html">
         <div class="section-content">
-            <h1 id="rapatches-and-lost-level-archive">-RAPatches and Lost Level Archive</h1>
-            <p>...</p>
-        </div>
-    </a>
-</div>
-<div class="section-link">
-    <a href="./rapodcast.html">
-        <div class="section-content">
-            <h1 id="rapodcast">-RAPodcast</h1>
-            <p>...</p>
+            <h1 id="rapatches-and-lost-level-archive">RAPatches and Lost Level Archive</h1>
+            <p>Hash management and tracking has always been an uphill battle. Homebrew, hacks, and patches are supported throughout a wide variety of games and system on RetroAchievements. tele has been on the front line of this battle for many years in an attempt to keep up with never ending list of liked hashes. Let's take a look at the latest hashes that have been organized into the RAPatches repo and Lost Level Archives last month.</p>
         </div>
     </a>
 </div>
@@ -149,8 +141,8 @@ toc_float: false
 <div class="section-link">
     <a href="./raguide.html">
         <div class="section-content">
-            <h1 id="raguide">-RAGuide</h1>
-            <p>...</p>
+            <h1 id="raguide">RAGuide</h1>
+            <p>Unleash power of the celestial brush with the achievement guide for Okami on the PS2. Take control of Okami Amaterasu, goddess of the sun, as you journey to restore beauty and balance to a world consumed by darkness. Master divine techniques, defeat daunting foes, and uncover hidden secrets in this legendary adventure.</p>
         </div>
     </a>
 </div>
@@ -227,14 +219,6 @@ toc_float: false
     </a>
 </div>
 <div class="section-link">
-    <a href="./crossword.html">
-        <div class="section-content">
-            <h1 id="crossword">?? RA Crossword</h1>
-            <p>Dive into the delightful challenge of our monthly crossword puzzle article, where words weave and letters dance! Unleash your inner wordsmith and conquer the clever clues that await in this months Crossword puzzle.</p>
-        </div>
-    </a>
-</div>
-<div class="section-link">
     <div class="section-content">
         <h1 id="how-to-contribute">How to Contribute</h1>
         <p>
@@ -251,86 +235,87 @@ toc_float: false
             <tr>
                 <td>{% rauserpic 1stPrize %}</td>
                 <td>{% rauserpic Amir96lx %}</td>
-                <td>{% rauserpic Bilalscape12 %}</td>
+                <td>{% rauserpic authorblues %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic Bilalscape12 %}</td>
                 <td>{% rauserpic Brandovsky %}</td>
                 <td>{% rauserpic chirpchirp96 %}</td>
-                <td>{% rauserpic cicadahuman %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic cicadahuman %}</td>
                 <td>{% rauserpic Cushionydragon3 %}</td>
                 <td>{% rauserpic DevCompliance %}</td>
-                <td>{% rauserpic DrJordo %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic DrJordo %}</td>
                 <td>{% rauserpic enjoyerguy2 %}</td>
                 <td>{% rauserpic furrinsano %}</td>
-                <td>{% rauserpic gameburke %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic gameburke %}</td>
                 <td>{% rauserpic gamer097 %}</td>
                 <td>{% rauserpic Gollawiz %}</td>
-                <td>{% rauserpic Julysse %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic Julysse %}</td>
                 <td>{% rauserpic JustAnotherPoppet %}</td>
                 <td>{% rauserpic Lanius %}</td>
-                <td>{% rauserpic LeeD %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic LeeD %}</td>
                 <td>{% rauserpic ManyHours %}</td>
                 <td>{% rauserpic MCBirdie %}</td>
-                <td>{% rauserpic MrOwnership %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic MrOwnership %}</td>
                 <td>{% rauserpic Nepiki %}</td>
                 <td>{% rauserpic Nevermond12 %}</td>
-                <td>{% rauserpic Nydaxn %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic Nydaxn %}</td>
                 <td>{% rauserpic Obliv %}</td>
                 <td>{% rauserpic pinguupinguu %}</td>
-                <td>{% rauserpic QATeam %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic QATeam %}</td>
                 <td>{% rauserpic r0ach3d %}</td>
                 <td>{% rauserpic RANews %}</td>
-                <td>{% rauserpic Raykusen %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic Raykusen %}</td>
                 <td>{% rauserpic RetroGameMaster %}</td>
                 <td>{% rauserpic RetroVanny %}</td>
-                <td>{% rauserpic scatter %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic scatter %}</td>
                 <td>{% rauserpic ShabaDaba %}</td>
                 <td>{% rauserpic ShagthePoker %}</td>
-                <td>{% rauserpic Sines %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic Sines %}</td>
                 <td>{% rauserpic Snow %}</td>
                 <td>{% rauserpic SpiritOfRei %}</td>
-                <td>{% rauserpic spoorloos %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic spoorloos %}</td>
                 <td>{% rauserpic SporyTike %}</td>
                 <td>{% rauserpic StingX2 %}</td>
-                <td>{% rauserpic stupidcatgirl %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic stupidcatgirl %}</td>
                 <td>{% rauserpic televandalist %}</td>
                 <td>{% rauserpic theelkspeaks %}</td>
-                <td>{% rauserpic TheRailnerd %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic TheRailnerd %}</td>
                 <td>{% rauserpic TimeCrush %}</td>
                 <td>{% rauserpic Trisscorp %}</td>
-                <td>{% rauserpic vikdarkbomb %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic vikdarkbomb %}</td>
                 <td>{% rauserpic xevious1974 %}</td>
-                <td colspan=2>{% rauserpic Xymjak %}</td>
+                <td>{% rauserpic Xymjak %}</td>
             </tr>
         </tbody></table>
     </div>
