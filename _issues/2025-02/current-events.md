@@ -39,8 +39,8 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
 | Non-Automated Evergreen Events                                           | Details                                                                                         |
 | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
 | {% ragamepic 28942, 091993, Daily DistRActions Season 1 - Evergreen %}   | Complete all 90 distractions in order.                                                          |
-| {% ragamepic 31490, 104542, Bounty Hunters 2024 - Evergreen %}           | Complete all 54 challenges rolled for you.                                                      |
-| {% ragamepic 32829, 106741, Rack It Up %}                                | Complete all 90 tasks featured in the event.                                                    |
+| {% ragamepic 31490, 104542, Bounty Hunters 2024 - Evergreen %}           | Complete all 90 challenges rolled for you.                                                      |
+| {% ragamepic 32829, 106741, Rack It Up %}                                | Complete all 54 tasks featured in the event.                                                    |
 | {% ragamepic 32834, 106762, Challenge League - Evergreen %}              | Complete all 58 tasks featured during the event.                                                |
 | {% ragamepic 28434, 089210, Challenge League: The Top 100 - Evergreen %} | Earn 100 points by completing challenges inspired by 100 key users from RA’s past and present.  |
 | {% ragamepic 32835, 106767, Challenge League 2024 - Evergreen %}         | Clear 9 boards by beating games that fit specific criteria, such as genres, themes, and series! |
