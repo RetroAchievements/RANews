@@ -1,6 +1,6 @@
 ---
-issue: 2025-02
-order: 202502-08
+issue: 2025-03
+order: 202503-08
 layout: article
 category: Current Events
 title: Current Events
@@ -74,7 +74,38 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Rankings:</strong></td>
-            <td>176 users are currently tied in first place with 11 points.<br><br>Check out the game page for the up to date rankings.</td>
+            <td>156 users are currently tied in first place with 15 points.<br><br>Check out the game page for the up to date rankings.</td>
+        </tr>
+    </tbody>
+</table>
+
+## 75 Years of F1 RAcing
+
+<table>
+    <tbody>
+        <tr>
+            <td><strong>Event Page:</strong></td>
+            <td>{% ragamepic 33092, 109255, 75 Years of F1 RAcing %}</td>
+        </tr>
+        <tr>
+            <td><strong>Event Summary:</strong></td>
+            <td>Earn checkered flags by beating sets, mastering sets, and completing bonus tracks in racing games.</td>
+        </tr>
+        <tr>
+            <td><strong>Event Information:</strong></td>
+            <td><a href="https://retroachievements.org/viewtopic.php?t=30108">https://retroachievements.org/viewtopic.php?t=30108</a></td>
+        </tr>
+        <tr>
+            <td><strong>Duration:</strong></td>
+            <td>Active from 3/13/25 - 7/6/25</td>
+        </tr>
+        <tr>
+            <td><strong>Host(s):</strong></td>
+            <td>{% rauserpic RAEvents %}</td>
+        </tr>
+        <tr>
+            <td><strong>Rankings:</strong></td>
+            <td>N/A</td>
         </tr>
     </tbody>
 </table>
@@ -105,29 +136,21 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Rankings:</strong></td>
-            <td>11 Users tied in first with 12 points:<br><br>
-                <table><tbody>
-                    <tr>
-                        <td>{% rauserpic Agnam %}</td>
-                        <td>{% rauserpic WanderingHeiho %}</td>
-                        <td>{% rauserpic CMatador %}</td>
-                    </tr>
-                    <tr>
-                        <td>{% rauserpic MRX1997IT %}</td>
-                        <td>{% rauserpic ozeiaslucas %}</td>
-                        <td>{% rauserpic Tyrota %}</td>
-                    </tr>
-                    <tr>
-                        <td>{% rauserpic Guswise %}</td>
-                        <td>{% rauserpic Verros %}</td>
-                        <td>{% rauserpic HungryWalnut %}</td>
-                    </tr>
-                    <tr>
-                        <td>{% rauserpic Sylrifaide %}</td>
-                        <td colspan=2>{% rauserpic WeerDough %}</td>
-                    </tr>
-                </tbody></table>
-                <br><br>Check out the game page for the up to date rankings.
+            <td>
+                <ol>
+                    <li value="1">{% rauserpic Tyrota %} - 24 Points</li>
+                    <li value="1">{% rauserpic WanderingHeiho %} - 24 Points</li>
+                    <li value="1">{% rauserpic CMatador %} - 24 Points</li>
+                    <li value="1">{% rauserpic TanteiRotana %} - 24 Points</li>
+                    <li value="1">{% rauserpic ozeiaslucas %} - 24 Points</li>
+                    <li value="1">{% rauserpic ThatWhiteBat %} - 24 Points</li>
+                    <li value="7">{% rauserpic monfredi77 %} - 23 Points</li>
+                    <li value="7">{% rauserpic rWaishler %} - 23 Points</li>
+                    <li value="7">{% rauserpic LeeD %} - 23 Points</li>
+                    <li value="7">{% rauserpic Reeve42 %} - 23 Points</li>
+                    <li value="7">{% rauserpic Greyfalken %} - 23 Points</li>
+                </ol>
+                <br>Check out the game page for the up to date rankings.
             </td>
         </tr>
     </tbody>
@@ -155,23 +178,23 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Notable Details:</strong></td>
-            <td>Board 2: February 15th - March 31st</td>
+            <td>Board 2: February 15th - March 31st<br>Board 3: April 1 - May 15</td>
         </tr>
         <tr>
             <td><strong>Rankings:</strong></td>
             <td>
                 <ol>
+                    <li value="1">{% rauserpic CassetteCobra %} - 57 SPs, 2 Stamps</li>
+                    <li value="1">{% rauserpic Pikapals %} - 57 SPs, 2 Stamps</li>
+                    <li value="1">{% rauserpic Reeve42 %} - 57 SPs, 2 Stamps</li>
+                    <li value="1">{% rauserpic TrashPaddy %} - 57 SPs, 2 Stamps</li>
                     <li value="1">{% rauserpic Tyrota %} - 57 SPs, 2 Stamps</li>
-                    <li value="2">{% rauserpic CassetteCobra %} - 55 SPs, 2 Stamps</li>
-                    <li value="3">{% rauserpic orangepeelbeef %} - 54 SPs, 2 Stamps</li>
-                    <li value="4">{% rauserpic BubbleRoxie %} - 29 SPs, 1 Stamp</li>
-                    <li value="4">{% rauserpic chris316 %} - 29 SPs, 1 Stamp</li>
-                    <li value="4">{% rauserpic DeeCee %} - 29 SPs, 1 Stamp</li>
-                    <li value="4">{% rauserpic giullianon %} - 29 SPs, 1 Stamp</li>
-                    <li value="4">{% rauserpic Mindez %} - 29 SPs, 1 Stamp</li>
-                    <li value="4">{% rauserpic Pikapals %} - 29 SPs, 1 Stamp</li>
-                    <li value="4">{% rauserpic Reeve42 %} - 29 SPs, 1 Stamp</li>
-                    <li value="4">{% rauserpic PaddyShade %} - 29 SPs, 1 Stamp</li>
+                    <li value="1">{% rauserpic Whynot15 %} - 57 SPs, 2 Stamps</li>
+                    <li value="7">{% rauserpic orangepeelbeef %} - 54 SPs, 2 Stamps</li>
+                    <li value="8">{% rauserpic Sutarion %} - 40 SPs, 2 Stamps</li>
+                    <li value="9">{% rauserpic Adenothe %} - 37 SPs, 2 Stamps</li>
+                    <li value="9">{% rauserpic geekiespice %} - 37 SPs, 2 Stamps</li>
+                    <li value="9">{% rauserpic speedneedle %} - 37 SPs, 2 Stamps</li>
                 </ol>
             </td>
         </tr>
@@ -184,7 +207,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
     <tbody>
         <tr>
             <td><strong>Event Page:</strong></td>
-            <td>{% ragamepic 30000, 093300, DevJam Vol. 1 %}</td>
+            <td>{% ragamepic 20000, 093300, DevJam Vol. 1 %}</td>
         </tr>
         <tr>
             <td><strong>Event Summary:</strong></td>
@@ -204,11 +227,12 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Notable Details:</strong></td>
-            <td>Apple II jam ends February 28th</td>
+            <td>Sega CD and Sega 32X jam starts April 1st</td>
         </tr>
         <tr>
             <td><strong>Rankings:</strong></td>
             <td>
+                Apple II Jam Results<br><br>
                 <table>
                     <thead>
                         <tr>
@@ -287,11 +311,25 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Notable Details:</strong></td>
-            <td>Games are changed every 3 months. Season 5 (PC-8800) ends February 28th</td>
+            <td>The Apple II season of PlayJam will be active until on June 30th!</td>
         </tr>
         <tr>
             <td><strong>Rankings:</strong></td>
-            <td>Results for the completion of Season 5 will provided in the next issue.</td>
+            <td>Apple II Sets: 37<br>
+                Sets Beat: 37 out of 37<br>
+                Sets Mastered: 37 out of 37<br><br>
+                PC-88 PlayJam results:<br>
+                Most First Masteries: {% rauserpic Trisscorp %} - 5 masteries<br>
+                Most Points: <br>
+                <ol>
+                    <li value="1">{% rauserpic HungryWalnut %} - 41 Points</li>
+                    <li value="2">{% rauserpic Jungon %} - 38 Points</li>
+                    <li value="3">{% rauserpic Nanashi %} - 27 Points</li>
+                    <li value="4">{% rauserpic jaydee03 %} - 21 Points</li>
+                    <li value="5">{% rauserpic DandyLlon %} - 20 Points</li>
+                    <li value="5">{% rauserpic Mindhral %} - 20 Points</li>
+                </ol>
+            </td>
         </tr>
     </tbody>
 </table>
@@ -322,7 +360,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Results:</strong></td>
-            <td>Month 55 Results<br><br>
+            <td>Month 56 Results<br><br>
                 <table>
                     <thead>
                         <tr>
@@ -331,25 +369,16 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     </thead>
                     <tbody>
                         <tr>
-                            <td>{% rauserpic 12353315 %}</td>
-                            <td colspan=2>{% ragamepic 14823, 048493, Super Monkey Ball: Touch & Roll %}</td>
+                            <td>{% rauserpic genesislover %}</td>
+                            <td colspan=2>{% ragamepic 1599, 011737, Burai Fighter %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic HappyCrabCo %}</td>
-                            <td colspan=2>{% ragamepic 14266, 046098, Scrapyard Dog %}</td>
+                            <td>{% rauserpic Voltgloss %}</td>
+                            <td colspan=2>{% ragamepic 9451, 073906, Ys III: Wanderers from Ys %}</td>
                         </tr>
                         <tr>
-                            <td rowspan=3>{% rauserpic MelodyAsh %}</td>
-                        </tr>
-                        <tr>
-                            <td colspan=2>{% ragamepic 4691, 025742, Iridion II %}</td>
-                        </tr>
-                        <tr>
-                            <td colspan=2>{% ragamepic 10204, 014787, Wave Race %}</td>
-                        </tr>
-                        <tr>
-                            <td>{% rauserpic UsedForks %}</td>
-                            <td colspan=2>{% ragamepic 4691, 025742, Iridion II %}</td>
+                            <td>{% rauserpic Xymjak %}</td>
+                            <td colspan=2>{% ragamepic 9451, 073906, Ys III: Wanderers from Ys %}</td>
                         </tr>
                     </tbody>
                 </table>
@@ -362,29 +391,22 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     </thead>
                     <tbody>
                         <tr>
-                            <td>{% rauserpic 12353315 %}</td>
-                            <td>{% rauserpic alundra82 %}</td>
                             <td>{% rauserpic DeeCee %}</td>
-                        </tr>
-                        <tr>
                             <td>{% rauserpic HappyCrabCo %}</td>
                             <td>{% rauserpic Jurbadis %}</td>
+                        </tr>
+                        <tr>
+                            <td>{% rauserpic Limper %}</td>
                             <td>{% rauserpic MelodyAsh %}</td>
+                            <td>{% rauserpic NEOMAR %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic Meremorem %}</td>
-                            <td>{% rauserpic PaddyShade %}</td>
-                            <td>{% rauserpic Retrokaiser %}</td>
-                        </tr>
-                        <tr>
-                            <td>{% rauserpic RyCuLe %}</td>
                             <td>{% rauserpic s0uth %}</td>
-                            <td>{% rauserpic samtimes %}</td>
+                            <td>{% rauserpic TrashPaddy %}</td>
+                            <td>{% rauserpic Whynot15 %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic Sartoonel %}</td>
-                            <td>{% rauserpic Sobou %}</td>
-                            <td>{% rauserpic Sutarion %}</td>
+                            <td colspan=3>{% rauserpic Xymjak %}</td>
                         </tr>
                     </tbody>
                 </table>
@@ -417,16 +439,16 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
             <td><strong>Rankings:</strong></td>
             <td>
                 <ol>
-                    <li value="1" >{% rauserpic NEOMAR %}<sup>**</sup> - 1,145 Points</li>
-                    <li value="2" >{% rauserpic Lonoke31 %}<sup>**</sup> - 1062 Points</li>
-                    <li value="3" >{% rauserpic Sutarion %}<sup>**</sup> - 853 Points</li>
-                    <li value="4" >{% rauserpic Timmay %}<sup>**</sup> - 843 Points</li>
-                    <li value="5" >{% rauserpic Amir96lx %}<sup>**</sup> - 787 Points</li>
-                    <li value="6" >{% rauserpic MiningMario %}<sup>**</sup> - 751 Points</li>
-                    <li value="7" >{% rauserpic Advent %} - 523 Points</li>
-                    <li value="8" >{% rauserpic NeoRetroGamer %}<sup>**</sup> - 411 Points</li>
-                    <li value="9" >{% rauserpic Tayadaoc %}<sup>**</sup> - 399 Points</li>
-                    <li value="10">{% rauserpic Hexcreed %} - 380 Points</li>
+                    <li value="1" > {% rauserpic NEOMAR %}<sup>**</sup> - 1172 Points</li>
+                    <li value="2" > {% rauserpic Lonoke31 %}<sup>**</sup> - 1089 Points</li>
+                    <li value="3" > {% rauserpic Sutarion %}<sup>**</sup> - 880 Points</li>
+                    <li value="4" > {% rauserpic Timmay %}<sup>**</sup> - 870 Points</li>
+                    <li value="5" > {% rauserpic AmirGaris %}<sup>**</sup> - 814 Points</li>
+                    <li value="6" > {% rauserpic MiningMario %}<sup>**</sup> - 778 Points</li>
+                    <li value="7" > {% rauserpic Advent %} - 523 Points</li>
+                    <li value="8" > {% rauserpic NeoRetroGamer %}<sup>**</sup> - 438 Points</li>
+                    <li value="9" > {% rauserpic pitapocket17 %}<sup>**</sup> - 406 Points</li>
+                    <li value="10"> {% rauserpic Tayadaoc %} - 404 Points</li>
                 </ol>
                 <br><sup>**</sup> Active Streak
             </td>
@@ -473,30 +495,28 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <li value="1" >{% rauserpic AuburnRDM %} - 313 Points</li>
                             <li value="2" >{% rauserpic NEOMAR %} - 287 Points</li>
                             <li value="3" >{% rauserpic MarioKness %} - 284 Points</li>
-                            <li value="4" >{% rauserpic JAM %} - 231 Points</li>
-                            <li value="5" >{% rauserpic Dako9767845 %} - 226 Points</li>
-                            <li value="6" >{% rauserpic Adenothe %} - 224 Points</li>
-                            <li value="7" >{% rauserpic Etron %} - 224 Points</li>
-                            <li value="8" >{% rauserpic multonic %} - 213 Points</li>
-                            <li value="9" >{% rauserpic Amir96lx %} - 210 Points</li>
-                            <li value="10">{% rauserpic kmpers %} - 209 Points</li>
-                            <li value="10">{% rauserpic oddgoo %} - 209 Points</li>
+                            <li value="4" >{% rauserpic Adenothe %} - 238 Points</li>
+                            <li value="5" >{% rauserpic JAM %} - 233 Points</li>
+                            <li value="6" >{% rauserpic Xymjak %} - 231 Points</li>
+                            <li value="7" >{% rauserpic Dako9767845 %} - 226 Points</li>
+                            <li value="8" >{% rauserpic Etron %} - 224 Points</li>
+                            <li value="9" >{% rauserpic kmpers %} - 219 Points</li>
+                            <li value="10">{% rauserpic multonic %} - 215 Points</li>
                         </ol>
                     </td>
                     <td style="vertical-align: top;">
                         <ol>
-                            <li value="1">{% rauserpic Bartis1989 %} - 10 Points</li>
-                            <li value="2">{% rauserpic kmpers %} - 7 Points</li>
-                            <li value="3">{% rauserpic Pikur %} - 5 Points</li>
-                            <li value="3">{% rauserpic Aeliana %} - 5 Points</li>
-                            <li value="3">{% rauserpic ChocoMilk %} - 5 Points</li>
-                            <li value="6">{% rauserpic Xionx %} - 3 Points</li>
-                            <li value="6">{% rauserpic HybridStatic %} - 3 Points</li>
-                            <li value="6">{% rauserpic Prota %} - 3 Points</li>
-                            <li value="6">{% rauserpic Adenothe %} - 3 Points</li>
-                            <li value="6">{% rauserpic Blatancy %} - 3 Points</li>
-                            <li value="6">{% rauserpic Christian5 %} - 3 Points</li>
-                            <li value="6">{% rauserpic Doggy227 %} - 3 Points</li>
+                            <li value="1">{% rauserpic Pikur %} - 15 Points</li>
+                            <li value="1">{% rauserpic Aeliana %} - 15 Points</li>
+                            <li value="3">{% rauserpic Bartis1989 %} - 14 Points</li>
+                            <li value="4">{% rauserpic kmpers %} - 13 Points</li>
+                            <li value="5">{% rauserpic Shippoppy %} - 11 Points</li>
+                            <li value="6">{% rauserpic NoviceAT %} - 10 Points</li>
+                            <li value="7">{% rauserpic ChoccyMilk %} - 9 Points</li>
+                            <li value="7">{% rauserpic Christian5 %} - 9 Points</li>
+                            <li value="9">{% rauserpic Prota %} - 7 Points</li>
+                            <li value="9">{% rauserpic MetalShadowOverlord %} - 7 Points</li>
+                            <li value="9">{% rauserpic CuddleBugs %} - 7 Points</li>
                         </ol>
                     </td>
                 </tr>
