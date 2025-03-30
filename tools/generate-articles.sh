@@ -313,6 +313,7 @@ createRawList() {
   done <<< "$(sed 's/\r$//' "${inputFile}")"
 
   sort -o "${rawFile}" "${rawFile}"
+  sed -i 's/\.png::::::/\.png:::-:::/g' "${rawFile}"
 }
 
 parseAuthors() {

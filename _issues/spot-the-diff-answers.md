@@ -18,7 +18,7 @@ toc: true
         </thead>
         <tr>
             <td><br><a href="../img/SpotTheDifferenceAnswers/2025-01.png"><img src="../img/SpotTheDifferenceAnswers/2025-01.png" width="400"></a></td>
-            <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2025-02.png"><img src="../img/SpotTheDifferenceAnswers/2025-02.png" width="400"></a></td> -->
+            <td><br><a href="../img/SpotTheDifferenceAnswers/2025-02.png"><img src="../img/SpotTheDifferenceAnswers/2025-02.png" width="400"></a></td>
             <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2025-03.png"><img src="../img/SpotTheDifferenceAnswers/2025-03.png" width="400"></a></td> -->
         <!-- </tr>
         <thead>
