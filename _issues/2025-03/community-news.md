@@ -7,7 +7,7 @@ title: Community News
 toc: true
 ---
 
-## RetroAchievements on Bluekky
+## RetroAchievements on Bluesky
 
 RetroAchievements is now available on Bluesky! If you are using this platform as well, please consider giving us a follow at [https://bsky.app/profile/retroachievements.org](https://bsky.app/profile/retroachievements.org).
 
