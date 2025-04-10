@@ -23,10 +23,6 @@ What to expect from this issue.
 See how the community voted on the latest Set of the Month polls.
 
 
-### CheevoHunter
-Learn about [CheevoHunter](https://cheevohunter.com/), the all in one game progress completion tracker for RetroAchievements! {% rauser TheRealBillHicks %} sits down with {% rauser hankchill %} to discuss the creation and inspiration behind the projetc.
-
-
 ### It's a Long Way to the Top
 {% rauser TimeCrush %} interviews N64's best of the best {% rauser Pampa50 %}.
 
