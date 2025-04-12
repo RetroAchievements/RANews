@@ -220,9 +220,9 @@ toc: true
 | {% ragamepic 10110, 107798, Perfect Dark %}             | {% rauser salvadorbastard %} | <img class="gameicon" src="https://media.retroachievements.org/Images/054257.png"> |
 | {% ragamepic 10186, 109666, Ridge Racer 64 %}           | {% rauser PotatOS %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/016937.png"> |
 | {% ragamepic 10337, 107338, Spider-Man %}               | {% rauser yumisuuho %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/077808.png"> |
-| {% ragamepic 10082, 108227, Super Smash Bros. %}        | {% rauser Darky %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/091208.png"> |
+| {% ragamepic 10082, 108227, Super Smash Bros. %}        | {% rauser GalacticSpear %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/091208.png"> |
 | {% ragamepic 10124, 107133, Tony Hawk's Pro Skater %}   | {% rauser BEXUS %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/017855.png"> |
-| {% ragamepic 15964, 108105, ~Hack~ Smash Remix %}       | {% rauser Darky %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/101881.png"> |
+| {% ragamepic 15964, 108105, ~Hack~ Smash Remix %}       | {% rauser GalacticSpear %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/101881.png"> |
 
 <a href="#toc">:top:</a>
 
