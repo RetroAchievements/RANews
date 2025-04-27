@@ -28,6 +28,21 @@ class RAUserPic < Liquid::Tag
   Liquid::Template.register_tag 'rauserpic', self
 end
 
+class RAUserPicAlt < Liquid::Tag
+  def initialize(tag_name, args, tokens)
+    super
+    @args = args.split(',', 2).map(&:strip)
+  end
+
+  def render(context)
+    @user = @args[0]
+    @userpic = @args[1]
+    "<a href=\"https://retroachievements.org/user/#{@user}\" target=\"_blank\" rel=\"noopener\"><img class=\"rauserpic\" src=\"https://retroachievements.org/UserPic/#{@userpic}.png\" alt=\"#{@user}\"> #{@user}</a>"
+  end
+
+  Liquid::Template.register_tag 'rauserpicalt', self
+end
+
 # 
 # RAGame tags
 # 
