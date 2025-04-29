@@ -49,9 +49,9 @@ In Carmageddon you win by racing or by wiping out the competition! Gain buffs or
 
 Sonic Shuffle is a Mario Party-like game (made by the same developers too!) where you stroll through five different boards to save Maginaryworld. Instead of a dice, you have an inventory of 6 cards, which you can choose to move a determined number of spots on the board. There are 8 different characters to play as, each having their own abilities. The goal of each game is to obtain as many emblems as possible by completing various objectives, collecting Precioustones, and completing each board's quests. This isn't your grandpa's party game!
 
-| Grad | Set                                              | Jr. Developer                   | Reviewer                 | Review  Date              |
-| ---- | ------------------------------------------------ | ------------------------------- | ------------------------ | ------------------------- |
-|      | {% ragamepic 12493, 105876, Bomberman 64 [Japan] | Bomberman 64: Arcade Edition %} | {% rauserpic LivRetro %} | {% rauserpic Yanbetari %} | 3/24/2025 |
+| Grad | Set                                                                                 | Jr. Developer            | Reviewer                  | Review  Date |
+| ---- | ----------------------------------------------------------------------------------- | ------------------------ | ------------------------- | ------------ |
+|      | {% ragamepic 12493, 105876, Bomberman 64 [Japan] \| Bomberman 64: Arcade Edition %} | {% rauserpic LivRetro %} | {% rauserpic Yanbetari %} | 3/24/2025    |
 
 Ready to blast off with a fun new set? Bomberman 64: Arcade Edition is a simplified version of Bomberman Land released for the Nintendo 64 that contains a variety of game modes for you to play with your favorite bomb-throwing robot. Sure, there's classic "Bomberman" gameplay, but also included is: "Panic Bomber", based on the puzzle-based 1994 Bomberman spinoff game of the same name; "SameGame", a tile-matching puzzle game; and "Bomberman Park", a mode where you explore an amusement park and play minigames and earn medals. How did we fit so much game in this set? Well, that's our secret.
 
@@ -69,7 +69,7 @@ In lieu of a review of this game (which is worth playing; you get to raise and t
 
 | Grad | Set                                         | Jr. Developer            | Reviewer                  | Review  Date |
 | ---- | ------------------------------------------- | ------------------------ | ------------------------- | ------------ |
-|      | {% ragamepic 15537, 091924, Monkey Magic %} | {% rauserpic sikayduh %} | {% rauserpic Whithbrin %} | 3/30/2025    |
+|      | {% ragamepic 15537, 091924, Monkey Magic %} | {% rauserpic Sikayduh %} | {% rauserpic Whithbrin %} | 3/30/2025    |
 
 Sure, we all have a favorite new media adaptation of Journey to the West. On the count of three, name your favorite: 1- 2- 3- Monkey Magic. Oh, you said Dragonball? Weird, but okay I guess. Monkey Magic is a PlayStation game based on an anime of the same name, featuring sidescrolling action with RPG elements. This game has a unique art style and a lot of depth. If you play this set, not only will you have a great time, but you will learn a lot about 16th century Chinese literature. If you were doing a book report on Journey to the West and you included what you learned, you'd get an A+. We're talking *guaranteed* A+. And that A+ just might get you into the college of your choice. Think about it.
 
