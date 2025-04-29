@@ -43,7 +43,6 @@ category: Spot The Difference
   <tr>
     <td colspan=4>{% rauserpic Whoops %}</td>
   </tr>
-  </tr>
 </tbody></table>
 
 <br>
