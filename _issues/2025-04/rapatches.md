@@ -534,40 +534,40 @@ toc: true
 
 ### {% rasystempicnolink 12 %}
 
-| Game                                                                              | ROM Name                                                                              | Type                  |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------- |
-| {% ragamepic 1821, 065421, Baroque: Yuganda Mousou %}                             | Baroque - Yuganda Mousou (Japan) (En) (v1.02) (Plissken)                              | Translation - English |
-| {% ragamepic 3189, 105246, Castlevania: Rondo of the Night %}                     | Castlevania - Rondo of the Night (v1.3) (mazenk5456)                                  | Hack                  |
-| {% ragamepic 3299, 109534, Castlevania: Symphony of the Night - Reborn %}         | Castlevania - Symphony of the Night - Reborn (Normal Mode) (v1.5.1) (MAUK)            | Hack                  |
-| {% ragamepic 2272, 070741, Ginga Ojousama Densetsu Yuna: Final Edition %}         | Ginga Ojousama Densetsu Yuna - Final Edition (Japan) (En) (v1.0) (Supper)             | Translation - English |
-| {% ragamepic 1281, 000001, Goemon: Shin Sedai Shuumei! %}                         | Goemon - Shin Sedai Shuumei (Japan) (En) (v1.0) (acediez)                             | Translation - English |
-| {% ragamepic 1883, 000001, Imadoki no Vampire: Bloody Bride %}                    | Imadoki no Vampire - Bloody Bride (Japan) (En) (v1.01) (Infinite Lupine Translations) | Translation - English |
-| {% ragamepic 1631, 103168, Klaymen Klaymen: Neverhood no Nazo %}                  | Klaymen Klaymen - Neverhood no Nazo (Japan) (En) (v1.0) (Unknown)                     | Translation - English |
-| {% ragamepic 1135, 044075, Mega Man X4 %}                                         | Mega Man X4 (USA) (Undub) (v1.13) (acediez)                                           | Undub                 |
-| {% ragamepic 1135, 044075, Mega Man X4 %}                                         | Mega Man X4 (USA) (Undub) (v1.13) (acediez) (Retranslation) (NectarHime)              | Undub - Retranslation |
-| {% ragamepic 2155, 000001, PlayStation Doom: Master Edition %}                    | PlayStation Doom - Master Edition (Beta 4) (Team GEC)                                 | Hack                  |
-| {% ragamepic 2049, 000001, PoPoLoCrois Monogatari %}                              | PoPoLoCrois Monogatari (Japan) (En) (v1.3) (paul_met)                                 | Translation - English |
-| {% ragamepic 2206, 099252, PSXFunkin: B Sides %}                                  | PSXFunkin' - B Sides (zeriben)                                                        | Homebrew - Hack       |
-| {% ragamepic 2206, 099253, PSXFunkin: D Sides %}                                  | PSXFunkin' - D Sides (IgorSou30000)                                                   | Homebrew - Hack       |
-| {% ragamepic 2753, 085996, Friday Night Wumpin' Vs. Crash %}                      | PSXFunkin' - Friday Night Wumpin' Vs. Crash (Lord Scout)                              | Homebrew - Hack       |
-| {% ragamepic 2537, 099254, PSXFunkin: Neo %}                                      | PSXFunkin' - Neo (v2.0) (UNSTOP4BLE, IgorSou30000)                                    | Homebrew - Hack       |
-| {% ragamepic 2774, 086714, Pibby Corrupted %}                                     | PSXFunkin' - Pibby Corrupted (UNSTOP4BLE, IgorSou30000)                               | Homebrew - Hack       |
-| {% ragamepic 2400, 107654, Skeleton Bros %}                                       | PSXFunkin' - Skeleton Bros (UNSTOP4BLE, IgorSou30000)                                 | Homebrew - Hack       |
-| {% ragamepic 2498, 099255, VS. Impostor V4 %}                                     | PSXFunkin' - VS. Imposter V4 (Tomscop) (Disc 1)                                       | Homebrew - Hack       |
-| {% ragamepic 2498, 099255, VS. Impostor V4 %}                                     | PSXFunkin' - VS. Imposter V4 (Tomscop) (Disc 2)                                       | Homebrew - Hack       |
-| {% ragamepic 2566, 082068, VS. Kapi: Arcade Showdown %}                           | PSXFunkin' - VS. Kapi - Arcade Showdown (UNSTOP4BLE)                                  | Homebrew - Hack       |
-| {% ragamepic 2537, 080752, VS. Matt %}                                            | PSXFunkin' - VS. Matt (UNSTOP4BLE)                                                    | Homebrew - Hack       |
-| {% ragamepic 2448, 105223, VS. Ourple Guy V2 %}                                   | PSXFunkin' - VS. Ourple Guy V2 (Pichuman10)                                           | Homebrew - Hack       |
-| {% ragamepic 2536, 080693, VS. Selever %}                                         | PSXFunkin' - VS. Selever (victor179, UNSTOP4BLE)                                      | Homebrew - Hack       |
-| {% ragamepic 2743, 085872, VS. Tabi EX %}                                         | PSXFunkin' - VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000)                     | Homebrew - Hack       |
-| {% ragamepic 2634, 089422, VS. Tricky %}                                          | PSXFunkin' - VS. Tricky (CKDev, Lord Scout)                                           | Homebrew - Hack       |
-| {% ragamepic 1828, 099250, PSXFunkin %}                                           | PSXFunkin' (v0.12) (cuckydev)                                                         | Homebrew - Hack       |
-| {% ragamepic 1449, 047447, Resident Evil 2: Infinite Darkness %}                  | Resident Evil 2 - Infinite Darkness (Kawasake09) (Disc 1 - Leon)                      | Hack                  |
-| {% ragamepic 1449, 047447, Resident Evil 2: Infinite Darkness %}                  | Resident Evil 2 - Infinite Darkness (Kawasake09) (Disc 2 - Claire)                    | Hack                  |
-| {% ragamepic 1790, 000001, Tomb Raider: The Times Exclusive %}                    | Tomb Raider - The Times (USA) (Bonus Level) (v1.1)                                    | Hack                  |
-| {% ragamepic 1703, 000001, Tomb Raider Gold - Tomb Raider: Unfinished Business %} | Tomb Raider I - Unfinished Business (USA) (Expansion)                                 | Hack                  |
-| {% ragamepic 1790, 000001, Tomb Raider II Gold - Tomb Raider II: Golden Mask %}   | Tomb Raider II - The Golden Mask (USA) (Expansion)                                    | Hack                  |
-| {% ragamepic 1114, 059161, Warcraft II: The Dark Saga %}                          | WarCraft II - The Dark Saga (USA) (Ru) (RGR Studio)                                   | Translation - Russian |
+| Game                                                                               | ROM Name                                                                              | Type                  |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------- |
+| {% ragamepic 18217, 065421, Baroque: Yuganda Mousou %}                             | Baroque - Yuganda Mousou (Japan) (En) (v1.02) (Plissken)                              | Translation - English |
+| {% ragamepic 31895, 105246, Castlevania: Rondo of the Night %}                     | Castlevania - Rondo of the Night (v1.3) (mazenk5456)                                  | Hack                  |
+| {% ragamepic 32995, 109534, Castlevania: Symphony of the Night - Reborn %}         | Castlevania - Symphony of the Night - Reborn (Normal Mode) (v1.5.1) (MAUK)            | Hack                  |
+| {% ragamepic 22726, 070741, Ginga Ojousama Densetsu Yuna: Final Edition %}         | Ginga Ojousama Densetsu Yuna - Final Edition (Japan) (En) (v1.0) (Supper)             | Translation - English |
+| {% ragamepic 12812, 000001, Goemon: Shin Sedai Shuumei! %}                         | Goemon - Shin Sedai Shuumei (Japan) (En) (v1.0) (acediez)                             | Translation - English |
+| {% ragamepic 18836, 000001, Imadoki no Vampire: Bloody Bride %}                    | Imadoki no Vampire - Bloody Bride (Japan) (En) (v1.01) (Infinite Lupine Translations) | Translation - English |
+| {% ragamepic 16313, 103168, Klaymen Klaymen: Neverhood no Nazo %}                  | Klaymen Klaymen - Neverhood no Nazo (Japan) (En) (v1.0) (Unknown)                     | Translation - English |
+| {% ragamepic 11353, 044075, Mega Man X4 %}                                         | Mega Man X4 (USA) (Undub) (v1.13) (acediez)                                           | Undub                 |
+| {% ragamepic 11353, 044075, Mega Man X4 %}                                         | Mega Man X4 (USA) (Undub) (v1.13) (acediez) (Retranslation) (NectarHime)              | Undub - Retranslation |
+| {% ragamepic 21556, 000001, PlayStation Doom: Master Edition %}                    | PlayStation Doom - Master Edition (Beta 4) (Team GEC)                                 | Hack                  |
+| {% ragamepic 20497, 000001, PoPoLoCrois Monogatari %}                              | PoPoLoCrois Monogatari (Japan) (En) (v1.3) (paul_met)                                 | Translation - English |
+| {% ragamepic 22064, 099252, PSXFunkin: B Sides %}                                  | PSXFunkin' - B Sides (zeriben)                                                        | Homebrew - Hack       |
+| {% ragamepic 22069, 099253, PSXFunkin: D Sides %}                                  | PSXFunkin' - D Sides (IgorSou30000)                                                   | Homebrew - Hack       |
+| {% ragamepic 27536, 085996, Friday Night Wumpin' Vs. Crash %}                      | PSXFunkin' - Friday Night Wumpin' Vs. Crash (Lord Scout)                              | Homebrew - Hack       |
+| {% ragamepic 25378, 099254, PSXFunkin: Neo %}                                      | PSXFunkin' - Neo (v2.0) (UNSTOP4BLE, IgorSou30000)                                    | Homebrew - Hack       |
+| {% ragamepic 27740, 086714, Pibby Corrupted %}                                     | PSXFunkin' - Pibby Corrupted (UNSTOP4BLE, IgorSou30000)                               | Homebrew - Hack       |
+| {% ragamepic 24002, 107654, Skeleton Bros %}                                       | PSXFunkin' - Skeleton Bros (UNSTOP4BLE, IgorSou30000)                                 | Homebrew - Hack       |
+| {% ragamepic 24988, 099255, VS. Impostor V4 %}                                     | PSXFunkin' - VS. Imposter V4 (Tomscop) (Disc 1)                                       | Homebrew - Hack       |
+| {% ragamepic 24988, 099255, VS. Impostor V4 %}                                     | PSXFunkin' - VS. Imposter V4 (Tomscop) (Disc 2)                                       | Homebrew - Hack       |
+| {% ragamepic 25662, 082068, VS. Kapi: Arcade Showdown %}                           | PSXFunkin' - VS. Kapi - Arcade Showdown (UNSTOP4BLE)                                  | Homebrew - Hack       |
+| {% ragamepic 25377, 080752, VS. Matt %}                                            | PSXFunkin' - VS. Matt (UNSTOP4BLE)                                                    | Homebrew - Hack       |
+| {% ragamepic 24484, 105223, VS. Ourple Guy V2 %}                                   | PSXFunkin' - VS. Ourple Guy V2 (Pichuman10)                                           | Homebrew - Hack       |
+| {% ragamepic 25367, 080693, VS. Selever %}                                         | PSXFunkin' - VS. Selever (victor179, UNSTOP4BLE)                                      | Homebrew - Hack       |
+| {% ragamepic 27433, 085872, VS. Tabi EX %}                                         | PSXFunkin' - VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000)                     | Homebrew - Hack       |
+| {% ragamepic 26341, 089422, VS. Tricky %}                                          | PSXFunkin' - VS. Tricky (CKDev, Lord Scout)                                           | Homebrew - Hack       |
+| {% ragamepic 18282, 099250, PSXFunkin %}                                           | PSXFunkin' (v0.12) (cuckydev)                                                         | Homebrew - Hack       |
+| {% ragamepic 14493, 047447, Resident Evil 2: Infinite Darkness %}                  | Resident Evil 2 - Infinite Darkness (Kawasake09) (Disc 1 - Leon)                      | Hack                  |
+| {% ragamepic 14493, 047447, Resident Evil 2: Infinite Darkness %}                  | Resident Evil 2 - Infinite Darkness (Kawasake09) (Disc 2 - Claire)                    | Hack                  |
+| {% ragamepic 17908, 000001, Tomb Raider: The Times Exclusive %}                    | Tomb Raider - The Times (USA) (Bonus Level) (v1.1)                                    | Hack                  |
+| {% ragamepic 17033, 000001, Tomb Raider Gold - Tomb Raider: Unfinished Business %} | Tomb Raider I - Unfinished Business (USA) (Expansion)                                 | Hack                  |
+| {% ragamepic 17909, 000001, Tomb Raider II Gold - Tomb Raider II: Golden Mask %}   | Tomb Raider II - The Golden Mask (USA) (Expansion)                                    | Hack                  |
+| {% ragamepic 11147, 059161, Warcraft II: The Dark Saga %}                          | WarCraft II - The Dark Saga (USA) (Ru) (RGR Studio)                                   | Translation - Russian |
 
 ### {% rasystempicnolink 13 %}
 

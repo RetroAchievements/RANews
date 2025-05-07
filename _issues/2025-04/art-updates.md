@@ -186,7 +186,7 @@ toc: true
 
 | Game                                                             | Icon By                      | Icon Before                                                                        |
 | ---------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------- |
-| {% ragamepic 10039, 109830, Ayrton Senna's Super Monaco GP II %} | {% rauser Frenchy70 %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/050768.png"> |
+| {% ragamepic 10039, 109830, Ayrton Senna's Super Monaco GP II %} | {% rauser mattyalanestock %} | <img class="gameicon" src="https://media.retroachievements.org/Images/050768.png"> |
 | {% ragamepic 14364, 108656, Dr. Robotnik's Mean Bean Machine %}  | {% rauser salvadorbastard %} | <img class="gameicon" src="https://media.retroachievements.org/Images/102479.png"> |
 | {% ragamepic 10698, 109833, Enduro Racer %}                      | {% rauser SegoeUI %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/024719.png"> |
 | {% ragamepic 14394, 109250, ~Prototype~ Sonic's Edusoft %}       | {% rauser salvadorbastard %} | <img class="gameicon" src="https://media.retroachievements.org/Images/067427.png"> |
