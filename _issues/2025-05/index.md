@@ -219,7 +219,7 @@ toc_float: false
             <tr>
                 <td>{% rauserpic Adenothe %}</td>
                 <td>{% rauserpic Alarju %}</td>
-                <td>{% rauserpic Amir96lx %}</td>
+                <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
             </tr>
             <tr>
                 <td>{% rauserpic authorblues %}</td>
@@ -232,7 +232,7 @@ toc_float: false
                 <td>{% rauserpic Impferno93 %}</td>
             </tr>
             <tr>
-                <td>{% rauserpic LauraMouras %}</td>
+                <td>{% rauserpicalt LauraMouras, davijak02 %}</td>
                 <td>{% rauserpic Lugero %}</td>
                 <td>{% rauserpic MeloDeathAtmoBlack %}</td>
             </tr>
@@ -262,14 +262,14 @@ toc_float: false
                 <td>{% rauserpic Sines %}</td>
             </tr>
             <tr>
-                <td>{% rauserpic Snow %}</td>
+                <td>{% rauserpicalt SnowPin, Snow %}</td>
                 <td>{% rauserpic Sobou %}</td>
                 <td>{% rauserpic SporyTike %}</td>
             </tr>
             <tr>
                 <td>{% rauserpic StingX2 %}</td>
                 <td>{% rauserpic Tehkoa %}</td>
-                <td>{% rauserpic tele %}</td>
+                <td>{% rauserpicalt tele, televandalist %}</td>
             </tr>
             <tr>
                 <td>{% rauserpic theelkspeaks %}</td>

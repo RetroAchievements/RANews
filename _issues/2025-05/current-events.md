@@ -144,7 +144,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li value="1">{% rauserpic WanderingHeiho %} - 62 Points</li>
                     <li value="2">{% rauserpic Sutarion %} - 54 Points</li>
                     <li value="2">{% rauserpic MRX1997IT %} - 54 Points</li>
-                    <li value="4">{% rauserpic ThatWhiteBat %} - 53 Points</li>
+                    <li value="4">{% rauserpicalt ThatWhiteBat, Sylrifaide %} - 53 Points</li>
                     <li value="4">{% rauserpic Greyfalken %} - 53 Points</li>
                     <li value="4">{% rauserpic Tyrota %} - 53 Points</li>
                     <li value="7">{% rauserpic HungryWalnut %} - 52 Points</li>
@@ -194,7 +194,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li value="1">{% rauserpic DeeCee %} - 83 SPs, 3 Stamps</li>
                     <li value="1">{% rauserpic Pikapals %} - 83 SPs, 3 Stamps</li>
                     <li value="1">{% rauserpic Reeve42 %} - 83 SPs, 3 Stamps</li>
-                    <li value="1">{% rauserpic TrashPaddy %} - 83 SPs, 3 Stamps</li>
+                    <li value="1">{% rauserpicalt TrashPaddy, PaddyShade %} - 83 SPs, 3 Stamps</li>
                     <li value="1">{% rauserpic Tyrota %} - 83 SPs, 3 Stamps</li>
                     <li value="8">{% rauserpic CassetteCobra %} - 63 SPs, 3 Stamps</li>
                     <li value="8">{% rauserpic Halftail01 %} - 63 SPs, 3 Stamps</li>
@@ -356,7 +356,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Host(s):</strong></td>
-            <td>{% rauserpic genesislover %}, {% rauserpicalt tele, televandalist %}, & {% rauserpic AuburnRDM %}</td>
+            <td>{% rauserpicalt Fingers, genesislover %}, {% rauserpicalt tele, televandalist %}, & {% rauserpic AuburnRDM %}</td>
         </tr>
         <tr>
             <td><strong>Notable Details:</strong></td>
@@ -416,7 +416,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li value="1" > {% rauserpic Lonoke31 %}<sup>**</sup> - 1156 Points</li>
                     <li value="1" > {% rauserpic Sutarion %}<sup>**</sup> - 947 Points</li>
                     <li value="1" > {% rauserpic Timmay %}<sup>**</sup> - 937 Points</li>
-                    <li value="1" > {% rauserpic AmirGaris %}<sup>**</sup> - 881 Points</li>
+                    <li value="1" > {% rauserpicalt AmirGaris, Amir96lx %}<sup>**</sup> - 881 Points</li>
                     <li value="1" > {% rauserpic MiningMario %}<sup>**</sup> - 845 Points</li>
                     <li value="1" > {% rauserpic Advent %} - 523 Points</li>
                     <li value="1" > {% rauserpic NeoRetroGamer %}<sup>**</sup> - 505 Points</li>
@@ -486,9 +486,9 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <li value="5">{% rauserpic Bartis1989 %} - 19 Points</li>
                             <li value="6">{% rauserpic Prota %} - 16 Points</li>
                             <li value="6">{% rauserpic Limper %} - 16 Points</li>
-                            <li value="8">{% rauserpic ChoccyMilk %} - 14 Points</li>
+                            <li value="8">{% rauserpicalt ChoccyMilk, ChocoMilk %} - 14 Points</li>
                             <li value="8">{% rauserpic Christian5 %} - 14 Points</li>
-                            <li value="8">{% rauserpic Capthecat6 %} - 14 Points</li>
+                            <li value="8">{% rauserpicalt Capthecat6, Captninja6 %} - 14 Points</li>
                         </ol>
                     </td>
                 </tr>

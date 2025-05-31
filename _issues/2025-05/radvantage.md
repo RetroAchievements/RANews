@@ -14,7 +14,7 @@ RAdvantage is bringing you tips for some of the hardest achievements on the site
 # Tip Provided By:
 
 <div class="bingo-winner">
-  {% rauserpic LauraMouras %}
+  {% rauserpicalt LauraMouras, davijak02 %}
 </div><br>
 
 | Hub                                                          | Console  | Genre  |

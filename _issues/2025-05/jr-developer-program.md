@@ -28,7 +28,7 @@ Bubble Bobble: Old & New is a remake of the classic arcade game for the Game Boy
 
 | Grad | Set                                            | Jr. Developer              | Reviewer                | Review  Date |
 | ---- | ---------------------------------------------- | -------------------------- | ----------------------- | ------------ |
-|      | {% ragamepic 9326, 106377, Virtual Kasparov %} | {% rauserpic malhas1000 %} | {% rauserpic scatter %} | 4/7/2025     |
+|      | {% ragamepic 9326, 106377, Virtual Kasparov %} | {% rauserpicalt OpheliaEnigma, malhas1000 %} | {% rauserpic scatter %} | 4/7/2025     |
 
 If you know the person behind the name „Garry Kasparov“ this game is a must-have for you. In this game you can follow in the footsteps as the world chess champion and beat all kind of opponents from different locations, age groups and various background. Get to the very top and show the world what makes out the best chess player on the world while also being able to see the highlights of Kasparov's career.
 
@@ -58,7 +58,7 @@ What's better than Kirby using his wheel ability? A game that is just about this
 
 | Grad | Set                                           | Jr. Developer              | Reviewer                       | Review  Date |
 | ---- | --------------------------------------------- | -------------------------- | ------------------------------ | ------------ |
-|      | {% ragamepic 866, 106416, Cutthroat Island %} | {% rauserpic spookerson %} | {% rauserpic TheMysticalOne %} | 4/14/2025    |
+|      | {% ragamepic 866, 106416, Cutthroat Island %} | {% rauserpicalt coyoacan, spookerson %} | {% rauserpic TheMysticalOne %} | 4/14/2025    |
 
 Cutthroat Island is a platformer game based on the 1995 movie with the same name. Morgan Adams, a wanted woman, receives a piece of a map to a treasure hidden on this gruesome sounding island. She and a buccaneer named William Shaw are searching for the treasure and need to defeat various foes on their adventure since they are not the only ones to hunt for the gold. 
 

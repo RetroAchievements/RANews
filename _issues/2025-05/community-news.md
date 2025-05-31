@@ -230,7 +230,7 @@ It is available on the Downloads page.
             <td colspan="1">{% ragamepic 19924, 070006, Dead or Alive: Paradise (PSP) %}</td>
         </tr>
         <tr>
-            <td rowspan="3" width=250>{% rauserpic Darky %}</td>
+            <td rowspan="3" width=250>{% rauserpicalt Darky, DarkyAndreas %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 20255, 072251, Sonic Mega Collection Plus (PS2) %}</td>

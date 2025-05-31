@@ -94,7 +94,7 @@ toc: true
 | {% ragamepic 2457, 111118, Magnetic Soccer %}               | {% rauser SporyTike %}   | Sports - Football      | Soccer |
 | {% ragamepic 3668, 110185, Same Game %}                     | {% rauser SporyTike %}   | -                      |
 | {% ragamepic 7993, 106442, The Tower of Druaga %}           | {% rauser Wulden %}      | Maze Chase             |
-| {% ragamepic 18444, 110929, ~Hack~ Pokemon Yellow Legacy %} | {% rauser Yurana %}      | -                      |
+| {% ragamepic 18444, 110929, ~Hack~ Pokemon Yellow Legacy %} | {% rauser Cartesia %}      | -                      |
 | {% ragamepic 25391, 080909, ~Homebrew~ Bug Bites! %}        | {% rauser Hexadigital %} | Action                 |
 
 <a href="#toc">:top:</a>
@@ -110,10 +110,10 @@ toc: true
 | {% ragamepic 7216, 082742, Charlotte's Web %}                              | {% rauser KombuchaMush %} | 2D Platforming, Minigames |
 | {% ragamepic 13634, 109270, Fullmetal Alchemist: Stray Rondo %}            | {% rauser raniejogos %}   | -                         |
 | {% ragamepic 31452, 110703, The Itsudemo Puzzle: Massugu Soroete Straws %} | {% rauser Layton %}       | Puzzle                    |
-| {% ragamepic 9326, 106377, Virtual Kasparov %}                             | {% rauser malhas1000 %}   | Chess                     |
+| {% ragamepic 9326, 106377, Virtual Kasparov %}                             | {% rauser OpheliaEnigma %}   | Chess                     |
 | {% ragamepic 28320, 110511, ~Hack~ Pokescape: A Pokémon Escape Room %}     | {% rauser SporyTike %}    | -                         |
 | {% ragamepic 28319, 110181, ~Hack~ Pokémon: National History Museum %}     | {% rauser SporyTike %}    | -                         |
-| {% ragamepic 33398, 110122, ~Hack~ Super Mariomon %}                       | {% rauser Bryan1150 %}    | -                         |
+| {% ragamepic 33398, 110122, ~Hack~ Super Mariomon %}                       | {% rauser Brylefi %}    | -                         |
 | {% ragamepic 16387, 110657, ~Homebrew~ Luigi Puzzle %}                     | {% rauser SporyTike %}    | -                         |
 
 <a href="#toc">:top:</a>
@@ -150,13 +150,13 @@ toc: true
 
 | Game                                                                       | Author                      | Genre              |
 | -------------------------------------------------------------------------- | --------------------------- | ------------------ |
-| {% ragamepic 30368, 110484, 18 Wheeler: American Pro Trucker %}            | {% rauser SuperMeatBro %}   | Arcade Racing      |
+| {% ragamepic 30368, 110484, 18 Wheeler: American Pro Trucker %}            | {% rauser Meatbro %}   | Arcade Racing      |
 | {% ragamepic 30221, 110428, Dragon Ball Z: Budokai %}                      | {% rauser NeonPug %}        | 3D Fighting        |
 | {% ragamepic 25452, 111795, Mario Party 7 %}                               | {% rauser LordAndrew %}     | Board Game, Party  |
-| {% ragamepic 33041, 110361, Shadow the Hedgehog [Subset - 326 Endings] %}  | {% rauser DarkyAndreas %}   | 3D Platforming     |
-| {% ragamepic 6354, 100252, Shadow the Hedgehog %}                          | {% rauser DarkyAndreas %}   | 3D Platforming     |
+| {% ragamepic 33041, 110361, Shadow the Hedgehog [Subset - 326 Endings] %}  | {% rauser Darky %}   | 3D Platforming     |
+| {% ragamepic 6354, 100252, Shadow the Hedgehog %}                          | {% rauser Darky %}   | 3D Platforming     |
 | {% ragamepic 3779, 066012, Sonic Adventure 2: Battle %}                    | {% rauser Vancleef %}       | -                  |
-| {% ragamepic 6343, 110602, The Simpsons: Road Rage %}                      | {% rauser SuperMeatBro %}   | Arcade Racing      |
+| {% ragamepic 6343, 110602, The Simpsons: Road Rage %}                      | {% rauser Meatbro %}   | Arcade Racing      |
 | {% ragamepic 25485, 109564, Ultimate Muscle: Legends vs. New Generation %} | {% rauser Landa %}          | Sports - Wrestling |
 | {% ragamepic 33481, 110930, ~Hack~ Bad-Boon Strikes Back v4.0 %}           | {% rauser Xyghost %}        | 3D Platforming     |
 | {% ragamepic 30993, 110406, ~Hack~ Pikmin 2: Caveless Edition %}           | {% rauser TheMysticalOne %} | Real-Time Strategy |
@@ -191,7 +191,7 @@ toc: true
 
 | Game                                                            | Author                    | Genre                |
 | --------------------------------------------------------------- | ------------------------- | -------------------- |
-| {% ragamepic 14364, 108656, Dr. Robotnik's Mean Bean Machine %} | {% rauser SuperMeatBro %} | Falling Block Puzzle |
+| {% ragamepic 14364, 108656, Dr. Robotnik's Mean Bean Machine %} | {% rauser Meatbro %} | Falling Block Puzzle |
 
 <a href="#toc">:top:</a>
 
@@ -224,12 +224,12 @@ toc: true
 
 | Game                                                                                 | Author                 | Genre                          |
 | ------------------------------------------------------------------------------------ | ---------------------- | ------------------------------ |
-| {% ragamepic 33247, 110664, The Legend of Zelda: Ocarina of Time [Subset - Bonus] %} | {% rauser AlexGatao %} | Action-Adventure               |
+| {% ragamepic 33247, 110664, The Legend of Zelda: Ocarina of Time [Subset - Bonus] %} | {% rauser AlexHylian %} | Action-Adventure               |
 | {% ragamepic 33394, 109985, ~Hack~ Glass Smash 64 %}                                 | {% rauser Layton %}    | 3D Platforming                 |
 | {% ragamepic 19409, 111085, ~Hack~ Star Revenge 6.5: Wrath of the Dim. Flower %}     | {% rauser Dimedime %}  | 3D Platforming, Collect-a-thon |
 | {% ragamepic 19407, 111084, ~Hack~ Star Revenge 6: Luigi's Adventure %}              | {% rauser Dimedime %}  | 3D Platforming, Collect-a-thon |
-| {% ragamepic 29848, 109944, ~Hack~ Super Mario and the Monstrous Manor %}            | {% rauser blueYOSHI %} | 3D Platforming, Horror         |
-| {% ragamepic 30590, 109929, ~Hack~ The Legend of Zelda: Crystal Clocks %}            | {% rauser AlexGatao %} | -                              |
+| {% ragamepic 29848, 109944, ~Hack~ Super Mario and the Monstrous Manor %}            | {% rauser blueYOSHMIN %} | 3D Platforming, Horror         |
+| {% ragamepic 30590, 109929, ~Hack~ The Legend of Zelda: Crystal Clocks %}            | {% rauser AlexHylian %} | -                              |
 
 <a href="#toc">:top:</a>
 
@@ -241,7 +241,7 @@ toc: true
 | --------------------------------------------------------------------------- | -------------------------- | ------------------------------------ |
 | {% ragamepic 24069, 106857, Cinnamon Ball: Kurukuru Sweets Paradise %}      | {% rauser Skiichi %}       | -                                    |
 | {% ragamepic 15499, 083368, Death Note: Kira Game %}                        | {% rauser streetbackguy %} | Strategy                             |
-| {% ragamepic 15464, 110670, Fullmetal Alchemist: Dual Sympathy %}           | {% rauser Yurana %}        | Beat 'em Up                          |
+| {% ragamepic 15464, 110670, Fullmetal Alchemist: Dual Sympathy %}           | {% rauser Cartesia %}        | Beat 'em Up                          |
 | {% ragamepic 14800, 110459, Lock's Quest %}                                 | {% rauser KiwiTaco %}      | Tower Defense                        |
 | {% ragamepic 25703, 110382, Mystery Case Files: Prime Suspects %}           | {% rauser Sutarion %}      | Hidden Object                        |
 | {% ragamepic 14805, 106556, Pac-Man World 3 %}                              | {% rauser CySlaytor %}     | 3D Platforming                       |
@@ -290,9 +290,9 @@ toc: true
 | {% ragamepic 32564, 112100, Kingdom Hearts II %}                                                                | {% rauser Delmaru %}                                                                                                                                                                                                                                                                                                                                                                                                                               | Action RPG                              |
 | {% ragamepic 3320, 109604, Mercenaries: Playground of Destruction %}                                            | {% rauser Whithbrin %}                                                                                                                                                                                                                                                                                                                                                                                                                             | Third-Person Shooter, Sandbox           |
 | {% ragamepic 19183, 108728, Oni %}                                                                              | {% rauser Mendil %}                                                                                                                                                                                                                                                                                                                                                                                                                                | Beat 'em Up, Third-Person Shooter       |
-| {% ragamepic 3299, 110124, Shadow Tower Abyss %}                                                                | {% rauser bjoehanna %}                                                                                                                                                                                                                                                                                                                                                                                                                             | Dungeon Crawl                           |
+| {% ragamepic 3299, 110124, Shadow Tower Abyss %}                                                                | {% rauser BorisTheTreeSlime %}                                                                                                                                                                                                                                                                                                                                                                                                                             | Dungeon Crawl                           |
 | {% ragamepic 32918, 107262, Shin Megami Tensei III: Nocturne Maniax Chronicle Edition [Subset - Solo+Raidou] %} | {% rauser Monomaru %}                                                                                                                                                                                                                                                                                                                                                                                                                              | Turn-Based RPG                          |
-| {% ragamepic 20255, 072251, Sonic Mega Collection Plus %}                                                       | {% rauser TheMysticalOne %} {% rauser DarkyAndreas %} {% rauser tomojin %} {% rauser Retrokaiser %} {% rauser AuburnRDM %} {% rauser AdeptTempest %} {% rauser TheJediSonic %} {% rauser LordAndrew %} {% rauser Amir96lx %} {% rauser LogicalFallacy %} {% rauser Sutarion %} {% rauser Raichi %} {% rauser Delmaru %} {% rauser SlashTangent %} {% rauser Pudpod %} {% rauser ThatAmericanSlacker %} {% rauser s0uth %} {% rauser wolfman2000 %} | Compilation                             |
+| {% ragamepic 20255, 072251, Sonic Mega Collection Plus %}                                                       | {% rauser TheMysticalOne %} {% rauser Darky %} {% rauser tomojin %} {% rauser Retrokaiser %} {% rauser AuburnRDM %} {% rauser ADTempest %} {% rauser TheJediSonic %} {% rauser LordAndrew %} {% rauser AmirGaris %} {% rauser LogicalFallacy %} {% rauser Sutarion %} {% rauser Raichi %} {% rauser Delmaru %} {% rauser SlashTangent %} {% rauser Pudpod %} {% rauser ThatAmericanSlacker %} {% rauser s0uth %} {% rauser wolfman2000 %} | Compilation                             |
 | {% ragamepic 21988, 097818, Super Farm %}                                                                       | {% rauser Candyiela %}                                                                                                                                                                                                                                                                                                                                                                                                                             | Party                                   |
 | {% ragamepic 19341, 108531, Tomb Raider: Anniversary %}                                                         | {% rauser Homuki %}                                                                                                                                                                                                                                                                                                                                                                                                                                | Action-Adventure, Cinematic Platforming |
 
@@ -316,7 +316,7 @@ toc: true
 | Game                                                            | Author                   | Genre                         |
 | --------------------------------------------------------------- | ------------------------ | ----------------------------- |
 | {% ragamepic 458, 110625, Bugs Bunny: Rabbit Rampage %}         | {% rauser NeonPug %}     | 2D Platforming                |
-| {% ragamepic 866, 106416, Cutthroat Island %}                   | {% rauser spookerson %}  | Action-Adventure, Beat 'em Up |
+| {% ragamepic 866, 106416, Cutthroat Island %}                   | {% rauser coyoacan %}  | Action-Adventure, Beat 'em Up |
 | {% ragamepic 943, 105678, HyperZone %}                          | {% rauser TraceBullet %} | Rail Shooter                  |
 | {% ragamepic 3486, 110959, Shanghai III %}                      | {% rauser manakoDE %}    | Shanghai                      | Mahjong Solitaire |
 | {% ragamepic 1196, 022304, Stunt Race FX %}                     | {% rauser MGNS8M %}      | Arcade Racing                 |

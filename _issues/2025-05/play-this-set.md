@@ -49,7 +49,7 @@ It's a basic set for a weird janky game, but it has merit and should be experien
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/30137" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/099243.png" alt="\~Hack~ Pokémon Emerald Rogue V2"> <span>\~Hack~ Pokémon Emerald Rogue V2</span></a> | Game Boy Advance | [Roguelike](https://retroachievements.org/hub/3321), [Turn-based RPG](https://retroachievements.org/hub/5468) |
 
-* Set by: {% rauserpic Brylefi %}
+* Set by: {% rauserpicalt Brylefi, Bryan1150 %}
 * Write-up by: {% rauserpic theelkspeaks %}
 
 One of the most popular challenge runs for Pokemon players outside of RA is the Nuzlocke run. Building a carefully crafted team and box, planning ahead for known and unknown fights, accumulating resources and choosing when to spend them - especially in randomized runs - provides a test of skill, planning, and creativity where no two runs are the same. Normally speaking, RA wouldn't be able to support the excitement of a Nuzlocke run, as it demands tracking carefully across multiple sessions. But there is a hack that captures much of the spirit of Nuzlocking in its own way - Pokemon Emerald Rogue V2. (or V1, but this is about V2).
@@ -66,7 +66,7 @@ Completing quests in the game gives you access to build out your town, increasin
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/17844" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/065335.png" alt="\~Hack~ CTGP: Nitro"> <span>\~Hack~ CTGP: Nitro</span></a> | Nintendo DS | [Kart Racing](https://retroachievements.org/hub/928) |
 
-* Set by: {% rauserpic Brylefi %}
+* Set by: {% rauserpicalt Brylefi, Bryan1150 %}
 * Write-up by: {% rauserpic MeloDeathAtmoBlack %}
 
 At this point, I don't think the Mario Kart custom track modding scene needs any introduction - we've got some incredibly talented people making hundreds of new and wacky tracks that might not match the polish and overall quality of Nintendo's own offerings, but more than make up for it with unhinged creativity. I was thrilled when I saw that we had its DS incarnation here on this site, and I can't recommend it more.
@@ -159,7 +159,7 @@ While I'm no doubt biased, I do believe that this is one of the best games relea
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/4911" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/060996.png" alt="Ghost Trick: Phantom Detective"> <span>Ghost Trick: Phantom Detective</span></a> | Nintendo DS | Adventure, [Visual Novel](https://retroachievements.org/hub/6098) |
 
-* Set by: {% rauserpic Poppers %}
+* Set by: {% rauserpicalt tiredlyrebird, Poppers %}
 * Write-up by: {% rauserpic Varilinity %}
 
 Mastered this one a while ago, but thought I'd write up a quick review on it and why anyone hesitating should play this game. Ghost Trick is easily in my top 10 games of all time. The story, the graphics, the characters, the flow, the music. This is one of the few games I've had the pleasure of playing that doesn't fall flat on any aspects.
