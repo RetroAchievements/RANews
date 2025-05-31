@@ -85,7 +85,7 @@ toc_float: false
 <div class="section-link">
     <a href="./community-news.html">
         <div class="section-content">
-            <h1 id="community-news">Community News---</h1>
+            <h1 id="community-news">Community News</h1>
             <p>Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.</p>
         </div>
     </a>
@@ -216,12 +216,76 @@ toc_float: false
         <p>The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.</p>
         <table><tbody>
             <tr>
-                <td>{% rauserpic 14ausher %}</td>
+            <tr>
+                <td>{% rauserpic Adenothe %}</td>
                 <td>{% rauserpic Alarju %}</td>
-                <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
+                <td>{% rauserpic Amir96lx %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic authorblues %}</td>
+                <td>{% rauserpic Brandovsky %}</td>
+                <td>{% rauserpic DevCompliance %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic gamer097 %}</td>
+                <td>{% rauserpic Hotscrock %}</td>
+                <td>{% rauserpic Impferno93 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic LauraMouras %}</td>
+                <td>{% rauserpic Lugero %}</td>
+                <td>{% rauserpic MeloDeathAtmoBlack %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Melodius %}</td>
+                <td>{% rauserpic MrOwnership %}</td>
+                <td>{% rauserpic mywifeleftm %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Nepiki %}</td>
+                <td>{% rauserpic Nevermond12 %}</td>
+                <td>{% rauserpic Nezperdian %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Nydaxn %}</td>
+                <td>{% rauserpic Obliv %}</td>
+                <td>{% rauserpic PaddyW %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic pinguupinguu %}</td>
+                <td>{% rauserpic QATeam %}</td>
+                <td>{% rauserpic RANews %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Raykusen %}</td>
+                <td>{% rauserpic RetroGameMaster %}</td>
+                <td>{% rauserpic Sines %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Snow %}</td>
+                <td>{% rauserpic Sobou %}</td>
+                <td>{% rauserpic SporyTike %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic StingX2 %}</td>
+                <td>{% rauserpic Tehkoa %}</td>
+                <td>{% rauserpic tele %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic theelkspeaks %}</td>
+                <td>{% rauserpic TheRealBillHicks %}</td>
+                <td>{% rauserpic TimeCrush %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic TrogdorTheBurninator %}</td>
+                <td>{% rauserpic Varilinity %}</td>
+                <td>{% rauserpic vikdarkbomb %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Whynot15 %}</td>
+                <td>{% rauserpic Xymjak %}</td>
+            </tr>
             </tr>
         </tbody></table>
     </div>
 </div>
-
-
