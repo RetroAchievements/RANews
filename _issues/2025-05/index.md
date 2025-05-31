@@ -69,7 +69,7 @@ toc_float: false
 <div class="section-link">
     <a href="./current-events.html">
         <div class="section-content">
-            <h1 id="current-events">Current Events---</h1>
+            <h1 id="current-events">Current Events</h1>
             <p>The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!</p>
         </div>
     </a>

@@ -118,6 +118,43 @@ class RAHubPic < Liquid::Tag
 end
 
 # 
+# RAEvent tags
+# 
+
+class RAEvent < Liquid::Tag
+  def initialize(tag_name, args, tokens)
+  super
+    @args = args.split(',', 2).map(&:strip)
+  end
+
+  def render(context)
+    @id = @args[0]
+    @title = @args[1]
+
+    "<a href=\"https://retroachievements.org/event/#{@id}\" target=\"_blank\" rel=\"noopener\">#{@title}</a>"
+  end
+  
+  Liquid::Template.register_tag 'raevent', self
+end
+
+class RAEventPic < Liquid::Tag
+  def initialize(tag_name, args, tokens)
+  super
+    @args = args.split(',', 3).map(&:strip)
+  end
+
+  def render(context)
+    @id = @args[0]
+    @pic = @args[1]
+    @title = @args[2]
+
+    "<a class=\"gameicon-link\" href=\"https://retroachievements.org/event/#{@id}\" target=\"_blank\" rel=\"noopener\"> <img class=\"gameicon\" src=\"https://retroachievements.org/Images/#{@pic}.png\" > <span>#{@title}</span></a>"
+  end
+  
+  Liquid::Template.register_tag 'raeventpic', self
+end
+
+# 
 # RAAchievement tags
 # 
 
