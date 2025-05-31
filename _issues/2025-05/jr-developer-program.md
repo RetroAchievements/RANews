@@ -7,7 +7,7 @@ title: Jr. Developer Program
 toc: false
 ---
 
-Every month, we would like to look back on the sets developed by our junior developer, as well as giving you a short introduction on the set in question. 
+Every month, we would like to look back on the sets developed by our junior developers, as well as giving you a short introduction on the set in question.
 
 Thanks to {% rauserpic authorblues %} and {% rauserpic SporyTike %} for putting this page together.
 
@@ -30,7 +30,7 @@ Bubble Bobble: Old & New is a remake of the classic arcade game for the Game Boy
 | ---- | ---------------------------------------------- | -------------------------- | ----------------------- | ------------ |
 |      | {% ragamepic 9326, 106377, Virtual Kasparov %} | {% rauserpicalt OpheliaEnigma, malhas1000 %} | {% rauserpic scatter %} | 4/7/2025     |
 
-If you know the person behind the name „Garry Kasparov“ this game is a must-have for you. In this game you can follow in the footsteps as the world chess champion and beat all kind of opponents from different locations, age groups and various background. Get to the very top and show the world what makes out the best chess player on the world while also being able to see the highlights of Kasparov's career.
+If you know the person behind the name "Garry Kasparov" this game is a must-have for you. In this game you can follow in the footsteps as the world chess champion and beat all kind of opponents from different locations, age groups and various background. Get to the very top and show the world what makes out the best chess player on the world while also being able to see the highlights of Kasparov's career.
 
 | Grad | Set                                                     | Jr. Developer          | Reviewer                 | Review  Date |
 | ---- | ------------------------------------------------------- | ---------------------- | ------------------------ | ------------ |
