@@ -20,7 +20,7 @@ toc: true
             <td><br><a href="../img/SpotTheDifferenceAnswers/2025-01.png"><img src="../img/SpotTheDifferenceAnswers/2025-01.png" width="400"></a></td>
             <td><br><a href="../img/SpotTheDifferenceAnswers/2025-02.png"><img src="../img/SpotTheDifferenceAnswers/2025-02.png" width="400"></a></td>
             <td><br><a href="../img/SpotTheDifferenceAnswers/2025-03.png"><img src="../img/SpotTheDifferenceAnswers/2025-03.png" width="400"></a></td>
-        <!-- </tr>
+        </tr>
         <thead>
             <tr>
                 <td>April</td>
@@ -28,12 +28,12 @@ toc: true
                 <td>June</td>
             </tr>
         </thead>
-        <tr> -->
-            <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2025-04.png"><img src="../img/SpotTheDifferenceAnswers/2025-04.png" width="400"></a></td> -->
+        <tr>
+            <td><br><a href="../img/SpotTheDifferenceAnswers/2025-04.png"><img src="../img/SpotTheDifferenceAnswers/2025-04.png" width="400"></a></td>
             <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2025-05.png"><img src="../img/SpotTheDifferenceAnswers/2025-05.png" width="400"></a></td> -->
             <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2025-06.png"><img src="../img/SpotTheDifferenceAnswers/2025-06.png" width="400"></a></td> -->
-        <!-- </tr>
-        <thead>
+        </tr>
+        <!-- <thead>
             <tr>
                 <td>July<br></td>
                 <td>August</td>
