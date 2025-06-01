@@ -19,11 +19,24 @@
           {% endif %}
 
           {% if page.author %}
+          {% assign authors = page.author | split: "," %}
           <div class="author">
-            <img src="https://retroachievements.org/UserPic/{{ page.author }}.png" alt="{{ page.author }}">
-            <span>By
-              <a href="https://retroachievements.org/user/{{ page.author }}">
-                {{ page.author }}</a>.
+            {% for author in authors %}
+              {% assign author_parts = author | strip | split: ":" %}
+              {% assign author_name = author_parts[0] %}
+              {% if author_parts[1] %}
+                {% assign author_pic = author_parts[1] %}
+              {% else %}
+                {% assign author_pic = author_name %}
+              {% endif %}
+              <img src="https://retroachievements.org/UserPic/{{ author_pic }}.png" alt="{{ author_name }}">
+            {% endfor %}
+            <span>By 
+              {% for author in authors %}
+                {% assign author_parts = author | strip | split: ":" %}
+                {% assign author_name = author_parts[0] %}
+                <a href="https://retroachievements.org/user/{{ author_name }}">{{ author_name }}</a>{% unless forloop.last %}, {% endunless %}
+              {% endfor %}.
             </span>
           </div>
           {% endif %}
