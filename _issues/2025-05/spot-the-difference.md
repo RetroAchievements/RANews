@@ -16,33 +16,32 @@ category: Spot The Difference
     <td colspan="2" style="text-align: center; vertical-align: middle;">🥈 {% rauserpic SkepticalBear %}</td>
     <td colspan="2" style="text-align: center; vertical-align: middle;">🥉 {% rauserpic FeuerPilz %}</td>
   </tr>
-    <tr>
-      <td>{% rauserpic dericobanjo %}</td>
-      <td>{% rauserpic kalonZombie %}</td>
-      <td>{% rauserpic AdrianSnake %}</td>
-      <td>{% rauserpic elvisshippuuden01 %}</td>
-    </tr>
-    <tr>
-      <td>{% rauserpic xtagnado %}</td>
-      <td>{% rauserpic 9marlin4 %}</td>
-      <td>{% rauserpic Blushfulcorn %}</td>
-      <td>{% rauserpic Hawkow %}</td>
-    </tr>
-    <tr>
-      <td>{% rauserpic baradras %}</td>
-      <td>{% rauserpic sioneus %}</td>
-      <td>{% rauserpic Tayadaoc %}</td>
-      <td>{% rauserpic Impherno %}</td>
-    </tr>
-    <tr>
-      <td>{% rauserpic yuvi3000 %}</td>
-      <td>{% rauserpic crrool %}</td>
-      <td>{% rauserpic Whoops %}</td>
-      <td>{% rauserpic RevJohn %}</td>
-    </tr>
-    <tr>
-      <td>{% rauserpic JCRA %}</td>
-    </tr>
+  <tr>
+    <td>{% rauserpic dericobanjo %}</td>
+    <td>{% rauserpic kalonZombie %}</td>
+    <td>{% rauserpic AdrianSnake %}</td>
+    <td>{% rauserpic elvisshippuuden01 %}</td>
+  </tr>
+  <tr>
+    <td>{% rauserpic xtagnado %}</td>
+    <td>{% rauserpic 9marlin4 %}</td>
+    <td>{% rauserpic Blushfulcorn %}</td>
+    <td>{% rauserpic Hawkow %}</td>
+  </tr>
+  <tr>
+    <td>{% rauserpic baradras %}</td>
+    <td>{% rauserpic sioneus %}</td>
+    <td>{% rauserpic Tayadaoc %}</td>
+    <td>{% rauserpic Impherno %}</td>
+  </tr>
+  <tr>
+    <td>{% rauserpic yuvi3000 %}</td>
+    <td>{% rauserpic crrool %}</td>
+    <td>{% rauserpic Whoops %}</td>
+    <td>{% rauserpic RevJohn %}</td>
+  </tr>
+  <tr>
+    <td>{% rauserpic JCRA %}</td>
   </tr>
 </tbody></table>
 

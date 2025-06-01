@@ -2,7 +2,7 @@
 issue: 2025-05
 order: 202505-18
 layout: article
-author: televandalist
+author: tele:televandalist
 title: RAPatches and Lost Level Archive
 toc: true
 ---

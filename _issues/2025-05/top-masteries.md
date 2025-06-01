@@ -3,7 +3,7 @@ issue: 2025-05
 order: 202505-60
 layout: article
 category: Top Masteries
-author: Amir96lx
+author: AmirGaris:Amir96lx
 toc: true
 toc_float: true
 ---
