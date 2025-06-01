@@ -354,7 +354,7 @@ It is available on the Downloads page.
             <td colspan="1">{% ragamepic 5948, 078876, Contra | Probotector [Subset - Bonus] (NES) %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 13904, 013904, I.Q. | Intelligent Qube | Kurushi (PS) %}</td>
+            <td colspan="1">{% ragamepic 13904, 022766, I.Q. | Intelligent Qube | Kurushi (PS) %}</td>
         </tr>
     </tbody>
 </table>

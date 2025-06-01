@@ -228,7 +228,7 @@ toc: true
 | {% ragamepic 10811, 110713, Donkey Kong 64 [Subset - Multi] %}                | {% rauser salvadorbastard %} | <img class="gameicon" src="https://media.retroachievements.org/Images/076657.png"> |
 | {% ragamepic 10075, 110715, Donkey Kong 64 %}                                 | {% rauser salvadorbastard %} | <img class="gameicon" src="https://media.retroachievements.org/Images/066626.png"> |
 | {% ragamepic 10128, 111240, Quake II %}                                       | {% rauser UsedForks %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/011043.png"> |
-| {% ragamepic 10003, 112471, Super Mario 64 %}                                 | {% rauser Griffin %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/047942.png"> |
+| {% ragamepic 10003, 112471, Super Mario 64 %}                                 | {% rauser Hawkow %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/047942.png"> |
 | {% ragamepic 14897, 112472, ~Hack~ Super Mario 64: Splitscreen Multiplayer %} | {% rauser Hawkow %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/029860.png"> |
 | {% ragamepic 18654, 110961, ~Hack~ The Legend of Zelda: Gold Quest %}         | {% rauser docbam %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/059823.png"> |
 | {% ragamepic 10888, 110762, ~Hack~ The Legend of Zelda: Ruinous Shards %}     | {% rauser docbam %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/058888.png"> |
