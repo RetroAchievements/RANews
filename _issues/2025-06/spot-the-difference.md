@@ -13,7 +13,7 @@ category: Spot The Difference
     <td colspan="4" style="text-align: center; vertical-align: middle;"><div class="bingo-winner-small"><img src="../../img/trophy_small.png"/> {% rauserpic Lugero %}</div></td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center; vertical-align: middle;">🥈 {% rauserpic Feuerpilz %}</td>
+    <td colspan="2" style="text-align: center; vertical-align: middle;">🥈 {% rauserpic FeuerPilz %}</td>
     <td colspan="2" style="text-align: center; vertical-align: middle;">🥉 {% rauserpic cdpowe %}</td>
   </tr>
   <tr>
