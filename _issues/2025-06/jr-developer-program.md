@@ -7,7 +7,7 @@ title: Jr. Developer Program
 toc: false
 ---
 
-Every month, we would like to look back on the sets developed by our junior developer, as well as giving you a short introduction on the set in question. 
+Every month, we would like to look back on the sets developed by our junior developers, as well as giving you a short introduction on the set in question. 
 
 # Jr. Dev Sets <!-- ⭐ -->
 

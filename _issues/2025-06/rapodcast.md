@@ -8,7 +8,7 @@ author: TimeCrush
 
 # Episode 26 - Long Live The King
 
-On our last show, we welcomed {% rauser Sarconius %} back to discuss their climb to the top and seizing of the throne - in those prior we've had others like Max who faced similar burdens that the crowns weight holds. For many of us these feats, while impressive to marvel at, are either out of reach to feasibly attain, or otherwise come with an effort the average enjoyer doesn't want to muster. 
+On our last show, we welcomed {% rauser Sarconius %} back to discuss their climb to the top and seizing of the throne - in those prior we've had others like Max who faced similar burdens that the crown's weight holds. For many of us these feats, while impressive to marvel at, are either out of reach to feasibly attain, or otherwise come with an effort the average enjoyer doesn't want to muster. 
 
 With retro gaming, we typically face high-pressure extremely time sensitive trials and tribulations - either through an effort to drain more quarters directly out of your pocket, or make the few games mom n pop bought you last until the next holiday - there were however, those standout titles even back then who chose to be a little more relaxed, a bit against the mold, and even a bit comfy-cozy. 
 

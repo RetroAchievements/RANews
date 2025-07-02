@@ -19,7 +19,7 @@ More information can be found in the docs at [Player Compatibility Testing](http
 
 ## PlayTester Revamp
 
-The PlayTester team has been revamped in order to expand the team and its current capabilities. Playtest request can be submitted and discussed via Discord in the new forum channel.
+The PlayTester team has been revamped in order to expand the team and its current capabilities. Playtest requests can be submitted and discussed via Discord in the new forum channel.
 
 Reach out to {% rauserpic TimeCrush %} for more information.
 
@@ -48,6 +48,24 @@ If you're interested in making content for the channel reach out to {% rauserpic
 
 ## Developer Compliance
 
+### Approved Sets
+- [Inazuma Eleven [Subset - Item Scouter]](https://retroachievements.org/game/33638)
+- [Pokémon White Version 2 [Subset - Challenge Mode]](https://retroachievements.org/game/24180)
+- [The Legend of Zelda: Majora's Mask](https://retroachievements.org/game/10679) [Subset - Randomizer]
+- [~Hack~ Yu-Gi-Oh! Capsule Monster Coliseum: Randomizer](https://retroachievements.org/game/33653)
+- [Wacky Races](https://retroachievements.org/game/25968) [Subset - Dastardly Difficulty]
+
+### Achievement & Set Updates
+
+| Set                           | Achievement                                        | Description                                                                                  | Update                                                                          |
+| ----------------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| {% ragamepic 4881,  082326 %} | {% raachpic 36139, 36961, Macca Saver %}           | How much Macca can you save?                                                                 | Demoted for Unwelcome Concept: Secret achievement and pointless excessive grind |
+| {% ragamepic 4881,  082326 %} | {% raachpic 51078, 52815, Game of Prones %}        | Remain crouched during the Area 5 boss without killing anything for approximately 10 seconds | Revision Vote demotion                                                          |
+| {% ragamepic 10811, 110713 %} | All achievements                                   |                                                                                              | Demoted for Unwelcome Concept: Violates multi set rule                          |
+| {% ragamepic 9848,  048949 %} | {% raachpic 354605, 73971, Timers Out for Kongo %} | Complete 'Kongo' with 1 second left in the timer (Pw JUNGLE Allowed)                         | Demoted for Unwelcome Concept: Playing poorly without purpose                   |
+| {% ragamepic 5913,  082325 %} | {% raachpic 36409, 37219, Macca Saver %}           | How much Macca can you save?                                                                 | Demoted for Unwelcome Concept: Secret achievement and pointless excessive grind |
+| {% ragamepic 166,   077798 %} | {% raachpic 5575, 46223, I'm Rich! %}              | Amass $100,000                                                                               | Demoted for Unwelcome Concept: Pointless excessive grinding                     |
+
 ## Site Updates
 ### RAWeb 2025.05.02
 **Highlights for Players**
@@ -70,7 +88,7 @@ This is a very small release that's almost all infrastructure-related for future
 
 [Full release notes](https://github.com/RetroAchievements/RAWeb/releases/tag/2025.05.15)
 
-## RAWeb 2025.05.23
+### RAWeb 2025.05.23
 **Highlight for Players**
 - We've started soft launching "Search 2.0". You can preview how fast it is by searching for users on your DM create page. Expect to see more about Search 2.0 in future site releases.
 - We've made some adjustments to how game pages get stuff from the database. As a result, many game pages should load twice as fast, such as this one. Let us know if you feel a difference!
@@ -95,7 +113,7 @@ This is a very small release that's almost all infrastructure-related for future
 [Full release notes](https://github.com/RetroAchievements/RAWeb/releases/tag/2025.05.30)
 
 ## RATools Updates
-### RATools 1.15.2 has been released
+### RATools 1.15.2
 - This is just a bugfix release
 
 [Full list of changes and download are here](https://github.com/Jamiras/RATools/releases/tag/v1.15.2)

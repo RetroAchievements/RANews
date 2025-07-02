@@ -408,7 +408,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Host(s):</strong></td>
-            <td>{% rauserpic RAEvents %}</td>
+            <td>{% rauserpic drisc %}</td>
         </tr>
         <tr>
             <td><strong>Rankings:</strong></td>

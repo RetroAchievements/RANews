@@ -33,7 +33,7 @@ toc_float: false
     <div class="section-content">
         <h1 id="welcome-to-ranews">Welcome to RANews</h1>
         <p>Welcome to RANews, your #1 source for everything RetroAchievements. In this issue we'll be covering a wide range of topics, the latest in achievement and set news, tons of data organized throughout several articles, and much more. Whether you're a seasoned reader or a first-timer, our team ensures that every issue of RANews is packed with fresh and exciting content. So sit back, relax, and get ready to dive into the exciting world of RetroAchievements with RANews!</p>
-        <p>This months cover is created by {% rauserpic Nydaxn %}.</p>
+        <p>This month's cover is created by {% rauserpic Nydaxn %}.</p>
     </div>
 </div>
 <div class="section-link">
@@ -94,7 +94,7 @@ toc_float: false
     <a href="./rapodcast.html">
         <div class="section-content">
             <h1 id="rapodcast">RAPodcast</h1>
-            <p>Join the RetroAchievements community and listen to the latest RAPodcasts. This months podcast has our host, TimeCrush, discussing with Nydaxn to catch up on their RA journey and discuss the games we we used to play to relax and have some fun.</p>
+            <p>Join the RetroAchievements community and listen to the latest RAPodcasts. This month's podcast has our host, TimeCrush, discussing with Nydaxn to catch up on their RA journey and discuss the games we we used to play to relax and have some fun.</p>
         </div>
     </a>
 </div>
@@ -110,7 +110,7 @@ toc_float: false
     <a href="./rapatches.html">
         <div class="section-content">
             <h1 id="rapatches-and-lost-level-archive">RAPatches and Lost Level Archive</h1>
-            <p>Hash management and tracking has always been an uphill battle. Homebrew, hacks, and patches are supported throughout a wide variety of games and system on RetroAchievements. tele has been on the front line of this battle for many years in an attempt to keep up with never ending list of liked hashes. Let's take a look at the latest hashes that have been organized into the RAPatches repo and Lost Level Archives last month.</p>
+            <p>Hash management and tracking has always been an uphill battle. Homebrew, hacks, and patches are supported throughout a wide variety of Games and systems on RetroAchievements. tele has been on the front line of this battle for many years in an attempt to keep up with the never ending list of linked hashes. Let's take a look at the latest hashes that have been organized into the RAPatches repo and Lost Level Archives last month.</p>
         </div>
     </a>
 </div>
@@ -134,7 +134,7 @@ toc_float: false
     <a href="./raguide.html">
         <div class="section-content">
             <h1 id="raguide">RAGuide</h1>
-            <p>Race against time with our latest RAGuide guide for SOS (Septentrion) on the SNES. Trapped aboard a sinking luxury liner, every decision counts as you search for survivors and fight to escape the sinking ship. Our guide will help you navigate shifting layouts, uncover multiple endings, ensure your survival, master this classic set.</p>
+            <p>Race against time with our latest RAGuide for SOS (Septentrion) on the SNES. Trapped aboard a sinking luxury liner, every decision counts as you search for survivors and fight to escape the sinking ship. Our guide will help you navigate shifting layouts, uncover multiple endings, ensure your survival, and master this classic set.</p>
         </div>
     </a>
 </div><div class="section-link">
@@ -221,7 +221,7 @@ toc_float: false
     <div class="section-content">
         <h1 id="how-to-contribute">How to Contribute</h1>
         <p>
-        If you have an idea for an article to be published in the RANews or want to help support the RANews team, please go to the <code>#ranews</code> Discord channel or the {% rauser RANews %} profile page and send us a message.
+        If you have an idea for an article to be published in RANews or want to help support the RANews team, please go to the <code>#ranews</code> Discord channel or the {% rauser RANews %} profile page and send us a message.
         <br><br>
         Articles are mostly written in Markdown format, though aspects of HTML can be added in if necessary. If you don't know Markdown, you can learn it in 10 minutes following this online tutorial <a href="https://commonmark.org/help/tutorial/">here</a>.</p>
     </div>
@@ -238,81 +238,82 @@ toc_float: false
             </tr>
             <tr>
                 <td>{% rauserpic BahamutVoid %}</td>
+                <td>{% rauserpic Bendyhuman %}</td>
                 <td>{% rauserpic benit149 %}</td>
-                <td>{% rauserpic Brandovsky %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic Brandovsky %}</td>
                 <td>{% rauserpicalt ChoccyMilk, ChocoMilk %}</td>
                 <td>{% rauserpic DarbazMahmood %}</td>
-                <td>{% rauserpic DevCompliance %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic DevCompliance %}</td>
                 <td>{% rauserpic dumbFKNidiot %}</td>
                 <td>{% rauserpic FeuerPilz %}</td>
-                <td>{% rauserpicalt Jaden6Strings, FlakBlast %}</td>
             </tr>
             <tr>
+                <td>{% rauserpicalt Jaden6Strings, FlakBlast %}</td>
                 <td>{% rauserpic Frenchy70 %}</td>
                 <td>{% rauserpic gamer097 %}</td>
-                <td>{% rauserpic Hotscrock %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic Hotscrock %}</td>
                 <td>{% rauserpic HydroBobOmb %}</td>
                 <td>{% rauserpicalt idontwantthis, axlgreez %}</td>
-                <td>{% rauserpic Impferno93 %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic Impferno93 %}</td>
                 <td>{% rauserpic Jmgamer101 %}</td>
                 <td>{% rauserpic jpasqui %}</td>
-                <td>{% rauserpic Maximdraco %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic Maximdraco %}</td>
                 <td>{% rauserpic MeloDeathAtmoBlack %}</td>
                 <td>{% rauserpic MrBird %}</td>
-                <td>{% rauserpic MrOwnership %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic MrOwnership %}</td>
                 <td>{% rauserpic mywifeleftm %}</td>
                 <td>{% rauserpic Nepiki %}</td>
-                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
             </tr>
             <tr>
+                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
                 <td>{% rauserpic Nydaxn %}</td>
                 <td>{% rauserpic Obliv %}</td>
-                <td>{% rauserpicalt PINGG, PenguGG %}</td>
             </tr>
             <tr>
+                <td>{% rauserpicalt PINGG, PenguGG %}</td>
                 <td>{% rauserpic pinguupinguu %}</td>
                 <td>{% rauserpic QATeam %}</td>
-                <td>{% rauserpic RANews %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic RANews %}</td>
                 <td>{% rauserpic Raykusen %}</td>
                 <td>{% rauserpic RetroGameMaster %}</td>
-                <td>{% rauserpic s0uth %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic s0uth %}</td>
                 <td>{% rauserpic Sines %}</td>
                 <td>{% rauserpicalt SnowPin, Snow %}</td>
-                <td>{% rauserpic SporyTike %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic SporyTike %}</td>
                 <td>{% rauserpic StingX2 %}</td>
                 <td>{% rauserpicalt tele, televandalist %}</td>
-                <td>{% rauserpic TimeCrush %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic TimeCrush %}</td>
                 <td>{% rauserpic Timzy88 %}</td>
                 <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
-                <td>{% rauserpicalt MoonMother, Velocifaptor %}</td>
             </tr>
             <tr>
+                <td>{% rauserpicalt MoonMother, Velocifaptor %}</td>
                 <td>{% rauserpic vikdarkbomb %}</td>
                 <td>{% rauserpic WGDragoon %}</td>
-                <td>{% rauserpic Xymjak %}</td>
             </tr>
             <tr>
-                <td colspan=3>{% rauserpic ZeeRA %}</td>
+                <td>{% rauserpic Xymjak %}</td>
+                <td colspan=2>{% rauserpic ZeeRA %}</td>
             </tr>
         </tbody></table>
     </div>
