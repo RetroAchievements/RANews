@@ -373,25 +373,25 @@ toc: true
 ### SNES
 
 
-| Game                                                                           | Icon By                   | Icon Before                                                                        |
-| ------------------------------------------------------------------------------ | ------------------------- | ---------------------------------------------------------------------------------- |
-| {% ragamepic 390, 111495, Ardy Lightfoot %}                                    | {% rauser KnockerKrazy %} | <img class="gameicon" src="https://media.retroachievements.org/Images/076138.png"> |
-| {% ragamepic 456, 112470, Bubsy II %}                                          | {% rauser ZeeRA %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/025684.png"> |
-| {% ragamepic 238, 111712, Goof Troop %}                                        | {% rauser Vlt0 %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/034928.png"> |
-| {% ragamepic 3003, 112864, Heracles no Eikou III: Kamigami no Chinmoku %}      | {% rauser Cartesia %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/047480.png"> |
-| {% ragamepic 940, 111494, Hook %}                                              | {% rauser KnockerKrazy %} | <img class="gameicon" src="https://media.retroachievements.org/Images/085086.png"> |
-| {% ragamepic 3206, 112420, Magic Knight Rayearth %}                            | {% rauser OceanManow %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/053390.png"> |
-| {% ragamepic 3230, 049803, Mario's Early Years: Preschool Fun %}               | {% rauser Layton %}       | <img class="gameicon" src="https://media.retroachievements.org/Badge/72789.png">   |
-| {% ragamepic 3351, 112289, Panel de Pon %}                                     | {% rauser Gollawiz %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/065059.png"> |
-| {% ragamepic 228, 112443, Super Mario World %}                                 | {% rauser Blushfulcorn %} | <img class="gameicon" src="https://media.retroachievements.org/Images/066393.png"> |
-| {% ragamepic 815, 112288, Tetris Attack %}                                     | {% rauser Gollawiz %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/003129.png"> |
-| {% ragamepic 20099, 112982, Uchuu no Kishi: Tekkaman Blade %}                  | {% rauser Vlt0 %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/060073.png"> |
-| {% ragamepic 1302, 111797, Ys III: Wanderers from Ys %}                        | {% rauser Raichi %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/052127.png"> |
-| {% ragamepic 29923, 112860, ~Hack~ 2Kaizo2Learn %}                             | {% rauser Blushfulcorn %} | <img class="gameicon" src="https://media.retroachievements.org/Images/098372.png"> |
-| {% ragamepic 3950, 112395, ~Hack~ I HATE YOU %}                                | {% rauser Hawkow %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/028741.png"> |
-| {% ragamepic 28251, 112605, ~Hack~ Monty Mole Island %}                        | {% rauser OceanManow %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/088013.png"> |
-| {% ragamepic 15720, 112333, ~Hack~ Super Pika Land Ultra: Chocolate Version %} | {% rauser Xalerzyx %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/031304.png"> |
-| {% ragamepic 11639, 112396, ~Unlicensed~ Pokémon Stadium %}                    | {% rauser JustLilith %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/111365.png"> |
+| Game                                                                           | Icon By                      | Icon Before                                                                        |
+| ------------------------------------------------------------------------------ | ---------------------------- | ---------------------------------------------------------------------------------- |
+| {% ragamepic 390, 111495, Ardy Lightfoot %}                                    | {% rauser KnockerKrazy %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/076138.png"> |
+| {% ragamepic 456, 112470, Bubsy II %}                                          | {% rauser ZeeRA %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/025684.png"> |
+| {% ragamepic 238, 111712, Goof Troop %}                                        | {% rauser Vlt0 %}            | <img class="gameicon" src="https://media.retroachievements.org/Images/034928.png"> |
+| {% ragamepic 3003, 112864, Heracles no Eikou III: Kamigami no Chinmoku %}      | {% rauser Cartesia %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/047480.png"> |
+| {% ragamepic 940, 111494, Hook %}                                              | {% rauser KnockerKrazy %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/085086.png"> |
+| {% ragamepic 3206, 112420, Magic Knight Rayearth %}                            | {% rauser OceanManow %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/053390.png"> |
+| {% ragamepic 3230, 049803, Mario's Early Years: Preschool Fun %}               | {% rauser Layton %}          | <img class="gameicon" src="https://media.retroachievements.org/Badge/72789.png">   |
+| {% ragamepic 3351, 112289, Panel de Pon %}                                     | {% rauser Gollawiz %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/065059.png"> |
+| {% ragamepic 228, 112443, Super Mario World %}                                 | {% rauser salvadorbastard %} | <img class="gameicon" src="https://media.retroachievements.org/Images/066393.png"> |
+| {% ragamepic 815, 112288, Tetris Attack %}                                     | {% rauser Gollawiz %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/003129.png"> |
+| {% ragamepic 20099, 112982, Uchuu no Kishi: Tekkaman Blade %}                  | {% rauser Vlt0 %}            | <img class="gameicon" src="https://media.retroachievements.org/Images/060073.png"> |
+| {% ragamepic 1302, 111797, Ys III: Wanderers from Ys %}                        | {% rauser Raichi %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/052127.png"> |
+| {% ragamepic 29923, 112860, ~Hack~ 2Kaizo2Learn %}                             | {% rauser Blushfulcorn %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/098372.png"> |
+| {% ragamepic 3950, 112395, ~Hack~ I HATE YOU %}                                | {% rauser Hawkow %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/028741.png"> |
+| {% ragamepic 28251, 112605, ~Hack~ Monty Mole Island %}                        | {% rauser OceanManow %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/088013.png"> |
+| {% ragamepic 15720, 112333, ~Hack~ Super Pika Land Ultra: Chocolate Version %} | {% rauser Xalerzyx %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/031304.png"> |
+| {% ragamepic 11639, 112396, ~Unlicensed~ Pokémon Stadium %}                    | {% rauser JustLilith %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/111365.png"> |
 
 <a href="#toc">:top:</a>
 
