@@ -181,7 +181,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Notable Details:</strong></td>
-            <td>Board 2: February 15th - March 31st<br>Board 3: April 1 - May 15</td>
+            <td>Board 5: July 1 - August 15</td>
         </tr>
         <tr>
             <td><strong>Rankings:</strong></td>
