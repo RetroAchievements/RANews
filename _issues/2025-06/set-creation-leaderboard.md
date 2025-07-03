@@ -23,6 +23,7 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 1    | {% rauserpic ThatAmericanSlacker %} | 2            |
 | 1    | {% rauserpic voiceofautumn %}       | 2            |
 | 3    | {% rauserpic AfroRyan %}            | 1            |
+| 3    | {% rauserpicalt AmirGaris, Amir96lx %}            | 1            |
 | 3    | {% rauserpic Bl4h8L4hBl4h %}        | 1            |
 | 3    | {% rauserpic Brandovsky %}          | 1            |
 | 3    | {% rauserpic BrunoKiko %}           | 1            |
@@ -30,6 +31,7 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 3    | {% rauserpic Excessiveiser %}       | 1            |
 | 3    | {% rauserpic guindev %}             | 1            |
 | 3    | {% rauserpic Hexadigital %}         | 1            |
+| 3    | {% rauserpicalt LadyNadia, ladynadiad %}          | 1            |
 | 3    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}       | 1            |
 | 3    | {% rauserpic MGNS8M %}              | 1            |
 | 3    | {% rauserpic MrRage2021 %}          | 1            |
@@ -140,8 +142,10 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 1    | {% rauserpic Maximdraco %}          | 1            |
 | 1    | {% rauserpic MGNS8M %}              | 1            |
 | 1    | {% rauserpic pinguupinguu %}        | 1            |
+| 1    | {% rauserpic Pudpod %}              | 1            |
 | 1    | {% rauserpic Sines %}               | 1            |
 | 1    | {% rauserpicalt SnowPin, Snow %}                | 1            |
+| 1    | {% rauserpic StingX2 %}             | 1            |
 | 1    | {% rauserpic Sutarion %}            | 1            |
 | 1    | {% rauserpic Tayadaoc %}            | 1            |
 | 1    | {% rauserpicalt tele, televandalist %}       | 1            |
@@ -158,9 +162,10 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | Rank | Developer                           | Sets Created |
 | ---- | ----------------------------------- | ------------ |
 | 1    | {% rauserpicalt SnowPin, Snow %}                | 11           |
-| 2    | {% rauserpicalt LadyNadia, ladynadiad %}          | 3            |
-| 2    | {% rauserpic multonic %}            | 3            |
-| 2    | {% rauserpic pinguupinguu %}        | 3            |
+| 2    | {% rauserpic pinguupinguu %}        | 4            |
+| 3    | {% rauserpicalt LadyNadia, ladynadiad %}          | 3            |
+| 3    | {% rauserpic multonic %}            | 3            |
+| 5    | {% rauserpic Blazekickn %}          | 2            |
 | 5    | {% rauserpic Cadaxar %}             | 2            |
 | 5    | {% rauserpic Excessiveiser %}       | 2            |
 | 5    | {% rauserpic Hexadigital %}         | 2            |
@@ -177,23 +182,24 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 
 ## Atari 2600
 
-| Rank | Developer                     | Sets Created |
-| ---- | ----------------------------- | ------------ |
-| 1    | {% rauserpic rabbids4eva %}   | 15           |
-| 1    | {% rauserpic RetroDave82 %}   | 15           |
-| 3    | {% rauserpic SporyTike %}     | 7            |
-| 4    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 6            |
-| 5    | {% rauserpic Hexadigital %}   | 5            |
-| 6    | {% rauserpic deividokop %}    | 4            |
-| 6    | {% rauserpic MGNS8M %}        | 4            |
-| 8    | {% rauserpic Brandovsky %}    | 3            |
-| 8    | {% rauserpic ChaosFox %}      | 3            |
-| 8    | {% rauserpic ChaoZz %}        | 3            |
-| 8    | {% rauserpic Grenade44 %}     | 3            |
-| 8    | {% rauserpic Griffin %}       | 3            |
-| 8    | {% rauserpic ikki5 %}         | 3            |
-| 8    | {% rauserpic multonic %}      | 3            |
-| 8    | {% rauserpicalt tele, televandalist %} | 3            |
+| Rank | Developer                      | Sets Created |
+| ---- | ------------------------------ | ------------ |
+| 1    | {% rauserpic RetroDave82 %}    | 16           |
+| 2    | {% rauserpic rabbids4eva %}    | 15           |
+| 3    | {% rauserpic SporyTike %}      | 7            |
+| 4    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}  | 6            |
+| 5    | {% rauserpic Hexadigital %}    | 5            |
+| 6    | {% rauserpic deividokop %}     | 4            |
+| 6    | {% rauserpic MGNS8M %}         | 4            |
+| 8    | {% rauserpic Brandovsky %}     | 3            |
+| 8    | {% rauserpic ChaosFox %}       | 3            |
+| 8    | {% rauserpic ChaoZz %}         | 3            |
+| 8    | {% rauserpic Grenade44 %}      | 3            |
+| 8    | {% rauserpic Griffin %}        | 3            |
+| 8    | {% rauserpic ikki5 %}          | 3            |
+| 8    | {% rauserpic multonic %}       | 3            |
+| 8    | {% rauserpicalt tele, televandalist %}  | 3            |
+| 8    | {% rauserpic WanderingHeiho %} | 3            |
 
 ## Atari 7800
 
@@ -261,20 +267,31 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 
 | Rank | Developer                       | Sets Created |
 | ---- | ------------------------------- | ------------ |
-| 1    | {% rauserpic Blazekickn %}      | 1            |
-| 1    | {% rauserpic Brandovsky %}      | 1            |
-| 1    | {% rauserpic BrunoKiko %}       | 1            |
-| 1    | {% rauserpicalt Brylefi, Bryan1150 %}       | 1            |
-| 1    | {% rauserpic Excessiveiser %}   | 1            |
-| 1    | {% rauserpic Hexadigital %}     | 1            |
-| 1    | {% rauserpic LogicalFallacy %}  | 1            |
-| 1    | {% rauserpic LordAndrew %}      | 1            |
-| 1    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}   | 1            |
-| 1    | {% rauserpic MGNS8M %}          | 1            |
-| 1    | {% rauserpic pinguupinguu %}    | 1            |
-| 1    | {% rauserpic Searo %}           | 1            |
-| 1    | {% rauserpic SubliminalSiren %} | 1            |
-| 1    | {% rauserpic ZamArch %}         | 1            |
+| 1    | {% rauserpic TheMysticalOne %}  | 2            |
+| 2    | {% rauserpic AuburnRDM %}       | 1            |
+| 2    | {% rauserpic Blazekickn %}      | 1            |
+| 2    | {% rauserpic Brandovsky %}      | 1            |
+| 2    | {% rauserpic BrunoKiko %}       | 1            |
+| 2    | {% rauserpicalt Brylefi, Bryan1150 %}       | 1            |
+| 2    | {% rauserpicalt Darky, DarkyAndreas %}    | 1            |
+| 2    | {% rauserpic Excessiveiser %}   | 1            |
+| 2    | {% rauserpic Hexadigital %}     | 1            |
+| 2    | {% rauserpicalt LadyNadia, ladynadiad %}      | 1            |
+| 2    | {% rauserpic LogicalFallacy %}  | 1            |
+| 2    | {% rauserpic LordAndrew %}      | 1            |
+| 2    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}   | 1            |
+| 2    | {% rauserpic Maximdraco %}      | 1            |
+| 2    | {% rauserpic MGNS8M %}          | 1            |
+| 2    | {% rauserpic pinguupinguu %}    | 1            |
+| 2    | {% rauserpic Searo %}           | 1            |
+| 2    | {% rauserpic Sines %}           | 1            |
+| 2    | {% rauserpicalt SnowPin, Snow %}            | 1            |
+| 2    | {% rauserpic SubliminalSiren %} | 1            |
+| 2    | {% rauserpic Tayadaoc %}        | 1            |
+| 2    | {% rauserpicalt tele, televandalist %}   | 1            |
+| 2    | {% rauserpic TheJediSonic %}    | 1            |
+| 2    | {% rauserpic voiceofautumn %}   | 1            |
+| 2    | {% rauserpic ZamArch %}         | 1            |
 
 ## Atari Lynx
 
@@ -350,16 +367,17 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 
 | Rank | Developer                           | Sets Created |
 | ---- | ----------------------------------- | ------------ |
-| 1    | {% rauserpicalt AlexHylian, AlexGatao %}           | 6            |
-| 1    | {% rauserpic MGNS8M %}              | 6            |
-| 3    | {% rauserpic Excessiveiser %}       | 5            |
-| 3    | {% rauserpic shnick1980 %}          | 5            |
-| 3    | {% rauserpic zxmega %}              | 5            |
+| 1    | {% rauserpicalt AlexHylian, AlexGatao %}           | 7            |
+| 2    | {% rauserpic MGNS8M %}              | 6            |
+| 2    | {% rauserpic shnick1980 %}          | 6            |
+| 4    | {% rauserpic Excessiveiser %}       | 5            |
+| 4    | {% rauserpic zxmega %}              | 5            |
 | 6    | {% rauserpic Retrokaiser %}         | 4            |
 | 6    | {% rauserpic SlashTangent %}        | 4            |
 | 6    | {% rauserpicalt tele, televandalist %}       | 4            |
 | 9    | {% rauserpic Alfex %}               | 3            |
 | 9    | {% rauserpic NeonPug %}             | 3            |
+| 9    | {% rauserpicalt SnowPin, Snow %}                | 3            |
 | 9    | {% rauserpic ThatAmericanSlacker %} | 3            |
 
 ## Elektor TV Games Computer
@@ -372,9 +390,11 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 1    | {% rauserpic Brandovsky %}          | 1            |
 | 1    | {% rauserpicalt Brylefi, Bryan1150 %}           | 1            |
 | 1    | {% rauserpic Cadaxar %}             | 1            |
+| 1    | {% rauserpicalt Darky, DarkyAndreas %}        | 1            |
 | 1    | {% rauserpic Excessiveiser %}       | 1            |
 | 1    | {% rauserpic Hexadigital %}         | 1            |
 | 1    | {% rauserpicalt LadyNadia, ladynadiad %}          | 1            |
+| 1    | {% rauserpic LogicalFallacy %}      | 1            |
 | 1    | {% rauserpic LordAndrew %}          | 1            |
 | 1    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}       | 1            |
 | 1    | {% rauserpic Maximdraco %}          | 1            |
@@ -383,28 +403,33 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 1    | {% rauserpic Sines %}               | 1            |
 | 1    | {% rauserpicalt SnowPin, Snow %}                | 1            |
 | 1    | {% rauserpic Sutarion %}            | 1            |
+| 1    | {% rauserpic Tayadaoc %}            | 1            |
 | 1    | {% rauserpicalt tele, televandalist %}       | 1            |
 | 1    | {% rauserpic ThatAmericanSlacker %} | 1            |
 | 1    | {% rauserpic TheJediSonic %}        | 1            |
 | 1    | {% rauserpic TheMysticalOne %}      | 1            |
 | 1    | {% rauserpic tomojin %}             | 1            |
+| 1    | {% rauserpic voiceofautumn %}       | 1            |
 | 1    | {% rauserpic xnaivx %}              | 1            |
 | 1    | {% rauserpic ZamArch %}             | 1            |
-
 
 ## Fairchild Channel F
 
 | Rank | Developer                           | Sets Created |
 | ---- | ----------------------------------- | ------------ |
 | 1    | {% rauserpic Maximdraco %}          | 2            |
+| 2    | {% rauserpicalt AmirGaris, Amir96lx %}            | 1            |
+| 2    | {% rauserpic AuburnRDM %}           | 1            |
 | 2    | {% rauserpic BahamutVoid %}         | 1            |
 | 2    | {% rauserpic Bartis1989 %}          | 1            |
 | 2    | {% rauserpicalt Brylefi, Bryan1150 %}           | 1            |
+| 2    | {% rauserpic Cadaxar %}             | 1            |
 | 2    | {% rauserpic Etron %}               | 1            |
 | 2    | {% rauserpic Excessiveiser %}       | 1            |
 | 2    | {% rauserpic Falcus %}              | 1            |
 | 2    | {% rauserpic Gudra %}               | 1            |
 | 2    | {% rauserpic Hexadigital %}         | 1            |
+| 2    | {% rauserpic KingS1zzle %}          | 1            |
 | 2    | {% rauserpicalt LadyNadia, ladynadiad %}          | 1            |
 | 2    | {% rauserpic LogicalFallacy %}      | 1            |
 | 2    | {% rauserpic LordAndrew %}          | 1            |
@@ -413,11 +438,15 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 2    | {% rauserpicalt agoodduck, Nevermond12 %}         | 1            |
 | 2    | {% rauserpic pickledyamsman %}      | 1            |
 | 2    | {% rauserpic pinguupinguu %}        | 1            |
+| 2    | {% rauserpic Pudpod %}              | 1            |
 | 2    | {% rauserpic Searo %}               | 1            |
 | 2    | {% rauserpic Sines %}               | 1            |
 | 2    | {% rauserpicalt SnowPin, Snow %}                | 1            |
+| 2    | {% rauserpic Soulsderfuchs %}       | 1            |
 | 2    | {% rauserpic SporyTike %}           | 1            |
+| 2    | {% rauserpic StingX2 %}             | 1            |
 | 2    | {% rauserpic Tayadaoc %}            | 1            |
+| 2    | {% rauserpicalt tele, televandalist %}       | 1            |
 | 2    | {% rauserpic ThatAmericanSlacker %} | 1            |
 | 2    | {% rauserpic TheJediSonic %}        | 1            |
 | 2    | {% rauserpic TheMysticalOne %}      | 1            |
@@ -429,20 +458,16 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 
 | Rank | Developer                     | Sets Created |
 | ---- | ----------------------------- | ------------ |
-| 1    | {% rauserpic jackolantern %}  | 24           |
+| 1    | {% rauserpic jackolantern %}  | 25           |
 | 2    | {% rauserpic SporyTike %}     | 16           |
 | 3    | {% rauserpic stfN1337 %}      | 12           |
 | 4    | {% rauserpic voiceofautumn %} | 10           |
 | 5    | {% rauserpic MrOwnership %}   | 9            |
 | 5    | {% rauserpicalt SnowPin, Snow %}          | 9            |
 | 7    | {% rauserpic Cadaxar %}       | 8            |
+| 7    | {% rauserpic StingX2 %}       | 8            |
 | 7    | {% rauserpic wolfman2000 %}   | 8            |
-| 9    | {% rauserpic MGNS8M %}        | 7            |
-| 10   | {% rauserpic dude1286 %}      | 6            |
-| 10   | {% rauserpic feifabricio %}   | 6            |
-| 10   | {% rauserpic Hexadigital %}   | 6            |
-| 10   | {% rauserpicalt LadyNadia, ladynadiad %}    | 6            |
-| 10   | {% rauserpic StingX2 %}       | 6            |
+| 10   | {% rauserpic MGNS8M %}        | 7            |
 
 ## Game Boy Advance
 
@@ -467,11 +492,11 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 2    | {% rauserpic SporyTike %}     | 21           |
 | 3    | {% rauserpic jackolantern %}  | 10           |
 | 3    | {% rauserpic Layton %}        | 10           |
-| 5    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 8            |
-| 5    | {% rauserpic monkeytoung %}   | 8            |
-| 5    | {% rauserpic MrOwnership %}   | 8            |
-| 5    | {% rauserpic Rewsifer %}      | 8            |
-| 5    | {% rauserpicalt SnowPin, Snow %}          | 8            |
+| 5    | {% rauserpic Rewsifer %}      | 9            |
+| 6    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 8            |
+| 6    | {% rauserpic monkeytoung %}   | 8            |
+| 6    | {% rauserpic MrOwnership %}   | 8            |
+| 6    | {% rauserpicalt SnowPin, Snow %}          | 8            |
 | 10   | {% rauserpic wolfman2000 %}   | 7            |
 
 ## Game Gear
@@ -509,21 +534,23 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 2    | {% rauserpic TheMysticalOne %}  | 7            |
 | 2    | {% rauserpic timenoe %}         | 7            |
 | 5    | {% rauserpic Blazekickn %}      | 6            |
+| 5    | {% rauserpicalt Darky, DarkyAndreas %}    | 6            |
 | 5    | {% rauserpic WilHiteWarrior %}  | 6            |
-| 7    | {% rauserpicalt Darky, DarkyAndreas %}    | 5            |
-| 7    | {% rauserpic Layton %}          | 5            |
+| 8    | {% rauserpic Layton %}          | 5            |
 | 9    | {% rauserpic blendedsea %}      | 4            |
 | 9    | {% rauserpic LiveFastCyYoung %} | 4            |
+| 9    | {% rauserpic NeonPug %}         | 4            |
 | 9    | {% rauserpicalt SnowPin, Snow %}            | 4            |
+| 9    | {% rauserpic Whithbrin %}       | 4            |
 
 ## Genesis/Mega Drive
 
 | Rank | Developer                      | Sets Created |
 | ---- | ------------------------------ | ------------ |
-| 1    | {% rauserpic Pereira006 %}     | 19           |
+| 1    | {% rauserpic Pereira006 %}     | 20           |
 | 2    | {% rauserpic Stronghammer22 %} | 16           |
 | 3    | {% rauserpic Bl4h8L4hBl4h %}   | 14           |
-| 4    | {% rauserpic Falconburns %}    | 13           |
+| 3    | {% rauserpic Falconburns %}    | 14           |
 | 5    | {% rauserpic Alena %}          | 12           |
 | 5    | {% rauserpic WilHiteWarrior %} | 12           |
 | 7    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}  | 11           |
@@ -650,35 +677,44 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 
 ## Mega Duck
 
-| Rank | Developer                       | Sets Created |
-| ---- | ------------------------------- | ------------ |
-| 1    | {% rauserpic pinguupinguu %}    | 2            |
-| 2    | {% rauserpicalt AmirGaris, Amir96lx %}        | 1            |
-| 2    | {% rauserpic BahamutVoid %}     | 1            |
-| 2    | {% rauserpic Bartis1989 %}      | 1            |
-| 2    | {% rauserpic Blazekickn %}      | 1            |
-| 2    | {% rauserpic Brandovsky %}      | 1            |
-| 2    | {% rauserpic Cadaxar %}         | 1            |
-| 2    | {% rauserpic DoctorV %}         | 1            |
-| 2    | {% rauserpic Etron %}           | 1            |
-| 2    | {% rauserpic Excessiveiser %}   | 1            |
-| 2    | {% rauserpic KingS1zzle %}      | 1            |
-| 2    | {% rauserpic LordAndrew %}      | 1            |
-| 2    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}   | 1            |
-| 2    | {% rauserpic Maximdraco %}      | 1            |
-| 2    | {% rauserpic MGNS8M %}          | 1            |
-| 2    | {% rauserpic NamcoPlayer9871 %} | 1            |
-| 2    | {% rauserpic pickledyamsman %}  | 1            |
-| 2    | {% rauserpic Pudpod %}          | 1            |
-| 2    | {% rauserpic Raichi %}          | 1            |
-| 2    | {% rauserpic Searo %}           | 1            |
-| 2    | {% rauserpic SporyTike %}       | 1            |
-| 2    | {% rauserpic Tayadaoc %}        | 1            |
-| 2    | {% rauserpicalt tele, televandalist %}   | 1            |
-| 2    | {% rauserpic TheJediSonic %}    | 1            |
-| 2    | {% rauserpic TheMysticalOne %}  | 1            |
-| 2    | {% rauserpic timenoe %}         | 1            |
-| 2    | {% rauserpic wolfman2000 %}     | 1            |
+| Rank | Developer                           | Sets Created |
+| ---- | ----------------------------------- | ------------ |
+| 1    | {% rauserpic pinguupinguu %}        | 2            |
+| 2    | {% rauserpicalt AmirGaris, Amir96lx %}            | 1            |
+| 2    | {% rauserpic AuburnRDM %}           | 1            |
+| 2    | {% rauserpic BahamutVoid %}         | 1            |
+| 2    | {% rauserpic Bartis1989 %}          | 1            |
+| 2    | {% rauserpic Blazekickn %}          | 1            |
+| 2    | {% rauserpic Brandovsky %}          | 1            |
+| 2    | {% rauserpic Cadaxar %}             | 1            |
+| 2    | {% rauserpic DoctorV %}             | 1            |
+| 2    | {% rauserpic Etron %}               | 1            |
+| 2    | {% rauserpic Excessiveiser %}       | 1            |
+| 2    | {% rauserpic Falcus %}              | 1            |
+| 2    | {% rauserpic Hexadigital %}         | 1            |
+| 2    | {% rauserpic Infernox %}            | 1            |
+| 2    | {% rauserpic KingS1zzle %}          | 1            |
+| 2    | {% rauserpic LogicalFallacy %}      | 1            |
+| 2    | {% rauserpic LordAndrew %}          | 1            |
+| 2    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}       | 1            |
+| 2    | {% rauserpic Maximdraco %}          | 1            |
+| 2    | {% rauserpic Mendil %}              | 1            |
+| 2    | {% rauserpic MGNS8M %}              | 1            |
+| 2    | {% rauserpic NamcoPlayer9871 %}     | 1            |
+| 2    | {% rauserpic pickledyamsman %}      | 1            |
+| 2    | {% rauserpic Pudpod %}              | 1            |
+| 2    | {% rauserpic Raichi %}              | 1            |
+| 2    | {% rauserpic Searo %}               | 1            |
+| 2    | {% rauserpic Sines %}               | 1            |
+| 2    | {% rauserpic SporyTike %}           | 1            |
+| 2    | {% rauserpic Sutarion %}            | 1            |
+| 2    | {% rauserpic Tayadaoc %}            | 1            |
+| 2    | {% rauserpicalt tele, televandalist %}       | 1            |
+| 2    | {% rauserpic ThatAmericanSlacker %} | 1            |
+| 2    | {% rauserpic TheJediSonic %}        | 1            |
+| 2    | {% rauserpic TheMysticalOne %}      | 1            |
+| 2    | {% rauserpic timenoe %}             | 1            |
+| 2    | {% rauserpic wolfman2000 %}         | 1            |
 
 ## MSX
 
@@ -729,11 +765,13 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | ---- | ----------------------------------- | ------------ |
 | 1    | {% rauserpic Chr0x %}               | 2            |
 | 1    | {% rauserpic TheMysticalOne %}      | 2            |
+| 3    | {% rauserpicalt AmirGaris, Amir96lx %}            | 1            |
 | 3    | {% rauserpic AuburnRDM %}           | 1            |
 | 3    | {% rauserpic Bl4h8L4hBl4h %}        | 1            |
 | 3    | {% rauserpic BoomEX %}              | 1            |
 | 3    | {% rauserpic Brandovsky %}          | 1            |
 | 3    | {% rauserpic clymax %}              | 1            |
+| 3    | {% rauserpicalt Darky, DarkyAndreas %}        | 1            |
 | 3    | {% rauserpic DoctorV %}             | 1            |
 | 3    | {% rauserpic Excessiveiser %}       | 1            |
 | 3    | {% rauserpic Hexadigital %}         | 1            |
@@ -833,9 +871,9 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 
 | Rank | Developer                     | Sets Created |
 | ---- | ----------------------------- | ------------ |
-| 1    | {% rauserpic SporyTike %}     | 44           |
-| 2    | {% rauserpic pinguupinguu %}  | 34           |
-| 3    | {% rauserpic stfN1337 %}      | 32           |
+| 1    | {% rauserpic SporyTike %}     | 45           |
+| 2    | {% rauserpic pinguupinguu %}  | 35           |
+| 3    | {% rauserpic stfN1337 %}      | 33           |
 | 4    | {% rauserpicalt Brylefi, Bryan1150 %}     | 24           |
 | 5    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 18           |
 | 6    | {% rauserpic blendedsea %}    | 12           |
@@ -965,11 +1003,11 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 
 | Rank | Developer                      | Sets Created |
 | ---- | ------------------------------ | ------------ |
-| 1    | {% rauserpicalt SnowPin, Snow %}           | 38           |
+| 1    | {% rauserpicalt SnowPin, Snow %}           | 40           |
 | 2    | {% rauserpic zxmega %}         | 29           |
-| 3    | {% rauserpic Excessiveiser %}  | 26           |
-| 4    | {% rauserpic TeddyWestside %}  | 25           |
-| 4    | {% rauserpic WilHiteWarrior %} | 25           |
+| 3    | {% rauserpic WilHiteWarrior %} | 27           |
+| 4    | {% rauserpic Excessiveiser %}  | 26           |
+| 5    | {% rauserpic TeddyWestside %}  | 25           |
 | 6    | {% rauserpicalt AlexHylian, AlexGatao %}      | 23           |
 | 7    | {% rauserpic timenoe %}        | 22           |
 | 8    | {% rauserpic NeonPug %}        | 20           |
@@ -998,8 +1036,10 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 1    | {% rauserpic Blazekickn %}       | 5            |
 | 2    | {% rauserpic pinguupinguu %}     | 2            |
 | 2    | {% rauserpic SporyTike %}        | 2            |
+| 4    | {% rauserpic adamjohnny5 %}      | 1            |
 | 4    | {% rauserpic BahamutVoid %}      | 1            |
 | 4    | {% rauserpic BigWeedSmokerMan %} | 1            |
+| 4    | {% rauserpic Bl4h8L4hBl4h %}     | 1            |
 | 4    | {% rauserpic Brandovsky %}       | 1            |
 | 4    | {% rauserpicalt Brylefi, Bryan1150 %}        | 1            |
 | 4    | {% rauserpic Cadaxar %}          | 1            |
@@ -1012,6 +1052,8 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 4    | {% rauserpicalt LadyNadia, ladynadiad %}       | 1            |
 | 4    | {% rauserpic LogicalFallacy %}   | 1            |
 | 4    | {% rauserpic LordAndrew %}       | 1            |
+| 4    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}    | 1            |
+| 4    | {% rauserpic Maximdraco %}       | 1            |
 | 4    | {% rauserpic MGNS8M %}           | 1            |
 | 4    | {% rauserpic monkeytoung %}      | 1            |
 | 4    | {% rauserpic Pelouch %}          | 1            |
@@ -1021,6 +1063,7 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 4    | {% rauserpicalt SnowPin, Snow %}             | 1            |
 | 4    | {% rauserpic soopercool101 %}    | 1            |
 | 4    | {% rauserpic StingX2 %}          | 1            |
+| 4    | {% rauserpic Sutarion %}         | 1            |
 | 4    | {% rauserpicalt tele, televandalist %}    | 1            |
 | 4    | {% rauserpic TheMysticalOne %}   | 1            |
 | 4    | {% rauserpic voiceofautumn %}    | 1            |
@@ -1122,7 +1165,6 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 9    | {% rauserpic Dexterspet %}      | 19           |
 | 9    | {% rauserpic EulerMoises1981 %} | 19           |
 
-
 ## Uzebox
 
 | Rank | Developer                           | Sets Created |
@@ -1130,35 +1172,36 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 1    | {% rauserpic clymax %}              | 3            |
 | 1    | {% rauserpic Excessiveiser %}       | 3            |
 | 1    | {% rauserpic Hexadigital %}         | 3            |
+| 4    | {% rauserpic KingS1zzle %}          | 2            |
 | 4    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}       | 2            |
 | 4    | {% rauserpic pinguupinguu %}        | 2            |
-| 6    | {% rauserpicalt AmirGaris, Amir96lx %}            | 1            |
-| 6    | {% rauserpic AuburnRDM %}           | 1            |
-| 6    | {% rauserpic Brandovsky %}          | 1            |
-| 6    | {% rauserpic Cadaxar %}             | 1            |
-| 6    | {% rauserpic Casually %}            | 1            |
-| 6    | {% rauserpicalt Darky, DarkyAndreas %}        | 1            |
-| 6    | {% rauserpic Etron %}               | 1            |
-| 6    | {% rauserpic KingS1zzle %}          | 1            |
-| 6    | {% rauserpicalt LadyNadia, ladynadiad %}          | 1            |
-| 6    | {% rauserpic LogicalFallacy %}      | 1            |
-| 6    | {% rauserpic LordAndrew %}          | 1            |
-| 6    | {% rauserpic Maximdraco %}          | 1            |
-| 6    | {% rauserpic MGNS8M %}              | 1            |
-| 6    | {% rauserpic Sines %}               | 1            |
-| 6    | {% rauserpicalt SnowPin, Snow %}                | 1            |
-| 6    | {% rauserpic Sutarion %}            | 1            |
-| 6    | {% rauserpic Tayadaoc %}            | 1            |
-| 6    | {% rauserpicalt tele, televandalist %}       | 1            |
-| 6    | {% rauserpic ThatAmericanSlacker %} | 1            |
-| 6    | {% rauserpic TheJediSonic %}        | 1            |
-| 6    | {% rauserpic TheMysticalOne %}      | 1            |
-| 6    | {% rauserpic tomojin %}             | 1            |
-| 6    | {% rauserpic voiceofautumn %}       | 1            |
-| 6    | {% rauserpic WanderingHeiho %}      | 1            |
-| 6    | {% rauserpic wolfman2000 %}         | 1            |
-| 6    | {% rauserpic xnaivx %}              | 1            |
-| 6    | {% rauserpic ZamArch %}             | 1            |
+| 7    | {% rauserpicalt AmirGaris, Amir96lx %}            | 1            |
+| 7    | {% rauserpic AuburnRDM %}           | 1            |
+| 7    | {% rauserpic Brandovsky %}          | 1            |
+| 7    | {% rauserpic Cadaxar %}             | 1            |
+| 7    | {% rauserpic Casually %}            | 1            |
+| 7    | {% rauserpicalt Darky, DarkyAndreas %}        | 1            |
+| 7    | {% rauserpic Etron %}               | 1            |
+| 7    | {% rauserpicalt LadyNadia, ladynadiad %}          | 1            |
+| 7    | {% rauserpic LogicalFallacy %}      | 1            |
+| 7    | {% rauserpic LordAndrew %}          | 1            |
+| 7    | {% rauserpic Maximdraco %}          | 1            |
+| 7    | {% rauserpic MGNS8M %}              | 1            |
+| 7    | {% rauserpic Pudpod %}              | 1            |
+| 7    | {% rauserpic Sines %}               | 1            |
+| 7    | {% rauserpicalt SnowPin, Snow %}                | 1            |
+| 7    | {% rauserpic Sutarion %}            | 1            |
+| 7    | {% rauserpic Tayadaoc %}            | 1            |
+| 7    | {% rauserpicalt tele, televandalist %}       | 1            |
+| 7    | {% rauserpic ThatAmericanSlacker %} | 1            |
+| 7    | {% rauserpic TheJediSonic %}        | 1            |
+| 7    | {% rauserpic TheMysticalOne %}      | 1            |
+| 7    | {% rauserpic tomojin %}             | 1            |
+| 7    | {% rauserpic voiceofautumn %}       | 1            |
+| 7    | {% rauserpic WanderingHeiho %}      | 1            |
+| 7    | {% rauserpic wolfman2000 %}         | 1            |
+| 7    | {% rauserpic xnaivx %}              | 1            |
+| 7    | {% rauserpic ZamArch %}             | 1            |
 
 ## Vectrex
 
@@ -1240,50 +1283,51 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | ---- | ----------------------------------- | ------------ |
 | 1    | {% rauserpicalt AmirGaris, Amir96lx %}            | 4            |
 | 2    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}       | 3            |
+| 3    | {% rauserpicalt Brylefi, Bryan1150 %}           | 2            |
 | 3    | {% rauserpic Etron %}               | 2            |
 | 3    | {% rauserpic Hexadigital %}         | 2            |
 | 3    | {% rauserpic LogicalFallacy %}      | 2            |
 | 3    | {% rauserpic LordAndrew %}          | 2            |
 | 3    | {% rauserpicalt SnowPin, Snow %}                | 2            |
 | 3    | {% rauserpic SporyTike %}           | 2            |
-| 9    | {% rauserpic BahamutVoid %}         | 1            |
-| 9    | {% rauserpic Bartis1989 %}          | 1            |
-| 9    | {% rauserpic BigWeedSmokerMan %}    | 1            |
-| 9    | {% rauserpic Bl4h8L4hBl4h %}        | 1            |
-| 9    | {% rauserpic Blazekickn %}          | 1            |
-| 9    | {% rauserpic Brandovsky %}          | 1            |
-| 9    | {% rauserpicalt Brylefi, Bryan1150 %}           | 1            |
-| 9    | {% rauserpic Cadaxar %}             | 1            |
-| 9    | {% rauserpicalt ChoccyMilk, ChocoMilk %}           | 1            |
-| 9    | {% rauserpic DoctorV %}             | 1            |
-| 9    | {% rauserpic Excessiveiser %}       | 1            |
-| 9    | {% rauserpic guindev %}             | 1            |
-| 9    | {% rauserpic Infernox %}            | 1            |
-| 9    | {% rauserpic kmpers %}              | 1            |
-| 9    | {% rauserpic Krylan %}              | 1            |
-| 9    | {% rauserpicalt LadyNadia, ladynadiad %}          | 1            |
-| 9    | {% rauserpic malasdair %}           | 1            |
-| 9    | {% rauserpic Maximdraco %}          | 1            |
-| 9    | {% rauserpic Mendil %}              | 1            |
-| 9    | {% rauserpic MGNS8M %}              | 1            |
-| 9    | {% rauserpic pinguupinguu %}        | 1            |
-| 9    | {% rauserpic Released %}            | 1            |
-| 9    | {% rauserpic Scott %}               | 1            |
-| 9    | {% rauserpic Searo %}               | 1            |
-| 9    | {% rauserpic Sines %}               | 1            |
-| 9    | {% rauserpic StingX2 %}             | 1            |
-| 9    | {% rauserpicalt tele, televandalist %}       | 1            |
-| 9    | {% rauserpic ThatAmericanSlacker %} | 1            |
-| 9    | {% rauserpic TheJediSonic %}        | 1            |
-| 9    | {% rauserpic TheMysticalOne %}      | 1            |
-| 9    | {% rauserpic timenoe %}             | 1            |
-| 9    | {% rauserpic ToastLover %}          | 1            |
-| 9    | {% rauserpic Vancleef %}            | 1            |
-| 9    | {% rauserpic ventuz %}              | 1            |
-| 9    | {% rauserpic Vofel %}               | 1            |
-| 9    | {% rauserpic voiceofautumn %}       | 1            |
-| 9    | {% rauserpic wolfman2000 %}         | 1            |
-| 9    | {% rauserpic ZZKer %}               | 1            |
+| 10   | {% rauserpic BahamutVoid %}         | 1            |
+| 10   | {% rauserpic Bartis1989 %}          | 1            |
+| 10   | {% rauserpic BigWeedSmokerMan %}    | 1            |
+| 10   | {% rauserpic Bl4h8L4hBl4h %}        | 1            |
+| 10   | {% rauserpic Blazekickn %}          | 1            |
+| 10   | {% rauserpic Brandovsky %}          | 1            |
+| 10   | {% rauserpic Cadaxar %}             | 1            |
+| 10   | {% rauserpicalt ChoccyMilk, ChocoMilk %}           | 1            |
+| 10   | {% rauserpic DoctorV %}             | 1            |
+| 10   | {% rauserpic Excessiveiser %}       | 1            |
+| 10   | {% rauserpic FRAN269 %}             | 1            |
+| 10   | {% rauserpic guindev %}             | 1            |
+| 10   | {% rauserpic Infernox %}            | 1            |
+| 10   | {% rauserpic kmpers %}              | 1            |
+| 10   | {% rauserpic Krylan %}              | 1            |
+| 10   | {% rauserpicalt LadyNadia, ladynadiad %}          | 1            |
+| 10   | {% rauserpic malasdair %}           | 1            |
+| 10   | {% rauserpic Maximdraco %}          | 1            |
+| 10   | {% rauserpic Mendil %}              | 1            |
+| 10   | {% rauserpic MGNS8M %}              | 1            |
+| 10   | {% rauserpic pinguupinguu %}        | 1            |
+| 10   | {% rauserpic Released %}            | 1            |
+| 10   | {% rauserpic Scott %}               | 1            |
+| 10   | {% rauserpic Searo %}               | 1            |
+| 10   | {% rauserpic Sines %}               | 1            |
+| 10   | {% rauserpic StingX2 %}             | 1            |
+| 10   | {% rauserpicalt tele, televandalist %}       | 1            |
+| 10   | {% rauserpic ThatAmericanSlacker %} | 1            |
+| 10   | {% rauserpic TheJediSonic %}        | 1            |
+| 10   | {% rauserpic TheMysticalOne %}      | 1            |
+| 10   | {% rauserpic timenoe %}             | 1            |
+| 10   | {% rauserpic ToastLover %}          | 1            |
+| 10   | {% rauserpic Vancleef %}            | 1            |
+| 10   | {% rauserpic ventuz %}              | 1            |
+| 10   | {% rauserpic Vofel %}               | 1            |
+| 10   | {% rauserpic voiceofautumn %}       | 1            |
+| 10   | {% rauserpic wolfman2000 %}         | 1            |
+| 10   | {% rauserpic ZZKer %}               | 1            |
 
 ## Watara Supervision
 
@@ -1313,6 +1357,7 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 5    | {% rauserpic LordAndrew %}       | 1            |
 | 5    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}    | 1            |
 | 5    | {% rauserpic Maximdraco %}       | 1            |
+| 5    | {% rauserpic Mendil %}           | 1            |
 | 5    | {% rauserpic MGNS8M %}           | 1            |
 | 5    | {% rauserpic minibt %}           | 1            |
 | 5    | {% rauserpic mopain85 %}         | 1            |
@@ -1320,8 +1365,10 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 | 5    | {% rauserpic Ryudo %}            | 1            |
 | 5    | {% rauserpic Searo %}            | 1            |
 | 5    | {% rauserpic Sines %}            | 1            |
+| 5    | {% rauserpic snek2eater %}       | 1            |
 | 5    | {% rauserpicalt SnowPin, Snow %}             | 1            |
 | 5    | {% rauserpicalt tele, televandalist %}    | 1            |
+| 5    | {% rauserpic TheJediSonic %}     | 1            |
 | 5    | {% rauserpic TheMysticalOne %}   | 1            |
 | 5    | {% rauserpic Vancleef %}         | 1            |
 | 5    | {% rauserpic voiceofautumn %}    | 1            |
