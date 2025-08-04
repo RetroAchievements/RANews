@@ -140,7 +140,7 @@ toc: true
 
 | Game                                                                                           | Icon By                  | Icon Before                                                                        |
 | ---------------------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------- |
-| {% ragamepic 4099, 113697, Arthur's Absolutely Fun Day! %}                                     | {% rauser ShibuyaGato %} | <img class="gameicon" src="https://media.retroachievements.org/Images/016885.png"> |
+| {% ragamepic 4099, 113697, Arthur's Absolutely Fun Day! %}                                     | {% rauser ZeeRA %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/016885.png"> |
 | {% ragamepic 8571, 113443, Batman Beyond: Return of the Joker %}                               | {% rauser OceanManow %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/066982.png"> |
 | {% ragamepic 10849, 114100, Buzz Lightyear of Star Command %}                                  | {% rauser Codes %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/014671.png"> |
 | {% ragamepic 5130, 114284, Dragon Tales: Dragon Wings %}                                       | {% rauser ZeeRA %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/085620.png"> |
