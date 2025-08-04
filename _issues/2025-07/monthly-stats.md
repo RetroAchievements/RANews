@@ -40,7 +40,7 @@ Check out some general stats from this month.
         <tr><td>ColecoVision                </td><td>    22</td></tr>
         <tr><td>Dreamcast                   </td><td>   107</td></tr>
         <tr><td>Events                      </td><td>     7</td></tr>
-        <tr><td>Game Boy                    </td><td>     9</td></tr
+        <tr><td>Game Boy                    </td><td>     9</td></tr>
         <tr><td>Game Boy Advance            </td><td>   206</td></tr>
         <tr><td>Game Boy Color              </td><td>   114</td></tr>
     </tbody></table>

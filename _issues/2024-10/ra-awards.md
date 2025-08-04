@@ -133,10 +133,10 @@ By: {% rauserpic Schengo %}
 
 Runners-up:
 
-| Game                                                          | Developer                                            |
-| ------------------------------------------------------------- | ---------------------------------------------------- |
-| {% ragamepic 15621, 080584, \~Hack\~ Pokemon Emerald Kaizo %} | {% rauserpic Schengo %}<br>{% rauserpic Bryan1150 %} |
-| {% ragamepic 25072, 078094, \~Hack\~ Pokemon TCG Neo %}       | {% rauserpic Bryan1150 %}                            |
+| Game                                                          | Developer                                                       |
+| ------------------------------------------------------------- | --------------------------------------------------------------- |
+| {% ragamepic 15621, 080584, \~Hack\~ Pokemon Emerald Kaizo %} | {% rauserpic pinguupinguu %}<br>{% rauserpic SubliminalSiren %} |
+| {% ragamepic 25072, 078094, \~Hack\~ Pokemon TCG Neo %}       | {% rauserpic Bryan1150 %}                                       |
 
 ### Best 2D Mario Hack Set
 By: {% rauserpic AuburnRDM %}
