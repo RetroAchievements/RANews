@@ -69,7 +69,7 @@ toc_float: false
 <div class="section-link">
     <a href="./current-events.html">
         <div class="section-content">
-            <h1 id="current-events">Current Events---</h1>
+            <h1 id="current-events">Current Events</h1>
             <p>The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!</p>
         </div>
     </a>
@@ -85,7 +85,7 @@ toc_float: false
 <div class="section-link">
     <a href="./community-news.html">
         <div class="section-content">
-            <h1 id="community-news">Community News---</h1>
+            <h1 id="community-news">Community News</h1>
             <p>Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.</p>
         </div>
     </a>
@@ -93,7 +93,7 @@ toc_float: false
 <div class="section-link">
     <a href="./jr-developer-program.html">
         <div class="section-content">
-            <h1 id="jr-developer-program">Jr. Developer Program---</h1>
+            <h1 id="jr-developer-program">Jr. Developer Program</h1>
             <p>The Junior Developer program is the entrypoint into set development. Run by the Code Reviewer team, this program offers users interested in developing achievement sets the necessary environment for development support and set reviews. Here we take a look at the sets reviewed and promoted from the previous month as well as a little bit about the game that might interest you in trying it out.</p>
         </div>
     </a>
@@ -101,7 +101,7 @@ toc_float: false
 <div class="section-link">
     <a href="./rapatches.html">
         <div class="section-content">
-            <h1 id="rapatches-and-lost-level-archive">RAPatches and Lost Level Archive---</h1>
+            <h1 id="rapatches-and-lost-level-archive">RAPatches and Lost Level Archive</h1>
             <p>Hash management and tracking has always been an uphill battle. Homebrew, hacks, and patches are supported throughout a wide variety of Games and systems on RetroAchievements. tele has been on the front line of this battle for many years in an attempt to keep up with the never ending list of linked hashes. Let's take a look at the latest hashes that have been organized into the RAPatches repo and Lost Level Archives last month.</p>
         </div>
     </a>
@@ -204,8 +204,8 @@ toc_float: false
 <div class="section-link">
     <a href="./spot-the-difference.html">
         <div class="section-content">
-            <h1 id="spot-the-difference">Spot The Difference---</h1>
-            <p>In this section, we challenge readers to put their observation skills to the test with a Spot the Difference game created by SporyTike for the game Toy Story 2: Buzz Lightyear to the Rescue!. There are 10 differences to find, and readers who spot them all will be featured in the next issue. So sharpen your eyes and get ready for some fun!</p>
+            <h1 id="spot-the-difference">Spot The Difference</h1>
+            <p>In this section, we challenge readers to put their observation skills to the test with a Spot the Difference game created by SporyTike for the game Ys: The Oath in Felghana. There are 10 differences to find, and readers who spot them all will be featured in the next issue. So sharpen your eyes and get ready for some fun!</p>
         </div>
     </a>
 </div>
@@ -220,13 +220,97 @@ toc_float: false
 </div>
 <div class="section-link">
     <div class="section-content">
-        <h1 id="acknowledgments">Acknowledgments---</h1>
+        <h1 id="acknowledgments">Acknowledgments</h1>
         <p>The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.</p>
         <table><tbody>
             <tr>
                 <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
-                <td>{% rauserpic ArtistOfTheGalaxy %}</td>
+                <td>{% rauserpic ArtikSkarab %}</td>
+                <td>{% rauserpic AssClownKing %}</td>
+            </tr>
+            <tr>
                 <td>{% rauserpic authorblues %}</td>
+                <td>{% rauserpic Bendyhuman %}</td>
+                <td>{% rauserpicalt blueYOSHMIN, blueYOSHI %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Brandovsky %}</td>
+                <td>{% rauserpic Breembin %}</td>
+                <td>{% rauserpic ChaoticAdventure %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic cloudff72000 %}</td>
+                <td>{% rauserpic DevCompliance %}</td>
+                <td>{% rauserpic ElPitiyin %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt Ephraim, 12ek %}</td>
+                <td>{% rauserpic gamer097 %}</td>
+                <td>{% rauserpic gorocz %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Hotscrock %}</td>
+                <td>{% rauserpic Infernothefox %}</td>
+                <td>{% rauserpic KiroPxl %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt MarinHappi, ouMiguel %}</td>
+                <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
+                <td>{% rauserpic MeloDeathAtmoBlack %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic MrOwnership %}</td>
+                <td>{% rauserpic Nepiki %}</td>
+                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Nora %}</td>
+                <td>{% rauserpic Nydaxn %}</td>
+                <td>{% rauserpic Obliv %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic oddgoo %}</td>
+                <td>{% rauserpic PaddyW %}</td>
+                <td>{% rauserpicalt PINGG, PenguGG %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic pinguupinguu %}</td>
+                <td>{% rauserpic QATeam %}</td>
+                <td>{% rauserpic r0ach3d %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic RANews %}</td>
+                <td>{% rauserpic Raykusen %}</td>
+                <td>{% rauserpic RetroGameMaster %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic RyCuLe %}</td>
+                <td>{% rauserpicalt S4NSAN, sanjista %}</td>
+                <td>{% rauserpic ShadwSonic %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Sines %}</td>
+                <td>{% rauserpic Sniwott %}</td>
+                <td>{% rauserpicalt SnowPin, Snow %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic SporyTike %}</td>
+                <td>{% rauserpic StingX2 %}</td>
+                <td>{% rauserpicalt tele, televandalist %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic TimeCrush %}</td>
+                <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
+                <td>{% rauserpic Tymestalker %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic vikdarkbomb %}</td>
+                <td>{% rauserpic VintageNomad %}</td>
+                <td>{% rauserpic Whoops %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic WindGoddess %}</td>
+                <td colspan=2>{% rauserpic Xymjak %}</td>
             </tr>
         </tbody></table>
     </div>

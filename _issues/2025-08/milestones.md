@@ -24,25 +24,25 @@ The following users and devs listed here reached a new milestone last month.
 ### 150,000 Points
 
 |{% rauserpic thundere %}|{% rauserpic Shinrashinobi %}|{% rauserpic DeeCee %}|
-|{% rauserpic Daroachie %}|{% rauserpic ChocoMilk %}||
+|{% rauserpic Daroachie %}|{% rauserpicalt ChoccyMilk, ChocoMilk %}||
 
 ### 125,000 Points
 
 |{% rauserpic TheNegativeIon %}|{% rauserpic REMLEZAR %}|{% rauserpic Prota %}|
-|{% rauserpic Kijin %}|{% rauserpic gustavovaladares %}|{% rauserpic Griffin %}|
+|{% rauserpic Kijin %}|{% rauserpicalt AdamantArcanine, gustavovaladares %}|{% rauserpic Griffin %}|
 |{% rauserpic BeauMollet %}|||
 
 ### 100,000 Points
 
-|{% rauserpic wolfman2000 %}|{% rauserpic Sevelik51 %}|{% rauserpic PaddyW %}|
-|{% rauserpic MillenniumEye %}|{% rauserpic heintsi %}|{% rauserpic GarlicPong64 %}|
+|{% rauserpicalt lonegraywolf2000, wolfman2000 %}|{% rauserpicalt Sevelik, Sevelik51 %}|{% rauserpic PaddyW %}|
+|{% rauserpicalt Tingleberry, MillenniumEye %}|{% rauserpic heintsi %}|{% rauserpic GarlicPong64 %}|
 |{% rauserpic Excessiveiser %}|{% rauserpic DustinRomero1268 %}|{% rauserpic DaleRedfield %}|
-|{% rauserpic AlleycatAndrea %}|||
+|{% rauserpicalt CherryCatVivian, AlleycatAndrea %}|||
 
 ### 75,000 Points
 
 |{% rauserpic ZhenNexus %}|{% rauserpic xClawz %}|{% rauserpic usedpizza %}|
-|{% rauserpic stonedphilosopherleo %}|{% rauserpic PaddyShade %}|{% rauserpic JustAnotherPoppet %}|
+|{% rauserpic stonedphilosopherleo %}|{% rauserpicalt TrashPaddy, PaddyShade %}|{% rauserpic JustAnotherPoppet %}|
 |{% rauserpic hirumaspace %}|{% rauserpic Frenchy70 %}|{% rauserpic Doolz %}|
 |{% rauserpic bman7 %}|{% rauserpic AceMoon1974 %}||
 
@@ -52,13 +52,13 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic TheLastBorba %}|{% rauserpic TehDude %}|{% rauserpic tarcisiotrajano %}|
 |{% rauserpic Szhymphild %}|{% rauserpic SuccinctAndPunchy %}|{% rauserpic Smoka %}|
 |{% rauserpic Skarm137 %}|{% rauserpic Shippoppy %}|{% rauserpic sebmal %}|
-|{% rauserpic sam4594 %}|{% rauserpic RyanRJ %}|{% rauserpic RamBullWise %}|
+|{% rauserpicalt BushidoBug, sam4594 %}|{% rauserpic RyanRJ %}|{% rauserpic RamBullWise %}|
 |{% rauserpic rafaelts %}|{% rauserpic popsky %}|{% rauserpic Paradoxlivechannel %}|
 |{% rauserpic Overkill2301 %}|{% rauserpic Mia %}|{% rauserpic mappyman %}|
 |{% rauserpic Lugero %}|{% rauserpic KhaoticIntent %}|{% rauserpic KazuCrash %}|
 |{% rauserpic JustaRetroFaN %}|{% rauserpic Juganawt %}|{% rauserpic jayshnaysh %}|
-|{% rauserpic inkymcgee119 %}|{% rauserpic HungryWalnut %}|{% rauserpic hibaki %}|
-|{% rauserpic Hamid %}|{% rauserpic haavikassu %}|{% rauserpic Grungust %}|
+|{% rauserpicalt SqueezeNSquirt, inkymcgee119 %}|{% rauserpic HungryWalnut %}|{% rauserpic hibaki %}|
+|{% rauserpic Hamid %}|{% rauserpicalt haavi, haavikassu %}|{% rauserpicalt mirukiru, Grungust %}|
 |{% rauserpic Glitchy88 %}|{% rauserpic Febaske %}|{% rauserpic Dopeypoke %}|
 |{% rauserpic Delineal %}|{% rauserpic Dariusant %}|{% rauserpic BlueShellBeast %}|
 |{% rauserpic BloodMesa %}|{% rauserpic bitSTART %}|{% rauserpic banzy99 %}|
@@ -74,11 +74,11 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic TECZUMA %}|{% rauserpic TanteiRotana %}|{% rauserpic supermegakosta %}|
 |{% rauserpic Starbo %}|{% rauserpic Squaresoft4ever7 %}|{% rauserpic solarispolaris %}|
 |{% rauserpic SolarDos %}|{% rauserpic SkweeZee %}|{% rauserpic SirBunting %}|
-|{% rauserpic sielana %}|{% rauserpic sardoose %}|{% rauserpic sandinesta %}|
+|{% rauserpicalt SLN9001, sielana %}|{% rauserpic sardoose %}|{% rauserpicalt NestaSacredhart, sandinesta %}|
 |{% rauserpic Sanctuspaladin %}|{% rauserpic RonaldWilliams164 %}|{% rauserpic rominho %}|
-|{% rauserpic Ric3737 %}|{% rauserpic RetroOverlord395 %}|{% rauserpic Reldio %}|
+|{% rauserpic Ric3737 %}|{% rauserpicalt TerryTrix97, RetroOverlord395 %}|{% rauserpic Reldio %}|
 |{% rauserpic reaper00702 %}|{% rauserpic Quint %}|{% rauserpic PurpleXCompleX %}|
-|{% rauserpic pt123 %}|{% rauserpic postOrganic %}|{% rauserpic Popst %}|
+|{% rauserpic pt123 %}|{% rauserpicalt NEXAnomaly, postOrganic %}|{% rauserpic Popst %}|
 |{% rauserpic PlasticTeeth %}|{% rauserpic OzzieSM64 %}|{% rauserpic ozeiaslucas %}|
 |{% rauserpic OverlordNader %}|{% rauserpic Minish %}|{% rauserpic Michcaff %}|
 |{% rauserpic MetalHyper %}|{% rauserpic MestreAnds %}|{% rauserpic MentalBlank %}|
@@ -91,17 +91,17 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic GolcarJack %}|{% rauserpic goabernathy %}|{% rauserpic Gnix %}|
 |{% rauserpic GeniusRedneck %}|{% rauserpic gamebrainz11 %}|{% rauserpic Fullalizards %}|
 |{% rauserpic FluffyKittenChan %}|{% rauserpic flglm %}|{% rauserpic FigNewton %}|
-|{% rauserpic FieryGizzard %}|{% rauserpic Felipe1090876 %}|{% rauserpic FD4life %}|
+|{% rauserpic FieryGizzard %}|{% rauserpicalt ItsFlip27, Felipe1090876 %}|{% rauserpic FD4life %}|
 |{% rauserpic FauxFalsetto %}|{% rauserpic EWAT %}|{% rauserpic Ericoadriano2 %}|
 |{% rauserpic ErasmoDualshock %}|{% rauserpic Entiss %}|{% rauserpic endiihz %}|
 |{% rauserpic EmeraldVirus %}|{% rauserpic Eeveelution %}|{% rauserpic EduardoPaiva %}|
 |{% rauserpic Donnovania %}|{% rauserpic DoggettDouglasMcDog %}|{% rauserpic DJFakie %}|
-|{% rauserpic Detregames %}|{% rauserpic Deroga %}|{% rauserpic dannepedersen %}|
+|{% rauserpicalt SpaceOfVoid, Detregames %}|{% rauserpic Deroga %}|{% rauserpic dannepedersen %}|
 |{% rauserpic CRTglow %}|{% rauserpic CritDex %}|{% rauserpic crillekross %}|
 |{% rauserpic Coolsy101 %}|{% rauserpic Chromagram %}|{% rauserpic CharmanderAutista %}|
 |{% rauserpic carlosrhv %}|{% rauserpic c193 %}|{% rauserpic BrutallyDigital %}|
 |{% rauserpic Breadytato %}|{% rauserpic braragao1 %}|{% rauserpic Blais %}|
-|{% rauserpic blagvandam %}|{% rauserpic BeerusSama %}|{% rauserpic BagOfDragonite %}|
+|{% rauserpic blagvandam %}|{% rauserpicalt Spartansamurai77, BeerusSama %}|{% rauserpic BagOfDragonite %}|
 |{% rauserpic AzureNightfall %}|{% rauserpic Angrycrow21 %}|{% rauserpic ALR1980 %}|
 |{% rauserpic alexmandi %}|{% rauserpic Abiosis %}|{% rauserpic 2cat %}|
 
@@ -117,12 +117,12 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 1,500,000 Retro Points
 
-|{% rauserpic Bit4Tat %}|||
+|{% rauserpicalt LegitLegion, Bit4Tat %}|||
 
 ### 1,000,000 Retro Points
 
 |{% rauserpic wedgordo %}|{% rauserpic JustaRetroFaN %}|{% rauserpic Daroachie %}|
-|{% rauserpic Dako9767845 %}|{% rauserpic AsagaoHanae %}||
+|{% rauserpicalt JeanTheBling, Dako9767845 %}|{% rauserpicalt Matikanefukukitaru, AsagaoHanae %}||
 
 ### 750,000 Retro Points
 
@@ -133,17 +133,17 @@ The following users and devs listed here reached a new milestone last month.
 ### 500,000 Retro Points
 
 |{% rauserpic vintageclassicgamer %}|{% rauserpic usedpizza %}|{% rauserpic SuperSonic71087 %}|
-|{% rauserpic SuperMeatBro %}|{% rauserpic Relyon %}|{% rauserpic Rampagingtaru %}|
+|{% rauserpicalt Meatbro, SuperMeatBro %}|{% rauserpic Relyon %}|{% rauserpic Rampagingtaru %}|
 |{% rauserpic PotatoDream %}|{% rauserpic McFarts %}|{% rauserpic Griffin %}|
 
 ### 375,000 Retro Points
 
-|{% rauserpic Sevelik51 %}|{% rauserpic saltyphry %}|{% rauserpic Reven %}|
-|{% rauserpic Mega72 %}|{% rauserpic Lares973 %}|{% rauserpic Lalilulelo %}|
-|{% rauserpic Kerthrad %}|{% rauserpic graypigeon22 %}|{% rauserpic gnarblast %}|
+|{% rauserpicalt Sevelik, Sevelik51 %}|{% rauserpic saltyphry %}|{% rauserpicalt Qpenr00mLaikung0, Reven %}|
+|{% rauserpic Mega72 %}|{% rauserpic Lares973 %}|{% rauserpicalt Moukku, Lalilulelo %}|
+|{% rauserpic Kerthrad %}|{% rauserpicalt Pearl, graypigeon22 %}|{% rauserpic gnarblast %}|
 |{% rauserpic Deansrule %}|{% rauserpic DarkZeroSider %}|{% rauserpic chvtky %}|
-|{% rauserpic ChocoMilk %}|{% rauserpic bryandelmond %}|{% rauserpic Blais %}|
-|{% rauserpic BacktoEdgar %}|{% rauserpic authorblues %}|{% rauserpic Andrevus %}|
+|{% rauserpicalt ChoccyMilk, ChocoMilk %}|{% rauserpic bryandelmond %}|{% rauserpic Blais %}|
+|{% rauserpic BacktoEdgar %}|{% rauserpic authorblues %}|{% rauserpicalt Nyxondra, Andrevus %}|
 
 ### 250,000 Retro Points
 
@@ -152,24 +152,24 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic TheJuna %}|{% rauserpic softestcat %}|{% rauserpic Ryogre %}|
 |{% rauserpic RamBullWise %}|{% rauserpic MRX1997IT %}|{% rauserpic MrMarco1003 %}|
 |{% rauserpic MiguelsoaresGames2 %}|{% rauserpic Maize %}|{% rauserpic Kyzirado %}|
-|{% rauserpic Kayesay %}|{% rauserpic Ishambard %}|{% rauserpic idrainbamaged %}|
+|{% rauserpic Kayesay %}|{% rauserpic Ishambard %}|{% rauserpicalt drainbamaged, idrainbamaged %}|
 |{% rauserpic HookedonOnyx %}|{% rauserpic GrandeShark %}|{% rauserpic Fenguri %}|
-|{% rauserpic Femtopi %}|{% rauserpic EoXers %}|{% rauserpic Eeroz %}|
-|{% rauserpic Doolz %}|{% rauserpic dbrooks94513 %}|{% rauserpic CronoNes %}|
-|{% rauserpic carlosrhv %}|{% rauserpic buraconerd %}|{% rauserpic BrYaN55 %}|
-|{% rauserpic Boomer69 %}|{% rauserpic Alazlam83 %}||
+|{% rauserpic Femtopi %}|{% rauserpicalt Rubenxrs, EoXers %}|{% rauserpic Eeroz %}|
+|{% rauserpic Doolz %}|{% rauserpicalt GrandmasNewBoyfriend, dbrooks94513 %}|{% rauserpic CronoNes %}|
+|{% rauserpic carlosrhv %}|{% rauserpicalt Buraco, buraconerd %}|{% rauserpic BrYaN55 %}|
+|{% rauserpicalt Yakub, Boomer69 %}|{% rauserpic Alazlam83 %}||
 
 ### 125,000 Retro Points
 
-|{% rauserpic zLunatiX %}|{% rauserpic Zethor %}|{% rauserpic Yoshi1995 %}|
-|{% rauserpic Yamalgam %}|{% rauserpic XSunCheZX %}|{% rauserpic Xst1nct %}|
+|{% rauserpicalt lunhas, zLunatiX %}|{% rauserpic Zethor %}|{% rauserpicalt Mightyena, Yoshi1995 %}|
+|{% rauserpic Yamalgam %}|{% rauserpic XSunCheZX %}|{% rauserpicalt GalahadX, Xst1nct %}|
 |{% rauserpic Webber1900 %}|{% rauserpic UltimateArck %}|{% rauserpic Tigrero %}|
 |{% rauserpic TidusDaHora %}|{% rauserpic theweapon29 %}|{% rauserpic theUltimateMaster %}|
-|{% rauserpic Teri5a %}|{% rauserpic Technostrophe %}|{% rauserpic TechBlitz %}|
+|{% rauserpic Teri5a %}|{% rauserpic Technostrophe %}|{% rauserpicalt ThatIrrelevantTech, TechBlitz %}|
 |{% rauserpic tarcisiotrajano %}|{% rauserpic sussyamogus %}|{% rauserpic Submaster %}|
 |{% rauserpic StealthKillZone %}|{% rauserpic Squilkybar %}|{% rauserpic Soren90 %}|
 |{% rauserpic Sobou %}|{% rauserpic SilentM17 %}|{% rauserpic Serteyf %}|
-|{% rauserpic seiryu %}|{% rauserpic RetroBoy100 %}|{% rauserpic RenanRen %}|
+|{% rauserpicalt rxnscade, seiryu %}|{% rauserpic RetroBoy100 %}|{% rauserpic RenanRen %}|
 |{% rauserpic ReflectRaid %}|{% rauserpic REALKhalDovah %}|{% rauserpic Rayfinkel %}|
 |{% rauserpic RandyTyler %}|{% rauserpic quinnlivin %}|{% rauserpic Popst %}|
 |{% rauserpic Pielord90 %}|{% rauserpic Patrykowy %}|{% rauserpic PasokonDeacon %}|
@@ -178,19 +178,19 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic Murgall %}|{% rauserpic MuffinsMcDanish %}|{% rauserpic MrVhite %}|
 |{% rauserpic MrMatthewxK %}|{% rauserpic MavalockB %}|{% rauserpic MannedTooth %}|
 |{% rauserpic MaddyMuse %}|{% rauserpic LeooKbssa %}|{% rauserpic Legomane %}|
-|{% rauserpic Landa %}|{% rauserpic kiko12 %}|{% rauserpic Kdash12345 %}|
+|{% rauserpic Landa %}|{% rauserpic kiko12 %}|{% rauserpicalt Kadash, Kdash12345 %}|
 |{% rauserpic Kasasagi %}|{% rauserpic Karkat %}|{% rauserpic JotaFidelis %}|
 |{% rauserpic joojer %}|{% rauserpic jf3player %}|{% rauserpic Jago88 %}|
-|{% rauserpic ivesmt666 %}|{% rauserpic InfiniteDomes %}|{% rauserpic Igroteka %}|
+|{% rauserpicalt ivesmt, ivesmt666 %}|{% rauserpic InfiniteDomes %}|{% rauserpic Igroteka %}|
 |{% rauserpic HikanowaGuild %}|{% rauserpic hibaki %}|{% rauserpic Hauntaa %}|
-|{% rauserpic Grungust %}|{% rauserpic GiuliaAmbra %}|{% rauserpic Game123 %}|
+|{% rauserpicalt mirukiru, Grungust %}|{% rauserpic GiuliaAmbra %}|{% rauserpicalt DavidLuis, Game123 %}|
 |{% rauserpic Fullalizards %}|{% rauserpic FigNewton %}|{% rauserpic ErmacShazamoff %}|
 |{% rauserpic doctormiawoo %}|{% rauserpic DnAzl %}|{% rauserpic DirevVolf %}|
 |{% rauserpic DEMACY %}|{% rauserpic darkinferno1981 %}|{% rauserpic darkelf %}|
 |{% rauserpic DanB %}|{% rauserpic Co0kie666 %}|{% rauserpic ChunkyPotatoSoup %}|
 |{% rauserpic ChaoticRK %}|{% rauserpic CerinianShadowGaming %}|{% rauserpic CapnNeckbeard %}|
-|{% rauserpic CapedStrawberry %}|{% rauserpic BorsPepsi69 %}|{% rauserpic bookshoptrucker %}|
-|{% rauserpic blueeyes12344 %}|{% rauserpic blairfools %}|{% rauserpic BladeDefense %}|
+|{% rauserpic CapedStrawberry %}|{% rauserpicalt BorsPepsi64, BorsPepsi69 %}|{% rauserpic bookshoptrucker %}|
+|{% rauserpic blueeyes12344 %}|{% rauserpic blairfools %}|{% rauserpicalt BigChase, BladeDefense %}|
 |{% rauserpic Blackbird256 %}|{% rauserpic Beerthirty %}|{% rauserpic BearHugger %}|
 |{% rauserpic BalrogRPG %}|{% rauserpic Asheron8 %}|{% rauserpic Anniacal %}|
 |{% rauserpic AMZero %}|{% rauserpic alexthegreat1 %}|{% rauserpic Alarju %}|
@@ -198,33 +198,33 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 100,000 Retro Points
 
-|{% rauserpic zenish324 %}|{% rauserpic YoshioFruit %}|{% rauserpic unplayer %}|
+|{% rauserpicalt ZenisH, zenish324 %}|{% rauserpic YoshioFruit %}|{% rauserpic unplayer %}|
 |{% rauserpic Tradedark %}|{% rauserpic themoltar %}|{% rauserpic TheKat1987 %}|
 |{% rauserpic supersharpy64 %}|{% rauserpic squidowobble %}|{% rauserpic Slynx %}|
 |{% rauserpic Skrat %}|{% rauserpic seregas %}|{% rauserpic scl1mb %}|
-|{% rauserpic sardoose %}|{% rauserpic rustgarde %}|{% rauserpic rosalique %}|
-|{% rauserpic RiverVolt %}|{% rauserpic Ric3737 %}|{% rauserpic realSinistar %}|
+|{% rauserpic sardoose %}|{% rauserpicalt RyStyr, rustgarde %}|{% rauserpic rosalique %}|
+|{% rauserpicalt Jigen, RiverVolt %}|{% rauserpic Ric3737 %}|{% rauserpic realSinistar %}|
 |{% rauserpic re0019 %}|{% rauserpic Pablich %}|{% rauserpic Nivek0402 %}|
 |{% rauserpic NElectron256 %}|{% rauserpic MTNDewGuy1079 %}|{% rauserpic MetroidMantra %}|
 |{% rauserpic MetaYoshi %}|{% rauserpic MelloLvl %}|{% rauserpic MayorOfSmashville %}|
 |{% rauserpic MaximOlegovich %}|{% rauserpic M4g1cW4rr10r %}|{% rauserpic Liriol %}|
 |{% rauserpic LillyGremory %}|{% rauserpic lemsandwichop132 %}|{% rauserpic kynetixx %}|
 |{% rauserpic karmaqu %}|{% rauserpic JustGio123 %}|{% rauserpic Julysse %}|
-|{% rauserpic Juganawt %}|{% rauserpic JORMUNPTER %}|{% rauserpic johnjohnwp %}|
+|{% rauserpic Juganawt %}|{% rauserpic JORMUNPTER %}|{% rauserpicalt joao564, johnjohnwp %}|
 |{% rauserpic JDLM %}|{% rauserpic itskez %}|{% rauserpic IPtKI %}|
 |{% rauserpic Househippo %}|{% rauserpic Goodbite %}|{% rauserpic Gonzalo23 %}|
 |{% rauserpic Glath %}|{% rauserpic Giens12 %}|{% rauserpic GansoX %}|
 |{% rauserpic FrostoftheStars %}|{% rauserpic Fanera %}|{% rauserpic Dibbleton %}|
 |{% rauserpic DandyLlon %}|{% rauserpic classicgamer %}|{% rauserpic ChiiniiTheComet %}|
 |{% rauserpic bravefencer0914 %}|{% rauserpic BigBomba88 %}|{% rauserpic BaguetteKirby %}|
-|{% rauserpic AuraKoji %}|{% rauserpic atma505 %}|{% rauserpic Antigon %}|
-|{% rauserpic AmyRose4 %}|{% rauserpic alexmandi %}|{% rauserpic Aguni %}|
+|{% rauserpic AuraKoji %}|{% rauserpicalt DongyJammin, atma505 %}|{% rauserpic Antigon %}|
+|{% rauserpicalt CreamTheRabbit, AmyRose4 %}|{% rauserpic alexmandi %}|{% rauserpicalt Coutin, Aguni %}|
 |{% rauserpic abdalin %}|||
 
 ### 75,000 Retro Points
 
 |{% rauserpic zance21 %}|{% rauserpic z0mbir %}|{% rauserpic Yzips %}|
-|{% rauserpic Yoshinohara %}|{% rauserpic Xgor %}|{% rauserpic xelxux %}|
+|{% rauserpicalt EEez, Yoshinohara %}|{% rauserpic Xgor %}|{% rauserpic xelxux %}|
 |{% rauserpic wretzky %}|{% rauserpic wololo %}|{% rauserpic Vintro %}|
 |{% rauserpic VergilXT %}|{% rauserpic Twitdoof %}|{% rauserpic Tordah %}|
 |{% rauserpic ToPa %}|{% rauserpic Tomas2888 %}|{% rauserpic tiuzao %}|
@@ -232,14 +232,14 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic Tenderx %}|{% rauserpic Tartalos %}|{% rauserpic TanteiRotana %}|
 |{% rauserpic TakeDoC %}|{% rauserpic Switch1 %}|{% rauserpic supermegakosta %}|
 |{% rauserpic Sunsea705 %}|{% rauserpic stormbolter %}|{% rauserpic Starbo %}|
-|{% rauserpic SSMMSS %}|{% rauserpic ssjoen %}|{% rauserpic Speachbyte %}|
+|{% rauserpicalt SSWWSS, SSMMSS %}|{% rauserpic ssjoen %}|{% rauserpic Speachbyte %}|
 |{% rauserpic SoshiplayZ %}|{% rauserpic solarcell007 %}|{% rauserpic sioneus %}|
 |{% rauserpic sheakso %}|{% rauserpic SeuMadrugado72 %}|{% rauserpic SenhorOMO %}|
 |{% rauserpic SecretBird %}|{% rauserpic sdfmental %}|{% rauserpic Schumi %}|
 |{% rauserpic SapphireSuicune %}|{% rauserpic Saive10 %}|{% rauserpic s3mxm %}|
-|{% rauserpic RVK88 %}|{% rauserpic RustyJimjob45 %}|{% rauserpic RoS98 %}|
+|{% rauserpic RVK88 %}|{% rauserpicalt NiftyNinja65, RustyJimjob45 %}|{% rauserpic RoS98 %}|
 |{% rauserpic RonaldWilliams164 %}|{% rauserpic rominho %}|{% rauserpic rhus %}|
-|{% rauserpic RetroGamerFG %}|{% rauserpic Razor075 %}|{% rauserpic Ponsari %}|
+|{% rauserpic RetroGamerFG %}|{% rauserpicalt Revzor, Razor075 %}|{% rauserpic Ponsari %}|
 |{% rauserpic paperarrow %}|{% rauserpic OzzieSM64 %}|{% rauserpic OrochiMiss %}|
 |{% rauserpic OrderSixty6 %}|{% rauserpic ogskun %}|{% rauserpic ObsessiveRepulsive %}|
 |{% rauserpic NullBubby %}|{% rauserpic Notdonknotts %}|{% rauserpic neowesker %}|
@@ -254,14 +254,14 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic jamaikito16 %}|{% rauserpic JacksonWarner %}|{% rauserpic ivanretroachieve %}|
 |{% rauserpic ItsXolo %}|{% rauserpic IronInvoker47 %}|{% rauserpic iratebovine %}|
 |{% rauserpic InfinityGene %}|{% rauserpic ImStuff %}|{% rauserpic iamkieras %}|
-|{% rauserpic hotarubi %}|{% rauserpic Hamboy3 %}|{% rauserpic HabKeineName %}|
+|{% rauserpicalt JohnnyTheHotGuy, hotarubi %}|{% rauserpic Hamboy3 %}|{% rauserpic HabKeineName %}|
 |{% rauserpic GrandMonarch %}|{% rauserpic Goldsac %}|{% rauserpic goldbud24 %}|
 |{% rauserpic gamer3587 %}|{% rauserpic Furrinchas %}|{% rauserpic FunkyAtHeart %}|
 |{% rauserpic FloppyFlagpoles %}|{% rauserpic Entiss %}|{% rauserpic EmmaTheBest %}|
 |{% rauserpic EduardoPaiva %}|{% rauserpic Dymnix %}|{% rauserpic DrDiabetus %}|
-|{% rauserpic Donnovania %}|{% rauserpic DonMarci %}|{% rauserpic DistalSoul %}|
-|{% rauserpic Deroga %}|{% rauserpic DBombGaming %}|{% rauserpic Darknight565 %}|
-|{% rauserpic Cyborg64 %}|{% rauserpic clarinho %}|{% rauserpic ChveuluTheReal %}|
+|{% rauserpic Donnovania %}|{% rauserpic DonMarci %}|{% rauserpicalt Distal, DistalSoul %}|
+|{% rauserpic Deroga %}|{% rauserpic DBombGaming %}|{% rauserpicalt HoloKnightMan, Darknight565 %}|
+|{% rauserpic Cyborg64 %}|{% rauserpic clarinho %}|{% rauserpicalt LukaFRA, ChveuluTheReal %}|
 |{% rauserpic ChummyBear %}|{% rauserpic Chromagram %}|{% rauserpic Chemnitz %}|
 |{% rauserpic Celestial %}|{% rauserpic cbrx %}|{% rauserpic Carca %}|
 |{% rauserpic boutiz %}|{% rauserpic Botm4n %}|{% rauserpic BonesBurger %}|
@@ -270,14 +270,14 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic BBBigezzz %}|{% rauserpic BanocaXIII %}|{% rauserpic AZNBeef %}|
 |{% rauserpic azn %}|{% rauserpic Awootiful %}|{% rauserpic ArcosIGZ %}|
 |{% rauserpic apostolinmatkat %}|{% rauserpic andantaria %}|{% rauserpic AmFsAlan %}|
-|{% rauserpic aldyydgaf %}|{% rauserpic AldoRN %}|{% rauserpic About12Kittens %}|
+|{% rauserpicalt aldyysigma, aldyydgaf %}|{% rauserpicalt MisterPay, AldoRN %}|{% rauserpic About12Kittens %}|
 |{% rauserpic 7md99 %}|||
 
 ## Hardcore Achievements
 
 ### 45,000 Hardcore Achievements Earned
 
-|{% rauserpic Andrey199650 %}|||
+|{% rauserpicalt AndrewPunisher, Andrey199650 %}|||
 
 ### 35,000 Hardcore Achievements Earned
 
@@ -315,24 +315,24 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 5,000 Hardcore Achievements Earned
 
-|{% rauserpic Zyndeyqualarrin %}|{% rauserpic Xst1nct %}|{% rauserpic xhollowxonex %}|
+|{% rauserpic Zyndeyqualarrin %}|{% rauserpicalt GalahadX, Xst1nct %}|{% rauserpicalt Lown, xhollowxonex %}|
 |{% rauserpic Wookash %}|{% rauserpic WindGoddess %}|{% rauserpic UltimaWeaponPrime %}|
 |{% rauserpic tri4c3 %}|{% rauserpic TigerEye %}|{% rauserpic TheKToaster %}|
-|{% rauserpic Tanotanetane %}|{% rauserpic SufferingSloth %}|{% rauserpic Souzooka %}|
+|{% rauserpic Tanotanetane %}|{% rauserpicalt SlothSG, SufferingSloth %}|{% rauserpic Souzooka %}|
 |{% rauserpic SonicZ16 %}|{% rauserpic SomeLazyGamer %}|{% rauserpic SkweeZee %}|
 |{% rauserpic SirBunting %}|{% rauserpic shotmaker %}|{% rauserpic Senorsombrero %}|
 |{% rauserpic Senorpapa %}|{% rauserpic Saronto %}|{% rauserpic s3mxm %}|
 |{% rauserpic RickettsJr %}|{% rauserpic redak %}|{% rauserpic RandyTyler %}|
-|{% rauserpic postOrganic %}|{% rauserpic Plusle %}|{% rauserpic ozeiaslucas %}|
-|{% rauserpic OverlordNader %}|{% rauserpic ouMiguel %}|{% rauserpic Olberic %}|
+|{% rauserpicalt NEXAnomaly, postOrganic %}|{% rauserpic Plusle %}|{% rauserpic ozeiaslucas %}|
+|{% rauserpic OverlordNader %}|{% rauserpicalt MarinHappi, ouMiguel %}|{% rauserpic Olberic %}|
 |{% rauserpic NightSide2000 %}|{% rauserpic Niccimon %}|{% rauserpic Nabz %}|
 |{% rauserpic MTNDewGuy1079 %}|{% rauserpic Minon64 %}|{% rauserpic MiMaMu %}|
 |{% rauserpic mentecacto %}|{% rauserpic Mariomuzic %}|{% rauserpic ltkoopa %}|
 |{% rauserpic Liriol %}|{% rauserpic Kuriboh908 %}|{% rauserpic Ksekos %}|
-|{% rauserpic Konamon %}|{% rauserpic KingToad64 %}|{% rauserpic KingCrumpet %}|
+|{% rauserpic Konamon %}|{% rauserpic KingToad64 %}|{% rauserpicalt TheKingNemo, KingCrumpet %}|
 |{% rauserpic Kaida %}|{% rauserpic k0ma %}|{% rauserpic JustaRetroFaN %}|
-|{% rauserpic JarLster %}|{% rauserpic Isbreer %}|{% rauserpic idrainbamaged %}|
-|{% rauserpic HachimanGamer %}|{% rauserpic GuyNamedDaniel %}|{% rauserpic GreenDergs %}|
+|{% rauserpic JarLster %}|{% rauserpic Isbreer %}|{% rauserpicalt drainbamaged, idrainbamaged %}|
+|{% rauserpic HachimanGamer %}|{% rauserpic GuyNamedDaniel %}|{% rauserpicalt FungiDerg, GreenDergs %}|
 |{% rauserpic GeniusRedneck %}|{% rauserpic GenericMadScientist %}|{% rauserpic GemeosdosJogos %}|
 |{% rauserpic gamebrainz11 %}|{% rauserpic FrozenFirebird %}|{% rauserpic FluffyKittenChan %}|
 |{% rauserpic FloppyFlagpoles %}|{% rauserpic flglm %}|{% rauserpic dW01F %}|
@@ -346,18 +346,18 @@ The following users and devs listed here reached a new milestone last month.
 ### 4,000 Hardcore Achievements Earned
 
 |{% rauserpic Zenengage %}|{% rauserpic ZeeRA %}|{% rauserpic ZeeGee %}|
-|{% rauserpic YouShouldFeel %}|{% rauserpic Yoshinohara %}|{% rauserpic Yeriko %}|
+|{% rauserpic YouShouldFeel %}|{% rauserpicalt EEez, Yoshinohara %}|{% rauserpic Yeriko %}|
 |{% rauserpic yazinnnn %}|{% rauserpic Yankeeweb %}|{% rauserpic Xgor %}|
-|{% rauserpic Xelrog %}|{% rauserpic wizagab %}|{% rauserpic warkitten13 %}|
+|{% rauserpic Xelrog %}|{% rauserpic wizagab %}|{% rauserpicalt NomadHairline, warkitten13 %}|
 |{% rauserpic VioletScarlet %}|{% rauserpic videogamesarebad %}|{% rauserpic Valulz %}|
 |{% rauserpic TravZord66 %}|{% rauserpic TheXIIIthX %}|{% rauserpic theweapon29 %}|
-|{% rauserpic thereallouca %}|{% rauserpic themoltar %}|{% rauserpic TechBlitz %}|
+|{% rauserpic thereallouca %}|{% rauserpic themoltar %}|{% rauserpicalt ThatIrrelevantTech, TechBlitz %}|
 |{% rauserpic TanteiRotana %}|{% rauserpic summeraino %}|{% rauserpic solidusviking %}|
 |{% rauserpic SirALX %}|{% rauserpic shindanix %}|{% rauserpic sent3nza %}|
-|{% rauserpic Satyricull %}|{% rauserpic sandinesta %}|{% rauserpic Sanctuspaladin %}|
+|{% rauserpic Satyricull %}|{% rauserpicalt NestaSacredhart, sandinesta %}|{% rauserpic Sanctuspaladin %}|
 |{% rauserpic Rvolt %}|{% rauserpic RuySan %}|{% rauserpic RonaldWilliams164 %}|
 |{% rauserpic rocklima2 %}|{% rauserpic Rivus %}|{% rauserpic Ricky187 %}|
-|{% rauserpic Reldio %}|{% rauserpic ReflectRaid %}|{% rauserpic Razor075 %}|
+|{% rauserpic Reldio %}|{% rauserpic ReflectRaid %}|{% rauserpicalt Revzor, Razor075 %}|
 |{% rauserpic ranmicher %}|{% rauserpic Rangersito %}|{% rauserpic Quint %}|
 |{% rauserpic QuinnS %}|{% rauserpic plushiekit %}|{% rauserpic Pablich %}|
 |{% rauserpic nietscape %}|{% rauserpic Nekuru %}|{% rauserpic MrKvikur %}|
@@ -366,20 +366,20 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic LillyGremory %}|{% rauserpic jqueasy %}|{% rauserpic jmbask %}|
 |{% rauserpic Jason83380 %}|{% rauserpic ivanretroachieve %}|{% rauserpic itskez %}|
 |{% rauserpic IPtKI %}|{% rauserpic InsidiouSin %}|{% rauserpic IDKSomeOtherGuy %}|
-|{% rauserpic HyperSonic7701 %}|{% rauserpic hurricos %}|{% rauserpic GuimaTRB %}|
-|{% rauserpic GorlamisSalami %}|{% rauserpic Gnix %}|{% rauserpic GliitchWiitch %}|
+|{% rauserpic HyperSonic7701 %}|{% rauserpicalt nerfripp, hurricos %}|{% rauserpic GuimaTRB %}|
+|{% rauserpic GorlamisSalami %}|{% rauserpic Gnix %}|{% rauserpicalt FlannelKat, GliitchWiitch %}|
 |{% rauserpic Ghosty %}|{% rauserpic Freddy2421 %}|{% rauserpic Foolacetic %}|
 |{% rauserpic Duduscuidado %}|{% rauserpic DKUni %}|{% rauserpic Desper8 %}|
-|{% rauserpic darkman425 %}|{% rauserpic CRTglow %}|{% rauserpic CopperMario %}|
-|{% rauserpic Co0kie666 %}|{% rauserpic classicgamer %}|{% rauserpic ChillChrill %}|
+|{% rauserpic darkman425 %}|{% rauserpic CRTglow %}|{% rauserpicalt CaressOfSteel, CopperMario %}|
+|{% rauserpic Co0kie666 %}|{% rauserpic classicgamer %}|{% rauserpicalt Chill, ChillChrill %}|
 |{% rauserpic CheeseBurgerCats %}|{% rauserpic CerberusRX2 %}|{% rauserpic Blanche %}|
 |{% rauserpic AstralLight %}|{% rauserpic arlisonac %}|{% rauserpic Antigon %}|
-|{% rauserpic alkalynity %}|{% rauserpic Akaushi %}|{% rauserpic 7md99 %}|
+|{% rauserpicalt oroTe, alkalynity %}|{% rauserpic Akaushi %}|{% rauserpic 7md99 %}|
 
 ### 3,000 Hardcore Achievements Earned
 
-|{% rauserpic zenish324 %}|{% rauserpic XMileyAshlynX %}|{% rauserpic XDeviljoeX %}|
-|{% rauserpic Vopyr %}|{% rauserpic Vittripps %}|{% rauserpic vhansd %}|
+|{% rauserpicalt ZenisH, zenish324 %}|{% rauserpic XMileyAshlynX %}|{% rauserpic XDeviljoeX %}|
+|{% rauserpicalt ScarletDevil, Vopyr %}|{% rauserpic Vittripps %}|{% rauserpic vhansd %}|
 |{% rauserpic valzi %}|{% rauserpic Typhlame %}|{% rauserpic Twitdoof %}|
 |{% rauserpic tvschaser %}|{% rauserpic Tom20 %}|{% rauserpic TobyND %}|
 |{% rauserpic tizaster %}|{% rauserpic TheOGHotHands %}|{% rauserpic Tenderx %}|
@@ -387,29 +387,29 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic stickfigure %}|{% rauserpic StealthKillZone %}|{% rauserpic StarRank %}|
 |{% rauserpic Stardy %}|{% rauserpic Starbo %}|{% rauserpic Squaresoft4ever7 %}|
 |{% rauserpic Spycerliks %}|{% rauserpic splitblkribbon %}|{% rauserpic spikeLee47 %}|
-|{% rauserpic sparticus %}|{% rauserpic Spark5S %}|{% rauserpic Sophiespyro01 %}|
+|{% rauserpic sparticus %}|{% rauserpicalt Plazmazist, Spark5S %}|{% rauserpic Sophiespyro01 %}|
 |{% rauserpic solarispolaris %}|{% rauserpic SolarDos %}|{% rauserpic slimehunter %}|
-|{% rauserpic Sinnerscholar %}|{% rauserpic SerJakey %}|{% rauserpic SeasonalCat %}|
+|{% rauserpic Sinnerscholar %}|{% rauserpic SerJakey %}|{% rauserpicalt doughChewer, SeasonalCat %}|
 |{% rauserpic Scruffman %}|{% rauserpic SaySei %}|{% rauserpic sardoose %}|
-|{% rauserpic Salakirby %}|{% rauserpic Saive10 %}|{% rauserpic rustgarde %}|
+|{% rauserpic Salakirby %}|{% rauserpic Saive10 %}|{% rauserpicalt RyStyr, rustgarde %}|
 |{% rauserpic rozhestvensky %}|{% rauserpic rominho %}|{% rauserpic RomainV %}|
-|{% rauserpic Ric3737 %}|{% rauserpic RexBlanchimont %}|{% rauserpic RevanG %}|
+|{% rauserpic Ric3737 %}|{% rauserpicalt DevilsLeftHandMan, RexBlanchimont %}|{% rauserpic RevanG %}|
 |{% rauserpic retrogamermilo %}|{% rauserpic ReslaBasti %}|{% rauserpic RedSlim777 %}|
 |{% rauserpic RealmOfEternity %}|{% rauserpic PapaBearZach %}|{% rauserpic Paffu %}|
 |{% rauserpic OzzieSM64 %}|{% rauserpic NyaGoesNiko %}|{% rauserpic Nuzzgok %}|
 |{% rauserpic NoName40404 %}|{% rauserpic NogLuhX %}|{% rauserpic NickOnimura %}|
-|{% rauserpic MusicalMinerdude %}|{% rauserpic Multibacking %}|{% rauserpic MrFabledGames %}|
+|{% rauserpicalt LumenCrest, MusicalMinerdude %}|{% rauserpic Multibacking %}|{% rauserpic MrFabledGames %}|
 |{% rauserpic Mowcno %}|{% rauserpic MHeart787 %}|{% rauserpic medesthai %}|
 |{% rauserpic matsmzzz %}|{% rauserpic matheusgrechi %}|{% rauserpic Matheus290 %}|
 |{% rauserpic MantaMan %}|{% rauserpic maltesi %}|{% rauserpic Makuto %}|
 |{% rauserpic Luminier %}|{% rauserpic Loopapoob %}|{% rauserpic LocaMash %}|
 |{% rauserpic LinCrash %}|{% rauserpic Laglace %}|{% rauserpic Kyonchis %}|
-|{% rauserpic Kroatuan %}|{% rauserpic knaimad %}|{% rauserpic KingMikedas %}|
-|{% rauserpic KingKumaVT %}|{% rauserpic KazeOkami %}|{% rauserpic kayrontecio %}|
+|{% rauserpic Kroatuan %}|{% rauserpic knaimad %}|{% rauserpicalt Shellanomics, KingMikedas %}|
+|{% rauserpicalt KingKuma, KingKumaVT %}|{% rauserpic KazeOkami %}|{% rauserpic kayrontecio %}|
 |{% rauserpic KanameMadoka %}|{% rauserpic JurandirDamasceno %}|{% rauserpic JoePerry666 %}|
 |{% rauserpic JerryMancelona %}|{% rauserpic Janjan %}|{% rauserpic Jago88 %}|
-|{% rauserpic jac900 %}|{% rauserpic iratebovine %}|{% rauserpic Interbrok %}|
-|{% rauserpic Infernope %}|{% rauserpic Hyest %}|{% rauserpic Homunculus %}|
+|{% rauserpicalt nightelffangirl, jac900 %}|{% rauserpic iratebovine %}|{% rauserpic Interbrok %}|
+|{% rauserpic Infernope %}|{% rauserpicalt Enuo, Hyest %}|{% rauserpic Homunculus %}|
 |{% rauserpic henriquehott %}|{% rauserpic Hawkow %}|{% rauserpic Gurrugoner %}|
 |{% rauserpic Gummydrop %}|{% rauserpic goabernathy %}|{% rauserpic GigaWerts %}|
 |{% rauserpic ggaleto %}|{% rauserpic galoco92 %}|{% rauserpic Gabrielherculano10 %}|
@@ -417,14 +417,14 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic fragcoid %}|{% rauserpic FOnewearl %}|{% rauserpic FishingLynx %}|
 |{% rauserpic FigNewton %}|{% rauserpic FD4life %}|{% rauserpic FauxFalsetto %}|
 |{% rauserpic fastersupersonic %}|{% rauserpic Enigmamoogle %}|{% rauserpic ElJusto %}|
-|{% rauserpic Echozu %}|{% rauserpic Dymnix %}|{% rauserpic DietDoctorFunk %}|
-|{% rauserpic Dewdead %}|{% rauserpic DeathPunchKaiju %}|{% rauserpic dbrooks94513 %}|
+|{% rauserpicalt Echotopia, Echozu %}|{% rauserpic Dymnix %}|{% rauserpic DietDoctorFunk %}|
+|{% rauserpic Dewdead %}|{% rauserpic DeathPunchKaiju %}|{% rauserpicalt GrandmasNewBoyfriend, dbrooks94513 %}|
 |{% rauserpic Dark96095 %}|{% rauserpic CritDex %}|{% rauserpic CrebleStar %}|
-|{% rauserpic crash303 %}|{% rauserpic Clefable %}|{% rauserpic ChveuluTheReal %}|
+|{% rauserpic crash303 %}|{% rauserpic Clefable %}|{% rauserpicalt LukaFRA, ChveuluTheReal %}|
 |{% rauserpic ChunkyPotatoSoup %}|{% rauserpic cff730 %}|{% rauserpic carlosrhv %}|
-|{% rauserpic BryanA30 %}|{% rauserpic bronchobear %}|{% rauserpic boutiz %}|
+|{% rauserpicalt Fireball30, BryanA30 %}|{% rauserpic bronchobear %}|{% rauserpic boutiz %}|
 |{% rauserpic Boog2TheMan %}|{% rauserpic bobohoro %}|{% rauserpic Bluestar1211 %}|
-|{% rauserpic Blais %}|{% rauserpic blagvandam %}|{% rauserpic BianTheOwl %}|
+|{% rauserpic Blais %}|{% rauserpic blagvandam %}|{% rauserpicalt nanabi, BianTheOwl %}|
 |{% rauserpic Benjans %}|{% rauserpic BearHugger %}|{% rauserpic AzureNightfall %}|
 |{% rauserpic Awootiful %}|{% rauserpic ashlyn7862 %}|{% rauserpic Araylea %}|
 |{% rauserpic ARandomPlayer %}|{% rauserpic AprilShowers %}|{% rauserpic Allie %}|
@@ -459,9 +459,9 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 15 100-Point Achievements Earned
 
-|{% rauserpic Wiseman %}|{% rauserpic SuperMeatBro %}|{% rauserpic SeveredDream %}|
+|{% rauserpic Wiseman %}|{% rauserpicalt Meatbro, SuperMeatBro %}|{% rauserpic SeveredDream %}|
 |{% rauserpic LocaMash %}|{% rauserpic Jagooo %}|{% rauserpic Fenguri %}|
-|{% rauserpic Dako9767845 %}|||
+|{% rauserpicalt JeanTheBling, Dako9767845 %}|||
 
 ### 10 100-Point Achievements Earned
 
@@ -473,28 +473,28 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 5 100-Point Achievements Earned
 
-|{% rauserpic zLunatiX %}|{% rauserpic zerovoid1086 %}|{% rauserpic Zerg %}|
+|{% rauserpicalt lunhas, zLunatiX %}|{% rauserpic zerovoid1086 %}|{% rauserpic Zerg %}|
 |{% rauserpic Wubdor %}|{% rauserpic windalf %}|{% rauserpic Webber1900 %}|
-|{% rauserpic vi888 %}|{% rauserpic Trisscorp %}|{% rauserpic tpte %}|
+|{% rauserpic vi888 %}|{% rauserpic Trisscorp %}|{% rauserpicalt PaulTXP, tpte %}|
 |{% rauserpic Tigerpow %}|{% rauserpic suspect15 %}|{% rauserpic Solrain %}|
 |{% rauserpic Slaphappy347 %}|{% rauserpic Sgoc %}|{% rauserpic Sekarth %}|
 |{% rauserpic Saysill %}|{% rauserpic saltyphry %}|{% rauserpic Rabadasher %}|
 |{% rauserpic OzzieSM64 %}|{% rauserpic Orochimaruru %}|{% rauserpic NinjaCocktail %}|
-|{% rauserpic mtsu %}|{% rauserpic miex0r %}|{% rauserpic Mapa589 %}|
+|{% rauserpicalt Maccha4dd1kut0, mtsu %}|{% rauserpic miex0r %}|{% rauserpic Mapa589 %}|
 |{% rauserpic lunarmagic %}|{% rauserpic lucne %}|{% rauserpic Lorinth %}|
 |{% rauserpic KhaoticIntent %}|{% rauserpic Kerthrad %}|{% rauserpic Janni %}|
 |{% rauserpic Iznib %}|{% rauserpic hmussoi %}|{% rauserpic HaoNam %}|
-|{% rauserpic graypigeon22 %}|{% rauserpic gnarblast %}|{% rauserpic EGduitoo %}|
+|{% rauserpicalt Pearl, graypigeon22 %}|{% rauserpic gnarblast %}|{% rauserpic EGduitoo %}|
 |{% rauserpic DrDiabetus %}|{% rauserpic derppindaniel %}|{% rauserpic CheeseKnight %}|
 |{% rauserpic cdziedziech %}|{% rauserpic Caclax %}|{% rauserpic Brandonwigwam %}|
-|{% rauserpic blueeyes12344 %}|{% rauserpic Bit4Tat %}|{% rauserpic Ashyrz %}|
+|{% rauserpic blueeyes12344 %}|{% rauserpicalt LegitLegion, Bit4Tat %}|{% rauserpic Ashyrz %}|
 |{% rauserpic ArcusRedmane %}|{% rauserpic Antis %}||
 
 ## Site Awards
 
 ### 1,600 Site Awards Earned
 
-|{% rauserpic Amir96lx %}|||
+|{% rauserpicalt AmirGaris, Amir96lx %}|||
 
 ### 1,400 Site Awards Earned
 
@@ -506,7 +506,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 800 Site Awards Earned
 
-|{% rauserpic MarioKness %}|||
+|{% rauserpicalt VeronicaVyxie, MarioKness %}|||
 
 ### 700 Site Awards Earned
 
@@ -515,11 +515,11 @@ The following users and devs listed here reached a new milestone last month.
 ### 600 Site Awards Earned
 
 |{% rauserpic tmap %}|{% rauserpic Thoreau %}|{% rauserpic NeoRetroGamer %}|
-|{% rauserpic MillenniumEye %}|||
+|{% rauserpicalt Tingleberry, MillenniumEye %}|||
 
 ### 500 Site Awards Earned
 
-|{% rauserpic SamsamDaGameMan %}|{% rauserpic R3ZM4N %}|{% rauserpic Orph %}|
+|{% rauserpicalt ChocoboSamsam, SamsamDaGameMan %}|{% rauserpic R3ZM4N %}|{% rauserpic Orph %}|
 |{% rauserpic IzaNamiZX %}|{% rauserpic Aeliana %}||
 
 ### 400 Site Awards Earned
@@ -531,7 +531,7 @@ The following users and devs listed here reached a new milestone last month.
 ### 300 Site Awards Earned
 
 |{% rauserpic Wubdor %}|{% rauserpic Turtlewax85 %}|{% rauserpic rev %}|
-|{% rauserpic PaddyShade %}|{% rauserpic Mosk59 %}|{% rauserpic KollegaKot %}|
+|{% rauserpicalt TrashPaddy, PaddyShade %}|{% rauserpic Mosk59 %}|{% rauserpic KollegaKot %}|
 |{% rauserpic gnarblast %}|{% rauserpic Distort8936 %}|{% rauserpic CMinusMinus %}|
 |{% rauserpic Carca %}|||
 
@@ -539,9 +539,9 @@ The following users and devs listed here reached a new milestone last month.
 
 |{% rauserpic zxmega %}|{% rauserpic TheUberCamper %}|{% rauserpic TheNegativeIon %}|
 |{% rauserpic Szhymphild %}|{% rauserpic ShabaDaba %}|{% rauserpic raniejogos %}|
-|{% rauserpic Procyon %}|{% rauserpic Pit100 %}|{% rauserpic midgetstrawdog %}|
+|{% rauserpic Procyon %}|{% rauserpicalt PeteDan, Pit100 %}|{% rauserpic midgetstrawdog %}|
 |{% rauserpic Midcore %}|{% rauserpic Mendil %}|{% rauserpic MelodyAsh %}|
-|{% rauserpic MauricioReis %}|{% rauserpic MatheusBrazuca85 %}|{% rauserpic Knifemaker1 %}|
+|{% rauserpic MauricioReis %}|{% rauserpicalt LKPopezera, MatheusBrazuca85 %}|{% rauserpicalt AmethystLightTV, Knifemaker1 %}|
 |{% rauserpic HungryWalnut %}|{% rauserpic HolyRayne %}|{% rauserpic Frenchy70 %}|
 |{% rauserpic Fergdog %}|{% rauserpic Desper8 %}|{% rauserpic Biendeo %}|
 |{% rauserpic ArandomPikachu %}|{% rauserpic Anwonu %}||
@@ -550,7 +550,7 @@ The following users and devs listed here reached a new milestone last month.
 
 |{% rauserpic VyseOfLegends9001 %}|{% rauserpic Vittripps %}|{% rauserpic TsundereAddict %}|
 |{% rauserpic Sanctuspaladin %}|{% rauserpic Rvolt %}|{% rauserpic QuinnS %}|
-|{% rauserpic DEMACY %}|{% rauserpic davijak02 %}|{% rauserpic Chazzi27 %}|
+|{% rauserpic DEMACY %}|{% rauserpicalt LauraMouras, davijak02 %}|{% rauserpic Chazzi27 %}|
 |{% rauserpic BraedenH2O %}|{% rauserpic AgamemnonGaming %}||
 
 ## Leaderboards
@@ -574,7 +574,7 @@ The following users and devs listed here reached a new milestone last month.
 ### 5,000 Leaderboards Joined
 
 |{% rauserpic Shorty132471 %}|{% rauserpic mudrik %}|{% rauserpic HolyRayne %}|
-|{% rauserpic djlain %}|{% rauserpic DeeCee %}|{% rauserpic davijak02 %}|
+|{% rauserpic djlain %}|{% rauserpic DeeCee %}|{% rauserpicalt LauraMouras, davijak02 %}|
 |{% rauserpic Darkfang114 %}|{% rauserpic Cassievania %}||
 
 ### 4,500 Leaderboards Joined
@@ -583,8 +583,8 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 4,000 Leaderboards Joined
 
-|{% rauserpic Sutarion %}|{% rauserpic SoulSoralis %}|{% rauserpic REMLEZAR %}|
-|{% rauserpic LevelUpLudo %}|{% rauserpic GreninjaMan %}|{% rauserpic Glyphid %}|
+|{% rauserpic Sutarion %}|{% rauserpicalt Soralis, SoulSoralis %}|{% rauserpic REMLEZAR %}|
+|{% rauserpic LevelUpLudo %}|{% rauserpic GreninjaMan %}|{% rauserpicalt Shinan, Glyphid %}|
 |{% rauserpic GarlicPong64 %}|||
 
 ### 3,500 Leaderboards Joined
@@ -592,9 +592,9 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic ZintheDestroyr %}|{% rauserpic WanderingHeiho %}|{% rauserpic stonedphilosopherleo %}|
 |{% rauserpic StingX2 %}|{% rauserpic Rhombo %}|{% rauserpic RetroVanny %}|
 |{% rauserpic Myanjo %}|{% rauserpic Kairos %}|{% rauserpic jmbask %}|
-|{% rauserpic Jacobgharibian %}|{% rauserpic Draco655 %}|{% rauserpic DavidYTBR2 %}|
-|{% rauserpic ChocoMilk %}|{% rauserpic cbrx %}|{% rauserpic Bryan1150 %}|
-|{% rauserpic bennz13 %}|{% rauserpic BeauMollet %}|{% rauserpic Andrey199650 %}|
+|{% rauserpicalt Speeedman, Jacobgharibian %}|{% rauserpic Draco655 %}|{% rauserpic DavidYTBR2 %}|
+|{% rauserpicalt ChoccyMilk, ChocoMilk %}|{% rauserpic cbrx %}|{% rauserpicalt Brylefi, Bryan1150 %}|
+|{% rauserpic bennz13 %}|{% rauserpic BeauMollet %}|{% rauserpicalt AndrewPunisher, Andrey199650 %}|
 |{% rauserpic Adenothe %}|||
 
 ### 3,000 Leaderboards Joined
@@ -606,10 +606,10 @@ The following users and devs listed here reached a new milestone last month.
 ### 2,500 Leaderboards Joined
 
 |{% rauserpic Zibang %}|{% rauserpic Whoops %}|{% rauserpic Trisscorp %}|
-|{% rauserpic TheJohanx %}|{% rauserpic TechBlitz %}|{% rauserpic STLOfTheWild %}|
+|{% rauserpicalt Johan, TheJohanx %}|{% rauserpicalt ThatIrrelevantTech, TechBlitz %}|{% rauserpicalt Fela01, STLOfTheWild %}|
 |{% rauserpic Sirhero %}|{% rauserpic Signum %}|{% rauserpic quinnlivin %}|
-|{% rauserpic Pit100 %}|{% rauserpic PaddyShade %}|{% rauserpic Orosius %}|
-|{% rauserpic NytOnKamaa %}|{% rauserpic NekroG %}|{% rauserpic MillenniumEye %}|
+|{% rauserpicalt PeteDan, Pit100 %}|{% rauserpicalt TrashPaddy, PaddyShade %}|{% rauserpic Orosius %}|
+|{% rauserpic NytOnKamaa %}|{% rauserpic NekroG %}|{% rauserpicalt Tingleberry, MillenniumEye %}|
 |{% rauserpic JustAnotherPoppet %}|{% rauserpic HyperSonic7701 %}|{% rauserpic GIGsnake %}|
 |{% rauserpic DuckswanTheAlbatross %}|{% rauserpic DJAtomika %}|{% rauserpic dericobanjo %}|
 |{% rauserpic DaleRedfield %}|{% rauserpic crrool %}|{% rauserpic BlueShellBeast %}|
@@ -617,31 +617,31 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 2,000 Leaderboards Joined
 
-|{% rauserpic WillCookie %}|{% rauserpic thundere %}|{% rauserpic ThePixelJunkie %}|
+|{% rauserpicalt bocchicookie, WillCookie %}|{% rauserpic thundere %}|{% rauserpic ThePixelJunkie %}|
 |{% rauserpic ThatLittleDemon %}|{% rauserpic Tdiggity13 %}|{% rauserpic SRamos %}|
 |{% rauserpic SpaghettiKing %}|{% rauserpic Sloppydj %}|{% rauserpic Shoepert %}|
 |{% rauserpic scatter %}|{% rauserpic moeperson225 %}|{% rauserpic Mindez %}|
-|{% rauserpic lizstar %}|{% rauserpic Kinghippo44 %}|{% rauserpic Kdash12345 %}|
+|{% rauserpic lizstar %}|{% rauserpic Kinghippo44 %}|{% rauserpicalt Kadash, Kdash12345 %}|
 |{% rauserpic Jurbadis %}|{% rauserpic jayshnaysh %}|{% rauserpic IantasGames1995 %}|
-|{% rauserpic fngreg7 %}|{% rauserpic eazytheskeazy %}|{% rauserpic Distort8936 %}|
-|{% rauserpic diablo666 %}|{% rauserpic Cody47220 %}|{% rauserpic CiriceSheis %}|
+|{% rauserpicalt GFizz, fngreg7 %}|{% rauserpicalt BongmanfromWeedland, eazytheskeazy %}|{% rauserpic Distort8936 %}|
+|{% rauserpicalt Igrek666, diablo666 %}|{% rauserpic Cody47220 %}|{% rauserpic CiriceSheis %}|
 |{% rauserpic Bl4ckStigmata %}|{% rauserpic AstrodomeKid %}|{% rauserpic arthur4272 %}|
 
 ### 1,500 Leaderboards Joined
 
-|{% rauserpic zerosyn %}|{% rauserpic Yoshinohara %}|{% rauserpic Xgor %}|
+|{% rauserpic zerosyn %}|{% rauserpicalt EEez, Yoshinohara %}|{% rauserpic Xgor %}|
 |{% rauserpic Wrexadecimal %}|{% rauserpic Verros %}|{% rauserpic Tresxae %}|
 |{% rauserpic Thundow %}|{% rauserpic Thoreau %}|{% rauserpic tarticulate %}|
 |{% rauserpic SkweeZee %}|{% rauserpic Skarm137 %}|{% rauserpic SirBunting %}|
-|{% rauserpic RustyHoopoe %}|{% rauserpic remcovdg %}|{% rauserpic Razor075 %}|
-|{% rauserpic Rainbowmon2 %}|{% rauserpic mx01 %}|{% rauserpic mtsu %}|
-|{% rauserpic MrDynamite %}|{% rauserpic MHeart787 %}|{% rauserpic metalbubble403 %}|
+|{% rauserpic RustyHoopoe %}|{% rauserpicalt SuperType1, remcovdg %}|{% rauserpicalt Revzor, Razor075 %}|
+|{% rauserpic Rainbowmon2 %}|{% rauserpic mx01 %}|{% rauserpicalt Maccha4dd1kut0, mtsu %}|
+|{% rauserpicalt MrDynamite92, MrDynamite %}|{% rauserpic MHeart787 %}|{% rauserpic metalbubble403 %}|
 |{% rauserpic Mendil %}|{% rauserpic MelancholyBread %}|{% rauserpic McFarts %}|
 |{% rauserpic mazaly %}|{% rauserpic Markisino %}|{% rauserpic Lilpaulo3232 %}|
 |{% rauserpic L0an47 %}|{% rauserpic kljd87 %}|{% rauserpic Kaelan %}|
 |{% rauserpic hawdos %}|{% rauserpic Halftail01 %}|{% rauserpic Draaxen %}|
-|{% rauserpic DEMACY %}|{% rauserpic Cryarionic %}|{% rauserpic Boomer69 %}|
-|{% rauserpic Blushfulcorn %}|{% rauserpic axlgreez %}|{% rauserpic authorblues %}|
+|{% rauserpic DEMACY %}|{% rauserpic Cryarionic %}|{% rauserpicalt Yakub, Boomer69 %}|
+|{% rauserpic Blushfulcorn %}|{% rauserpicalt idontwantthis, axlgreez %}|{% rauserpic authorblues %}|
 |{% rauserpic Antigon %}|||
 
 ### 1,000 Leaderboards Joined
@@ -653,7 +653,7 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic TheRomario626 %}|{% rauserpic StarRank %}|{% rauserpic speedneedle %}|
 |{% rauserpic SoshiplayZ %}|{% rauserpic Sinnerscholar %}|{% rauserpic SeveredDream %}|
 |{% rauserpic Saduske %}|{% rauserpic Rockethero1 %}|{% rauserpic reivaxx %}|
-|{% rauserpic RandyTyler %}|{% rauserpic postOrganic %}|{% rauserpic Paffu %}|
+|{% rauserpic RandyTyler %}|{% rauserpicalt NEXAnomaly, postOrganic %}|{% rauserpic Paffu %}|
 |{% rauserpic nietscape %}|{% rauserpic MrJayRB %}|{% rauserpic minikraid %}|
 |{% rauserpic MedliFan %}|{% rauserpic MaximOlegovich %}|{% rauserpic Manperson %}|
 |{% rauserpic LordBBH %}|{% rauserpic LOL707 %}|{% rauserpic LivRetro %}|
@@ -662,11 +662,11 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic jardshard %}|{% rauserpic ItZzDeeJay %}|{% rauserpic IPtKI %}|
 |{% rauserpic HungryWalnut %}|{% rauserpic Henro400 %}|{% rauserpic Hamboy3 %}|
 |{% rauserpic Grindcrust %}|{% rauserpic Gregolas %}|{% rauserpic gorocz %}|
-|{% rauserpic Ghoulitine %}|{% rauserpic Fullalizards %}|{% rauserpic FsZ1 %}|
+|{% rauserpicalt SnuffyStuffy, Ghoulitine %}|{% rauserpic Fullalizards %}|{% rauserpic FsZ1 %}|
 |{% rauserpic foxxymito %}|{% rauserpic FoxboySaga %}|{% rauserpic EWAT %}|
 |{% rauserpic EMDM15 %}|{% rauserpic drwasup %}|{% rauserpic DocAgon %}|
-|{% rauserpic dizzykei %}|{% rauserpic DarxGamer99 %}|{% rauserpic danibodom %}|
-|{% rauserpic carycoco %}|{% rauserpic CariocaMEX %}|{% rauserpic Captninja6 %}|
+|{% rauserpic dizzykei %}|{% rauserpicalt Zarx, DarxGamer99 %}|{% rauserpicalt RetroLevel, danibodom %}|
+|{% rauserpic carycoco %}|{% rauserpic CariocaMEX %}|{% rauserpicalt Capthecat6, Captninja6 %}|
 |{% rauserpic BurnCrowSP %}|{% rauserpic bruvlocke %}|{% rauserpic billyc255 %}|
 |{% rauserpic BaguetteKirby %}|{% rauserpic BadMrFrostii %}|{% rauserpic Augdawg17 %}|
 |{% rauserpic audwolfe %}|{% rauserpic Applexman %}|{% rauserpic Andr3x %}|
@@ -684,25 +684,25 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic thenintendodude %}|{% rauserpic TheNintendo777 %}|{% rauserpic TheChris %}|
 |{% rauserpic Theawesomesonic %}|{% rauserpic ThatOneEnderr %}|{% rauserpic Tenderx %}|
 |{% rauserpic tchabot91 %}|{% rauserpic TAVINN %}|{% rauserpic SuperCirno %}|
-|{% rauserpic Supeervillaano %}|{% rauserpic SufferingSloth %}|{% rauserpic stash2006 %}|
+|{% rauserpic Supeervillaano %}|{% rauserpicalt SlothSG, SufferingSloth %}|{% rauserpic stash2006 %}|
 |{% rauserpic StarDustTF2 %}|{% rauserpic ssjoen %}|{% rauserpic Spykerios %}|
 |{% rauserpic Spycerliks %}|{% rauserpic splitblkribbon %}|{% rauserpic Splasher %}|
-|{% rauserpic spigot %}|{% rauserpic Spharius %}|{% rauserpic SonicZ16 %}|
-|{% rauserpic SnakeShoker %}|{% rauserpic SirHikari %}|{% rauserpic Simonsoft %}|
+|{% rauserpicalt GetDunked, spigot %}|{% rauserpic Spharius %}|{% rauserpic SonicZ16 %}|
+|{% rauserpic SnakeShoker %}|{% rauserpicalt SirMarcos91, SirHikari %}|{% rauserpic Simonsoft %}|
 |{% rauserpic SiggiStab %}|{% rauserpic ShivaPSOBB %}|{% rauserpic Shiinyei %}|
-|{% rauserpic ShadowFoxOkami %}|{% rauserpic ShadowDoge64X %}|{% rauserpic SeasonalCat %}|
+|{% rauserpic ShadowFoxOkami %}|{% rauserpicalt Jadindustri, ShadowDoge64X %}|{% rauserpicalt doughChewer, SeasonalCat %}|
 |{% rauserpic SandwitchZebra %}|{% rauserpic SamFisherman %}|{% rauserpic rozhestvensky %}|
 |{% rauserpic RomPais %}|{% rauserpic RogFulace %}|{% rauserpic Rob51Design %}|
 |{% rauserpic Ric3737 %}|{% rauserpic Rexus7 %}|{% rauserpic RevanG %}|
-|{% rauserpic Retrovania64 %}|{% rauserpic Renz256 %}|{% rauserpic renatoveramunoz %}|
+|{% rauserpic Retrovania64 %}|{% rauserpic Renz256 %}|{% rauserpicalt bowinona, renatoveramunoz %}|
 |{% rauserpic Reldio %}|{% rauserpic ReferenceZero %}|{% rauserpic Redice5 %}|
-|{% rauserpic realSinistar %}|{% rauserpic realcheeze07 %}|{% rauserpic RealAverage %}|
-|{% rauserpic Raniery %}|{% rauserpic Raggaman %}|{% rauserpic RaftAnts %}|
+|{% rauserpic realSinistar %}|{% rauserpicalt CheezeTheChao, realcheeze07 %}|{% rauserpic RealAverage %}|
+|{% rauserpicalt Kidboors, Raniery %}|{% rauserpic Raggaman %}|{% rauserpic RaftAnts %}|
 |{% rauserpic R0l0 %}|{% rauserpic QuezLo %}|{% rauserpic Qardnall %}|
 |{% rauserpic psychosailor1119 %}|{% rauserpic Prolostique %}|{% rauserpic poseidon1743 %}|
 |{% rauserpic Poochyo %}|{% rauserpic Polux %}|{% rauserpic pixelman %}|
-|{% rauserpic pinnkitty6 %}|{% rauserpic PillsDelRetru %}|{% rauserpic Pikur %}|
-|{% rauserpic Paradise1 %}|{% rauserpic Pablo200 %}|{% rauserpic orangezing20 %}|
+|{% rauserpicalt pinkkitty6, pinnkitty6 %}|{% rauserpic PillsDelRetru %}|{% rauserpic Pikur %}|
+|{% rauserpic Paradise1 %}|{% rauserpicalt Pabbuffet, Pablo200 %}|{% rauserpic orangezing20 %}|
 |{% rauserpic OOKtheLibrarian %}|{% rauserpic oneup40 %}|{% rauserpic Ohitsyou %}|
 |{% rauserpic Notdog1996 %}|{% rauserpic norhomu %}|{% rauserpic NobodyPyon %}|
 |{% rauserpic nezish %}|{% rauserpic NeroCross %}|{% rauserpic Nels01 %}|
@@ -714,23 +714,23 @@ The following users and devs listed here reached a new milestone last month.
 |{% rauserpic LotsofAcid %}|{% rauserpic Loopapoob %}|{% rauserpic Logi %}|
 |{% rauserpic Llamasheaber %}|{% rauserpic LightTats %}|{% rauserpic Kynor %}|
 |{% rauserpic ksnd79 %}|{% rauserpic Ksekos %}|{% rauserpic KombuchaMush %}|
-|{% rauserpic kciusekk %}|{% rauserpic KatrinaTheLamia %}|{% rauserpic KarlosVanDangos %}|
+|{% rauserpicalt MasterBowler, kciusekk %}|{% rauserpic KatrinaTheLamia %}|{% rauserpic KarlosVanDangos %}|
 |{% rauserpic JustaRetroFaN %}|{% rauserpic Juk0 %}|{% rauserpic jrsduran %}|
 |{% rauserpic JowOliveira %}|{% rauserpic joncena2000 %}|{% rauserpic joii00 %}|
 |{% rauserpic jfss1 %}|{% rauserpic JEP50 %}|{% rauserpic Jaybeegee %}|
 |{% rauserpic JadeWizard %}|{% rauserpic istalo %}|{% rauserpic IronDragon2940 %}|
-|{% rauserpic ioscotty %}|{% rauserpic IMajorasMaskI %}|{% rauserpic iguanaiguana %}|
-|{% rauserpic hotelmariolover %}|{% rauserpic HiroshiTaguchi %}|{% rauserpic hemsirbey35 %}|
+|{% rauserpicalt DickFeynman18, ioscotty %}|{% rauserpic IMajorasMaskI %}|{% rauserpic iguanaiguana %}|
+|{% rauserpic hotelmariolover %}|{% rauserpicalt Birdu, HiroshiTaguchi %}|{% rauserpic hemsirbey35 %}|
 |{% rauserpic Hawkster %}|{% rauserpic Gosseyn %}|{% rauserpic Gonzalo23 %}|
 |{% rauserpic Gilgamang %}|{% rauserpic gabrieljesus %}|{% rauserpic GabCandido %}|
 |{% rauserpic Froz3npancake %}|{% rauserpic Frewie %}|{% rauserpic Foovatico %}|
 |{% rauserpic FluffyKittenChan %}|{% rauserpic Feldaenus %}|{% rauserpic FabioManoel1977 %}|
-|{% rauserpic explosiveramen %}|{% rauserpic Etzoli %}|{% rauserpic EthanBloodborne %}|
+|{% rauserpic explosiveramen %}|{% rauserpic Etzoli %}|{% rauserpicalt EthanHunterX, EthanBloodborne %}|
 |{% rauserpic eld0nas %}|{% rauserpic EgorStasiv %}|{% rauserpic Eedu %}|
 |{% rauserpic edualber %}|{% rauserpic ECLIPSE098 %}|{% rauserpic DunkelGotik %}|
 |{% rauserpic dsz2011 %}|{% rauserpic DrDeadbeat %}|{% rauserpic DnAzl %}|
 |{% rauserpic dmenegaz %}|{% rauserpic Decoy8 %}|{% rauserpic Cyborg64 %}|
-|{% rauserpic CronoNes %}|{% rauserpic crayonwaxx %}|{% rauserpic Christupac2009 %}|
+|{% rauserpic CronoNes %}|{% rauserpic crayonwaxx %}|{% rauserpicalt CVBGAMER, Christupac2009 %}|
 |{% rauserpic Chrisis %}|{% rauserpic CashJackson %}|{% rauserpic Calibos %}|
 |{% rauserpic bugmeat %}|{% rauserpic boxbluff %}|{% rauserpic BoolTable %}|
 |{% rauserpic Bjoe %}|{% rauserpic bitSTART %}|{% rauserpic Bishmanrock %}|
@@ -747,11 +747,11 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 4,000 Achievements Created
 
-|{% rauserpic Amir96lx %}|||
+|{% rauserpicalt AmirGaris, Amir96lx %}|||
 
 ### 500 Achievements Created
 
-|{% rauserpic Raeyene %}|{% rauserpic ChocoMilk %}||
+|{% rauserpic Raeyene %}|{% rauserpicalt ChoccyMilk, ChocoMilk %}||
 
 ## Points Awarded
 
@@ -765,11 +765,11 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 1,000,000 Points Awarded to Users
 
-|{% rauserpic pgj1997 %}|{% rauserpic MoonLegend %}|{% rauserpic AdeptTempest %}|
+|{% rauserpic pgj1997 %}|{% rauserpic MoonLegend %}|{% rauserpicalt ADTempest, AdeptTempest %}|
 
 ### 500,000 Points Awarded to Users
 
-|{% rauserpic GameZone %}|{% rauserpic ArchWCR96 %}||
+|{% rauserpicalt EvZone, GameZone %}|{% rauserpic ArchWCR96 %}||
 
 ### 250,000 Points Awarded to Users
 
@@ -778,14 +778,14 @@ The following users and devs listed here reached a new milestone last month.
 ### 100,000 Points Awarded to Users
 
 |{% rauserpic STHX %}|{% rauserpic starmaker69 %}|{% rauserpic Nydaxn %}|
-|{% rauserpic mgold07 %}|{% rauserpic japinhamaluco321 %}|{% rauserpic ChocoMilk %}|
+|{% rauserpic mgold07 %}|{% rauserpic japinhamaluco321 %}|{% rauserpicalt ChoccyMilk, ChocoMilk %}|
 |{% rauserpic CeruleanKnight %}|||
 
 ## Achievements Awarded
 
 ### 1,500,000 Achievements Awarded to Users
 
-|{% rauserpic Snow %}|||
+|{% rauserpicalt SnowPin, Snow %}|||
 
 ### 1,250,000 Achievements Awarded to Users
 
@@ -797,7 +797,7 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 750,000 Achievements Awarded to Users
 
-|{% rauserpic Scootaloo %}|{% rauserpic AlexGatao %}||
+|{% rauserpic Scootaloo %}|{% rauserpicalt AlexHylian, AlexGatao %}||
 
 ### 500,000 Achievements Awarded to Users
 
@@ -807,18 +807,18 @@ The following users and devs listed here reached a new milestone last month.
 
 |{% rauserpic Vancleef %}|{% rauserpic Pebete %}|{% rauserpic NeonPug %}|
 |{% rauserpic Marverick23 %}|{% rauserpic KingS1zzle %}|{% rauserpic HenrySwanson %}|
-|{% rauserpic DarkyAndreas %}|||
+|{% rauserpicalt Darky, DarkyAndreas %}|||
 
 ### 100,000 Achievements Awarded to Users
 
 |{% rauserpic Thoreau %}|{% rauserpic malasdair %}|{% rauserpic GameDragon %}|
-|{% rauserpic ChocoMilk %}|{% rauserpic Butternnife %}|{% rauserpic ArchWCR96 %}|
+|{% rauserpicalt ChoccyMilk, ChocoMilk %}|{% rauserpic Butternnife %}|{% rauserpic ArchWCR96 %}|
 
 ## Code Notes
 
 ### 1,000 Code Notes Created
 
-|{% rauserpic Salla %}|{% rauserpic ggodeny1 %}|{% rauserpic ChocoMilk %}|
+|{% rauserpic Salla %}|{% rauserpic ggodeny1 %}|{% rauserpicalt ChoccyMilk, ChocoMilk %}|
 
 ## Leaderboards Created
 
@@ -828,4 +828,4 @@ The following users and devs listed here reached a new milestone last month.
 
 ### 100 Leaderboards Created
 
-|{% rauserpic Farbefab %}|{% rauserpic blueYOSHI %}||
+|{% rauserpicalt Makironi, Farbefab %}|{% rauserpicalt blueYOSHMIN, blueYOSHI %}||

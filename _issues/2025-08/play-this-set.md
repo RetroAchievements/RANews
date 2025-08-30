@@ -31,7 +31,7 @@ It becomes more of a logical game than a platforming collect-a-thon, making sure
 | <a class="gameicon-link" href="https://retroachievements.org/game/4190" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/103085.png" alt="Driver: You Are The Wheelman"> <span>Driver: You Are The Wheelman</span></a> | Game Boy Color | [Action](https://retroachievements.org/hub/836), [Arcade Racing](https://retroachievements.org/hub/6635) |
 
 * Set by: {% rauserpic Raeyene %}
-* Write-up by: {% rauserpic Meatbro %}
+* Write-up by: {% rauserpicalt Meatbro, SuperMeatBro %}
 
 No one cares about [GTA](https://retroachievements.org/hub/8759). [Driver](https://retroachievements.org/game/11391) is the shit.
 
@@ -144,7 +144,7 @@ I feel this is kind of a gold standard for what sets should aim for: nothing is 
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/6639" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/105810.png" alt="Sonic Shuffle"> <span>Sonic Shuffle</span></a> | Dreamcast | [Party](https://retroachievements.org/hub/2839) |
 
-* Set by: {% rauserpic Craze %}
+* Set by: {% rauserpicalt Craze, Crazeuh %}
 * Write-up by: {% rauserpic ShadwSonic %}
 
 Ever wonder what [Mario Party](https://retroachievements.org/hub/13353) would be like if Sonic took a swing at it? Or maybe you'd just rather it have a bit more strategy than luck? Either way, Sonic Shuffle is the answer! Heck, it's even made by [Hudson Soft](https://retroachievements.org/hub/6879), the guys behind the OG Mario Parties!

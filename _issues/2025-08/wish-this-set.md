@@ -120,7 +120,7 @@ The story is another crucial piece that makes this game incredible. As you ventu
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3129" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/075287.png" alt="Ace Combat 5: The Unsung War"> <span>Ace Combat 5: The Unsung War</span></a> | PlayStation 2 | [Combat Flight Simulation](https://retroachievements.org/hub/18851) |
 
-* Write-up by: {% rauserpic Ephraim %}
+* Write-up by: {% rauserpicalt Ephraim, 12ek %}
 
 <figure style="text-align:center;float:left;width:50%;height:50%">
 <img src="https://media.retroachievements.org/Images/091231.png">
@@ -187,7 +187,7 @@ I think RA would benefit to give some light to this gem. It has a huge vibe of t
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/16758" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/111865.png" alt="Monster Racers"> <span> Monster Racers</span></a> | Nintendo DS | [Action RPG](https://retroachievements.org/hub/8625), [Racing](https://retroachievements.org/hub/13351) |
 
-* Write-up by: {% rauserpic S4NSAN %}
+* Write-up by: {% rauserpicalt S4NSAN, sanjista %}
 
 <figure style="text-align:center;float:right;width:50%;height:50%">
 <img src="https://media.retroachievements.org/Images/111862.png">

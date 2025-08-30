@@ -76,10 +76,10 @@ Check out the top 25 achievement creators from this month.
 | 6    | {% rauserpic DoctorV %}         | 123          |
 | 7    | {% rauserpic KiwiTaco %}        | 115          |
 | 8    | {% rauserpic TheMysticalOne %}  | 114          |
-| 9    | {% rauserpic TwosomesUP %}      | 100          |
+| 9    | {% rauserpicalt BacklogOddy, TwosomesUP %}      | 100          |
 | 10   | {% rauserpic multonic %}        | 99           |
 | 11   | {% rauserpic Vancleef %}        | 82           |
-| 12   | {% rauserpic SuperMeatBro %}    | 76           |
+| 12   | {% rauserpicalt Meatbro, SuperMeatBro %}    | 76           |
 | 13   | {% rauserpic NeonPug %}         | 67           |
 | 14   | {% rauserpic AshMetalRaf %}     | 66           |
 | 15   | {% rauserpic Landa %}           | 59           |
@@ -101,13 +101,13 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | Rank | Developer                           | Unlocks Awarded | Points Awarded | Retro Points Awarded |
 | :--- | :---------------------------------- | :-------------: | :------------: | :------------------: |
 | 1    | {% rauserpic SporyTike %}           |     62,031      |    332,343     |      1,320,238       |
-| 2    | {% rauserpic Snow %}                |     54,888      |    330,558     |      1,216,338       |
+| 2    | {% rauserpicalt SnowPin, Snow %}                |     54,888      |    330,558     |      1,216,338       |
 | 3    | {% rauserpic timenoe %}             |     47,836      |    403,451     |      3,620,061       |
 | 4    | {% rauserpic GalacticSpear %}       |     47,294      |    370,854     |      1,853,002       |
-| 5    | {% rauserpic Bryan1150 %}           |     46,488      |    288,336     |      1,034,052       |
+| 5    | {% rauserpicalt Brylefi, Bryan1150 %}           |     46,488      |    288,336     |      1,034,052       |
 | 6    | {% rauserpic Brian %}               |     45,351      |    344,356     |       993,293        |
 | 7    | {% rauserpic Delmaru %}             |     44,055      |    244,879     |      1,035,238       |
-| 8    | {% rauserpic televandalist %}       |     40,990      |    305,636     |      1,000,830       |
+| 8    | {% rauserpicalt tele, televandalist %}       |     40,990      |    305,636     |      1,000,830       |
 | 9    | {% rauserpic TeddyWestside %}       |     40,295      |    251,016     |       641,670        |
 | 10   | {% rauserpic ThatAmericanSlacker %} |     39,180      |    275,568     |       527,338        |
 | 11   | {% rauserpic dude1286 %}            |     37,668      |    312,480     |       651,435        |
@@ -115,7 +115,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 13   | {% rauserpic WilHiteWarrior %}      |     31,180      |    225,493     |       806,442        |
 | 14   | {% rauserpic Blazekickn %}          |     31,064      |    193,990     |       748,271        |
 | 15   | {% rauserpic Gollawiz %}            |     31,024      |    177,860     |      1,549,342       |
-| 16   | {% rauserpic AlexGatao %}           |     29,520      |    205,110     |      1,615,404       |
+| 16   | {% rauserpicalt AlexHylian, AlexGatao %}           |     29,520      |    205,110     |      1,615,404       |
 | 17   | {% rauserpic MGNS8M %}              |     29,314      |    201,416     |       601,122        |
 | 18   | {% rauserpic Salsa %}               |     28,621      |    218,275     |      1,169,686       |
 | 19   | {% rauserpic blendedsea %}          |     28,380      |    149,108     |       577,260        |
@@ -202,7 +202,7 @@ Check out who has the most achievement unlocks, points, retro points, and master
 | Rank | User                           | Achievements | Points | Retro Points | Mastery Awards |
 | ---- | ------------------------------ | :----------: | :----: | :----------: | :------------: |
 | 1    | {% rauserpic ElMullet %}       |    2,192     | 12,066 |    30,694    |       44       |
-| 2    | {% rauserpic MillenniumEye %}  |    2,163     | 12,865 |    25,253    |       84       |
+| 2    | {% rauserpicalt Tingleberry, MillenniumEye %}  |    2,163     | 12,865 |    25,253    |       84       |
 | 3    | {% rauserpic DeeCee %}         |    2,001     | 10,788 |    21,900    |       31       |
 | 4    | {% rauserpic usedpizza %}      |    1,776     | 10,277 |   120,641    |       42       |
 | 5    | {% rauserpic Capndrake %}      |    1,774     | 15,415 |    62,886    |       39       |
@@ -213,14 +213,14 @@ Check out who has the most achievement unlocks, points, retro points, and master
 | 10   | {% rauserpic ThatOneEnderr %}  |    1,451     | 6,721  |    18,685    |       36       |
 | 11   | {% rauserpic doctormiawoo %}   |    1,436     | 9,845  |    23,461    |       31       |
 | 12   | {% rauserpic WanderingHeiho %} |    1,435     | 9,215  |    65,274    |       12       |
-| 13   | {% rauserpic MarioKness %}     |    1,433     | 6,410  |    24,239    |       47       |
+| 13   | {% rauserpicalt VeronicaVyxie, MarioKness %}     |    1,433     | 6,410  |    24,239    |       47       |
 | 14   | {% rauserpic LinCrash %}       |    1,411     | 12,289 |    19,780    |       26       |
-| 15   | {% rauserpic Pit100 %}         |    1,406     | 8,600  |    18,772    |       55       |
+| 15   | {% rauserpicalt PeteDan, Pit100 %}         |    1,406     | 8,600  |    18,772    |       55       |
 | 16   | {% rauserpic Mendil %}         |    1,389     | 6,350  |    10,000    |       34       |
 | 17   | {% rauserpic MarceloRonzani %} |    1,379     | 8,395  |    12,801    |       55       |
 | 18   | {% rauserpic BlueShellBeast %} |    1,362     | 7,145  |    15,996    |       32       |
-| 19   | {% rauserpic hugohikari %}     |    1,348     | 8,659  |    15,177    |       31       |
-| 20   | {% rauserpic Knifemaker1 %}    |    1,337     | 7,748  |    23,752    |       29       |
+| 19   | {% rauserpicalt hugettehikari, hugohikari %}     |    1,348     | 8,659  |    15,177    |       31       |
+| 20   | {% rauserpicalt AmethystLightTV, Knifemaker1 %}    |    1,337     | 7,748  |    23,752    |       29       |
 | 21   | {% rauserpic Frenchy70 %}      |    1,336     | 7,237  |    18,403    |       23       |
 | 22   | {% rauserpic theweapon29 %}    |    1,298     | 11,983 |    50,906    |       29       |
 | 23   | {% rauserpic RANGO666 %}       |    1,283     | 11,161 |    63,736    |       24       |
@@ -437,16 +437,16 @@ Check out the users with the most mastery awards this month.
 
 | Rank | User                           | Awards |
 | ---- | ------------------------------ | ------ |
-| 1    | {% rauserpic MillenniumEye %}  | 84     |
+| 1    | {% rauserpicalt Tingleberry, MillenniumEye %}  | 84     |
 | 2    | {% rauserpic Thoreau %}        | 74     |
 | 3    | {% rauserpic Olbrin %}         | 72     |
 | 4    | {% rauserpic Aeliana %}        | 59     |
 | 5    | {% rauserpic atvdriver %}      | 59     |
 | 6    | {% rauserpic MarceloRonzani %} | 55     |
-| 7    | {% rauserpic Pit100 %}         | 55     |
-| 8    | {% rauserpic Varilinity %}     | 54     |
+| 7    | {% rauserpicalt PeteDan, Pit100 %}         | 55     |
+| 8    | {% rauserpicalt Varil, Varilinity %}     | 54     |
 | 9    | {% rauserpic Klep %}           | 52     |
-| 10   | {% rauserpic MarioKness %}     | 47     |
+| 10   | {% rauserpicalt VeronicaVyxie, MarioKness %}     | 47     |
 
 ## Top 10 Mastered Sets <!-- 21 -->
 Check out which sets were mastered most this month.
@@ -537,7 +537,7 @@ Check out the users with the most beaten awards this month.
 | Rank | User                           | Awards |
 | ---- | ------------------------------ | ------ |
 | 1    | {% rauserpic ElMullet %}       | 92     |
-| 2    | {% rauserpic MillenniumEye %}  | 91     |
+| 2    | {% rauserpicalt Tingleberry, MillenniumEye %}  | 91     |
 | 3    | {% rauserpic Foovatico %}      | 80     |
 | 4    | {% rauserpic Olbrin %}         | 78     |
 | 5    | {% rauserpic Dois %}           | 76     |
@@ -680,11 +680,11 @@ Check out which developers created the most leaderboards this month.
 <div>
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Leaderboards</th></tr></thead><tbody>
-        <tr><td>1</td><td>{% rauserpic Farbefab %}        </td><td>150</td></tr>
+        <tr><td>1</td><td>{% rauserpicalt Makironi, Farbefab %}        </td><td>150</td></tr>
         <tr><td>2</td><td>{% rauserpic NamcoPlayer9871 %} </td><td>127</td></tr>
         <tr><td>3</td><td>{% rauserpic LordAndrew %}      </td><td>104</td></tr>
-        <tr><td>4</td><td>{% rauserpic DarkyAndreas %}    </td><td>62</td></tr>
-        <tr><td>5</td><td>{% rauserpic calendario %}      </td><td>56</td></tr>
+        <tr><td>4</td><td>{% rauserpicalt Darky, DarkyAndreas %}    </td><td>62</td></tr>
+        <tr><td>5</td><td>{% rauserpicalt DCMD, calendario %}      </td><td>56</td></tr>
     </tbody></table>
     </div> <div style='width:49%;display:inline-block;float:right'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Leaderboards</th></tr></thead><tbody>
@@ -767,13 +767,13 @@ Check out which developer cleared the most tickets this month. This does not inc
 
 | Rank | User                           | Cleared Tickets |
 | ---- | ------------------------------ | --------------- |
-| 1    | {% rauserpic televandalist %}  | 72              |
+| 1    | {% rauserpicalt tele, televandalist %}  | 72              |
 | 2    | {% rauserpic Syltzhe %}        | 23              |
 | 3    | {% rauserpic orangepeelbeef %} | 20              |
 | 4    | {% rauserpic KiwiTaco %}       | 17              |
-| 5    | {% rauserpic wolfman2000 %}    | 15              |
+| 5    | {% rauserpicalt lonegraywolf2000, wolfman2000 %}    | 15              |
 | 6    | {% rauserpic Yanbetari %}      | 12              |
 | 7    | {% rauserpic suspect15 %}      | 11              |
-| 8    | {% rauserpic Yurana %}         | 9               |
+| 8    | {% rauserpicalt Cartesia, Yurana %}         | 9               |
 | 9    | {% rauserpic Gudra %}          | 9               |
 | 10   | {% rauserpic Souzooka %}       | 9               |

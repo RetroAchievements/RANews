@@ -13,7 +13,7 @@ Many members of our community have drawn far art as a celebration of an achievem
 
 <p align="center"><img src="https://github.com/user-attachments/assets/cef18de6-faa1-4e00-a9c3-2f16c4682df3" /></p>
 
-By {% rauserpic TrashPaddy %}
+By {% rauserpicalt TrashPaddy, PaddyShade %}
 
 We all have those days where we just want to lay down, look at the clouds and contemplate life. Pac-man has it today, where he looks at the clouds and is reminded of his old days where he was just a pizza slice. I miss you too pizza slice...
 
@@ -25,7 +25,7 @@ Speaking of reminiscing, here was have a blast to the past with 8-bit Donkey Kon
 
 <p align="center"><img src="https://github.com/user-attachments/assets/1f339020-072a-41d5-a416-35adf39c8656" /></p>
 
-By {% rauserpic PINGG %}
+By {% rauserpicalt PINGG, PenguGG %}
 
 The South Park cast is playing dress-up, and today's theme is Dragon Ball Z! Goku Cartman is ready to use his fart kamehameha's, and Vegeta Butters will oppose him by just... standing there. Menacingly.
 
