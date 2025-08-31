@@ -126,7 +126,7 @@ toc_float: false
     <a href="./raguide.html">
         <div class="section-content">
             <h1 id="raguide">RAGuide</h1>
-            <p>Enter a haunted challenge with the latest RAGuide for ~Hack~ Super Mario and the Monstrous Manor.Explore eerie halls, solve tricky platforming puzzles, and face off against spooky enemies in one of the highest rated SM64 ROM hacks.</p>
+            <p>Enter a haunted challenge with the latest RAGuide for ~Hack~ Super Mario and the Monstrous Manor. Explore eerie halls, solve tricky platforming puzzles, and face off against spooky enemies in one of the highest rated SM64 ROM hacks.</p>
         </div>
     </a>
 </div><div class="section-link">
@@ -249,68 +249,69 @@ toc_float: false
                 <td>{% rauserpic gorocz %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic Hawkow %}</td>
                 <td>{% rauserpic Hotscrock %}</td>
                 <td>{% rauserpic Infernothefox %}</td>
-                <td>{% rauserpic KiroPxl %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic KiroPxl %}</td>
                 <td>{% rauserpicalt MarinHappi, ouMiguel %}</td>
                 <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
-                <td>{% rauserpic MeloDeathAtmoBlack %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic MeloDeathAtmoBlack %}</td>
                 <td>{% rauserpic MrOwnership %}</td>
                 <td>{% rauserpic Nepiki %}</td>
-                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
             </tr>
             <tr>
+                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
                 <td>{% rauserpic Nora %}</td>
                 <td>{% rauserpic Nydaxn %}</td>
-                <td>{% rauserpic Obliv %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic Obliv %}</td>
                 <td>{% rauserpic oddgoo %}</td>
                 <td>{% rauserpic PaddyW %}</td>
-                <td>{% rauserpicalt PINGG, PenguGG %}</td>
             </tr>
             <tr>
+                <td>{% rauserpicalt PINGG, PenguGG %}</td>
                 <td>{% rauserpic pinguupinguu %}</td>
                 <td>{% rauserpic QATeam %}</td>
-                <td>{% rauserpic r0ach3d %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic r0ach3d %}</td>
                 <td>{% rauserpic RANews %}</td>
                 <td>{% rauserpic Raykusen %}</td>
-                <td>{% rauserpic RetroGameMaster %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic RetroGameMaster %}</td>
                 <td>{% rauserpic RyCuLe %}</td>
                 <td>{% rauserpicalt S4NSAN, sanjista %}</td>
-                <td>{% rauserpic ShadwSonic %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic ShadwSonic %}</td>
                 <td>{% rauserpic Sines %}</td>
                 <td>{% rauserpic Sniwott %}</td>
-                <td>{% rauserpicalt SnowPin, Snow %}</td>
             </tr>
             <tr>
+                <td>{% rauserpicalt SnowPin, Snow %}</td>
                 <td>{% rauserpic SporyTike %}</td>
                 <td>{% rauserpic StingX2 %}</td>
-                <td>{% rauserpicalt tele, televandalist %}</td>
             </tr>
             <tr>
+                <td>{% rauserpicalt tele, televandalist %}</td>
                 <td>{% rauserpic TimeCrush %}</td>
                 <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
-                <td>{% rauserpic Tymestalker %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic Tymestalker %}</td>
                 <td>{% rauserpic vikdarkbomb %}</td>
                 <td>{% rauserpic VintageNomad %}</td>
-                <td>{% rauserpic Whoops %}</td>
             </tr>
             <tr>
+                <td>{% rauserpic Whoops %}</td>
                 <td>{% rauserpic WindGoddess %}</td>
-                <td colspan=2>{% rauserpic Xymjak %}</td>
+                <td>{% rauserpic Xymjak %}</td>
             </tr>
         </tbody></table>
     </div>

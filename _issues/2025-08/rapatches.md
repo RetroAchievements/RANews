@@ -11,15 +11,6 @@ toc: true
 
 |                 |       |
 | --------------- | ----- |
-| New RAPatches   | 78    |
-| Total RAPatches | 5,469 |
-| New LLA         | 288   |
-| Total LLA       | 1,974 |
-
-## General Stats
-
-|                 |       |
-| --------------- | ----- |
 | New RAPatches   | 96    |
 | Total RAPatches | 5,565 |
 | New LLA         | 58    |

@@ -7,6 +7,12 @@ title: Community News
 toc: true
 ---
 
+## 1 Billion Points
+
+Congratulations on reaching 1 billion points earned!!! Thank you to all community members who continue to improve and push RA to greater heights.
+
+![](https://media.discordapp.net/attachments/357633571307126784/1410490889226162207/image.png?ex=68b52a01&is=68b3d881&hm=a46fe3149834c4e22e0eeb0139da7f61e0a6e97084e3652b02a3c70701f2c622&=&format=webp&quality=lossless)
+
 ## Playback
 
 Playback is the application which allows you to play and manage your cartridges (which also makes it excellent for dumping your games!). The GB Operator, the purchasable unit required to play with on the Playback emulator, links directly to your PC or Mac via USB connection. Once connected, you can download the Playback application and set it up. The Playback emulator comes with neat features, such as recognizing your games and matching it with the game's cover artwork and a short description about the game.
