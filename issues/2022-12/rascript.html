@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta content="width=device-width" name="viewport">
+  <!-- <title>RAScript Tutorials</title> -->
+  <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>RAScript Tutorials | RANews</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="RAScript Tutorials" />
+<meta name="author" content="Etron" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Tutorial #10 – Strings" />
+<meta property="og:description" content="Tutorial #10 – Strings" />
+<link rel="canonical" href="https://news.retroachievements.org/issues/2022-12/rascript.html" />
+<meta property="og:url" content="https://news.retroachievements.org/issues/2022-12/rascript.html" />
+<meta property="og:site_name" content="RANews" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-09-04T22:30:02+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="RAScript Tutorials" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Etron"},"headline":"RAScript Tutorials","dateModified":"2025-09-04T22:30:02+00:00","datePublished":"2025-09-04T22:30:02+00:00","description":"Tutorial #10 – Strings","url":"https://news.retroachievements.org/issues/2022-12/rascript.html","mainEntityOfPage":{"@type":"WebPage","@id":"https://news.retroachievements.org/issues/2022-12/rascript.html"},"@type":"BlogPosting","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="https://news.retroachievements.org/feed.xml" title="RANews" />
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177315439-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177315439-1');
+  </script>
+
+  <link href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/rafont.css">
+  <link rel="shortcut icon" type="image/png"
+    href="/img/retroachievements-logo-color-transparent-square.png" sizes="16x16 32x32 64x64">
+</head>
+
+<body>
+
+  <div class="grid">
+    <aside>
+  <div class="sidebar-header">
+    <a href="https://news.retroachievements.org">
+      <img alt="" src="/img/ranews-small.png">
+    </a>
+  </div>
+  <div class="article-list-container">
+    <h2>2022-12</h2>
+
+    <label for="article-list-toggle">&#9776;</label>
+    <input id="article-list-toggle" type="checkbox"/>
+
+    <ul class="article-list">
+      
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/index.html">
+              <li>Introduction</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/set-of-the-month.html">
+              <li>Set of the Month</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/this-month-in-retro.html">
+              <li>This Month In Retro</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/its-a-long-way-to-the-top.html">
+              <li>It's a Long Way to the Top</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/monthly-stats.html">
+              <li>Monthly Stats</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/milestones.html">
+              <li>Milestones</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/current-events.html">
+              <li>Current Events</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/community-news.html">
+              <li>Community News</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <li class="active">RAScript Tutorials</li>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/play-this-set.html">
+              <li>Play This Set</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/wish-this-set.html">
+              <li>Wish This Set</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/raguide.html">
+              <li>RAGuide</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/radvantage.html">
+              <li>RAdvantage</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/hot-cheevs.html">
+              <li>HotCheevs Monthly</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/revisions-and-rescores.html">
+              <li>Revisions and Rescores</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/art-updates.html">
+              <li>Art Updates</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/top-players.html">
+              <li>Top Players</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/ranniversaries.html">
+              <li>RAnniversaries</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/top-masteries.html">
+              <li>Top Masteries</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/most-wanted.html">
+              <li>Most Wanted Games</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-12/spot-the-difference.html">
+              <li>Spot The Difference</li>
+            </a>
+          
+        
+      
+    </ul>
+  </div>
+  <div class="footer">
+    <ul class="icons">
+      <li>
+        <a href="https://retroachievements.org/">
+          <i class="icon icon-retroachievements"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://discord.gg/dq2E4hE">
+          <i class="fab fa-discord"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://docs.retroachievements.org/">
+          <i class="fa fa-book"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/RetroAchievements">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+</aside>
+
+    <main>
+      <header>
+        <nav>
+  
+    <a href="/issues/2022-12/community-news.html" class="previous">
+      &#x00ab
+      
+        Community News
+      
+    </a>
+  
+  
+    <a href="/issues/2022-12/play-this-set.html" class="next">
+      
+        Play This Set
+      
+      &#x00bb
+    </a>
+  
+</nav>
+      </header>
+      <article>
+        <header>
+          
+          <h1 id="top">RAScript Tutorials</h1>
+          
+
+          
+          
+          <div class="author">
+            
+              
+              
+              
+              <img src="https://retroachievements.org/UserPic/Etron.png" alt="Etron">
+            
+            <span>By 
+              
+                
+                
+                <a href="https://retroachievements.org/user/Etron">Etron</a>
+              
+            </span>
+          </div>
+          
+        </header>
+
+        
+        <div id="toc" class="toc-container ">
+          <p class="toc-title">Contents</p>
+          <ul>
+  <li><a href="#tutorial-10--strings">Tutorial #10 – Strings</a>
+    <ul>
+      <li><a href="#overview">Overview</a></li>
+      <li><a href="#strings">Strings</a></li>
+      <li><a href="#encodings">Encodings</a>
+        <ul>
+          <li><a href="#ascii">ASCII</a></li>
+          <li><a href="#unicode">Unicode</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#example-10a-region-detection">Example #10A: Region Detection</a>
+    <ul>
+      <li><a href="#converting-ascii-to-hexadecimal">Converting ASCII to hexadecimal</a></li>
+      <li><a href="#stringcompare">StringCompare</a></li>
+    </ul>
+  </li>
+  <li><a href="#example-10b-eden">Example #10B: Eden</a>
+    <ul>
+      <li><a href="#start">Start</a></li>
+      <li><a href="#cancel">Cancel</a></li>
+      <li><a href="#submit">Submit</a></li>
+    </ul>
+  </li>
+  <li><a href="#example-10c-boss-types">Example #10C: Boss Types</a>
+    <ul>
+      <li><a href="#homework-10">Homework #10</a></li>
+      <li><a href="#useful-memory">Useful Memory</a></li>
+    </ul>
+  </li>
+</ul>
+        </div>
+        
+
+        <h1 id="tutorial-10--strings">Tutorial #10 – Strings</h1>
+
+<h2 id="overview">Overview</h2>
+
+<p>This tutorial will show a few examples of how to create an achievement that uses strings.  The game <a href="https://retroachievements.org/game/3419">Rez</a> was chosen for this tutorial because it is a rhythm based shoot ‘em up that uses strings for the currently loaded area and boss model. Another reason for picking Rez is that, like most disc based games, the GD-ROM itself has a name which can be used for identifying which region the player is using.</p>
+
+<p align="center">
+  <img src="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/10_Strings/Rez_Title_Screen.png?raw=true" />
+</p>
+
+<h2 id="strings">Strings</h2>
+
+<p>Strings are a sequenced array of values that represents text in a computer.  Each value in the array represents a character in the string and what value represents a character depends on the encoding.  The words you are reading right now are actually numeric values that the computer translates using an encoding standard, and then referencing a font table, prints the letters on the screen or on paper.</p>
+
+<h2 id="encodings">Encodings</h2>
+
+<p>There are many encoding standards that currently exist and the one we will be using in the tutorial is ASCII. When most retro games where developed ASCII was the main encoding standard however, newer games may use a different type of encoding so it is good to be aware that other encodings exists. Some more common encodings are:</p>
+
+<h3 id="ascii">ASCII</h3>
+
+<p><a href="https://en.wikipedia.org/wiki/ASCII">American Standard Code for Information Interchange (ASCII)</a> was the industry standard for early personal computers. It define 128 different characters and uses a byte per character to keep the memory aligned with 8-bit architectures.  ASCII includes special characters used by printers and teletypewriters that will not be displayed on the screen.   The table below illustrates what the string “Hello World!” would look like as an ASCII string.  Note the zero at the end of the string, often strings are null terminated so the computer knows when the string array is done.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Index</th>
+      <th style="text-align: center">0</th>
+      <th style="text-align: center">1</th>
+      <th style="text-align: center">2</th>
+      <th style="text-align: center">3</th>
+      <th style="text-align: center">4</th>
+      <th style="text-align: center">5</th>
+      <th style="text-align: center">6</th>
+      <th style="text-align: center">7</th>
+      <th style="text-align: center">8</th>
+      <th style="text-align: center">9</th>
+      <th style="text-align: center">10</th>
+      <th style="text-align: center">11</th>
+      <th style="text-align: center">12</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Character</td>
+      <td style="text-align: center">H</td>
+      <td style="text-align: center">e</td>
+      <td style="text-align: center">l</td>
+      <td style="text-align: center">l</td>
+      <td style="text-align: center">o</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">W</td>
+      <td style="text-align: center">o</td>
+      <td style="text-align: center">r</td>
+      <td style="text-align: center">l</td>
+      <td style="text-align: center">d</td>
+      <td style="text-align: center">!</td>
+      <td style="text-align: center"><strong>NULL</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Hex</td>
+      <td style="text-align: center">48</td>
+      <td style="text-align: center">65</td>
+      <td style="text-align: center">6c</td>
+      <td style="text-align: center">6c</td>
+      <td style="text-align: center">6f</td>
+      <td style="text-align: center">20</td>
+      <td style="text-align: center">57</td>
+      <td style="text-align: center">6f</td>
+      <td style="text-align: center">72</td>
+      <td style="text-align: center">6c</td>
+      <td style="text-align: center">64</td>
+      <td style="text-align: center">21</td>
+      <td style="text-align: center">00</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="unicode">Unicode</h3>
+
+<p><a href="https://en.wikipedia.org/wiki/Unicode">Unicode (UTF)</a> is the current encoding standard that modern computers use.  To keep the UTF backwards compatible with ASCII the first 128 characters are the same in both encodings. A UTF-8 string will look very similar to an ASCII string since it also uses a character per byte.  To support characters for all languages internationally, UTF-16 expanded the encoding definition to use 16 bits per character meaning a total possible 65,536 characters.  Other UTF standards exist however UTF-16 is the most common today since it can represent any language.  The table below illustrates what the string “Hello World!” would look like as an UFT-16 string.  Note that since the encoding is 16-bit, each index goes up by two instead of one like the ASCII encoding.  However, since the string is written with English characters the values are the same as ASCII values above with zeros padding the extra bits.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Index</th>
+      <th style="text-align: center">0</th>
+      <th style="text-align: center">2</th>
+      <th style="text-align: center">4</th>
+      <th style="text-align: center">6</th>
+      <th style="text-align: center">8</th>
+      <th style="text-align: center">10</th>
+      <th style="text-align: center">12</th>
+      <th style="text-align: center">14</th>
+      <th style="text-align: center">16</th>
+      <th style="text-align: center">18</th>
+      <th style="text-align: center">20</th>
+      <th style="text-align: center">22</th>
+      <th style="text-align: center">24</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Character</td>
+      <td style="text-align: center">H</td>
+      <td style="text-align: center">e</td>
+      <td style="text-align: center">l</td>
+      <td style="text-align: center">l</td>
+      <td style="text-align: center">o</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">W</td>
+      <td style="text-align: center">o</td>
+      <td style="text-align: center">r</td>
+      <td style="text-align: center">l</td>
+      <td style="text-align: center">d</td>
+      <td style="text-align: center">!</td>
+      <td style="text-align: center"><strong>NULL</strong></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Hex</td>
+      <td style="text-align: center">0048</td>
+      <td style="text-align: center">0065</td>
+      <td style="text-align: center">006c</td>
+      <td style="text-align: center">006c</td>
+      <td style="text-align: center">006f</td>
+      <td style="text-align: center">0020</td>
+      <td style="text-align: center">0057</td>
+      <td style="text-align: center">006f</td>
+      <td style="text-align: center">0072</td>
+      <td style="text-align: center">006c</td>
+      <td style="text-align: center">0064</td>
+      <td style="text-align: center">0021</td>
+      <td style="text-align: center">0000</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="example-10a-region-detection">Example #10A: Region Detection</h1>
+<p>Disc based systems gives each release a unique name that can be used to detect which region the player is using.  The name for the disc is often found in the same region of memory used by the operating system to help identify the game.  Rez has a Japanese release named “HDR-0178” and a European/North American released named “MK-5119250” which are both found at 0x8040.  If you can find the disc name for your game online then you can search for it in the memory inspector using the “ASCII Text” filter. The Developer Documentation has some <a href="https://docs.retroachievements.org/Console-Specific-Tips/#playstation">console specific tips</a> of where you would find the disc name for PlayStation games.</p>
+
+<p align="center">
+  <img src="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/10_Strings/Dreamcast_logos.png?raw=true" />
+</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Rez
+// #ID = 3419
+
+// $008040: [ASCII] Name of the GD-ROM disc in drive:
+//          JPN = "HDR-0178"
+//          US/EU = "MK-5119250"
+function GDROM(offset = 0) =&gt; 0x8040 + offset
+
+//-------------------------------------------------------------------------
+// Helper Functions
+
+// Check if the string hex values equal the hex values at the passed address
+function StringCompare(address, string)
+{
+    return all_of(range(0, length(string) - 1), i =&gt; byte(address + i) == string[i])
+}
+
+// "HDR-0178" = Japan GD-ROM Name
+JapanDisc = [0x48,0x44,0x52,0x2D,0x30,0x31,0x37,0x38]
+
+// "MK-5119250" = EU GD-ROM Name
+EuDisc = [0x4D,0x4B,0x2D,0x35,0x31,0x31,0x39,0x32,0x35,0x30]
+
+achievement(
+    "Example #10A - Japan Region",
+    "Start the game with the Japan region disc",
+    0,
+    StringCompare(GDROM(), JapanDisc)
+)
+
+achievement(
+    "Example #10A - EU Region",
+    "Start the game with the EU region disc",
+    0,
+    StringCompare(GDROM(), EuDisc)
+)
+</code></pre></div></div>
+<h2 id="converting-ascii-to-hexadecimal">Converting ASCII to hexadecimal</h2>
+<p>You could convert an ASCII string to hexadecimal using a table however, that is both time consuming and error prone.  If you have several strings to convert there are many online websites that will do the conversion for you like the <a href="https://onlinehextools.com/convert-ascii-to-hex">Online Hex Tools</a>.</p>
+
+<h2 id="stringcompare">StringCompare</h2>
+<p>The function StringCompare is passed the starting memory <strong>address</strong> of where the disc name is and an array of the expected hexadecimal values at that location.  The function uses <strong>all_of()</strong> to iterate through the array and creates a condition for each letter in order.  As the function iterates through the array it also iterates through the memory looking for a one to one match with the values in the array.  Note that strings are case sensitive since capital ‘A’ does not have the same value as lowercase ‘a’.</p>
+
+<p>Scripts: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/10_Strings/REZ_Example_10A.rascript">Example #10A script</a></p>
+
+<h1 id="example-10b-eden">Example #10B: Eden</h1>
+<p>In Rez you control a hacker named Swayzak who is trying to infiltrate a computer system to stop a corrupt AI named Eden.  The game is a hybrid rhythm rail shooter where the area and your shots are timed to the music to create a sense of synesthesia.  The background models for each area is an ASCII string so instead of looking at area numbers we are looking for a specific area name. The final area is where Swayzak confronts Eden after a gauntlet of bosses that are similar to the bosses in the previous four areas.  The example below uses the model name for the end movie after Eden is beat to detect the end of the game.</p>
+
+<p align="center">
+  <img src="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/10_Strings/Rez_End_Boss.png?raw=true" />
+</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Rez
+// #ID = 3419
+
+// $201248: [8-bit] Immortal Cheat (0 = off, 1 = on)
+function ImmortalCheat() =&gt; byte(0x201248)
+
+// $201250: [8-bit] Overdrive Cheat (0 = off, 1 = on)
+function OverdriveCheat() =&gt; byte(0x201250)
+
+// $201270: [float] Boss Health
+function BossHealth() =&gt; float(0x201270)
+
+// $20C124: [ASCII] Current model loaded index 0
+//          "eden_d5.pmm" = Form 5 of the final boss end movie
+//          ... note rest of string notes removed for brevity, see online code notes for full list
+function ModelLoaded(offset = 0) =&gt; 0x20C124 + offset
+
+// $20d8d4: [8-bit] Game Type (0 = Travelling, 2 = How To Play, 3 = Play, 4 = Score, 5 = Beyond)
+function GameType() =&gt; byte(0x20d8d4)
+
+// $210AC4: [24-bit] Game Pointer (null in menu)
+function GamePointer() =&gt; tbyte(0x210AC4)
+
+// $28DE38: [8-bit] Area (0-9)
+//          Areas = {0:"Area 1", 1:"Area 2", 2:"Area 3", 3:"Area 4",  4:"Area 5", 
+//            5:"Area 5 Bosses", 6: "How to Play", 7:"Boss Rush", 8:"Lost Area", 9:"Trace Mission"}
+function Areas() =&gt; byte(0x28DE38)
+
+// $960094: [32-bit] Game Mode (0xFFFFFFFF when in game, otherwise in menu)
+function GameMode() =&gt; dword(0x960094)
+
+//-------------------------------------------------------------------------
+// Hex array string definitions
+
+// "eden_d5.pmm" hex array string before the credits
+GameWon = [0x65,0x64,0x65,0x6E,0x5F,0x64,0x35,0x2E,0x70,0x6D,0x6D,0x0]
+
+//-------------------------------------------------------------------------
+// Helper Functions
+
+// Check if the string hex values equal the hex values at the passed address
+function StringCompare(address, string)
+{
+    return all_of(range(0, length(string) - 1), i =&gt; byte(address + i) == string[i])
+}
+
+//-------------------------------------------------------------------------
+// Menu item selections
+
+// Areas
+DirectAssault = 0
+Area1 = 0
+Area2 = 1
+Area3 = 2
+Area4 = 3
+Area5 = 4
+BossRush = 7
+LostArea = 8
+TransMission = 9
+
+// Menus
+TravellingMenu = 0
+HowToPlayMenu = 2
+PlayMenu = 3
+ScoreMenu = 4
+BeyondMenu = 5
+
+// Game state constant
+InGame = 0xffffffff
+
+// Conditions when normal play menu selection is made
+function AreaChallenge(area)
+{
+    // Start when the player begins area5
+    start = once(
+                ImmortalCheat() == 0 &amp;&amp; 
+                OverdriveCheat() == 0 &amp;&amp;
+                prev(GamePointer()) == 0 &amp;&amp; 
+                GamePointer() != 0 &amp;&amp;
+                GameType() == PlayMenu &amp;&amp;
+                Areas() == area
+            )
+    // Cancel  when the player gameovers or exits the game
+    cancel = never(
+                prev(GameMode()) == InGame &amp;&amp;
+                GameMode() != InGame
+            )
+            
+     // Submit when the player wins the game
+    submit = trigger_when(StringCompare(ModelLoaded(), GameWon))
+            
+    return start &amp;&amp; cancel &amp;&amp; submit
+}
+
+// Achievement for beating the final area
+achievement(
+    "Example #10B: Eden",
+    "Complete Area 5",
+    10, 
+    AreaChallenge(Area5)
+)
+</code></pre></div></div>
+
+<h2 id="start">Start</h2>
+<p>The challenge starts when the player selects area five from the play menu. Since the menu selection changes as the player moves the cursor instead the achievement looks at when the game pointer goes from null to not null to tell when the game has started.  There is immortal and infinite overdrive cheats that you can unlock so the achievement will not start if either cheat is active.</p>
+<h2 id="cancel">Cancel</h2>
+<p>The challenge cancels when the player dies or if the player exits the area.  This event is determined by when the game mode changes from the in game value of 0xffffffff to anything else.</p>
+
+<h2 id="submit">Submit</h2>
+<p>The challenges submit when the background model “eden_d5.pmm” is loaded during the final movie of the game.  Since the model name is a string the <strong>StringCompare()</strong> function is used to detect when the final movie is loaded.</p>
+
+<p>Scripts: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/10_Strings/REZ_Example_10B.rascript">Example #10B script</a></p>
+
+<h1 id="example-10c-boss-types">Example #10C: Boss Types</h1>
+<p>The type of boss fight at the end of an area is based on the percentage of enemies shot down.  If the player shoots down less than 90% then they will fight the Mega boss, 98% to 90% is a Giga boss, and above 98% is the Tera boss.  The Tera version of the boss is the hardest to beat, followed by the Giga boss, making the Mega is easiest of the boss types.  To match their increased difficultly the Tera and Giga bosses give a bonus score when beat.</p>
+
+<p align="center">
+  <img src="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/10_Strings/Rez_Venus_Tera.png?raw=true" />
+</p>
+
+<h2 id="homework-10">Homework #10</h2>
+<p>Pick any of bosses and make a challenge to beat the Giga or Tera version of that boss.</p>
+<h2 id="useful-memory">Useful Memory</h2>
+<p>To complete the homework problem you’ll need the memory address:<br />
+0x2003BC -&gt; [32-bit] Boss Pointer (not null when boss is spawned)<br />
+0x201270 -&gt; [float] Boss Health (1.0 when full and 0.0 when dead)</p>
+
+<p>The four boss types string locations: <br />
+0x3A3304 -&gt; [ASCII] Mars Boss Type (“Mars[Mega]”, “Mars[Giga]”, and “Mars[Tera]”) <br />
+0x3A7794 -&gt; [ASCII] Uranus Boss Type (“Uranus[Mega]”, “Uranus[Giga]”, and “Uranus[Tera]”) <br />
+0x3A91F8 -&gt; [ASCII] Venus Boss Type (“Venus[Mega]”, “Venus[Giga]”, and “Venus[Tera]”) <br />
+0x3ADFF8 -&gt; [ASCII] Earth Boss Type (“Earth[Mega]”, “Earth[Giga]”, and “Earth[Tera]”)</p>
+
+<p>Solutions: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/10_Strings/Solution/readme.md">Tutorial #10 Solution</a></p>
+
+<hr />
+
+<p><a href="../2022-02/rascript.html#tutorial-0---getting-started">Tutorial #0 - Getting Started</a><br />
+<a href="../2022-02/rascript.html#tutorial-1---memory-basics">Tutorial #1 - Memory Basics</a><br />
+<a href="../2022-03/rascript.html#tutorial-2---add-hits">Tutorial #2 - Add Hits</a><br />
+<a href="../2022-04/rascript.html#tutorial-3---bit-flags">Tutorial #3 - Bit Flags</a><br />
+<a href="../2022-05/rascript.html#tutorial-4---arithmetic-operations">Tutorial #4 - Arithmetic Operations</a><br />
+<a href="../2022-06/rascript.html#tutorial-5---pointers">Tutorial #5 - Pointers</a><br />
+<a href="../2022-07/rascript.html#tutorial-6--ifelse">Tutorial #6 - If/Else</a><br />
+<a href="../2022-08/rascript.html#tutorial-7--challenges-part-1">Tutorial #7 - Challenges Part 1</a><br />
+<a href="../2022-09/rascript.html#tutorial-8--challenges-part-2">Tutorial #8 - Challenges Part 2</a> <br />
+<a href="../2022-09/rascript.html#tutorial-9--trigger-and-measure-together">Tutorial #9 - Trigger and Measure Together</a></p>
+
+<p>All RAScript Tutorials can be found <a href="https://github.com/Etron-RA/RetroAchievements/tree/main/Tutorials">here</a>.</p>
+
+
+      </article>
+      <footer>
+        <nav>
+  
+    <a href="/issues/2022-12/community-news.html" class="previous">
+      &#x00ab
+      
+        Community News
+      
+    </a>
+  
+  
+    <a href="/issues/2022-12/play-this-set.html" class="next">
+      
+        Play This Set
+      
+      &#x00bb
+    </a>
+  
+</nav>
+      </footer>
+    </main>
+  </div>
+
+</body>
+
+</html>

@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta content="width=device-width" name="viewport">
+  <!-- <title>RAScript Tutorials</title> -->
+  <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>RAScript Tutorials | RANews</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="RAScript Tutorials" />
+<meta name="author" content="Etron" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Tutorial #6 – If/Else" />
+<meta property="og:description" content="Tutorial #6 – If/Else" />
+<link rel="canonical" href="https://news.retroachievements.org/issues/2022-07/rascript.html" />
+<meta property="og:url" content="https://news.retroachievements.org/issues/2022-07/rascript.html" />
+<meta property="og:site_name" content="RANews" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-09-04T22:30:02+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="RAScript Tutorials" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Etron"},"headline":"RAScript Tutorials","dateModified":"2025-09-04T22:30:02+00:00","datePublished":"2025-09-04T22:30:02+00:00","description":"Tutorial #6 – If/Else","url":"https://news.retroachievements.org/issues/2022-07/rascript.html","mainEntityOfPage":{"@type":"WebPage","@id":"https://news.retroachievements.org/issues/2022-07/rascript.html"},"@type":"BlogPosting","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="https://news.retroachievements.org/feed.xml" title="RANews" />
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177315439-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177315439-1');
+  </script>
+
+  <link href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/rafont.css">
+  <link rel="shortcut icon" type="image/png"
+    href="/img/retroachievements-logo-color-transparent-square.png" sizes="16x16 32x32 64x64">
+</head>
+
+<body>
+
+  <div class="grid">
+    <aside>
+  <div class="sidebar-header">
+    <a href="https://news.retroachievements.org">
+      <img alt="" src="/img/ranews-small.png">
+    </a>
+  </div>
+  <div class="article-list-container">
+    <h2>2022-07</h2>
+
+    <label for="article-list-toggle">&#9776;</label>
+    <input id="article-list-toggle" type="checkbox"/>
+
+    <ul class="article-list">
+      
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/index.html">
+              <li>Introduction</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/communitysubset.html">
+              <li>Community Subsets</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/thismonthinretro.html">
+              <li>This Month In Retro</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/stats.html">
+              <li>Monthly Stats</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/milestones.html">
+              <li>Milestones</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/events.html">
+              <li>Current Events</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/communitynews.html">
+              <li>Community News</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <li class="active">RAScript Tutorials</li>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/play-this-set.html">
+              <li>Play This Set</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/wish-this-set.html">
+              <li>Wish This Set</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/guide.html">
+              <li>RAGuide</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/radvantage.html">
+              <li>RAdvantage</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/hotcheevs.html">
+              <li>HotCheevs Monthly</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/revisions.html">
+              <li>Revisions and Rescores</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/art-updates.html">
+              <li>Art Updates</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/top-players.html">
+              <li>Top Players</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/ranniversaries.html">
+              <li>RAnniversaries</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/top-masteries.html">
+              <li>Top Masteries</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/most-wanted.html">
+              <li>Most Wanted Games</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-07/fun.html">
+              <li>Fun</li>
+            </a>
+          
+        
+      
+    </ul>
+  </div>
+  <div class="footer">
+    <ul class="icons">
+      <li>
+        <a href="https://retroachievements.org/">
+          <i class="icon icon-retroachievements"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://discord.gg/dq2E4hE">
+          <i class="fab fa-discord"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://docs.retroachievements.org/">
+          <i class="fa fa-book"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/RetroAchievements">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+</aside>
+
+    <main>
+      <header>
+        <nav>
+  
+    <a href="/issues/2022-07/communitynews.html" class="previous">
+      &#x00ab
+      
+        Community News
+      
+    </a>
+  
+  
+    <a href="/issues/2022-07/play-this-set.html" class="next">
+      
+        Play This Set
+      
+      &#x00bb
+    </a>
+  
+</nav>
+      </header>
+      <article>
+        <header>
+          
+          <h1 id="top">RAScript Tutorials</h1>
+          
+
+          
+          
+          <div class="author">
+            
+              
+              
+              
+              <img src="https://retroachievements.org/UserPic/Etron.png" alt="Etron">
+            
+            <span>By 
+              
+                
+                
+                <a href="https://retroachievements.org/user/Etron">Etron</a>
+              
+            </span>
+          </div>
+          
+        </header>
+
+        
+        <div id="toc" class="toc-container ">
+          <p class="toc-title">Contents</p>
+          <ul>
+  <li><a href="#tutorial-6--ifelse">Tutorial #6 – If/Else</a>
+    <ul>
+      <li><a href="#overview">Overview</a></li>
+      <li><a href="#logical-constructs">Logical Constructs</a></li>
+      <li><a href="#compile-time-vs-runtime">Compile Time vs. Runtime</a></li>
+    </ul>
+  </li>
+  <li><a href="#example-6a-40-lines-mode">Example 6A: 40 Lines Mode</a>
+    <ul>
+      <li><a href="#dealing-with-variations">Dealing with Variations</a></li>
+    </ul>
+  </li>
+  <li><a href="#example-6b-not-quite-a-grandmaster">Example 6B: Not Quite a Grandmaster</a>
+    <ul>
+      <li><a href="#two-dimensional-arrays">Two-Dimensional Arrays</a></li>
+      <li><a href="#data-and-memory-alignment">Data and Memory Alignment</a></li>
+      <li><a href="#all_of">all_of</a></li>
+    </ul>
+  </li>
+  <li><a href="#example-6c-pattern-design">Example 6C: Pattern Design</a>
+    <ul>
+      <li><a href="#homework-6">Homework #6</a></li>
+    </ul>
+  </li>
+</ul>
+        </div>
+        
+
+        <h1 id="tutorial-6--ifelse">Tutorial #6 – If/Else</h1>
+
+<h2 id="overview">Overview</h2>
+<p>This tutorial will show a few examples of how to create achievements using the <strong>logical constructs</strong> <strong>If</strong> and <strong>Else</strong>. <a href="https://retroachievements.org/game/4939">Tetris DX</a> was chosen since it has a couple of achievements in the set that test for a certain puzzle pattern.   The examples show a method of creating these test patterns using a two-dimensional array and <strong>logical constructs</strong>.  They also show how you can make functions more versatile with <strong>logical constructs</strong>. If you are unfamiliar with the concept of <strong>logical constructs</strong> then please review the Khan Academy videos <a href="https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pt/ifelse-part-1">If/Else - Part 1</a> and <a href="https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pt/ifelse-part-2">If/Else - Part 2</a>.</p>
+
+<p align="center">
+  <img src="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/06_If_Else/Tetris_DX_Title.png?raw=true" />
+</p>
+
+<h2 id="logical-constructs">Logical Constructs</h2>
+
+<p><strong>Logical constructs</strong> allow you to control which blocks of code are executed.  The block of code that gets executed depends on value of the test condition. The test condition must be a <strong>Boolean</strong> value meaning the result is either <strong>true</strong> or <strong>false</strong>.  The <em>RATools</em> wiki has more information on how to use <a href="https://github.com/Jamiras/RATools/wiki/Logical-Constructs">Logical Constructs</a>.  For the following example assume a <em>number</em> that is randomly selected between 0 and 10. Depending on the value of the <em>number</em> different blocks of the code will be executed if number is between less than 5 or greater than or equal to 5.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>if (number &lt; 5)
+{
+    // Execute this block of code if the number is less than 5
+}
+else
+{
+    // Execute this block of code if the number is greater than or equal to 5
+}
+</code></pre></div></div>
+<p>Note that if the block of code is only one line the curly brackets can be omitted. You can also omit the <strong>else</strong> clause altogether if it’s not needed.  The <strong>else</strong> and <strong>if</strong> clauses can be chained together to make more complicated conditionals.  For the following example assume a <em>number</em> that is randomly selected between 0 and 3.  To execute a different block of code for each <em>number</em>:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>if (number == 0)
+    // Execute this block of code if the number is 0
+else if (number == 1)
+    // Execute this block of code if the number is 1
+else if (number == 2)
+    // Execute this block of code if the number is 2
+else if (number == 3)
+    // Execute this block of code if the number is 3
+</code></pre></div></div>
+<h2 id="compile-time-vs-runtime">Compile Time vs. Runtime</h2>
+<p>A very important thing to note about <strong>logical constructs</strong> in <em>RAScripts</em> is that they are <strong>Compile Time</strong> operations!  Being <strong>Compile Time</strong> means that the <em>RAScript</em> code is ran once in <em>RATools</em> where it is translated into the achievement code used by <em>RALibretro</em> and other emulators. As a result, you <strong>cannot</strong> used emulation memory values for <strong>logical constructs</strong> since that memory does not exist when the <em>RAScript</em> is compiled. Conversely, the achievement code is ran at <strong>Runtime</strong> meaning that it is ran with the emulator and has access to the emulator’s memory values.  This might be a confusing point if you are new to the world of programming, just know that if you are having an issue with a <strong>logical construct</strong> it may be that you are trying to access emulator memory with it.</p>
+
+<h1 id="example-6a-40-lines-mode">Example 6A: 40 Lines Mode</h1>
+<p>Tetris is a puzzle game where the main goal is to rotate and align the falling Tetriminos to create a solid horizontal line. When a solid horizontal line is made the game will remove the line from the board and award points depending on how many lines were cleared at once. The 40 Lines Mode in <a href="https://retroachievements.org/game/4939">Tetris DX</a> is a special mode where you must complete 40 lines at various starting heights and speeds. The higher the starting height and/or speed the more difficult the challenge is.</p>
+
+<p align="center">
+  <img src="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/06_If_Else/Tetris_DX_40Lines.png?raw=true" />
+</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Tetris DX
+// #ID = 4939
+
+// $AC0A: 0=marathon  1=ultra
+//        2=40lines   3=vs.com
+function GameType() =&gt; byte(0x00AC0A)
+
+// $AC24: Number of lines completed
+function Lines() =&gt; byte(0x00AC24)
+
+// $DB10: speed level in 40 lines
+function Speed() =&gt; byte(0x00DB10)
+
+// $DB11: high-level
+function HighLevel() =&gt; byte(0x00DB11)
+
+// Create a forty lines mode achievements with starting high-level, speed conditions, or both
+function FortyLines(title, description, points, highLevel, speed)
+{
+    // Always check for game mode 40 lines and
+    // if previous lines was between 36 to 39 and the current lines is 40 or more
+    trigger = GameType() == 2 &amp;&amp; 
+        prev(Lines()) &gt;= 36 &amp;&amp; 
+        prev(Lines()) &lt;= 39 &amp;&amp;
+        Lines() &gt;= 40
+    
+    // If the high level setting is greater than zero then add the high level condition
+    if (highLevel &gt; 0) 
+        trigger = trigger &amp;&amp; HighLevel() == highLevel        
+       
+    // If the speed setting is greater than zero then add the speed condition
+    if (speed &gt; 0) 
+        trigger = trigger &amp;&amp; Speed() == speed
+        
+    achievement(title, description, points, trigger)
+}
+
+// Create seven forty lines mode achievements using variations of the same function
+FortyLines("Example 6A: One-High", "Beat [40 Lines] mode on 1-High.", 2, 1, 0)
+FortyLines("Example 6A: Two-High", "Beat [40 Lines] mode on 2-High.", 3, 2, 0)
+FortyLines("Example 6A: Three-High", "Beat [40 Lines] mode on 3-High.", 5, 3, 0)
+FortyLines("Example 6A: Four-High", "Beat [40 Lines] mode on 4-High.", 5, 4, 0)
+FortyLines("Example 6A: Five-High", "Beat [40 Lines] mode on 5-High.", 10, 5, 0)
+FortyLines("Example 6A: Mach 40", "Beat [40 Lines] mode on Speed Level 9.", 5, 0, 9)
+FortyLines("Example 6A: Light Speed", "Beat [40 Lines] mode on 5-High and Speed Level 9.", 10, 5, 9)
+</code></pre></div></div>
+
+<h2 id="dealing-with-variations">Dealing with Variations</h2>
+<p>The above example takes advantage of the fact that only one or two conditions change for each of the 40 Line Mode achievements. Using <strong>logical constructs</strong>, the resulting achievement is built differently depending on the passed parameters.  If the <em>highLevel</em> parameter is greater than zero then an additional condition is added to the achievement to check if the current high level value is the passed <em>highLevel</em> value. Similarly, if the <em>speed</em> parameter is greater than zero then an additional condition is added to the achievement to check if the current speed value is the passed <em>speed value</em>.  By adding a few <strong>logical constructs</strong> to the function <em>FortyLines()</em> we expanded its capabilities to handle multiple starting heights and/or speeds.</p>
+
+<p>Scripts: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/06_If_Else/Example_6A_Tetris_DX.rascript">Example #6A script</a></p>
+
+<h1 id="example-6b-not-quite-a-grandmaster">Example 6B: Not Quite a Grandmaster</h1>
+<p>The Tetris board is limited to 10 blocks across and 20 blocks high (10x19 on the game boy due to the reduced screen size).  Once blocks stack over the height limit the game is over.  To become a Tetris Grandmaster you must be able to control where the gaps in a line are no matter what pieces you are given.  One way to practice controlling the board is to perform the Grandmaster build which starts with a gap on the far bottom left of the board and then has a gap one cell to the right and up until the gap is on the other side of the board. Master this build and you are one step closer to becoming a Tetris Grandmaster!</p>
+
+<p align="center">
+  <img src="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/06_If_Else/Tetris_DX_Grandmaster.png?raw=true" />
+</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Tetris DX
+// #ID = 4939
+
+// $AD02: Tetris Board 10x19
+//        Cell(0,0) = $AD02, Cell(9,0) = $AD0B, 
+//        Cell(0,1) = $AD12, Cell(9,1) = $AD1B,
+//        ... 
+//        Cell(0,18) = $AE22, Cell(9,18) = $AE2B
+function Cell(x,y) =&gt; byte(0xAD02 + x + (y * 16))
+
+// Shortcut cell definitions
+MT = 0xfb // Empty square
+HL = 0xb0 // I horizontal left piece (orange)
+HC = 0xb1 // I horizontal center piece
+HR = 0xb2 // I horizontal right piece
+VT = 0xb3 // I vertical top piece
+VM = 0xb4 // I vertical center piece
+VB = 0xb5 // I vertical bottom piece
+LP = 0x88 // L piece (red)
+JP = 0x90 // J piece (light blue)
+TP = 0x98 // T piece (light green)
+ZP = 0xa0 // Z piece (yellow)
+SP = 0xa8 // S piece (purple)
+OP = 0x80 // O piece (black)
+
+// Special cells
+NE = 0xff // Any square (not empty)
+NO = 0x0  // Nothing (ignore)
+
+// Build a set of conditions to test for the passed map
+function TetrisMap(map)
+{
+    mapArray = []
+    for y in range(0,18)
+    {
+        for x in range(0,9)
+        {
+            // Get the value of current cell
+            cell = map[y][x]            
+            if (cell == NE)
+                // If any cell then test not empty
+                array_push(mapArray, Cell(x,y) != MT)
+            else if (cell != NO) 
+                // If not ignoring cell then test for current cell value
+                array_push(mapArray, Cell(x,y) == cell)
+        }
+    }
+    return all_of(mapArray, a =&gt; a)
+}
+
+grandmaster= [
+    [NO,NO,NO,NO,NO,NO,NO,NO,NO,NO],
+    [NO,NO,NO,NO,NO,NO,NO,NO,NO,NO],
+    [NO,NO,NO,NO,NO,NO,NO,NO,NO,NO],
+    [NO,NO,NO,NO,NO,NO,NO,NO,NO,NO],
+    [NO,NO,NO,NO,NO,NO,NO,NO,NO,NO],
+    [NO,NO,NO,NO,NO,NO,NO,NO,NO,NO],
+    [NO,NO,NO,NO,NO,NO,NO,NO,NO,NO],
+    [NO,NO,NO,NO,NO,NO,NO,NO,NO,NO],
+    [NO,NO,NO,NO,NO,NO,NO,NO,NO,NO],
+    [NE,NE,NE,NE,NE,NE,NE,NE,NE,MT],
+    [NE,NE,NE,NE,NE,NE,NE,NE,MT,NE],
+    [NE,NE,NE,NE,NE,NE,NE,MT,NE,NE],
+    [NE,NE,NE,NE,NE,NE,MT,NE,NE,NE],
+    [NE,NE,NE,NE,NE,MT,NE,NE,NE,NE],
+    [NE,NE,NE,NE,MT,NE,NE,NE,NE,NE],
+    [NE,NE,NE,MT,NE,NE,NE,NE,NE,NE],
+    [NE,NE,MT,NE,NE,NE,NE,NE,NE,NE],
+    [NE,MT,NE,NE,NE,NE,NE,NE,NE,NE],
+    [MT,NE,NE,NE,NE,NE,NE,NE,NE,NE]
+]
+
+achievement(
+    title = "Example 6B: Not Quite a Grandmaster",
+    description = "Perform the secret grade grandmaster build up to the opposite wall", 
+    points = 25,
+    trigger = TetrisMap(grandmaster)
+)
+</code></pre></div></div>
+
+<h2 id="two-dimensional-arrays">Two-Dimensional Arrays</h2>
+
+<p>To test for the Grandmaster build a two-dimensional array (an array of arrays) is defined with the desired value for each cell.   Puzzle and single screen games typically have a map of cells that represent the board game.  In Tetris’s case the map of cells define several block types that could be in each cell. If the array is:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">NE</code> then the cell must have a block in it but it can be any type of block</li>
+  <li><code class="language-plaintext highlighter-rouge">MT</code> then cell must be empty</li>
+  <li><code class="language-plaintext highlighter-rouge">NO</code> then cell is ignored so it can be any block or empty</li>
+  <li>Otherwise the cell value must match what is in the array</li>
+</ul>
+
+<h2 id="data-and-memory-alignment">Data and Memory Alignment</h2>
+
+<p>To align the two-dimensional array with the in-game memory the function <code class="language-plaintext highlighter-rouge">Cell(x,y)</code> takes in a x,y coordinate and returns the byte of memory for that cell.  When reading the desired value from the two-dimensional you can access the array by index <code class="language-plaintext highlighter-rouge">map[y][x]</code>.  Note that the x and y are reversed for the array access.  This is because the array is define as an array of rows where <code class="language-plaintext highlighter-rouge">row = map[y]</code> gets you the array at row y. To get the cell value from the row you would need to index <code class="language-plaintext highlighter-rouge">cell = row[x]</code> which is the equivalent of <code class="language-plaintext highlighter-rouge">map[y][x]</code>.  This is just one method for building this achievement, as the designer you can define the array configuration differently or use an entirely different method.</p>
+
+<h2 id="all_of">all_of</h2>
+
+<p>Because the <code class="language-plaintext highlighter-rouge">TetrisMap()</code> function is data driven we don’t know exactly how many conditions are needed until the function is called.  The conditions are then built up for any cell that is not ignored (any cell not equal to <code class="language-plaintext highlighter-rouge">NO</code>).  An empty array <code class="language-plaintext highlighter-rouge">mapArray[]</code> is defined at the top of the function and all the not ignored cell conditions are pushed on to the array.  At the end of the function the <code class="language-plaintext highlighter-rouge">all_of</code> command takes the array of conditions and returns a single condition with everything &amp;&amp;’d together.  The conditions could have been built using a similar method as <a href="#example-6a-40-lines-mode">Example 6A</a> with <code class="language-plaintext highlighter-rouge">trigger = trigger &amp;&amp; condition</code> however, the <code class="language-plaintext highlighter-rouge">all_of</code> is more concise.</p>
+
+<p>Scripts: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/06_If_Else/Example_6B_Tetris_DX.rascript">Example #6B script</a></p>
+
+<h1 id="example-6c-pattern-design">Example 6C: Pattern Design</h1>
+<p>The ultimate goal of Tetris is survival since the blocks will fall faster as the game goes on giving you less time to react.  Being able to quickly recognize patterns can improve your ability to play at the high levels.  As such being able to create pre-defined patterns is the hallmark of a great Tetris player!</p>
+
+<p align="center">
+  <img src="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/06_If_Else/Tetris_DX_Question_Mark.png?raw=true" />
+</p>
+
+<h2 id="homework-6">Homework #6</h2>
+<p>A) Design a 10x19 Tetris pattern
+B) Use the code from <a href="#example-6b-not-quite-a-grandmaster">Example 6B</a> as a guide and replace the Tetris array map with the pattern defined in part A.</p>
+
+<p>Solutions: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/06_If_Else/Solution/readme.md">Tutorial #6 Solution</a></p>
+
+<hr />
+
+<p><a href="../2022-02/rascript.html#tutorial-0---getting-started">Tutorial #0 - Getting Started</a><br />
+<a href="../2022-02/rascript.html#tutorial-1---memory-basics">Tutorial #1 - Memory Basics</a><br />
+<a href="../2022-03/rascript.html#tutorial-2---add-hits">Tutorial #2 - Add Hits</a><br />
+<a href="../2022-04/rascript.html#tutorial-3---bit-flags">Tutorial #3 - Bit Flags</a><br />
+<a href="../2022-05/rascript.html#tutorial-4---arithmetic-operations">Tutorial #4 - Arithmetic Operations</a><br />
+<a href="../2022-06/rascript.html#tutorial-5---pointers">Tutorial #5 - Pointers</a></p>
+
+<p>All RAScript Tutorials can be found <a href="https://github.com/Etron-RA/RetroAchievements/tree/main/Tutorials">here</a>.</p>
+
+
+      </article>
+      <footer>
+        <nav>
+  
+    <a href="/issues/2022-07/communitynews.html" class="previous">
+      &#x00ab
+      
+        Community News
+      
+    </a>
+  
+  
+    <a href="/issues/2022-07/play-this-set.html" class="next">
+      
+        Play This Set
+      
+      &#x00bb
+    </a>
+  
+</nav>
+      </footer>
+    </main>
+  </div>
+
+</body>
+
+</html>

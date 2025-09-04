@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta content="width=device-width" name="viewport">
+  <!-- <title>RAScript Tutorials</title> -->
+  <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>RAScript Tutorials | RANews</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="RAScript Tutorials" />
+<meta name="author" content="Etron" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Tutorial #5 – Pointers" />
+<meta property="og:description" content="Tutorial #5 – Pointers" />
+<link rel="canonical" href="https://news.retroachievements.org/issues/2022-06/rascript.html" />
+<meta property="og:url" content="https://news.retroachievements.org/issues/2022-06/rascript.html" />
+<meta property="og:site_name" content="RANews" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-09-04T22:30:02+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="RAScript Tutorials" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Etron"},"headline":"RAScript Tutorials","dateModified":"2025-09-04T22:30:02+00:00","datePublished":"2025-09-04T22:30:02+00:00","description":"Tutorial #5 – Pointers","url":"https://news.retroachievements.org/issues/2022-06/rascript.html","mainEntityOfPage":{"@type":"WebPage","@id":"https://news.retroachievements.org/issues/2022-06/rascript.html"},"@type":"BlogPosting","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="https://news.retroachievements.org/feed.xml" title="RANews" />
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177315439-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177315439-1');
+  </script>
+
+  <link href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/rafont.css">
+  <link rel="shortcut icon" type="image/png"
+    href="/img/retroachievements-logo-color-transparent-square.png" sizes="16x16 32x32 64x64">
+</head>
+
+<body>
+
+  <div class="grid">
+    <aside>
+  <div class="sidebar-header">
+    <a href="https://news.retroachievements.org">
+      <img alt="" src="/img/ranews-small.png">
+    </a>
+  </div>
+  <div class="article-list-container">
+    <h2>2022-06</h2>
+
+    <label for="article-list-toggle">&#9776;</label>
+    <input id="article-list-toggle" type="checkbox"/>
+
+    <ul class="article-list">
+      
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/index.html">
+              <li>Introduction</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/goodticket.html">
+              <li>The Anatomy Of A Good Ticket</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/thismonthinretro.html">
+              <li>This Month In Retro</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/stats.html">
+              <li>Monthly Stats</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/milestones.html">
+              <li>Milestones</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/events.html">
+              <li>Current Events</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/communitynews.html">
+              <li>Community News</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <li class="active">RAScript Tutorials</li>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/play-this-set.html">
+              <li>Play This Set</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/wish-this-set.html">
+              <li>Wish This Set</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/guide.html">
+              <li>RAGuide</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/radvantage.html">
+              <li>RAdvantage</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/hotcheevs.html">
+              <li>HotCheevs Monthly</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/revisions.html">
+              <li>Revisions and Rescores</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/art-updates.html">
+              <li>Art Updates</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/top-players.html">
+              <li>Top Players</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/ranniversaries.html">
+              <li>RAnniversaries</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/top-masteries.html">
+              <li>Top Masteries</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/most-wanted.html">
+              <li>Most Wanted Games</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/fun.html">
+              <li>Fun</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-06/ra-spotlight.html">
+              <li>RASpotlight</li>
+            </a>
+          
+        
+      
+    </ul>
+  </div>
+  <div class="footer">
+    <ul class="icons">
+      <li>
+        <a href="https://retroachievements.org/">
+          <i class="icon icon-retroachievements"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://discord.gg/dq2E4hE">
+          <i class="fab fa-discord"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://docs.retroachievements.org/">
+          <i class="fa fa-book"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/RetroAchievements">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+</aside>
+
+    <main>
+      <header>
+        <nav>
+  
+    <a href="/issues/2022-06/communitynews.html" class="previous">
+      &#x00ab
+      
+        Community News
+      
+    </a>
+  
+  
+    <a href="/issues/2022-06/play-this-set.html" class="next">
+      
+        Play This Set
+      
+      &#x00bb
+    </a>
+  
+</nav>
+      </header>
+      <article>
+        <header>
+          
+          <h1 id="top">RAScript Tutorials</h1>
+          
+
+          
+          
+          <div class="author">
+            
+              
+              
+              
+              <img src="https://retroachievements.org/UserPic/Etron.png" alt="Etron">
+            
+            <span>By 
+              
+                
+                
+                <a href="https://retroachievements.org/user/Etron">Etron</a>
+              
+            </span>
+          </div>
+          
+        </header>
+
+        
+        <div id="toc" class="toc-container ">
+          <p class="toc-title">Contents</p>
+          <ul>
+  <li><a href="#tutorial-5--pointers">Tutorial #5 – Pointers</a>
+    <ul>
+      <li><a href="#overview">Overview</a></li>
+      <li><a href="#pointers">Pointers</a></li>
+      <li><a href="#data-structures">Data Structures</a></li>
+    </ul>
+  </li>
+  <li><a href="#finding-pointers">Finding Pointers</a></li>
+  <li><a href="#example-5a-get-over-here">Example 5A: Get Over Here!</a>
+    <ul>
+      <li><a href="#pointer-functions">Pointer Functions</a></li>
+      <li><a href="#null-pointers">Null Pointers</a></li>
+    </ul>
+  </li>
+  <li><a href="#example-5b-im-not-the-bad-guy">Example 5B: I’m Not the Bad Guy!</a>
+    <ul>
+      <li><a href="#double-pointers">Double Pointers</a></li>
+    </ul>
+  </li>
+  <li><a href="#example-5c-no-idea-what-youre-in-for">Example 5C: No Idea What You’re In For</a>
+    <ul>
+      <li><a href="#boss-pointer">Boss Pointer</a></li>
+      <li><a href="#homework-5">Homework #5</a></li>
+    </ul>
+  </li>
+</ul>
+        </div>
+        
+
+        <h1 id="tutorial-5--pointers">Tutorial #5 – Pointers</h1>
+
+<h2 id="overview">Overview</h2>
+
+<p>This tutorial will show a few examples of how to create achievements for a game that uses <em>pointers</em>. <a href="https://retroachievements.org/game/11319">Spider-Man</a> was chosen for the tutorial because it uses several <em>pointers</em> for Spider-Man himself and other characters in the game.  If you are unfamiliar with <em>pointers</em> then please review the <a href="https://youtu.be/_gk0vYYlm-E">Pointer/Add Address Tutorial video</a> by <a href="https://retroachievements.org/user/wilhitewarrior">wilhitewarrior</a>. The video contains a great explanation of <em>pointers</em> and how to find them.</p>
+
+<p align="center">
+  <img src="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/05_Pointers/Spiderman_Title.png?raw=true" />
+</p>
+
+<h2 id="pointers">Pointers</h2>
+<p><em>Pointers</em> are variables that point to another memory address. They are commonly used for dynamic memory where the program will ask for a specified amount of memory and the operating system will allocate the next available block of memory to it.  The <em>pointer</em> is then assigned the memory address for the newly created memory.  Once the program is done with the memory it is returned to the operating system.  Because of the dynamic nature of acquiring and releasing memory a <em>pointer</em> will rarely point to the same address.</p>
+
+<p>Dynamic memory is a modern feature so you’re more likely to run into <em>pointers</em> on newer systems like the N64, Playstation, or Dreamcast although they do show up occasionally on earlier systems.  Pointers are often 32-bits with the address being in the bottom 24-bits and the top 8-bits commonly being 0x80, 0x90, 0xc0, or 0xff. These prefixes are based on where the RAM is located in the memory map of the system. For example, Playstation and N64 starts at 0x80000000, so that’s why the upper byte is 0x80 on those systems. Similarly, the Mega Drive RAM starts at 0xFF0000, so you will often see pointers with that prefix on that system.  Knowing this, we can ignore the prefix and use the rest of the <em>pointer</em> value to figure out where the memory is located.  A 24-bit <em>pointer</em> can address up to 16MB of memory so later generation consoles may use the full 32-bits to represent higher memory addresses and likewise older generation consoles may have 16-bit <em>pointers</em>.</p>
+
+<h2 id="data-structures">Data Structures</h2>
+<p><em>Data structures</em> are a specialized way for organizing memory in object oriented programming. <em>Data structures</em> are used to group pieces of data together and are sometimes organized to improve performance.  Consider the <em>data structure</em> used for Spider-Man’s player stats below:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Player Stats Data Structure
++04 - X Coordinates
++08 - Y Coordinates
++0C - Z Coordinates
++DE - Health
++140 - Animation ID
++150 - Another Animation ID?
++1A8 - Cutscene Playing (01)
++5D8 - Webbing
++5DC - Web Cartridges
++5F0 - Spidey Armor Active
++5F8 - Spidey Armor Strength
++5EC - Magnesium Webbing (01)
++EE8 - Pointer to Current Enemy
++EEB - Target Type
++1014 - Max Health
+</code></pre></div></div>
+<p>Note that the <em>data structure</em> is incomplete and has many more variables that were not required for the achievements. When assigning a new <em>pointer</em> the address points to the root of the data structure at <em>data offset</em> 0x0.  If we want to know the address for Spider-Man’s health we would need to add 0xDE to the player stats <em>pointer</em>. Similarly, if we want to know who Spider-Man is targeting we would add 0xEE8 to the player stats <em>pointer</em>.  In this case we would have a double <em>pointer</em>, a <em>pointer</em> that points to another <em>pointer</em>, which is shown in <a href="Example_5B.md">Example 5B</a>.  One of the nice things about <em>data structures</em> is that since they group data together, once you find a useful memory address there will likely be other useful memory addresses around it.</p>
+
+<h1 id="finding-pointers">Finding Pointers</h1>
+<p>How do you know if you have a <em>pointer</em>? <em>Pointers</em> can change at any time but are usually set during a load sequence.  To find a <em>pointer</em> it’s best to dig memory in multiple game instances. If you notice that a memory address differs between instances you might have a <em>pointer</em> on your hands.  To find a pointer:</p>
+<ol>
+  <li>Make three or more save states and save a note for the memory address of interest in each state.  For this example we will be using three states
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Mem_1 = Memory address in state 1
+Mem_2 = Memory address in state 2
+Mem_3 = Memory address in state 3
+</code></pre></div>    </div>
+  </li>
+  <li>Find the address differences between the states by using a <a href="https://www.calculator.net/hex-calculator.html">hex calculator</a>.  For a three state example:
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>MemDiff1_2 = Mem_2 – Mem_1
+MemDiff2_3 = Mem_3 – Mem_2
+</code></pre></div>    </div>
+  </li>
+  <li>Start in state 1 and filter the memory for a 32-bit address (may be 16-bit for Mega Drive or SNES).</li>
+  <li>Switch to state 2
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>If MemDiff1_2 &gt; 0 then filter “Last Value Plus” by MemDiff1_2
+If MemDiff1_2 &lt; 0 then filter “Last Value Minus” abs(MemDiff1_2)
+</code></pre></div>    </div>
+  </li>
+  <li>Switch to state 3
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>If MemDiff2_3 &gt; 0 then filter “Last Value Plus” by MemDiff2_3
+If MemDiff2_3 &lt; 0 then filter “Last Value Minus” by abs(MemDiff2_3)
+</code></pre></div>    </div>
+  </li>
+  <li>Continuously filter by <code class="language-plaintext highlighter-rouge">= Last Value</code> and play the game for a little bit to reduce the possible candidates (don’t trigger a load scene or major event).</li>
+  <li>Turn off the continuous filter after the number of <em>pointer</em> candidates settles.</li>
+  <li>At this point you should have a couple of good <em>pointer</em> candidates. If you stil have too many candidates then try:
+    <ol>
+      <li>More than three save states.</li>
+      <li>Filtering candidates further by using <code class="language-plaintext highlighter-rouge">constant &lt;</code> the address of <code class="language-plaintext highlighter-rouge">Mem_3</code> (don’t forget the memory prefixs for the system ie. 0x80, 0x90, 0xc0, etc…).</li>
+      <li>An aligned 32-bit filter,  <em>Pointers</em> are usually aligned in memory.</li>
+    </ol>
+  </li>
+  <li>Select a pointer with the value that is a little less than the address of the memory you’re testing.  The reason why it should be less is to account for the data structure of the memory <code class="language-plaintext highlighter-rouge">Candidate = value of the pointer candidate</code>.</li>
+  <li>Figure out the <em>data offset</em> for the current memory by <code class="language-plaintext highlighter-rouge">Data_Offset = Mem_3 - Candidate</code>.</li>
+  <li>Make a small test achievement using the new <em>pointer</em> and <em>data offset</em> to check if it works for all the states. If we are testing a byte then the syntax would be <code class="language-plaintext highlighter-rouge">byte(tbyte(Candidate) + Data_Offset)</code>.</li>
+</ol>
+
+<h1 id="example-5a-get-over-here">Example 5A: Get Over Here!</h1>
+<p>Spider-Man has an impressive rogues gallery of animal based villains that he must stop to protect the citizens of New York.  In this achievement Scorpion is trying to settle a score with J. Jonah Jameson and Spider-Man is the only one who can save him.  As a challenge the web-slinger must defeat Scorpion without taking damage, letting Jameson take damage, or letting Scorpion find Jameson’s hiding place.</p>
+
+<p align="center">
+  <img src="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/05_Pointers/Spiderman_Vs_Scorpion.png?raw=true" />
+</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Spider-Man
+// #ID = 11319
+
+// $0A568D: Chapter ID (US)
+function ChapterID() =&gt; byte(0x0A568D)
+
+// $0A568F: Level ID? (US)
+function LevelID() =&gt; byte(0x0A568F)
+
+// $0A5704: Costume Selected (US)
+//          00 - Default
+//          01 - Spider-Man 2099
+//          02 - Symbiote Spider-Man
+//          03 - Captain Universe
+//          04 - Spider-Man Unlimited
+//          05 - Amazing Bag-Man
+//          06 - Scarlet Spider-Man
+//          07 - Ben Reilly
+//          08 - Quick-Change Spider-Man
+//          09 - Peter Parker
+function CostumeSelected() =&gt; byte(0x0A5704)
+
+// $0B4F34: Various Flags (US)
+//          01 - Menu
+//          02 - Game Over
+//          03 - Level Completed Flag
+//          07 - Quit to Main Menu
+//          08 - Level Restart
+//          0A - Quit to Training
+function Flags() =&gt; byte(0x0B4F34)
+
+// $0B4F38: Level Time? (32-Bit) (US)
+//          (Continues counting while paused)
+function LevelTime() =&gt; dword(0x0B4F38)
+
+// $0B4F40: Difficulty? (US)
+//          00 - Kid Mode
+//          01 - Easy
+//          02 - Normal
+//          03 - Hard
+function Difficulty() =&gt; byte(0x0B4F40)
+
+// $0B4F6C: Invincibility Cheat Boolean (00/01) (US)
+function InvincibilityCheat() =&gt; byte(0x0B4F6C)
+
+// $0B4F98: Unlimited Webbing Cheat Boolean (00/01) (US)
+function UnlimitedWebbingCheat() =&gt; byte(0x0B4F98)
+
+// $0B5268: Player Stats Pointer? (US)
+//          +04 - X Coordinates
+//          +08 - Y Coordinates
+//          +0C - Z Coordinates
+//          +DE - Health
+//          +140 - Animation ID
+//          +150 - Another Animation ID?
+//          +1A8 - Cutscene Playing (01)
+//          +5D8 - Webbing
+//          +5DC - Web Cartridges
+//          +5F0 - Spidey Armor Active
+//          +5F8 - Spidey Armor Strength
+//          +5EC - Magnesium Webbing (01)
+//          +EE8 - Pointer to Current Enemy
+//          +EEB - Target Type
+//          +1014 - Max Health
+function PlayerStatsPointer() =&gt; tbyte(0x0B5268)
+function PlayerStatsNotNull() =&gt; dword(0x0B5268) != 0
+function PlayerHealth() =&gt; byte(PlayerStatsPointer() + 0x0000DE)
+
+// $0B5640: Jameson Health/Stats Pointer
+//          +DE - Health
+//          +140 - Animation ID
+function JamesonPointer() =&gt; tbyte(0x0B5640)
+function JamesonNotNull() =&gt; dword(0x0B5640) != 0
+function JamesonHealth() =&gt; byte(JamesonPointer() + 0x0000DE)
+function JamesonAnimation() =&gt; byte(JamesonPointer() + 0x000140)
+
+// $0B58D8: Cutscene Letterbox Size (1E) (US)
+function CutscreenSize() =&gt; byte(0x0B58D8)
+
+// No cheating conditions common for the entire set.
+function NoCheats()
+{
+    // Pause if any the costume with special abilities are selected
+    // ie. Spider-Man 2099, Symbiote Spider-Man, Captain Universe, Spider-Man Unlimited
+    noSpecialCostumes = unless((CostumeSelected() &gt;= 1 &amp;&amp; CostumeSelected() &lt;= 4))
+
+    // Pause if the player is in kid mode (difficulty 0)
+    noKidsMode = unless(Difficulty() == 0)
+
+    // Pause if the player is cheating
+    noCheats = unless(InvincibilityCheat() != 0) &amp;&amp; 
+        unless(UnlimitedWebbingCheat() != 0)
+
+    return noSpecialCostumes &amp;&amp; noKidsMode &amp;&amp; noCheats
+}
+
+//---------------------------------------------------------------------
+// Function to build the "Example 5A: Get Over Here!" achievement
+function ScorpionBossFight(title, description, points)
+{
+    // Trigger achievement when we are on the level Spidey Vs. Scorpion! and
+    // the level complete flag turns on
+    progress = trigger_when((
+        prev(ChapterID()) == 50 &amp;&amp; 
+        prev(LevelID()) == 50 &amp;&amp;
+        Flags() != prev(Flags()) &amp;&amp;
+        Flags() == 3))
+
+    // Add a measure for how long until Jameson is found
+    start = measured(once(prev(LevelTime()) &lt; 32))
+
+    // Reset if the players health decreases
+    spidyDamageless = never(
+        PlayerStatsNotNull() &amp;&amp;
+        PlayerHealth() &lt; prev(PlayerHealth()))
+
+    // Reset if Jameson's health decreases
+    jamesonDamageless = never(
+        JamesonNotNull() &amp;&amp;
+        JamesonHealth() &lt; prev(JamesonHealth()))
+
+    // Reset if Jameson's is found (Jameson animation changes)
+        jamesonNotFound = never(
+        CutscreenSize() == 0 &amp;&amp; 
+        JamesonNotNull() &amp;&amp; 
+        JamesonAnimation() != prev(JamesonAnimation()) &amp;&amp; 
+        JamesonAnimation() == 59)
+        
+    // Reset if the level changes
+    noLevelChange = never(prev(ChapterID()) != 50) &amp;&amp; 
+        never(prev(LevelID()) != 50)
+        
+    achievement(title, description, points, progress &amp;&amp; start &amp;&amp; spidyDamageless &amp;&amp; 
+        jamesonDamageless &amp;&amp; jamesonNotFound &amp;&amp; noLevelChange &amp;&amp; NoCheats())
+}
+ScorpionBossFight("Example 5A: Get Over Here!", 
+    "Defeat Scorpion without Spidey or Jameson taking damage and without letting Scorpion find Jameson", 25)
+</code></pre></div></div>
+
+<h2 id="pointer-functions">Pointer Functions</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function PlayerStatsPointer() =&gt; tbyte(0x0B5268)
+function PlayerHealth() =&gt; byte(PlayerStatsPointer() + 0x0000DE)
+</code></pre></div></div>
+<p>To make it easier to reference <em>pointers</em> you can write helper functions that handle the details.  The function <code class="language-plaintext highlighter-rouge">PlayerStatsPointer()</code> references the <em>pointer</em> address as a <code class="language-plaintext highlighter-rouge">tbyte</code> to use the bottom 24-bits of the address.  The function <code class="language-plaintext highlighter-rouge">PlayerHealth()</code> adds the offset <code class="language-plaintext highlighter-rouge">0xDE</code> to the <em>pointers’</em> address so it dynamically changes it’s address whenever the <em>pointer</em> changes.  Helper functions like these can be made for each <em>data offset</em> you want to reference.</p>
+
+<h2 id="null-pointers">Null Pointers</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function PlayerStatsNotNull() =&gt; dword(0x0B5640) != 0
+</code></pre></div></div>
+<p>A <em>pointer</em> will be null (zero) before memory is allocated to it or after the memory has been released back to the operating system.  Its standard programming practice to check if a <em>pointer</em> is null before trying to access the memory it is pointing to.  It is also good practice to do the same when writing achievements otherwise you could be referencing the wrong memory.  For example, if the <code class="language-plaintext highlighter-rouge">PlayerStatsPointer()</code> was null the <code class="language-plaintext highlighter-rouge">PlayerHealth()</code> would be pointed to <code class="language-plaintext highlighter-rouge">byte(0xDE)</code>.  To avoid this the function <code class="language-plaintext highlighter-rouge">PlayerStatsNotNull()</code> is used with the condition <code class="language-plaintext highlighter-rouge">PlayerStatsNotNull() &amp;&amp; PlayerHealth() &lt; prev(PlayerHealth()))</code> to reset if a player has lost health.  Using a null check before referencing a pointer will save you many future headaches.</p>
+
+<p>Scripts: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/05_Pointers/Example_5A_Spider-Man.rascript">Example #5A script</a></p>
+
+<h1 id="example-5b-im-not-the-bad-guy">Example 5B: I’m Not the Bad Guy!</h1>
+<p>Despite his heroism, Spider-Man is a vigilante so he often finds himself in trouble with the law.  To make matters worse, someone impersonated Spider-Man during a recent heist making him public enemy #1. In this achievement the police are chasing Spider-Man over a series of five different levels.  Despite being hunted Spider-Man is a moral superhero who believes that “with great power comes great responsibility” so he must evade the police without harming them.</p>
+
+<p align="center">
+  <img src="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/05_Pointers/Spiderman_Vs_Police.png?raw=true" />
+</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Spider-Man
+// #ID = 11319
+
+// $0A568D: Chapter ID (US)
+function ChapterID() =&gt; byte(0x0A568D)
+
+// $0A568F: Level ID? (US)
+function LevelID() =&gt; byte(0x0A568F)
+
+// $0A56E4: Level Completed Count: Police Chopper Chase (US)
+function PoliceChopperChaseComplete() =&gt; byte(0x0A56E4)
+
+// $0A56E5: Level Completed Count: Missile Attack (US)
+function MissileAttackComplete() =&gt; byte(0x0A56E5)
+
+// $0A56E6: Level Completed Count: Building Top Chase (US)
+function BuildingTopChaseComplete() =&gt; byte(0x0A56E6)
+
+// $0A56E7: Level Completed Count: Scale the Girders (US)
+function ScaleTheGirdersComplete() =&gt; byte(0x0A56E7)
+
+// $0A56E8: Level Completed Count: Police Evaded (US)
+function PoliceEvadedComplete() =&gt; byte(0x0A56E8)
+
+// $0A5704: Costume Selected (US)
+//          00 - Default
+//          01 - Spider-Man 2099
+//          02 - Symbiote Spider-Man
+//          03 - Captain Universe
+//          04 - Spider-Man Unlimited
+//          05 - Amazing Bag-Man
+//          06 - Scarlet Spider-Man
+//          07 - Ben Reilly
+//          08 - Quick-Change Spider-Man
+//          09 - Peter Parker
+function CostumeSelected() =&gt; byte(0x0A5704)
+
+// $0B4F34: Various Flags (US)
+//          01 - Menu
+//          02 - Game Over
+//          03 - Level Completed Flag
+//          07 - Quit to Main Menu
+//          08 - Level Restart
+//          0A - Quit to Training
+function Flags() =&gt; byte(0x0B4F34)
+
+// $0B4F38: Level Time? (32-Bit) (US)
+//          (Continues counting while paused)
+function LevelTime() =&gt; dword(0x0B4F38)
+
+// $0B4F40: Difficulty? (US)
+//          00 - Kid Mode
+//          01 - Easy
+//          02 - Normal
+//          03 - Hard
+function Difficulty() =&gt; byte(0x0B4F40)
+
+// $0B4F6C: Invincibility Cheat Boolean (00/01) (US)
+function InvincibilityCheat() =&gt; byte(0x0B4F6C)
+
+// $0B4F98: Unlimited Webbing Cheat Boolean (00/01) (US)
+function UnlimitedWebbingCheat() =&gt; byte(0x0B4F98)
+
+// $0B5268: Player Stats Pointer? (US)
+//          +04 - X Coordinates
+//          +08 - Y Coordinates
+//          +0C - Z Coordinates
+//          +DE - Health
+//          +140 - Animation ID
+//          +150 - Another Animation ID?
+//          +1A8 - Cutscene Playing (01)
+//          +5D8 - Webbing
+//          +5DC - Web Cartridges
+//          +5F0 - Spidey Armor Active
+//          +5F8 - Spidey Armor Strength
+//          +5EC - Magnesium Webbing (01)
+//          +EE8 - Pointer to Current Enemy
+//          +EEB - Target Type
+//          +1014 - Max Health
+function PlayerStatsPointer() =&gt; tbyte(0x0B5268)
+function PlayerStatsNotNull() =&gt; dword(0x0B5268) != 0
+function PlayerCutscene() =&gt; byte(PlayerStatsPointer() + 0x0001A8)
+function PlayerTargetType() =&gt; dword(PlayerStatsPointer() + 0x000EEB)
+function PlayerTargetPointer() =&gt; tbyte(PlayerStatsPointer() + 0x000EE8)
+function PlayerTargetHealth() =&gt; byte(PlayerTargetPointer() + 0x0000DE)
+
+// No cheating conditions common for the entire set.
+function NoCheats()
+{
+    // Pause if any the costume with special abilities are selected
+    // ie. Spider-Man 2099, Symbiote Spider-Man, Captain Universe, Spider-Man Unlimited
+    noSpecialCostumes = unless((CostumeSelected() &gt;= 1 &amp;&amp; CostumeSelected() &lt;= 4))
+
+    // Pause if the player is in kid mode (difficulty 0)
+    noKidsMode = unless(Difficulty() == 0)
+
+    // Pause if the player is cheating
+    noCheats = unless(InvincibilityCheat() != 0) &amp;&amp; 
+        unless(UnlimitedWebbingCheat() != 0)
+
+    return noSpecialCostumes &amp;&amp; noKidsMode &amp;&amp; noCheats
+}
+
+// ------------------------------------------------------------------------
+// Function to build the "Example 5B: I'm Not the Bad Guy!" achievement
+function PoliceChase(title, description, points)
+{
+    // Count the completion of each of the 5 police missions
+    progress = trigger_when(
+        tally(5,
+            once(PoliceChopperChaseComplete() &gt; prev(PoliceChopperChaseComplete())), 
+            once(MissileAttackComplete() &gt; prev(MissileAttackComplete())), 
+            once(BuildingTopChaseComplete() &gt; prev(BuildingTopChaseComplete())), 
+            once(ScaleTheGirdersComplete() &gt; prev(ScaleTheGirdersComplete())), 
+            once(
+                prior(ChapterID()) == 51 &amp;&amp; 
+                prior(LevelID()) == 53 &amp;&amp; 
+                PoliceEvadedComplete() &gt; prev(PoliceEvadedComplete()) &amp;&amp; 
+                Flags() == 3
+            ), 
+            always_false()
+        )
+    )
+        
+    // Add a hit at the beginning of the level
+    start = measured(
+        once(
+            ChapterID() == 51 &amp;&amp; 
+            LevelID() == 49 &amp;&amp; 
+            prev(LevelTime()) &lt; 32
+        )
+    )
+
+    // Reset if a police officer is harmed
+    // This is a pointer of a pointer, the player stats pointer has a target pointer in it.
+    // When the target pointer is pointing to a police officer check if their health decreases.
+    officerSafe = never(
+        (PlayerStatsNotNull() &amp;&amp; 
+        (PlayerCutscene() == 0) &amp;&amp;
+        (PlayerTargetType() == 128) &amp;&amp;
+        (PlayerTargetPointer() == prev(PlayerTargetPointer())) &amp;&amp;
+        PlayerTargetHealth() &lt; prev(PlayerTargetHealth()))
+    )
+
+    achievement(title, description, points, progress &amp;&amp; start &amp;&amp; officerSafe &amp;&amp; NoCheats())
+}
+PoliceChase("Example 5B: I'm Not the Bad Guy!", 
+    "Complete all five levels of the police chase without attacking any cops", 10)
+</code></pre></div></div>
+
+<h2 id="double-pointers">Double Pointers</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function PlayerStatsPointer() =&gt; tbyte(0x0B5268)
+function PlayerTargetPointer() =&gt; tbyte(PlayerStatsPointer() + 0x000EE8)
+function PlayerTargetHealth() =&gt; byte(PlayerTargetPointer() + 0x0000DE)
+</code></pre></div></div>
+<p>A major complexity with <em>pointers</em> is that they can point to another <em>pointer</em> otherwise known as a double <em>pointer</em>.  You can have a chain of <em>pointers</em> that continually point to the next or previous piece of memory also known as a linked list.  Hopefully you only have to deal with single <em>pointers</em> however, if you do have double or more <em>pointers</em> you can use the same process described here for each <em>pointer</em> reference.  In the above example the player’s stats <em>pointer</em> has a target <em>pointer</em> in it which points to the enemy Spider-Man is looking at. The game uses a red arrow over Spider-Man’s current target to show who Spider-Man would attack if commanded to. To reference the health of a police officer you’ll need to follow the <em>pointer</em> from the players’ stats <em>pointer</em> to the player target <em>pointer</em>.  Fortunately it appears that Spider-Man and the police officers share the same data structure so the police officers health is <code class="language-plaintext highlighter-rouge">+0xde</code> from the address in the player’s target <em>pointer</em>.  The above functions simplify following the <em>pointer</em> addresses’ so you can use <code class="language-plaintext highlighter-rouge">PlayerTargetHealth()</code> as you would for regular memory.</p>
+
+<p>Scripts: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/05_Pointers/Example_5B_Spider-Man.rascript">Example #5B script</a></p>
+
+<h1 id="example-5c-no-idea-what-youre-in-for">Example 5C: No Idea What You’re In For</h1>
+<p>Following the animal theme, Doctor Octopus is a scientist driven mad by the accident that fused four robotic tentacle arms to his body.  In this achievement Spider-Man must defeat Doctor Octopus without taking damage or letting Doctor Octopus regenerate his shield two or more times.</p>
+
+<p align="center">
+  <img src="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/05_Pointers/Spiderman_Vs_DocOck_Fight.png?raw=true" />
+</p>
+
+<h2 id="boss-pointer">Boss Pointer</h2>
+<p>The boss <em>pointer</em> at address <code class="language-plaintext highlighter-rouge">$0B563C</code> uses the same data structure as the player stat’s pointer at memory <code class="language-plaintext highlighter-rouge">$0B5268</code> plus a few specific variables used to track events in the fight.  Doctor Octopus is using a shield to protect himself from Spider-Man which can be turned off temporary by turning off four switches. The offset <code class="language-plaintext highlighter-rouge">+40c</code> tracks how many of the four switches are currently on.  Once all four switches are off the shield will drop and Spider-Man can attack Doctor Octopus directly.  After a few seconds the shield will be restored and the switch count will go from zero to four again.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Boss Data Structure
++DE - Boss Health
++2F4 - Water Level (Spidey Vs Venom Again)
++40C - Number of switches remaining to deactivate Ock's shield
+</code></pre></div></div>
+<h2 id="homework-5">Homework #5</h2>
+<p>Create an achievement to defeat Doc Ock without taking damage before his shield can regenerate for a second time.</p>
+
+<p>Solutions: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/05_Pointers/Solution/readme.md">Tutorial #5 Solution</a></p>
+
+<hr />
+
+<p><a href="../2022-02/rascript.html#tutorial-0---getting-started">Tutorial #0 - Getting Started</a><br />
+<a href="../2022-02/rascript.html#tutorial-1---memory-basics">Tutorial #1 - Memory Basics</a><br />
+<a href="../2022-03/rascript.html#tutorial-2---add-hits">Tutorial #2 - Add Hits</a><br />
+<a href="../2022-04/rascript.html#tutorial-3---bit-flags">Tutorial #3 - Bit Flags</a><br />
+<a href="../2022-05/rascript.html#tutorial-4---arithmetic-operations">Tutorial #4 - Arithmetic Operations</a></p>
+
+<p>All RAScript Tutorials can be found <a href="https://github.com/Etron-RA/RetroAchievements/tree/main/Tutorials">here</a>.</p>
+
+
+      </article>
+      <footer>
+        <nav>
+  
+    <a href="/issues/2022-06/communitynews.html" class="previous">
+      &#x00ab
+      
+        Community News
+      
+    </a>
+  
+  
+    <a href="/issues/2022-06/play-this-set.html" class="next">
+      
+        Play This Set
+      
+      &#x00bb
+    </a>
+  
+</nav>
+      </footer>
+    </main>
+  </div>
+
+</body>
+
+</html>

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177315439-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177315439-1');
+  </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>RANews | The RetroAchievements webzine</title>
+
+  <link rel="shortcut icon" type="image/png" href="/img/retroachievements-logo-color-transparent-square.png"
+    sizes="16x16 32x32 64x64">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap" rel="stylesheet">
+
+  <style>
+    body,
+    html {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      font-family: Play, Arial, Helvetica, sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    .bg-image {
+      background: linear-gradient(#0008, #0008),
+      url('/issues/2025-08//img/cover.png') no-repeat center center fixed;
+      background-size: cover;
+      filter: blur(8px);
+      height: 100%;
+    }
+
+    div.box {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    .logo,
+    .cover {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+      max-height: 500px;
+    }
+
+    h1 {
+      color: #fff;
+      text-align: center;
+      font-size: 2em;
+      font-weight: 700;
+    }
+
+    a.cta-button-link {
+      font-weight: bold;
+      text-transform: uppercase;
+      text-decoration: none;
+      color: #fff;
+      padding: 20px;
+      border: 4px solid #fff;
+      border-radius: 4px;
+      margin-top: 2em;
+      display: inline-block;
+      transition: all 0.4 ease 0s;
+    }
+
+    a.cta-button-link:hover {
+      color: #fff;
+      background: #367;
+      transition: all 0.4 ease 0s;
+    }
+
+    @media (max-width: 1024px) {
+      h1 {
+        font-size: 1.2em;
+      }
+
+      a.cta-button-link {
+        padding: 12px;
+        font-size: 0.9em;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="bg-image"></div>
+
+  <div class="box">
+    <h1>
+      The RetroAchievements digital magazine.
+    </h1>
+    <a href="/issues/2025-08/">
+      <img class="logo" src="/issues/2025-08//img/cover.png" alt="RANews">
+    </a>
+    <div class="cta-button" align="center">
+      <a class="cta-button-link" href="/issues/">
+        Issues list
+      </a>
+      <a class="cta-button-link" href="/issues/2025-08/">
+        Latest issue
+      </a>
+    </div>
+  </div>
+</body>

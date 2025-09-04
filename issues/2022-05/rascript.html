@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta content="width=device-width" name="viewport">
+  <!-- <title>RAScript Tutorials</title> -->
+  <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>RAScript Tutorials | RANews</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="RAScript Tutorials" />
+<meta name="author" content="Etron" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Tutorial #4 – Arithmetic Operations Overview This tutorial will show a few examples of how to create achievements for a game that requires Arithmetic Operations to convert memory values to Base 10 decimal values. Pitfall! was chosen for this example because it has different encoding techniques for the time, score, and lives." />
+<meta property="og:description" content="Tutorial #4 – Arithmetic Operations Overview This tutorial will show a few examples of how to create achievements for a game that requires Arithmetic Operations to convert memory values to Base 10 decimal values. Pitfall! was chosen for this example because it has different encoding techniques for the time, score, and lives." />
+<link rel="canonical" href="https://news.retroachievements.org/issues/2022-05/rascript.html" />
+<meta property="og:url" content="https://news.retroachievements.org/issues/2022-05/rascript.html" />
+<meta property="og:site_name" content="RANews" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-09-04T22:30:02+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="RAScript Tutorials" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Etron"},"headline":"RAScript Tutorials","dateModified":"2025-09-04T22:30:02+00:00","datePublished":"2025-09-04T22:30:02+00:00","description":"Tutorial #4 – Arithmetic Operations Overview This tutorial will show a few examples of how to create achievements for a game that requires Arithmetic Operations to convert memory values to Base 10 decimal values. Pitfall! was chosen for this example because it has different encoding techniques for the time, score, and lives.","url":"https://news.retroachievements.org/issues/2022-05/rascript.html","mainEntityOfPage":{"@type":"WebPage","@id":"https://news.retroachievements.org/issues/2022-05/rascript.html"},"@type":"BlogPosting","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="https://news.retroachievements.org/feed.xml" title="RANews" />
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177315439-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177315439-1');
+  </script>
+
+  <link href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/rafont.css">
+  <link rel="shortcut icon" type="image/png"
+    href="/img/retroachievements-logo-color-transparent-square.png" sizes="16x16 32x32 64x64">
+</head>
+
+<body>
+
+  <div class="grid">
+    <aside>
+  <div class="sidebar-header">
+    <a href="https://news.retroachievements.org">
+      <img alt="" src="/img/ranews-small.png">
+    </a>
+  </div>
+  <div class="article-list-container">
+    <h2>2022-05</h2>
+
+    <label for="article-list-toggle">&#9776;</label>
+    <input id="article-list-toggle" type="checkbox"/>
+
+    <ul class="article-list">
+      
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/index.html">
+              <li>Introduction</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/thismonthinretro.html">
+              <li>This Month In Retro</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/stats.html">
+              <li>Monthly Stats</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/events.html">
+              <li>Current Events</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/communitynews.html">
+              <li>Community News</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <li class="active">RAScript Tutorials</li>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/play-this-set.html">
+              <li>Play This Set</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/wish-this-set.html">
+              <li>Wish This Set</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/guide.html">
+              <li>RAGuide</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/radvantage.html">
+              <li>RAdvantage</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/hotcheevs.html">
+              <li>HotCheevs Monthly</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/revisions.html">
+              <li>Revisions and Rescores</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/art-updates.html">
+              <li>Art Updates</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/top-players.html">
+              <li>Top Players</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/ranniversaries.html">
+              <li>RAnniversaries</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/top-masteries.html">
+              <li>Top Masteries</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/most-wanted.html">
+              <li>Most Wanted Games</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/fun.html">
+              <li>Fun</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-05/ra-spotlight.html">
+              <li>RASpotlight</li>
+            </a>
+          
+        
+      
+    </ul>
+  </div>
+  <div class="footer">
+    <ul class="icons">
+      <li>
+        <a href="https://retroachievements.org/">
+          <i class="icon icon-retroachievements"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://discord.gg/dq2E4hE">
+          <i class="fab fa-discord"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://docs.retroachievements.org/">
+          <i class="fa fa-book"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/RetroAchievements">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+</aside>
+
+    <main>
+      <header>
+        <nav>
+  
+    <a href="/issues/2022-05/communitynews.html" class="previous">
+      &#x00ab
+      
+        Community News
+      
+    </a>
+  
+  
+    <a href="/issues/2022-05/play-this-set.html" class="next">
+      
+        Play This Set
+      
+      &#x00bb
+    </a>
+  
+</nav>
+      </header>
+      <article>
+        <header>
+          
+          <h1 id="top">RAScript Tutorials</h1>
+          
+
+          
+          
+          <div class="author">
+            
+              
+              
+              
+              <img src="https://retroachievements.org/UserPic/Etron.png" alt="Etron">
+            
+            <span>By 
+              
+                
+                
+                <a href="https://retroachievements.org/user/Etron">Etron</a>
+              
+            </span>
+          </div>
+          
+        </header>
+
+        
+        <div id="toc" class="toc-container ">
+          <p class="toc-title">Contents</p>
+          <ul>
+  <li><a href="#tutorial-4--arithmetic-operations">Tutorial #4 – Arithmetic Operations</a>
+    <ul>
+      <li><a href="#overview">Overview</a></li>
+      <li><a href="#decimal-base-10">Decimal (Base 10)</a></li>
+      <li><a href="#binary-base-2">Binary (Base 2)</a></li>
+      <li><a href="#hexadecimal-base-16">Hexadecimal (Base 16)</a></li>
+      <li><a href="#binary-coded-decimal-bcd">Binary-Coded Decimal (BCD)</a></li>
+    </ul>
+  </li>
+  <li><a href="#example-4a-golden-log">Example 4A: Golden Log</a>
+    <ul>
+      <li><a href="#score">Score()</a></li>
+      <li><a href="#scorerange">ScoreRange()</a></li>
+    </ul>
+  </li>
+  <li><a href="#example-4b-golden-scorpion">Example 4B: Golden Scorpion</a>
+    <ul>
+      <li><a href="#time">Time()</a></li>
+      <li><a href="#timespan">TimeSpan()</a></li>
+    </ul>
+  </li>
+  <li><a href="#example-4c-golden-survivor">Example 4C: Golden Survivor</a>
+    <ul>
+      <li><a href="#homework-4">Homework #4</a></li>
+    </ul>
+  </li>
+</ul>
+        </div>
+        
+
+        <h1 id="tutorial-4--arithmetic-operations">Tutorial #4 – Arithmetic Operations</h1>
+<h2 id="overview">Overview</h2>
+<p>This tutorial will show a few examples of how to create achievements for a game that requires <strong>Arithmetic Operations</strong> to convert memory values to <strong>Base 10</strong> decimal values. <a href="https://retroachievements.org/game/11191">Pitfall!</a> was chosen for this example because it has different encoding techniques for the time, score, and lives.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Etron-RA/RetroAchievements/main/Tutorials/04_Arithmetic_Operations/Pitfall_Title.png" />
+</p>
+
+<h2 id="decimal-base-10">Decimal (Base 10)</h2>
+<p>There are many ways to describe a number value and we commonly use the decimal system in everyday language.  The decimal system is <strong>Base 10</strong> which describes how many possible values there are in each place value.  In a <strong>Base 10</strong> system the ones place value can be the numbers 0 to 9, after 9 you add one to the next place value to get the number 10.  Similarly, the tens place value can be the numbers 0 to 9, after 9 you add one to the hundreds place value to get the number 100.</p>
+
+<h2 id="binary-base-2">Binary (Base 2)</h2>
+<p>Computers think in <strong>binary</strong> which is a <strong>Base 2</strong> number system.  <strong>Base 2</strong> is a simplified numbering system where each place value is either b1 which means an electrical current was present or b0 which means no current was present (note that the <em>b</em> before the number indicates a binary number).  In a <strong>Base 2</strong> system the first place value can be the numbers b0 or b1, to represent the number 2 we need the second place value b10. Similarly, the second place value can either be a b1 or a b0, to represent the number 4 we need a third place value b100.</p>
+
+<h2 id="hexadecimal-base-16">Hexadecimal (Base 16)</h2>
+<p>Another common encoding for computers is <strong>hexadecimal</strong> which is a <strong>Base 16</strong> system. The reason why <strong>hexadecimal</strong> is a popular counting system on computers is that it translates very easily to the <strong>binary</strong> system.  In a <strong>Base 16</strong> system there 16 possible numbers per place value which can be represented b0000 to b1111 in binary. In <strong>hexadecimal</strong> the number 10, 11, 12, 13, 14, and 15 are written as 0xA, 0xB, 0xC, 0xD, 0xE, and 0xF respectively (note that the <em>0x</em> before the number indicates a <strong>hexadecimal</strong> number).  To represent a number greater than 15 you need two <strong>hexadecimal</strong> place values, for example the number 16 is 0x10. Similarly, the second place value can be the numbers 0x0 to 0xF, after 0xF you add one to the third place value to get the number 0x100 (or 256 in decimal).</p>
+
+<h2 id="binary-coded-decimal-bcd">Binary-Coded Decimal (BCD)</h2>
+<p>A very common method of encoding values that are displayed on the screen is to use <strong>Binary-Coded Decimal (BCD)</strong>.  <strong>BCD</strong> is a combination of <strong>Base 10</strong> and <strong>Base 16</strong> systems.  <strong>BCD</strong> uses <strong>Base 10</strong> counting in the respect that each place value can be between 0 to 9.  However, this value is store as a <strong>Base 16</strong> value in memory which means the values above 9 are ignored.  The reason for encoding values in <strong>BCD</strong> is that is simplifies displaying the value on the screen.  When drawing a score on the screen the program will look every 4 bits in the score which will be a value between 0 and 9, then the program would draw the sprite for that number and move on to the next 4 bits.  Storing values as <strong>BCD</strong> makes it much easier to display on a screen then storing a value in <strong>Base 10</strong> which would require a conversion before displaying.</p>
+
+<h1 id="example-4a-golden-log">Example 4A: Golden Log</h1>
+<p><strong>Pitfall!</strong> Is a platforming game where you help Pitfall Harry traverse 255 horizontally connected screens of jungle avoiding obstacles and dangerous animals along the way.  The goal of <strong>Pitfall!</strong> is to recover the 32 hidden treasures before the 20:00 time limit expires. Each collected treasure increases the score between 2,000 and 5,000 points depending on the treasure type.  The player will lose points by touching a log or falling down into a pit.  This makes the players score an excellent measure of how a player is preforming.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Etron-RA/RetroAchievements/main/Tutorials/04_Arithmetic_Operations/Pitfall_Golden_Log.png" />
+</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Pitfall!
+// #ID = 11191
+
+// $001E: 00=game active
+function GameActive() =&gt; byte(0x00001E) == 0
+
+// $0055: Score XX0000
+// $0056: Score 00XX00
+// $0057: Score 0000XX
+function ScoreX00000() =&gt; high4(0x000055)
+function Score0X0000() =&gt; low4(0x000055)
+function Score00X000() =&gt; high4(0x000056)
+function Score000X00() =&gt; low4(0x000056)
+function Score0000X0() =&gt; high4(0x000057)
+function Score00000X() =&gt; low4(0x000057)
+
+// Converts the BCD score values into Base 10 decimal
+function Score()
+{
+    return ScoreX00000() * 100000 +
+        Score0X0000() * 10000 +
+        Score00X000() * 1000 +
+        Score000X00() * 100 +
+        Score0000X0() * 10 +
+        Score00000X()
+}
+
+// Check if the score goes from between low and high score to above the high score
+function ScoreRange(lowScore, highScore)
+{
+    return prev(Score()) &gt; lowScore &amp;&amp;
+        prev(Score()) &lt; highScore &amp;&amp;
+        measured(Score() &gt;= highScore)
+}
+
+// Create an achievement for scoring more than 25,000 points
+achievement(
+    title = "Example 4A: Golden Log", 
+    description = "Score 25000 points", 
+    points = 0,
+    trigger =  GameActive() &amp;&amp; 
+        ScoreRange(15000, 25000)
+) 
+</code></pre></div></div>
+
+<h2 id="score">Score()</h2>
+<p>The <strong>Score()</strong> function in this example handles the conversion from the displayed <strong>BCD</strong> value to a decimal value.  For clarity, each place value in memory is given a function with the naming convention showing an X over the place value for that memory.  The value in hundred thousands place is named ScoreX00000(), the value in the ten thousands place is Score0X0000(), and so on until we get to the ones place value named Score00000X().  To convert these BCD memory values to a decimal value we must multiply each by its place value and sum them together. The result is a number that we can use for achievement comparisons, rich presence text, or leaderboards.</p>
+
+<h2 id="scorerange">ScoreRange()</h2>
+<p>The <strong>ScoreRange()</strong> function uses the <strong>Score()</strong> function to convert the previous and current score values from BCD to decimal values.  The <strong>ScoreRange()</strong> function takes * lowScore* and * highScore* parameters then checks if the score goes from between <em>lowScore</em> and <em>highScore</em> to above the <em>highScore</em>.  <strong>ScoreRange()</strong> also incorporates a measure on the current score value so that the user gets feedback on how close they are to achieving the score.</p>
+
+<p>Since this function converts the <strong>BCD</strong> score to a decimal value we can enter any score value as parameters.  The <em>lowScore</em> 15,000 and <em>highScore</em> 25,000 were selected since the maximum frame score you can get in one frame is 5,000 points for collecting a diamond ring. By doubling the maximum frame score to 10,000 points we give ourselves a comfortable test range.  If the player is playing legitimately they will never increase more than 10,000 points in a frame so the achievement will trigger when they reach 25,000 points.  However, if the player is cheating, loads a save file, or the score memory is initially a large value when the emulator starts up then, the achievement will not trigger.  We don’t have to worry about save files for an Atari 2600 game however, the other two issues are a concern.</p>
+
+<p>Scripts: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/04_Arithmetic_Operations/Example_4A_Pitfall!.rascript">Example #4A script</a></p>
+
+<h1 id="example-4b-golden-scorpion">Example 4B: Golden Scorpion</h1>
+<p>The challenge of <strong>Pitfall!</strong> comes from the strict time limit of needing to collect all 32 treasures in 20 minutes.  The time limit is so strict that you need to utilize some of the underground shortcuts to collect all the treasures in time.  Traversing an underground passage is equivalent to traversing three screens above ground so you can speed through very quickly underground. However, treasures only appear above ground and some underground passages are dead ends so you must map you route carefully to succeed. The following achievement rewards the player for scoring 70,000 points in under 15 minutes.  To accomplish this the player must utilize the underground passages.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Etron-RA/RetroAchievements/main/Tutorials/04_Arithmetic_Operations/Pitfall_Golden_Scorpion.png" />
+</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Pitfall!
+// #ID = 11191
+
+// $001E: 00=game active
+function GameActive() =&gt; byte(0x00001E) == 0
+
+// $0055: Score XX0000
+// $0056: Score 00XX00
+// $0057: Score 0000XX
+function ScoreX00000() =&gt; high4(0x000055)
+function Score0X0000() =&gt; low4(0x000055)
+function Score00X000() =&gt; high4(0x000056)
+function Score000X00() =&gt; low4(0x000056)
+function Score0000X0() =&gt; high4(0x000057)
+function Score00000X() =&gt; low4(0x000057)
+
+// Converts the BCD score values into Base 10 decimal
+function Score()
+{
+    return ScoreX00000() * 100000 +
+        Score0X0000() * 10000 +
+        Score00X000() * 1000 +
+        Score000X00() * 100 +
+        Score0000X0() * 10 +
+        Score00000X()
+}
+
+// $0058: Time XX:00 (BCD)
+//        20=out of game
+// $0059: Time 00:XX (BCD)
+// $005A: Time (miliseconds)
+function TimeX00000() =&gt; high4(0x000058)
+function Time0X0000() =&gt; low4(0x000058)
+function Time00X000() =&gt; high4(0x000059)
+function Time000X00() =&gt; low4(0x000059)
+function Time0000XX() =&gt; byte(0x00005A)
+
+// Converts the BCD time values into frames
+// Note that minutes and seconds are BCD and the frames are already Base 10
+function Time()
+{
+    return TimeX00000() * 36000 +
+        Time0X0000() * 3600 +
+        Time00X000() * 600 +
+        Time000X00() * 60 +
+        Time0000XX()
+}
+
+// Convert the time minutes:seconds:frames to frames (1/60s each)
+function TimeSpan(minutes, seconds, frames) =&gt; minutes * 3600 + seconds * 60 + frames
+
+// Check if the score goes from between low and high score to above the high score
+function ScoreRange(lowScore, highScore)
+{
+    return prev(Score()) &gt; lowScore &amp;&amp;
+        prev(Score()) &lt; highScore &amp;&amp;
+        measured(Score() &gt;= highScore)
+}
+
+// Create an achievement for scoring more than 75,000 points in 15 minutes or less
+achievement(
+    title = "Example 4B: Golden Scorpion", 
+    description = "Score 70000 points in 15 minutes or less", 
+    points = 0,
+    trigger = GameActive() &amp;&amp; 
+        ScoreRange(60000, 70000) &amp;&amp; 
+        unless(Time() &lt; TimeSpan(5,0,0))
+) 
+</code></pre></div></div>
+
+<h2 id="time">Time()</h2>
+<p>The <strong>Time()</strong> function in this example handles the conversion from the displayed <strong>BCD</strong> time value to a decimal value in frames.  It uses a very similar method to convert the <strong>BDC</strong> value as <strong>Score()</strong> however, the values used for each place differ since there are 60 frames in a second and 60 seconds in a minute.  To get the multiplication values that we multiply each place value by we need to calculate how many frames are in one place value.  The easiest way to do it is to start at the lowest place value, one frame, and then figure how many frames are in the next place value.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1 Frame = 1 Frame
+1 Second = 60 Frames
+10 Seconds = 600 Frames
+1 minutes = 60 seconds = 3600 Frames
+10 minutes = 600 seconds = 36000 Frames
+</code></pre></div></div>
+
+<h2 id="timespan">TimeSpan()</h2>
+<p>To complement the <strong>Time()</strong> function we use the <strong>TimeSpan()</strong> function to figure out how many frames are in a time span. The <strong>TimeSpan()</strong> function takes the parameters <em>minutes</em>, <em>seconds</em>, and <em>frames</em> then multiplies the <em>hours</em> by 3600 frames, <em>seconds</em> by 60 frames, and adds them to the <em>frames</em> which is already in frames.  The code uses this helper function to figure out how many frames there are left when the game clock is 5:00 (ie. 15 minutes after the start of the game).  You could use the value 18,000 frames directly however, writing a helper function like this is more convenient and makes the code easier to read.</p>
+
+<p>Scripts: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/04_Arithmetic_Operations/Example_4B_Pitfall!.rascript">Example #4B script</a></p>
+
+<h1 id="example-4c-golden-survivor">Example 4C: Golden Survivor</h1>
+<p>There are many dangers in the jungle and Pitfall Harry must proceed carefully to stay safe. Harry only has two extra lives before the game is over!  Since there is no opportunity to regain lives each life is very valuable.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Etron-RA/RetroAchievements/main/Tutorials/04_Arithmetic_Operations/Pitfall_Getting_Eaten.png" />
+</p>
+
+<h2 id="homework-4">Homework #4</h2>
+<p>A) Using the functions in the previous example make an achievement for scoring 50,000 points without dying.  Additionally, use memory address $000000 which encodes the 1st life as bit 5 and the 2nd life as bit 7.</p>
+
+<p>Solutions: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/04_Arithmetic_Operations/Solution/readme.md">Tutorial #4 Solution</a></p>
+
+<hr />
+
+<p><a href="../2022-02/rascript.html#tutorial-0---getting-started">Tutorial #0 - Getting Started</a><br />
+<a href="../2022-02/rascript.html#tutorial-1---memory-basics">Tutorial #1 - Memory Basics</a><br />
+<a href="../2022-03/rascript.html#tutorial-2---add-hits">Tutorial #2 - Add Hits</a><br />
+<a href="../2022-04/rascript.html#tutorial-3---bit-flags">Tutorial #3 - Bit Flags</a></p>
+
+<p>All RAScript Tutorials can be found <a href="https://github.com/Etron-RA/RetroAchievements/tree/main/Tutorials">here</a>.</p>
+
+
+      </article>
+      <footer>
+        <nav>
+  
+    <a href="/issues/2022-05/communitynews.html" class="previous">
+      &#x00ab
+      
+        Community News
+      
+    </a>
+  
+  
+    <a href="/issues/2022-05/play-this-set.html" class="next">
+      
+        Play This Set
+      
+      &#x00bb
+    </a>
+  
+</nav>
+      </footer>
+    </main>
+  </div>
+
+</body>
+
+</html>

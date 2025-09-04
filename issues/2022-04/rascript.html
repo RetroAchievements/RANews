@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta content="width=device-width" name="viewport">
+  <!-- <title>RAScript Tutorials</title> -->
+  <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>RAScript Tutorials | RANews</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="RAScript Tutorials" />
+<meta name="author" content="Etron" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Tutorial #3 - Bit Flags" />
+<meta property="og:description" content="Tutorial #3 - Bit Flags" />
+<link rel="canonical" href="https://news.retroachievements.org/issues/2022-04/rascript.html" />
+<meta property="og:url" content="https://news.retroachievements.org/issues/2022-04/rascript.html" />
+<meta property="og:site_name" content="RANews" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-09-04T22:30:02+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="RAScript Tutorials" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Etron"},"headline":"RAScript Tutorials","dateModified":"2025-09-04T22:30:02+00:00","datePublished":"2025-09-04T22:30:02+00:00","description":"Tutorial #3 - Bit Flags","url":"https://news.retroachievements.org/issues/2022-04/rascript.html","mainEntityOfPage":{"@type":"WebPage","@id":"https://news.retroachievements.org/issues/2022-04/rascript.html"},"@type":"BlogPosting","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="https://news.retroachievements.org/feed.xml" title="RANews" />
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177315439-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177315439-1');
+  </script>
+
+  <link href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Play:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/rafont.css">
+  <link rel="shortcut icon" type="image/png"
+    href="/img/retroachievements-logo-color-transparent-square.png" sizes="16x16 32x32 64x64">
+</head>
+
+<body>
+
+  <div class="grid">
+    <aside>
+  <div class="sidebar-header">
+    <a href="https://news.retroachievements.org">
+      <img alt="" src="/img/ranews-small.png">
+    </a>
+  </div>
+  <div class="article-list-container">
+    <h2>2022-04</h2>
+
+    <label for="article-list-toggle">&#9776;</label>
+    <input id="article-list-toggle" type="checkbox"/>
+
+    <ul class="article-list">
+      
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/index.html">
+              <li>Introduction</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/ra-awards.html">
+              <li>RA Awards</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/stats.html">
+              <li>Monthly Stats</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/events.html">
+              <li>Current Events</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/devnews.html">
+              <li>DevNews</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <li class="active">RAScript Tutorials</li>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/play-this-set.html">
+              <li>Play This Set</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/wish-this-set.html">
+              <li>Wish This Set</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/guide.html">
+              <li>RAGuide</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/hotcheevs.html">
+              <li>HotCheevs Monthly</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/revisions.html">
+              <li>Revisions and Rescores</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/art-updates.html">
+              <li>Art Updates</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/top-players.html">
+              <li>Top Players</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/ranniversaries.html">
+              <li>RAnniversaries</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/top-masteries.html">
+              <li>Top Masteries</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/most-wanted.html">
+              <li>Most Wanted Games</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/fun.html">
+              <li>Fun</li>
+            </a>
+          
+        
+      
+        
+          
+
+          
+            <a href="/issues/2022-04/ra-spotlight.html">
+              <li>RASpotlight</li>
+            </a>
+          
+        
+      
+    </ul>
+  </div>
+  <div class="footer">
+    <ul class="icons">
+      <li>
+        <a href="https://retroachievements.org/">
+          <i class="icon icon-retroachievements"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://discord.gg/dq2E4hE">
+          <i class="fab fa-discord"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://docs.retroachievements.org/">
+          <i class="fa fa-book"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/RetroAchievements">
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+</aside>
+
+    <main>
+      <header>
+        <nav>
+  
+    <a href="/issues/2022-04/devnews.html" class="previous">
+      &#x00ab
+      
+        DevNews
+      
+    </a>
+  
+  
+    <a href="/issues/2022-04/play-this-set.html" class="next">
+      
+        Play This Set
+      
+      &#x00bb
+    </a>
+  
+</nav>
+      </header>
+      <article>
+        <header>
+          
+          <h1 id="top">RAScript Tutorials</h1>
+          
+
+          
+          
+          <div class="author">
+            
+              
+              
+              
+              <img src="https://retroachievements.org/UserPic/Etron.png" alt="Etron">
+            
+            <span>By 
+              
+                
+                
+                <a href="https://retroachievements.org/user/Etron">Etron</a>
+              
+            </span>
+          </div>
+          
+        </header>
+
+        
+        <div id="toc" class="toc-container ">
+          <p class="toc-title">Contents</p>
+          <ul>
+  <li><a href="#tutorial-3---bit-flags">Tutorial #3 - Bit Flags</a>
+    <ul>
+      <li><a href="#overview">Overview</a></li>
+      <li><a href="#for-loops">For Loops</a></li>
+      <li><a href="#arrays">Arrays</a></li>
+      <li><a href="#example-3a-setting-the-forest-ablaze">Example 3A: Setting the Forest Ablaze</a>
+        <ul>
+          <li><a href="#sum_of">sum_of</a></li>
+          <li><a href="#unrolling-a-loop">Unrolling a Loop</a></li>
+        </ul>
+      </li>
+      <li><a href="#example-3b-gotta-actually-catch-em-all">Example 3B: Gotta ACTUALLY Catch ‘em All</a>
+        <ul>
+          <li><a href="#bitcount">bitcount</a></li>
+          <li><a href="#sum_of-bits">sum_of bits</a></li>
+        </ul>
+      </li>
+      <li><a href="#example-3c-assemble-the-dream-team">Example 3C: Assemble the Dream Team</a></li>
+      <li><a href="#homework-3">Homework #3</a></li>
+    </ul>
+  </li>
+</ul>
+        </div>
+        
+
+        <h1 id="tutorial-3---bit-flags">Tutorial #3 - Bit Flags</h1>
+
+<h2 id="overview">Overview</h2>
+
+<p>This tutorial will show a few examples of how to create achievements for a game which has a lot of <strong>Bit Flags</strong>. <a href="https://retroachievements.org/game/724">Pokémon Red|Blue</a> was chosen as the tutorial example because all the defeated Trainers, Item pickups, and caught Pokémon are tracked with <strong>Bit Flags</strong>.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Etron-RA/RetroAchievements/main/Tutorials/03_Bitflags/Pokemon_Red_Blue.png" />
+</p>
+
+<h2 id="for-loops">For Loops</h2>
+<p>The following examples use variations of <strong>For Loops</strong> to programmatically cycle through an <strong>Array</strong> of <strong>Bit Flags</strong>. <strong>For Loops</strong> are an extremely useful programming concept that allow you to execute a block of code any number of times. Using loops you can create very complex achievements in a few lines of code.  If you are unfamiliar with the concept of <strong>For Loops</strong> then please review the Khan Academy video <a href="https://www.khanacademy.org/computing/computer-programming/programming/looping/pt/for-loops-a-new-kind-of-loop">For Loops! A New Kind of Loop</a></p>
+
+<h2 id="arrays">Arrays</h2>
+<p><strong>Arrays</strong> are sequential data, of a single data type, that can be accessed with a numerical index. In RAScripts <strong>Arrays</strong> can be numbers, text, conditions, or another nested <strong>Array</strong>.  <strong>Arrays</strong> work well together with <strong>For Loops</strong> since you can loop through an <strong>Array</strong> generating new code for each element in the <strong>Array</strong>. If you are unfamiliar with the concept of <strong>Arrays</strong> then please review the Khan Academy video <a href="https://www.khanacademy.org/computing/computer-programming/programming/arrays/pt/intro-to-arrays">Intro to Arrays</a></p>
+
+<h2 id="example-3a-setting-the-forest-ablaze">Example 3A: Setting the Forest Ablaze</h2>
+
+<p>Pokémon Red|Blue is a Role Playing Game <strong>(RPG)</strong> where you collect and train Pokémon to fight other Pokémon Trainers around the Kanto region.  You also collect or buy special Items that can heal your Pokémon, remedy status affects, or help your Pokémon evolve. Both Trainer fights and Item pick ups are tracked in-game using <strong>Bit Flags</strong>. The following achievement is for when the player fights all of the Trainers and picks up all of the Items in the Viridian Forest.  The Viridian Forest area was selected since it was one of the smaller sections of the game however, you can use the same snippet of code for any section of the game by passing a different <strong>Array</strong> of <strong>Bit Flags</strong>.  It doesn’t matter if there are more or less <strong>Bit Flags</strong> than the example below since the code will adapt to the number of elements in the <strong>Array</strong> by using the <code class="language-plaintext highlighter-rouge">length()</code> function.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Etron-RA/RetroAchievements/main/Tutorials/03_Bitflags/Pokemon_Viridian_Forest.png" />
+</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Pokémon Red Version | Pokémon Blue Version
+// #ID = 724
+
+// An array on all the bitflags in the Viridian Forest
+ViridianForest = [
+    bit0(0xd6f0), // Hidden Potion
+    bit1(0xd6f0), // Hidden Antidote
+    bit4(0xd5b2), // Antidote
+    bit5(0xd5b2), // Potion
+    bit6(0xd5b2), // Poke Ball
+    bit2(0xd7f3), // Bug Catcher 01
+    bit3(0xd7f3), // Bug Catcher 02
+    bit4(0xd7f3)  // Bug Catcher 03
+]
+
+// Check if array of passed flags goes from previously all but one flag is true
+// to all flags being true.
+function FlagsComplete(Flags)
+{
+    return sum_of(Flags, f =&gt; prev(f)) == length(Flags) - 1 &amp;&amp;
+        measured(sum_of(Flags, f =&gt; f) == length(Flags)) 
+}
+
+// Make an achievement for finding every item and defeating every trainer 
+// in the Viridian Forest
+achievement(
+    title = "Example 3A: Setting the Forest Ablaze", 
+    description = "Find every Item and defeat every Trainer in the Viridian Forest.",
+    points = 0,  
+    trigger = FlagsComplete(ViridianForest) 
+)
+</code></pre></div></div>
+
+<h3 id="sum_of">sum_of</h3>
+<p>The above code utilizes the command <strong>sum_of</strong> to add the value of each <strong>Bit Flag</strong> in the <strong>Array</strong>.  Since a bit is 1 if on and 0 if off the summation of the <strong>Bit Flags</strong> will tell you how many <strong>Bit Flags</strong> are on.  Using the length of 8 for the <strong>Array</strong> in this example we test if the previous number of <strong>Bit Flags</strong> was 7 and the current number of bit flags that are on is 8.  The advantage of counting <strong>Bit Flags</strong> like this is that the player can collect the Items and fight the Trainers in any order and still get the achievement.  Additionally, we get save protection since the player must increment the <strong>Bit Flag</strong> count to get the achievement and it won’t trigger if they load a save file with the <strong>Bit Flags</strong> all on.
+To help understand how to use <strong>sum_of</strong> it might help to deconstruct an example. Consider the line:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sum_of(Flags, f =&gt; prev(f))
+</code></pre></div></div>
+<p>The above line could be written as a <strong>For Loop</strong> where <code class="language-plaintext highlighter-rouge">Flags</code> is the <strong>array</strong> we are looping through and <code class="language-plaintext highlighter-rouge">f</code> is each element in the array. The following code is equivalent to the above:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sum = 0
+for f in Flags
+{
+    sum = sum + prev(f)
+}
+// The value of sum if the number of bit flags that were on in the previous frame.
+</code></pre></div></div>
+<p>Note that the <code class="language-plaintext highlighter-rouge">f =&gt; prev(f)</code> part of the <strong>sum_of</strong> means that the previous value of each element is counted.  If we wrote <code class="language-plaintext highlighter-rouge">f =&gt; f</code> then the current value of each element is counted.</p>
+
+<h3 id="unrolling-a-loop">Unrolling a Loop</h3>
+<p>To better understand how the <strong>For Loop</strong> is interpreted by the compiler you can unroll the loop into individual lines of code. Unrolling a loop is a technique used by programmers to optimize code since it avoids conditional jumps which take a small amount resources.  The technique is more useful on embedded hardware where resources are extremely limited however, it is a useful exercise when learning <strong>For Loops</strong>. Consider the same loop from above:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sum = 0
+for f in Flags
+{
+    sum = sum + prev(f)
+}
+</code></pre></div></div>
+<p>To unroll this For Loop we would copy the line of code inside of the eight times, one for each element in the <strong>Array</strong> and replace <em>f</em> with the element.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sum = 0
+sum = sum + prev(bit0(0xd6f0)) // Hidden Potion
+sum = sum + prev(bit1(0xd6f0)) // Hidden Antidote
+sum = sum + prev(bit4(0xd5b2)) // Antidote
+sum = sum + prev(bit5(0xd5b2)) // Potion
+sum = sum + prev(bit6(0xd5b2)) // Poke Ball
+sum = sum + prev(bit2(0xd7f3)) // Bug Catcher 01
+sum = sum + prev(bit3(0xd7f3)) // Bug Catcher 02
+sum = sum + prev(bit4(0xd7f3)) // Bug Catcher 03
+</code></pre></div></div>
+<p>Both code snippets are equivalent however, the one using the <strong>For Loop</strong> is easier to write and there is less chance of a typo in the code.  <strong>For Loops</strong> become even more desirable when the number of elements in the <strong>Array</strong> increases.</p>
+
+<p>Scripts: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/03_Bitflags/Example_3A_Pokemon.rascript">Example #3A script</a></p>
+
+<h2 id="example-3b-gotta-actually-catch-em-all">Example 3B: Gotta ACTUALLY Catch ‘em All</h2>
+
+<p>The main gimmick of Pokémon is that you can catch and train any of the 151 Pokémon in the game.  This is emphasized by the games’ catch phrase “Gotta Catch ‘em All”.  The game tracks both which Pokémon you have seen and/or caught in the Pokédex. When it was released Pokémon was sold as a Red and Blue version, each version with its own game exclusive Pokémon. So to actually catch all of the Pokémon you needed to trade Pokémon with someone else who had a different version of the game. Additionally some Pokémon like Mew require glitches to catch them.  Because of the requirement to trade with another person or use glitches the achievement this example is based on is from the bonus set. The reason why it was chosen as one of the examples is because catching all 151 Pokémon is tracked in consecutive <strong>Bit Flags</strong> which allows for some interesting optimizations.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Etron-RA/RetroAchievements/main/Tutorials/03_Bitflags/Pokemon_Pokedex.png" />
+</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Pokémon Red Version | Pokémon Blue Version
+// #ID = 724
+
+// $C06E: Music Playng, title screen = 4105
+function TitleMusic() =&gt; word(0x00C06E) == 4105
+
+// Count each bit between $D2F7 bit 0 to $D309 bit 6 
+// these are the consecutive bitflags for each of the  
+// 151 Pokémon in the Pokédex
+function PokedexCount()
+{
+   count = 0
+    for address in range(0xD2F7, 0xD308) {
+        count = count + bitcount(address)
+    }
+    count = count + sum_of(range(0,6), b =&gt; bit(b,0xD309))
+    return count
+}
+
+// Create an achievement for when the player goes from
+// 150 Pokémon to 151 Pokémon in the Pokédex
+achievement(
+    title = "Example 3B: Gotta ACTUALLY Catch 'em All", 
+    description = "Catch all 151 Pokémon. Yes ALL of them.", 
+    points = 0,
+    trigger = never(TitleMusic()) &amp;&amp;
+              prev(PokedexCount()) == 150 &amp;&amp;
+              measured(PokedexCount() == 151)
+)
+</code></pre></div></div>
+
+<h3 id="bitcount">bitcount</h3>
+<p>The above example uses the fact that the Pokédex uses consecutive bits to optimize the code with <strong>bitcount</strong>.  Instead of adding the bits together with a <strong>For Loop</strong>, <strong>bitcount</strong> counts the bits with one command.  Consider line:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>count = count + bitcount(address)
+</code></pre></div></div>
+<p>The bits could also be counted using the <strong>sum_of</strong> function like:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>count = count + sum_of(range(0,7), b =&gt; bit(b, address))
+</code></pre></div></div>
+<p>Note that by using <strong>bitcount</strong> instead of <strong>sum_of</strong> we drastically reduce that number of lines generated by the script.  Instead of adding each bit per line we add eight bits per line. This results in 51 lines using <strong>bitcount</strong> instead of 303 lines using <strong>sum_of</strong>, approximately 6x smaller.</p>
+
+<h3 id="sum_of-bits">sum_of bits</h3>
+<p>Another interesting trick in this example is the use of <strong>sum_of</strong> to add the last seven bits of the Pokédex.  Since we want to ignore the value of the eighth bit we can use <strong>sum_of</strong> to add the values of bits zero to six.  Note that the command <code class="language-plaintext highlighter-rouge">range(0,6)</code>  is a shortcut function which returns an <strong>Array</strong> of numbers, in this case <code class="language-plaintext highlighter-rouge">[0, 1, 2, 3, 4, 5, 6]</code> . Consider the line:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>count = count + sum_of(range(0,6), b =&gt; bit(b,0xD309))
+</code></pre></div></div>
+<p>To help understand what going on we will unroll it like the previous example.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>count = count + bit(0,0xD309) 
+count = count + bit(1,0xD309)
+count = count + bit(2,0xD309)
+count = count + bit(3,0xD309)
+count = count + bit(4,0xD309)
+count = count + bit(5,0xD309) 
+count = count + bit(6,0xD309)
+</code></pre></div></div>
+<p>By using <strong>For Loops</strong> we can make very complex achievements quickly and efficiently.</p>
+
+<p>Scripts: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/03_Bitflags/Example_3B_Pokemon.rascript">Example #3B script</a></p>
+
+<h2 id="example-3c-assemble-the-dream-team">Example 3C: Assemble the Dream Team</h2>
+<p>When battling other Trainers you can choose up to six Pokémon to fight for you. One of the most enjoyable aspects of Pokémon is the ability to mix and match your team.  By learning the strengths and weakness of each Pokémon type you can assemble your team to counter an opponent’s Team.</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Etron-RA/RetroAchievements/main/Tutorials/03_Bitflags/Pokemon_Challenger_Approaching.png" />
+</p>
+
+<h2 id="homework-3">Homework #3</h2>
+<p>A)	Pick your six favorite Pokémon available in Pokémon Red | Blue.
+B)	Using the Pokedex memory of <strong>Bit Flags</strong> between $D2F7 bit 0 to $D309 bit 6 create an achievement for catching all six Pokémon selected in part A</p>
+
+<p>Solutions: <a href="https://github.com/Etron-RA/RetroAchievements/blob/main/Tutorials/03_Bitflags/Solution/readme.md">Tutorial #3 Solution</a></p>
+
+<hr />
+
+<p><a href="../2022-02/rascript.html#tutorial-0---getting-started">Tutorial #0 - Getting Started</a><br />
+<a href="../2022-02/rascript.html#tutorial-1---memory-basics">Tutorial #1 - Memory Basics</a><br />
+<a href="../2022-03/rascript.html#tutorial-2---add-hits">Tutorial #2 - Add Hits</a></p>
+
+<p>All RAScript Tutorials can be found <a href="https://github.com/Etron-RA/RetroAchievements/tree/main/Tutorials">here</a>.</p>
+
+
+      </article>
+      <footer>
+        <nav>
+  
+    <a href="/issues/2022-04/devnews.html" class="previous">
+      &#x00ab
+      
+        DevNews
+      
+    </a>
+  
+  
+    <a href="/issues/2022-04/play-this-set.html" class="next">
+      
+        Play This Set
+      
+      &#x00bb
+    </a>
+  
+</nav>
+      </footer>
+    </main>
+  </div>
+
+</body>
+
+</html>
