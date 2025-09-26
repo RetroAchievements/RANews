@@ -33,7 +33,7 @@ And WOW. I was floored by the sheer size of RA, the community, the effort, the f
 
 ## Motivation
 
-Naturally, I wondered: “Can I use all my junk? The old consoles, CRT TVs, cartridges, or at least an Everdrive?” The answer was: nope 😢. Some of my friends told me they beat games on the console, then beat them again in emulators just to unlock the achievements.
+Naturally, I wondered: “Can I use all my junk to unlock RetroAchievements? The old consoles, CRT TVs, cartridges, or at least an Everdrive?” The answer was: nope 😢. Some of my friends told me they beat games on the console, then beat them again in emulators just to unlock the achievements.
 
 But here’s the problem: I’m not exactly a pro gamer. Beating a game once already takes me ages. Beating it _twice_? Forget it. So even though I wanted to, I didn’t start using RA… yet.
 
@@ -44,7 +44,7 @@ Fast forward to 2023 when BrokeStudio released **[Super Tilt Bro](https://www.su
 <p align="center"><i>Super Tilt Bro gave me this unlikely idea</i></p>
 </p>
 
-## Enough Thinking, Let's Do It!
+## Enough Thinking, Let's Do It! 💪
 
 Then in 2024, I had garden leave from work, a whole year off. That little challenge from my friends came back to me: _How far can I actually go with this?_ And so began my one-year quest to bring RA to real hardware.
 
@@ -61,7 +61,6 @@ But of course, it was more complicated. Achievements aren’t just raw memory re
 <p align="center"><i>Rad Racer, the guinea pig – I created a love relationship with this game ❤️!</i></p>
 </p>
 
-
 My thought: “NES runs at 1.7 MHz. Pico at 150 MHz. ESP32-S3 at 240 MHz. There’s no way it can’t keep up with the bus, right?” Oh, there’s a way alright. Spoiler: it failed hard. I tried muxes, IO expanders, CPU tricks, nothing could match the NES cadence.
 
 Do you know [NESDEV](https://www.nesdev.org/wiki/Nesdev_Wiki)? Honestly, I think they’ve documented the NES in more detail than Nintendo ever did. Their wiki and forums were like a lighthouse guiding me through the storm. Many times, when I was stuck, I’d find salvation in a random thread from years ago.
@@ -76,7 +75,6 @@ After a few iterations of me banging my head against the keyboard… **boom, it 
 <img src="https://odelotstuff.wordpress.com/wp-content/uploads/2025/04/whatsapp-image-2025-04-03-at-08.54.21.jpeg"  width="70%" >
 <p align="center"><i>first achievement unlocked! a happy day - thanks JonnyRetro for making this achievement 10 years ago</i></p>
 </p>
-
 
 ### Second Achievement: Detect When An Achievement Is Unlocked
 
@@ -114,7 +112,7 @@ Another issue: how to show achievements without video overlay. Messing with vide
 
 The toaster-style NES (American model) was another headache, with its cursed loading tray. GH shrank the PCB as much as possible (amazing work, worked on the first try), and I, being a computer scientist, not an industrial designer, modeled a 3D case inspired by the Game Genie, so the display could poke out. Not perfect, but hey, it works.
 
-## :trophy: Project Mastered!
+## Project Mastered! 🏆
 
 And that’s it, I finished the project! I’m ridiculously happy. Big thanks to RA admins, the community, and my friends who listened to me ramble endlessly and still cheered me on. And also to JonnyRetro, who created the first achievement I unlocked with the adapter, and to whom I will give the first unit I built (the one below, with RA logo ❤️).
 
@@ -138,8 +136,6 @@ Thanks for letting me share my baby with you (my proudest contribution as a comp
 
 Of course, I kept getting two tough questions (you might be wondering too):
 
-1.  **Does it work with Everdrive?** Sadly no. When the adapter tries to read the cart, it just finds the Everdrive menu, not the game. Plus, cheats and save states would kill hardcore mode. Originals are expensive, but repro carts are cheap and work fine.
-    
-2.  **How much does it cost and where can I buy it?** From day one, I never planned to sell this. That goes against RA’s non-profit spirit. The whole idea was always to share everything free on [GitHub](https://github.com/odelot/nes-ra-adapter), PCB, 3D parts, source code. Anyone can check it out, and maybe devs will even take it further to other consoles. If you want one but can’t build it yourself, team up with friends and ask your local console modder, they’re more than capable of making it happen.
+1. **Does it work with Everdrive?** Sadly no. When the adapter tries to read the cart, it just finds the Everdrive menu, not the game. Plus, cheats and save states would kill hardcore mode. Originals are expensive, but repro carts are cheap and work fine.
 
-
+2. **How much does it cost and where can I buy it?** From day one, I never planned to sell this. That goes against RA’s non-profit spirit. The whole idea was always to share everything free on [GitHub](https://github.com/odelot/nes-ra-adapter), PCB, 3D parts, source code. Anyone can check it out, and maybe devs will even take it further to other consoles. If you want one but can’t build it yourself, team up with friends and ask your local console modder, they’re more than capable of making it happen.
