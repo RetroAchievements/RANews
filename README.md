@@ -16,7 +16,7 @@ git clone git@github.com:RetroAchievements/RANews.git
 cd RANews
 
 # if you have 'mise', it can automatically install
-# the Ruby version defined in .tool-version.
+# the Ruby version defined in .tool-versions
 # NOTE: This may take some minutes.
 mise install
 
