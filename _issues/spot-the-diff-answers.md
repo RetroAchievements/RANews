@@ -42,7 +42,7 @@ toc: true
         </thead>
         <tr>
             <td><br><a href="../img/SpotTheDifferenceAnswers/2025-07.png"><img src="../img/SpotTheDifferenceAnswers/2025-07.png" width="400"></a></td>
-            <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2025-08.png"><img src="../img/SpotTheDifferenceAnswers/2025-08.png" width="400"></a></td> -->
+            <td><br><a href="../img/SpotTheDifferenceAnswers/2025-08.png"><img src="../img/SpotTheDifferenceAnswers/2025-08.png" width="400"></a></td>
             <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2025-09.png"><img src="../img/SpotTheDifferenceAnswers/2025-09.png" width="400"></a></td> -->
         </tr>
         <!-- <thead>

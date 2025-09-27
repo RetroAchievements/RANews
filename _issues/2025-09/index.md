@@ -53,7 +53,7 @@ toc_float: false
 <div class="section-link">
     <a href="./set-of-the-month.html">
         <div class="section-content">
-            <h1 id="set-of-the-month">Set of the Month---</h1>
+            <h1 id="set-of-the-month">Set of the Month</h1>
             <p>Each month, we invite the RetroAchievements community to vote for their favorite set, subset, and revision from the previous month. We gather the votes and share the results in this Set of the Month section. This is a great way to discover new sets that you may have missed and to celebrate the hard work and creativity of our dedicated set developers.</p>
         </div>
     </a>
@@ -77,7 +77,7 @@ toc_float: false
 <div class="section-link">
     <a href="./current-events.html">
         <div class="section-content">
-            <h1 id="current-events">Current Events---</h1>
+            <h1 id="current-events">Current Events</h1>
             <p>The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!</p>
         </div>
     </a>
@@ -93,7 +93,7 @@ toc_float: false
 <div class="section-link">
     <a href="./community-news.html">
         <div class="section-content">
-            <h1 id="community-news">Community News---</h1>
+            <h1 id="community-news">Community News</h1>
             <p>Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.</p>
         </div>
     </a>
@@ -212,8 +212,8 @@ toc_float: false
 <div class="section-link">
     <a href="./spot-the-difference.html">
         <div class="section-content">
-            <h1 id="spot-the-difference">Spot The Difference---</h1>
-            <p>In this section, we challenge readers to put their observation skills to the test with a Spot the Difference game created by SporyTike for the game Ys: The Oath in Felghana. There are 10 differences to find, and readers who spot them all will be featured in the next issue. So sharpen your eyes and get ready for some fun!</p>
+            <h1 id="spot-the-difference">Spot The Difference</h1>
+            <p>In this section, we challenge readers to put their observation skills to the test with a Spot the Difference game created by SporyTike for the game Final Fantasy Crystal Chronicles: Ring of Fates. There are 10 differences to find, and readers who spot them all will be featured in the next issue. So sharpen your eyes and get ready for some fun!</p>
         </div>
     </a>
 </div>
@@ -235,7 +235,6 @@ toc_float: false
                 <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
                 <td>{% rauserpic ArtikSkarab %}</td>
                 <td>{% rauserpic AssClownKing %}</td>
-            </tr>
             </tr>
         </tbody></table>
     </div>
