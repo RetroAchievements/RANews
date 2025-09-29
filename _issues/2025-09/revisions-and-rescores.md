@@ -14,7 +14,7 @@ toc: true
 
 | Game                                                       | Revision By           | Genre          |
 | ---------------------------------------------------------- | --------------------- | -------------- |
-| {% ragamepic 724, 117113, Pokémon Red Version %}           | {% rauser Gollawiz %} | -              |
+| {% ragamepic 724, 117113, Pokémon Red Version %}           | {% rauser Gollawiz %} | Turn-Based RPG |
 | {% ragamepic 19859, 116194, ~Homebrew~ Birdie Bartender %} | {% rauser Layton %}   | Job Simulation |
 
 <a href="#toc">:top:</a>
@@ -134,8 +134,8 @@ toc: true
 ### Sega CD
 
 
-| Game                                    | Revision Author      | Genre          |
-| --------------------------------------- | -------------------- | -------------- |
+| Game                                    | Revision Author    | Genre          |
+| --------------------------------------- | ------------------ | -------------- |
 | {% ragamepic 10062, 108450, Sonic CD %} | {% rauser Craze %} | 2D Platforming |
 
 <a href="#toc">:top:</a>
