@@ -26,7 +26,7 @@ toc: true
 | ------------------------------------------------------------------------- | ------------------------- | ------------ |
 | {% ragamepic 11847, 111718, Amidar %}                                     | {% rauser rgavril %}      | Maze Chase   |
 | {% ragamepic 12664, 116905, Art of Fighting 3: The Path of the Warrior %} | {% rauser Raeyene %}      | 2D Fighting  |
-| {% ragamepic 12151, 104084, Giga Wing %}                                  | {% rauser graypigeon22 %} | Shoot 'em Up |
+| {% ragamepic 12151, 104084, Giga Wing %}                                  | {% rauser Pearl %} | Shoot 'em Up |
 
 <a href="#toc">:top:</a>
 
@@ -70,7 +70,7 @@ toc: true
 | Game                                                  | Author                | Genre     |
 | ----------------------------------------------------- | --------------------- | --------- |
 | {% ragamepic 586, 117108, Pokémon Blue Version %}     | {% rauser Gollawiz %} | -         |
-| {% ragamepic 32009, 111520, ~Hack~ Pokémon PureRGB %} | {% rauser Yurana %}   | -         |
+| {% ragamepic 32009, 111520, ~Hack~ Pokémon PureRGB %} | {% rauser Cartesia %}   | -         |
 | {% ragamepic 12300, 116092, ~Homebrew~ Adulting! %}   | {% rauser scatter %}  | Adventure |
 
 <a href="#toc">:top:</a>
@@ -81,7 +81,7 @@ toc: true
 
 | Game                                                                | Author                   | Genre                |
 | ------------------------------------------------------------------- | ------------------------ | -------------------- |
-| {% ragamepic 8209, 059072, GT Advance: Championship Racing %}       | {% rauser Amir96lx %}    | -                    |
+| {% ragamepic 8209, 059072, GT Advance: Championship Racing %}       | {% rauser AmirGaris %}    | -                    |
 | {% ragamepic 6194, 079163, Gauntlet: Dark Legacy %}                 | {% rauser Goodbite %}    | Hack & Slash         |
 | {% ragamepic 6947, 116135, I Spy Challenger! %}                     | {% rauser Sikayduh %}    | Hidden Object        |
 | {% ragamepic 33610, 111845, ~Hack~ Yet Another Vanilla SMA2 Hack %} | {% rauser stfN1337 %}    | 2D Platforming       |
@@ -179,7 +179,7 @@ toc: true
 
 | Game                                                                                      | Author                    | Genre                    |
 | ----------------------------------------------------------------------------------------- | ------------------------- | ------------------------ |
-| {% ragamepic 17349, 114460, Cars: Mater-National Championship %}                          | {% rauser DarkyAndreas %} | Arcade Racing            |
+| {% ragamepic 17349, 114460, Cars: Mater-National Championship %}                          | {% rauser Darky %} | Arcade Racing            |
 | {% ragamepic 16540, 115352, Crash Boom Bang! %}                                           | {% rauser PinkFurret22 %} | Board Game, Party        |
 | {% ragamepic 34053, 114609, Pokémon Mystery Dungeon: Blue Rescue Team [Subset - Bonus] %} | {% rauser Gudra %}        | Roguelike, Dungeon Crawl |
 | {% ragamepic 18766, 116050, Sushi Go-Round %}                                             | {% rauser KiwiTaco %}     | Job Simulation           |
@@ -202,7 +202,7 @@ toc: true
 
 | Game                                                    | Author                     | Genre      |
 | ------------------------------------------------------- | -------------------------- | ---------- |
-| {% ragamepic 22904, 083865, ~Homebrew~ Revival Chase %} | {% rauser MaddieKittyTV %} | Maze Chase |
+| {% ragamepic 22904, 083865, ~Homebrew~ Revival Chase %} | {% rauser LilCutieSophia %} | Maze Chase |
 
 <a href="#toc">:top:</a>
 
@@ -215,7 +215,7 @@ toc: true
 | {% ragamepic 31558, 116387, Building Crush! %}                             | {% rauser LordAndrew %} | Tile Matching         |
 | {% ragamepic 11263, 026757, Front Mission 3 %}                             | {% rauser Mulbruk %}    | Tactical RPG          |
 | {% ragamepic 17498, 114133, Monster Rancher Battle Card Episode II %}      | {% rauser zaydoc %}     | Collectible Card Game |
-| {% ragamepic 19396, 104918, Pop'n Music 6 %}                               | {% rauser Amir96lx %}   | -                     |
+| {% ragamepic 19396, 104918, Pop'n Music 6 %}                               | {% rauser AmirGaris %}   | -                     |
 | {% ragamepic 18733, 116832, ~Hack~ ~Demo~ Resident Evil: Survivor Redux %} | {% rauser Homuki %}     | Survival Horror       |
 | {% ragamepic 26016, 115866, ~Homebrew~ Celeste Classic PSX %}              | {% rauser xClawz %}     | -                     |
 
@@ -227,15 +227,15 @@ toc: true
 
 | Game                                                                                                | Author                                         | Genre                            |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------------- |
-| {% ragamepic 29824, 116699, 25 to Life %}                                                           | {% rauser SuperMeatBro %}                      | Third-Person Shooter             |
+| {% ragamepic 29824, 116699, 25 to Life %}                                                           | {% rauser Meatbro %}                      | Third-Person Shooter             |
 | {% ragamepic 20924, 075330, Batman Begins %}                                                        | {% rauser AshMetalRaf %}                       | Action-Adventure, Stealth        |
 | {% ragamepic 20839, 115723, Buffy the Vampire Slayer: Chaos Bleeds %}                               | {% rauser NeonPug %} {% rauser Whithbrin %}    | Beat 'em Up                      |
-| {% ragamepic 25384, 116231, Fate/stay night: Réalta Nua %}                                          | {% rauser AlexGatao %}                         | Visual Novel                     |
+| {% ragamepic 25384, 116231, Fate/stay night: Réalta Nua %}                                          | {% rauser AlexHylian %}                         | Visual Novel                     |
 | {% ragamepic 21709, 115670, Galactic Wrestling featuring Ultimate Muscle %}                         | {% rauser Landa %}                             | Sports - Wrestling               |
-| {% ragamepic 20972, 115202, Garfield: Saving Arlene %}                                              | {% rauser SuperMeatBro %}                      | Action-Adventure, 3D Platforming |
+| {% ragamepic 20972, 115202, Garfield: Saving Arlene %}                                              | {% rauser Meatbro %}                      | Action-Adventure, 3D Platforming |
 | {% ragamepic 20857, 111689, Ghost Rider %}                                                          | {% rauser Wh1t3st4r %}                         | Hack & Slash                     |
 | {% ragamepic 21853, 066957, Home Alone %}                                                           | {% rauser Julysse %}                           | Action                           |
-| {% ragamepic 28588, 105447, Jelly Belly: Ballistic Beans %}                                         | {% rauser MaddieKittyTV %}                     | Action, Pachinko                 |
+| {% ragamepic 28588, 105447, Jelly Belly: Ballistic Beans %}                                         | {% rauser LilCutieSophia %}                     | Action, Pachinko                 |
 | {% ragamepic 21884, 116487, Kim Possible: What's the Switch? %}                                     | {% rauser NeonPug %}                           | Action-Adventure, 2D Platforming |
 | {% ragamepic 20859, 065886, OutRun 2006: Coast 2 Coast %}                                           | {% rauser authorblues %} {% rauser Souzooka %} | Arcade Racing                    |
 | {% ragamepic 20750, 112567, PK: Out of the Shadows %}                                               | {% rauser ElectricAngel %}                     | 3D Platforming, Action-Adventure |
@@ -255,10 +255,10 @@ toc: true
 | Game                                                                            | Author                  | Genre               |
 | ------------------------------------------------------------------------------- | ----------------------- | ------------------- |
 | {% ragamepic 2365, 114680, Bust-A-Move Deluxe %}                                | {% rauser Delmaru %}    | -                   |
-| {% ragamepic 25101, 117064, Dragonball: Evolution %}                            | {% rauser AlexGatao %}  | 3D Fighting         |
+| {% ragamepic 25101, 117064, Dragonball: Evolution %}                            | {% rauser AlexHylian %}  | 3D Fighting         |
 | {% ragamepic 18382, 087735, Kurohyou: Ryu ga Gotoku Shinshou %}                 | {% rauser metwie %}     | Action-Adventure    |
 | {% ragamepic 3507, 105751, Patapon 3 %}                                         | {% rauser TheXIIIthX %} | Rhythm              |
-| {% ragamepic 31694, 116836, Sunday vs. Magazine Shuuketsu! Choujou Daikessen %} | {% rauser AlexGatao %}  | Action, 3D Fighting |
+| {% ragamepic 31694, 116836, Sunday vs. Magazine Shuuketsu! Choujou Daikessen %} | {% rauser AlexHylian %}  | Action, 3D Fighting |
 
 <a href="#toc">:top:</a>
 

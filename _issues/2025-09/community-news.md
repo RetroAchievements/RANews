@@ -10,15 +10,7 @@ toc: true
 ## Wii Would Like To Play
 
 <p align="center">
-    <iframe
-        width="640"
-        height="480"
-        src="https://i.imgur.com/L6nhJoX.mp4"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
-        allowfullscreen
-    >
-    </iframe>
+    <img src="https://i.imgur.com/7LK7rwC.gif">
 </p>
 
 ## RA Awards
@@ -48,11 +40,11 @@ Language support on site is expanding. Thank you very much to {% rauser RaptorBe
 
 | Code Reviewer              |                            |                        |
 | -------------------------- | -------------------------- | ---------------------- |
-| {% rauserpic AaronDobbe %} | {% rauserpic WiigDonRob %} | {% rauserpic Homuki %} |
+| {% rauserpic AaronDobbe %} | {% rauserpicalt WiigDonRob, BigDonRob %} | {% rauserpic Homuki %} |
 
 | Events                |                             |                        |                               |
 | --------------------- | --------------------------- | ---------------------- | ----------------------------- |
-| {% rauserpic Johan %} | {% rauserpic Kaiserlucas %} | {% rauserpic RyCuLe %} | {% rauserpic SpaghettiKing %} |
+| {% rauserpicalt Johan, TheJohanx %} | {% rauserpic Kaiserlucas %} | {% rauserpic RyCuLe %} | {% rauserpic SpaghettiKing %} |
 
 | Moderator                   |
 | --------------------------- |
@@ -60,7 +52,7 @@ Language support on site is expanding. Thank you very much to {% rauser RaptorBe
 
 | Quality Assurance        |                       |                        |                          |                        |
 | ------------------------ | --------------------- | ---------------------- | ------------------------ | ---------------------- |
-| {% rauserpic Cartesia %} | {% rauserpic Darky %} | {% rauserpic Raichi %} | {% rauserpic Souzooka %} | {% rauserpic xClawz %} |
+| {% rauserpicalt Cartesia, Yurana %} | {% rauserpicalt Darky, DarkyAndreas %} | {% rauserpic Raichi %} | {% rauserpic Souzooka %} | {% rauserpic xClawz %} |
 
 ## Hash Compatibility Testing
 

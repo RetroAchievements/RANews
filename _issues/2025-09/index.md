@@ -46,7 +46,7 @@ toc_float: false
     <a href="./nes-adapter.html">
         <div class="section-content">
             <h1 id="nes-adapter">NES RetroAchievements Adapter</h1>
-            <p>Ever wish you could unlock RetroAchievements on your actual NES hardware instead of just emulators? odelot has spent over a year making that dream a reality, building a custom NES RetroAchievements Adapter that tracks progress, unlocks cheevos, and even shows badges right on a screen. Check out the full story, with all the wins, failures, and breakthroughs that made this awesome project possible</p>
+            <p>Ever wish you could unlock RetroAchievements on your actual NES hardware instead of just emulators? odelot has spent over a year making that dream a reality, building a custom NES RetroAchievements Adapter that tracks progress, unlocks cheevos, and even shows badges right on a screen. Check out the full story, with all the wins, failures, and breakthroughs that made this awesome project possible.</p>
         </div>
     </a>
 </div>
@@ -109,7 +109,7 @@ toc_float: false
 <div class="section-link">
     <a href="./rapatches.html">
         <div class="section-content">
-            <h1 id="rapatches-and-lost-level-archive">RAPatches and Lost Level Archive---</h1>
+            <h1 id="rapatches-and-lost-level-archive">RAPatches and Lost Level Archive</h1>
             <p>Hash management and tracking has always been an uphill battle. Homebrew, hacks, and patches are supported throughout a wide variety of Games and systems on RetroAchievements. tele has been on the front line of this battle for many years in an attempt to keep up with the never ending list of linked hashes. Let's take a look at the latest hashes that have been organized into the RAPatches repo and Lost Level Archives last month.</p>
         </div>
     </a>
@@ -117,7 +117,7 @@ toc_float: false
 <div class="section-link">
     <a href="./play-this-set.html">
         <div class="section-content">
-            <h1 id="play-this-set">Play This Set---</h1>
+            <h1 id="play-this-set">Play This Set</h1>
             <p>Looking for some great game recommendations? Play This Set features writeups submitted by the community about existing sets and why you should give them a try. Whether you're looking to discover a new favorite or just need a reason to play something new, these writeups are sure to provide plenty of inspiration. So dive in, and get ready to take on a new set!</p>
         </div>
     </a>
@@ -125,7 +125,7 @@ toc_float: false
 <div class="section-link">
     <a href="./wish-this-set.html">
         <div class="section-content">
-            <h1 id="wish-this-set">Wish This Set---</h1>
+            <h1 id="wish-this-set">Wish This Set</h1>
             <p>In this section, users share their thoughts on which games they would love to see have sets created for. Whether it's a beloved classic or an underrated gem, we want to hear about it. If you are a developer looking for a new set to work on, then look no further than right here.</p>
         </div>
     </a>
@@ -233,8 +233,96 @@ toc_float: false
         <table><tbody>
             <tr>
                 <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
-                <td>{% rauserpic ArtikSkarab %}</td>
-                <td>{% rauserpic AssClownKing %}</td>
+                <td>{% rauserpic authorblues %}</td>
+                <td>{% rauserpic Bendyhuman %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic BlueShellBeast %}</td>
+                <td>{% rauserpic Brandovsky %}</td>
+                <td>{% rauserpicalt Clarent, Clarento %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt Desolate00, Totempanic %}</td>
+                <td>{% rauserpic DevCompliance %}</td>
+                <td>{% rauserpic Digifiend %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt EphemeralEnigmas, sb191219 %}</td>
+                <td>{% rauserpicalt Ephraim, 12ek %}</td>
+                <td>{% rauserpic Frenchy70 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic gamer097 %}</td>
+                <td>{% rauserpic gungoose22 %}</td>
+                <td>{% rauserpic Hawkow %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Hotscrock %}</td>
+                <td>{% rauserpic Kasasagi %}</td>
+                <td>{% rauserpic Laoth %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic LudologicalCD %}</td>
+                <td>{% rauserpic M4g1cW4rr10r %}</td>
+                <td>{% rauserpic ManyHours %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
+                <td>{% rauserpic MrOwnership %}</td>
+                <td>{% rauserpic Nepiki %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
+                <td>{% rauserpic Notdog1996 %}</td>
+                <td>{% rauserpic Nydaxn %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Obliv %}</td>
+                <td>{% rauserpic odelot %}</td>
+                <td>{% rauserpicalt PINGG, PenguGG %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic pinguupinguu %}</td>
+                <td>{% rauserpic PisforPK %}</td>
+                <td>{% rauserpic QATeam %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic RANews %}</td>
+                <td>{% rauserpic Raykusen %}</td>
+                <td>{% rauserpic RetroGameMaster %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Rmuda %}</td>
+                <td>{% rauserpic s0uth %}</td>
+                <td>{% rauserpic Seifire %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic ShabaDaba %}</td>
+                <td>{% rauserpic Sines %}</td>
+                <td>{% rauserpicalt SnowPin, Snow %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic SporyTike %}</td>
+                <td>{% rauserpic StingX2 %}</td>
+                <td>{% rauserpicalt tele, televandalist %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic theelkspeaks %}</td>
+                <td>{% rauserpic TimeCrush %}</td>
+                <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic vikdarkbomb %}</td>
+                <td>{% rauserpic VintageNomad %}</td>
+                <td>{% rauserpic Vlt0 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic wallmasterz %}</td>
+                <td>{% rauserpic Whynot15 %}</td>
+                <td>{% rauserpic WindGoddess %}</td>
+            </tr>
+            <tr>
+                <td colspan="3">{% rauserpic Xymjak %}</td>
             </tr>
         </tbody></table>
     </div>

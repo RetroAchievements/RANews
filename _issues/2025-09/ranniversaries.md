@@ -21,7 +21,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 3   | {% rauserpic LootusMaximus %}<sup>**</sup>    | 9/5/2020      | 5                |
 | 4   | {% rauserpic SevaanSevant %}<sup>**</sup>     | 9/6/2020      | 5                |
 | 5   | {% rauserpic Kisumebuckets %}<sup>**</sup>    | 9/7/2020      | 5                |
-| 6   | {% rauserpic Suffa28 %}                       | 9/8/2020      | 5                |
+| 6   | {% rauserpicalt Suffa, Suffa28 %}                       | 9/8/2020      | 5                |
 | 7   | {% rauserpic Wimpy %}<sup>**</sup>            | 9/8/2020      | 5                |
 | 8   | {% rauserpic theanxietybuster %}<sup>**</sup> | 9/10/2020     | 5                |
 | 9   | {% rauserpic Dimedime %}                      | 9/6/2021      | 4                |
@@ -74,7 +74,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 25   | {% rauserpic Kekwel %}               | 9/27/2015     | 10               |
 | 26   | {% rauserpic Wyxan %}                | 9/27/2015     | 10               |
 | 27   | {% rauserpic pablonde %}             | 9/29/2015     | 10               |
-| 28   | {% rauserpic fngreg7 %}              | 9/1/2016      | 9                |
+| 28   | {% rauserpicalt GFizz, fngreg7 %}              | 9/1/2016      | 9                |
 | 29   | {% rauserpic Somaaz %}               | 9/1/2016      | 9                |
 | 30   | {% rauserpic psykus %}               | 9/2/2016      | 9                |
 | 31   | {% rauserpic OaKageHajile %}         | 9/2/2016      | 9                |
@@ -82,7 +82,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 33   | {% rauserpic Phenomenon %}           | 9/2/2016      | 9                |
 | 34   | {% rauserpic StoicVampirePig %}      | 9/3/2016      | 9                |
 | 35   | {% rauserpic bh1002 %}               | 9/3/2016      | 9                |
-| 36   | {% rauserpic Filipianosol %}         | 9/4/2016      | 9                |
+| 36   | {% rauserpicalt Filipopoi, Filipianosol %}         | 9/4/2016      | 9                |
 | 37   | {% rauserpic Lancasther %}           | 9/4/2016      | 9                |
 | 38   | {% rauserpic razgriz %}              | 9/5/2016      | 9                |
 | 39   | {% rauserpic MarvinTheRipper %}      | 9/6/2016      | 9                |
@@ -92,7 +92,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 43   | {% rauserpic GamingWolf %}           | 9/7/2016      | 9                |
 | 44   | {% rauserpic NoiselessMound %}       | 9/8/2016      | 9                |
 | 45   | {% rauserpic Boywond %}              | 9/8/2016      | 9                |
-| 46   | {% rauserpic leandrosts82 %}         | 9/9/2016      | 9                |
+| 46   | {% rauserpicalt LeandroOldPlayer, leandrosts82 %}         | 9/9/2016      | 9                |
 | 47   | {% rauserpic soddel %}               | 9/9/2016      | 9                |
 | 48   | {% rauserpic Solbad %}               | 9/9/2016      | 9                |
 | 49   | {% rauserpic meltheadorable %}       | 9/10/2016     | 9                |
@@ -100,7 +100,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 51   | {% rauserpic oscilloscopa %}         | 9/12/2016     | 9                |
 | 52   | {% rauserpic BAHAMUNT13 %}           | 9/14/2016     | 9                |
 | 53   | {% rauserpic Hexalon %}              | 9/14/2016     | 9                |
-| 54   | {% rauserpic Evilman %}              | 9/16/2016     | 9                |
+| 54   | {% rauserpicalt PhobosAnomaly, Evilman %}              | 9/16/2016     | 9                |
 | 55   | {% rauserpic Volpe %}                | 9/17/2016     | 9                |
 | 56   | {% rauserpic dokaikan %}             | 9/18/2016     | 9                |
 | 57   | {% rauserpic marcellopn %}           | 9/18/2016     | 9                |
@@ -135,7 +135,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 86   | {% rauserpic silverfury0634 %}       | 9/30/2016     | 9                |
 | 87   | {% rauserpic Ba1taZar %}             | 9/1/2017      | 8                |
 | 88   | {% rauserpic BaconOmelette %}        | 9/1/2017      | 8                |
-| 89   | {% rauserpic NickGoat1990 %}         | 9/1/2017      | 8                |
+| 89   | {% rauserpicalt NickCapricorn, NickGoat1990 %}         | 9/1/2017      | 8                |
 | 90   | {% rauserpic Arukar %}               | 9/2/2017      | 8                |
 | 91   | {% rauserpic Sumea %}                | 9/2/2017      | 8                |
 | 92   | {% rauserpic AWellKeptSecret %}      | 9/2/2017      | 8                |
@@ -173,7 +173,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 124  | {% rauserpic NetWalker2010 %}        | 9/19/2017     | 8                |
 | 125  | {% rauserpic Maloni %}               | 9/19/2017     | 8                |
 | 126  | {% rauserpic Krozhet %}              | 9/20/2017     | 8                |
-| 127  | {% rauserpic KTurques %}             | 9/20/2017     | 8                |
+| 127  | {% rauserpicalt kuunha, KTurques %}             | 9/20/2017     | 8                |
 | 128  | {% rauserpic ping182 %}              | 9/22/2017     | 8                |
 | 129  | {% rauserpic PickedRandom %}         | 9/23/2017     | 8                |
 | 130  | {% rauserpic bigstunnah %}           | 9/23/2017     | 8                |
@@ -187,7 +187,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 138  | {% rauserpic crusadeRGP %}           | 9/26/2017     | 8                |
 | 139  | {% rauserpic GamerYiqi %}            | 9/26/2017     | 8                |
 | 140  | {% rauserpic PerceptionD %}          | 9/26/2017     | 8                |
-| 141  | {% rauserpic alicode1111 %}          | 9/26/2017     | 8                |
+| 141  | {% rauserpicalt Obspogon, alicode1111 %}          | 9/26/2017     | 8                |
 | 142  | {% rauserpic ILLSeaBass %}           | 9/27/2017     | 8                |
 | 143  | {% rauserpic rexpowercolt12 %}       | 9/27/2017     | 8                |
 | 144  | {% rauserpic BenZ2k3 %}              | 9/28/2017     | 8                |
@@ -198,7 +198,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 149  | {% rauserpic ChargedShot %}          | 9/30/2017     | 8                |
 | 150  | {% rauserpic SheepSword %}           | 9/30/2017     | 8                |
 | 151  | {% rauserpic LingFox %}              | 9/30/2017     | 8                |
-| 152  | {% rauserpic Jacobgharibian %}       | 9/30/2017     | 8                |
+| 152  | {% rauserpicalt Speeedman, Jacobgharibian %}       | 9/30/2017     | 8                |
 | 153  | {% rauserpic Aicaya %}               | 9/1/2018      | 7                |
 | 154  | {% rauserpic KirinoKirisame %}       | 9/1/2018      | 7                |
 | 155  | {% rauserpic tedsticals %}           | 9/2/2018      | 7                |
@@ -209,7 +209,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 160  | {% rauserpic HolyShinx %}            | 9/4/2018      | 7                |
 | 161  | {% rauserpic LexBigBoss %}           | 9/4/2018      | 7                |
 | 162  | {% rauserpic gauxel %}               | 9/5/2018      | 7                |
-| 163  | {% rauserpic bjoehanna %}            | 9/5/2018      | 7                |
+| 163  | {% rauserpicalt BorisTheTreeSlime, bjoehanna %}            | 9/5/2018      | 7                |
 | 164  | {% rauserpic Kkove %}                | 9/6/2018      | 7                |
 | 165  | {% rauserpic Sagusky %}              | 9/6/2018      | 7                |
 | 166  | {% rauserpic Sabpai %}               | 9/6/2018      | 7                |
@@ -225,7 +225,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 176  | {% rauserpic Marcelo85antunes %}     | 9/9/2018      | 7                |
 | 177  | {% rauserpic RetroPlay007 %}         | 9/9/2018      | 7                |
 | 178  | {% rauserpic variablebk %}           | 9/10/2018     | 7                |
-| 179  | {% rauserpic xhollowxonex %}         | 9/10/2018     | 7                |
+| 179  | {% rauserpicalt Lown, xhollowxonex %}         | 9/10/2018     | 7                |
 | 180  | {% rauserpic spaingel %}             | 9/10/2018     | 7                |
 | 181  | {% rauserpic Eddieboy %}             | 9/11/2018     | 7                |
 | 182  | {% rauserpic edwiitos %}             | 9/11/2018     | 7                |
@@ -233,7 +233,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 184  | {% rauserpic soroxas94 %}            | 9/13/2018     | 7                |
 | 185  | {% rauserpic jumphil %}              | 9/14/2018     | 7                |
 | 186  | {% rauserpic bilcassonato %}         | 9/14/2018     | 7                |
-| 187  | {% rauserpic HeickF77 %}             | 9/14/2018     | 7                |
+| 187  | {% rauserpicalt Martiello77, HeickF77 %}             | 9/14/2018     | 7                |
 | 188  | {% rauserpic IcePhoenix %}           | 9/14/2018     | 7                |
 | 189  | {% rauserpic Sk8erBoi %}             | 9/15/2018     | 7                |
 | 190  | {% rauserpic MattressMan %}          | 9/15/2018     | 7                |
@@ -250,7 +250,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 201  | {% rauserpic Valtiel %}              | 9/18/2018     | 7                |
 | 202  | {% rauserpic ShadVX %}               | 9/18/2018     | 7                |
 | 203  | {% rauserpic ArturMK %}              | 9/18/2018     | 7                |
-| 204  | {% rauserpic TeevoTron %}            | 9/18/2018     | 7                |
+| 204  | {% rauserpicalt Toronikus, TeevoTron %}            | 9/18/2018     | 7                |
 | 205  | {% rauserpic R3F1N %}                | 9/19/2018     | 7                |
 | 206  | {% rauserpic hellobion %}            | 9/21/2018     | 7                |
 | 207  | {% rauserpic MagicSoup %}            | 9/21/2018     | 7                |
@@ -273,7 +273,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 224  | {% rauserpic adry %}                 | 9/26/2018     | 7                |
 | 225  | {% rauserpic Alerum68 %}             | 9/27/2018     | 7                |
 | 226  | {% rauserpic Konamon %}              | 9/28/2018     | 7                |
-| 227  | {% rauserpic KaiPhoenix %}           | 9/28/2018     | 7                |
+| 227  | {% rauserpicalt LoveDeathAway, KaiPhoenix %}           | 9/28/2018     | 7                |
 | 228  | {% rauserpic Mayconsan01 %}          | 9/29/2018     | 7                |
 | 229  | {% rauserpic stevejjones %}          | 9/29/2018     | 7                |
 | 230  | {% rauserpic Bek %}                  | 9/29/2018     | 7                |
@@ -281,12 +281,12 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 232  | {% rauserpic Ragnite %}              | 9/29/2018     | 7                |
 | 233  | {% rauserpic Ashwell520 %}           | 9/29/2018     | 7                |
 | 234  | {% rauserpic BlueNinja0 %}           | 9/29/2018     | 7                |
-| 235  | {% rauserpic CoreTaku2 %}            | 9/30/2018     | 7                |
+| 235  | {% rauserpicalt Babamsuhka, CoreTaku2 %}            | 9/30/2018     | 7                |
 | 236  | {% rauserpic JuddyPlays %}           | 9/30/2018     | 7                |
 | 237  | {% rauserpic badsanta %}             | 9/30/2018     | 7                |
 | 238  | {% rauserpic TerrisGeolith %}        | 9/30/2018     | 7                |
 | 239  | {% rauserpic Heros %}                | 9/30/2018     | 7                |
-| 240  | {% rauserpic Gastonfer2005 %}        | 9/1/2019      | 6                |
+| 240  | {% rauserpicalt GT12315, Gastonfer2005 %}        | 9/1/2019      | 6                |
 | 241  | {% rauserpic MKLIUKANG1 %}           | 9/1/2019      | 6                |
 | 242  | {% rauserpic Smash45 %}              | 9/1/2019      | 6                |
 | 243  | {% rauserpic ZiggityZach %}          | 9/1/2019      | 6                |
@@ -312,11 +312,11 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 263  | {% rauserpic sorlok %}               | 9/6/2019      | 6                |
 | 264  | {% rauserpic NunesVitor82 %}         | 9/7/2019      | 6                |
 | 265  | {% rauserpic Kirby64tcs %}           | 9/7/2019      | 6                |
-| 266  | {% rauserpic MegaZ %}                | 9/7/2019      | 6                |
+| 266  | {% rauserpicalt kousakarenji, MegaZ %}                | 9/7/2019      | 6                |
 | 267  | {% rauserpic LuizDavid01 %}          | 9/7/2019      | 6                |
 | 268  | {% rauserpic SaberX %}               | 9/8/2019      | 6                |
-| 269  | {% rauserpic hugohikari %}           | 9/8/2019      | 6                |
-| 270  | {% rauserpic TioHorse %}             | 9/8/2019      | 6                |
+| 269  | {% rauserpicalt hugettehikari, hugohikari %}           | 9/8/2019      | 6                |
+| 270  | {% rauserpicalt TioPaulera, TioHorse %}             | 9/8/2019      | 6                |
 | 271  | {% rauserpic cbranco81 %}            | 9/8/2019      | 6                |
 | 272  | {% rauserpic senorhappy41 %}         | 9/8/2019      | 6                |
 | 273  | {% rauserpic rcorretjer %}           | 9/9/2019      | 6                |
@@ -344,7 +344,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 295  | {% rauserpic UPsDeco %}              | 9/13/2019     | 6                |
 | 296  | {% rauserpic UberBruce %}            | 9/14/2019     | 6                |
 | 297  | {% rauserpic RetroGamingAsylum %}    | 9/14/2019     | 6                |
-| 298  | {% rauserpic peseki %}               | 9/15/2019     | 6                |
+| 298  | {% rauserpicalt oriname, peseki %}               | 9/15/2019     | 6                |
 | 299  | {% rauserpic ramonplayerone %}       | 9/15/2019     | 6                |
 | 300  | {% rauserpic XRikishiX %}            | 9/15/2019     | 6                |
 | 301  | {% rauserpic r2rangel %}             | 9/15/2019     | 6                |
@@ -372,15 +372,15 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 323  | {% rauserpic oPax %}                 | 9/21/2019     | 6                |
 | 324  | {% rauserpic DECART %}               | 9/21/2019     | 6                |
 | 325  | {% rauserpic wd %}                   | 9/22/2019     | 6                |
-| 326  | {% rauserpic WylAyres %}             | 9/22/2019     | 6                |
+| 326  | {% rauserpicalt KoishiFGC, WylAyres %}             | 9/22/2019     | 6                |
 | 327  | {% rauserpic Deso561 %}              | 9/22/2019     | 6                |
 | 328  | {% rauserpic Chokado %}              | 9/22/2019     | 6                |
-| 329  | {% rauserpic Sotnemom %}             | 9/23/2019     | 6                |
+| 329  | {% rauserpicalt Neosyndicate, Sotnemom %}             | 9/23/2019     | 6                |
 | 330  | {% rauserpic Bl4h8L4hBl4h %}         | 9/23/2019     | 6                |
 | 331  | {% rauserpic Noodleneck %}           | 9/24/2019     | 6                |
 | 332  | {% rauserpic Sariden %}              | 9/24/2019     | 6                |
 | 333  | {% rauserpic flabex77 %}             | 9/25/2019     | 6                |
-| 334  | {% rauserpic njandre31 %}            | 9/25/2019     | 6                |
+| 334  | {% rauserpicalt Jandre31, njandre31 %}            | 9/25/2019     | 6                |
 | 335  | {% rauserpic KravicUnit %}           | 9/26/2019     | 6                |
 | 336  | {% rauserpic Miggy %}                | 9/27/2019     | 6                |
 | 337  | {% rauserpic Happyhappymatt %}       | 9/29/2019     | 6                |
@@ -390,11 +390,11 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 341  | {% rauserpic Darkrai %}              | 9/29/2019     | 6                |
 | 342  | {% rauserpic Catlin %}               | 9/30/2019     | 6                |
 | 343  | {% rauserpic AyySenti %}             | 9/1/2020      | 5                |
-| 344  | {% rauserpic shadow64dd %}           | 9/2/2020      | 5                |
+| 344  | {% rauserpicalt supersonic64dd, shadow64dd %}           | 9/2/2020      | 5                |
 | 345  | {% rauserpic ClaytonPoweredUp %}     | 9/2/2020      | 5                |
 | 346  | {% rauserpic pettrycck %}            | 9/2/2020      | 5                |
 | 347  | {% rauserpic thatguyjet %}           | 9/2/2020      | 5                |
-| 348  | {% rauserpic Rafateus %}             | 9/2/2020      | 5                |
+| 348  | {% rauserpicalt RafaelVB, Rafateus %}             | 9/2/2020      | 5                |
 | 349  | {% rauserpic Diieehl %}              | 9/2/2020      | 5                |
 | 350  | {% rauserpic GussX0 %}               | 9/2/2020      | 5                |
 | 351  | {% rauserpic BeatdownTV %}           | 9/2/2020      | 5                |
@@ -409,7 +409,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 360  | {% rauserpic Brouwer519 %}           | 9/3/2020      | 5                |
 | 361  | {% rauserpic Layton %}               | 9/4/2020      | 5                |
 | 362  | {% rauserpic Aethis %}               | 9/4/2020      | 5                |
-| 363  | {% rauserpic TheDanSixx %}           | 9/4/2020      | 5                |
+| 363  | {% rauserpicalt AE0N, TheDanSixx %}           | 9/4/2020      | 5                |
 | 364  | {% rauserpic mepp %}                 | 9/4/2020      | 5                |
 | 365  | {% rauserpic Gabbo %}                | 9/4/2020      | 5                |
 | 366  | {% rauserpic toguroMax %}            | 9/4/2020      | 5                |
@@ -439,10 +439,10 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 390  | {% rauserpic winijaw82 %}            | 9/9/2020      | 5                |
 | 391  | {% rauserpic Ottobot280 %}           | 9/9/2020      | 5                |
 | 392  | {% rauserpic Liquidskills %}         | 9/9/2020      | 5                |
-| 393  | {% rauserpic sam4594 %}              | 9/9/2020      | 5                |
+| 393  | {% rauserpicalt BushidoBug, sam4594 %}              | 9/9/2020      | 5                |
 | 394  | {% rauserpic gamegirl878 %}          | 9/9/2020      | 5                |
-| 395  | {% rauserpic RustyJimjob45 %}        | 9/10/2020     | 5                |
-| 396  | {% rauserpic diskrzs %}              | 9/10/2020     | 5                |
+| 395  | {% rauserpicalt NiftyNinja65, RustyJimjob45 %}        | 9/10/2020     | 5                |
+| 396  | {% rauserpicalt cyristm, diskrzs %}              | 9/10/2020     | 5                |
 | 397  | {% rauserpic Calldwr %}              | 9/10/2020     | 5                |
 | 398  | {% rauserpic cjblackace %}           | 9/10/2020     | 5                |
 | 399  | {% rauserpic Zibang %}               | 9/10/2020     | 5                |
@@ -506,22 +506,22 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 457  | {% rauserpic idece %}                | 9/23/2020     | 5                |
 | 458  | {% rauserpic Henbruh %}              | 9/23/2020     | 5                |
 | 459  | {% rauserpic Blankult %}             | 9/24/2020     | 5                |
-| 460  | {% rauserpic TheSoulGuardian %}      | 9/24/2020     | 5                |
+| 460  | {% rauserpicalt FatelessBard, TheSoulGuardian %}      | 9/24/2020     | 5                |
 | 461  | {% rauserpic CMatador %}             | 9/24/2020     | 5                |
 | 462  | {% rauserpic TemmieKaz %}            | 9/24/2020     | 5                |
-| 463  | {% rauserpic FreddyBadAdd %}         | 9/24/2020     | 5                |
+| 463  | {% rauserpicalt Meruru, FreddyBadAdd %}         | 9/24/2020     | 5                |
 | 464  | {% rauserpic PREDATORGAMING9 %}      | 9/25/2020     | 5                |
 | 465  | {% rauserpic Luissi %}               | 9/25/2020     | 5                |
 | 466  | {% rauserpic blood %}                | 9/25/2020     | 5                |
 | 467  | {% rauserpic PhyrianProductions %}   | 9/25/2020     | 5                |
 | 468  | {% rauserpic valeforge %}            | 9/25/2020     | 5                |
-| 469  | {% rauserpic bigbwo %}               | 9/25/2020     | 5                |
+| 469  | {% rauserpicalt Mooxie, bigbwo %}               | 9/25/2020     | 5                |
 | 470  | {% rauserpic Ita1ord %}              | 9/25/2020     | 5                |
 | 471  | {% rauserpic kofkang %}              | 9/26/2020     | 5                |
 | 472  | {% rauserpic St3v0 %}                | 9/26/2020     | 5                |
 | 473  | {% rauserpic maxdlpee %}             | 9/26/2020     | 5                |
 | 474  | {% rauserpic ashmedie %}             | 9/26/2020     | 5                |
-| 475  | {% rauserpic Supersam5776 %}         | 9/26/2020     | 5                |
+| 475  | {% rauserpicalt PajamaSamuel, Supersam5776 %}         | 9/26/2020     | 5                |
 | 476  | {% rauserpic RedoX %}                | 9/26/2020     | 5                |
 | 477  | {% rauserpic aafoster34 %}           | 9/26/2020     | 5                |
 | 478  | {% rauserpic BeardedSonOfNel %}      | 9/27/2020     | 5                |
@@ -562,7 +562,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 513  | {% rauserpic zDianasaur %}           | 9/4/2021      | 4                |
 | 514  | {% rauserpic aujus %}                | 9/4/2021      | 4                |
 | 515  | {% rauserpic Titii009 %}             | 9/4/2021      | 4                |
-| 516  | {% rauserpic flotheclo %}            | 9/4/2021      | 4                |
+| 516  | {% rauserpicalt leBalliste, flotheclo %}            | 9/4/2021      | 4                |
 | 517  | {% rauserpic Gregolas %}             | 9/4/2021      | 4                |
 | 518  | {% rauserpic bunniesperhaps %}       | 9/5/2021      | 4                |
 | 519  | {% rauserpic Sm0r3s %}               | 9/5/2021      | 4                |
@@ -584,7 +584,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 535  | {% rauserpic 4thSurvivor %}          | 9/7/2021      | 4                |
 | 536  | {% rauserpic cbalder4 %}             | 9/7/2021      | 4                |
 | 537  | {% rauserpic EXITdotEXE %}           | 9/7/2021      | 4                |
-| 538  | {% rauserpic zynich %}               | 9/7/2021      | 4                |
+| 538  | {% rauserpicalt Zuth, zynich %}               | 9/7/2021      | 4                |
 | 539  | {% rauserpic poseido %}              | 9/7/2021      | 4                |
 | 540  | {% rauserpic KrestelRose %}          | 9/7/2021      | 4                |
 | 541  | {% rauserpic t35t80t %}              | 9/7/2021      | 4                |
@@ -638,7 +638,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 589  | {% rauserpic Peterwolf %}            | 9/13/2021     | 4                |
 | 590  | {% rauserpic Burbey %}               | 9/13/2021     | 4                |
 | 591  | {% rauserpic Bittercup %}            | 9/13/2021     | 4                |
-| 592  | {% rauserpic CrashingSnake %}        | 9/13/2021     | 4                |
+| 592  | {% rauserpicalt DarknessR, CrashingSnake %}        | 9/13/2021     | 4                |
 | 593  | {% rauserpic cptstrawdrumm2022 %}    | 9/13/2021     | 4                |
 | 594  | {% rauserpic marc720 %}              | 9/13/2021     | 4                |
 | 595  | {% rauserpic splint314 %}            | 9/13/2021     | 4                |
@@ -659,8 +659,8 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 610  | {% rauserpic healape %}              | 9/14/2021     | 4                |
 | 611  | {% rauserpic exfaux %}               | 9/14/2021     | 4                |
 | 612  | {% rauserpic NobunagaODA2 %}         | 9/14/2021     | 4                |
-| 613  | {% rauserpic Fuzion9 %}              | 9/14/2021     | 4                |
-| 614  | {% rauserpic Uuggaa %}               | 9/14/2021     | 4                |
+| 613  | {% rauserpicalt KungKaos, Fuzion9 %}              | 9/14/2021     | 4                |
+| 614  | {% rauserpicalt PenguStyx, Uuggaa %}               | 9/14/2021     | 4                |
 | 615  | {% rauserpic SevenHas %}             | 9/14/2021     | 4                |
 | 616  | {% rauserpic Verhey %}               | 9/14/2021     | 4                |
 | 617  | {% rauserpic CrimsonRed %}           | 9/14/2021     | 4                |
@@ -713,14 +713,14 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 664  | {% rauserpic Exmortis369 %}          | 9/17/2021     | 4                |
 | 665  | {% rauserpic SaylorSez %}            | 9/17/2021     | 4                |
 | 666  | {% rauserpic Garrettin %}            | 9/17/2021     | 4                |
-| 667  | {% rauserpic MrHorns001 %}           | 9/17/2021     | 4                |
+| 667  | {% rauserpicalt TailsAndNineFan2, MrHorns001 %}           | 9/17/2021     | 4                |
 | 668  | {% rauserpic PagleKettle %}          | 9/17/2021     | 4                |
 | 669  | {% rauserpic Jackoz %}               | 9/17/2021     | 4                |
 | 670  | {% rauserpic medick1511 %}           | 9/17/2021     | 4                |
 | 671  | {% rauserpic HaruCookieBR %}         | 9/17/2021     | 4                |
 | 672  | {% rauserpic BaHamanCheembs %}       | 9/17/2021     | 4                |
 | 673  | {% rauserpic Propanator %}           | 9/17/2021     | 4                |
-| 674  | {% rauserpic ayanoaishi7 %}          | 9/17/2021     | 4                |
+| 674  | {% rauserpicalt zetaplaysx, ayanoaishi7 %}          | 9/17/2021     | 4                |
 | 675  | {% rauserpic Kirlian %}              | 9/17/2021     | 4                |
 | 676  | {% rauserpic M1132 %}                | 9/17/2021     | 4                |
 | 677  | {% rauserpic zezineeo %}             | 9/17/2021     | 4                |
@@ -739,7 +739,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 690  | {% rauserpic nomoreheroes182 %}      | 9/18/2021     | 4                |
 | 691  | {% rauserpic Stabicron %}            | 9/18/2021     | 4                |
 | 692  | {% rauserpic KidShinigami %}         | 9/19/2021     | 4                |
-| 693  | {% rauserpic Willdarkshade %}        | 9/19/2021     | 4                |
+| 693  | {% rauserpicalt Gagogamer94, Willdarkshade %}        | 9/19/2021     | 4                |
 | 694  | {% rauserpic roukanumachi %}         | 9/19/2021     | 4                |
 | 695  | {% rauserpic technomancer21 %}       | 9/19/2021     | 4                |
 | 696  | {% rauserpic lewiswake %}            | 9/19/2021     | 4                |
@@ -770,7 +770,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 721  | {% rauserpic syphon2399 %}           | 9/21/2021     | 4                |
 | 722  | {% rauserpic Gonzarudo %}            | 9/21/2021     | 4                |
 | 723  | {% rauserpic mokadyn %}              | 9/21/2021     | 4                |
-| 724  | {% rauserpic WeskerHunk %}           | 9/21/2021     | 4                |
+| 724  | {% rauserpicalt Luna446, WeskerHunk %}           | 9/21/2021     | 4                |
 | 725  | {% rauserpic KiriGuy %}              | 9/21/2021     | 4                |
 | 726  | {% rauserpic javigar322 %}           | 9/21/2021     | 4                |
 | 727  | {% rauserpic Mrakobes91 %}           | 9/21/2021     | 4                |
@@ -779,13 +779,13 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 730  | {% rauserpic Rokku05 %}              | 9/21/2021     | 4                |
 | 731  | {% rauserpic sephi95 %}              | 9/21/2021     | 4                |
 | 732  | {% rauserpic SirGuga %}              | 9/21/2021     | 4                |
-| 733  | {% rauserpic turbogrowl %}           | 9/22/2021     | 4                |
+| 733  | {% rauserpicalt cclaypool1, turbogrowl %}           | 9/22/2021     | 4                |
 | 734  | {% rauserpic ArmasFM %}              | 9/22/2021     | 4                |
 | 735  | {% rauserpic CampingCarl %}          | 9/22/2021     | 4                |
 | 736  | {% rauserpic AbKun %}                | 9/22/2021     | 4                |
 | 737  | {% rauserpic Nioobers %}             | 9/22/2021     | 4                |
 | 738  | {% rauserpic 7Works %}               | 9/22/2021     | 4                |
-| 739  | {% rauserpic Every %}                | 9/22/2021     | 4                |
+| 739  | {% rauserpicalt Kekkeri, Every %}                | 9/22/2021     | 4                |
 | 740  | {% rauserpic Crimsondrgn %}          | 9/22/2021     | 4                |
 | 741  | {% rauserpic chuly2018 %}            | 9/22/2021     | 4                |
 | 742  | {% rauserpic Malouin666 %}           | 9/22/2021     | 4                |
@@ -815,7 +815,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 766  | {% rauserpic Evequill %}             | 9/25/2021     | 4                |
 | 767  | {% rauserpic Mariocraft2014 %}       | 9/25/2021     | 4                |
 | 768  | {% rauserpic Acidtearz111 %}         | 9/25/2021     | 4                |
-| 769  | {% rauserpic Liric %}                | 9/25/2021     | 4                |
+| 769  | {% rauserpicalt Lerahk, Liric %}                | 9/25/2021     | 4                |
 | 770  | {% rauserpic Boxx %}                 | 9/25/2021     | 4                |
 | 771  | {% rauserpic matheusbelmont92 %}     | 9/25/2021     | 4                |
 | 772  | {% rauserpic zavi %}                 | 9/26/2021     | 4                |
@@ -825,7 +825,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 776  | {% rauserpic sick %}                 | 9/26/2021     | 4                |
 | 777  | {% rauserpic YamatoVergil %}         | 9/26/2021     | 4                |
 | 778  | {% rauserpic Blushfulcorn %}         | 9/26/2021     | 4                |
-| 779  | {% rauserpic ricardo211y7 %}         | 9/26/2021     | 4                |
+| 779  | {% rauserpicalt Misakiel, ricardo211y7 %}         | 9/26/2021     | 4                |
 | 780  | {% rauserpic ComradeChomper %}       | 9/26/2021     | 4                |
 | 781  | {% rauserpic Kyshme %}               | 9/26/2021     | 4                |
 | 782  | {% rauserpic Krupupakku %}           | 9/26/2021     | 4                |
@@ -862,7 +862,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 813  | {% rauserpic Badger9 %}              | 9/1/2022      | 3                |
 | 814  | {% rauserpic keyzeey %}              | 9/1/2022      | 3                |
 | 815  | {% rauserpic beefcakezenki %}        | 9/1/2022      | 3                |
-| 816  | {% rauserpic Uzbek081 %}             | 9/1/2022      | 3                |
+| 816  | {% rauserpicalt EbunDikiyPihar, Uzbek081 %}             | 9/1/2022      | 3                |
 | 817  | {% rauserpic wvpinball %}            | 9/1/2022      | 3                |
 | 818  | {% rauserpic NemesisXploder %}       | 9/1/2022      | 3                |
 | 819  | {% rauserpic krehztim %}             | 9/1/2022      | 3                |
@@ -894,12 +894,12 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 845  | {% rauserpic NuikopeaDemon %}        | 9/4/2022      | 3                |
 | 846  | {% rauserpic BigCityDwight %}        | 9/4/2022      | 3                |
 | 847  | {% rauserpic Breembin %}             | 9/4/2022      | 3                |
-| 848  | {% rauserpic seiryu %}               | 9/4/2022      | 3                |
+| 848  | {% rauserpicalt rxnscade, seiryu %}               | 9/4/2022      | 3                |
 | 849  | {% rauserpic JoltsyIsNotHere %}      | 9/4/2022      | 3                |
 | 850  | {% rauserpic neighbornova %}         | 9/4/2022      | 3                |
 | 851  | {% rauserpic Rouhei %}               | 9/4/2022      | 3                |
 | 852  | {% rauserpic HappySharks92 %}        | 9/4/2022      | 3                |
-| 853  | {% rauserpic FriskGeno95 %}          | 9/4/2022      | 3                |
+| 853  | {% rauserpicalt NicolauPiresGamer, FriskGeno95 %}          | 9/4/2022      | 3                |
 | 854  | {% rauserpic playerglx2020 %}        | 9/4/2022      | 3                |
 | 855  | {% rauserpic Cynicus26 %}            | 9/4/2022      | 3                |
 | 856  | {% rauserpic boburning %}            | 9/5/2022      | 3                |
@@ -920,7 +920,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 871  | {% rauserpic fatalbustpc %}          | 9/6/2022      | 3                |
 | 872  | {% rauserpic CorruptOutcast %}       | 9/6/2022      | 3                |
 | 873  | {% rauserpic Neonguy79 %}            | 9/6/2022      | 3                |
-| 874  | {% rauserpic bbaauuiiss %}           | 9/6/2022      | 3                |
+| 874  | {% rauserpicalt RocketDoggie, bbaauuiiss %}           | 9/6/2022      | 3                |
 | 875  | {% rauserpic Didio %}                | 9/7/2022      | 3                |
 | 876  | {% rauserpic Wilfride %}             | 9/7/2022      | 3                |
 | 877  | {% rauserpic PaulGoesDEV %}          | 9/7/2022      | 3                |
@@ -965,8 +965,8 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 916  | {% rauserpic Hobin %}                | 9/11/2022     | 3                |
 | 917  | {% rauserpic RobbieD3King %}         | 9/11/2022     | 3                |
 | 918  | {% rauserpic 11closed %}             | 9/11/2022     | 3                |
-| 919  | {% rauserpic AndrewMint %}           | 9/12/2022     | 3                |
-| 920  | {% rauserpic Kingshodd %}            | 9/12/2022     | 3                |
+| 919  | {% rauserpicalt NigelMint, AndrewMint %}           | 9/12/2022     | 3                |
+| 920  | {% rauserpicalt CerTaFied, Kingshodd %}            | 9/12/2022     | 3                |
 | 921  | {% rauserpic Soccerpro %}            | 9/12/2022     | 3                |
 | 922  | {% rauserpic AlexChan21 %}           | 9/12/2022     | 3                |
 | 923  | {% rauserpic chvtky %}               | 9/12/2022     | 3                |
@@ -997,7 +997,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 948  | {% rauserpic Yuutsurami %}           | 9/13/2022     | 3                |
 | 949  | {% rauserpic Daskillz %}             | 9/13/2022     | 3                |
 | 950  | {% rauserpic Nilll %}                | 9/13/2022     | 3                |
-| 951  | {% rauserpic CasheerMkII %}          | 9/13/2022     | 3                |
+| 951  | {% rauserpicalt Casheer, CasheerMkII %}          | 9/13/2022     | 3                |
 | 952  | {% rauserpic fs0ciety1462 %}         | 9/14/2022     | 3                |
 | 953  | {% rauserpic switchu %}              | 9/14/2022     | 3                |
 | 954  | {% rauserpic Toshindon %}            | 9/14/2022     | 3                |
@@ -1065,7 +1065,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1016 | {% rauserpic pickman23 %}            | 9/19/2022     | 3                |
 | 1017 | {% rauserpic Ninjafig5676 %}         | 9/19/2022     | 3                |
 | 1018 | {% rauserpic SLOwinilero %}          | 9/19/2022     | 3                |
-| 1019 | {% rauserpic Fortystation10 %}       | 9/19/2022     | 3                |
+| 1019 | {% rauserpicalt PixelPerfect69, Fortystation10 %}       | 9/19/2022     | 3                |
 | 1020 | {% rauserpic drbuni %}               | 9/19/2022     | 3                |
 | 1021 | {% rauserpic sevenheavenhaven %}     | 9/19/2022     | 3                |
 | 1022 | {% rauserpic Sjonki %}               | 9/19/2022     | 3                |
@@ -1074,7 +1074,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1025 | {% rauserpic DaniWoX %}              | 9/19/2022     | 3                |
 | 1026 | {% rauserpic BullyBix %}             | 9/20/2022     | 3                |
 | 1027 | {% rauserpic SonVictorHX %}          | 9/20/2022     | 3                |
-| 1028 | {% rauserpic PadPixYT %}             | 9/20/2022     | 3                |
+| 1028 | {% rauserpicalt PadPixNSFW, PadPixYT %}             | 9/20/2022     | 3                |
 | 1029 | {% rauserpic regysredfield %}        | 9/20/2022     | 3                |
 | 1030 | {% rauserpic Mavrinac %}             | 9/20/2022     | 3                |
 | 1031 | {% rauserpic DariusKR7 %}            | 9/20/2022     | 3                |
@@ -1082,7 +1082,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1033 | {% rauserpic B1RD %}                 | 9/20/2022     | 3                |
 | 1034 | {% rauserpic currywycoff %}          | 9/20/2022     | 3                |
 | 1035 | {% rauserpic PaladinPookie %}        | 9/20/2022     | 3                |
-| 1036 | {% rauserpic visca %}                | 9/21/2022     | 3                |
+| 1036 | {% rauserpicalt RysaL, visca %}                | 9/21/2022     | 3                |
 | 1037 | {% rauserpic waffledew %}            | 9/21/2022     | 3                |
 | 1038 | {% rauserpic rabenter %}             | 9/21/2022     | 3                |
 | 1039 | {% rauserpic stizzle %}              | 9/21/2022     | 3                |
@@ -1098,11 +1098,11 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1049 | {% rauserpic CaptainCthulhu %}       | 9/22/2022     | 3                |
 | 1050 | {% rauserpic Messmerize %}           | 9/22/2022     | 3                |
 | 1051 | {% rauserpic JustScott %}            | 9/22/2022     | 3                |
-| 1052 | {% rauserpic Velocifaptor %}         | 9/22/2022     | 3                |
+| 1052 | {% rauserpicalt MoonMother, Velocifaptor %}         | 9/22/2022     | 3                |
 | 1053 | {% rauserpic sansburro %}            | 9/22/2022     | 3                |
 | 1054 | {% rauserpic HitguyBR %}             | 9/22/2022     | 3                |
 | 1055 | {% rauserpic SpykSaturn %}           | 9/22/2022     | 3                |
-| 1056 | {% rauserpic AnneFrankFanfiction %}  | 9/23/2022     | 3                |
+| 1056 | {% rauserpicalt Wormojt, AnneFrankFanfiction %}  | 9/23/2022     | 3                |
 | 1057 | {% rauserpic iCeParadox64 %}         | 9/23/2022     | 3                |
 | 1058 | {% rauserpic Lukethecool1001 %}      | 9/23/2022     | 3                |
 | 1059 | {% rauserpic LordKingGundam %}       | 9/23/2022     | 3                |
@@ -1133,7 +1133,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1084 | {% rauserpic baboulinetblk %}        | 9/25/2022     | 3                |
 | 1085 | {% rauserpic meiryo %}               | 9/25/2022     | 3                |
 | 1086 | {% rauserpic poxpoxbax %}            | 9/25/2022     | 3                |
-| 1087 | {% rauserpic comfyLenox %}           | 9/25/2022     | 3                |
+| 1087 | {% rauserpicalt LenoxKupo, comfyLenox %}           | 9/25/2022     | 3                |
 | 1088 | {% rauserpic Kim10 %}                | 9/25/2022     | 3                |
 | 1089 | {% rauserpic qcblacklyn %}           | 9/25/2022     | 3                |
 | 1090 | {% rauserpic Sish89 %}               | 9/25/2022     | 3                |
@@ -1162,7 +1162,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1113 | {% rauserpic SerpicoSpoxey %}        | 9/27/2022     | 3                |
 | 1114 | {% rauserpic WebbyPumpkin %}         | 9/27/2022     | 3                |
 | 1115 | {% rauserpic djej7399 %}             | 9/27/2022     | 3                |
-| 1116 | {% rauserpic TeapLoad420 %}          | 9/27/2022     | 3                |
+| 1116 | {% rauserpicalt thisfoo, TeapLoad420 %}          | 9/27/2022     | 3                |
 | 1117 | {% rauserpic crumnut %}              | 9/28/2022     | 3                |
 | 1118 | {% rauserpic willdobbies %}          | 9/28/2022     | 3                |
 | 1119 | {% rauserpic EmmaTheBest %}          | 9/28/2022     | 3                |
@@ -1182,8 +1182,8 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1133 | {% rauserpic KirieNatsuyuko %}       | 9/29/2022     | 3                |
 | 1134 | {% rauserpic BunBunMel %}            | 9/29/2022     | 3                |
 | 1135 | {% rauserpic xenofes %}              | 9/29/2022     | 3                |
-| 1136 | {% rauserpic Steverock83 %}          | 9/29/2022     | 3                |
-| 1137 | {% rauserpic Chmmr %}                | 9/29/2022     | 3                |
+| 1136 | {% rauserpicalt PAPA833, Steverock83 %}          | 9/29/2022     | 3                |
+| 1137 | {% rauserpicalt Chmmrnmhrm, Chmmr %}                | 9/29/2022     | 3                |
 | 1138 | {% rauserpic Seta12 %}               | 9/29/2022     | 3                |
 | 1139 | {% rauserpic ChicagoGrimReaper %}    | 9/29/2022     | 3                |
 | 1140 | {% rauserpic Farofa %}               | 9/30/2022     | 3                |
@@ -1193,7 +1193,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1144 | {% rauserpic mikishad %}             | 9/30/2022     | 3                |
 | 1145 | {% rauserpic TheGamerCanine %}       | 9/30/2022     | 3                |
 | 1146 | {% rauserpic MadRayne %}             | 9/30/2022     | 3                |
-| 1147 | {% rauserpic Dakr %}                 | 9/30/2022     | 3                |
+| 1147 | {% rauserpicalt snowyzia, Dakr %}                 | 9/30/2022     | 3                |
 | 1148 | {% rauserpic Cookinapster %}         | 9/30/2022     | 3                |
 | 1149 | {% rauserpic ChrisHank %}            | 09/01/2023    | 2                |
 | 1150 | {% rauserpic svgomess %}             | 09/01/2023    | 2                |
@@ -1201,7 +1201,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1152 | {% rauserpic DekuNut %}              | 09/01/2023    | 2                |
 | 1153 | {% rauserpic Darkfr0st %}            | 09/01/2023    | 2                |
 | 1154 | {% rauserpic jodosh %}               | 09/01/2023    | 2                |
-| 1155 | {% rauserpic untilde %}              | 09/01/2023    | 2                |
+| 1155 | {% rauserpicalt gnkdroid, untilde %}              | 09/01/2023    | 2                |
 | 1156 | {% rauserpic MecarregA %}            | 09/01/2023    | 2                |
 | 1157 | {% rauserpic Lommo420 %}             | 09/01/2023    | 2                |
 | 1158 | {% rauserpic OmegaDawnB %}           | 09/01/2023    | 2                |
@@ -1212,7 +1212,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1163 | {% rauserpic IanZzz %}               | 09/01/2023    | 2                |
 | 1164 | {% rauserpic rising %}               | 09/01/2023    | 2                |
 | 1165 | {% rauserpic AwCrap971 %}            | 09/01/2023    | 2                |
-| 1166 | {% rauserpic sandinesta %}           | 09/01/2023    | 2                |
+| 1166 | {% rauserpicalt NestaSacredhart, sandinesta %}           | 09/01/2023    | 2                |
 | 1167 | {% rauserpic zomzom82 %}             | 09/01/2023    | 2                |
 | 1168 | {% rauserpic anonzen %}              | 09/01/2023    | 2                |
 | 1169 | {% rauserpic belzac %}               | 09/02/2023    | 2                |
@@ -1272,7 +1272,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1223 | {% rauserpic Lahey %}                | 09/05/2023    | 2                |
 | 1224 | {% rauserpic Varsonix %}             | 09/05/2023    | 2                |
 | 1225 | {% rauserpic foxcek %}               | 09/05/2023    | 2                |
-| 1226 | {% rauserpic cafezim12 %}            | 09/05/2023    | 2                |
+| 1226 | {% rauserpicalt Hisatsu, cafezim12 %}            | 09/05/2023    | 2                |
 | 1227 | {% rauserpic GrundleBundle %}        | 09/06/2023    | 2                |
 | 1228 | {% rauserpic SpookyNoob %}           | 09/06/2023    | 2                |
 | 1229 | {% rauserpic Ale613 %}               | 09/06/2023    | 2                |
@@ -1280,16 +1280,16 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1231 | {% rauserpic midoriribbon %}         | 09/06/2023    | 2                |
 | 1232 | {% rauserpic Neiltendo %}            | 09/06/2023    | 2                |
 | 1233 | {% rauserpic Yomo2023 %}             | 09/06/2023    | 2                |
-| 1234 | {% rauserpic Praxia %}               | 09/06/2023    | 2                |
+| 1234 | {% rauserpicalt M3GAWO0Z, Praxia %}               | 09/06/2023    | 2                |
 | 1235 | {% rauserpic Fliboce %}              | 09/06/2023    | 2                |
 | 1236 | {% rauserpic UwURes %}               | 09/06/2023    | 2                |
 | 1237 | {% rauserpic Candyiela %}            | 09/06/2023    | 2                |
 | 1238 | {% rauserpic Aphral %}               | 09/06/2023    | 2                |
-| 1239 | {% rauserpic Thigos %}               | 09/06/2023    | 2                |
+| 1239 | {% rauserpicalt SirThiago, Thigos %}               | 09/06/2023    | 2                |
 | 1240 | {% rauserpic catmanmeows %}          | 09/06/2023    | 2                |
 | 1241 | {% rauserpic f01under %}             | 09/06/2023    | 2                |
 | 1242 | {% rauserpic RulleKugleOle %}        | 09/06/2023    | 2                |
-| 1243 | {% rauserpic JessIsInDresses %}      | 09/06/2023    | 2                |
+| 1243 | {% rauserpicalt AsukaLShoryuken, JessIsInDresses %}      | 09/06/2023    | 2                |
 | 1244 | {% rauserpic pheff %}                | 09/06/2023    | 2                |
 | 1245 | {% rauserpic davidcarbonis %}        | 09/06/2023    | 2                |
 | 1246 | {% rauserpic Pannn1 %}               | 09/06/2023    | 2                |
@@ -1298,7 +1298,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1249 | {% rauserpic karmaqu %}              | 09/06/2023    | 2                |
 | 1250 | {% rauserpic braragao1 %}            | 09/06/2023    | 2                |
 | 1251 | {% rauserpic ThatOneAxe %}           | 09/07/2023    | 2                |
-| 1252 | {% rauserpic GeodudeGaming %}        | 09/07/2023    | 2                |
+| 1252 | {% rauserpicalt TheGlitchyGe0, GeodudeGaming %}        | 09/07/2023    | 2                |
 | 1253 | {% rauserpic Kaleish %}              | 09/07/2023    | 2                |
 | 1254 | {% rauserpic KronicTheGreat %}       | 09/07/2023    | 2                |
 | 1255 | {% rauserpic Mayannaise %}           | 09/07/2023    | 2                |
@@ -1306,7 +1306,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1257 | {% rauserpic Sekitor %}              | 09/07/2023    | 2                |
 | 1258 | {% rauserpic ScegfOd %}              | 09/07/2023    | 2                |
 | 1259 | {% rauserpic larafernandes %}        | 09/07/2023    | 2                |
-| 1260 | {% rauserpic iwillpwnu179 %}         | 09/07/2023    | 2                |
+| 1260 | {% rauserpicalt ARecoveringCynic, iwillpwnu179 %}         | 09/07/2023    | 2                |
 | 1261 | {% rauserpic Lonotrin %}             | 09/07/2023    | 2                |
 | 1262 | {% rauserpic kingxlink %}            | 09/07/2023    | 2                |
 | 1263 | {% rauserpic Troublesome %}          | 09/07/2023    | 2                |
@@ -1330,9 +1330,9 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1281 | {% rauserpic SableMage %}            | 09/08/2023    | 2                |
 | 1282 | {% rauserpic Vendisok %}             | 09/08/2023    | 2                |
 | 1283 | {% rauserpic sozasax %}              | 09/09/2023    | 2                |
-| 1284 | {% rauserpic Yoshinohara %}          | 09/09/2023    | 2                |
+| 1284 | {% rauserpicalt EEez, Yoshinohara %}          | 09/09/2023    | 2                |
 | 1285 | {% rauserpic tvschaser %}            | 09/09/2023    | 2                |
-| 1286 | {% rauserpic GreenDergs %}           | 09/09/2023    | 2                |
+| 1286 | {% rauserpicalt FungiDerg, GreenDergs %}           | 09/09/2023    | 2                |
 | 1287 | {% rauserpic oneakira %}             | 09/09/2023    | 2                |
 | 1288 | {% rauserpic JohnyCZ %}              | 09/09/2023    | 2                |
 | 1289 | {% rauserpic nixlynx %}              | 09/09/2023    | 2                |
@@ -1372,7 +1372,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1323 | {% rauserpic prettyboyprince %}      | 09/11/2023    | 2                |
 | 1324 | {% rauserpic la2hero %}              | 09/11/2023    | 2                |
 | 1325 | {% rauserpic band97 %}               | 09/11/2023    | 2                |
-| 1326 | {% rauserpic hotdoggggg %}           | 09/12/2023    | 2                |
+| 1326 | {% rauserpicalt EMREHLIUG, hotdoggggg %}           | 09/12/2023    | 2                |
 | 1327 | {% rauserpic Statewidecloth4 %}      | 09/12/2023    | 2                |
 | 1328 | {% rauserpic Tuweleff %}             | 09/12/2023    | 2                |
 | 1329 | {% rauserpic MaddyMuse %}            | 09/12/2023    | 2                |
@@ -1432,7 +1432,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1383 | {% rauserpic jf3player %}            | 09/14/2023    | 2                |
 | 1384 | {% rauserpic GrindPantera95 %}       | 09/14/2023    | 2                |
 | 1385 | {% rauserpic VitorHXM %}             | 09/14/2023    | 2                |
-| 1386 | {% rauserpic J4vi %}                 | 09/14/2023    | 2                |
+| 1386 | {% rauserpicalt Gang, J4vi %}                 | 09/14/2023    | 2                |
 | 1387 | {% rauserpic CyWolfX %}              | 09/14/2023    | 2                |
 | 1388 | {% rauserpic HideHatsuya11 %}        | 09/14/2023    | 2                |
 | 1389 | {% rauserpic Rellykk %}              | 09/14/2023    | 2                |
@@ -1450,15 +1450,15 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1401 | {% rauserpic Noneofyourbus4 %}       | 09/15/2023    | 2                |
 | 1402 | {% rauserpic Zeta137 %}              | 09/15/2023    | 2                |
 | 1403 | {% rauserpic Brunx002 %}             | 09/15/2023    | 2                |
-| 1404 | {% rauserpic LuisRamirez %}          | 09/15/2023    | 2                |
+| 1404 | {% rauserpicalt PesoPlumaGut, LuisRamirez %}          | 09/15/2023    | 2                |
 | 1405 | {% rauserpic zifates %}              | 09/15/2023    | 2                |
 | 1406 | {% rauserpic LooseCultivator %}      | 09/15/2023    | 2                |
 | 1407 | {% rauserpic EfeNeptuno %}           | 09/15/2023    | 2                |
-| 1408 | {% rauserpic Capeira %}              | 09/15/2023    | 2                |
+| 1408 | {% rauserpicalt KPera08, Capeira %}              | 09/15/2023    | 2                |
 | 1409 | {% rauserpic leftovernick %}         | 09/15/2023    | 2                |
 | 1410 | {% rauserpic vestioy %}              | 09/15/2023    | 2                |
 | 1411 | {% rauserpic BemeLorb %}             | 09/15/2023    | 2                |
-| 1412 | {% rauserpic FoxSoul2710 %}          | 09/15/2023    | 2                |
+| 1412 | {% rauserpicalt Vozx0911, FoxSoul2710 %}          | 09/15/2023    | 2                |
 | 1413 | {% rauserpic Keg4Aug %}              | 09/15/2023    | 2                |
 | 1414 | {% rauserpic Manouse %}              | 09/15/2023    | 2                |
 | 1415 | {% rauserpic vinny123 %}             | 09/15/2023    | 2                |
@@ -1474,15 +1474,15 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1425 | {% rauserpic Xanderland1a %}         | 09/16/2023    | 2                |
 | 1426 | {% rauserpic Unmatcheat %}           | 09/16/2023    | 2                |
 | 1427 | {% rauserpic Viituh %}               | 09/16/2023    | 2                |
-| 1428 | {% rauserpic NewFirecraft %}         | 09/16/2023    | 2                |
+| 1428 | {% rauserpicalt Canyrex12, NewFirecraft %}         | 09/16/2023    | 2                |
 | 1429 | {% rauserpic DikHed %}               | 09/16/2023    | 2                |
-| 1430 | {% rauserpic medjaelani %}           | 09/16/2023    | 2                |
+| 1430 | {% rauserpicalt inovade, medjaelani %}           | 09/16/2023    | 2                |
 | 1431 | {% rauserpic Fedecrash02 %}          | 09/16/2023    | 2                |
 | 1432 | {% rauserpic haxzie %}               | 09/16/2023    | 2                |
 | 1433 | {% rauserpic Scrash %}               | 09/16/2023    | 2                |
 | 1434 | {% rauserpic Salvador1190 %}         | 09/16/2023    | 2                |
 | 1435 | {% rauserpic EvilCarolino %}         | 09/16/2023    | 2                |
-| 1436 | {% rauserpic atnos %}                | 09/16/2023    | 2                |
+| 1436 | {% rauserpicalt joaoliveira4, atnos %}                | 09/16/2023    | 2                |
 | 1437 | {% rauserpic Carmbant %}             | 09/16/2023    | 2                |
 | 1438 | {% rauserpic Darkwind %}             | 09/16/2023    | 2                |
 | 1439 | {% rauserpic Bruco %}                | 09/16/2023    | 2                |
@@ -1538,16 +1538,16 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1489 | {% rauserpic FD64 %}                 | 09/20/2023    | 2                |
 | 1490 | {% rauserpic PhantasmaDeus %}        | 09/20/2023    | 2                |
 | 1491 | {% rauserpic FullMetalVV02 %}        | 09/20/2023    | 2                |
-| 1492 | {% rauserpic Raouleliaz %}           | 09/20/2023    | 2                |
+| 1492 | {% rauserpicalt Grimmsway, Raouleliaz %}           | 09/20/2023    | 2                |
 | 1493 | {% rauserpic Surelook %}             | 09/20/2023    | 2                |
 | 1494 | {% rauserpic Gith0 %}                | 09/20/2023    | 2                |
 | 1495 | {% rauserpic BuldozerTime %}         | 09/20/2023    | 2                |
 | 1496 | {% rauserpic Dimasl %}               | 09/20/2023    | 2                |
-| 1497 | {% rauserpic CurseyNaomey %}         | 09/20/2023    | 2                |
+| 1497 | {% rauserpicalt AULGGUS, CurseyNaomey %}         | 09/20/2023    | 2                |
 | 1498 | {% rauserpic AderianBrazileiro %}    | 09/20/2023    | 2                |
 | 1499 | {% rauserpic AngeryStonks %}         | 09/20/2023    | 2                |
 | 1500 | {% rauserpic JoeyMittens %}          | 09/20/2023    | 2                |
-| 1501 | {% rauserpic Granger %}              | 09/21/2023    | 2                |
+| 1501 | {% rauserpicalt DemonSword, Granger %}              | 09/21/2023    | 2                |
 | 1502 | {% rauserpic PikaCat %}              | 09/21/2023    | 2                |
 | 1503 | {% rauserpic JaredWRA %}             | 09/21/2023    | 2                |
 | 1504 | {% rauserpic Mattmatt %}             | 09/21/2023    | 2                |
@@ -1568,14 +1568,14 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1519 | {% rauserpic Bradisvaldo %}          | 09/21/2023    | 2                |
 | 1520 | {% rauserpic bayleavesss %}          | 09/21/2023    | 2                |
 | 1521 | {% rauserpic blackice777 %}          | 09/21/2023    | 2                |
-| 1522 | {% rauserpic KaleidoEyes11 %}        | 09/21/2023    | 2                |
-| 1523 | {% rauserpic i3caps %}               | 09/21/2023    | 2                |
+| 1522 | {% rauserpicalt SampoInAJar, KaleidoEyes11 %}        | 09/21/2023    | 2                |
+| 1523 | {% rauserpicalt Inmiroma, i3caps %}               | 09/21/2023    | 2                |
 | 1524 | {% rauserpic HorrorDreamer %}        | 09/22/2023    | 2                |
 | 1525 | {% rauserpic RoaringLycan %}         | 09/22/2023    | 2                |
-| 1526 | {% rauserpic ghostpepper34 %}        | 09/22/2023    | 2                |
+| 1526 | {% rauserpicalt newyou55, ghostpepper34 %}        | 09/22/2023    | 2                |
 | 1527 | {% rauserpic Gazdreg %}              | 09/22/2023    | 2                |
 | 1528 | {% rauserpic Petrozs %}              | 09/22/2023    | 2                |
-| 1529 | {% rauserpic Dysvake %}              | 09/22/2023    | 2                |
+| 1529 | {% rauserpicalt Raymor, Dysvake %}              | 09/22/2023    | 2                |
 | 1530 | {% rauserpic eviltoad %}             | 09/22/2023    | 2                |
 | 1531 | {% rauserpic Mag1cal1 %}             | 09/22/2023    | 2                |
 | 1532 | {% rauserpic timic83 %}              | 09/22/2023    | 2                |
@@ -1586,14 +1586,14 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1537 | {% rauserpic Amadousy %}             | 09/22/2023    | 2                |
 | 1538 | {% rauserpic DPXHB36 %}              | 09/22/2023    | 2                |
 | 1539 | {% rauserpic Negostrike %}           | 09/22/2023    | 2                |
-| 1540 | {% rauserpic Derp09 %}               | 09/22/2023    | 2                |
+| 1540 | {% rauserpicalt RaccoonTheTanuki, Derp09 %}               | 09/22/2023    | 2                |
 | 1541 | {% rauserpic Moshu3496 %}            | 09/22/2023    | 2                |
 | 1542 | {% rauserpic CheepChompChump %}      | 09/22/2023    | 2                |
 | 1543 | {% rauserpic jeffers0n %}            | 09/22/2023    | 2                |
 | 1544 | {% rauserpic wawod83378 %}           | 09/22/2023    | 2                |
 | 1545 | {% rauserpic darrendoom %}           | 09/23/2023    | 2                |
 | 1546 | {% rauserpic vitorkb2 %}             | 09/23/2023    | 2                |
-| 1547 | {% rauserpic jibbjebb %}             | 09/23/2023    | 2                |
+| 1547 | {% rauserpicalt 710N, jibbjebb %}             | 09/23/2023    | 2                |
 | 1548 | {% rauserpic Martinymyu %}           | 09/23/2023    | 2                |
 | 1549 | {% rauserpic Snoops127 %}            | 09/23/2023    | 2                |
 | 1550 | {% rauserpic alexM %}                | 09/23/2023    | 2                |
@@ -1635,7 +1635,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1586 | {% rauserpic josedamian32319 %}      | 09/24/2023    | 2                |
 | 1587 | {% rauserpic Reekanomiks %}          | 09/25/2023    | 2                |
 | 1588 | {% rauserpic rubssrubens %}          | 09/25/2023    | 2                |
-| 1589 | {% rauserpic rickthekinddemon %}     | 09/25/2023    | 2                |
+| 1589 | {% rauserpicalt RickTheRetroGamer, rickthekinddemon %}     | 09/25/2023    | 2                |
 | 1590 | {% rauserpic MisterK81 %}            | 09/25/2023    | 2                |
 | 1591 | {% rauserpic unfairisle %}           | 09/25/2023    | 2                |
 | 1592 | {% rauserpic GusApenasGus %}         | 09/25/2023    | 2                |
@@ -1671,13 +1671,13 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1622 | {% rauserpic 10131 %}                | 09/27/2023    | 2                |
 | 1623 | {% rauserpic macadoodoo %}           | 09/27/2023    | 2                |
 | 1624 | {% rauserpic Haosima %}              | 09/27/2023    | 2                |
-| 1625 | {% rauserpic fanta7 %}               | 09/27/2023    | 2                |
+| 1625 | {% rauserpicalt Cloudsev, fanta7 %}               | 09/27/2023    | 2                |
 | 1626 | {% rauserpic scrunky %}              | 09/27/2023    | 2                |
 | 1627 | {% rauserpic RomainV %}              | 09/27/2023    | 2                |
 | 1628 | {% rauserpic BAUCIUS %}              | 09/27/2023    | 2                |
 | 1629 | {% rauserpic Berenbekje %}           | 09/27/2023    | 2                |
 | 1630 | {% rauserpic komsijaKiryu %}         | 09/27/2023    | 2                |
-| 1631 | {% rauserpic thedevilduke %}         | 09/27/2023    | 2                |
+| 1631 | {% rauserpicalt dukequest, thedevilduke %}         | 09/27/2023    | 2                |
 | 1632 | {% rauserpic liquidbarrcuda %}       | 09/27/2023    | 2                |
 | 1633 | {% rauserpic Domina %}               | 09/27/2023    | 2                |
 | 1634 | {% rauserpic cipry %}                | 09/27/2023    | 2                |
@@ -1716,7 +1716,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1667 | {% rauserpic Erelvar %}              | 09/30/2023    | 2                |
 | 1668 | {% rauserpic Chackran %}             | 09/30/2023    | 2                |
 | 1669 | {% rauserpic Galneon %}              | 09/30/2023    | 2                |
-| 1670 | {% rauserpic MYchemicalEmotion %}    | 09/30/2023    | 2                |
+| 1670 | {% rauserpicalt TotallySpiesLover, MYchemicalEmotion %}    | 09/30/2023    | 2                |
 | 1671 | {% rauserpic Senku3015 %}            | 09/30/2023    | 2                |
 | 1672 | {% rauserpic CyanTH678 %}            | 09/30/2023    | 2                |
 | 1673 | {% rauserpic BenjiGIM96 %}           | 09/30/2023    | 2                |
@@ -1785,7 +1785,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1736 | {% rauserpic InfiniteDomes %}        | 09/01/2024    | 1                |
 | 1737 | {% rauserpic suly %}                 | 09/01/2024    | 1                |
 | 1738 | {% rauserpic Sob99 %}                | 09/01/2024    | 1                |
-| 1739 | {% rauserpic UndeadCoil %}           | 09/01/2024    | 1                |
+| 1739 | {% rauserpicalt VoidInvoker, UndeadCoil %}           | 09/01/2024    | 1                |
 | 1740 | {% rauserpic Yunis %}                | 09/01/2024    | 1                |
 | 1741 | {% rauserpic Blocker17 %}            | 09/01/2024    | 1                |
 | 1742 | {% rauserpic BiPolarScientist %}     | 09/01/2024    | 1                |
@@ -1798,7 +1798,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1749 | {% rauserpic PacoCronos %}           | 09/02/2024    | 1                |
 | 1750 | {% rauserpic DonutSpecialist %}      | 09/02/2024    | 1                |
 | 1751 | {% rauserpic Quater %}               | 09/02/2024    | 1                |
-| 1752 | {% rauserpic VanessaNightshade %}    | 09/02/2024    | 1                |
+| 1752 | {% rauserpicalt AlyxMeadow, VanessaNightshade %}    | 09/02/2024    | 1                |
 | 1753 | {% rauserpic MacacoAlado %}          | 09/02/2024    | 1                |
 | 1754 | {% rauserpic daridee %}              | 09/02/2024    | 1                |
 | 1755 | {% rauserpic ReapersDraft %}         | 09/02/2024    | 1                |
@@ -1863,7 +1863,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1814 | {% rauserpic Blinnkx64 %}            | 09/03/2024    | 1                |
 | 1815 | {% rauserpic MicPix %}               | 09/03/2024    | 1                |
 | 1816 | {% rauserpic Simmer %}               | 09/03/2024    | 1                |
-| 1817 | {% rauserpic Raycaster24 %}          | 09/03/2024    | 1                |
+| 1817 | {% rauserpicalt Rayaza, Raycaster24 %}          | 09/03/2024    | 1                |
 | 1818 | {% rauserpic Pivchash %}             | 09/03/2024    | 1                |
 | 1819 | {% rauserpic RyogaFatalis %}         | 09/03/2024    | 1                |
 | 1820 | {% rauserpic azfal %}                | 09/03/2024    | 1                |
@@ -1881,13 +1881,13 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1832 | {% rauserpic CrimeKat %}             | 09/03/2024    | 1                |
 | 1833 | {% rauserpic Airwalker06 %}          | 09/03/2024    | 1                |
 | 1834 | {% rauserpic PlotagonEgg %}          | 09/03/2024    | 1                |
-| 1835 | {% rauserpic ElysiaDiathora %}       | 09/03/2024    | 1                |
+| 1835 | {% rauserpicalt Zweilicht, ElysiaDiathora %}       | 09/03/2024    | 1                |
 | 1836 | {% rauserpic isma3tortilla %}        | 09/03/2024    | 1                |
 | 1837 | {% rauserpic janMelisa055 %}         | 09/04/2024    | 1                |
 | 1838 | {% rauserpic rxleo %}                | 09/04/2024    | 1                |
 | 1839 | {% rauserpic bitterbowler %}         | 09/04/2024    | 1                |
 | 1840 | {% rauserpic Smallmice %}            | 09/04/2024    | 1                |
-| 1841 | {% rauserpic miclogeneral2 %}        | 09/04/2024    | 1                |
+| 1841 | {% rauserpicalt PresidentMiclo, miclogeneral2 %}        | 09/04/2024    | 1                |
 | 1842 | {% rauserpic Wrexadecimal %}         | 09/04/2024    | 1                |
 | 1843 | {% rauserpic Sarturn0 %}             | 09/04/2024    | 1                |
 | 1844 | {% rauserpic AidenJMaster %}         | 09/04/2024    | 1                |
@@ -1919,10 +1919,10 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1870 | {% rauserpic Eduguerra %}            | 09/04/2024    | 1                |
 | 1871 | {% rauserpic Lansolot %}             | 09/04/2024    | 1                |
 | 1872 | {% rauserpic XxMooglexX %}           | 09/04/2024    | 1                |
-| 1873 | {% rauserpic Sprigatitto %}          | 09/04/2024    | 1                |
+| 1873 | {% rauserpicalt Catxly, Sprigatitto %}          | 09/04/2024    | 1                |
 | 1874 | {% rauserpic QuestionableQuinn %}    | 09/04/2024    | 1                |
 | 1875 | {% rauserpic Xufiie %}               | 09/04/2024    | 1                |
-| 1876 | {% rauserpic PEDRO11xk %}            | 09/04/2024    | 1                |
+| 1876 | {% rauserpicalt PEDROKIS, PEDRO11xk %}            | 09/04/2024    | 1                |
 | 1877 | {% rauserpic Asprey %}               | 09/04/2024    | 1                |
 | 1878 | {% rauserpic Stars55 %}              | 09/04/2024    | 1                |
 | 1879 | {% rauserpic Basilferret %}          | 09/04/2024    | 1                |
@@ -1951,7 +1951,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1902 | {% rauserpic trabe39 %}              | 09/05/2024    | 1                |
 | 1903 | {% rauserpic RegularCapivara %}      | 09/05/2024    | 1                |
 | 1904 | {% rauserpic Manjoum %}              | 09/05/2024    | 1                |
-| 1905 | {% rauserpic Dudelaser1 %}           | 09/05/2024    | 1                |
+| 1905 | {% rauserpicalt CaptainMalice, Dudelaser1 %}           | 09/05/2024    | 1                |
 | 1906 | {% rauserpic Shortcake %}            | 09/05/2024    | 1                |
 | 1907 | {% rauserpic FastOG %}               | 09/05/2024    | 1                |
 | 1908 | {% rauserpic Itchypants %}           | 09/05/2024    | 1                |
@@ -1987,8 +1987,8 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1938 | {% rauserpic Lemi1997 %}             | 09/06/2024    | 1                |
 | 1939 | {% rauserpic ConformistOwl %}        | 09/06/2024    | 1                |
 | 1940 | {% rauserpic suhastantin %}          | 09/06/2024    | 1                |
-| 1941 | {% rauserpic susman587 %}            | 09/06/2024    | 1                |
-| 1942 | {% rauserpic UnknownHero %}          | 09/06/2024    | 1                |
+| 1941 | {% rauserpicalt Cherubi, susman587 %}            | 09/06/2024    | 1                |
+| 1942 | {% rauserpicalt UnknownTheHero, UnknownHero %}          | 09/06/2024    | 1                |
 | 1943 | {% rauserpic mbarton19 %}            | 09/06/2024    | 1                |
 | 1944 | {% rauserpic Amnell %}               | 09/06/2024    | 1                |
 | 1945 | {% rauserpic BoelNathan %}           | 09/06/2024    | 1                |
@@ -2027,7 +2027,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 1978 | {% rauserpic MVK775 %}               | 09/06/2024    | 1                |
 | 1979 | {% rauserpic Swasey07 %}             | 09/06/2024    | 1                |
 | 1980 | {% rauserpic 101Phase %}             | 09/06/2024    | 1                |
-| 1981 | {% rauserpic star85 %}               | 09/06/2024    | 1                |
+| 1981 | {% rauserpicalt AcidSnake, star85 %}               | 09/06/2024    | 1                |
 | 1982 | {% rauserpic turnbuck %}             | 09/07/2024    | 1                |
 | 1983 | {% rauserpic SantiOzzy %}            | 09/07/2024    | 1                |
 | 1984 | {% rauserpic aiwenberg %}            | 09/07/2024    | 1                |
@@ -2074,7 +2074,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2025 | {% rauserpic hansvonwurst %}         | 09/07/2024    | 1                |
 | 2026 | {% rauserpic tsumiki %}              | 09/07/2024    | 1                |
 | 2027 | {% rauserpic djgs01 %}               | 09/07/2024    | 1                |
-| 2028 | {% rauserpic TechJacket %}           | 09/07/2024    | 1                |
+| 2028 | {% rauserpicalt BattleBeast, TechJacket %}           | 09/07/2024    | 1                |
 | 2029 | {% rauserpic SpiritWorld35 %}        | 09/07/2024    | 1                |
 | 2030 | {% rauserpic tyle %}                 | 09/07/2024    | 1                |
 | 2031 | {% rauserpic shtoorman %}            | 09/07/2024    | 1                |
@@ -2093,7 +2093,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2044 | {% rauserpic hasherzz %}             | 09/07/2024    | 1                |
 | 2045 | {% rauserpic BadutRawa %}            | 09/08/2024    | 1                |
 | 2046 | {% rauserpic Ichrius %}              | 09/08/2024    | 1                |
-| 2047 | {% rauserpic SpinningSpark %}        | 09/08/2024    | 1                |
+| 2047 | {% rauserpicalt YellowOchre, SpinningSpark %}        | 09/08/2024    | 1                |
 | 2048 | {% rauserpic ItsMeChair %}           | 09/08/2024    | 1                |
 | 2049 | {% rauserpic Chillpaii %}            | 09/08/2024    | 1                |
 | 2050 | {% rauserpic cheezit512 %}           | 09/08/2024    | 1                |
@@ -2110,7 +2110,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2061 | {% rauserpic devboloji %}            | 09/08/2024    | 1                |
 | 2062 | {% rauserpic ultimatebeeb %}         | 09/08/2024    | 1                |
 | 2063 | {% rauserpic lordofsteel28 %}        | 09/08/2024    | 1                |
-| 2064 | {% rauserpic Estrilerr %}            | 09/08/2024    | 1                |
+| 2064 | {% rauserpicalt Estrii, Estrilerr %}            | 09/08/2024    | 1                |
 | 2065 | {% rauserpic FuserGames %}           | 09/08/2024    | 1                |
 | 2066 | {% rauserpic hmb133 %}               | 09/08/2024    | 1                |
 | 2067 | {% rauserpic Snugsy %}               | 09/08/2024    | 1                |
@@ -2118,7 +2118,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2069 | {% rauserpic AnimeTyan %}            | 09/08/2024    | 1                |
 | 2070 | {% rauserpic Clynt3 %}               | 09/08/2024    | 1                |
 | 2071 | {% rauserpic nicos87 %}              | 09/08/2024    | 1                |
-| 2072 | {% rauserpic speeedd %}              | 09/08/2024    | 1                |
+| 2072 | {% rauserpicalt elspeeedyy, speeedd %}              | 09/08/2024    | 1                |
 | 2073 | {% rauserpic PodgePapin %}           | 09/08/2024    | 1                |
 | 2074 | {% rauserpic JaydenSM64 %}           | 09/08/2024    | 1                |
 | 2075 | {% rauserpic meganexus %}            | 09/08/2024    | 1                |
@@ -2129,10 +2129,10 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2080 | {% rauserpic stewtux %}              | 09/08/2024    | 1                |
 | 2081 | {% rauserpic EmsadBrushbeard %}      | 09/08/2024    | 1                |
 | 2082 | {% rauserpic TheBigJoof %}           | 09/08/2024    | 1                |
-| 2083 | {% rauserpic rayanebslm14 %}         | 09/08/2024    | 1                |
+| 2083 | {% rauserpicalt TOBACCOPIPE2010, rayanebslm14 %}         | 09/08/2024    | 1                |
 | 2084 | {% rauserpic Ultralite %}            | 09/08/2024    | 1                |
 | 2085 | {% rauserpic Poison2947 %}           | 09/08/2024    | 1                |
-| 2086 | {% rauserpic AtaruMoroboshi98 %}     | 09/08/2024    | 1                |
+| 2086 | {% rauserpicalt Robotnik998, AtaruMoroboshi98 %}     | 09/08/2024    | 1                |
 | 2087 | {% rauserpic JaykneGG %}             | 09/08/2024    | 1                |
 | 2088 | {% rauserpic cudroiduk %}            | 09/08/2024    | 1                |
 | 2089 | {% rauserpic Ninjabones %}           | 09/08/2024    | 1                |
@@ -2143,8 +2143,8 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2094 | {% rauserpic BeanieBoy %}            | 09/08/2024    | 1                |
 | 2095 | {% rauserpic Churali %}              | 09/08/2024    | 1                |
 | 2096 | {% rauserpic EviLDo0m %}             | 09/09/2024    | 1                |
-| 2097 | {% rauserpic TempFox %}              | 09/09/2024    | 1                |
-| 2098 | {% rauserpic tpiig %}                | 09/09/2024    | 1                |
+| 2097 | {% rauserpicalt MrAnTenna, TempFox %}              | 09/09/2024    | 1                |
+| 2098 | {% rauserpicalt Robunna, tpiig %}                | 09/09/2024    | 1                |
 | 2099 | {% rauserpic eidolists %}            | 09/09/2024    | 1                |
 | 2100 | {% rauserpic AudieBottie %}          | 09/09/2024    | 1                |
 | 2101 | {% rauserpic Waff %}                 | 09/09/2024    | 1                |
@@ -2171,7 +2171,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2122 | {% rauserpic Camac %}                | 09/09/2024    | 1                |
 | 2123 | {% rauserpic Solido45 %}             | 09/09/2024    | 1                |
 | 2124 | {% rauserpic Cavalorn37 %}           | 09/09/2024    | 1                |
-| 2125 | {% rauserpic SWBJeff %}              | 09/09/2024    | 1                |
+| 2125 | {% rauserpicalt JeffreyWaffles, SWBJeff %}              | 09/09/2024    | 1                |
 | 2126 | {% rauserpic KappaCafe %}            | 09/09/2024    | 1                |
 | 2127 | {% rauserpic OppaiHolic %}           | 09/09/2024    | 1                |
 | 2128 | {% rauserpic RocketPidgeot %}        | 09/09/2024    | 1                |
@@ -2191,7 +2191,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2142 | {% rauserpic Elyse28 %}              | 09/10/2024    | 1                |
 | 2143 | {% rauserpic Gugagu %}               | 09/10/2024    | 1                |
 | 2144 | {% rauserpic Jhonmita %}             | 09/10/2024    | 1                |
-| 2145 | {% rauserpic GraySama %}             | 09/10/2024    | 1                |
+| 2145 | {% rauserpicalt GrayZama, GraySama %}             | 09/10/2024    | 1                |
 | 2146 | {% rauserpic Shugoo %}               | 09/10/2024    | 1                |
 | 2147 | {% rauserpic MarryGarou %}           | 09/10/2024    | 1                |
 | 2148 | {% rauserpic lucifxr26 %}            | 09/10/2024    | 1                |
@@ -2208,7 +2208,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2159 | {% rauserpic SweetOmwf %}            | 09/10/2024    | 1                |
 | 2160 | {% rauserpic ItsSmugWithEz %}        | 09/10/2024    | 1                |
 | 2161 | {% rauserpic NicoLBsk3 %}            | 09/10/2024    | 1                |
-| 2162 | {% rauserpic Kakaoo %}               | 09/10/2024    | 1                |
+| 2162 | {% rauserpicalt losspass, Kakaoo %}               | 09/10/2024    | 1                |
 | 2163 | {% rauserpic 47Roonin %}             | 09/10/2024    | 1                |
 | 2164 | {% rauserpic CallTheAdmirals %}      | 09/10/2024    | 1                |
 | 2165 | {% rauserpic kibosh54 %}             | 09/10/2024    | 1                |
@@ -2261,7 +2261,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2212 | {% rauserpic Acous %}                | 09/12/2024    | 1                |
 | 2213 | {% rauserpic Marauder %}             | 09/12/2024    | 1                |
 | 2214 | {% rauserpic GrimmSC %}              | 09/12/2024    | 1                |
-| 2215 | {% rauserpic ashraf971 %}            | 09/12/2024    | 1                |
+| 2215 | {% rauserpicalt OneArmada, ashraf971 %}            | 09/12/2024    | 1                |
 | 2216 | {% rauserpic 4BL00D %}               | 09/12/2024    | 1                |
 | 2217 | {% rauserpic Schmuizin %}            | 09/12/2024    | 1                |
 | 2218 | {% rauserpic shkoozmabu %}           | 09/12/2024    | 1                |
@@ -2269,7 +2269,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2220 | {% rauserpic psychokila %}           | 09/12/2024    | 1                |
 | 2221 | {% rauserpic Lainy %}                | 09/12/2024    | 1                |
 | 2222 | {% rauserpic Patucara1 %}            | 09/12/2024    | 1                |
-| 2223 | {% rauserpic SpammyFanner %}         | 09/12/2024    | 1                |
+| 2223 | {% rauserpicalt RewriteSonicGaming, SpammyFanner %}         | 09/12/2024    | 1                |
 | 2224 | {% rauserpic SageGreenScarab %}      | 09/13/2024    | 1                |
 | 2225 | {% rauserpic Aina %}                 | 09/13/2024    | 1                |
 | 2226 | {% rauserpic angenoide %}            | 09/13/2024    | 1                |
@@ -2323,13 +2323,13 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2274 | {% rauserpic MineVinnyHN %}          | 09/14/2024    | 1                |
 | 2275 | {% rauserpic minipouce %}            | 09/14/2024    | 1                |
 | 2276 | {% rauserpic blsk %}                 | 09/14/2024    | 1                |
-| 2277 | {% rauserpic Meowerz %}              | 09/14/2024    | 1                |
+| 2277 | {% rauserpicalt Meowww, Meowerz %}              | 09/14/2024    | 1                |
 | 2278 | {% rauserpic LyuriKG %}              | 09/14/2024    | 1                |
 | 2279 | {% rauserpic Raefu %}                | 09/14/2024    | 1                |
 | 2280 | {% rauserpic Bigstank %}             | 09/14/2024    | 1                |
 | 2281 | {% rauserpic Shakunda %}             | 09/14/2024    | 1                |
 | 2282 | {% rauserpic CapnCrimson %}          | 09/14/2024    | 1                |
-| 2283 | {% rauserpic TJ4Moore %}             | 09/14/2024    | 1                |
+| 2283 | {% rauserpicalt MinTJ, TJ4Moore %}             | 09/14/2024    | 1                |
 | 2284 | {% rauserpic MercuryAdept %}         | 09/14/2024    | 1                |
 | 2285 | {% rauserpic Ryclops %}              | 09/14/2024    | 1                |
 | 2286 | {% rauserpic CountessChewi %}        | 09/14/2024    | 1                |
@@ -2341,12 +2341,12 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2292 | {% rauserpic LMuF %}                 | 09/15/2024    | 1                |
 | 2293 | {% rauserpic montreloo %}            | 09/15/2024    | 1                |
 | 2294 | {% rauserpic dadestro %}             | 09/15/2024    | 1                |
-| 2295 | {% rauserpic OliPipe1996 %}          | 09/15/2024    | 1                |
+| 2295 | {% rauserpicalt OliPipe, OliPipe1996 %}          | 09/15/2024    | 1                |
 | 2296 | {% rauserpic SaycoPWorrell %}        | 09/15/2024    | 1                |
 | 2297 | {% rauserpic Kaikudou %}             | 09/15/2024    | 1                |
 | 2298 | {% rauserpic KeyJen %}               | 09/15/2024    | 1                |
 | 2299 | {% rauserpic MKDeleon %}             | 09/15/2024    | 1                |
-| 2300 | {% rauserpic MT07 %}                 | 09/15/2024    | 1                |
+| 2300 | {% rauserpicalt Kael21, MT07 %}                 | 09/15/2024    | 1                |
 | 2301 | {% rauserpic almazthediamond %}      | 09/15/2024    | 1                |
 | 2302 | {% rauserpic HenryZinX117 %}         | 09/15/2024    | 1                |
 | 2303 | {% rauserpic Ombrack %}              | 09/15/2024    | 1                |
@@ -2354,7 +2354,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2305 | {% rauserpic Jellzybelle %}          | 09/15/2024    | 1                |
 | 2306 | {% rauserpic Pendy155 %}             | 09/15/2024    | 1                |
 | 2307 | {% rauserpic DasriiieL %}            | 09/15/2024    | 1                |
-| 2308 | {% rauserpic cbradley48 %}           | 09/15/2024    | 1                |
+| 2308 | {% rauserpicalt doctorbuu, cbradley48 %}           | 09/15/2024    | 1                |
 | 2309 | {% rauserpic Linkthepeargod %}       | 09/15/2024    | 1                |
 | 2310 | {% rauserpic Rockethero1 %}          | 09/15/2024    | 1                |
 | 2311 | {% rauserpic flostuky %}             | 09/15/2024    | 1                |
@@ -2372,10 +2372,10 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2323 | {% rauserpic Teixeiratg %}           | 09/15/2024    | 1                |
 | 2324 | {% rauserpic TallMaple %}            | 09/15/2024    | 1                |
 | 2325 | {% rauserpic Goinza %}               | 09/15/2024    | 1                |
-| 2326 | {% rauserpic ETANK %}                | 09/16/2024    | 1                |
+| 2326 | {% rauserpicalt ER0YEET, ETANK %}                | 09/16/2024    | 1                |
 | 2327 | {% rauserpic Lrysuto %}              | 09/16/2024    | 1                |
 | 2328 | {% rauserpic Chave %}                | 09/16/2024    | 1                |
-| 2329 | {% rauserpic CamDoesAnything %}      | 09/16/2024    | 1                |
+| 2329 | {% rauserpicalt KarenKatphish, CamDoesAnything %}      | 09/16/2024    | 1                |
 | 2330 | {% rauserpic maliibre %}             | 09/16/2024    | 1                |
 | 2331 | {% rauserpic Riv721 %}               | 09/16/2024    | 1                |
 | 2332 | {% rauserpic Zedwolf22 %}            | 09/16/2024    | 1                |
@@ -2389,18 +2389,18 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2340 | {% rauserpic TKBMercy %}             | 09/16/2024    | 1                |
 | 2341 | {% rauserpic halleysasteroid %}      | 09/16/2024    | 1                |
 | 2342 | {% rauserpic ephimeral %}            | 09/16/2024    | 1                |
-| 2343 | {% rauserpic MENT4LLY %}             | 09/16/2024    | 1                |
+| 2343 | {% rauserpicalt mntlly, MENT4LLY %}             | 09/16/2024    | 1                |
 | 2344 | {% rauserpic Sirris %}               | 09/16/2024    | 1                |
 | 2345 | {% rauserpic kinokosensei %}         | 09/16/2024    | 1                |
 | 2346 | {% rauserpic mromo %}                | 09/16/2024    | 1                |
-| 2347 | {% rauserpic gmontenegropintos %}    | 09/16/2024    | 1                |
-| 2348 | {% rauserpic LNS99 %}                | 09/16/2024    | 1                |
+| 2347 | {% rauserpicalt NoGoofyNo, gmontenegropintos %}    | 09/16/2024    | 1                |
+| 2348 | {% rauserpicalt fakewizard, LNS99 %}                | 09/16/2024    | 1                |
 | 2349 | {% rauserpic Charcoal190 %}          | 09/16/2024    | 1                |
 | 2350 | {% rauserpic N3oNSoUnD %}            | 09/16/2024    | 1                |
 | 2351 | {% rauserpic RamenPlays %}           | 09/16/2024    | 1                |
 | 2352 | {% rauserpic frestepi %}             | 09/16/2024    | 1                |
 | 2353 | {% rauserpic SuperFlashX %}          | 09/16/2024    | 1                |
-| 2354 | {% rauserpic CatboyRin %}            | 09/16/2024    | 1                |
+| 2354 | {% rauserpicalt CatgirlRin, CatboyRin %}            | 09/16/2024    | 1                |
 | 2355 | {% rauserpic senhayn %}              | 09/16/2024    | 1                |
 | 2356 | {% rauserpic Styxx86 %}              | 09/16/2024    | 1                |
 | 2357 | {% rauserpic Salerei %}              | 09/16/2024    | 1                |
@@ -2415,12 +2415,12 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2366 | {% rauserpic koshulkesh %}           | 09/17/2024    | 1                |
 | 2367 | {% rauserpic threadmund %}           | 09/17/2024    | 1                |
 | 2368 | {% rauserpic NeoDragon223 %}         | 09/17/2024    | 1                |
-| 2369 | {% rauserpic lampinabox %}           | 09/17/2024    | 1                |
+| 2369 | {% rauserpicalt zooooop, lampinabox %}           | 09/17/2024    | 1                |
 | 2370 | {% rauserpic dragonforf %}           | 09/17/2024    | 1                |
 | 2371 | {% rauserpic Derek007 %}             | 09/17/2024    | 1                |
 | 2372 | {% rauserpic DiamondDragon %}        | 09/17/2024    | 1                |
 | 2373 | {% rauserpic Kheprich %}             | 09/17/2024    | 1                |
-| 2374 | {% rauserpic Peytiepie05 %}          | 09/17/2024    | 1                |
+| 2374 | {% rauserpicalt PeyK, Peytiepie05 %}          | 09/17/2024    | 1                |
 | 2375 | {% rauserpic AnimeFanFTW %}          | 09/17/2024    | 1                |
 | 2376 | {% rauserpic TRD159 %}               | 09/17/2024    | 1                |
 | 2377 | {% rauserpic Deeatombomb %}          | 09/17/2024    | 1                |
@@ -2447,7 +2447,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2398 | {% rauserpic zetaReserve %}          | 09/17/2024    | 1                |
 | 2399 | {% rauserpic CrocodileSoda %}        | 09/17/2024    | 1                |
 | 2400 | {% rauserpic BigBossOfThisGym %}     | 09/17/2024    | 1                |
-| 2401 | {% rauserpic Koruko350 %}            | 09/17/2024    | 1                |
+| 2401 | {% rauserpicalt Makoto350, Koruko350 %}            | 09/17/2024    | 1                |
 | 2402 | {% rauserpic Lugate %}               | 09/17/2024    | 1                |
 | 2403 | {% rauserpic Magothys %}             | 09/17/2024    | 1                |
 | 2404 | {% rauserpic mystykdroid %}          | 09/17/2024    | 1                |
@@ -2458,7 +2458,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2409 | {% rauserpic Feldaenus %}            | 09/18/2024    | 1                |
 | 2410 | {% rauserpic Floccinaucinihilipil %} | 09/18/2024    | 1                |
 | 2411 | {% rauserpic RobertSlayer %}         | 09/18/2024    | 1                |
-| 2412 | {% rauserpic sneek %}                | 09/18/2024    | 1                |
+| 2412 | {% rauserpicalt lesbian, sneek %}                | 09/18/2024    | 1                |
 | 2413 | {% rauserpic Yortimus %}             | 09/18/2024    | 1                |
 | 2414 | {% rauserpic Steve0484 %}            | 09/18/2024    | 1                |
 | 2415 | {% rauserpic Morigale %}             | 09/18/2024    | 1                |
@@ -2487,7 +2487,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2438 | {% rauserpic connartist93 %}         | 09/19/2024    | 1                |
 | 2439 | {% rauserpic Beodred %}              | 09/19/2024    | 1                |
 | 2440 | {% rauserpic SweatyHorizonXI %}      | 09/19/2024    | 1                |
-| 2441 | {% rauserpic Zanonite %}             | 09/19/2024    | 1                |
+| 2441 | {% rauserpicalt Psysper, Zanonite %}             | 09/19/2024    | 1                |
 | 2442 | {% rauserpic schwat %}               | 09/19/2024    | 1                |
 | 2443 | {% rauserpic BlauerKater9 %}         | 09/19/2024    | 1                |
 | 2444 | {% rauserpic CobaltKnuckles %}       | 09/19/2024    | 1                |
@@ -2499,7 +2499,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2450 | {% rauserpic PerfectFooty %}         | 09/19/2024    | 1                |
 | 2451 | {% rauserpic DarlingDarla %}         | 09/19/2024    | 1                |
 | 2452 | {% rauserpic Verros %}               | 09/19/2024    | 1                |
-| 2453 | {% rauserpic jonlk %}                | 09/19/2024    | 1                |
+| 2453 | {% rauserpicalt retrohaven, jonlk %}                | 09/19/2024    | 1                |
 | 2454 | {% rauserpic KyobiMortal %}          | 09/19/2024    | 1                |
 | 2455 | {% rauserpic Fleecy %}               | 09/19/2024    | 1                |
 | 2456 | {% rauserpic PimpleCL %}             | 09/19/2024    | 1                |
@@ -2507,7 +2507,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2458 | {% rauserpic Get2BirdsStoned %}      | 09/19/2024    | 1                |
 | 2459 | {% rauserpic bchewy15 %}             | 09/19/2024    | 1                |
 | 2460 | {% rauserpic FStone %}               | 09/19/2024    | 1                |
-| 2461 | {% rauserpic AOvelhaPreta %}         | 09/19/2024    | 1                |
+| 2461 | {% rauserpicalt AOvelha, AOvelhaPreta %}         | 09/19/2024    | 1                |
 | 2462 | {% rauserpic khancerberus %}         | 09/19/2024    | 1                |
 | 2463 | {% rauserpic Tweetysmd %}            | 09/19/2024    | 1                |
 | 2464 | {% rauserpic Canardellite %}         | 09/19/2024    | 1                |
@@ -2599,7 +2599,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2550 | {% rauserpic pumbaa %}               | 09/22/2024    | 1                |
 | 2551 | {% rauserpic MegatronECS %}          | 09/22/2024    | 1                |
 | 2552 | {% rauserpic TheoEduardo %}          | 09/22/2024    | 1                |
-| 2553 | {% rauserpic TurboSunset %}          | 09/22/2024    | 1                |
+| 2553 | {% rauserpicalt JLexaan, TurboSunset %}          | 09/22/2024    | 1                |
 | 2554 | {% rauserpic chuthulhu %}            | 09/22/2024    | 1                |
 | 2555 | {% rauserpic RainbowRabbit %}        | 09/22/2024    | 1                |
 | 2556 | {% rauserpic Vizantor %}             | 09/22/2024    | 1                |
@@ -2645,7 +2645,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2596 | {% rauserpic hyperlincs %}           | 09/23/2024    | 1                |
 | 2597 | {% rauserpic blaise0413 %}           | 09/23/2024    | 1                |
 | 2598 | {% rauserpic heckyeahitssam %}       | 09/23/2024    | 1                |
-| 2599 | {% rauserpic ByteMarten %}           | 09/23/2024    | 1                |
+| 2599 | {% rauserpicalt Sorcerodon, ByteMarten %}           | 09/23/2024    | 1                |
 | 2600 | {% rauserpic Blissrun %}             | 09/23/2024    | 1                |
 | 2601 | {% rauserpic Rippy88 %}              | 09/23/2024    | 1                |
 | 2602 | {% rauserpic edwarddonges %}         | 09/23/2024    | 1                |
@@ -2657,7 +2657,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2608 | {% rauserpic belialx00081 %}         | 09/23/2024    | 1                |
 | 2609 | {% rauserpic OfficiallyEmanuel %}    | 09/23/2024    | 1                |
 | 2610 | {% rauserpic RandomCapybara %}       | 09/23/2024    | 1                |
-| 2611 | {% rauserpic 6hitcombo %}            | 09/24/2024    | 1                |
+| 2611 | {% rauserpicalt aziladodomau, 6hitcombo %}            | 09/24/2024    | 1                |
 | 2612 | {% rauserpic ragneG %}               | 09/24/2024    | 1                |
 | 2613 | {% rauserpic GabrielLegend %}        | 09/24/2024    | 1                |
 | 2614 | {% rauserpic Monzekai %}             | 09/24/2024    | 1                |
@@ -2666,7 +2666,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2617 | {% rauserpic ttvRobRoberts %}        | 09/24/2024    | 1                |
 | 2618 | {% rauserpic cbrx %}                 | 09/24/2024    | 1                |
 | 2619 | {% rauserpic Lukien %}               | 09/24/2024    | 1                |
-| 2620 | {% rauserpic SudaiDelphi %}          | 09/24/2024    | 1                |
+| 2620 | {% rauserpicalt Sudai, SudaiDelphi %}          | 09/24/2024    | 1                |
 | 2621 | {% rauserpic FedorVed %}             | 09/24/2024    | 1                |
 | 2622 | {% rauserpic bumbeer %}              | 09/24/2024    | 1                |
 | 2623 | {% rauserpic alxbskn %}              | 09/24/2024    | 1                |
@@ -2678,12 +2678,12 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2629 | {% rauserpic SrCazuela %}            | 09/24/2024    | 1                |
 | 2630 | {% rauserpic madkiller %}            | 09/24/2024    | 1                |
 | 2631 | {% rauserpic BigDoofus2910 %}        | 09/24/2024    | 1                |
-| 2632 | {% rauserpic TCG1337 %}              | 09/24/2024    | 1                |
+| 2632 | {% rauserpicalt TCGJaxxon, TCG1337 %}              | 09/24/2024    | 1                |
 | 2633 | {% rauserpic AlumYaeyMoeYeh %}       | 09/24/2024    | 1                |
 | 2634 | {% rauserpic Esbelo %}               | 09/24/2024    | 1                |
 | 2635 | {% rauserpic Rinfalol %}             | 09/24/2024    | 1                |
 | 2636 | {% rauserpic dem1ze %}               | 09/24/2024    | 1                |
-| 2637 | {% rauserpic chicolocomani %}        | 09/24/2024    | 1                |
+| 2637 | {% rauserpicalt ManiYT, chicolocomani %}        | 09/24/2024    | 1                |
 | 2638 | {% rauserpic Gaspatxo %}             | 09/24/2024    | 1                |
 | 2639 | {% rauserpic turokmilfhunter %}      | 09/24/2024    | 1                |
 | 2640 | {% rauserpic Kaein93 %}              | 09/24/2024    | 1                |
@@ -2722,25 +2722,25 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2673 | {% rauserpic nrvnqsr %}              | 09/26/2024    | 1                |
 | 2674 | {% rauserpic tomguycot911 %}         | 09/26/2024    | 1                |
 | 2675 | {% rauserpic ElJusto %}              | 09/26/2024    | 1                |
-| 2676 | {% rauserpic JohnDoh %}              | 09/26/2024    | 1                |
+| 2676 | {% rauserpicalt JaneDoh, JohnDoh %}              | 09/26/2024    | 1                |
 | 2677 | {% rauserpic MagmaRam %}             | 09/26/2024    | 1                |
 | 2678 | {% rauserpic reivaxx %}              | 09/26/2024    | 1                |
 | 2679 | {% rauserpic kombat1 %}              | 09/26/2024    | 1                |
-| 2680 | {% rauserpic MisterFurry %}          | 09/26/2024    | 1                |
+| 2680 | {% rauserpicalt Snickers990, MisterFurry %}          | 09/26/2024    | 1                |
 | 2681 | {% rauserpic Neliwar %}              | 09/26/2024    | 1                |
 | 2682 | {% rauserpic SheepTheHuman %}        | 09/26/2024    | 1                |
 | 2683 | {% rauserpic Cptporkchop %}          | 09/26/2024    | 1                |
 | 2684 | {% rauserpic Nerren %}               | 09/26/2024    | 1                |
 | 2685 | {% rauserpic SideSwipe1323 %}        | 09/26/2024    | 1                |
-| 2686 | {% rauserpic Raniery %}              | 09/26/2024    | 1                |
+| 2686 | {% rauserpicalt Kidboors, Raniery %}              | 09/26/2024    | 1                |
 | 2687 | {% rauserpic Fireztriker %}          | 09/26/2024    | 1                |
-| 2688 | {% rauserpic godsgayearth %}         | 09/26/2024    | 1                |
+| 2688 | {% rauserpicalt zettaitsundere, godsgayearth %}         | 09/26/2024    | 1                |
 | 2689 | {% rauserpic Forest30 %}             | 09/26/2024    | 1                |
 | 2690 | {% rauserpic Kickadoh %}             | 09/26/2024    | 1                |
 | 2691 | {% rauserpic Ricky187 %}             | 09/26/2024    | 1                |
 | 2692 | {% rauserpic Danielsonic87 %}        | 09/26/2024    | 1                |
 | 2693 | {% rauserpic thevideogameboy %}      | 09/26/2024    | 1                |
-| 2694 | {% rauserpic marciosant %}           | 09/26/2024    | 1                |
+| 2694 | {% rauserpicalt imDuality, marciosant %}           | 09/26/2024    | 1                |
 | 2695 | {% rauserpic Frenzo %}               | 09/27/2024    | 1                |
 | 2696 | {% rauserpic Skocto %}               | 09/27/2024    | 1                |
 | 2697 | {% rauserpic Duddits %}              | 09/27/2024    | 1                |
@@ -2755,20 +2755,20 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2706 | {% rauserpic fablelaw458 %}          | 09/27/2024    | 1                |
 | 2707 | {% rauserpic chka100500 %}           | 09/27/2024    | 1                |
 | 2708 | {% rauserpic StevenV %}              | 09/27/2024    | 1                |
-| 2709 | {% rauserpic foreignblack %}         | 09/27/2024    | 1                |
+| 2709 | {% rauserpicalt dannyforeign, foreignblack %}         | 09/27/2024    | 1                |
 | 2710 | {% rauserpic felipec400p1 %}         | 09/27/2024    | 1                |
 | 2711 | {% rauserpic gabrielbull %}          | 09/27/2024    | 1                |
 | 2712 | {% rauserpic JillSandwichYT %}       | 09/27/2024    | 1                |
 | 2713 | {% rauserpic ryaneklipse %}          | 09/27/2024    | 1                |
 | 2714 | {% rauserpic Nansinhu %}             | 09/27/2024    | 1                |
 | 2715 | {% rauserpic Solaii %}               | 09/27/2024    | 1                |
-| 2716 | {% rauserpic OnYourPillow %}         | 09/28/2024    | 1                |
+| 2716 | {% rauserpicalt Repoyo42, OnYourPillow %}         | 09/28/2024    | 1                |
 | 2717 | {% rauserpic MrJeans %}              | 09/28/2024    | 1                |
 | 2718 | {% rauserpic YouDidItMan %}          | 09/28/2024    | 1                |
 | 2719 | {% rauserpic Xyustiu %}              | 09/28/2024    | 1                |
 | 2720 | {% rauserpic Sithel %}               | 09/28/2024    | 1                |
 | 2721 | {% rauserpic Janeiro %}              | 09/28/2024    | 1                |
-| 2722 | {% rauserpic UmbralParadox %}        | 09/28/2024    | 1                |
+| 2722 | {% rauserpicalt Umiidox, UmbralParadox %}        | 09/28/2024    | 1                |
 | 2723 | {% rauserpic Ikuyoo %}               | 09/28/2024    | 1                |
 | 2724 | {% rauserpic Traught %}              | 09/28/2024    | 1                |
 | 2725 | {% rauserpic noisemaker %}           | 09/28/2024    | 1                |
@@ -2802,7 +2802,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2753 | {% rauserpic Boopo %}                | 09/29/2024    | 1                |
 | 2754 | {% rauserpic Choxel %}               | 09/29/2024    | 1                |
 | 2755 | {% rauserpic simonbelmont20 %}       | 09/29/2024    | 1                |
-| 2756 | {% rauserpic Kitsuniko %}            | 09/29/2024    | 1                |
+| 2756 | {% rauserpicalt FinalGirlKy, Kitsuniko %}            | 09/29/2024    | 1                |
 | 2757 | {% rauserpic TinyOwO %}              | 09/29/2024    | 1                |
 | 2758 | {% rauserpic Edeher %}               | 09/29/2024    | 1                |
 | 2759 | {% rauserpic LaenisVjelle %}         | 09/29/2024    | 1                |
@@ -2829,7 +2829,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 2780 | {% rauserpic Kitsune9914 %}          | 09/30/2024    | 1                |
 | 2781 | {% rauserpic Levistus %}             | 09/30/2024    | 1                |
 | 2782 | {% rauserpic arcticronin %}          | 09/30/2024    | 1                |
-| 2783 | {% rauserpic IgorMaia %}             | 09/30/2024    | 1                |
+| 2783 | {% rauserpicalt Dallaz, IgorMaia %}             | 09/30/2024    | 1                |
 | 2784 | {% rauserpic XxAceofAcesxX %}        | 09/30/2024    | 1                |
 | 2785 | {% rauserpic MadClap %}              | 09/30/2024    | 1                |
 | 2786 | {% rauserpic Paspiffy %}             | 09/30/2024    | 1                |

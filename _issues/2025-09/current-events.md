@@ -202,7 +202,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                 <ol>
                     <li value="1">{% rauserpic WanderingHeiho %} - 116 Points</li>
                     <li value="2">{% rauserpic Sutarion %} - 108 Points</li>
-                    <li value="3">{% rauserpic ThatWhiteBat %} - 105 Points</li>
+                    <li value="3">{% rauserpicalt ThatWhiteBat, Sylrifaide %} - 105 Points</li>
                     <li value="3">{% rauserpic Akai %} - 105 Points</li>
                     <li value="3">{% rauserpic Pikapals %} - 105 Points</li>
                     <li value="3">{% rauserpic Tyrota %} - 105 Points</li>
@@ -251,10 +251,10 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                 <ol>
                     <li value="1">{% rauserpic Verros %} - 61 Points</li>
                     <li value="2">{% rauserpic DeeCee %} - 49 Points</li>
-                    <li value="3">{% rauserpic GenesisRA %} - 46 Points</li>
+                    <li value="3">{% rauserpicalt GenesisRA, genesislover %} - 46 Points</li>
                     <li value="4">{% rauserpic Kaiserlucas %} - 41 Points</li>
                     <li value="5">{% rauserpic MeloDeathAtmoBlack %} - 34 Points</li>
-                    <li value="6">{% rauserpic Kexin %} - 33 Points</li>
+                    <li value="6">{% rauserpicalt Kexin, Nintagious %} - 33 Points</li>
                     <li value="6">{% rauserpic PepeJohn %} - 33 Points</li>
                     <li value="8">{% rauserpic s0uth %} - 31 Points</li>
                     <li value="9">{% rauserpic jhonen124 %} - 30 Points</li>
@@ -297,7 +297,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li value="1">{% rauserpic chris316 %} - 185 SPs, 6 Stamps</li>
                     <li value="2">{% rauserpic DeeCee %} - 185 SPs, 6 Stamps</li>
                     <li value="3">{% rauserpic Sutarion %} - 179 SPs, 6 Stamps</li>
-                    <li value="4">{% rauserpic TrashPaddy %} - 170 SPs, 6 Stamps</li>
+                    <li value="4">{% rauserpicalt TrashPaddy, PaddyShade %} - 170 SPs, 6 Stamps</li>
                     <li value="5">{% rauserpic Adenothe %} - 165 SPs, 6 Stamps</li>
                     <li value="6">{% rauserpic BubbleRoxie %} - 158 SPs, 5 Stamps</li>
                     <li value="7">{% rauserpic Reeve42 %} - 151 SPs, 5 Stamps</li>
@@ -398,7 +398,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Host(s):</strong></td>
-            <td>{% rauserpic genesislover %}, {% rauserpicalt tele, televandalist %}, & {% rauserpic AuburnRDM %}</td>
+            <td>{% rauserpicalt GenesisRA, genesislover %}, {% rauserpicalt tele, televandalist %}, & {% rauserpic AuburnRDM %}</td>
         </tr>
         <tr>
             <td><strong>Notable Details:</strong></td>
@@ -430,7 +430,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td>{% rauserpic Tayadaoc %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic TrashPaddy %}</td>
+                            <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
                             <td>{% rauserpic Trickcat %}</td>
                             <td>{% rauserpic Xymjak %}</td>
                         </tr>
@@ -538,7 +538,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <li value="4" >{% rauserpic Whynot15 %} - 30 Points</li>
                             <li value="5" >{% rauserpic Bendyhuman %} - 28 Points</li>
                             <li value="6" >{% rauserpic TheKToaster %} - 24 Points</li>
-                            <li value="7" >{% rauserpic CrystallineDrop %} - 23 Points</li>
+                            <li value="7" >{% rauserpicalt CrystallineDrop, Crystalline343 %} - 23 Points</li>
                             <li value="8" >{% rauserpic Kikingkikker %} - 22 Points</li>
                             <li value="9" >{% rauserpic DeeCee %} - 22 Points</li>
                             <li value="10" >{% rauserpic 8bitsmephisto %} - 21 Points</li>

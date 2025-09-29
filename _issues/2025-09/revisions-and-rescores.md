@@ -136,7 +136,7 @@ toc: true
 
 | Game                                    | Revision Author      | Genre          |
 | --------------------------------------- | -------------------- | -------------- |
-| {% ragamepic 10062, 108450, Sonic CD %} | {% rauser Crazeuh %} | 2D Platforming |
+| {% ragamepic 10062, 108450, Sonic CD %} | {% rauser Craze %} | 2D Platforming |
 
 <a href="#toc">:top:</a>
 

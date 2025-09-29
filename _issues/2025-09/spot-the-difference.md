@@ -29,7 +29,7 @@ category: Spot The Difference
     <td>{% rauserpic crrool %}</td>
   </tr>
   <tr>
-    <td>{% rauserpic Makironi %}</td>
+    <td>{% rauserpicalt Makironi, Farbefab %}</td>
     <td>{% rauserpic ABCDEFGHI %}</td>
     <td>{% rauserpic jeremylu00 %}</td>
     <td>{% rauserpic thattiredcat %}</td>
@@ -72,6 +72,6 @@ Yuri and Chelinka were living happy together with their father in a small villag
 | ------------------------------------------------------------------------------ | ----------- | ---------- |
 | {% ragamepic 16244, 116299, Final Fantasy Crystal Chronicles: Ring of Fates %} | Nintendo DS | Action RPG |
 
-* Suggested by: {% rauserpic Makironi %}
+* Suggested by: {% rauserpicalt Makironi, Farbefab %}
 
 **Note:** Every user who finds all 10 differences and sends proof to SporyTike via Site DM or Discord will be listed in the next issue. Additionally a random selected user who submitted the solution until the end of the month will be chosen to select the game of the next picture.

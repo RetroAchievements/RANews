@@ -13,7 +13,7 @@ Many members of our community have drawn far art as a celebration of an achievem
 
 <p align="center"><img src="https://github.com/user-attachments/assets/5b0f406a-f90e-4012-a46e-c48cbc1b89f7" /></p>
 
-By {% rauserpic PINGG %}
+By {% rauserpicalt PINGG, PenguGG %}
 
 Ness and his friends are enjoying a chill afternoon at the lake, eating some candy and enjoying the peace... and then, Nessy showed up! But like the good heroes they are, they remember that sharing is caring and give Nessy some as well, so sweet!
 
