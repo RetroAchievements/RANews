@@ -89,7 +89,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 
 |{% rauserpic MiningMario %}|{% rauserpic Sutarion %}||
 
-### 9000 Mastery Awards
+### 900 Mastery Awards
 
 |{% rauserpic DeeCee %}|||
 
