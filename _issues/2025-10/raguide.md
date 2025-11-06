@@ -3,7 +3,7 @@ issue: 2025-10
 order: 202510-30
 layout: article
 category: RAGuide
-title: Galactic Pinball
+title: "Medal of Honor: Rising Sun"
 author: MrOwnership
 toc: true
 ---
