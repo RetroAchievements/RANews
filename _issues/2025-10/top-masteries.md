@@ -99,7 +99,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 
 ### 1000 Mastery Awards
 
-|{% rauserpic DeeCee %}{% rauserpic pitapocket17 %}||
+|{% rauserpic DeeCee %} | {% rauserpic pitapocket17 %}||
 
 ### 900 Mastery Awards
 
