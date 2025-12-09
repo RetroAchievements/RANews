@@ -28,7 +28,7 @@ category: Spot The Difference
   </tr>
   <tr>
       <td>{% rauserpic thattiredcat %}</td>
-      <td>{% rauserpic SusieRose %}</td>
+      <td>{% rauserpicalt SusieRose, TerraRose %}</td>
       <td>{% rauserpic jeremylu00 %}</td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ category: Spot The Difference
       <td>{% rauserpic IHaveBarigudSax %}</td>
   </tr>
   <tr>
-      <td>{% rauserpic Kadash %}</td>
+      <td>{% rauserpicalt Kadash, Kdash12345 %}</td>
       <td>{% rauserpic Vestitor %}</td>
       <td>{% rauserpic Kartozi %}</td>
   </tr>
@@ -83,7 +83,7 @@ category: Spot The Difference
   </tr>
   <tr>
       <td>{% rauserpic Nin1OdoMatt %}</td>
-      <td colspan="2">{% rauserpic AmethystLightTV %}</td>
+      <td colspan="2">{% rauserpicalt AmethystLightTV, Knifemaker1 %}</td>
   </tr>
 </tbody></table>
 

@@ -43,7 +43,7 @@ And another Christmas game is Batman Returns... but it looks like tobesplays was
 
 <p align="center"><img src="https://github.com/user-attachments/assets/b391f7dc-730d-47ba-a7a8-217e9418c240" /></p>
 
-By {% rauserpic haavikassu %}
+By {% rauserpicalt haavi, haavikassu %}
 
 What would Christmas be without the movies that are on TV every year that we definitely haven't seen enough? Polar Express is one of them, that also has a GBA video game adaptation with a kid never part of the movie that goes super saiyan. Funny moment in video game history.
 

@@ -15,7 +15,7 @@ Wish This Set is a showcase for our passionate community members to write about 
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3750" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/062885.png" alt="Elemental Gimmick Gear"> <span>Elemental Gimmick Gear</span></a> | Dreamcast | [Action RPG](https://retroachievements.org/hub/8625) |
 
-* Write-up by: {% rauserpic EphemeralEnigmas %}
+* Write-up by: {% rauserpicalt EphemeralEnigmas, sb191219 %}
 
 <figure style="text-align:center;float:right;width:50%;height:50%">
 <img src="https://media.retroachievements.org/Images/062884.png">

@@ -130,12 +130,12 @@ The game features mazes, in which you control a tiny cube which is forced to mov
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/2826" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/106882.png" alt="Tony Hawk's Pro Skater 3"> <span>Tony Hawk's Pro Skater 3</span></a> | PlayStation 2 | [Extreme Sports - Skateboarding](https://retroachievements.org/hub/18710) |
 
-* Set by: {% rauserpic SnowPin %}
+* Set by: {% rauserpicalt SnowPin, Snow %}
 * Write-up by: {% rauserpic dumbFKNidiot %}
 
 THPS3 PS2. Why do I love this? This set has so much salt on it for the “monotony” of having to complete the game 22 times, each with a new character. No problem, if you ask me! The game is fun. Each character has a variety to the experience, as small as it may be.
 
-But the most bitter salt comes from the [Shaun Palmer demo achievement](https://retroachievements.org/achievement/261697) that is required to obtain set mastery. Many other players have protested the inclusion of this achievement, and while I see their point, (to paraphrase my comment from the set’s page) I was glad to have the Palmer demo instead of having to land all gaps in the game. Indeed, “find / perform all gaps” seems to be a trend in many of the [THPS](https://retroachievements.org/hub/7552) sets. It can be a daunting journey. With some patience and research, toughing out the Palmer demo felt less frustrating than a gap hunt. That said, I recommend playing this set. Respect to {% rauserpic SnowPin %} for dev’ing it!
+But the most bitter salt comes from the [Shaun Palmer demo achievement](https://retroachievements.org/achievement/261697) that is required to obtain set mastery. Many other players have protested the inclusion of this achievement, and while I see their point, (to paraphrase my comment from the set’s page) I was glad to have the Palmer demo instead of having to land all gaps in the game. Indeed, “find / perform all gaps” seems to be a trend in many of the [THPS](https://retroachievements.org/hub/7552) sets. It can be a daunting journey. With some patience and research, toughing out the Palmer demo felt less frustrating than a gap hunt. That said, I recommend playing this set. Respect to {% rauserpicalt SnowPin, Snow %} for dev’ing it!
 
 ## \~Hack~ Super Mario Sunshine Arcade 2 (GameCube)
 

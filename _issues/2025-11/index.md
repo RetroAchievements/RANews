@@ -69,7 +69,7 @@ toc_float: false
 <div class="section-link">
     <a href="./current-events.html">
         <div class="section-content">
-            <h1 id="current-events">Current Events---</h1>
+            <h1 id="current-events">Current Events</h1>
             <p>The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!</p>
         </div>
     </a>
@@ -85,7 +85,7 @@ toc_float: false
 <div class="section-link">
     <a href="./community-news.html">
         <div class="section-content">
-            <h1 id="community-news">Community News---</h1>
+            <h1 id="community-news">Community News</h1>
             <p>Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.</p>
         </div>
     </a>
@@ -172,7 +172,7 @@ toc_float: false
 <div class="section-link">
     <a href="./ranniversaries.html">
         <div class="section-content">
-            <h1 id="ranniversaries">RAnniversaries---</h1>
+            <h1 id="ranniversaries">RAnniversaries</h1>
             <p>Joining RetroAchievements is a major milestone for gamers and achievement developers, and we love celebrating those anniversaries. In this section, we'll recognize the achievements of our dedicated members by highlighting their years of service to the site. From new members to veterans, we'll showcase everyone who's reached a new anniversary milestone. Join us in celebrating our amazing community, and the hard work and dedication that makes RetroAchievements the best achievement hunting community out there.</p>
         </div>
     </a>
@@ -220,13 +220,97 @@ toc_float: false
 </div>
 <div class="section-link">
     <div class="section-content">
-        <h1 id="acknowledgments">Acknowledgments---</h1>
+        <h1 id="acknowledgments">Acknowledgments</h1>
         <p>The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.</p>
         <table><tbody>
             <tr>
+                <td>{% rauserpic 1stPrize %}</td>
+                <td>{% rauserpic Adenothe %}</td>
                 <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic AnarchisedLUTE %}</td>
+                <td>{% rauserpic ArtikSkarab %}</td>
                 <td>{% rauserpic Bendyhuman %}</td>
+            </tr>
+            <tr>
                 <td>{% rauserpic BlueShellBeast %}</td>
+                <td>{% rauserpic Brandovsky %}</td>
+                <td>{% rauserpic cosmolitano %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic DevCompliance %}</td>
+                <td>{% rauserpic dumbFKNidiot %}</td>
+                <td>{% rauserpic ElMullet %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt EphemeralEnigmas, sb191219 %}</td>
+                <td>{% rauserpic Erodion %}</td>
+                <td>{% rauserpic Frenchy70 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic gameburke %}</td>
+                <td>{% rauserpic gamer097 %}</td>
+                <td>{% rauserpicalt haavi, haavikassu %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic HardSonicStorm %}</td>
+                <td>{% rauserpic Hotscrock %}</td>
+                <td>{% rauserpic Kecleon352 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Laoth %}</td>
+                <td>{% rauserpic MrOwnership %}</td>
+                <td>{% rauserpic Nepiki %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
+                <td>{% rauserpic Nydaxn %}</td>
+                <td>{% rauserpic Obliv %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Pikur %}</td>
+                <td>{% rauserpic pinguupinguu %}</td>
+                <td>{% rauserpic QATeam %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic RANews %}</td>
+                <td>{% rauserpic Raykusen %}</td>
+                <td>{% rauserpic RetroGameMaster %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic scatter %}</td>
+                <td>{% rauserpic SegoeUI %}</td>
+                <td>{% rauserpic ShadwSonic %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Sines %}</td>
+                <td>{% rauserpicalt SnowPin, Snow %}</td>
+                <td>{% rauserpic SporyTike %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic StingX2 %}</td>
+                <td>{% rauserpic Tayadaoc %}</td>
+                <td>{% rauserpicalt tele, televandalist %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic The1upBlock %}</td>
+                <td>{% rauserpic TimeCrush %}</td>
+                <td>{% rauserpic tobesplays %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic vikdarkbomb %}</td>
+                <td>{% rauserpic wallmasterz %}</td>
+                <td>{% rauserpic WanderingHeiho %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Whynot15 %}</td>
+                <td>{% rauserpic Wispydream %}</td>
+                <td>{% rauserpic wizagab %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic xnaivx %}</td>
+                <td colspan="2">{% rauserpic Xymjak %}</td>
             </tr>
         </tbody></table>
     </div>

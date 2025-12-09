@@ -34,7 +34,7 @@ toc: true
 
 | Game                                                 | Revision By           | Genre          |
 | ---------------------------------------------------- | --------------------- | -------------- |
-| {% ragamepic 116, 120056, Mega Man: The Wily Wars %} | {% rauser xTr4ceur %} | 2D Platforming |
+| {% ragamepic 116, 120056, Mega Man: The Wily Wars %} | {% rauser Traysir89 %} | 2D Platforming |
 | {% ragamepic 602, 114415, Virtua Racing %}           | {% rauser MGNS8M %}   | Arcade Racing  |
 
 <a href="#toc">:top:</a>

@@ -17,7 +17,7 @@ toc: true
 | {% ragamepic 11958, 095360, 19XX: The War Against Destiny %}   | {% rauser MrBot3 %}          | Shoot 'em Up              |
 | {% ragamepic 17891, 053948, Akatsuki Blitzkampf Ausf. Achse %} | {% rauser Raeyene %}         | 2D Fighting               |
 | {% ragamepic 13284, 118670, Fighter's History %}               | {% rauser zxmega %}          | -                         |
-| {% ragamepic 12140, 118906, Galaga '88 %}                      | {% rauser NamcoPlayer9871 %} | Shoot 'em Up              |
+| {% ragamepic 12140, 118906, Galaga '88 %}                      | {% rauser suun %} | Shoot 'em Up              |
 | {% ragamepic 13297, 118671, Karnov's Revenge %}                | {% rauser zxmega %}          | 2D Fighting               |
 | {% ragamepic 28948, 119089, Muchi Muchi Pork! %}               | {% rauser Quenthel %}        | Shoot 'em Up, Bullet Hell |
 | {% ragamepic 12324, 088206, Neo Mr. Do! %}                     | {% rauser Krylan %}          | Maze Chase                |
@@ -40,7 +40,7 @@ toc: true
 
 | Game                                                | Author                       | Genre        |
 | --------------------------------------------------- | ---------------------------- | ------------ |
-| {% ragamepic 13033, 119414, ~Prototype~ Sinistar %} | {% rauser NamcoPlayer9871 %} | Shoot 'em Up |
+| {% ragamepic 13033, 119414, ~Prototype~ Sinistar %} | {% rauser suun %} | Shoot 'em Up |
 
 <a href="#toc">:top:</a>
 
@@ -113,7 +113,7 @@ toc: true
 | {% ragamepic 2346, 119783, Spirits & Spells %}                           | {% rauser MelodyAsh %}     | 2D Platforming    |
 | {% ragamepic 7959, 119059, The Barbie Diaries: High School Mystery %}    | {% rauser Jamiras %}       | Adventure         |
 | {% ragamepic 9339, 119018, The Scorpion King: Sword of Osiris %}         | {% rauser Mendil %}        | -                 |
-| {% ragamepic 6408, 110737, Ultimate Spider-Man %}                        | {% rauser malhas1000 %}    | Beat 'em Up       |
+| {% ragamepic 6408, 110737, Ultimate Spider-Man %}                        | {% rauser OpheliaEnigma %}    | Beat 'em Up       |
 | {% ragamepic 31892, 112523, ~Hack~ Pokémon Scorched Silver %}            | {% rauser Gollawiz %}      | Turn-Based RPG    |
 | {% ragamepic 13635, 021126, ~Unlicensed~ Rockman & Crystal %}            | {% rauser DeeCee %}        | 2D Platforming    |
 
@@ -126,9 +126,9 @@ toc: true
 | Game                                                             | Author                    | Genre        |
 | ---------------------------------------------------------------- | ------------------------- | ------------ |
 | {% ragamepic 6276, 069453, Halloween Racer %}                    | {% rauser pinguupinguu %} | -            |
-| {% ragamepic 3673, 101265, Snow White and the Seven Dwarfs %}    | {% rauser wolfman2000 %}  | -            |
+| {% ragamepic 3673, 101265, Snow White and the Seven Dwarfs %}    | {% rauser lonegraywolf2000 %}  | -            |
 | {% ragamepic 8685, 119347, ~Hack~ Joel's Bizarre Pokeventure %}  | {% rauser pinguupinguu %} | -            |
-| {% ragamepic 29047, 111197, ~Homebrew~ Hollow Knight Silksong %} | {% rauser wolfman2000 %}  | Metroidvania |
+| {% ragamepic 29047, 111197, ~Homebrew~ Hollow Knight Silksong %} | {% rauser lonegraywolf2000 %}  | Metroidvania |
 
 <a href="#toc">:top:</a>
 
@@ -150,7 +150,7 @@ toc: true
 | Game                                                                           | Author                     | Genre                                     |
 | ------------------------------------------------------------------------------ | -------------------------- | ----------------------------------------- |
 | {% ragamepic 127, 099521, Aaahh!!! Real Monsters %}                            | {% rauser cdpowe %}        | 2D Platforming                            |
-| {% ragamepic 24356, 119508, Air Hockey %}                                      | {% rauser MaddieKittyTV %} | Sports - Hockey                           |
+| {% ragamepic 24356, 119508, Air Hockey %}                                      | {% rauser LilCutieSophia %} | Sports - Hockey                           |
 | {% ragamepic 11184, 115914, Cosmic Spacehead %}                                | {% rauser SquishiSprite %} | 2D Platforming, Point-and-Click Adventure |
 | {% ragamepic 31684, 109217, Darius %}                                          | {% rauser abdalin %}       | -                                         |
 | {% ragamepic 4229, 048038, Devilish: The Next Possession %}                    | {% rauser Vancleef %}      | Brick Breakers                            |
@@ -168,10 +168,10 @@ toc: true
 | Game                                                                                 | Author                       | Genre                            |
 | ------------------------------------------------------------------------------------ | ---------------------------- | -------------------------------- |
 | {% ragamepic 33969, 118757, 1942 %}                                                  | {% rauser Mendil %}          | -                                |
-| {% ragamepic 3287, 115582, Aleste 2 %}                                               | {% rauser TwosomesUP %}      | Shoot 'em Up                     |
-| {% ragamepic 34400, 116130, Aleste Gaiden %}                                         | {% rauser TwosomesUP %}      | Shoot 'em Up                     |
+| {% ragamepic 3287, 115582, Aleste 2 %}                                               | {% rauser BacklogOddy %}      | Shoot 'em Up                     |
+| {% ragamepic 34400, 116130, Aleste Gaiden %}                                         | {% rauser BacklogOddy %}      | Shoot 'em Up                     |
 | {% ragamepic 27466, 114481, Athletic Land %}                                         | {% rauser authorblues %}     | 2D Platforming                   |
-| {% ragamepic 31520, 114493, Bosconian %}                                             | {% rauser NamcoPlayer9871 %} | -                                |
+| {% ragamepic 31520, 114493, Bosconian %}                                             | {% rauser suun %} | -                                |
 | {% ragamepic 25086, 118049, Circus Charlie %}                                        | {% rauser Julysse %}         | Arcade                           |
 | {% ragamepic 25091, 114720, Contra %}                                                | {% rauser Raeyene %}         | Run & Gun                        |
 | {% ragamepic 16402, 119683, Dragon Quest II: Pantheon of Evil Spirits (MSX2) %}      | {% rauser TheMysticalOne %}  | Turn-Based RPG                   |
@@ -200,16 +200,16 @@ toc: true
 | {% ragamepic 21450, 067216, Princess Maker %}                                        | {% rauser lizstar %}         | Life Simulation                  |
 | {% ragamepic 32667, 116353, Psycho World %}                                          | {% rauser Hotscrock %}       | 2D Platforming                   |
 | {% ragamepic 25094, 077069, Quarth %}                                                | {% rauser RyCuLe %}          | -                                |
-| {% ragamepic 33995, 116510, Rastan Saga %}                                           | {% rauser ladynadiad %}      | Action                           |
+| {% ragamepic 33995, 116510, Rastan Saga %}                                           | {% rauser LadyNadia %}      | Action                           |
 | {% ragamepic 34513, 117498, Rise Out from Dungeons %}                                | {% rauser Jamiras %}         | Puzzle Platforming               |
 | {% ragamepic 16404, 116680, Shin Maou Golvellius %}                                  | {% rauser authorblues %}     | Action-Adventure                 |
 | {% ragamepic 32666, 117561, Super Cooks %}                                           | {% rauser authorblues %}     | Action-Adventure                 |
-| {% ragamepic 26184, 115216, Tank Battalion %}                                        | {% rauser NamcoPlayer9871 %} | -                                |
+| {% ragamepic 26184, 115216, Tank Battalion %}                                        | {% rauser suun %} | -                                |
 | {% ragamepic 4011, 116966, Tengoku Yoitoko %}                                        | {% rauser authorblues %}     | 2D Platforming                   |
 | {% ragamepic 33461, 116515, The Castle %}                                            | {% rauser quirky0992 %}      | Metroidvania, Puzzle Platforming |
 | {% ragamepic 33195, 112486, The Stone of Wisdom %}                                   | {% rauser Jamiras %}         | Action-Adventure                 |
-| {% ragamepic 34012, 116635, Yuurei-kun %}                                            | {% rauser TwosomesUP %}      | Action-Adventure                 |
-| {% ragamepic 33879, 114420, ~Homebrew~ Balloon Buster %}                             | {% rauser Snow %}            | Arcade                           |
+| {% ragamepic 34012, 116635, Yuurei-kun %}                                            | {% rauser BacklogOddy %}      | Action-Adventure                 |
+| {% ragamepic 33879, 114420, ~Homebrew~ Balloon Buster %}                             | {% rauser SnowPin %}            | Arcade                           |
 | {% ragamepic 33865, 115552, ~Homebrew~ Binary Battle %}                              | {% rauser orangepeelbeef %}  | -                                |
 | {% ragamepic 33868, 114506, ~Homebrew~ BitLogic %}                                   | {% rauser DoctorV %}         | -                                |
 | {% ragamepic 33788, 117074, ~Homebrew~ Caos Begins %}                                | {% rauser Yanbetari %}       | Action-Adventure                 |
@@ -275,7 +275,7 @@ toc: true
 
 | Game                                                                                         | Author                   | Genre                          |
 | -------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------ |
-| {% ragamepic 34500, 118607, The Legend of Zelda: Majora's Mask [Subset - Glitch Showcase] %} | {% rauser AlexGatao %}   | Action-Adventure               |
+| {% ragamepic 34500, 118607, The Legend of Zelda: Majora's Mask [Subset - Glitch Showcase] %} | {% rauser AlexHylian %}   | Action-Adventure               |
 | {% ragamepic 35115, 119514, ~Hack~ Luigi's Mansion 64.5: Super Player Mode %}                | {% rauser Dimedime %}    | 3D Platforming, Collect-a-thon |
 | {% ragamepic 34478, 119684, ~Hack~ Pacmario %}                                               | {% rauser RetroBurger %} | Maze Chase                     |
 | {% ragamepic 19408, 119007, ~Hack~ Star Revenge 6.9: Luigi Lost In Time %}                   | {% rauser Dimedime %}    | 3D Platforming, Collect-a-thon |
@@ -289,12 +289,12 @@ toc: true
 
 | Game                                                                                                       | Author                        | Genre                            |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------- |
-| {% ragamepic 22304, 101006, Bee Movie Game %}                                                              | {% rauser Gadet %}            | Action-Adventure                 |
-| {% ragamepic 24347, 116913, Bob the Builder: Festival of Fun %}                                            | {% rauser MaddieKittyTV %}    | -                                |
+| {% ragamepic 22304, 101006, Bee Movie Game %}                                                              | {% rauser SiSiSierra %}            | Action-Adventure                 |
+| {% ragamepic 24347, 116913, Bob the Builder: Festival of Fun %}                                            | {% rauser LilCutieSophia %}    | -                                |
 | {% ragamepic 2141, 115159, Brain Age: Train Your Brain in Minutes a Day! %}                                | {% rauser Biendeo %}          | Educational, Sudoku              |
 | {% ragamepic 26535, 119473, Dora's Cooking Club %}                                                         | {% rauser Julysse %}          | Cooking Simulation, Educational  |
-| {% ragamepic 29845, 097637, Lufia: Curse of the Sinistrals [Subset - Bonus - Ancient Cave Variety Pack] %} | {% rauser ladynadiad %}       | Action RPG                       |
-| {% ragamepic 3858, 089344, Lufia: Curse of the Sinistrals %}                                               | {% rauser ladynadiad %}       | Action RPG                       |
+| {% ragamepic 29845, 097637, Lufia: Curse of the Sinistrals [Subset - Bonus - Ancient Cave Variety Pack] %} | {% rauser LadyNadia %}       | Action RPG                       |
+| {% ragamepic 3858, 089344, Lufia: Curse of the Sinistrals %}                                               | {% rauser LadyNadia %}       | Action RPG                       |
 | {% ragamepic 9788, 039068, Might & Magic: Clash of Heroes %}                                               | {% rauser lemonblitz %}       | Puzzle, Strategy, RPG            |
 | {% ragamepic 16749, 116517, Nicktoons: Battle for Volcano Island %}                                        | {% rauser Sniwott %}          | 2D Platforming, Action-Adventure |
 | {% ragamepic 35112, 119154, Pokémon Black Version 2 [Subset - Monotype Challenge] %}                       | {% rauser ChaoticAdventure %} | Turn-Based RPG                   |
@@ -311,12 +311,12 @@ toc: true
 
 | Game                                                       | Author                      | Genre                     |
 | ---------------------------------------------------------- | --------------------------- | ------------------------- |
-| {% ragamepic 18683, 066879, Aconcagua %}                   | {% rauser spookerson %}     | Point-and-Click Adventure |
+| {% ragamepic 18683, 066879, Aconcagua %}                   | {% rauser coyoacan %}     | Point-and-Click Adventure |
 | {% ragamepic 18222, 089739, Astérix: The Gallic War %}     | {% rauser Pilzkopf %}       | Action, Strategy          |
-| {% ragamepic 11603, 066771, Destruction Derby 2 %}         | {% rauser ggodeny1 %}       | Vehicular Combat          |
+| {% ragamepic 11603, 066771, Destruction Derby 2 %}         | {% rauser godeny %}       | Vehicular Combat          |
 | {% ragamepic 5954, 043587, Evil Dead: Hail to the King %}  | {% rauser streetbackguy %}  | Survival Horror           |
 | {% ragamepic 6325, 115555, Hellnight %}                    | {% rauser Raichi %}         | Adventure, Horror         |
-| {% ragamepic 16570, 091240, Martian Gothic: Unification %} | {% rauser TwosomesUP %}     | -                         |
+| {% ragamepic 16570, 091240, Martian Gothic: Unification %} | {% rauser BacklogOddy %}     | -                         |
 | {% ragamepic 18430, 118346, Rupupu Cube: Lup Salad %}      | {% rauser LordAndrew %}     | Puzzle Platforming        |
 | {% ragamepic 18237, 075213, Serial Experiments Lain %}     | {% rauser carlosrhv %}      | Interactive Movie         |
 | {% ragamepic 32087, 115835, The Three Stooges %}           | {% rauser JoyfulFireball %} | Minigames                 |
@@ -339,7 +339,7 @@ toc: true
 | {% ragamepic 19120, 119523, Star Wars: Battlefront %}                                      | {% rauser Lilihierax %}       | Third-Person Shooter                    |
 | {% ragamepic 22605, 118527, Tarzan Untamed %}                                              | {% rauser TheXIIIthX %}       | Action-Adventure                        |
 | {% ragamepic 21163, 097190, Tomb Raider: Underworld %}                                     | {% rauser AshMetalRaf %}      | Action-Adventure, Cinematic Platforming |
-| {% ragamepic 2687, 081532, Wild Arms 5 %}                                                  | {% rauser Snow %}             | Turn-Based RPG                          |
+| {% ragamepic 2687, 081532, Wild Arms 5 %}                                                  | {% rauser SnowPin %}             | Turn-Based RPG                          |
 
 <a href="#toc">:top:</a>
 
@@ -366,8 +366,8 @@ toc: true
 | {% ragamepic 1235, 117754, Super Soccer %}                                                 | {% rauser CeeSDaMan %}      | -              |
 | {% ragamepic 1350, 119147, Zoop %}                                                         | {% rauser KiwiTaco %}       | Puzzle         |
 | {% ragamepic 34086, 119654, ~Hack~ FF2us Impossible %}                                     | {% rauser solidification %} | -              |
-| {% ragamepic 35594, 119694, ~Hack~ Fresh Hops 2 %}                                         | {% rauser SuperMeatBro %}   | 2D Platforming |
-| {% ragamepic 35593, 119692, ~Hack~ Fresh Hops %}                                           | {% rauser SuperMeatBro %}   | 2D Platforming |
+| {% ragamepic 35594, 119694, ~Hack~ Fresh Hops 2 %}                                         | {% rauser Meatbro %}   | 2D Platforming |
+| {% ragamepic 35593, 119692, ~Hack~ Fresh Hops %}                                           | {% rauser Meatbro %}   | 2D Platforming |
 
 <a href="#toc">:top:</a>
 
