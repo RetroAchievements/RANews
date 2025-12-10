@@ -316,11 +316,11 @@ toc: true
  
 **Previous Badges:**
 
-![before](https://i.imgur.com/raGdzqg.png)
+![before](img/art-updates/raGdzqg.png)
  
 **Current Badges:**
 
-![after](https://i.imgur.com/67mbOh7.png)
+![after](img/art-updates/67mbOh7.png)
 
 #### Yu-Gi-Oh! Reshef of Destruction
  
@@ -328,11 +328,11 @@ toc: true
  
 **Previous Badges:**
 
-![before](https://i.imgur.com/iSS9CRO.png)
+![before](img/art-updates/iSS9CRO.png)
  
 **Current Badges:**
 
-![after](https://i.imgur.com/EuXPa2M.png)
+![after](img/art-updates/EuXPa2M.png)
 
 <a href="#toc">:top:</a>
 
@@ -348,11 +348,11 @@ toc: true
  
 **Previous Badges:**
 
-![before](https://i.imgur.com/Ade7E34.png)
+![before](img/art-updates/Ade7E34.png)
  
 **Current Badges:**
 
-![after](https://i.imgur.com/3EJrZEu.png)
+![after](img/art-updates/3EJrZEu.png)
 
 <a href="#toc">:top:</a>
 
@@ -368,11 +368,11 @@ toc: true
  
 **Previous Badges:**
 
-![before](VAdaPEGA)
+![before](img/art-updates/HDP5KKW.png)
  
 **Current Badges:**
 
-![after](https://i.imgur.com/HDP5KKW.png)
+![after](img/art-updates/4rlbPGq.png)
 
 <a href="#toc">:top:</a>
 
@@ -388,11 +388,11 @@ toc: true
  
 **Previous Badges:**
 
-![before](https://i.imgur.com/R9gA9Be.png)
+![before](img/art-updates/R9gA9Be.png)
  
 **Current Badges:**
 
-![after](https://i.imgur.com/cNC7HKn.png)
+![after](img/art-updates/cNC7HKn.png)
 
 <a href="#toc">:top:</a>
 
@@ -408,11 +408,11 @@ toc: true
  
 **Previous Badges:**
 
-![before](https://i.imgur.com/IwrcHcc.png)
+![before](img/art-updates/IwrcHcc.png)
  
 **Current Badges:**
 
-![after](https://i.imgur.com/1Dx4cqa.png)
+![after](img/art-updates/1Dx4cqa.png)
 
 <a href="#toc">:top:</a>
 
@@ -432,7 +432,7 @@ toc: true
  
 **Current Badges:**
 
-![after](https://i.imgur.com/lFEGqse.png)
+![after](img/art-updates/lFEGqse.png)
 
 #### Fatal Fury 2
  
@@ -440,11 +440,11 @@ toc: true
  
 **Previous Badges:**
 
-![before](https://i.imgur.com/V79YGF8.png)
+![before](img/art-updates/V79YGF8.png)
  
 **Current Badges:**
 
-![after](https://i.imgur.com/M0Tk5wY.png)
+![after](img/art-updates/M0Tk5wY.png)
 
 #### Shadowrun
  
@@ -452,11 +452,11 @@ toc: true
  
 **Previous Badges:**
 
-![before](https://i.imgur.com/1jRzsEA.png)
+![before](img/art-updates/1jRzsEA.png)
  
 **Current Badges:**
 
-![after](https://i.imgur.com/lMRQOD4.png)
+![after](img/art-updates/lMRQOD4.png)
 
 #### Shin Megami Tensei II
  
@@ -464,11 +464,11 @@ toc: true
  
 **Previous Badges:**
 
-![before](https://i.imgur.com/dVUjPwg.png)
+![before](img/art-updates/dVUjPwg.png)
  
 **Current Badges:**
 
-![after](https://i.imgur.com/L5BcCvB.png)
+![after](img/art-updates/L5BcCvB.png)
 
 <a href="#toc">:top:</a>
 
