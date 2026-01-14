@@ -137,7 +137,7 @@ rev	9596	F	Layton
 rev	16191	W	Cartesia
 rev	1995	F	agoodduck
 rev	2465	F	KiwiTaco
-rev	765	F	OpheliaEnigma
+rev	763	F	OpheliaEnigma
 rev	18609	F	ChaoticAdventure
 rev	11389	F	Griffin
 rev	467	F	solidification

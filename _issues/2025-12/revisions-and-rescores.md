@@ -25,7 +25,7 @@ toc: true
 
 | Game                                                   | Revision By                | Genre     |
 | ------------------------------------------------------ | -------------------------- | --------- |
-| {% ragamepic 765, 070797, Final Fantasy VI: Advance %} | {% rauser OpheliaEnigma %} | -         |
+| {% ragamepic 763, 070792, Final Fantasy IV: Advance %} | {% rauser OpheliaEnigma %} | -         |
 | {% ragamepic 9596, 112066, Hamtaro: Rainbow Rescue %}  | {% rauser Layton %}        | Adventure |
 
 <a href="#toc">:top:</a>
