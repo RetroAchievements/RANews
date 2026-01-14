@@ -16,7 +16,6 @@ Every month, we would like to look back on the sets developed by our junior deve
 |      | {% ragamepic 2324, 119459, Silent Debuggers %}                                    | {% rauserpic DionOf93 %}        | {% rauserpic KiwiTaco %}         | 11/4/2025    |
 |      | {% ragamepic 33594, 116048, Guilty Gear XX Slash %}                               | {% rauserpic yeehaw44 %}        | {% rauserpicalt lonegraywolf2000, wolfman2000 %} | 11/4/2025    |
 |      | {% ragamepic 10735, 109372, Sonic the Hedgehog Spinball %}                        | {% rauserpic SirUdon %}         | {% rauserpic suspect15 %}        | 11/6/2025    |
-|      | {% ragamepic 12237, 113980, Snow Bros. 2: With New Elves %}                       | {% rauserpic Klonazepam %}      | {% rauserpic scatter %}          | 11/7/2025    |
 |      | {% ragamepic 21436, 107802, Digimon Rumble Arena 2 %}                             | {% rauserpic Teddy1991 %}       | {% rauserpic scatter %}          | 11/7/2025    |
 |      | {% ragamepic 805, 111780, Ms. Pac-Man %}                                          | {% rauserpic ChiiniiTheComet %} | {% rauserpic TheJediSonic %}     | 11/9/2025    |
 |      | {% ragamepic 6347, 087461, de Blob 2 %}                                           | {% rauserpic izhvolkt %}        | {% rauserpic CySlaytor %}        | 11/10/2025   |
@@ -40,7 +39,7 @@ Alongside the Junior Developers are the Code Reviewers, with their never ending 
 |                                 |     |
 | ------------------------------- | --- |
 | Reviews Requested               | 17  |
-| Reviews Completed               | 19  |
+| Reviews Completed               | 18  |
 | Reviews In Progress             | 19  |
 | Jr. Developers Promoted         | 3   |
 | Jr. Developers Promoted in 2025 | 40  |
@@ -52,10 +51,10 @@ Alongside the Junior Developers are the Code Reviewers, with their never ending 
 | -------------------------------- | ------------- |
 | {% rauserpicalt lonegraywolf2000, wolfman2000 %} | 2             |
 | {% rauserpic suspect15 %}        | 2             |
-| {% rauserpic scatter %}          | 2             |
 | {% rauserpic CySlaytor %}        | 2             |
 | {% rauserpic TheMysticalOne %}   | 2             |
 | {% rauserpic Yanbetari %}        | 2             |
+| {% rauserpic scatter %}          | 1             |
 | {% rauserpic KiwiTaco %}         | 1             |
 | {% rauserpic TheJediSonic %}     | 1             |
 | {% rauserpic RyCuLe %}           | 1             |
