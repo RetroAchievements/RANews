@@ -60,7 +60,7 @@ Ka-chow – now hit the track!
 * Write-up by: {% rauserpic Erodion %}
 
 <figure style="text-align:center;float:right;width:50%;height:50%">
-<img src="http://www.hardcoregaming101.net/wp-content/uploads/2017/05/cpubach-07-e1512490213325.png">
+<img src="./img/other/cpubach-07-e1512490213325.png">
 <figcaption></figcaption>
 </figure>
 

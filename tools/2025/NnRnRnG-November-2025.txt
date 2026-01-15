@@ -307,7 +307,7 @@ art	1515	B	Frenchy70	https://i.imgur.com/8JcD0Xf.png	https://i.imgur.com/LO2QuVA
 art	18987	I	yougotsstyle	https://media.retroachievements.org/Images/099514.png	https://media.retroachievements.org/Images/120983.png
 art	11206	I	doctormiawoo	https://media.retroachievements.org/Images/108527.png	https://media.retroachievements.org/Images/120984.png
 art	1000	I	OceanManow	https://media.retroachievements.org/Images/045534.png	https://media.retroachievements.org/Images/120985.png
-art	1040	I	Codes	https://i.postimg.cc/GmYzX6Gy/Current-Badges.png	https://i.postimg.cc/85kHP53n/Mr-Do-SNES-Contender.png
+art	1040	B	Codes	https://i.postimg.cc/GmYzX6Gy/Current-Badges.png	https://i.postimg.cc/85kHP53n/Mr-Do-SNES-Contender.png
 art	16281	I	Frenchy70	https://media.retroachievements.org/Images/120847.png	https://media.retroachievements.org/Images/120986.png
 art	36616	I	PrimalXY	https://media.retroachievements.org/Images/000001.png	https://media.retroachievements.org/Images/120999.png
 art	36617	I	PrimalXY	https://media.retroachievements.org/Images/000001.png	https://media.retroachievements.org/Images/121000.png

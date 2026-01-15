@@ -366,7 +366,6 @@ toc: true
 | {% ragamepic 3229, 120938, Mario's Early Years: Fun With Numbers %}       | {% rauser ZeeRA %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/049806.png"> |
 | {% ragamepic 3230, 120939, Mario's Early Years: Preschool Fun %}          | {% rauser ZeeRA %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/049803.png"> |
 | {% ragamepic 3231, 120936, Mario's Time Machine %}                        | {% rauser ZeeRA %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/010852.png"> |
-| {% ragamepic 1040, 119055, Mr. Do! %}                                     | {% rauser Codes %}           | <img class="gameicon" src="https://i.postimg.cc/GmYzX6Gy/Current-Badges.png">      |
 | {% ragamepic 1076, 120322, Olympic Summer Games %}                        | {% rauser Frenchy70 %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/077433.png"> |
 | {% ragamepic 3418, 120852, Rendering Ranger: R2 %}                        | {% rauser OceanManow %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/027007.png"> |
 | {% ragamepic 566, 120102, Shadowrun %}                                    | {% rauser WilHiteWarrior %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/119943.png"> |
@@ -772,6 +771,18 @@ toc: true
 **Current Badges:**
 
 ![after](img/art-updates/ipuLKcB.png)
+
+#### Mr. Do!
+ 
+**New badges by {% rauser Codes %}.**
+ 
+**Previous Badges:**
+
+![before](img/art-updates/Current-Badges.png)
+ 
+**Current Badges:**
+
+![before](img/art-updates/Mr-Do-SNES-Contender.png)
 
 #### Wizardry V: Heart of the Maelstrom
  
