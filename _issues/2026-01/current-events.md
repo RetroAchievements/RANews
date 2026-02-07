@@ -195,7 +195,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li value="4">{% rauserpic Daroachie %} - 55 Points</li>
                     <li value="5">{% rauserpic MeloDeathAtmoBlack %} - 54 Points</li>
                     <li value="6">{% rauserpic PepeJohn %} - 49 Points</li>
-                    <li value="7">{% rauserpic GenesisRA %} - 46 Points</li>
+                    <li value="7">{% rauserpicalt GenesisRA, genesislover %} - 46 Points</li>
                     <li value="8">{% rauserpic s0uth %} - 45 Points</li>
                     <li value="9">{% rauserpic SushiSeijin %} - 41 Points</li>
                     <li value="10">{% rauserpic jhonen124 %} - 39 Points</li>
@@ -348,12 +348,12 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                         </tr>
                         <tr>
                             <td>{% rauserpic Knav %}</td>
-                            <td>{% rauserpic mirukiru %}</td>
+                            <td>{% rauserpicalt mirukiru, Grungust %}</td>
                             <td>{% rauserpic Molson %}</td>
                         </tr>
                         <tr>
                             <td>{% rauserpic Sutarion %}</td>
-                            <td>{% rauserpic TrashPaddy %}</td>
+                            <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
                             <td>{% rauserpic WildeKitsune %}</td>
                         </tr>
                         <tr>
@@ -496,7 +496,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li value="2">{% rauserpic Sutarion %} - 161 Points</li>
                     <li value="3">{% rauserpic WeerDough %} - 160 Points</li>
                     <li value="3">{% rauserpic Greyfalken %} - 160 Points</li>
-                    <li value="3">{% rauserpic ThatWhiteBat %} - 160 Points</li>
+                    <li value="3">{% rauserpicalt ThatWhiteBat, Sylrifaide %} - 160 Points</li>
                     <li value="3">{% rauserpic Tyrota %} - 160 Points</li>
                     <li value="3">{% rauserpic Pikapals %} - 160 Points</li>
                     <li value="3">{% rauserpic Akai %} - 160 Points</li>

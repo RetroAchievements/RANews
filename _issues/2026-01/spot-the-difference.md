@@ -42,9 +42,9 @@ category: Spot The Difference
         <td>{% rauserpic PotatOS %}</td>
     </tr>
     <tr>
-        <td>{% rauserpic SusieRose %}</td>
+        <td>{% rauserpicalt SusieRose, TerraRose %}</td>
         <td>{% rauserpic Whoops %}</td>
-        <td>{% rauserpic AmethystLightTV %}</td>
+        <td>{% rauserpicalt AmethystLightTV, Knifemaker1 %}</td>
     </tr>
     <tr>
         <td>{% rauserpic Blushfulcorn %}</td>
@@ -69,11 +69,11 @@ category: Spot The Difference
     <tr>
         <td>{% rauserpic PhilMaiaz %}</td>
         <td>{% rauserpic Lauracomfy %}</td>
-        <td>{% rauserpic phatmanriddemretro %}</td>
+        <td>{% rauserpicalt RetroPhatman, phatmanriddemretro %}</td>
     </tr>
     <tr>
         <td>{% rauserpic Biwott %}</td>
-        <td>{% rauserpic CrimsonBlazehart %}</td>
+        <td>{% rauserpicalt CrimsonBlazehart, 1LunchMan %}</td>
         <td>{% rauserpic Made1nAbyss %}</td>
     </tr>
     <tr>

@@ -87,7 +87,7 @@ Check out the top 25 achievement creators from this month.
 | 3    | {% rauserpic suspect15 %}        | 231          |
 | 4    | {% rauserpic Kayesay %}          | 221          |
 | 5    | {% rauserpic Layton %}           | 182          |
-| 6    | {% rauserpic Bryan1150 %}        | 142          |
+| 6    | {% rauserpicalt Brylefi, Bryan1150 %}        | 142          |
 | 7    | {% rauserpic Pilzkopf %}         | 110          |
 | 8    | {% rauserpic solidification %}   | 107          |
 | 9    | {% rauserpic KiwiTaco %}         | 102          |
@@ -95,15 +95,15 @@ Check out the top 25 achievement creators from this month.
 | 11   | {% rauserpic Gudra %}            | 74           |
 | 12   | {% rauserpic Cruzelion %}        | 70           |
 | 13   | {% rauserpic Dennis1543 %}       | 69           |
-| 14   | {% rauserpic graypigeon22 %}     | 65           |
+| 14   | {% rauserpicalt Pearl, graypigeon22 %}     | 65           |
 | 15   | {% rauserpic Vancleef %}         | 60           |
 | 16   | {% rauserpic BiPolarScientist %} | 60           |
 | 17   | {% rauserpic zxmega %}           | 59           |
-| 18   | {% rauserpic spookerson %}       | 58           |
+| 18   | {% rauserpicalt coyoacan, spookerson %}       | 58           |
 | 19   | {% rauserpic Chr0x %}            | 55           |
 | 20   | {% rauserpic BeeroyLenkins %}    | 48           |
 | 21   | {% rauserpic Dimedime %}         | 48           |
-| 22   | {% rauserpic SuperMeatBro %}     | 46           |
+| 22   | {% rauserpicalt Meatbro, SuperMeatBro %}     | 46           |
 | 23   | {% rauserpic Achievess %}        | 45           |
 | 24   | {% rauserpic Julysse %}          | 45           |
 | 25   | {% rauserpic pinguupinguu %}     | 43           |
@@ -120,12 +120,12 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 3    | {% rauserpic Brian %}               |     54,188      |    400,750     |      1,063,450       |
 | 4    | {% rauserpic GalacticSpear %}       |     53,187      |    425,310     |      2,525,377       |
 | 5    | {% rauserpic Gollawiz %}            |     49,099      |    303,908     |      1,354,552       |
-| 6    | {% rauserpic ThatAmericanSlacker %} |     48,600      |    340,503     |       735,692        |
+| 6    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} |     48,600      |    340,503     |       735,692        |
 | 7    | {% rauserpic blendedsea %}          |     47,274      |    226,300     |       998,368        |
-| 8    | {% rauserpic Bryan1150 %}           |     47,255      |    303,235     |      8,257,456       |
-| 9    | {% rauserpic Snow %}                |     45,860      |    258,944     |      1,149,538       |
+| 8    | {% rauserpicalt Brylefi, Bryan1150 %}           |     47,255      |    303,235     |      8,257,456       |
+| 9    | {% rauserpicalt SnowPin, Snow %}                |     45,860      |    258,944     |      1,149,538       |
 | 10   | {% rauserpic timenoe %}             |     45,709      |    387,929     |      1,638,129       |
-| 11   | {% rauserpic televandalist %}       |     42,401      |    319,972     |       892,254        |
+| 11   | {% rauserpicalt tele, televandalist %}       |     42,401      |    319,972     |       892,254        |
 | 12   | {% rauserpic suspect15 %}           |     40,161      |    264,145     |      1,484,561       |
 | 13   | {% rauserpic TeddyWestside %}       |     39,993      |    235,209     |       585,247        |
 | 14   | {% rauserpic dude1286 %}            |     39,644      |    327,871     |       687,179        |
@@ -218,9 +218,9 @@ Check out who has the most achievement unlocks, points, retro points, and master
 | Rank | User                               | Achievements | Points | Retro Points | Mastery Awards |
 | ---- | ---------------------------------- | :----------: | :----: | :----------: | :------------: |
 | 1    | {% rauserpic BadutRawa %}          |    1,954     | 19,243 |   951,448    |       21       |
-| 2    | {% rauserpic DigitalDusk %}        |    1,935     | 8,760  |    60,645    |      125       |
+| 2    | {% rauserpicalt BraveVesperia, DigitalDusk %}        |    1,935     | 8,760  |    60,645    |      125       |
 | 3    | {% rauserpic Kaiserlucas %}        |    1,701     | 10,120 |    28,331    |       89       |
-| 4    | {% rauserpic BillyBnMOfficial %}   |    1,667     | 11,630 |    40,400    |       50       |
+| 4    | {% rauserpicalt BillyTGAoBaM, BillyBnMOfficial %}   |    1,667     | 11,630 |    40,400    |       50       |
 | 5    | {% rauserpic Capndrake %}          |    1,666     | 14,937 |    74,050    |       25       |
 | 6    | {% rauserpic Lifeinsteps %}        |    1,643     | 6,486  |    7,308     |      129       |
 | 7    | {% rauserpic DeeCee %}             |    1,624     | 9,436  |    47,357    |       55       |
@@ -232,10 +232,10 @@ Check out who has the most achievement unlocks, points, retro points, and master
 | 13   | {% rauserpic usedpizza %}          |    1,421     | 8,717  |    17,005    |       33       |
 | 14   | {% rauserpic bastard %}            |    1,411     | 5,490  |  4,321,181   |       5        |
 | 15   | {% rauserpic furario %}            |    1,397     | 11,239 |    19,108    |       23       |
-| 16   | {% rauserpic ChocoMilk %}          |    1,397     | 10,781 |    25,949    |       56       |
+| 16   | {% rauserpicalt ChoccyMilk, ChocoMilk %}          |    1,397     | 10,781 |    25,949    |       56       |
 | 17   | {% rauserpic saybingryph %}        |    1,392     | 7,638  |    24,453    |       43       |
 | 18   | {% rauserpic WorseAverage %}       |    1,386     | 12,785 |    58,107    |       8        |
-| 19   | {% rauserpic kanisapat %}          |    1,333     | 9,851  |    47,714    |       11       |
+| 19   | {% rauserpicalt minuskc, kanisapat %}          |    1,333     | 9,851  |    47,714    |       11       |
 | 20   | {% rauserpic Rhombo %}             |    1,325     | 9,562  |    61,288    |       3        |
 | 21   | {% rauserpic Doggy227 %}           |    1,324     | 7,829  |    34,301    |       4        |
 | 22   | {% rauserpic Frenchy70 %}          |    1,320     | 6,699  |    25,704    |       20       |
@@ -381,7 +381,7 @@ Check out which developers created the most code notes this month.
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
         <tr><td>1</td><td>{% rauserpic Guinea %}</td><td>1,833</td></tr>
-        <tr><td>2</td><td>{% rauserpic televandalist %}</td><td>1,078</td></tr>
+        <tr><td>2</td><td>{% rauserpicalt tele, televandalist %}</td><td>1,078</td></tr>
         <tr><td>3</td><td>{% rauserpic ToxicMushroom %}</td><td>787</td></tr>
         <tr><td>4</td><td>{% rauserpic Cruzelion %}</td><td>686</td></tr>
         <tr><td>5</td><td>{% rauserpic Skiichi %}</td><td>606</td></tr>
@@ -390,10 +390,10 @@ Check out which developers created the most code notes this month.
     <div style='width:49%;display:inline-block;float:right'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
         <tr><td>6</td><td>{% rauserpic Excessiveiser %}</td><td>562</td></tr>
-        <tr><td>7</td><td>{% rauserpic ladynadiad %}</td><td>346</td></tr>
+        <tr><td>7</td><td>{% rauserpicalt LadyNadia, ladynadiad %}</td><td>346</td></tr>
         <tr><td>8</td><td>{% rauserpic streetbackguy %}</td><td>345</td></tr>
         <tr><td>9</td><td>{% rauserpic suspect15 %}</td><td>287</td></tr>
-        <tr><td>10</td><td>{% rauserpic Amir96lx %}</td><td>284</td></tr>
+        <tr><td>10</td><td>{% rauserpicalt AmirGaris, Amir96lx %}</td><td>284</td></tr>
     </tbody></table>
     </div>
 </div>
@@ -474,9 +474,9 @@ Check out the users with the most mastery awards this month.
 | ---- | ------------------------------- | ------ |
 | 1    | {% rauserpic Groob %}           | 156    |
 | 2    | {% rauserpic Lifeinsteps %}     | 129    |
-| 3    | {% rauserpic DigitalDusk %}     | 125    |
+| 3    | {% rauserpicalt BraveVesperia, DigitalDusk %}     | 125    |
 | 4    | {% rauserpic Kaiserlucas %}     | 89     |
-| 5    | {% rauserpic UndercoverGamer %} | 86     |
+| 5    | {% rauserpicalt TwitdoofRA, UndercoverGamer %} | 86     |
 | 6    | {% rauserpic Pull %}            | 77     |
 | 7    | {% rauserpic TheUberCamper %}   | 76     |
 | 8    | {% rauserpic MarceloRonzani %}  | 71     |
@@ -575,7 +575,7 @@ Check out the users with the most beaten awards this month.
 | 1    | {% rauserpic Groob %}          | 159    |
 | 2    | {% rauserpic Olbrin %}         | 133    |
 | 3    | {% rauserpic Lifeinsteps %}    | 131    |
-| 4    | {% rauserpic DigitalDusk %}    | 129    |
+| 4    | {% rauserpicalt BraveVesperia, DigitalDusk %}    | 129    |
 | 5    | {% rauserpic Kaiserlucas %}    | 88     |
 | 6    | {% rauserpic TheUberCamper %}  | 84     |
 | 7    | {% rauserpic ElMullet %}       | 77     |
@@ -734,9 +734,9 @@ Check out which developers created the most leaderboards this month.
 <div>
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Leaderboards</th></tr></thead><tbody>
-        <tr><td>1</td><td>{% rauserpic Amir96lx %}</td><td>352</td></tr>
+        <tr><td>1</td><td>{% rauserpicalt AmirGaris, Amir96lx %}</td><td>352</td></tr>
         <tr><td>2</td><td>{% rauserpic Excessiveiser %}</td><td>258</td></tr>
-        <tr><td>3</td><td>{% rauserpic AdeptTempest %}</td><td>234</td></tr>
+        <tr><td>3</td><td>{% rauserpicalt ADTempest, AdeptTempest %}</td><td>234</td></tr>
         <tr><td>4</td><td>{% rauserpic suspect15 %}</td><td>204</td></tr>
         <tr><td>5</td><td>{% rauserpic Guinea %}</td><td>186</td></tr>
     </tbody></table>
@@ -824,7 +824,7 @@ Check out which developer cleared the most tickets this month. This does not inc
 
 | Rank | User                             | Cleared Tickets |
 | ---- | -------------------------------- | --------------- |
-| 1    | {% rauserpic televandalist %}    | 211             |
+| 1    | {% rauserpicalt tele, televandalist %}    | 211             |
 | 2    | {% rauserpic suspect15 %}        | 77              |
 | 3    | {% rauserpic TheMysticalOne %}   | 60              |
 | 4    | {% rauserpic rgavril %}          | 44              |
@@ -832,5 +832,5 @@ Check out which developer cleared the most tickets this month. This does not inc
 | 6    | {% rauserpic BiPolarScientist %} | 37              |
 | 7    | {% rauserpic Yurana %}           | 28              |
 | 8    | {% rauserpic Yanbetari %}        | 19              |
-| 9    | {% rauserpic Snow %}             | 19              |
+| 9    | {% rauserpicalt SnowPin, Snow %}             | 19              |
 | 10   | {% rauserpic BigDonRob %}        | 14              |

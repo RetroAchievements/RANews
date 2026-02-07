@@ -67,11 +67,11 @@ toc: true
 
 | Game                                                                                  | Icon By                      | Icon Before                                                                        |
 | ------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------- |
-| {% ragamepic 2572, 121676, Alfred Chicken %}                                          | {% rauser Rabbity %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/044008.png"> |
+| {% ragamepic 2572, 121676, Alfred Chicken %}                                          | {% rauser GoodbyeGamePlan %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/044008.png"> |
 | {% ragamepic 705, 121807, Kirby's Block Ball %}                                       | {% rauser iTom33ro %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/053727.png"> |
 | {% ragamepic 6075, 122416, Operation C %}                                             | {% rauser Jayvee %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/023654.png"> |
 | {% ragamepic 734, 122408, Tamagotchi %}                                               | {% rauser Stardustrash %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/026305.png"> |
-| {% ragamepic 2461, 121195, The Simpsons: Itchy & Scratchy - Miniature Golf Madness %} | {% rauser Rabbity %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/096554.png"> |
+| {% ragamepic 2461, 121195, The Simpsons: Itchy & Scratchy - Miniature Golf Madness %} | {% rauser GoodbyeGamePlan %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/096554.png"> |
 | {% ragamepic 24705, 121808, ~Homebrew~ ~Demo~ Undertale Gameboy Demake %}             | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/113922.png"> |
 
 <a href="#toc">:top:</a>
@@ -103,7 +103,7 @@ toc: true
 | {% ragamepic 9334, 122409, Summon Night Craft Sword Monogatari: Hajimari no Ishi %} | {% rauser Akirazord %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/101720.png"> |
 | {% ragamepic 2589, 122120, Summon Night: Swordcraft Story 2 %}                      | {% rauser Akirazord %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/038179.png"> |
 | {% ragamepic 2588, 121536, Summon Night: Swordcraft Story %}                        | {% rauser Akirazord %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/036473.png"> |
-| {% ragamepic 12820, 122152, Yoshi Topsy-Turvy %}                                    | {% rauser Rabbity %}            | <img class="gameicon" src="https://media.retroachievements.org/Images/034408.png"> |
+| {% ragamepic 12820, 122152, Yoshi Topsy-Turvy %}                                    | {% rauser GoodbyeGamePlan %}            | <img class="gameicon" src="https://media.retroachievements.org/Images/034408.png"> |
 | {% ragamepic 14408, 122420, ~Hack~ Pokémon FireRed: Rocket Edition %}               | {% rauser iPodwithnomusic %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/036005.png"> |
 
 <a href="#toc">:top:</a>
@@ -147,13 +147,13 @@ toc: true
 | {% ragamepic 6312, 121673, Knuckles the Echidna in Sonic the Hedgehog 2 %}                          | {% rauser Hawkow %}             | <img class="gameicon" src="https://media.retroachievements.org/Images/112577.png"> |
 | {% ragamepic 12931, 121646, Sonic Eraser %}                                                         | {% rauser SuperRAGamer18 %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/103157.png"> |
 | {% ragamepic 10, 121647, Sonic the Hedgehog 2 %}                                                    | {% rauser Hawkow %}             | <img class="gameicon" src="https://media.retroachievements.org/Images/085632.png"> |
-| {% ragamepic 1, 085573, Sonic the Hedgehog %}                                                       | {% rauser Rabbity %}            | <img class="gameicon" src="https://media.retroachievements.org/Images/117618.png"> |
+| {% ragamepic 1, 085573, Sonic the Hedgehog %}                                                       | {% rauser GoodbyeGamePlan %}            | <img class="gameicon" src="https://media.retroachievements.org/Images/117618.png"> |
 | {% ragamepic 40, 116068, World of Illusion starring Mickey Mouse and Donald Duck %}                 | {% rauser SirMarcos91 %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/073357.png"> |
-| {% ragamepic 9043, 121674, ~Hack~ Amy Rose in Sonic the Hedgehog 2 %}                               | {% rauser Rabbity %}            | <img class="gameicon" src="https://media.retroachievements.org/Images/113952.png"> |
+| {% ragamepic 9043, 121674, ~Hack~ Amy Rose in Sonic the Hedgehog 2 %}                               | {% rauser GoodbyeGamePlan %}            | <img class="gameicon" src="https://media.retroachievements.org/Images/113952.png"> |
 | {% ragamepic 4236, 121643, ~Hack~ Amy Rose in Sonic the Hedgehog %}                                 | {% rauser Hawkow %}             | <img class="gameicon" src="https://media.retroachievements.org/Images/085631.png"> |
 | {% ragamepic 20246, 121645, ~Hack~ Knuckles the Echidna in Sonic the Hedgehog %}                    | {% rauser Achievess %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/115843.png"> |
 | {% ragamepic 8514, 121675, ~Hack~ Sonic 1 Easy Mode %}                                              | {% rauser salvadorbastard %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/085628.png"> |
-| {% ragamepic 15370, 121729, ~Hack~ Sonic 3 and Amy Rose %}                                          | {% rauser Rabbity %}            | <img class="gameicon" src="https://media.retroachievements.org/Images/113968.png"> |
+| {% ragamepic 15370, 121729, ~Hack~ Sonic 3 and Amy Rose %}                                          | {% rauser GoodbyeGamePlan %}            | <img class="gameicon" src="https://media.retroachievements.org/Images/113968.png"> |
 | {% ragamepic 2235, 122052, ~Hack~ Sonic the Hedgehog: Classic Heroes %}                             | {% rauser supermegakosta %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/059143.png"> |
 | {% ragamepic 26731, 121644, ~Hack~ Tails in Sonic the Hedgehog %}                                   | {% rauser Achievess %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/115844.png"> |
 | {% ragamepic 7544, 121448, ~Unlicensed~ Virtua Fighter 2 vs. Tekken 2 \| V.R Fighter vs. Taken 2 %} | {% rauser MiguelsoaresGames2 %} | <img class="gameicon" src="https://media.retroachievements.org/Images/078317.png"> |
@@ -181,7 +181,7 @@ toc: true
 | ---------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 10005, 121379, Alex Kidd in Shinobi World %}              | {% rauser Slayn %}            | <img class="gameicon" src="https://media.retroachievements.org/Images/064915.png"> |
 | {% ragamepic 12843, 121377, Miracle Warriors: Seal of the Dark Lord %} | {% rauser ChaoticAdventure %} | <img class="gameicon" src="https://media.retroachievements.org/Images/077426.png"> |
-| {% ragamepic 10192, 121212, Ms. Pac-Man %}                             | {% rauser Rabbity %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/027487.png"> |
+| {% ragamepic 10192, 121212, Ms. Pac-Man %}                             | {% rauser GoodbyeGamePlan %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/027487.png"> |
 | {% ragamepic 10014, 121466, Ninja Gaiden %}                            | {% rauser KnockerKrazy %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/010676.png"> |
 | {% ragamepic 10028, 121625, Tom and Jerry: The Movie %}                | {% rauser vcnomeucolo %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/104863.png"> |
 
@@ -193,7 +193,7 @@ toc: true
 
 | Game                                                                                   | Icon By                        | Icon Before                                                                        |
 | -------------------------------------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------- |
-| {% ragamepic 1537, 121677, Alfred Chicken %}                                           | {% rauser Rabbity %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/082945.png"> |
+| {% ragamepic 1537, 121677, Alfred Chicken %}                                           | {% rauser GoodbyeGamePlan %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/082945.png"> |
 | {% ragamepic 5795, 121624, Banana Prince %}                                            | {% rauser vcnomeucolo %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/099033.png"> |
 | {% ragamepic 4815, 121886, Choujikuu Yousai: Macross %}                                | {% rauser DrPac %}             | <img class="gameicon" src="https://media.retroachievements.org/Images/079333.png"> |
 | {% ragamepic 4866, 121445, Dragon Ball Z III: Ressen Jinzou Ningen %}                  | {% rauser Frenchy70 %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/048423.png"> |
@@ -249,7 +249,7 @@ toc: true
 | {% ragamepic 15334, 121809, Mega Man Star Force: Leo %}                   | {% rauser Akirazord %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/096612.png"> |
 | {% ragamepic 17894, 121881, Mega Man Star Force: Pegasus %}               | {% rauser Akirazord %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/116208.png"> |
 | {% ragamepic 25929, 122046, Phineas and Ferb: Across the 2nd Dimension %} | {% rauser Walsoner65 %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/083397.png"> |
-| {% ragamepic 14785, 122162, Yoshi Touch & Go %}                           | {% rauser Rabbity %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/074451.png"> |
+| {% ragamepic 14785, 122162, Yoshi Touch & Go %}                           | {% rauser GoodbyeGamePlan %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/074451.png"> |
 | {% ragamepic 24389, 122412, ~Hack~ ~Demo~ Super Minecraft 64 DS %}        | {% rauser supermegakosta %} | <img class="gameicon" src="https://media.retroachievements.org/Images/079402.png"> |
 
 <a href="#toc">:top:</a>
@@ -260,7 +260,7 @@ toc: true
 
 | Game                                            | Icon By              | Icon Before                                                                        |
 | ----------------------------------------------- | -------------------- | ---------------------------------------------------------------------------------- |
-| {% ragamepic 36370, 121467, Go! Go! Kokopolo %} | {% rauser Rabbity %} | <img class="gameicon" src="https://media.retroachievements.org/Images/120565.png"> |
+| {% ragamepic 36370, 121467, Go! Go! Kokopolo %} | {% rauser GoodbyeGamePlan %} | <img class="gameicon" src="https://media.retroachievements.org/Images/120565.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -293,7 +293,7 @@ toc: true
 | {% ragamepic 5721, 121470, King's Field III %}                           | {% rauser cancunpun %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/034059.png"> |
 | {% ragamepic 16994, 122267, Rayman: Brain Games \| Rayman Junior %}      | {% rauser Frenchy70 %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/054589.png"> |
 | {% ragamepic 14379, 121937, Super Puzzle Fighter II Turbo %}             | {% rauser Frenchy70 %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/042035.png"> |
-| {% ragamepic 33520, 122415, ~Homebrew~ Five Nights at Freddy's 3 %}      | {% rauser Rabbity %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/113356.png"> |
+| {% ragamepic 33520, 122415, ~Homebrew~ Five Nights at Freddy's 3 %}      | {% rauser GoodbyeGamePlan %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/113356.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -310,7 +310,7 @@ toc: true
 | {% ragamepic 3065, 122419, Jak 3 %}                                                     | {% rauser SirMarcos91 %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/071971.png"> |
 | {% ragamepic 3062, 122493, Jak II %}                                                    | {% rauser SirMarcos91 %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/071903.png"> |
 | {% ragamepic 19023, 121736, Mister Mosquito %}                                          | {% rauser S4NSAN %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/069932.png"> |
-| {% ragamepic 20693, 121240, Neopets: The Darkest Faerie %}                              | {% rauser Rabbity %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/106751.png"> |
+| {% ragamepic 20693, 121240, Neopets: The Darkest Faerie %}                              | {% rauser GoodbyeGamePlan %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/106751.png"> |
 | {% ragamepic 20705, 121387, Nicktoons Unite! %}                                         | {% rauser ZeeRA %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/062699.png"> |
 | {% ragamepic 3100, 122413, Psychonauts %}                                               | {% rauser Achievess %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/061422.png"> |
 | {% ragamepic 20837, 122038, SpongeBob SquarePants featuring Nicktoons: Globs of Doom %} | {% rauser ZeeRA %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/101315.png"> |
@@ -342,7 +342,7 @@ toc: true
 | {% ragamepic 3101, 121239, JoJo no Kimyou na Bouken %}                     | {% rauser Cruzelion %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/113656.png"> |
 | {% ragamepic 1213, 121621, Super Chase H.Q. %}                             | {% rauser cbrx %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/077482.png"> |
 | {% ragamepic 3234, 121441, The Mask %}                                     | {% rauser Slayn %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/061520.png"> |
-| {% ragamepic 1347, 122264, Yoshi's Safari %}                               | {% rauser Rabbity %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/038430.png"> |
+| {% ragamepic 1347, 122264, Yoshi's Safari %}                               | {% rauser GoodbyeGamePlan %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/038430.png"> |
 | {% ragamepic 17518, 121535, ~Prototype~ Tom vs. Jerry: The Chase is On! %} | {% rauser OceanManow %} | <img class="gameicon" src="https://media.retroachievements.org/Images/082504.png"> |
 | {% ragamepic 3131, 121492, ~Prototype~ Untitled Racing Game %}             | {% rauser OceanManow %} | <img class="gameicon" src="https://media.retroachievements.org/Images/077568.png"> |
 
@@ -377,7 +377,7 @@ toc: true
 
 | Game                                      | Icon By              | Icon Before                                                                        |
 | ----------------------------------------- | -------------------- | ---------------------------------------------------------------------------------- |
-| {% ragamepic 11700, 122410, Jack Bros. %} | {% rauser Rabbity %} | <img class="gameicon" src="https://media.retroachievements.org/Images/074723.png"> |
+| {% ragamepic 11700, 122410, Jack Bros. %} | {% rauser GoodbyeGamePlan %} | <img class="gameicon" src="https://media.retroachievements.org/Images/074723.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -410,7 +410,7 @@ toc: true
 | {% rahubpic 25674, 121478, Peripheral - Sega Paddle Control %}   | {% rauser Frenchy70 %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/093438.png"> |
 | {% rahubpic 8846, 121811, Feature - PvP %}                       | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/040162.png"> |
 | {% rahubpic 8456, 122123, Series - PaRappa the Rapper %}         | {% rauser SuperRAGamer18 %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/066850.png"> |
-| {% rahubpic 22200, 122414, Fangames - Five Nights at Freddy's %} | {% rauser Rabbity %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/078291.png"> |
+| {% rahubpic 22200, 122414, Fangames - Five Nights at Freddy's %} | {% rauser GoodbyeGamePlan %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/078291.png"> |
 
 
 ## Achievement Badges Changes

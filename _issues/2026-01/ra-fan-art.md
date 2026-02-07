@@ -31,7 +31,7 @@ Gather all around the Christmas tree, with favorites like Santa Claus Jr., Elf d
 
 <p align="center"><img src="https://github.com/user-attachments/assets/8eab738c-b461-493a-b7f5-95f883351e93" /></p>
 
-By {% rauserpic haavi %}
+By {% rauserpicalt haavi, haavikassu %}
 
 To not talk about Christmas for a bit... have Zidane! Our favorite Final Fantasy protagonist is ready for battle with his dual blades.
 

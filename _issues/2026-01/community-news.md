@@ -14,7 +14,7 @@ Devember 2025 has come to a close and it was the most successful year yet!  Deve
 Here are the biggest contributors from this year:
 
 Tickets Closed
-- {% rauserpic televandalist %} - 244
+- {% rauserpicalt tele, televandalist %} - 244
 - {% rauserpic ChaoticAdventure %} - 167
 - {% rauserpic suspect15 %} - 151
 - {% rauserpic BiPolarScientist %} - 142
@@ -449,7 +449,7 @@ You can access development builds in two ways:
             <td colspan="1">{% ragamepic 5988, 122129, Sabre Wulf (GBA) %}</td>
         </tr>
         <tr>
-            <td rowspan="2" width=250>{% rauserpic SuperMeatBro %}</td>
+            <td rowspan="2" width=250>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 19928, 083350, True Crime: New York City (PS2) %}</td>
@@ -547,7 +547,7 @@ You can access development builds in two ways:
     </thead>
     <tbody>
         <tr>
-            <td rowspan="1" width=250>{% rauserpic ladynadiad %}</td>
+            <td rowspan="1" width=250>{% rauserpicalt LadyNadia, ladynadiad %}</td>
         </tr>
     </tbody>
 </table>
