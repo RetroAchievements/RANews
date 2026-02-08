@@ -17,19 +17,14 @@ category: Spot The Difference
     <td colspan="2" style="text-align: center; vertical-align: middle;">🥉 {% rauserpic MonkeyBug %}</td>
     </tr>
     <tr>
-        <td>{% rauserpic dericobanjo %}</td>
-        <td>{% rauserpic euerPilz %}</td>
-        <td>{% rauserpic onkeyBug %}</td>
+        <td>{% rauserpic thattiredcat %}</td>
+        <td>{% rauserpic Lugero %}</td>
+        <td>{% rauserpic mimicmatter %}</td>
     </tr>
     <tr>
-        <td>{% rauserpic hattiredcat %}</td>
-        <td>{% rauserpic ugero %}</td>
-        <td>{% rauserpic imicmatter %}</td>
-    </tr>
-    <tr>
-        <td>{% rauserpic unxy %}</td>
-        <td>{% rauserpic ouiguipopo %}</td>
-        <td>{% rauserpic eoDragon223 %}</td>
+        <td>{% rauserpic Hunxy %}</td>
+        <td>{% rauserpic Zouiguipopo %}</td>
+        <td>{% rauserpic NeoDragon223 %}</td>
     </tr>
     <tr>
         <td>{% rauserpic Darkspirit %}</td>
