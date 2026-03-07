@@ -5,6 +5,61 @@ hide: true
 toc: true
 ---
 
+# 2026
+
+<table>
+    <tbody>
+        <thead>
+            <tr>
+                <td>January</td>
+                <td>February</td>
+                <td>March</td>
+            </tr>
+        </thead>
+        <tr>
+            <td><br><a href="../img/SpotTheDifferenceAnswers/2025-01.png"><img src="../img/SpotTheDifferenceAnswers/2026-01.png" width="400"></a></td>
+            <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2025-02.png"><img src="../img/SpotTheDifferenceAnswers/2026-02.png" width="400"></a></td>
+            <td><br><a href="../img/SpotTheDifferenceAnswers/2025-03.png"><img src="../img/SpotTheDifferenceAnswers/2026-03.png" width="400"></a></td> -->
+        </tr>
+        <thead>
+            <tr>
+                <td>April</td>
+                <td>May</td>
+                <td>June</td>
+            </tr>
+        </thead>
+        <tr>
+            <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2025-04.png"><img src="../img/SpotTheDifferenceAnswers/2026-04.png" width="400"></a></td>
+            <td><br><a href="../img/SpotTheDifferenceAnswers/2025-05.png"><img src="../img/SpotTheDifferenceAnswers/2026-05.png" width="400"></a></td>
+            <td><br><a href="../img/SpotTheDifferenceAnswers/2025-06.png"><img src="../img/SpotTheDifferenceAnswers/2026-06.png" width="400"></a></td> -->
+        </tr>
+        <thead>
+            <tr>
+                <td>July<br></td>
+                <td>August</td>
+                <td>September</td>
+            </tr>
+        </thead>
+        <tr>
+            <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2025-07.png"><img src="../img/SpotTheDifferenceAnswers/2026-07.png" width="400"></a></td>
+            <td><br><a href="../img/SpotTheDifferenceAnswers/2025-08.png"><img src="../img/SpotTheDifferenceAnswers/2026-08.png" width="400"></a></td>
+            <td><br><a href="../img/SpotTheDifferenceAnswers/2025-09.png"><img src="../img/SpotTheDifferenceAnswers/2026-09.png" width="400"></a></td> -->
+        </tr>
+        <thead>
+            <tr>
+                <td>October</td>
+                <td>November</td>
+                <td>December</td>
+            </tr>
+        </thead>
+        <tr>
+            <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2025-10.png"><img src="../img/SpotTheDifferenceAnswers/2026-10.png" width="400"></a></td>
+            <td><br><a href="../img/SpotTheDifferenceAnswers/2025-11.png"><img src="../img/SpotTheDifferenceAnswers/2026-11.png" width="400"></a></td>
+            <td><br><a href="../img/SpotTheDifferenceAnswers/2025-12.png"><img src="../img/SpotTheDifferenceAnswers/2026-12.png" width="400"></a></td> -->
+        </tr>
+    </tbody>
+</table>
+
 # 2025
 
 <table>
