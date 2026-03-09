@@ -7,7 +7,7 @@ author: Bendyhuman
 toc: true
 ---
 
-WWish This Set is a showcase for our passionate community members to write about the games they love that aren't yet represented on the site. Is there a game you'd like to see receive an achievement set? Let us know by sending a private message to {% rauserpic RANews %}. We encourage you to explain what makes the game so special to you, and you may be featured in a future issue of RANews!
+Wish This Set is a showcase for our passionate community members to write about the games they love that aren't yet represented on the site. Is there a game you'd like to see receive an achievement set? Let us know by sending a private message to {% rauserpic RANews %}. We encourage you to explain what makes the game so special to you, and you may be featured in a future issue of RANews!
 
 ## London Seirei Tantei-dan (PlayStation)
 
