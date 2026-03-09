@@ -229,10 +229,6 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
 <table>
     <tbody>
         <tr>
-            <td><strong>Event Page:</strong></td>
-            <td>{% raeventpic 162, 104709, PlayJam Vol. 1 %}</td>
-        </tr>
-        <tr>
             <td><strong>Event Summary:</strong></td>
             <td>Each Half Month we will introduce a gym leader, either from the Lograr Region or the Antico Region. To beat the Gym Leader you must beat 3 of the 6 games they bring. In order to reach said gym leader you must first gain a certain amount of EXP from the hubs given by said Gym Leaders. Beat a certain amount of each group of Gym Leader, Elite 4 Member and the Champion and earn a nice new badge</td>
         </tr>
@@ -250,7 +246,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Rankings:</strong></td>
-            <td>11 players are tied in first with 5 gym clears.<br><br>Check out the [scoring sheet](https://docs.google.com/spreadsheets/d/1xIAZcS4rgX9kkRG2Ixk4fgFteBxubObv4EuZB57ICuU/edit?gid=0#gid=0) for the up to date rankings.</td>
+            <td>11 players are tied in first with 5 gym clears.<br><br>Check out the <a href="https://docs.google.com/spreadsheets/d/1xIAZcS4rgX9kkRG2Ixk4fgFteBxubObv4EuZB57ICuU/edit?gid=0#gid=0">scoring sheet</a> for the up to date rankings.</td>
         </tr>
     </tbody>
 </table>
