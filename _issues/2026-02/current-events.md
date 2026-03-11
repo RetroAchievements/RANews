@@ -165,7 +165,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li value="5">{% rauserpic PepeJohn %} - 57 Points</li>
                     <li value="5">{% rauserpic s0uth %} - 57 Points</li>
                     <li value="7">{% rauserpic Daroachie %} - 55 Points</li>
-                    <li value="10">{% rauserpic Kexin %} - 53 Points</li>
+                    <li value="10">{% rauserpicalt Kexin, Nintagious %} - 53 Points</li>
                     <li value="8">{% rauserpicalt GenesisRA, genesislover %} - 47 Points</li>
                     <li value="9">{% rauserpic SushiSeijin %} - 41 Points</li>
                 </ol>
@@ -209,7 +209,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                 <ol>
                     <li value="1">{% rauserpic alwaysintreble %} - 18 Points</li>
                     <li value="1">{% rauserpic PsyXchO %} - 18 Points</li>
-                    <li value="1">{% rauserpic EEez %} - 18 Points</li>
+                    <li value="1">{% rauserpicalt EEez, Yoshinohara %} - 18 Points</li>
                     <li value="1">{% rauserpic 22Peppermint %} - 18 Points</li>
                     <li value="1">{% rauserpic Eferos %} - 18 Points</li>
                     <li value="6">{% rauserpic rileythepegasus %} - 17 Points</li>
@@ -364,7 +364,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic ChoccyMilk %}</td>
+                            <td>{% rauserpicalt ChoccyMilk, ChocoMilk %}</td>
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
@@ -392,7 +392,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic EphemeralEnigmas %}</td>
+                            <td>{% rauserpicalt EphemeralEnigmas, sb191219 %}</td>
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
@@ -415,7 +415,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic haavi %}</td>
+                            <td>{% rauserpicalt haavi, haavikassu %}</td>
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
@@ -446,7 +446,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic Meowdoleon %}</td>
+                            <td>{% rauserpicalt Meowdoleon, medoli900 %}</td>
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
@@ -454,7 +454,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic mirukiru %}</td>
+                            <td>{% rauserpicalt mirukiru, Grungust %}</td>
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
@@ -470,7 +470,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic Nataliie %}</td>
+                            <td>{% rauserpicalt Nataliie, vaanxbahn %}</td>
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
@@ -478,7 +478,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic PeteDan %}</td>
+                            <td>{% rauserpicalt PeteDan, Pit100 %}</td>
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
@@ -490,7 +490,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic TrashPaddy %}</td>
+                            <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
@@ -545,7 +545,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                         <tr>
                             <td>{% rauserpic NEOMAR %}</td>
                             <td>{% rauserpic Sutarion %}</td>
-                            <td>{% rauserpic TrashPaddy %}</td>
+                            <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
                         </tr>
                         <tr>
                             <td>{% rauserpic Trickcat %}</td>

@@ -103,7 +103,7 @@ This isn't the only time that [Kurko](https://retroachievements.org/hub/24425) h
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3116" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/120542.png" alt="Chou Soujuu Mecha MG"> <span>Chou Soujuu Mecha MG</span></a> | Nintendo DS | [Action](https://retroachievements.org/hub/836) |
 
-* Write-up by: {% rauserpic mirukiru %}
+* Write-up by: {% rauserpicalt mirukiru, Grungust %}
 
 <figure style="text-align:center;float:right;width:50%;height:50%">
 <img src="https://media.retroachievements.org/Images/120544.png">
@@ -198,7 +198,7 @@ Until recently, I had never played the [Pikmin](https://retroachievements.org/hu
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------ |
 | <a class="gameicon-link" href="https://retroachievements.org/game/20526" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/062233.png" alt="Worms 4: Mayhem"> <span>Worms 4: Mayhem</span></a> | PlayStation 2 | [Artillery](https://retroachievements.org/hub/22183), [Turn-Based Strategy](https://retroachievements.org/hub/670) |
 
-* Write-up by: {% rauserpic haavi %}
+* Write-up by: {% rauserpicalt haavi, haavikassu %}
 
 <figure style="text-align:center;float:left;width:50%;height:50%">
 <img src="https://images.launchbox-app.com//b381c645-0f20-405a-9ea6-13cda0da8d6d.png">

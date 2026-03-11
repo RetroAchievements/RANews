@@ -18,7 +18,7 @@ category: Spot The Difference
     </tr>
     <tr>
         <td>{% rauserpic mimicmatter %}</td>
-        <td>{% rauserpic SusieRose %}</td>
+        <td>{% rauserpicalt SusieRose, TerraRose %}</td>
         <td>{% rauserpic ABCDEFGHI %}</td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@ category: Spot The Difference
         <td>{% rauserpic MysteryBlock %}</td>
     </tr>
     <tr>
-        <td>{% rauserpic HADOUPRO %}</td>
+        <td>{% rauserpicalt HADOUPRO, bosscatFGC %}</td>
         <td>{% rauserpic CosmicSandshrew %}</td>
         <td>{% rauserpic RetroVanny %}</td>
     </tr>

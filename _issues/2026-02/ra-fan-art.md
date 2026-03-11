@@ -31,7 +31,7 @@ In-between the saving of the Mushroom Kingdom, the Mario Bros. need to make a li
 
 <p align="center"><img src="https://github.com/user-attachments/assets/1aecc9d7-1356-4a6d-94fc-ba676900069f" /></p>
 
-By {% rauserpic haavi %}
+By {% rauserpicalt haavi, haavikassu %}
 
 Ever wondered why the Mario games were never ported to the Amiga? Well, probably because Nintendo hates multiplatform, but the actual reason is that the Amiga computer can be very evil. It actually hurted Mario!
 

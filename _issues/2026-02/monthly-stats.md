@@ -86,13 +86,13 @@ Check out the top 25 achievement creators from this month.
 | 13   | {% rauserpic suspect15 %}        | 83           |
 | 14   | {% rauserpic Jamiras %}          | 80           |
 | 15   | {% rauserpic Verros %}           | 78           |
-| 16   | {% rauserpic Crazeuh %}          | 78           |
+| 16   | {% rauserpicalt Craze, Crazeuh %}          | 78           |
 | 17   | {% rauserpic zizom %}            | 74           |
-| 18   | {% rauserpic MaddieKittyTV %}    | 73           |
+| 18   | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}    | 73           |
 | 19   | {% rauserpic Lilihierax %}       | 73           |
 | 20   | {% rauserpic Minish %}           | 70           |
 | 21   | {% rauserpic Hexadigital %}      | 58           |
-| 22   | {% rauserpic graypigeon22 %}     | 56           |
+| 22   | {% rauserpicalt Pearl, graypigeon22 %}     | 56           |
 | 23   | {% rauserpic WheelsAndWhirls %}  | 55           |
 | 24   | {% rauserpic Manperson %}        | 54           |
 | 25   | {% rauserpic siouxerskate %}     | 53           |
@@ -105,16 +105,16 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 1    | {% rauserpic Delmaru %}             | 87,495          | 440,034        | 2,250,515            |
 | 2    | {% rauserpic SporyTike %}           | 76,882          | 446,341        | 1,471,862            |
 | 3    | {% rauserpic Brian %}               | 75,619          | 564,723        | 1,520,233            |
-| 4    | {% rauserpic ThatAmericanSlacker %} | 63,253          | 451,601        | 979,125              |
+| 4    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 63,253          | 451,601        | 979,125              |
 | 5    | {% rauserpic GalacticSpear %}       | 61,528          | 494,957        | 3,505,837            |
-| 6    | {% rauserpic Snow %}                | 60,256          | 322,269        | 1,467,195            |
+| 6    | {% rauserpicalt SnowPin, Snow %}                | 60,256          | 322,269        | 1,467,195            |
 | 7    | {% rauserpic timenoe %}             | 58,149          | 484,850        | 3,395,222            |
 | 8    | {% rauserpic Gollawiz %}            | 57,566          | 358,728        | 1,336,547            |
 | 9    | {% rauserpic MGNS8M %}              | 55,806          | 306,734        | 1,064,289            |
 | 10   | {% rauserpic TeddyWestside %}       | 55,256          | 313,573        | 882,631              |
-| 11   | {% rauserpic Bryan1150 %}           | 51,531          | 337,587        | 2,971,470            |
+| 11   | {% rauserpicalt Brylefi, Bryan1150 %}           | 51,531          | 337,587        | 2,971,470            |
 | 12   | {% rauserpic blendedsea %}          | 49,301          | 244,652        | 1,403,429            |
-| 13   | {% rauserpic televandalist %}       | 46,467          | 355,205        | 1,355,195            |
+| 13   | {% rauserpicalt tele, televandalist %}       | 46,467          | 355,205        | 1,355,195            |
 | 14   | {% rauserpic suspect15 %}           | 44,459          | 296,987        | 1,424,270            |
 | 15   | {% rauserpic dude1286 %}            | 42,378          | 351,287        | 732,063              |
 | 16   | {% rauserpic RAEvents %}            | 41,155          | 60,658         | 1,715,100            |
@@ -125,7 +125,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 21   | {% rauserpic Salsa %}               | 35,065          | 269,627        | 1,431,198            |
 | 22   | {% rauserpic pinguupinguu %}        | 34,559          | 168,717        | 690,260              |
 | 23   | {% rauserpic WilHiteWarrior %}      | 34,532          | 252,158        | 1,114,116            |
-| 24   | {% rauserpic AlexGatao %}           | 33,890          | 259,086        | 3,424,850            |
+| 24   | {% rauserpicalt AlexHylian, AlexGatao %}           | 33,890          | 259,086        | 3,424,850            |
 | 25   | {% rauserpic xnaivx %}              | 32,984          | 212,730        | 787,782              |
 
 \* Hardcore only
@@ -210,24 +210,24 @@ Check out who has the most achievement unlocks, points, retro points, and master
 | 4    | {% rauserpic saybingryph %}      | 2,175        | 12,077 | 49,705       | 32             |
 | 5    | {% rauserpic TheUberCamper %}    | 2,175        | 9,472  | 20,479       | 139            |
 | 6    | {% rauserpic Altamatacc %}       | 1,924        | 9,395  | 43,712       | 32             |
-| 7    | {% rauserpic SoulSoralis %}      | 1,879        | 13,860 | 92,566       | 7              |
+| 7    | {% rauserpicalt Soralis, SoulSoralis %}      | 1,879        | 13,860 | 92,566       | 7              |
 | 8    | {% rauserpic groMor %}           | 1,724        | 5,001  | 7,146        | 102            |
-| 9    | {% rauserpic SamEarl13 %}        | 1,691        | 6,633  | 12,516       | 38             |
+| 9    | {% rauserpicalt 0Percent, SamEarl13 %}        | 1,691        | 6,633  | 12,516       | 38             |
 | 10   | {% rauserpic Beliskner999 %}     | 1,650        | 10,839 | 50,261       | 65             |
-| 11   | {% rauserpic FarielGamingX %}    | 1,649        | 6,159  | 42,112       | 16             |
+| 11   | {% rauserpicalt FarielGamingXYZ, FarielGamingX %}    | 1,649        | 6,159  | 42,112       | 16             |
 | 12   | {% rauserpic mrmaxx69 %}         | 1,601        | 5,444  | 36,390       | 14             |
 | 13   | {% rauserpic Carca %}            | 1,545        | 8,905  | 28,855       | 31             |
 | 14   | {% rauserpic Appleburger %}      | 1,525        | 11,088 | 36,269       | 18             |
 | 15   | {% rauserpic MeridianPrime %}    | 1,516        | 11,725 | 109,597      | 15             |
 | 16   | {% rauserpic Foolacetic %}       | 1,512        | 9,381  | 57,017       | 24             |
-| 17   | {% rauserpic BillyBnMOfficial %} | 1,485        | 7,817  | 42,799       | 81             |
+| 17   | {% rauserpicalt BillyTGAoBaM, BillyBnMOfficial %} | 1,485        | 7,817  | 42,799       | 81             |
 | 18   | {% rauserpic BombMeNext %}       | 1,483        | 8,515  | 23,722       | 7              |
 | 19   | {% rauserpic atvdriver %}        | 1,483        | 10,587 | 62,469       | 79             |
 | 20   | {% rauserpic Reykjavik %}        | 1,463        | 16,059 | 272,012      | 27             |
 | 21   | {% rauserpic TheShadowHunter %}  | 1,459        | 6,620  | 13,324       | 60             |
 | 22   | {% rauserpic Fullalizards %}     | 1,446        | 11,198 | 83,134       | 32             |
-| 23   | {% rauserpic erkel96 %}          | 1,438        | 11,357 | 27,054       | 22             |
-| 24   | {% rauserpic Grungust %}         | 1,431        | 6,263  | 22,765       | 31             |
+| 23   | {% rauserpicalt Erkel, erkel96 %}          | 1,438        | 11,357 | 27,054       | 22             |
+| 24   | {% rauserpicalt mirukiru, Grungust %}         | 1,431        | 6,263  | 22,765       | 31             |
 | 25   | {% rauserpic Pull %}             | 1,419        | 7,936  | 34,657       | 91             |
 
 ## Top 25 Awarded Achievements <!-- 16 -->
@@ -394,13 +394,13 @@ Check out which developers created the most code notes this month.
         <tr><td>2</td><td>{% rauserpic Kinglink %}</td><td>2,976</td></tr>
         <tr><td>3</td><td>{% rauserpic Biendeo %}</td><td>748</td></tr>
         <tr><td>4</td><td>{% rauserpic Skiichi %}</td><td>504</td></tr>
-        <tr><td>5</td><td>{% rauserpic ThatGuy4878 %}</td><td>498</td></tr>
+        <tr><td>5</td><td>{% rauserpicalt HeyImTG, ThatGuy4878 %}</td><td>498</td></tr>
     </tbody></table>
     </div>
     <div style='width:49%;display:inline-block;float:right'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
         <tr><td>6</td><td>{% rauserpic Maximdraco %}</td><td>447</td></tr>
-        <tr><td>7</td><td>{% rauserpic AlexGatao %}</td><td>438</td></tr>
+        <tr><td>7</td><td>{% rauserpicalt AlexHylian, AlexGatao %}</td><td>438</td></tr>
         <tr><td>8</td><td>{% rauserpic Dimedime %}</td><td>435</td></tr>
         <tr><td>9</td><td>{% rauserpic Whithbrin %}</td><td>399</td></tr>
         <tr><td>10</td><td>{% rauserpic Siallus %}</td><td>396</td></tr>
@@ -486,7 +486,7 @@ Check out the users with the most mastery awards this month.
 | 2    | {% rauserpic TheUberCamper %}    | 139    |
 | 3    | {% rauserpic groMor %}           | 102    |
 | 4    | {% rauserpic Pull %}             | 91     |
-| 5    | {% rauserpic BillyBnMOfficial %} | 81     |
+| 5    | {% rauserpicalt BillyTGAoBaM, BillyBnMOfficial %} | 81     |
 | 6    | {% rauserpic atvdriver %}        | 79     |
 | 7    | {% rauserpic queenlinux %}       | 74     |
 | 8    | {% rauserpic nab2012 %}          | 69     |
@@ -590,7 +590,7 @@ Check out the users with the most beaten awards this month.
 | 6    | {% rauserpic MysteryBlock %}     | 95     |
 | 7    | {% rauserpic Pull %}             | 94     |
 | 8    | {% rauserpic queenlinux %}       | 89     |
-| 9    | {% rauserpic BillyBnMOfficial %} | 87     |
+| 9    | {% rauserpicalt BillyTGAoBaM, BillyBnMOfficial %} | 87     |
 | 10   | {% rauserpic atvdriver %}        | 78     |
 
 ## Top 10 Beaten Sets <!-- 21-B -->
@@ -811,12 +811,12 @@ Check out which developer cleared the most tickets this month. This does not inc
 
 | Rank | User                             | Cleared Tickets |
 | ---- | -------------------------------- | --------------- |
-| 1    | {% rauserpic televandalist %}    | 45              |
+| 1    | {% rauserpicalt tele, televandalist %}    | 45              |
 | 2    | {% rauserpic suspect15 %}        | 45              |
 | 3    | {% rauserpic ChaoticAdventure %} | 22              |
 | 4    | {% rauserpic Homuki %}           | 22              |
 | 5    | {% rauserpic BigDonRob %}        | 19              |
-| 6    | {% rauserpic wolfman2000 %}      | 13              |
+| 6    | {% rauserpicalt lonegraywolf2000, wolfman2000 %}      | 13              |
 | 7    | {% rauserpic tomojin %}          | 11              |
 | 8    | {% rauserpic Aaamdacuaga %}      | 10              |
 | 9    | {% rauserpic Empovyle %}         | 10              |

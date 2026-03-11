@@ -209,8 +209,73 @@ toc_float: false
         <table><tbody>
             <tr>
                 <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
-                <td>{% rauserpic authorblues %}</td>
                 <td>{% rauserpic Bendyhuman %}</td>
+                <td>{% rauserpic BlueShellBeast %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Brandovsky %}</td>
+                <td>{% rauserpic CarnuSaga %}</td>
+                <td>{% rauserpic Cryarionic %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Daroachie %}</td>
+                <td>{% rauserpic DevCompliance %}</td>
+                <td>{% rauserpic dumbFKNidiot %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic gamer097 %}</td>
+                <td>{% rauserpicalt haavi, haavikassu %}</td>
+                <td>{% rauserpicalt haavi, haavikassu %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic HappyCrabCo %}</td>
+                <td>{% rauserpic Hotscrock %}</td>
+                <td>{% rauserpic MeloDeathAtmoBlack %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt mirukiru, Grungust %}</td>
+                <td>{% rauserpic MrOwnership %}</td>
+                <td>{% rauserpic Nepiki %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
+                <td>{% rauserpic Notdog1996 %}</td>
+                <td>{% rauserpic Nydaxn %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt ClaudeLeChat, Obliv %}</td>
+                <td>{% rauserpic pinguupinguu %}</td>
+                <td>{% rauserpic Prota %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic QATeam %}</td>
+                <td>{% rauserpic RANews %}</td>
+                <td>{% rauserpic Raykusen %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic RetroGameMaster %}</td>
+                <td>{% rauserpic ShadwSonic %}</td>
+                <td>{% rauserpic Sines %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt SnowPin, Snow %}</td>
+                <td>{% rauserpic SporyTike %}</td>
+                <td>{% rauserpic StingX2 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic storesuka %}</td>
+                <td>{% rauserpicalt tele, televandalist %}</td>
+                <td>{% rauserpic TimeCrush %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic vikdarkbomb %}</td>
+                <td>{% rauserpic wallmasterz %}</td>
+                <td>{% rauserpic WarioFan63 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic WildeKitsune %}</td>
+                <td>{% rauserpic Xymjak %}</td>
+                <td>{% rauserpic Yanbetari %}</td>
             </tr>
         </tbody></table>
     </div>

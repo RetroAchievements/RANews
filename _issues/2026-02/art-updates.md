@@ -124,10 +124,10 @@ toc: true
 
 | Game                                                      | Icon By                    | Icon Before                                                                        |
 | --------------------------------------------------------- | -------------------------- | ---------------------------------------------------------------------------------- |
-| {% ragamepic 30287, 123484, Disney's Hide & Sneak %}      | {% rauser Rabbity %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/103241.png"> |
+| {% ragamepic 30287, 123484, Disney's Hide & Sneak %}      | {% rauser GoodbyeGamePlan %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/103241.png"> |
 | {% ragamepic 6333, 122566, Sonic Adventure DX %}          | {% rauser Curren %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/103041.png"> |
-| {% ragamepic 30905, 123327, ~Hack~ Five Nights in BFBB %} | {% rauser Rabbity %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/105017.png"> |
-| {% ragamepic 29873, 123326, ~Hack~ Friday Night Pikmin %} | {% rauser Rabbity %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/100494.png"> |
+| {% ragamepic 30905, 123327, ~Hack~ Five Nights in BFBB %} | {% rauser GoodbyeGamePlan %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/105017.png"> |
+| {% ragamepic 29873, 123326, ~Hack~ Friday Night Pikmin %} | {% rauser GoodbyeGamePlan %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/100494.png"> |
 | {% ragamepic 37878, 123483, ~Hack~ Pikmin Wars %}         | {% rauser isma3tortilla %} | <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png"> |
 
 <a href="#toc">:top:</a>
@@ -224,8 +224,8 @@ toc: true
 | {% ragamepic 16173, 123876, Super Adventure Rockman %}                                 | {% rauser Lugero %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/100785.png"> |
 | {% ragamepic 16676, 123877, X-Men: Mutant Academy %}                                   | {% rauser Jayvee %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/074117.png"> |
 | {% ragamepic 18354, 123998, ~Demo~ Street Fighter EX Plus Alpha: Taru Tokubetsu Ban %} | {% rauser zxmega %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/051900.png"> |
-| {% ragamepic 30916, 122424, ~Homebrew~ Five Nights at Freddy's 2 %}                    | {% rauser Rabbity %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/102107.png"> |
-| {% ragamepic 30915, 122568, ~Homebrew~ Five Nights at Freddy's %}                      | {% rauser Rabbity %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/102106.png"> |
+| {% ragamepic 30916, 122424, ~Homebrew~ Five Nights at Freddy's 2 %}                    | {% rauser GoodbyeGamePlan %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/102107.png"> |
+| {% ragamepic 30915, 122568, ~Homebrew~ Five Nights at Freddy's %}                      | {% rauser GoodbyeGamePlan %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/102106.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -255,15 +255,15 @@ toc: true
 
 | Game                                                                      | Icon By                       | Icon Before                                                                        |
 | ------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------- |
-| {% ragamepic 17978, 123052, Ben 10: Protector of Earth %}                 | {% rauser KiNG777 %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/050406.png"> |
+| {% ragamepic 17978, 123052, Ben 10: Protector of Earth %}                 | {% rauser KiNG777zk %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/050406.png"> |
 | {% ragamepic 10477, 122563, Daxter %}                                     | {% rauser SirMarcos91 %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/121406.png"> |
-| {% ragamepic 3993, 123775, LEGO Indiana Jones: The Original Adventures %} | {% rauser KiNG777 %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/047389.png"> |
+| {% ragamepic 3993, 123775, LEGO Indiana Jones: The Original Adventures %} | {% rauser KiNG777zk %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/047389.png"> |
 | {% ragamepic 17976, 107426, Monster Hunter Portable 3rd %}                | {% rauser ChaoticAdventure %} | <img class="gameicon" src="https://media.retroachievements.org/Badge/547895.png">  |
 | {% ragamepic 3164, 123004, Shin Megami Tensei: Persona 3 Portable %}      | {% rauser Hawkow %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/065205.png"> |
 | {% ragamepic 26046, 123227, ~Homebrew~ Five Nights at Freddy's 2 %}       | {% rauser EvZone %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/083481.png"> |
 | {% ragamepic 26060, 123100, ~Homebrew~ Five Nights at Freddy's 3 %}       | {% rauser EvZone %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/083475.png"> |
 | {% ragamepic 26059, 123323, ~Homebrew~ Five Nights at Freddy's 4 %}       | {% rauser EvZone %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/083469.png"> |
-| {% ragamepic 26048, 122701, ~Homebrew~ Five Nights at Freddy's %}         | {% rauser Rabbity %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/105809.png"> |
+| {% ragamepic 26048, 122701, ~Homebrew~ Five Nights at Freddy's %}         | {% rauser GoodbyeGamePlan %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/105809.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -298,13 +298,13 @@ toc: true
 | {% ragamepic 3221, 123781, Majin Tensei II: Spiral Nemesis %}                     | {% rauser YeenTheBin %} | <img class="gameicon" src="https://media.retroachievements.org/Images/017632.png"> |
 | {% ragamepic 3220, 123780, Majin Tensei %}                                        | {% rauser YeenTheBin %} | <img class="gameicon" src="https://media.retroachievements.org/Images/064522.png"> |
 | {% ragamepic 2601, 124657, Marvelous: Mouhitotsu no Takarajima %}                 | {% rauser berti %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/117446.png"> |
-| {% ragamepic 1029, 123104, Mickey's Ultimate Challenge %}                         | {% rauser KiNG777 %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/005659.png"> |
+| {% ragamepic 1029, 123104, Mickey's Ultimate Challenge %}                         | {% rauser KiNG777zk %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/005659.png"> |
 | {% ragamepic 1117, 123949, Q*bert 3 %}                                            | {% rauser tsumiki %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/062582.png"> |
 | {% ragamepic 1218, 123482, Super Godzilla %}                                      | {% rauser OceanManow %} | <img class="gameicon" src="https://media.retroachievements.org/Images/010114.png"> |
 | {% ragamepic 1180, 122977, Venom and Spider-Man: Separation Anxiety %}            | {% rauser OceanManow %} | <img class="gameicon" src="https://media.retroachievements.org/Images/011142.png"> |
-| {% ragamepic 1384, 122952, ~Hack~ Chrono Trigger: Prophet's Guile %}              | {% rauser KiNG777 %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/064791.png"> |
+| {% ragamepic 1384, 122952, ~Hack~ Chrono Trigger: Prophet's Guile %}              | {% rauser KiNG777zk %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/064791.png"> |
 | {% ragamepic 9918, 123947, ~Hack~ Invictus %}                                     | {% rauser manurmad %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/119050.png"> |
-| {% ragamepic 5647, 124003, ~Hack~ SMW: Bowser's Return %}                         | {% rauser KiNG777 %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/046321.png"> |
+| {% ragamepic 5647, 124003, ~Hack~ SMW: Bowser's Return %}                         | {% rauser KiNG777zk %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/046321.png"> |
 | {% ragamepic 6647, 123948, ~Hack~ The 7th Annual Vanilla Level Design Contest %}  | {% rauser Codes %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/036197.png"> |
 | {% ragamepic 17548, 123782, ~Hack~ The 8th Annual Vanilla Level Design Contest %} | {% rauser Codes %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/050247.png"> |
 

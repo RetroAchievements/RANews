@@ -15,20 +15,20 @@ Every month, we would like to look back on the sets developed by our junior deve
 | ---- | ---------------------------------------------------------------------- | ------------------------------ | -------------------------------- | ------------ |
 |      | {% ragamepic 1681, 118860, Faria: A World of Mystery and Danger %}     | {% rauserpic nopeaceatall %}   | {% rauserpic quirky0992 %}       | 1/1/2026     |
 |      | {% ragamepic 35103, 118921, ~Hack~ Super Mario _4 %}                   | {% rauserpic SoLegga %}        | {% rauserpic Layton %}           | 1/3/2026     |
-|      | {% ragamepic 34510, 118589, ~Homebrew~ Five Nights at Freddy's: NES %} | {% rauserpic AlexDaDawg %}     | {% rauserpic KiwiTaco %}         | 1/4/2026     |
-|      | {% ragamepic 17181, 094882, Crazy Machines %}                          | {% rauserpic Makironi %}       | {% rauserpic KiwiTaco %}         | 1/5/2026     |
+|      | {% ragamepic 34510, 118589, ~Homebrew~ Five Nights at Freddy's: NES %} | {% rauserpicalt AlexDaDawg, AIEchidna %}     | {% rauserpic KiwiTaco %}         | 1/4/2026     |
+|      | {% ragamepic 17181, 094882, Crazy Machines %}                          | {% rauserpicalt Makironi, Farbefab %}       | {% rauserpic KiwiTaco %}         | 1/5/2026     |
 |      | {% ragamepic 29892, 120045, 2048 %}                                    | {% rauserpic NovaIAlex %}      | {% rauserpic KiwiTaco %}         | 1/5/2026     |
-|      | {% ragamepic 13901, 113189, ~Prototype~ Thrill Kill %}                 | {% rauserpic HeyImTG %}        | {% rauserpic CySlaytor %}        | 1/6/2026     |
+|      | {% ragamepic 13901, 113189, ~Prototype~ Thrill Kill %}                 | {% rauserpicalt HeyImTG, ThatGuy4878 %}        | {% rauserpic CySlaytor %}        | 1/6/2026     |
 |      | {% ragamepic 4693, 115404, Prince of Persia: The Sands of Time %}      | {% rauserpic Prims %}          | {% rauserpic CySlaytor %}        | 1/12/2026    |
 |      | {% ragamepic 30945, 119732, Melty Blood: Act Cadenza %}                | {% rauserpic Minish %}         | {% rauserpic Souzooka %}         | 1/19/2026    |
 |      | {% ragamepic 2768, 085255, Dark Law: Meaning of Death %}               | {% rauserpic streetbackguy %}  | {% rauserpic BigDonRob %}        | 1/19/2026    |
 |      | {% ragamepic 14301, 069917, Pop Breaker %}                             | {% rauserpic drisc %}          | {% rauserpic RyCuLe %}           | 1/20/2026    |
-|      | {% ragamepic 19681, 116028, ~Hack~ Metroid: Return to Zebes %}         | {% rauserpic Sasrir %}         | {% rauserpic lonegraywolf2000 %} | 1/22/2026    |
-|      | {% ragamepic 25693, 082328, Burger Island %}                           | {% rauserpic SiSiSierra %}     | {% rauserpic authorblues %}      | 1/22/2026    |
+|      | {% ragamepic 19681, 116028, ~Hack~ Metroid: Return to Zebes %}         | {% rauserpic Sasrir %}         | {% rauserpicalt lonegraywolf2000, wolfman2000 %} | 1/22/2026    |
+|      | {% ragamepic 25693, 082328, Burger Island %}                           | {% rauserpicalt SiSiSierra, Gadet %}     | {% rauserpic authorblues %}      | 1/22/2026    |
 |      | {% ragamepic 15354, 102653, LEGO Batman: The Videogame %}              | {% rauserpic Zachary %}        | {% rauserpic Homuki %}           | 1/22/2026    |
 |      | {% ragamepic 21944, 116884, Enthusia: Professional Racing %}           | {% rauserpic carlosrhv %}      | {% rauserpic TheMysticalOne %}   | 1/23/2026    |
 |      | {% ragamepic 1615, 071751, The Chessmaster %}                          | {% rauserpic WheelAndWhirls %} | {% rauserpic Homuki %}           | 1/23/2026    |
-|      | {% ragamepic 6675, 119106, South Park Rally %}                         | {% rauserpic PS2Hagrid %}      | {% rauserpic BigDonRob %}        | 1/30/2026    |
+|      | {% ragamepic 6675, 119106, South Park Rally %}                         | {% rauserpicalt PS2Hagrid, Player1041 %}      | {% rauserpic BigDonRob %}        | 1/30/2026    |
 
 # Reviewer Stats
 
@@ -55,6 +55,6 @@ Alongside the Junior Developers are the Code Reviewers, with their never ending 
 | {% rauserpic Layton %}           | 1             |
 | {% rauserpic Souzooka %}         | 1             |
 | {% rauserpic RyCuLe %}           | 1             |
-| {% rauserpic lonegraywolf2000 %} | 1             |
+| {% rauserpicalt lonegraywolf2000, wolfman2000 %} | 1             |
 | {% rauserpic authorblues %}      | 1             |
 | {% rauserpic TheMysticalOne %}   | 1             |
