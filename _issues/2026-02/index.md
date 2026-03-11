@@ -109,14 +109,14 @@ toc_float: false
 <div class="section-link">
     <a href="./raguide.html">
         <div class="section-content">
-            <h1 id="raguide">RAGuide-</h1>
+            <h1 id="raguide">RAGuide</h1>
             <p>Lead a roster of robots through challenging tactical battles in with our latest RAGuide for Super Robot Taisen for the GameBoy. Whether you're optimizing your squad or navigating tough maps, our guide will help you pilot your way to victory and set mastery.</p>
         </div>
     </a>
 </div><div class="section-link">
     <a href="./radvantage.html">
         <div class="section-content">
-            <h1 id="radvantage">RAdvantage-</h1>
+            <h1 id="radvantage">RAdvantage</h1>
             <p>Winning the "Succeed With Guard" challenge is about perfect defense. Learn the ins and outs of the fight and master master your block timing to unlock this achievement with help from the latest RAdvantage tip.</p>
         </div>
     </a>
