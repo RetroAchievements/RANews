@@ -12,7 +12,7 @@ It isn't too often that we are graced with a game series that not only remains e
 
 From the tank controls and frustrating scene transitions, to love-em-or-hate-em movie releases, and everywhere in between - Resident Evil has been scaring us in new and exciting ways for 30 years. With a new game releasing at the end of February, what better time to brush up on our knowledge of the series, some sets at RA, and favorite entries. 
 
-For exactly that reason I have my guest here tonight, Homuki - Code reviewer and developer with not only a good hand of RE masteries, but credits on some esoteric ps1 RE sets as well.
+For exactly that reason I have my guest here tonight, {% rauserpic Homuki %} - Code reviewer and developer with not only a good hand of RE masteries, but credits on some esoteric ps1 RE sets as well.
 
 <p align="center">
     <iframe
