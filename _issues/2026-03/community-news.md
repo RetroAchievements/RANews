@@ -42,7 +42,7 @@ More details and multiset can be found [here](https://retroachievements.org/foru
 
 | Code Reviewer                 |                                 |                        |
 | ----------------------------- | ------------------------------- | ---------------------- |
-| {% rauserpic OpheliaEnigma %} | {% rauserpic WheelsAndWhirls %} | {% rauserpic zaydoc %} |
+| {% rauserpicalt OpheliaEnigma, malhas1000 %} | {% rauserpic WheelsAndWhirls %} | {% rauserpic zaydoc %} |
 | {% rauserpic suspect15  %}    |                                 |                        |
 
 <br>
@@ -518,7 +518,7 @@ This is a big release with many changes for players and devs.
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2" width=250>{% rauserpic SiSiSierra %}</td>
+            <td rowspan="2" width=250>{% rauserpicalt SiSiSierra, Gadet %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 21735, 117773, Wallace & Gromit in Project Zoo (PS2) %}</td>
@@ -556,7 +556,7 @@ This is a big release with many changes for players and devs.
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2" width=250>{% rauserpic snek2eater %}</td>
+            <td rowspan="2" width=250>{% rauserpicalt snek2, snek2eater %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 14563, 123889, Virtua Cop 2 (SAT) %}</td>

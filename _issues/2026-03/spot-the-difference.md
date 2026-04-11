@@ -24,7 +24,7 @@ category: Spot The Difference
     <tr>
         <td>{% rauserpic ElMullet %}</td>
         <td>{% rauserpic thattiredcat %}</td>
-        <td>{% rauserpic SusieRose %}</td>
+        <td>{% rauserpicalt SusieRose, TerraRose %}</td>
     </tr>
     <tr>
         <td>{% rauserpic PotatOS %}</td>

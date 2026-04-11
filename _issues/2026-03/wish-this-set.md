@@ -42,7 +42,7 @@ The game's sequel, My Life as a Darklord, isn't from the same genre. It's also w
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/35535" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png" alt="Art Style: light trax"> <span>Art Style: light trax</span></a> | Wii     | [Racing](https://retroachievements.org/hub/13351) |
 
-* Write-up by: {% rauserpic TheAmazingBaha %}
+* Write-up by: {% rauserpicalt TheAmazingBaha, AmazingBaha %}
 
 <figure style="text-align:center;float:left;width:50%;height:50%">
 <img src="https://images2.imgbox.com/3e/f4/OMBg6o4F_o.png">

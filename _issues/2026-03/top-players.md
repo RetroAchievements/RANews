@@ -275,7 +275,7 @@ Given period: February 1st to February 28th, 2026.
 | 256  | 🇬🇧 {% rauser midgetstrawdog %}      | 115412 |   **+1643**    |      -5       |
 | 257  | 🇺🇸 {% rauser Dominick %}            | 115117 |   **+2361**    |       4       |
 | 258  | 🇩🇪 {% rauser Kingsombra %}          | 115044 |    **+816**    |      -8       |
-| 259  | 🇬🇧 {% rauser Yordlebreeder %}       | 114316 |   **+4207**    |      17       |
+| 259  | 🇬🇧 {% rauser ZetaGundam %}       | 114316 |   **+4207**    |      17       |
 | 260  | 🇺🇸 {% rauser Bakagami %}            | 114131 |   **+3409**    |      11       |
 | 261  | 🇫🇮 {% rauser Moukku %}              | 114092 |   **+1379**    |       1       |
 | 262  | 🇨🇦 {% rauser RetroVanny %}          | 114074 |   **+3889**    |      13       |
@@ -305,7 +305,7 @@ Given period: February 1st to February 28th, 2026.
 | 286  | 🇧🇷 {% rauser Zahutsen %}            | 110468 |   **+1437**    |      -8       |
 | 287  | 🇩🇪 {% rauser Bubzia %} (new)        | 110465 |   **+6302**    |      21       |
 | 288  | 🇧🇷 {% rauser Universus %}           | 110323 |   **+2918**    |               |
-| 289  | 🇲🇽 {% rauser MustadioB %}           | 109886 |   **+2091**    |      -6       |
+| 289  | 🇲🇽 {% rauser MisterCheevo %}           | 109886 |   **+2091**    |      -6       |
 | 290  | 🇧🇪 {% rauser Legendarylink0 %}      | 109859 |   **+3749**    |       9       |
 | 291  | 🇺🇸 {% rauser Riskbreaker48 %}       | 109652 |    **+665**    |      -12      |
 | 292  | 🇦🇷 {% rauser Baalbanio %} (new)     | 109470 |   **+6585**    |      26       |

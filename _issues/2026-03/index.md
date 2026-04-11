@@ -85,7 +85,7 @@ toc_float: false
 <div class="section-link">
     <a href="./ra-fan-art.html">
         <div class="section-content">
-            <h1 id="ra-fan-art">RA Fan Art---</h1>
+            <h1 id="ra-fan-art">RA Fan Art</h1>
             <p>Dive into the artistic world of our RetroAchievements community with our new Fanart section. Discover a visual feast of nostalgia as members showcase their talent in celebrating the timeless charm of retro gaming. Immerse yourself in the pixelated passion that makes our community truly special.</p>
         </div>
     </a>
@@ -228,13 +228,87 @@ toc_float: false
 </div>
 <div class="section-link">
     <div class="section-content">
-        <h1 id="acknowledgments">Acknowledgments---</h1>
+        <h1 id="acknowledgments">Acknowledgments</h1>
         <p>The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.</p>
         <table><tbody>
             <tr>
+                <td>{% rauserpic ABCDEFGHI %}</td>
                 <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
+                <td>{% rauserpic authorblues %}</td>
+            </tr>
+            <tr>
                 <td>{% rauserpic Bendyhuman %}</td>
-                <td>{% rauserpic BlueShellBeast %}</td>
+                <td>{% rauserpic Blackdrazon %}</td>
+                <td>{% rauserpic Brandovsky %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic ChameleonGaming %}</td>
+                <td>{% rauserpicalt DawninDog, Yoh4948 %}</td>
+                <td>{% rauserpic DevCompliance %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic DizzySus %}</td>
+                <td>{% rauserpic Ezezin %}</td>
+                <td>{% rauserpic Frenchy70 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic gamer097 %}</td>
+                <td>{% rauserpic heytallman %}</td>
+                <td>{% rauserpic Hotscrock %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt Johan, TheJohanx %}</td>
+                <td>{% rauserpic Kecleon352 %}</td>
+                <td>{% rauserpic Labuff %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic MrOwnership %}</td>
+                <td>{% rauserpic Nepiki %}</td>
+                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Nydaxn %}</td>
+                <td>{% rauserpicalt ClaudeLeChat, Obliv %}</td>
+                <td>{% rauserpic Olafur %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic pinguupinguu %}</td>
+                <td>{% rauserpic Prota %}</td>
+                <td>{% rauserpicalt PS2Hagrid, Player1041 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic QATeam %}</td>
+                <td>{% rauserpic RANews %}</td>
+                <td>{% rauserpic Raykusen %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic RetroGameMaster %}</td>
+                <td>{% rauserpic RyCuLe %}</td>
+                <td>{% rauserpic Sines %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Sniwott %}</td>
+                <td>{% rauserpicalt SnowPin, Snow %}</td>
+                <td>{% rauserpicalt SolidPilson, Pilson %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic SporyTike %}</td>
+                <td>{% rauserpic StingX2 %}</td>
+                <td>{% rauserpic Tayadaoc %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt tele, televandalist %}</td>
+                <td>{% rauserpicalt TheAmazingBaha, AmazingBaha %}</td>
+                <td>{% rauserpic TimeCrush %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Timzy88 %}</td>
+                <td>{% rauserpic vikdarkbomb %}</td>
+                <td>{% rauserpic wallmasterz %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt Whitebeard420, Karimallaw420 %}</td>
+                <td colspan="2">{% rauserpic Xymjak %}</td>
             </tr>
         </tbody></table>
     </div>

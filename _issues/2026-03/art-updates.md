@@ -276,8 +276,8 @@ toc: true
 | ---------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 17977, 124429, Carnivores: Dinosaur Hunter %}                   | {% rauser Meldovan %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/048589.png"> |
 | {% ragamepic 25694, 124428, Carnivores: Ice Age %}                           | {% rauser Meldovan %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/082520.png"> |
-| {% ragamepic 18063, 124080, LEGO Indiana Jones 2: The Adventure Continues %} | {% rauser KiNG777 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/080996.png"> |
-| {% ragamepic 3040, 125060, LEGO Pirates of the Caribbean: The Video Game %}  | {% rauser KiNG777 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/081955.png"> |
+| {% ragamepic 18063, 124080, LEGO Indiana Jones 2: The Adventure Continues %} | {% rauser KiNG777zk %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/080996.png"> |
+| {% ragamepic 3040, 125060, LEGO Pirates of the Caribbean: The Video Game %}  | {% rauser KiNG777zk %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/081955.png"> |
 | {% ragamepic 18459, 124478, Marvel Super Hero Squad %}                       | {% rauser ZeeRA %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/103019.png"> |
 | {% ragamepic 20495, 126613, Naruto Shippuden: Ultimate Ninja Heroes 3 %}     | {% rauser Heoutera %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/079893.png"> |
 | {% ragamepic 18472, 124494, Summon Night 4 %}                                | {% rauser Akirazord %} | <img class="gameicon" src="https://media.retroachievements.org/Images/090994.png"> |
@@ -291,7 +291,7 @@ toc: true
 
 | Game                                            | Icon By              | Icon Before                                                                        |
 | ----------------------------------------------- | -------------------- | ---------------------------------------------------------------------------------- |
-| {% ragamepic 14714, 124476, Pichu Bros. mini %} | {% rauser KiNG777 %} | <img class="gameicon" src="https://media.retroachievements.org/Images/029983.png"> |
+| {% ragamepic 14714, 124476, Pichu Bros. mini %} | {% rauser KiNG777zk %} | <img class="gameicon" src="https://media.retroachievements.org/Images/029983.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -321,7 +321,7 @@ toc: true
 | {% ragamepic 3193, 124082, Little Master: Nijiiro no Maseki %}                            | {% rauser berti %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/085956.png"> |
 | {% ragamepic 2601, 124657, Marvelous: Mouhitotsu no Takarajima %}                         | {% rauser berti %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/123322.png"> |
 | {% ragamepic 23372, 124007, Nickelodeon Guts %}                                           | {% rauser ZeeRA %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/089376.png"> |
-| {% ragamepic 2620, 124574, Skyblazer %}                                                   | {% rauser KiNG777 %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/088300.png"> |
+| {% ragamepic 2620, 124574, Skyblazer %}                                                   | {% rauser KiNG777zk %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/088300.png"> |
 | {% ragamepic 8969, 124029, ~Hack~ Super Mario Kart Reversed %}                            | {% rauser DouguiNEW %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/063009.png"> |
 
 <a href="#toc">:top:</a>

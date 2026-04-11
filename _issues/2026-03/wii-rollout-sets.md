@@ -33,7 +33,7 @@ RetroAchievements is proud to announce support for our 53rd console, the Nintend
         </tr>
         <tr>
             <td>{% ragamepic 34728, 123741, Alien Crush Returns %}</td>
-            <td>{% rauserpic BacklogOddy %}</td>
+            <td>{% rauserpicalt BacklogOddy, TwosomesUP %}</td>
         </tr>
         <tr>
             <td colspan=2>
@@ -60,7 +60,7 @@ But the fun doesn’t stop there. This RetroAchievements set challenges players 
         </tr>
         <tr>
             <td>{% ragamepic 35964, 120286, Art of Balance %}</td>
-            <td>{% rauserpic Meatbro %}</td>
+            <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -102,7 +102,7 @@ But the fun doesn’t stop there. This RetroAchievements set challenges players 
         </tr>
         <tr>
             <td>{% ragamepic 35217, 125180, Broken Sword: Shadow of the Templars - The Director&#39;s Cut %}</td>
-            <td>{% rauserpic coyoacan %}</td>
+            <td>{% rauserpicalt coyoacan, spookerson %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -151,7 +151,7 @@ But the fun doesn’t stop there. This RetroAchievements set challenges players 
         </tr>
         <tr>
             <td>{% ragamepic 35587, 125329, Carnival Games: MiniGolf %}</td>
-            <td>{% rauserpic PS2Hagrid %}</td>
+            <td>{% rauserpicalt PS2Hagrid, Player1041 %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -280,14 +280,14 @@ My goal was to create something that the other Cave Story sets were not already 
         </tr>
         <tr>
             <td>{% ragamepic 34674, 118529, Dr. Mario Online Rx %}</td>
-            <td>{% rauserpic suun %}</td>
+            <td>{% rauserpicalt suun, NamcoPlayer9871 %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
         </tr>
         <tr>
             <td>{% ragamepic 35358, 120229, Dragon Ball: Revenge of King Piccolo %}</td>
-            <td>{% rauserpic Meatbro %}</td>
+            <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -336,7 +336,7 @@ My goal was to create something that the other Cave Story sets were not already 
         </tr>
         <tr>
             <td>{% ragamepic 34789, 119512, ExciteBots: Trick Racing %}</td>
-            <td>{% rauserpic Meatbro %}</td>
+            <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -371,14 +371,14 @@ My goal was to create something that the other Cave Story sets were not already 
         </tr>
         <tr>
             <td>{% ragamepic 131, 124070, Fragile Dreams: Farewell Ruins of the Moon %}</td>
-            <td>{% rauserpic AlexHylian %}</td>
+            <td>{% rauserpicalt AlexHylian, AlexGatao %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
         </tr>
         <tr>
             <td>{% ragamepic 34588, 118310, Geometry Wars: Galaxies %}</td>
-            <td>{% rauserpic Meatbro %}</td>
+            <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -462,7 +462,7 @@ My goal was to create something that the other Cave Story sets were not already 
         </tr>
         <tr>
             <td>{% ragamepic 35411, 119749, Ice Age 3: Dawn of the Dinosaurs %}</td>
-            <td>{% rauserpic Meatbro %}</td>
+            <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -476,7 +476,7 @@ My goal was to create something that the other Cave Story sets were not already 
         </tr>
         <tr>
             <td>{% ragamepic 7770, 055799, Imagine: Party Babyz %}</td>
-            <td>{% rauserpic Meatbro %}</td>
+            <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -562,7 +562,7 @@ To give you some guidance, I've included notes on every achievement from when I 
         </tr>
         <tr>
             <td>{% ragamepic 34613, 119090, Kororinpa %}</td>
-            <td>{% rauserpic Meatbro %}</td>
+            <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -583,7 +583,7 @@ To give you some guidance, I've included notes on every achievement from when I 
         </tr>
         <tr>
             <td>{% ragamepic 38156, 125624, Learning with the PooYoos: Episode 1 %}</td>
-            <td>{% rauserpic LilCutieSophia %}</td>
+            <td>{% rauserpicalt LilCutieSophia, MaddieKittyTV %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -643,14 +643,14 @@ Immerse yourself in the award-winning sound design of lilt line, an indie WiiWar
         </tr>
         <tr>
             <td>{% ragamepic 4071, 120020, Link&#39;s Crossbow Training %}</td>
-            <td>{% rauserpic Sutarion %}<br>{% rauserpic AlexHylian %}</td>
+            <td>{% rauserpic Sutarion %}<br>{% rauserpicalt AlexHylian, AlexGatao %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
         </tr>
         <tr>
             <td>{% ragamepic 35717, 123334, Link&#39;s Crossbow Training [Subset - Max Scores] %}</td>
-            <td>{% rauserpic AlexHylian %}</td>
+            <td>{% rauserpicalt AlexHylian, AlexGatao %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -678,14 +678,14 @@ Immerse yourself in the award-winning sound design of lilt line, an indie WiiWar
         </tr>
         <tr>
             <td>{% ragamepic 35126, 119316, Mario &amp; Sonic at the Olympic Games %}</td>
-            <td>{% rauserpic agoodduck %}</td>
+            <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
         </tr>
         <tr>
             <td>{% ragamepic 11071, 126556, Mario Kart Wii %}</td>
-            <td>{% rauserpic Darky %}</td>
+            <td>{% rauserpicalt Darky, DarkyAndreas %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -704,7 +704,7 @@ While using the attraction you will also get some carnival tickets which you can
         </tr>
         <tr>
             <td>{% ragamepic 34696, 125316, Mario Sports Mix %}</td>
-            <td>{% rauserpic blueYOSHMIN %}<br>{% rauserpic s0uth %}</td>
+            <td>{% rauserpicalt blueYOSHMIN, blueYOSHI %}<br>{% rauserpic s0uth %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -786,7 +786,7 @@ adventure that embodies the retro revival of its era. Progression, damageless, c
         </tr>
         <tr>
             <td>{% ragamepic 35105, 118964, Mr. Bean&#39;s Wacky World %}</td>
-            <td>{% rauserpic Meatbro %}</td>
+            <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -881,7 +881,7 @@ Are you a fun guy? You should try being a fungi! Play as Pax, a bolete mushroom,
         </tr>
         <tr>
             <td>{% ragamepic 34590, 118397, Pajama Sam: Don&#39;t Fear the Dark %}</td>
-            <td>{% rauserpic LilCutieSophia %}</td>
+            <td>{% rauserpicalt LilCutieSophia, MaddieKittyTV %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -924,7 +924,7 @@ Welcome aboard to the fantasy world of PangYa!
         </tr>
         <tr>
             <td>{% ragamepic 35117, 119280, Phineas and Ferb: Quest for Cool Stuff %}</td>
-            <td>{% rauserpic LilCutieSophia %}</td>
+            <td>{% rauserpicalt LilCutieSophia, MaddieKittyTV %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -982,14 +982,14 @@ This installment is one of the three Japanese-only Pokémon Mystery Dungeon game
         </tr>
         <tr>
             <td>{% ragamepic 34629, 118588, PokéPark Wii: Pikachu&#39;s Adventure %}</td>
-            <td>{% rauserpic ADTempest %}</td>
+            <td>{% rauserpicalt ADTempest, AdeptTempest %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
         </tr>
         <tr>
             <td>{% ragamepic 36015, 123926, Professor Heinz Wolff&#39;s Gravity %}</td>
-            <td>{% rauserpic Meatbro %}</td>
+            <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -1003,7 +1003,7 @@ This installment is one of the three Japanese-only Pokémon Mystery Dungeon game
         </tr>
         <tr>
             <td>{% ragamepic 35124, 119297, Puyo Puyo!! 20th Anniversary %}</td>
-            <td>{% rauserpic suun %}</td>
+            <td>{% rauserpicalt suun, NamcoPlayer9871 %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -1017,28 +1017,28 @@ This installment is one of the three Japanese-only Pokémon Mystery Dungeon game
         </tr>
         <tr>
             <td>{% ragamepic 34703, 126634, Rayman Origins %}</td>
-            <td>{% rauserpic Achievess %}<br>{% rauserpic Meatbro %}</td>
+            <td>{% rauserpic Achievess %}<br>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
         </tr>
         <tr>
             <td>{% ragamepic 34862, 120031, Rayman: Raving Rabbids 2 %}</td>
-            <td>{% rauserpic Meatbro %}</td>
+            <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
         </tr>
         <tr>
             <td>{% ragamepic 34766, 119770, Resident Evil: The Darkside Chronicles %}</td>
-            <td>{% rauserpic AlexHylian %}<br>{% rauserpic Xalerzyx %}<br>{% rauserpic shnick1980 %}</td>
+            <td>{% rauserpicalt AlexHylian, AlexGatao %}<br>{% rauserpic Xalerzyx %}<br>{% rauserpic shnick1980 %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
         </tr>
         <tr>
             <td>{% ragamepic 97, 123230, Resident Evil: The Umbrella Chronicles %}</td>
-            <td>{% rauserpic AlexHylian %}</td>
+            <td>{% rauserpicalt AlexHylian, AlexGatao %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -1093,7 +1093,7 @@ You might even recognize an interesting symbol in the Hojo clan, one that defini
         </tr>
         <tr>
             <td>{% ragamepic 4039, 076357, Sonic and the Black Knight %}</td>
-            <td>{% rauserpic Craze %}</td>
+            <td>{% rauserpicalt Craze, Crazeuh %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -1177,7 +1177,7 @@ You might even recognize an interesting symbol in the Hojo clan, one that defini
         </tr>
         <tr>
             <td>{% ragamepic 195, 119305, Super Smash Bros. Brawl %}</td>
-            <td>{% rauserpic Brylefi %}</td>
+            <td>{% rauserpicalt Brylefi, Bryan1150 %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -1191,7 +1191,7 @@ You might even recognize an interesting symbol in the Hojo clan, one that defini
         </tr>
         <tr>
             <td>{% ragamepic 35151, 119381, Taiko no Tatsujin Wii %}</td>
-            <td>{% rauserpic AmirGaris %}</td>
+            <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -1240,21 +1240,21 @@ You might even recognize an interesting symbol in the Hojo clan, one that defini
         </tr>
         <tr>
             <td>{% ragamepic 34718, 120564, The Munchables %}</td>
-            <td>{% rauserpic Meatbro %}</td>
+            <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
         </tr>
         <tr>
             <td>{% ragamepic 34861, 121479, The Simpsons Game %}</td>
-            <td>{% rauserpic suun %}</td>
+            <td>{% rauserpicalt suun, NamcoPlayer9871 %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
         </tr>
         <tr>
             <td>{% ragamepic 34716, 121438, Thomas &amp; Friends: Hero of the Rails %}</td>
-            <td>{% rauserpic LilCutieSophia %}</td>
+            <td>{% rauserpicalt LilCutieSophia, MaddieKittyTV %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -1296,7 +1296,7 @@ You might even recognize an interesting symbol in the Hojo clan, one that defini
         </tr>
         <tr>
             <td>{% ragamepic 36150, 124065, Viral Survival %}</td>
-            <td>{% rauserpic Meatbro %}</td>
+            <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -1331,14 +1331,14 @@ You might even recognize an interesting symbol in the Hojo clan, one that defini
         </tr>
         <tr>
             <td>{% ragamepic 35522, 122758, Who Wants to Be a Millionaire: 1st Edition %}</td>
-            <td>{% rauserpic Meatbro %}</td>
+            <td>{% rauserpicalt Meatbro, SuperMeatBro %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
         </tr>
         <tr>
             <td>{% ragamepic 34879, 125690, Wii Play %}</td>
-            <td>{% rauserpic Meatbro %}<br>{% rauserpic LilCutieSophia %}</td>
+            <td>{% rauserpicalt Meatbro, SuperMeatBro %}<br>{% rauserpicalt LilCutieSophia, MaddieKittyTV %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
@@ -1359,7 +1359,7 @@ You might even recognize an interesting symbol in the Hojo clan, one that defini
         </tr>
         <tr>
             <td>{% ragamepic 100, 123199, Xenoblade Chronicles %}</td>
-            <td>{% rauserpic Pie345 %}<br>{% rauserpic Brylefi %}</td>
+            <td>{% rauserpicalt Pie345, ilikepie345 %}<br>{% rauserpicalt Brylefi, Bryan1150 %}</td>
         </tr>
         <tr>
             <td colspan=2></td>

@@ -78,7 +78,7 @@ There are users who have uploaded their playthroughs, so new players don't have 
 | <a class="gameicon-link" href="https://retroachievements.org/game/32649" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/105955.png" alt="\~Hack~ Mario in the Multiverse"> <span>\~Hack~ Mario in the Multiverse</span></a> | Nintendo 64 | [3D Platforming](https://retroachievements.org/hub/2952), [Collect-a-thon](https://retroachievements.org/hub/7185) |
 
 * Set by: {% rauserpic Layton %}
-* Write-up by: {% rauserpic Johan %}
+* Write-up by: {% rauserpicalt Johan, TheJohanx %}
 
 In this hack, Mario gets trapped into a dimension where he needs to collect stars from different universes like [Doom](https://retroachievements.org/hub/7670), Bioshock, [Pokemon](https://retroachievements.org/hub/8444), [Kirby](https://retroachievements.org/hub/2129), etc. However, there are not only themed levels, but also power-ups! You will be able to use stuff like the bubble hat from [SpongeBob BFBB](https://retroachievements.org/game/15690), inkling from Splatoon, Shock Rocket from [Rayman](https://retroachievements.org/hub/7252) and even a damn shotgun™.
 
@@ -105,8 +105,8 @@ I learned so many new things about a game I’ve played for years, not to mentio
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------ |
 | <a class="gameicon-link" href="https://retroachievements.org/game/17753" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/054455.png" alt="\~Hack~ Lug's Delightful Dioramas"> <span>\~Hack~ Lug's Delightful Dioramas</span></a> | Nintendo 64 | [3D Platforming](https://retroachievements.org/hub/2952), [Collect-a-thon](https://retroachievements.org/hub/7185) |
 
-* Set by: {% rauserpic Darky %}
-* Write-up by: {% rauserpic SolidPilson %}
+* Set by: {% rauserpicalt Darky, DarkyAndreas %}
+* Write-up by: {% rauserpicalt SolidPilson, Pilson %}
 
 Coming from a person that is extremely strict with hacks, this is a superb hack. It's so good it could be a standalone game. The fact that I never beat [Super Mario 64](https://retroachievements.org/game/10003) and could beat the game almost on hardcore mode (the second part of the last level had me going softcore) says a lot about this piece of art. At every moment the game teaches you how to play it properly and ensures that all challenges scale appropriately.
 

@@ -133,7 +133,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li value="2">{% rauserpic ZTZT %} - 31 Points</li>
                     <li value="5">{% rauserpic Tyrota %} - 30 Points</li>
                     <li value="5">{% rauserpic LeeD %} - 30 Points</li>
-                    <li value="5">{% rauserpic SolidPilson %} - 30 Points</li>
+                    <li value="5">{% rauserpicalt SolidPilson, Pilson %} - 30 Points</li>
                     <li value="5">{% rauserpic MentalBlank %} - 30 Points</li>
                     <li value="5">{% rauserpic Woosh %} - 30 Points</li>
                     <li value="5">{% rauserpic smallfryal %} - 30 Points</li>
@@ -226,7 +226,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
             <td>
                 <ol>
                     <li value="1">{% rauserpic rileythepegasus %} - 45 Points</li>
-                    <li value="1">{% rauserpic EEez %} - 45 Points</li>
+                    <li value="1">{% rauserpicalt EEez, Yoshinohara %} - 45 Points</li>
                     <li value="1">{% rauserpic PsyXchO %} - 45 Points</li>
                     <li value="4">{% rauserpic Eferos %} - 36 Points</li>
                     <li value="5">{% rauserpic alwaysintreble %} - 34 Points</li>
@@ -235,7 +235,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li value="8">{% rauserpic hibaki %} - 23 Points</li>
                     <li value="9">{% rauserpic 22Peppermint %} - 22 Points</li>
                     <li value="10">{% rauserpic jhonen124 %} - 21 Points</li>
-                    <li value="10">{% rauserpic Biskii %} - 21 Points</li>
+                    <li value="10">{% rauserpicalt Biskii, Cadeillac %} - 21 Points</li>
                 </ol>
                 <br>Check out the game page for the up to date rankings.
             </td>
@@ -376,7 +376,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     </thead>
                     <tbody>
                         <tr>
-                            <td>{% rauserpic ChrisBGR %}</td>
+                            <td>{% rauserpicalt ChrisBGR, oaktea %}</td>
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
@@ -384,7 +384,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
-                            <td rowspan=2>{% rauserpic EEez %}</td>
+                            <td rowspan=2>{% rauserpicalt EEez, Yoshinohara %}</td>
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
@@ -430,7 +430,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic NRH3CD3OHE3 %}</td>
+                            <td>{% rauserpicalt NRH3CD3OHE3, 333OnlyHalfEvil %}</td>
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
@@ -442,7 +442,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic Pusheen %}</td>
+                            <td>{% rauserpicalt Pusheen, MasterPusheen %}</td>
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
@@ -462,7 +462,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic SolidPilson %}</td>
+                            <td>{% rauserpicalt SolidPilson, Pilson %}</td>
                             <td colspan=2>{% ragamepic 6809, 124577, Choplifter %}</td>
                         </tr>
                         <tr>
@@ -509,7 +509,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                         </tr>
                         <tr>
                             <td>{% rauserpic Dyhalto %}</td>
-                            <td>{% rauserpic EEez %}</td>
+                            <td>{% rauserpicalt EEez, Yoshinohara %}</td>
                             <td>{% rauserpic GaudySlayers %}</td>
                         </tr>
                         <tr>

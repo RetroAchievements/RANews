@@ -93,7 +93,7 @@ Check out the top 25 achievement creators from this month.
 | 13   | {% rauserpic Aaamdacuaga %}        | 98           |
 | 14   | {% rauserpic Dimedime %}           | 90           |
 | 15   | {% rauserpic Hexadigital %}        | 85           |
-| 16   | {% rauserpic malhas1000 %}         | 78           |
+| 16   | {% rauserpicalt OpheliaEnigma, malhas1000 %}         | 78           |
 | 17   | {% rauserpic zizom %}              | 77           |
 | 18   | {% rauserpic Achievess %}          | 77           |
 | 19   | {% rauserpic ChaoticAdventure %}   | 62           |
@@ -102,7 +102,7 @@ Check out the top 25 achievement creators from this month.
 | 22   | {% rauserpic Delmaru %}            | 57           |
 | 23   | {% rauserpic streetbackguy %}      | 56           |
 | 24   | {% rauserpic MiguelsoaresGames2 %} | 53           |
-| 25   | {% rauserpic snek2eater %}         | 45           |
+| 25   | {% rauserpicalt snek2, snek2eater %}         | 45           |
 
 ## Top 25 Developers <!-- 13 -->
 Check out some stats regarding unlocks and points awarded by the developers. Included is the number of unlocks, points and retro points awarded to the players over the past month.
@@ -112,19 +112,19 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 1    | {% rauserpic Delmaru %}             | 88,738          | 424,775        | 2,203,543            |
 | 2    | {% rauserpic SporyTike %}           | 67,730          | 378,949        | 1,592,100            |
 | 3    | {% rauserpic GalacticSpear %}       | 63,245          | 468,576        | 3,302,472            |
-| 4    | {% rauserpic Snow %}                | 61,899          | 314,878        | 1,336,527            |
+| 4    | {% rauserpicalt SnowPin, Snow %}                | 61,899          | 314,878        | 1,336,527            |
 | 5    | {% rauserpic Vancleef %}            | 58,268          | 253,351        | 708,575              |
 | 6    | {% rauserpic Brian %}               | 56,347          | 425,024        | 1,163,947            |
 | 7    | {% rauserpic Gollawiz %}            | 55,408          | 329,124        | 1,091,761            |
 | 8    | {% rauserpic timenoe %}             | 53,932          | 460,495        | 3,256,336            |
-| 9    | {% rauserpic Bryan1150 %}           | 53,486          | 338,555        | 1,671,872            |
-| 10   | {% rauserpic ThatAmericanSlacker %} | 52,121          | 366,589        | 846,493              |
+| 9    | {% rauserpicalt Brylefi, Bryan1150 %}           | 53,486          | 338,555        | 1,671,872            |
+| 10   | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 52,121          | 366,589        | 846,493              |
 | 11   | {% rauserpic TeddyWestside %}       | 49,276          | 292,553        | 776,153              |
 | 12   | {% rauserpic suspect15 %}           | 47,212          | 303,319        | 1,386,075            |
 | 13   | {% rauserpic blendedsea %}          | 44,257          | 214,833        | 927,907              |
 | 14   | {% rauserpic pinguupinguu %}        | 44,036          | 207,789        | 803,845              |
 | 15   | {% rauserpic RAEvents %}            | 43,331          | 61,787         | 1,473,407            |
-| 16   | {% rauserpic televandalist %}       | 42,637          | 322,182        | 1,208,584            |
+| 16   | {% rauserpicalt tele, televandalist %}       | 42,637          | 322,182        | 1,208,584            |
 | 17   | {% rauserpic voiceofautumn %}       | 42,429          | 251,811        | 858,204              |
 | 18   | {% rauserpic dude1286 %}            | 40,812          | 335,290        | 715,967              |
 | 19   | {% rauserpic Dexterspet %}          | 40,165          | 266,333        | 616,962              |
@@ -217,13 +217,13 @@ Check out who has the most achievement unlocks, points, retro points, and master
 | 3    | {% rauserpic groMor %}         | 2,216        | 7,398  | 11,943       | 144            |
 | 4    | {% rauserpic Spendragon %}     | 1,960        | 9,297  | 26,828       | 7              |
 | 5    | {% rauserpic Ephrom %}         | 1,882        | 8,773  | 23,598       | 24             |
-| 6    | {% rauserpic FarielGamingX %}  | 1,730        | 6,672  | 77,239       | 37             |
+| 6    | {% rauserpicalt FarielGamingXYZ, FarielGamingX %}  | 1,730        | 6,672  | 77,239       | 37             |
 | 7    | {% rauserpic saybingryph %}    | 1,714        | 7,748  | 40,862       | 28             |
 | 8    | {% rauserpic Orph %}           | 1,687        | 10,115 | 198,696      | 19             |
 | 9    | {% rauserpic Saronto %}        | 1,656        | 8,634  | 40,468       | 22             |
-| 10   | {% rauserpic cardinastephen %} | 1,613        | 11,135 | 35,688       | 21             |
+| 10   | {% rauserpicalt Waggington, cardinastephen %} | 1,613        | 11,135 | 35,688       | 21             |
 | 11   | {% rauserpic usedpizza %}      | 1,611        | 11,238 | 65,460       | 40             |
-| 12   | {% rauserpic SoulSoralis %}    | 1,564        | 10,944 | 49,953       | 12             |
+| 12   | {% rauserpicalt Soralis, SoulSoralis %}    | 1,564        | 10,944 | 49,953       | 12             |
 | 13   | {% rauserpic bctincher1 %}     | 1,559        | 7,318  | 36,708       | 11             |
 | 14   | {% rauserpic Olbrin %}         | 1,521        | 7,294  | 15,657       | 12             |
 | 15   | {% rauserpic RockTheDead %}    | 1,510        | 4,898  | 8,563        | 97             |
@@ -236,7 +236,7 @@ Check out who has the most achievement unlocks, points, retro points, and master
 | 22   | {% rauserpic Eeveelution %}    | 1,380        | 7,417  | 31,553       | 21             |
 | 23   | {% rauserpic ABCDEFGHI %}      | 1,371        | 10,112 | 34,832       | 11             |
 | 24   | {% rauserpic ChronoGear %}     | 1,347        | 11,201 | 103,045      | 31             |
-| 25   | {% rauserpic McLovinXT %}      | 1,340        | 7,764  | 32,890       | 12             |
+| 25   | {% rauserpicalt iMcLOVIN, McLovinXT %}      | 1,340        | 7,764  | 32,890       | 12             |
 
 ## Top 25 Awarded Achievements <!-- 16 -->
 Check out which achievements were earned the most this month. Limit one achievement per game.
@@ -400,17 +400,17 @@ Check out which developers created the most code notes this month.
 <div>
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
-        <tr><td>1</td><td>{% rauserpic Player1041 %}</td><td>4,695</td></tr>
+        <tr><td>1</td><td>{% rauserpicalt PS2Hagrid, Player1041 %}</td><td>4,695</td></tr>
         <tr><td>2</td><td>{% rauserpic Guinea %}</td><td>1,331</td></tr>
         <tr><td>3</td><td>{% rauserpic kiwibasket %}</td><td>1,002</td></tr>
         <tr><td>4</td><td>{% rauserpic streetbackguy %}</td><td>937</td></tr>
-        <tr><td>5</td><td>{% rauserpic SrLeo12 %}</td><td>886</td></tr>
+        <tr><td>5</td><td>{% rauserpicalt Cnat, SrLeo12 %}</td><td>886</td></tr>
     </tbody></table>
     </div>
     <div style='width:49%;display:inline-block;float:right'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
         <tr><td>6</td><td>{% rauserpic DionOf93 %}</td><td>732</td></tr>
-        <tr><td>7</td><td>{% rauserpic AlexGatao %}</td><td>725</td></tr>
+        <tr><td>7</td><td>{% rauserpicalt AlexHylian, AlexGatao %}</td><td>725</td></tr>
         <tr><td>8</td><td>{% rauserpic JustLilith %}</td><td>638</td></tr>
         <tr><td>9</td><td>{% rauserpic Mulbruk %}</td><td>633</td></tr>
         <tr><td>10</td><td>{% rauserpic TheMysticalOne %}</td><td>607</td></tr>
@@ -837,7 +837,7 @@ Check out which developer cleared the most tickets this month. This does not inc
 | 3    | {% rauserpic BigDonRob %}        | 13              |
 | 4    | {% rauserpic Yurana %}           | 12              |
 | 5    | {% rauserpic solidification %}   | 11              |
-| 6    | {% rauserpic televandalist %}    | 10              |
+| 6    | {% rauserpicalt tele, televandalist %}    | 10              |
 | 7    | {% rauserpic Gudra %}            | 9               |
 | 8    | {% rauserpic ChaoticAdventure %} | 8               |
 | 9    | {% rauserpic Delmaru %}          | 8               |
