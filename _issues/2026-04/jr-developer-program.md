@@ -11,12 +11,6 @@ Every month, we would like to look back on the sets developed by our junior deve
 
 # Jr. Dev Sets <!-- ⭐ -->
 
-
-| {% ragamepic 21178, 124572, Way of the Samurai %} | PlayStation 2 | Action-Adventure |
-| {% ragamepic 21132, 108476, Star Trek: Voyager - Elite Force %} | PlayStation 2 | First-Person Shooter |
-
-
-
 | Grad | Set                                                                                 | Jr. Developer                    | Reviewer                         | Review Date |
 | ---- | ----------------------------------------------------------------------------------- | -------------------------------- | -------------------------------- | ----------- |
 | ⭐    | {% ragamepic 19693, 124347, NHL Rock the Rink %}                                    | {% rauserpic PS2Hagrid %}        | {% rauserpic CySlaytor %}        | 3/5/2026    |
@@ -32,7 +26,7 @@ Every month, we would like to look back on the sets developed by our junior deve
 | ⭐    | {% ragamepic 21132, 108476, Star Trek: Voyager - Elite Force %}                     | {% rauserpic TheRealSeiferoth %} | {% rauserpic Souzooka %}         | 3/19/2026   |
 |      | {% ragamepic 9282, 125946, Time Commando %}                                         | {% rauserpic ggodeny1 %}         | {% rauserpic Pilzkopf %}         | 3/19/2026   |
 |      | {% ragamepic 4107, 122709, The Simpsons: Night of the Living Treehouse of Horror %} | {% rauserpic RaptorBee %}        | {% rauserpic Souzooka %}         | 3/22/2026   |
-|      | {% ragamepic 33482, 119241, ~Homebrew~ All Hell Unleashed Ver 6.66 %}               | {% rauserpic Bl4h8L4hBl4h %}     | {% rauserpic TheMysticalOne %}   | 3/24/2026   |
+|      | {% ragamepic 33482, 119241, <span class="tag"><span>Homebrew</span></span> All Hell Unleashed Ver 6.66 %}               | {% rauserpic Bl4h8L4hBl4h %}     | {% rauserpic TheMysticalOne %}   | 3/24/2026   |
 |      | {% ragamepic 9768, 123731, Shrek 2: Beg for Mercy! %}                               | {% rauserpic Sniwott %}          | {% rauserpic Pilzkopf %}         | 3/24/2026   |
 |      | {% ragamepic 7439, 125688, Chase the Express %}                                     | {% rauserpic BacktoEdgar %}      | {% rauserpic TheXIIIthX %}       | 3/28/2026   |
 |      | {% ragamepic 298, 122989, FIFA International Soccer %}                              | {% rauserpic en2que %}           | {% rauserpic cdpowe %}           | 3/30/2026   |

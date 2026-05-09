@@ -509,3 +509,20 @@ main > article table tbody tr:hover {
     margin: 0;
   }
 }
+
+.tag {
+  opacity:.9;
+  vertical-align:text-bottom;
+  text-shadow:none;
+  background-color: #bbb;
+  border-radius:.2em;
+  align-items:center;
+  margin:0 .1em;
+  font-size:.8em;
+  line-height:1.1em;
+  display:inline-flex;
+  overflow:hidden;
+  color: black;
+  padding: .2em .5em;
+}
+

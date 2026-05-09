@@ -104,7 +104,7 @@ toc: true
 | {% ragamepic 5377, 125212, Kuru Kuru Kururin %}                       | {% rauser ZeeRA %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/024183.png"> |
 | {% ragamepic 13048, 125593, Rugrats: I Gotta Go Party %}              | {% rauser Shaoden %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/040854.png"> |
 | {% ragamepic 5119, 125353, Tokyo Xtreme Racer Advance %}              | {% rauser cbrx %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/095550.png"> |
-| {% ragamepic 17530, 073204, ~Hack~ Pokémon Unbound %}                 | {% rauser DouguiNEW %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/073120.png"> |
+| {% ragamepic 17530, 073204, <span class="tag"><span>Hack</span></span> Pokémon Unbound %}                 | {% rauser DouguiNEW %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/073120.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -116,7 +116,7 @@ toc: true
 | --------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 4186, 126412, Dinosaur %}                                            | {% rauser Akirazord %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/086367.png"> |
 | {% ragamepic 14356, 125383, Tony Hawk's Pro Skater %}                             | {% rauser bobohoro %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/041161.png"> |
-| {% ragamepic 37510, 125480, ~Homebrew~ ~Demo~ Undertale: Gameboy Color Edition %} | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/123045.png"> |
+| {% ragamepic 37510, 125480, <span class="tag"><span>Homebrew</span></span> <span class="tag"><span>Demo</span></span> Undertale: Gameboy Color Edition %} | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/123045.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -138,7 +138,7 @@ toc: true
 | Game                                                             | Icon By             | Icon Before                                                                        |
 | ---------------------------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 349, 125470, Spider-Man & Venom: Maximum Carnage %} | {% rauser Jayvee %} | <img class="gameicon" src="https://media.retroachievements.org/Images/071510.png"> |
-| {% ragamepic 9395, 125215, ~Homebrew~ Metal Gear %}              | {% rauser Slayn %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/112230.png"> |
+| {% ragamepic 9395, 125215, <span class="tag"><span>Homebrew</span></span> Metal Gear %}              | {% rauser Slayn %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/112230.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -167,7 +167,7 @@ toc: true
 | {% ragamepic 1448, 024519, Mega Man %}                              | {% rauser berti %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/047970.png"> |
 | {% ragamepic 1914, 125357, RoboCop 2 %}                             | {% rauser rgavril %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/064969.png"> |
 | {% ragamepic 4705, 125352, Ys: Ancient Ys Vanished %}               | {% rauser berti %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/018721.png"> |
-| {% ragamepic 19851, 126350, ~Hack~ Final Fantasy: Age of WarMECH %} | {% rauser FinalFrantasy %} | <img class="gameicon" src="https://media.retroachievements.org/Images/103255.png"> |
+| {% ragamepic 19851, 126350, <span class="tag"><span>Hack</span></span> Final Fantasy: Age of WarMECH %} | {% rauser FinalFrantasy %} | <img class="gameicon" src="https://media.retroachievements.org/Images/103255.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -199,7 +199,7 @@ toc: true
 | Game                                                          | Icon By                | Icon Before                                                                        |
 | ------------------------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 10138, 125656, Aero Fighters Assault %}          | {% rauser berti %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/097058.png"> |
-| {% ragamepic 17585, 125359, ~Hack~ Princess Peach Sex Hack %} | {% rauser Frenchy70 %} | <img class="gameicon" src="https://media.retroachievements.org/Images/125149.png"> |
+| {% ragamepic 17585, 125359, <span class="tag"><span>Hack</span></span> Princess Peach Sex Hack %} | {% rauser Frenchy70 %} | <img class="gameicon" src="https://media.retroachievements.org/Images/125149.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -212,9 +212,9 @@ toc: true
 | {% ragamepic 7807, 125093, Avalon Code %}                                  | {% rauser zzorux %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/041318.png"> |
 | {% ragamepic 6102, 125519, Kirby: Canvas Curse %}                          | {% rauser MMX64 %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/120700.png"> |
 | {% ragamepic 27393, 125384, Onegai My Melody: Yume no Kuni no Daibouken %} | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/093658.png"> |
-| {% ragamepic 14829, 125594, ~Hack~ Newer Super Mario Bros. DS %}           | {% rauser Flakekirby27 %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/124219.png"> |
-| {% ragamepic 25786, 125598, ~Homebrew~ Breaking Bad DS %}                  | {% rauser Flakekirby27 %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/088269.png"> |
-| {% ragamepic 9393, 125351, ~Homebrew~ Mario DS %}                          | {% rauser isma3tortilla %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png"> |
+| {% ragamepic 14829, 125594, <span class="tag"><span>Hack</span></span> Newer Super Mario Bros. DS %}           | {% rauser Flakekirby27 %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/124219.png"> |
+| {% ragamepic 25786, 125598, <span class="tag"><span>Homebrew</span></span> Breaking Bad DS %}                  | {% rauser Flakekirby27 %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/088269.png"> |
+| {% ragamepic 9393, 125351, <span class="tag"><span>Homebrew</span></span> Mario DS %}                          | {% rauser isma3tortilla %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -260,8 +260,8 @@ toc: true
 | {% ragamepic 18001, 125655, Sonic Wings Special %}                                 | {% rauser berti %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/048877.png"> |
 | {% ragamepic 17210, 125561, Turbo Prop Racing \| Rapid Racer %}                    | {% rauser cbrx %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/071208.png"> |
 | {% ragamepic 11313, 126005, Wild Arms 2 %}                                         | {% rauser S4NSAN %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/033495.png"> |
-| {% ragamepic 28020, 125343, ~Hack~ Kaizoman %}                                     | {% rauser Achievess %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/093096.png"> |
-| {% ragamepic 24988, 125345, ~Hack~ VS. Impostor V4 %}                              | {% rauser FlareGamer64 %} | <img class="gameicon" src="https://media.retroachievements.org/Images/099255.png"> |
+| {% ragamepic 28020, 125343, <span class="tag"><span>Hack</span></span> Kaizoman %}                                     | {% rauser Achievess %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/093096.png"> |
+| {% ragamepic 24988, 125345, <span class="tag"><span>Hack</span></span> VS. Impostor V4 %}                              | {% rauser FlareGamer64 %} | <img class="gameicon" src="https://media.retroachievements.org/Images/099255.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -353,7 +353,7 @@ toc: true
 
 | Game                                                                  | Icon By            | Icon Before                                                                        |
 | --------------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------- |
-| {% ragamepic 37212, 125904, ~Hack~ Pokémon Rumble: Weekend Edition %} | {% rauser ZeeRA %} | <img class="gameicon" src="https://media.retroachievements.org/Images/124697.png"> |
+| {% ragamepic 37212, 125904, <span class="tag"><span>Hack</span></span> Pokémon Rumble: Weekend Edition %} | {% rauser ZeeRA %} | <img class="gameicon" src="https://media.retroachievements.org/Images/124697.png"> |
 
 <a href="#toc">:top:</a>
 

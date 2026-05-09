@@ -317,14 +317,14 @@ Check out which achievements created in 2025 were earned the most this month. Li
 | 12   | {% raachpic 596211, 676327, Mankind Creation %}                                            | {% ragamepic 38162, 125917, Pinocchio's Puzzle %}                                | 652           |
 | 13   | {% raachpic 591592, 670896, Maximum Bananergy %}                                           | {% ragamepic 89, 125422, Donkey Kong Country Returns %}                          | 594           |
 | 14   | {% raachpic 593666, 672951, Something New Is Gonna Happen Today %}                         | {% ragamepic 34716, 121438, Thomas & Friends: Hero of the Rails %}               | 590           |
-| 15   | {% raachpic 585102, 664407, Cursor %}                                                      | {% ragamepic 36934, 124635, ~Homebrew~ Cookie Clicker PSP %}                     | 466           |
+| 15   | {% raachpic 585102, 664407, Cursor %}                                                      | {% ragamepic 36934, 124635, <span class="tag"><span>Homebrew</span></span> Cookie Clicker PSP %}                     | 466           |
 | 16   | {% raachpic 596047, 676001, Hash Slinger %}                                                | {% ragamepic 36125, 123669, Grill-Off with Ultra Hand! %}                        | 442           |
 | 17   | {% raachpic 575061, 666585, Day on the Ranch %}                                            | {% ragamepic 204, 120792, The Legend of Zelda: Twilight Princess %}              | 421           |
 | 18   | {% raachpic 572995, 650622, Emotional Reunion %}                                           | {% ragamepic 34703, 123081, Rayman Origins %}                                    | 391           |
 | 19   | {% raachpic 594733, 674530, Beyond the Bass Game - Read Description %}                     | {% ragamepic 71, 082527, Mega Man 9 %}                                           | 351           |
 | 20   | {% raachpic 596061, 676102, Welcome to Eggman's Incredible Interstellar Amusement Park! %} | {% ragamepic 7858, 076359, Sonic Colors %}                                       | 348           |
 | 21   | {% raachpic 585445, 664033, Ever So Slightly Perfect %}                                    | {% ragamepic 34615, 118820, Rhythm Heaven Fever %}                               | 332           |
-| 22   | {% raachpic 593477, 672846, Skull-Fucking %}                                               | {% ragamepic 38109, 125418, ~Homebrew~ Masturbrowse %}                           | 311           |
+| 22   | {% raachpic 593477, 672846, Skull-Fucking %}                                               | {% ragamepic 38109, 125418, <span class="tag"><span>Homebrew</span></span> Masturbrowse %}                           | 311           |
 | 23   | {% raachpic 593246, 672556, Ultimate All-Stars! %}                                         | {% ragamepic 4134, 125411, Tatsunoko vs. Capcom: Ultimate All-Stars %}           | 302           |
 | 24   | {% raachpic 574382, 653185, Girl Meets Boy %}                                              | {% ragamepic 97, 123230, Resident Evil: The Umbrella Chronicles %}               | 278           |
 | 25   | {% raachpic 596357, 676779, Gummy Beginnings %}                                            | {% ragamepic 35610, 125945, Gummy Bears: Magical Medallion %}                    | 230           |
@@ -507,11 +507,11 @@ Check out which sets were mastered most this month.
 | 3    | {% ragamepic 2873, 113907, Donald Duck: Goin' Quackers (PlayStation) %}             | 691    |
 | 4    | {% ragamepic 38162, 125917, Pinocchio's Puzzle (Wii) %}                             | 597    |
 | 5    | {% ragamepic 34716, 121438, Thomas & Friends: Hero of the Rails (Wii) %}            | 579    |
-| 6    | {% ragamepic 36934, 124635, ~Homebrew~ Cookie Clicker PSP (PlayStation Portable) %} | 447    |
+| 6    | {% ragamepic 36934, 124635, <span class="tag"><span>Homebrew</span></span> Cookie Clicker PSP (PlayStation Portable) %} | 447    |
 | 7    | {% ragamepic 36125, 123669, Grill-Off with Ultra Hand! (Wii) %}                     | 355    |
 | 8    | {% ragamepic 34666, 125442, Doc Louis's Punch-Out!! (Wii) %}                        | 324    |
 | 9    | {% ragamepic 34590, 118397, Pajama Sam: Don't Fear the Dark (Wii) %}                | 270    |
-| 10   | {% ragamepic 38109, 125418, ~Homebrew~ Masturbrowse (Game Boy Color) %}             | 234    |
+| 10   | {% ragamepic 38109, 125418, <span class="tag"><span>Homebrew</span></span> Masturbrowse (Game Boy Color) %}             | 234    |
 
 # Beaten Awards
 
@@ -613,7 +613,7 @@ Check out which sets were beaten most this month.
 | 7    | {% ragamepic 95, 118829, New Super Mario Bros. Wii (Wii) %}                         | 590    |
 | 8    | {% ragamepic 34716, 121438, Thomas & Friends: Hero of the Rails (Wii) %}            | 589    |
 | 9    | {% ragamepic 34666, 125442, Doc Louis's Punch-Out!! (Wii) %}                        | 463    |
-| 10   | {% ragamepic 36934, 124635, ~Homebrew~ Cookie Clicker PSP (PlayStation Portable) %} | 452    |
+| 10   | {% ragamepic 36934, 124635, <span class="tag"><span>Homebrew</span></span> Cookie Clicker PSP (PlayStation Portable) %} | 452    |
 
 # Set Requests
 

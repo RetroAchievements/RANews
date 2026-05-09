@@ -39,7 +39,7 @@ toc: true
 | Game                                           | Author                     | Genre              |
 | ---------------------------------------------- | -------------------------- | ------------------ |
 | {% ragamepic 13366, 125235, Mario Bros. %}     | {% rauser suspect15 %}     | 2D Platforming     |
-| {% ragamepic 38104, 125421, ~Homebrew~ Lift %} | {% rauser Excessiveiser %} | Puzzle Platforming |
+| {% ragamepic 38104, 125421, <span class="tag"><span>Homebrew</span></span> Lift %} | {% rauser Excessiveiser %} | Puzzle Platforming |
 
 <a href="#toc">:top:</a>
 
@@ -63,8 +63,8 @@ toc: true
 | Game                                                      | Author                      | Genre                 |
 | --------------------------------------------------------- | --------------------------- | --------------------- |
 | {% ragamepic 5732, 108163, Pocahontas %}                  | {% rauser solidification %} | Cinematic Platforming |
-| {% ragamepic 38064, 125185, ~Hack~ Embers of Mana %}      | {% rauser solidification %} | Action RPG            |
-| {% ragamepic 28237, 112087, ~Hack~ Kanto Expansion Pak %} | {% rauser Sines %}          | Turn-Based RPG        |
+| {% ragamepic 38064, 125185, <span class="tag"><span>Hack</span></span> Embers of Mana %}      | {% rauser solidification %} | Action RPG            |
+| {% ragamepic 28237, 112087, <span class="tag"><span>Hack</span></span> Kanto Expansion Pak %} | {% rauser Sines %}          | Turn-Based RPG        |
 
 <a href="#toc">:top:</a>
 
@@ -91,9 +91,9 @@ toc: true
 | {% ragamepic 36680, 125216, Ready 2 Rumble Boxing %}                                | {% rauser WanderingHeiho %}  | Sports - Boxing        |
 | {% ragamepic 4107, 122709, The Simpsons: Night of the Living Treehouse of Horror %} | {% rauser RaptorBee %}       | 2D Platforming, Action |
 | {% ragamepic 6548, 118181, Toki Tori %}                                             | {% rauser Namuh %}           | Puzzle Platforming     |
-| {% ragamepic 38109, 125418, ~Homebrew~ Masturbrowse %}                              | {% rauser TheScarletDevil %} | -                      |
-| {% ragamepic 31330, 126003, ~Unlicensed~ Final Fantasy IX %}                        | {% rauser solidification %}  | Beat 'em Up            |
-| {% ragamepic 38165, 125981, ~Unlicensed~ Final Fantasy X: Fantasy War %}            | {% rauser solidification %}  | Beat 'em Up            |
+| {% ragamepic 38109, 125418, <span class="tag"><span>Homebrew</span></span> Masturbrowse %}                              | {% rauser TheScarletDevil %} | -                      |
+| {% ragamepic 31330, 126003, <span class="tag"><span>Unlicensed</span></span> Final Fantasy IX %}                        | {% rauser solidification %}  | Beat 'em Up            |
+| {% ragamepic 38165, 125981, <span class="tag"><span>Unlicensed</span></span> Final Fantasy X: Fantasy War %}            | {% rauser solidification %}  | Beat 'em Up            |
 
 <a href="#toc">:top:</a>
 
@@ -104,7 +104,7 @@ toc: true
 | Game                                                  | Author                      | Genre          |
 | ----------------------------------------------------- | --------------------------- | -------------- |
 | {% ragamepic 26255, 125010, X-Men: Mojo World %}      | {% rauser solidification %} | -              |
-| {% ragamepic 32992, 125576, ~Homebrew~ Hopman Mini %} | {% rauser Sikayduh %}       | 2D Platforming |
+| {% ragamepic 32992, 125576, <span class="tag"><span>Homebrew</span></span> Hopman Mini %} | {% rauser Sikayduh %}       | 2D Platforming |
 
 <a href="#toc">:top:</a>
 
@@ -115,7 +115,7 @@ toc: true
 | Game                                                        | Author                | Genre                          |
 | ----------------------------------------------------------- | --------------------- | ------------------------------ |
 | {% ragamepic 25448, 121362, Judge Dredd: Dredd vs. Death %} | {% rauser Goodbite %} | First-Person Shooter           |
-| {% ragamepic 31936, 105049, ~Hack~ Movie Mashup %}          | {% rauser Griffin %}  | 3D Platforming, Collect-a-thon |
+| {% ragamepic 31936, 105049, <span class="tag"><span>Hack</span></span> Movie Mashup %}          | {% rauser Griffin %}  | 3D Platforming, Collect-a-thon |
 
 <a href="#toc">:top:</a>
 
@@ -128,8 +128,8 @@ toc: true
 | {% ragamepic 298, 122989, FIFA International Soccer %}            | {% rauser en2que %}             | -                    |
 | {% ragamepic 1431, 114285, Puyo Puyo Tsuu %}                      | {% rauser Minish %}             | Falling Block Puzzle |
 | {% ragamepic 38069, 124965, Streets of Rage 2 [Subset - Mania] %} | {% rauser RyCuLe %}             | Beat 'em Up          |
-| {% ragamepic 30900, 101873, ~Hack~ Sonic 1: The Next Level %}     | {% rauser Dws18 %}              | 2D Platforming       |
-| {% ragamepic 38020, 124547, ~Homebrew~ Fatal Fury One %}          | {% rauser MiguelsoaresGames2 %} | 2D Fighting          |
+| {% ragamepic 30900, 101873, <span class="tag"><span>Hack</span></span> Sonic 1: The Next Level %}     | {% rauser Dws18 %}              | 2D Platforming       |
+| {% ragamepic 38020, 124547, <span class="tag"><span>Homebrew</span></span> Fatal Fury One %}          | {% rauser MiguelsoaresGames2 %} | 2D Fighting          |
 
 <a href="#toc">:top:</a>
 
@@ -150,9 +150,9 @@ toc: true
 | Game                                                                  | Author                      | Genre                      |
 | --------------------------------------------------------------------- | --------------------------- | -------------------------- |
 | {% ragamepic 1766, 012350, John Elway's Quarterback %}                | {% rauser Gorgar %}         | Sports - American Football |
-| {% ragamepic 19851, 126350, ~Hack~ Final Fantasy: Age of WarMECH %}   | {% rauser solidification %} | -                          |
-| {% ragamepic 33482, 119241, ~Homebrew~ All Hell Unleashed Ver 6.66 %} | {% rauser Bl4h8L4hBl4h %}   | Horror                     |
-| {% ragamepic 15162, 125974, ~Unlicensed~ Final Fantasy V %}           | {% rauser solidification %} | Turn-Based RPG             |
+| {% ragamepic 19851, 126350, <span class="tag"><span>Hack</span></span> Final Fantasy: Age of WarMECH %}   | {% rauser solidification %} | -                          |
+| {% ragamepic 33482, 119241, <span class="tag"><span>Homebrew</span></span> All Hell Unleashed Ver 6.66 %} | {% rauser Bl4h8L4hBl4h %}   | Horror                     |
+| {% ragamepic 15162, 125974, <span class="tag"><span>Unlicensed</span></span> Final Fantasy V %}           | {% rauser solidification %} | Turn-Based RPG             |
 
 <a href="#toc">:top:</a>
 
@@ -162,9 +162,9 @@ toc: true
 
 | Game                                                                               | Author                   | Genre                          |
 | ---------------------------------------------------------------------------------- | ------------------------ | ------------------------------ |
-| {% ragamepic 17585, 125359, ~Hack~ Princess Peach Sex Hack %}                      | {% rauser ShadowFox02 %} | -                              |
-| {% ragamepic 20019, 126057, ~Hack~ Star Revenge X: Discord Star Adventure %}       | {% rauser Dimedime %}    | 3D Platforming, Collect-a-thon |
-| {% ragamepic 38100, 125435, ~Hack~ Yoshi's Adventure 128: Attack of the Factory %} | {% rauser Dimedime %}    | 3D Platforming, Collect-a-thon |
+| {% ragamepic 17585, 125359, <span class="tag"><span>Hack</span></span> Princess Peach Sex Hack %}                      | {% rauser ShadowFox02 %} | -                              |
+| {% ragamepic 20019, 126057, <span class="tag"><span>Hack</span></span> Star Revenge X: Discord Star Adventure %}       | {% rauser Dimedime %}    | 3D Platforming, Collect-a-thon |
+| {% ragamepic 38100, 125435, <span class="tag"><span>Hack</span></span> Yoshi's Adventure 128: Attack of the Factory %} | {% rauser Dimedime %}    | 3D Platforming, Collect-a-thon |
 
 <a href="#toc">:top:</a>
 
@@ -179,7 +179,7 @@ toc: true
 | {% ragamepic 24036, 124519, Ben 10: Ultimate Alien - Cosmic Destruction %} | {% rauser RickAlbuquerque %} | Action-Adventure |
 | {% ragamepic 9483, 043375, Shin Megami Tensei: Devil Survivor 2 %}         | {% rauser pandakar %}        | Strategy         |
 | {% ragamepic 6004, 047460, Valkyrie Profile: Covenant of the Plume %}      | {% rauser decimate %}        | Strategy         |
-| {% ragamepic 38019, 125318, ~Homebrew~ Castle Wars %}                      | {% rauser TheScarletDevil %} | -                |
+| {% ragamepic 38019, 125318, <span class="tag"><span>Homebrew</span></span> Castle Wars %}                      | {% rauser TheScarletDevil %} | -                |
 
 <a href="#toc">:top:</a>
 
@@ -253,13 +253,13 @@ toc: true
 | {% ragamepic 3174, 089263, Kyuuyaku Megami Tensei: Megami Tensei I - II %}                         | {% rauser Altomar %}        | Compilation, Turn-Based RPG |
 | {% ragamepic 16555, 102269, The Ren & Stimpy Show: Fire Dogs %}                                    | {% rauser Dws18 %}          | -                           |
 | {% ragamepic 7928, 070192, Ultima: Kyouryuu Teikoku - The Savage Empire %}                         | {% rauser TheMysticalOne %} | Action RPG, CRPG            |
-| {% ragamepic 31906, 125870, ~Hack~ Daisy's Crazy Adventure %}                                      | {% rauser Mendil %}         | 2D Platforming              |
-| {% ragamepic 17078, 126291, ~Hack~ Mario Goes to Brazil %}                                         | {% rauser Minish %}         | 2D Platforming              |
-| {% ragamepic 38106, 125396, ~Hack~ Shellab %}                                                      | {% rauser Meatbro %}        | 2D Platforming              |
-| {% ragamepic 38105, 125397, ~Hack~ Shellax %}                                                      | {% rauser Meatbro %}        | 2D Platforming              |
-| {% ragamepic 27731, 125069, ~Hack~ Stick mice in my head and then beat my head in with a hammer %} | {% rauser manurmad %}       | 2D Platforming              |
-| {% ragamepic 20065, 125258, ~Hack~ Super Mario /v/orld 3: New Vegas %}                             | {% rauser Minish %}         | 2D Platforming              |
-| {% ragamepic 38068, 124945, ~Hack~ Super Mario Kart: Horizons [Subset - Hard Mode] %}              | {% rauser Chr0x %}          | -                           |
+| {% ragamepic 31906, 125870, <span class="tag"><span>Hack</span></span> Daisy's Crazy Adventure %}                                      | {% rauser Mendil %}         | 2D Platforming              |
+| {% ragamepic 17078, 126291, <span class="tag"><span>Hack</span></span> Mario Goes to Brazil %}                                         | {% rauser Minish %}         | 2D Platforming              |
+| {% ragamepic 38106, 125396, <span class="tag"><span>Hack</span></span> Shellab %}                                                      | {% rauser Meatbro %}        | 2D Platforming              |
+| {% ragamepic 38105, 125397, <span class="tag"><span>Hack</span></span> Shellax %}                                                      | {% rauser Meatbro %}        | 2D Platforming              |
+| {% ragamepic 27731, 125069, <span class="tag"><span>Hack</span></span> Stick mice in my head and then beat my head in with a hammer %} | {% rauser manurmad %}       | 2D Platforming              |
+| {% ragamepic 20065, 125258, <span class="tag"><span>Hack</span></span> Super Mario /v/orld 3: New Vegas %}                             | {% rauser Minish %}         | 2D Platforming              |
+| {% ragamepic 38068, 124945, <span class="tag"><span>Hack</span></span> Super Mario Kart: Horizons [Subset - Hard Mode] %}              | {% rauser Chr0x %}          | -                           |
 
 <a href="#toc">:top:</a>
 
@@ -289,7 +289,7 @@ toc: true
 
 | Game                                                        | Author              | Genre        |
 | ----------------------------------------------------------- | ------------------- | ------------ |
-| {% ragamepic 34102, 126053, ~Homebrew~ Soviet Union 2011 %} | {% rauser Mendil %} | Shoot 'em Up |
+| {% ragamepic 34102, 126053, <span class="tag"><span>Homebrew</span></span> Soviet Union 2011 %} | {% rauser Mendil %} | Shoot 'em Up |
 
 <a href="#toc">:top:</a>
 
@@ -486,8 +486,8 @@ toc: true
 | {% ragamepic 34608, 119426, Wreck-It Ralph %}                                                   | {% rauser Griffin %}                                                  | 2D Platforming                         |
 | {% ragamepic 100, 123199, Xenoblade Chronicles %}                                               | {% rauser Pie345 %} {% rauser Brylefi %}                              | Action RPG                             |
 | {% ragamepic 34822, 121633, de Blob %}                                                          | {% rauser CySlaytor %}                                                | -                                      |
-| {% ragamepic 38060, 125905, ~Hack~ Pokémon Rumble: Weekend Edition [Subset - Shiny Pokémon] %}  | {% rauser DoctorV %}                                                  | -                                      |
-| {% ragamepic 37212, 125904, ~Hack~ Pokémon Rumble: Weekend Edition %}                           | {% rauser DoctorV %}                                                  | Beat 'em Up                            |
+| {% ragamepic 38060, 125905, <span class="tag"><span>Hack</span></span> Pokémon Rumble: Weekend Edition [Subset - Shiny Pokémon] %}  | {% rauser DoctorV %}                                                  | -                                      |
+| {% ragamepic 37212, 125904, <span class="tag"><span>Hack</span></span> Pokémon Rumble: Weekend Edition %}                           | {% rauser DoctorV %}                                                  | Beat 'em Up                            |
 
 <a href="#toc">:top:</a>
 

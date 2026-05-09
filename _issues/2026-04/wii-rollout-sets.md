@@ -960,14 +960,14 @@ This installment is one of the three Japanese-only Pokémon Mystery Dungeon game
             <td colspan=2></td>
         </tr>
         <tr>
-            <td>{% ragamepic 37212, 125904, ~Hack~ Pokémon Rumble: Weekend Edition %}</td>
+            <td>{% ragamepic 37212, 125904, <span class="tag"><span>Hack</span></span> Pokémon Rumble: Weekend Edition %}</td>
             <td>{% rauserpic DoctorV %}</td>
         </tr>
         <tr>
             <td colspan=2></td>
         </tr>
         <tr>
-            <td>{% ragamepic 38060, 125905, ~Hack~ Pokémon Rumble: Weekend Edition [Subset - Shiny Pokémon] %}</td>
+            <td>{% ragamepic 38060, 125905, <span class="tag"><span>Hack</span></span> Pokémon Rumble: Weekend Edition [Subset - Shiny Pokémon] %}</td>
             <td>{% rauserpic DoctorV %}</td>
         </tr>
         <tr>
