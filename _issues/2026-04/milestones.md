@@ -115,7 +115,7 @@ toc: true
 |{% rauserpic Bananas731 %}|{% rauserpic BattousaiCenci %}|{% rauserpic BBBigezzz %}|
 |{% rauserpic berti %}|{% rauserpic BigBrawler2 %}|{% rauserpic blakyoshi %}|
 |{% rauserpic bobtheblob2 %}|{% rauserpic Buiwsterd %}|{% rauserpic CabbageDevourer %}|
-|{% rauserpic carsefni %}|{% rauserpic ChaoticRK %}|{% rauserpic ChiiniiTheComet %}|
+|{% rauserpic carsefni %}|{% rauserpicalt RKee, ChaoticRK %}|{% rauserpic ChiiniiTheComet %}|
 |{% rauserpic cosmolitano %}|{% rauserpic CounterFx %}|{% rauserpic CrymynaL %}|
 |{% rauserpic CtPhantomXD %}|{% rauserpic DatLombax %}|{% rauserpic DionOf93 %}|
 |{% rauserpic DonMarci %}|{% rauserpic Eeva %}|{% rauserpic EGduitoo %}|
@@ -182,7 +182,7 @@ toc: true
 |{% rauserpic ggaleto %}|{% rauserpic Ghalheart %}|{% rauserpic GoatzieD %}|
 |{% rauserpic Gonzalo23 %}|{% rauserpic Goosfraba %}|{% rauserpic groMor %}|
 |{% rauserpic Grotatonus %}|{% rauserpic Higmnuscy %}|{% rauserpic Hisuko %}|
-|{% rauserpic Hombreton %}|{% rauserpic Hotbox %}|{% rauserpic Hxitred %}|
+|{% rauserpicalt NanZyT48, Hombreton %}|{% rauserpic Hotbox %}|{% rauserpic Hxitred %}|
 |{% rauserpicalt Enuo, Hyest %}|{% rauserpic InfamousNoob %}|{% rauserpic iruncreative %}|
 |{% rauserpic ivanchu77 %}|{% rauserpic IzayoiKizu %}|{% rauserpicalt JackTheR1PP3R, JackTheRipper %}|
 |{% rauserpic Jaffar721 %}|{% rauserpic JasonBlueX %}|{% rauserpic JeanBon %}|
@@ -211,7 +211,7 @@ toc: true
 |{% rauserpic piments %}|{% rauserpic PineappleSwiss %}|{% rauserpic pixelfan8 %}|
 |{% rauserpicalt NowThenPlague, PlagueDockz %}|{% rauserpic Planeswater %}|{% rauserpic ponyman04 %}|
 |{% rauserpic qComplex %}|{% rauserpic Qorzyix %}|{% rauserpic Radekore %}|
-|{% rauserpic ratonopolis %}|{% rauserpic Raturius %}|{% rauserpicalt Rayazaray, Raycaster24 %}|
+|{% rauserpicalt emperorangel84, ratonopolis %}|{% rauserpic Raturius %}|{% rauserpicalt Rayazaray, Raycaster24 %}|
 |{% rauserpic razgriz %}|{% rauserpic reddyxd %}|{% rauserpicalt Urisket, RetroUri %}|
 |{% rauserpic rinhoseki90 %}|{% rauserpic RobedRed %}|{% rauserpic RUSNAKES %}|
 |{% rauserpic russbus64 %}|{% rauserpic RVK88 %}|{% rauserpic S3any23 %}|
@@ -365,7 +365,7 @@ toc: true
 |{% rauserpic Grix %}|{% rauserpic guddentehpwner %}|{% rauserpic GuiltySlug %}|
 |{% rauserpic Gustavozxd %}|{% rauserpic Hamboy3 %}|{% rauserpic Hazboh %}|
 |{% rauserpic hellborn %}|{% rauserpic Higmnuscy %}|{% rauserpic Hobojoe007 %}|
-|{% rauserpic Hombreton %}|{% rauserpic HotDogStrme %}|{% rauserpic HybridStatic %}|
+|{% rauserpicalt NanZyT48, Hombreton %}|{% rauserpic HotDogStrme %}|{% rauserpic HybridStatic %}|
 |{% rauserpic HylianHero %}|{% rauserpic InsidiouSin %}|{% rauserpic IoriMinase765 %}|
 |{% rauserpic istv4n %}|{% rauserpic itsjesterino %}|{% rauserpic itsRaddas %}|
 |{% rauserpicalt ElGringoLoco12, JMG12 %}|{% rauserpic JoeHiYo %}|{% rauserpic junes123 %}|
@@ -447,7 +447,7 @@ toc: true
 |{% rauserpic goabernathy %}|{% rauserpic Goran5 %}|{% rauserpic Gravenus %}|
 |{% rauserpic Grotatonus %}|{% rauserpic guntrum %}|{% rauserpic Gustavozxd %}|
 |{% rauserpic Hauserhead %}|{% rauserpic hellborn %}|{% rauserpic Hisuko %}|
-|{% rauserpic Hombreton %}|{% rauserpic iamn0tar0b0t %}|{% rauserpic infuriate %}|
+|{% rauserpicalt NanZyT48, Hombreton %}|{% rauserpic iamn0tar0b0t %}|{% rauserpic infuriate %}|
 |{% rauserpic iruncreative %}|{% rauserpic IseTee %}|{% rauserpic ishfy %}|
 |{% rauserpic istv4n %}|{% rauserpic itsjesterino %}|{% rauserpic itsRaddas %}|
 |{% rauserpic ivanretroachieve %}|{% rauserpicalt nightelffangirl, jac900 %}|{% rauserpic JacksonWarner %}|
@@ -574,7 +574,7 @@ toc: true
 |{% rauserpic marcusparsons %}|{% rauserpicalt JamesFerraro, MarioLuigi95 %}|{% rauserpic Marvinn %}|
 |{% rauserpic masamunedragon %}|{% rauserpic MattressMan %}|{% rauserpic Mekorio %}|
 |{% rauserpicalt MaestroM, mexit00 %}|{% rauserpic MikeKelehan %}|{% rauserpic monkeykong %}|
-|{% rauserpicalt Skullcap, Monster2001 %}|{% rauserpic MrMadMothy %}|{% rauserpic murilo4283 %}|
+|{% rauserpicalt Skullcap, Monster2001 %}|{% rauserpic MrMadMothy %}|{% rauserpicalt Murilo2083, murilo4283 %}|
 |{% rauserpicalt Gor1lla, mypi %}|{% rauserpic MysteryBlock %}|{% rauserpic MystOpossum %}|
 |{% rauserpicalt mythicgerm3, mytbicgerm3 %}|{% rauserpic N0tj0sh33 %}|{% rauserpic naimo %}|
 |{% rauserpic NekonaMiu %}|{% rauserpic nekonosuke %}|{% rauserpic neothetic %}|
@@ -614,7 +614,7 @@ toc: true
 |{% rauserpic Theawesomesonic %}|{% rauserpic TheChris %}|{% rauserpic TheFG %}|
 |{% rauserpic TheGreatNoodles %}|{% rauserpic TheHunterx %}|{% rauserpic TheRisingSun %}|
 |{% rauserpic thouther %}|{% rauserpic ThresholdAU %}|{% rauserpic tmkguitarist %}|
-|{% rauserpic Tobicake %}|{% rauserpic TojiSKF %}|{% rauserpic TonsorT %}|
+|{% rauserpicalt tobi666, Tobicake %}|{% rauserpic TojiSKF %}|{% rauserpic TonsorT %}|
 |{% rauserpic Trilogeez %}|{% rauserpic Tritium %}|{% rauserpic Tuffactin %}|
 |{% rauserpic TumbleRumble %}|{% rauserpic Tweetysmd %}|{% rauserpic TwoKidsInACoat %}|
 |{% rauserpic UltimateZen34 %}|{% rauserpic urbz %}|{% rauserpic vdig %}|
@@ -691,7 +691,7 @@ toc: true
 |{% rauserpic manurmad %}|{% rauserpic METRO %}|{% rauserpic MorphingThruTime %}|
 |{% rauserpic Ness64 %}|{% rauserpic Olbrin %}|{% rauserpic PasokonDeacon %}|
 |{% rauserpic Person %}|{% rauserpic Psychosteve %}|{% rauserpic QuinnS %}|
-|{% rauserpicalt Revzor, Razor075 %}|{% rauserpic Ryogre %}|{% rauserpic sandro4912 %}|
+|{% rauserpicalt Revzor, Razor075 %}|{% rauserpic Ryogre %}|{% rauserpicalt sandroRetro, sandro4912 %}|
 |{% rauserpic Saronto %}|{% rauserpic Shmelyoff %}|{% rauserpic SporyTike %}|
 |{% rauserpic TehDude %}|{% rauserpic Teknah %}|{% rauserpic themoltar %}|
 |{% rauserpic tigersbowling %}|{% rauserpic UnrealGecko %}|{% rauserpicalt ViniciusRS, VINNYXT15 %}|
@@ -717,7 +717,7 @@ toc: true
 |{% rauserpic fastersupersonic %}|{% rauserpic FigNewton %}|{% rauserpic Finalfan190 %}|
 |{% rauserpicalt Jaden6Strings, FlakBlast %}|{% rauserpicalt yellowtail, furrininsano %}|{% rauserpic gameburke %}|
 |{% rauserpic GameMaster777 %}|{% rauserpic ggmagenta %}|{% rauserpic GregoryAnimeFan %}|
-|{% rauserpic Harkaz %}|{% rauserpic Helton342 %}|{% rauserpic Hombreton %}|
+|{% rauserpic Harkaz %}|{% rauserpic Helton342 %}|{% rauserpicalt NanZyT48, Hombreton %}|
 |{% rauserpic horrorqueen7 %}|{% rauserpic hugesawfan %}|{% rauserpic Hunterzero %}|
 |{% rauserpicalt GreatBeardicus, IDKSomeOtherGuy %}|{% rauserpic iguanaiguana %}|{% rauserpic IIsKenny %}|
 |{% rauserpic ImakuniVT %}|{% rauserpic InsidiouSin %}|{% rauserpic ironkoala %}|
@@ -740,7 +740,7 @@ toc: true
 |{% rauserpic PaperDerp %}|{% rauserpic Phonics %}|{% rauserpic pixelwizard %}|
 |{% rauserpicalt Plebbby, Plebby %}|{% rauserpic Pull %}|{% rauserpic RainbowHits %}|
 |{% rauserpic Razenoku %}|{% rauserpicalt SuperType1, remcovdg %}|{% rauserpic Repudiator %}|
-|{% rauserpic RevanUA %}|{% rauserpic rileythepegasus %}|{% rauserpic rKnight27 %}|
+|{% rauserpic RevanUA %}|{% rauserpicalt Riley101, rileythepegasus %}|{% rauserpic rKnight27 %}|
 |{% rauserpic ronniehilton %}|{% rauserpic Roufuss %}|{% rauserpic Rouhei %}|
 |{% rauserpicalt rvreqTheSheepo, rvreq %}|{% rauserpic sa2shadow %}|{% rauserpic SageOfTime64 %}|
 |{% rauserpic samy2703 %}|{% rauserpic sansburro %}|{% rauserpic sarahumbra %}|
@@ -862,12 +862,12 @@ toc: true
 |{% rauserpic EmiRean %}|{% rauserpic Eosforum %}|{% rauserpic Ephrom %}|
 |{% rauserpic EspiaZero %}|{% rauserpic FakeBigWeld %}|{% rauserpicalt carlosMand, fauthxx %}|
 |{% rauserpic FecalFunnyMan %}|{% rauserpic ferres289 %}|{% rauserpic FGCCHECKMATE %}|
-|{% rauserpic Fixxer22 %}|{% rauserpicalt dannyforeign, foreignblack %}|{% rauserpic Foxkazm %}|
+|{% rauserpicalt Fixxer87, Fixxer22 %}|{% rauserpicalt dannyforeign, foreignblack %}|{% rauserpic Foxkazm %}|
 |{% rauserpic Francis09 %}|{% rauserpic Frost50 %}|{% rauserpic FruitsPunchSamuraiG %}|
 |{% rauserpicalt FafsTheFarias, FTFarias %}|{% rauserpic GabrielAsh %}|{% rauserpic Gabstar2024 %}|
 |{% rauserpic GearsNerd %}|{% rauserpic GenderSelectScreen %}|{% rauserpicalt Somnoms, GexSa %}|
 |{% rauserpic GGK912 %}|{% rauserpic GKGAMES %}|{% rauserpic Gravenus %}|
-|{% rauserpic greenhero30 %}|{% rauserpic GuGu2P %}|{% rauserpic Gunblade %}|
+|{% rauserpic greenhero30 %}|{% rauserpicalt GuGu3P, GuGu2P %}|{% rauserpic Gunblade %}|
 |{% rauserpic GunSush %}|{% rauserpic Gyakon %}|{% rauserpic Halbarad %}|
 |{% rauserpic HeavyPunchUltra %}|{% rauserpic HellKnight1390 %}|{% rauserpic HonorHand %}|
 |{% rauserpic huxtables %}|{% rauserpic Hynkka %}|{% rauserpic infuriate %}|
@@ -903,7 +903,7 @@ toc: true
 |{% rauserpic piments %}|{% rauserpic piranhamoe %}|{% rauserpic PlainZombie %}|
 |{% rauserpic Pocrage %}|{% rauserpic potman %}|{% rauserpic Psyql %}|
 |{% rauserpic Pyroflamer %}|{% rauserpic Radekore %}|{% rauserpic rafaelbanzai %}|
-|{% rauserpic RAFAGHOST %}|{% rauserpic Raix %}|{% rauserpic ratonopolis %}|
+|{% rauserpic RAFAGHOST %}|{% rauserpic Raix %}|{% rauserpicalt emperorangel84, ratonopolis %}|
 |{% rauserpic RedwallTheGreat %}|{% rauserpic ReillyW %}|{% rauserpic retroby %}|
 |{% rauserpic RetroKaribu %}|{% rauserpic RevDragon %}|{% rauserpic rhus %}|
 |{% rauserpic Riccool93 %}|{% rauserpic RickardZyzzyx %}|{% rauserpic RobedRed %}|
@@ -921,7 +921,7 @@ toc: true
 |{% rauserpic Subsonix %}|{% rauserpic TagerPlayer %}|{% rauserpic Teilz %}|
 |{% rauserpic the44445544 %}|{% rauserpic TheDaliPopka %}|{% rauserpicalt Matthochist, TheFYrreMaster %}|
 |{% rauserpic TheShadowHunter %}|{% rauserpic Tiles %}|{% rauserpic TimVandenEynde %}|
-|{% rauserpic Toaster90000 %}|{% rauserpic Tobicake %}|{% rauserpicalt Disaresta, TonyTheFatShark %}|
+|{% rauserpic Toaster90000 %}|{% rauserpicalt tobi666, Tobicake %}|{% rauserpicalt Disaresta, TonyTheFatShark %}|
 |{% rauserpic TriforceTK %}|{% rauserpic TwilitMinish %}|{% rauserpic TwoFiveFive %}|
 |{% rauserpic undies %}|{% rauserpic ursineultra %}|{% rauserpic Veldin %}|
 |{% rauserpicalt CosmicBlondie, Velocifaptor %}|{% rauserpic VetoVeto %}|{% rauserpic Waxam %}|
@@ -1003,7 +1003,7 @@ toc: true
 |{% rauserpicalt Erkel, erkel96 %}|{% rauserpic Facts %}|{% rauserpic FearItself %}|
 |{% rauserpic firstslacker %}|{% rauserpic ForeverNEWB %}|{% rauserpic Gab121 %}|
 |{% rauserpic Galorin %}|{% rauserpic googoo91 %}|{% rauserpic GreenGimmick %}|
-|{% rauserpic GuGu2P %}|{% rauserpic guld0r %}|{% rauserpic Habbo %}|
+|{% rauserpicalt GuGu3P, GuGu2P %}|{% rauserpic guld0r %}|{% rauserpic Habbo %}|
 |{% rauserpicalt hugettehikari, hugohikari %}|{% rauserpic HyoAsdasx14 %}|{% rauserpic Infernope %}|
 |{% rauserpic Ironpudge %}|{% rauserpic Jaffar721 %}|{% rauserpic Johnnymakinson987 %}|
 |{% rauserpic JuniorArievilo %}|{% rauserpic juniorweiss %}|{% rauserpicalt Justeri, Justeri55 %}|
@@ -1088,7 +1088,7 @@ toc: true
 |{% rauserpic angelusmortalis %}|{% rauserpic Beliskner999 %}|{% rauserpic Brandovsky %}|
 |{% rauserpic caionast %}|{% rauserpic D3oderant %}|{% rauserpic DietDoctorFunk %}|
 |{% rauserpic doctormiawoo %}|{% rauserpic drac0nis %}|{% rauserpic eRadicatedZomBiE %}|
-|{% rauserpic Galaxy9000 %}|{% rauserpic Hombreton %}|{% rauserpic HotDogStrme %}|
+|{% rauserpic Galaxy9000 %}|{% rauserpicalt NanZyT48, Hombreton %}|{% rauserpic HotDogStrme %}|
 |{% rauserpic Househippo %}|{% rauserpicalt yellowJennifer, justyellow %}|{% rauserpic Lugero %}|
 |{% rauserpicalt Meowdoleon, medoli900 %}|{% rauserpic MorphingThruTime %}|{% rauserpic MP83 %}|
 |{% rauserpic nab2012 %}|{% rauserpic NickDeleted %}|{% rauserpic NIREXINE %}|
@@ -1109,7 +1109,7 @@ toc: true
 |{% rauserpic IAmChrisAMA %}|{% rauserpicalt minusVen, justVen %}|{% rauserpic k0ma %}|
 |{% rauserpic LinCrash %}|{% rauserpic MrEDM %}|{% rauserpic MysticCoffee %}|
 |{% rauserpicalt NowThenPlague, PlagueDockz %}|{% rauserpic RaphMec %}|{% rauserpic RedRevenant %}|
-|{% rauserpicalt ReideAzul, ReiRubro %}|{% rauserpic rileythepegasus %}|{% rauserpic RockTheDead %}|
+|{% rauserpicalt ReideAzul, ReiRubro %}|{% rauserpicalt Riley101, rileythepegasus %}|{% rauserpic RockTheDead %}|
 |{% rauserpic rozhestvensky %}|{% rauserpic saybingryph %}|{% rauserpic SirCold %}|
 |{% rauserpic SloppyMctasty %}|{% rauserpicalt retroSLUGG, SLUGGORY %}|{% rauserpic streetbackguy %}|
 |{% rauserpicalt TakemichiMikey, thebobs %}|{% rauserpic TheJuna %}||
@@ -1325,7 +1325,7 @@ toc: true
 |{% rauserpic Dibbleton %}|{% rauserpicalt GU1Z1NH0, DireWareWolf %}|{% rauserpic DizzyNEM %}|
 |{% rauserpic DnAzl %}|{% rauserpic dojot %}|{% rauserpic Drakhe %}|
 |{% rauserpic dressrosazone %}|{% rauserpic dstreet319 %}|{% rauserpic EastBeast420 %}|
-|{% rauserpic ellebazi %}|{% rauserpic EmeraldKirby %}|{% rauserpic EmersonPGA16 %}|
+|{% rauserpic ellebazi %}|{% rauserpic EmeraldKirby %}|{% rauserpicalt Manu144Hz, EmersonPGA16 %}|
 |{% rauserpic Eosforum %}|{% rauserpic Ephrom %}|{% rauserpic EpicUmbreon %}|
 |{% rauserpic Epidra2077 %}|{% rauserpic EvieCookie %}|{% rauserpic FakeBigWeld %}|
 |{% rauserpic fastersupersonic %}|{% rauserpic Flare31 %}|{% rauserpic flglm %}|
@@ -1338,7 +1338,7 @@ toc: true
 |{% rauserpic HugoNomics %}|{% rauserpic ImortalLeaf %}|{% rauserpic InfamousNoob %}|
 |{% rauserpic Interbrok %}|{% rauserpic IrnBrus %}|{% rauserpic Israd %}|
 |{% rauserpic JadeMetal %}|{% rauserpic JeanBon %}|{% rauserpic Jex27K %}|
-|{% rauserpic jiazji %}|{% rauserpic JoeSourGrape %}|{% rauserpic joii00 %}|
+|{% rauserpic jiazji %}|{% rauserpicalt HolographicMeatloaf, JoeSourGrape %}|{% rauserpic joii00 %}|
 |{% rauserpic Jonu %}|{% rauserpic joosh %}|{% rauserpic JustCallMeGio %}|
 |{% rauserpic Kaiyochii %}|{% rauserpic KatsuraJinsei %}|{% rauserpicalt GrapesMelonsOranges, KattyBat %}|
 |{% rauserpic kehaya %}|{% rauserpic KevKjef %}|{% rauserpic koikokomo %}|
@@ -1352,7 +1352,7 @@ toc: true
 |{% rauserpic Majorian %}|{% rauserpic Majormachina %}|{% rauserpic MDGeist %}|
 |{% rauserpic MegaMetalgamer %}|{% rauserpic modjw %}|{% rauserpicalt mourin, mourinhosgum %}|
 |{% rauserpicalt xstryder, MrCakers %}|{% rauserpic MrCMShoresDreams %}|{% rauserpicalt MrLucyppg, MrLucy478 %}|
-|{% rauserpic MrRR2001 %}|{% rauserpicalt RetroGamerTrio, MrWallice23 %}|{% rauserpic mywifeleftm %}|
+|{% rauserpicalt MrRR, MrRR2001 %}|{% rauserpicalt RetroGamerTrio, MrWallice23 %}|{% rauserpic mywifeleftm %}|
 |{% rauserpic Nickola1890 %}|{% rauserpic nimeton %}|{% rauserpicalt paverk, NOP524 %}|
 |{% rauserpic Nuzzgok %}|{% rauserpicalt tabby, octomoo %}|{% rauserpic Oddwald %}|
 |{% rauserpic OldBbbones %}|{% rauserpic OneCoolMan %}|{% rauserpic OverlordNader %}|
@@ -1363,7 +1363,7 @@ toc: true
 |{% rauserpic Portaladz85 %}|{% rauserpic Procyon %}|{% rauserpic PsyXchO %}|
 |{% rauserpic QuezLo %}|{% rauserpic Quint %}|{% rauserpic quiroalvaro %}|
 |{% rauserpic R3kken %}|{% rauserpic Raix %}|{% rauserpic RedSlim777 %}|
-|{% rauserpic RedwallTheGreat %}|{% rauserpic regiregi22 %}|{% rauserpic rileythepegasus %}|
+|{% rauserpic RedwallTheGreat %}|{% rauserpic regiregi22 %}|{% rauserpicalt Riley101, rileythepegasus %}|
 |{% rauserpic Robobubz %}|{% rauserpic RomPais %}|{% rauserpic SamTheSly %}|
 |{% rauserpic samy2703 %}|{% rauserpic SandwitchZebra %}|{% rauserpic saomarcosPOR2 %}|
 |{% rauserpic Sapphonix %}|{% rauserpicalt GalaxyStudios, SatoruGojo3109 %}|{% rauserpic SatoshiSAINYIN %}|
@@ -1414,7 +1414,7 @@ toc: true
 |{% rauserpic BojOfficial %}|{% rauserpic Bongo98 %}|{% rauserpic Boobina %}|
 |{% rauserpic boogchops %}|{% rauserpicalt Bort0, Bortsol %}|{% rauserpic BrainFarts %}|
 |{% rauserpic BraydenHondo %}|{% rauserpic BriarNaga %}|{% rauserpic Brovail %}|
-|{% rauserpic bruhxva %}|{% rauserpic Bryant20 %}|{% rauserpicalt SatsuiNoHadoUser, BulkoRelatos %}|
+|{% rauserpic bruhxva %}|{% rauserpicalt RenderCorps, Bryant20 %}|{% rauserpicalt SatsuiNoHadoUser, BulkoRelatos %}|
 |{% rauserpic bumbeer %}|{% rauserpic bumpistcomb28 %}|{% rauserpic Burakku %}|
 |{% rauserpic BuzzardBait %}|{% rauserpic C0MPL1CAT10N %}|{% rauserpic CabideGames %}|
 |{% rauserpic CANTARIN0 %}|{% rauserpic CapnPear %}|{% rauserpic CaptainFalcon22 %}|
@@ -1426,7 +1426,7 @@ toc: true
 |{% rauserpic Chuckles %}|{% rauserpic ChuyRD %}|{% rauserpic Cidd %}|
 |{% rauserpic CobaltKnuckles %}|{% rauserpic Coda %}|{% rauserpic Codes %}|
 |{% rauserpic ColdHorizon %}|{% rauserpic Cooldoggo %}|{% rauserpicalt Babamsuhka, CoreTaku2 %}|
-|{% rauserpic Cosmicview %}|{% rauserpic CountStonkula54 %}|{% rauserpic CrazyApple %}|
+|{% rauserpic Cosmicview %}|{% rauserpicalt CountStonkula64, CountStonkula54 %}|{% rauserpic CrazyApple %}|
 |{% rauserpicalt VeeVeeTheVictini, CrazyVictini %}|{% rauserpicalt PigLabeled2, Creamydips %}|{% rauserpic CreeperDudeBro %}|
 |{% rauserpic Curleh %}|{% rauserpicalt GrayCodeEngage, cvp1cvp1 %}|{% rauserpic CyluxHalfheart %}|
 |{% rauserpic CynicalFate %}|{% rauserpic daddydevito %}|{% rauserpic Damniel %}|
@@ -1462,7 +1462,7 @@ toc: true
 |{% rauserpic GyroWolfX %}|{% rauserpic HackedCrusade %}|{% rauserpic He11stone %}|
 |{% rauserpic HeartEmote %}|{% rauserpic heavyoverdrive %}|{% rauserpic HectiX %}|
 |{% rauserpic HelpThe14 %}|{% rauserpic HidekiHenry %}|{% rauserpic hOLAsisT96 %}|
-|{% rauserpic Hombreton %}|{% rauserpic Homunculus %}|{% rauserpicalt linguisticspaceship, horussfan %}|
+|{% rauserpicalt NanZyT48, Hombreton %}|{% rauserpic Homunculus %}|{% rauserpicalt linguisticspaceship, horussfan %}|
 |{% rauserpic HoshiUwU %}|{% rauserpic HotSaucerman %}|{% rauserpic Houari %}|
 |{% rauserpic Houyo %}|{% rauserpic Hundur %}|{% rauserpic HYPERSONIC999 %}|
 |{% rauserpicalt Danielquinn, IamTurok %}|{% rauserpic iblamevictoria %}|{% rauserpic IdkWhatTonamethis %}|
@@ -1515,13 +1515,13 @@ toc: true
 |{% rauserpic oreo0315 %}|{% rauserpic orqng3 %}|{% rauserpic Paisen %}|
 |{% rauserpic PajamaJohn %}|{% rauserpic Pancakes11 %}|{% rauserpic Pangenou %}|
 |{% rauserpicalt PKE2, Pankemu146 %}|{% rauserpicalt PapaDiceZach, PapaBearZach2 %}|{% rauserpic Pazkallan %}|
-|{% rauserpic Peptokiin %}|{% rauserpic Peridegule %}|{% rauserpic Pete94e21 %}|
+|{% rauserpic Peptokiin %}|{% rauserpic Peridegule %}|{% rauserpicalt VoltCrasher, Pete94e21 %}|
 |{% rauserpic PhantomSan %}|{% rauserpic pheenix %}|{% rauserpic Phosphoro %}|
 |{% rauserpicalt mimesical, picapip %}|{% rauserpic pizzatowerguy2 %}|{% rauserpic PJPhoenix41 %}|
 |{% rauserpic PlasmaEternia1337 %}|{% rauserpic PluginJolene %}|{% rauserpic pokemoneiton %}|
 |{% rauserpic PowerUpBauer %}|{% rauserpic Princejerrell720 %}|{% rauserpic ProperGoodGames %}|
 |{% rauserpic Pvtter %}|{% rauserpic Qahnaarin %}|{% rauserpic RadSlash %}|
-|{% rauserpic RaisinMuffin2 %}|{% rauserpic RareGanyu %}|{% rauserpic ratonopolis %}|
+|{% rauserpic RaisinMuffin2 %}|{% rauserpicalt RareSunna, RareGanyu %}|{% rauserpicalt emperorangel84, ratonopolis %}|
 |{% rauserpic rch614 %}|{% rauserpic realstanky %}|{% rauserpic reddyxd %}|
 |{% rauserpic RedRevenant %}|{% rauserpic Reidd %}|{% rauserpic ReiGilgamesh %}|
 |{% rauserpicalt Renanzitotm, Renanzintotm %}|{% rauserpic Rengekii %}|{% rauserpic renn %}|

@@ -69,8 +69,8 @@ All-in-all, MLD isn't as unique as its predecessor, but it was still throwing so
 
 ## <span class="tag"><span>Hack</span></span> Super Mario Bros. For Lost Players (SNES/Super Famicom)
 
-| Game                                                                                                                                                                                                                                                                                                     | Console            | Genre                               |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------- |
+| Game                                                                                                                                                                                                                                                                                        | Console            | Genre                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/18549" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png" > <span><span class="tag"><span>Hack</span></span> Super Mario Bros. For Lost Players</span></a> | SNES/Super Famicom | Platforming \[Very Hard / 36 exits] |
 
 * Write-up by: {% rauserpicalt Igrek666, diablo666 %}

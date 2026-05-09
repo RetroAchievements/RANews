@@ -22,9 +22,9 @@ toc: true
 ### NES
 
 
-| Game                                                         | Revision By          | Genre                       |
-| ------------------------------------------------------------ | -------------------- | --------------------------- |
-| {% ragamepic 1914, 125357, RoboCop 2 %}                      | {% rauser rgavril %} | -                           |
+| Game                                                                                             | Revision By          | Genre                       |
+| ------------------------------------------------------------------------------------------------ | -------------------- | --------------------------- |
+| {% ragamepic 1914, 125357, RoboCop 2 %}                                                          | {% rauser rgavril %} | -                           |
 | {% ragamepic 4953, 072248, <span class="tag"><span>Unlicensed</span></span> Quattro Adventure %} | {% rauser zaydoc %}  | 2D Platforming, Compilation |
 
 <a href="#toc">:top:</a>
@@ -79,7 +79,7 @@ toc: true
 | Game                                                                                                          | Revision Author               | Genre          |
 | ------------------------------------------------------------------------------------------------------------- | ----------------------------- | -------------- |
 | {% ragamepic 24875, 105043, Pokémon FireRed Version \| Pokémon LeafGreen Version [Subset - Shiny Pokémon+] %} | {% rauser iPodwithnomusic %}  | Turn-Based RPG |
-| {% ragamepic 9595, 123771, <span class="tag"><span>Hack</span></span> Pokémon Adventure: Red Chapter %}                                           | {% rauser ChaoticAdventure %} | Turn-Based RPG |
+| {% ragamepic 9595, 123771, <span class="tag"><span>Hack</span></span> Pokémon Adventure: Red Chapter %}       | {% rauser ChaoticAdventure %} | Turn-Based RPG |
 
 <a href="#toc">:top:</a>
 

@@ -69,7 +69,7 @@ toc_float: false
 <div class="section-link">
     <a href="./current-events.html">
         <div class="section-content">
-            <h1 id="current-events">Current Events---</h1>
+            <h1 id="current-events">Current Events</h1>
             <p>The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!</p>
         </div>
     </a>
@@ -208,9 +208,74 @@ toc_float: false
         <p>The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.</p>
         <table><tbody>
             <tr>
-                <td>{% rauserpic ABCDEFGHI %}</td>
                 <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
-                <td>{% rauserpic authorblues %}</td>
+                <td>{% rauserpic ArandomPikachu %}</td>
+                <td>{% rauserpic Bendyhuman %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Blackdrazon %}</td>
+                <td>{% rauserpic Brandovsky %}</td>
+                <td>{% rauserpic Carca %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic ChaoticAdventure %}</td>
+                <td>{% rauserpic defines %}</td>
+                <td>{% rauserpic DevCompliance %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt EphemeralEnigmas, sb191219 %}</td>
+                <td>{% rauserpic gamer097 %}</td>
+                <td>{% rauserpic Hotscrock %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt Igrek666, diablo666 %}</td>
+                <td>{% rauserpic ILOVEVIDEOGAMES %}</td>
+                <td>{% rauserpic jhonen124 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic KamikaziManiac %}</td>
+                <td>{% rauserpic marcatata50 %}</td>
+                <td>{% rauserpic MeloDeathAtmoBlack %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Molson %}</td>
+                <td>{% rauserpic MrOwnership %}</td>
+                <td>{% rauserpic Nepiki %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
+                <td>{% rauserpic Notdog1996 %}</td>
+                <td>{% rauserpic Nydaxn %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt Leodis, Obliv %}</td>
+                <td>{% rauserpic Peridegule %}</td>
+                <td>{% rauserpic pinguupinguu %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic QATeam %}</td>
+                <td>{% rauserpic RANews %}</td>
+                <td>{% rauserpic Raykusen %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic RetroGameMaster %}</td>
+                <td>{% rauserpic Sines %}</td>
+                <td>{% rauserpicalt SnowPin, Snow %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic SporyTike %}</td>
+                <td>{% rauserpic StingX2 %}</td>
+                <td>{% rauserpicalt tele, televandalist %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic TimeCrush %}</td>
+                <td>{% rauserpic vikdarkbomb %}</td>
+                <td>{% rauserpic wallmasterz %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt Whitebeard420, Karimallaw420 %}</td>
+                <td>{% rauserpic Whoops %}</td>
+                <td>{% rauserpic Xymjak %}</td>
             </tr>
         </tbody></table>
     </div>
