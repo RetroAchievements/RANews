@@ -517,6 +517,14 @@ def getSystemInfo(system)
     @system_name = 'WonderSwan'
     @system_id = 53
     @system_icon_name = 'ws'
+  when 'fds', "81"
+    @system_name = 'Famicom Disk System'
+    @system_id = 81
+    @system_icon_name = 'fds'
+  when 'wii', "19"
+    @system_name = 'Wii'
+    @system_id = 19
+    @system_icon_name = 'wii'
   else
     @system_name = ''
   end
