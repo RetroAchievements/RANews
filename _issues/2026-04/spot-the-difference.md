@@ -32,7 +32,7 @@ category: Spot The Difference
         <td>{% rauserpic Saiko230106 %}</td>
     </tr>
     <tr>
-        <td>{% rauserpic S4NSAN %}</td>
+        <td>{% rauserpicalt S4NSAN, sanjista %}</td>
         <td>{% rauserpic Blais %}</td>
         <td>{% rauserpic rih23 %}</td>
     </tr>

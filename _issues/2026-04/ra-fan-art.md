@@ -31,7 +31,7 @@ And we're back with another edition of "Bendy, is this purple?", your periodic r
 
 <p align="center"><img src="https://github.com/user-attachments/assets/46543b7e-9346-46c8-9e64-215bdff770f5" /></p>
 
-By {% rauserpic Whitebeard420 %}
+By {% rauserpicalt Whitebeard420, Karimallaw420 %}
 
 Watch our Mario, something's heading your way! Looks like he was too late, as he couldn't jump up to stop it. Shell to the face, but fortunately he's Big Mario so he'll just have to grab a Mushroom and he'll be a-okay.
 

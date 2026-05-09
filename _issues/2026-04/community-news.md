@@ -35,10 +35,10 @@ This team, starting with 17 Developers and 13 Players from all across the commun
 - Assist developers who are looking for feedback about a set they're developing/plan to develop.
 - Take over the subset process and improve it overall, discussing it in detail with proposers and providing feedback in the hopes to see more high quality subsets approved.
 
-| {% rauserpic Aeliana %}   | {% rauserpic AuburnRDM %}          | {% rauserpic Brylefi %}        | {% rauserpic carlosrhv %} | {% rauserpic CelerityTM %}     |
+| {% rauserpic Aeliana %}   | {% rauserpic AuburnRDM %}          | {% rauserpicalt Brylefi, Bryan1150 %}        | {% rauserpic carlosrhv %} | {% rauserpic CelerityTM %}     |
 | {% rauserpic Daroachie %} | {% rauserpic Dominick %}           | {% rauserpic Fridge %}         | {% rauserpic Ghal416 %}   | {% rauserpic Gollawiz %}       |
 | {% rauserpic HealApe %}   | {% rauserpic Jazerus %}            | {% rauserpic Kaiserlucas %}    | {% rauserpic manakate %}  | {% rauserpic Maximdraco %}     |
-| {% rauserpic Meatbro %}   | {% rauserpic MeloDeathAtmoBlack %} | {% rauserpic NeoDragon223 %}   | {% rauserpic Pearl %}     | {% rauserpic Pie345 %}         |
+| {% rauserpicalt Meatbro, SuperMeatBro %}   | {% rauserpic MeloDeathAtmoBlack %} | {% rauserpic NeoDragon223 %}   | {% rauserpicalt Pearl, graypigeon22 %}     | {% rauserpicalt Pie345, ilikepie345 %}         |
 | {% rauserpic Prota %}     | {% rauserpic Raeyene %}            | {% rauserpic Raichi %}         | {% rauserpic RyCuLe %}    | {% rauserpic ryoxd %}          |
 | {% rauserpic suspect15 %} | {% rauserpic TechnoFangirl %}      | {% rauserpic TheMysticalOne %} | {% rauserpic TrashCity %} | {% rauserpic WilHiteWarrior %} |
 
@@ -435,7 +435,7 @@ We've fixed an issue where the online player count was being slightly undercount
             <td colspan="1">{% ragamepic 34696, 125316, Mario Sports Mix (WII) %}</td>
         </tr>
         <tr>
-            <td rowspan="3" width=250>{% rauserpic PS2Hagrid %}</td>
+            <td rowspan="3" width=250>{% rauserpicalt PS2Hagrid, Player1041 %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 31660, 105774, Balls of Fury (DS) %}</td>

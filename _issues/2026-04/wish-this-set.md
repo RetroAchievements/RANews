@@ -73,7 +73,7 @@ All-in-all, MLD isn't as unique as its predecessor, but it was still throwing so
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/18549" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png" > <span><span class="tag"><span>Hack</span></span> Super Mario Bros. For Lost Players</span></a> | SNES/Super Famicom | Platforming \[Very Hard / 36 exits] |
 
-* Write-up by: {% rauserpic Igrek666 %}
+* Write-up by: {% rauserpicalt Igrek666, diablo666 %}
 
 <figure style="text-align:center;float:left;width:50%;height:50%">
 <img src="https://s3.retroachievements.org/game/screenshots/129/1294166734/ad63dbef7ca22978613a499625d57f23dd1d57e0/backfill-c2ni13k1llbm47WKvWn-thumbnail.png">
@@ -113,7 +113,7 @@ I remember picking it up for $3 in some bargain bin 20 years ago. Thinking of th
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------ |
 | <a class="gameicon-link" href="https://retroachievements.org/game/6668" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/070909.png" alt="Momotarou Katsugeki"> <span>Momotarou Katsugeki</span></a> | PC Engine/TurboGrafx-16 | Action |
 
-* Write-up by: {% rauserpic EphemeralEnigmas %}
+* Write-up by: {% rauserpicalt EphemeralEnigmas, sb191219 %}
 
 <figure style="text-align:center;float:left;width:50%;height:50%">
 <img src="https://s3.retroachievements.org/game/screenshots/118/1188784846/7a8292d40e7b7d671b51be35a4589b43b082ab4d/backfill-28gnmp41k5a74iGI2uy-thumbnail.png">
