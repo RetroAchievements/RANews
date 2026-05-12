@@ -269,21 +269,21 @@ toc: true
 ### PlayStation 2
 
 
-| Game                                                                             | Icon By                      | Icon Before                                                                        |
-| -------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------- |
-| {% ragamepic 19229, 125763, BloodRayne 2 %}                                      | {% rauser boutiz %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/070117.png"> |
-| {% ragamepic 24896, 125521, Carol Vorderman's Sudoku %}                          | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/075242.png"> |
-| {% ragamepic 2778, 125350, Final Fantasy X: International %}                     | {% rauser DouguiNEW %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/082489.png"> |
-| {% ragamepic 5803, 125284, Final Fantasy XII: International Zodiac Job System %} | {% rauser DouguiNEW %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/070802.png"> |
-| {% ragamepic 20573, 125516, Ford vs. Chevy %}                                    | {% rauser Avengersman %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/114733.png"> |
-| {% ragamepic 2664, 125468, God Hand %}                                           | {% rauser Heoutera %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/121257.png"> |
-| {% ragamepic 1323, 126104, Katamari Damacy %}                                    | {% rauser YeenTheBin %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/052680.png"> |
-| {% ragamepic 19290, 061471, Kingdom Hearts Re:Chain of Memories %}               | {% rauser YeenTheBin %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/076448.png"> |
-| {% ragamepic 19259, 126012, Kuon %}                                              | {% rauser boutiz %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/109297.png"> |
-| {% ragamepic 20704, 126353, Nicktoons: Battle for Volcano Island %}              | {% rauser ZeeRA %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/112856.png"> |
-| {% ragamepic 20738, 125912, Scaler %}                                            | {% rauser boutiz %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/075177.png"> |
-| {% ragamepic 25269, 125657, Sonic Wings %}                                       | {% rauser berti %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/078634.png"> |
-| {% ragamepic 20774, 125354, Tokyo Xtreme Racer: Zero %}                          | {% rauser cbrx %}            | <img class="gameicon" src="https://media.retroachievements.org/Images/095537.png"> |
+| Game                                                                             | Icon By                  | Icon Before                                                                        |
+| -------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------- |
+| {% ragamepic 19229, 125763, BloodRayne 2 %}                                      | {% rauser boutiz %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/070117.png"> |
+| {% ragamepic 24896, 125521, Carol Vorderman's Sudoku %}                          | {% rauser ZeeRA %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/075242.png"> |
+| {% ragamepic 2778, 125350, Final Fantasy X: International %}                     | {% rauser DouguiNEW %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/082489.png"> |
+| {% ragamepic 5803, 125284, Final Fantasy XII: International Zodiac Job System %} | {% rauser DouguiNEW %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/070802.png"> |
+| {% ragamepic 20573, 125516, Ford vs. Chevy %}                                    | {% rauser Avengersman %} | <img class="gameicon" src="https://media.retroachievements.org/Images/114733.png"> |
+| {% ragamepic 2664, 125468, God Hand %}                                           | {% rauser Heoutera %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/121257.png"> |
+| {% ragamepic 1323, 126104, Katamari Damacy %}                                    | {% rauser YeenTheBin %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/052680.png"> |
+| {% ragamepic 19290, 061471, Kingdom Hearts Re:Chain of Memories %}               | {% rauser YeenTheBin %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/076448.png"> |
+| {% ragamepic 19259, 126012, Kuon %}                                              | {% rauser boutiz %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/109297.png"> |
+| {% ragamepic 20704, 126353, Nicktoons: Battle for Volcano Island %}              | {% rauser ZeeRA %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/112856.png"> |
+| {% ragamepic 20738, 125912, Scaler %}                                            | {% rauser boutiz %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/075177.png"> |
+| {% ragamepic 25269, 125657, Sonic Wings %}                                       | {% rauser berti %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/078634.png"> |
+| {% ragamepic 20774, 125354, Tokyo Xtreme Racer: Zero %}                          | {% rauser cbrx %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/095537.png"> |
 
 <a href="#toc">:top:</a>
 

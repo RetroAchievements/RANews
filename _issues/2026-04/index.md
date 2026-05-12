@@ -117,7 +117,7 @@ toc_float: false
     <a href="./radvantage.html">
         <div class="section-content">
             <h1 id="radvantage">RAdvantage</h1>
-            <p>Reach 10 stages in a single run in Hungry Giuraffe with the latest RAdvantage tip. Stiffen up that neck and learn the tips and smart movement to achievment this goal.</p>
+            <p>Reach 10 stages in a single run in Hungry Giraffe with the latest RAdvantage tip. Stiffen up that neck and learn the tips and smart movement to achievement this goal.</p>
         </div>
     </a>
 </div>
