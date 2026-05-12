@@ -29,18 +29,18 @@ Useful Links
 
 we would like to introduce a new team to RetroAchievements, that will work on upping our quality even further than it currently is as well as bridging the gap between Developers and players. Introducing, the @Set Designer team!
 
-This team, starting with 17 Developers and 13 Players from all across the community with all kinds of different interests and skill levels, will work together with each other and the community to:
+This team, starting with 16 Developers and 13 Players from all across the community with all kinds of different interests and skill levels, will work together with each other and the community to:
 
 - Make revision plans for outdated, older sets to bring them up to modern standards.
 - Assist developers who are looking for feedback about a set they're developing/plan to develop.
 - Take over the subset process and improve it overall, discussing it in detail with proposers and providing feedback in the hopes to see more high quality subsets approved.
 
-| {% rauserpic Aeliana %}   | {% rauserpic AuburnRDM %}          | {% rauserpicalt Brylefi, Bryan1150 %}        | {% rauserpic carlosrhv %} | {% rauserpic CelerityTM %}     |
-| {% rauserpic Daroachie %} | {% rauserpic Dominick %}           | {% rauserpic Fridge %}         | {% rauserpic Ghal416 %}   | {% rauserpic Gollawiz %}       |
-| {% rauserpic HealApe %}   | {% rauserpic Jazerus %}            | {% rauserpic Kaiserlucas %}    | {% rauserpic manakate %}  | {% rauserpic Maximdraco %}     |
-| {% rauserpicalt Meatbro, SuperMeatBro %}   | {% rauserpic MeloDeathAtmoBlack %} | {% rauserpic NeoDragon223 %}   | {% rauserpicalt Pearl, graypigeon22 %}     | {% rauserpicalt Pie345, ilikepie345 %}         |
-| {% rauserpic Prota %}     | {% rauserpic Raeyene %}            | {% rauserpic Raichi %}         | {% rauserpic RyCuLe %}    | {% rauserpic ryoxd %}          |
-| {% rauserpic suspect15 %} | {% rauserpic TechnoFangirl %}      | {% rauserpic TheMysticalOne %} | {% rauserpic TrashCity %} | {% rauserpic WilHiteWarrior %} |
+| {% rauserpic Aeliana %}                  | {% rauserpic AuburnRDM %}          | {% rauserpicalt Brylefi, Bryan1150 %} | {% rauserpic carlosrhv %}              | {% rauserpic CelerityTM %}             |
+| {% rauserpic Daroachie %}                | {% rauserpic Dominick %}           | {% rauserpic Fridge %}                | {% rauserpic Ghal416 %}                | {% rauserpic Gollawiz %}               |
+| {% rauserpic HealApe %}                  | {% rauserpic Jazerus %}            | {% rauserpic Kaiserlucas %}           | {% rauserpic manakate %}               | {% rauserpic Maximdraco %}             |
+| {% rauserpicalt Meatbro, SuperMeatBro %} | {% rauserpic MeloDeathAtmoBlack %} | {% rauserpic NeoDragon223 %}          | {% rauserpicalt Pearl, graypigeon22 %} | {% rauserpicalt Pie345, ilikepie345 %} |
+| {% rauserpic Prota %}                    | {% rauserpic Raeyene %}            | {% rauserpic Raichi %}                | {% rauserpic RyCuLe %}                 | {% rauserpic ryoxd %}                  |
+| {% rauserpic TechnoFangirl %}            | {% rauserpic TheMysticalOne %}     | {% rauserpic TrashCity %}             | {% rauserpic WilHiteWarrior %}         |
 
 We are looking forward to this new era of RetroAchievements and community involvement, and are eagerly awaiting to see what more can be done with the team in the future!
 

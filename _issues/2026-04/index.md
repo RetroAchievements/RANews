@@ -156,7 +156,7 @@ toc_float: false
 <div class="section-link">
     <a href="./ranniversaries.html">
         <div class="section-content">
-            <h1 id="ranniversaries">RAnniversaries---</h1>
+            <h1 id="ranniversaries">RAnniversaries</h1>
             <p>Joining RetroAchievements is a major milestone for gamers and achievement developers, and we love celebrating those anniversaries. In this section, we'll recognize the achievements of our dedicated members by highlighting their years of service to the site. From new members to veterans, we'll showcase everyone who's reached a new anniversary milestone. Join us in celebrating our amazing community, and the hard work and dedication that makes RetroAchievements the best achievement hunting community out there.</p>
         </div>
     </a>
@@ -204,7 +204,7 @@ toc_float: false
 </div>
 <div class="section-link">
     <div class="section-content">
-        <h1 id="acknowledgments">Acknowledgments---</h1>
+        <h1 id="acknowledgments">Acknowledgments</h1>
         <p>The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.</p>
         <table><tbody>
             <tr>

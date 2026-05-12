@@ -880,11 +880,11 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
     <img src="img/TopMasteries/WII.png" />
 </p>
 
-* {% rauserpic Kaiserlucas %} has taken 1st place with 19 total mastery awards.
+* {% rauserpic Kaiserlucas %} has made it into the top 25 and is in 1st place.
 * {% rauserpic SalvadorSenpie %} has made it into the top 25 and is in 2nd place.
 * {% rauserpic IzaNamiZX %} has made it into the top 25 and is in 3rd place.
-* {% rauserpic AstroFennec %} has made it into the top 25 and is tied for 4th place.
-* {% rauserpicalt BushidoBug, sam4594 %} has made it into the top 25 and is tied for 4th place.
+* {% rauserpic AstroFennec %} has made it into the top 25 and is in a 2-way tie for 4th place.
+* {% rauserpicalt BushidoBug, sam4594 %} has made it into the top 25 and is in a 2-way tie for 4th place.
 * {% rauserpic Carca %} has made it into the top 25 and is in a 5-way tie for 6th place.
 * {% rauserpic CJ7771000 %} has made it into the top 25 and is in a 5-way tie for 6th place.
 * {% rauserpic DerekCat %} has made it into the top 25 and is in a 5-way tie for 6th place.
@@ -902,9 +902,22 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 * {% rauserpic TheBananaMan %} has made it into the top 25 and is in a 12-way tie for 11th place.
 * {% rauserpic WanderingHeiho %} has made it into the top 25 and is in a 12-way tie for 11th place.
 * {% rauserpicalt FisherKingXeno, xenoriddley %} has made it into the top 25 and is in a 12-way tie for 11th place.
-* {% rauserpic BlueVector2001 %} has made it into the top 25 and is in a 3-way tie for 23th place.
-* {% rauserpic BlueyLewis %} has made it into the top 25 and is in a 3-way tie for 23th place.
-* {% rauserpicalt Capthecat6, Captninja6 %} has made it into the top 25 and is in a 3-way tie for 23th place.
+* {% rauserpic BlueVector2001 %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpic BlueyLewis %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpicalt Capthecat6, Captninja6 %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpic deathbychipmunk %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpic DookSilver %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpic DrxD %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpic EBAChandler %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpic eRadicatedZomBiE %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpic gabrielsevilha %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpicalt JohnnyTheHotGuy, hotarubi %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpic IPtKI %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpic Karochi %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpic NekroG %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpic thattiredcat %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpic Timmay %} has made it into the top 25 and is in a 16-way tie for 23rd place.
+* {% rauserpic weeps %} has made it into the top 25 and is in a 16-way tie for 23rd place.
 
 ### WonderSwan
 
