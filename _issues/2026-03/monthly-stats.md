@@ -304,8 +304,8 @@ Check out which event achievements were earned the most this month. Limit one ac
 
 \* Hardcore only
 
-## Top 25 Awarded 2025 Achievements <!-- 16-2 -->
-Check out which achievements created in 2025 were earned the most this month. Limit one achievement per game.
+## Top 25 Awarded 2026 Achievements <!-- 16-2 -->
+Check out which achievements created in 2026 were earned the most this month. Limit one achievement per game.
 
 | Rank | Achievement                                                                       | Game                                                                                 | Times Awarded |
 | :--- | :-------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- | :------------ |
