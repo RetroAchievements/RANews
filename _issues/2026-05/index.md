@@ -85,7 +85,7 @@ toc_float: false
 <div class="section-link">
     <a href="./community-news.html">
         <div class="section-content">
-            <h1 id="community-news">Community News---</h1>
+            <h1 id="community-news">Community News</h1>
             <p>Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.</p>
         </div>
     </a>
@@ -164,7 +164,7 @@ toc_float: false
 <div class="section-link">
     <a href="./ranniversaries.html">
         <div class="section-content">
-            <h1 id="ranniversaries">RAnniversaries---</h1>
+            <h1 id="ranniversaries">RAnniversaries</h1>
             <p>Joining RetroAchievements is a major milestone for gamers and achievement developers, and we love celebrating those anniversaries. In this section, we'll recognize the achievements of our dedicated members by highlighting their years of service to the site. From new members to veterans, we'll showcase everyone who's reached a new anniversary milestone. Join us in celebrating our amazing community, and the hard work and dedication that makes RetroAchievements the best achievement hunting community out there.</p>
         </div>
     </a>
@@ -212,13 +212,92 @@ toc_float: false
 </div>
 <div class="section-link">
     <div class="section-content">
-        <h1 id="acknowledgments">Acknowledgments---</h1>
+        <h1 id="acknowledgments">Acknowledgments</h1>
         <p>The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.</p>
         <table><tbody>
             <tr>
                 <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
-                <td>{% rauserpic ArandomPikachu %}</td>
+                <td>{% rauserpic authorblues %}</td>
                 <td>{% rauserpic Bendyhuman %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic BlueShellBeast %}</td>
+                <td>{% rauserpic Brandovsky %}</td>
+                <td>{% rauserpic Carca %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic DevCompliance %}</td>
+                <td>{% rauserpic DizzySus %}</td>
+                <td>{% rauserpic Dyhalto %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Ezezin %}</td>
+                <td>{% rauserpic Frenchy70 %}</td>
+                <td>{% rauserpic gamer097 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic heytallman %}</td>
+                <td>{% rauserpicalt HOOVEDOMEN, ThatOneEnderr %}</td>
+                <td>{% rauserpic Hotscrock %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt HydrocityZone, hydrocityzone34 %}</td>
+                <td>{% rauserpic JetDusk %}</td>
+                <td>{% rauserpic jhonen124 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic kalonZombie %}</td>
+                <td>{% rauserpic Kryle %}</td>
+                <td>{% rauserpic Laoth %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic MrOwnership %}</td>
+                <td>{% rauserpic Nepiki %}</td>
+                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Nydaxn %}</td>
+                <td>{% rauserpicalt Leodis, Obliv %}</td>
+                <td>{% rauserpic pinguupinguu %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic PsyXchO %}</td>
+                <td>{% rauserpicalt Pusheen, MasterPusheen %}</td>
+                <td>{% rauserpic QATeam %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic QuinnWasTaken %}</td>
+                <td>{% rauserpic RANews %}</td>
+                <td>{% rauserpic Raykusen %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic RetroGameMaster %}</td>
+                <td>{% rauserpic Sines %}</td>
+                <td>{% rauserpic Sniwott %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt SnowPin, Snow %}</td>
+                <td>{% rauserpic SnowWolf %}</td>
+                <td>{% rauserpicalt SolidPilson, Pilson %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic SpectralOrion %}</td>
+                <td>{% rauserpic SporyTike %}</td>
+                <td>{% rauserpic StingX2 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Surskit %}</td>
+                <td>{% rauserpic Tanukitsune %}</td>
+                <td>{% rauserpicalt tele, televandalist %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic TimeCrush %}</td>
+                <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
+                <td>{% rauserpic vikdarkbomb %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic wallmasterz %}</td>
+                <td colspan="2">{% rauserpic Xymjak %}</td>
             </tr>
         </tbody></table>
     </div>

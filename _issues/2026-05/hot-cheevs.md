@@ -14,7 +14,7 @@ toc: true
 
 | Game                                              | Author              | Genre                |
 | ------------------------------------------------- | ------------------- | -------------------- |
-| {% ragamepic 32880, 127911, ~Homebrew~ BioFury %} | {% rauser Mendil %} | First-Person Shooter |
+| {% ragamepic 32880, 127911, <span class="tag"><span>Homebrew</span></span> BioFury %} | {% rauser Mendil %} | First-Person Shooter |
 
 <a href="#toc">:top:</a>
 
@@ -121,7 +121,7 @@ toc: true
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | {% ragamepic 9016, 111303, Videocart-09: Drag Strip %}                      | {% rauser Mendil %}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Racing        |
 | {% ragamepic 8995, 127892, Videocart-25: Casino Poker %}                    | {% rauser Cruzelion %} {% rauser Raeyene %}                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Casino, Poker |
-| {% ragamepic 37897, 127069, ~Homebrew~ Adventures of the Stalk of Celery %} | {% rauser Verros %} {% rauser ShadowFox02 %} {% rauser TheXIIIthX %} {% rauser PS2Hagrid %} {% rauser BiPolarScientist %} {% rauser ChaoticAdventure %} {% rauser Sutarion %} {% rauser SiSiSierra %} {% rauser Lilihierax %} {% rauser tomojin %} {% rauser Homuki %} {% rauser xClawz %} {% rauser BEXUS %} {% rauser ZamArch %} {% rauser BeeroyLenkins %} {% rauser Triforce %} {% rauser JustLilith %} {% rauser Agnam %} {% rauser Burrrrris %} {% rauser Teddy1991 %} {% rauser BigDonRob %} | Minigames     |
+| {% ragamepic 37897, 127069, <span class="tag"><span>Homebrew</span></span> Adventures of the Stalk of Celery %} | {% rauser Verros %} {% rauser ShadowFox02 %} {% rauser TheXIIIthX %} {% rauser PS2Hagrid %} {% rauser BiPolarScientist %} {% rauser ChaoticAdventure %} {% rauser Sutarion %} {% rauser SiSiSierra %} {% rauser Lilihierax %} {% rauser tomojin %} {% rauser Homuki %} {% rauser xClawz %} {% rauser BEXUS %} {% rauser ZamArch %} {% rauser BeeroyLenkins %} {% rauser Triforce %} {% rauser JustLilith %} {% rauser Agnam %} {% rauser Burrrrris %} {% rauser Teddy1991 %} {% rauser BigDonRob %} | Minigames     |
 
 <a href="#toc">:top:</a>
 
@@ -149,9 +149,9 @@ toc: true
 | Game                                                                                             | Author                                   | Genre          |
 | ------------------------------------------------------------------------------------------------ | ---------------------------------------- | -------------- |
 | {% ragamepic 22120, 081572, Magic Knight Rayearth %}                                             | {% rauser solidification %}              | Turn-Based RPG |
-| {% ragamepic 37506, 121322, ~Hack~ Shin Pokémon Red, Blue, and Green [Subset - Shiny Pokémon] %} | {% rauser Yurana %}                      | -              |
-| {% ragamepic 27709, 120604, ~Hack~ Shin Pokémon Red, Blue, and Green %}                          | {% rauser tomojin %} {% rauser Yurana %} | Turn-Based RPG |
-| {% ragamepic 32578, 119559, ~Prototype~ John Madden Football %}                                  | {% rauser LilCutieSophia %}              | -              |
+| {% ragamepic 37506, 121322, <span class="tag"><span>Hack</span></span> Shin Pokémon Red, Blue, and Green [Subset - Shiny Pokémon] %} | {% rauser Yurana %}                      | -              |
+| {% ragamepic 27709, 120604, <span class="tag"><span>Hack</span></span> Shin Pokémon Red, Blue, and Green %}                          | {% rauser tomojin %} {% rauser Yurana %} | Turn-Based RPG |
+| {% ragamepic 32578, 119559, <span class="tag"><span>Prototype</span></span> John Madden Football %}                                  | {% rauser LilCutieSophia %}              | -              |
 
 <a href="#toc">:top:</a>
 
@@ -167,9 +167,9 @@ toc: true
 | {% ragamepic 9054, 128186, Fortress %}                      | {% rauser MrPersonMan %}    | -                           |
 | {% ragamepic 8878, 128047, bit Generations: Coloris %}      | {% rauser TheXIIIthX %}     | Tile Matching               |
 | {% ragamepic 8799, 127414, bit Generations: Soundvoyager %} | {% rauser JustLilith %}     | Other                       |
-| {% ragamepic 34108, 128416, ~Hack~ Pokémon Lazarus %}       | {% rauser Triforce %}       | Turn-Based RPG              |
-| {% ragamepic 28350, 123779, ~Hack~ Pokémon Puffy Pink %}    | {% rauser KiwiTaco %}       | Turn-Based RPG              |
-| {% ragamepic 28390, 126927, ~Homebrew~ MarioBreak! %}       | {% rauser LilCutieSophia %} | Brick Breakers              |
+| {% ragamepic 34108, 128416, <span class="tag"><span>Hack</span></span> Pokémon Lazarus %}       | {% rauser Triforce %}       | Turn-Based RPG              |
+| {% ragamepic 28350, 123779, <span class="tag"><span>Hack</span></span> Pokémon Puffy Pink %}    | {% rauser KiwiTaco %}       | Turn-Based RPG              |
+| {% ragamepic 28390, 126927, <span class="tag"><span>Homebrew</span></span> MarioBreak! %}       | {% rauser LilCutieSophia %} | Brick Breakers              |
 
 <a href="#toc">:top:</a>
 
@@ -181,9 +181,9 @@ toc: true
 | ------------------------------------------------------------------------------- | ------------------------------- | ----------------- |
 | {% ragamepic 4645, 071430, Beauty and the Beast: A Board Game Adventure %}      | {% rauser solidification %}     | Board Game, Party |
 | {% ragamepic 26515, 100144, Janosch: Das große Panama Spiel %}                  | {% rauser WanderingHeiho %}     | -                 |
-| {% ragamepic 38207, 127925, ~Hack~ Crystal Clear [Subset - Perfect Pokémon+] %} | {% rauser tomojin %}            | -                 |
-| {% ragamepic 38159, 126920, ~Homebrew~ Akumanor Gaiden DX %}                    | {% rauser MiguelsoaresGames2 %} | 2D Platforming    |
-| {% ragamepic 38232, 126876, ~Homebrew~ The Pazaak Battles %}                    | {% rauser Cruzelion %}          | Card Game         |
+| {% ragamepic 38207, 127925, <span class="tag"><span>Hack</span></span> Crystal Clear [Subset - Perfect Pokémon+] %} | {% rauser tomojin %}            | -                 |
+| {% ragamepic 38159, 126920, <span class="tag"><span>Homebrew</span></span> Akumanor Gaiden DX %}                    | {% rauser MiguelsoaresGames2 %} | 2D Platforming    |
+| {% ragamepic 38232, 126876, <span class="tag"><span>Homebrew</span></span> The Pazaak Battles %}                    | {% rauser Cruzelion %}          | Card Game         |
 
 <a href="#toc">:top:</a>
 
@@ -205,7 +205,7 @@ toc: true
 | Game                                                   | Author                  | Genre          |
 | ------------------------------------------------------ | ----------------------- | -------------- |
 | {% ragamepic 6751, 127587, Q*Bert %}                   | {% rauser Foolacetic %} | Arcade         |
-| {% ragamepic 33028, 128098, ~Homebrew~ Intellivania %} | {% rauser Mendil %}     | 2D Platforming |
+| {% ragamepic 33028, 128098, <span class="tag"><span>Homebrew</span></span> Intellivania %} | {% rauser Mendil %}     | 2D Platforming |
 
 <a href="#toc">:top:</a>
 
@@ -227,7 +227,7 @@ toc: true
 | ---------------------------------------------------------------- | ----------------------- | -------------------------------- |
 | {% ragamepic 33462, 124100, Castle Excellent %}                  | {% rauser lizstar %}    | Metroidvania, Puzzle Platforming |
 | {% ragamepic 10488, 124490, Gojira-Kun %}                        | {% rauser Verros %}     | Puzzle Platforming               |
-| {% ragamepic 38200, 126365, ~Homebrew~ Sorcerer Kid Adventure %} | {% rauser quirky0992 %} | 2D Platforming                   |
+| {% ragamepic 38200, 126365, <span class="tag"><span>Homebrew</span></span> Sorcerer Kid Adventure %} | {% rauser quirky0992 %} | 2D Platforming                   |
 
 <a href="#toc">:top:</a>
 
@@ -247,8 +247,8 @@ toc: true
 
 | Game                                                   | Author                                      | Genre          |
 | ------------------------------------------------------ | ------------------------------------------- | -------------- |
-| {% ragamepic 38259, 127408, ~Homebrew~ Battlot %}      | {% rauser Cruzelion %} {% rauser Raeyene %} | -              |
-| {% ragamepic 38351, 128087, ~Homebrew~ Sushi Nights %} | {% rauser Agnam %}                          | 2D Platforming |
+| {% ragamepic 38259, 127408, <span class="tag"><span>Homebrew</span></span> Battlot %}      | {% rauser Cruzelion %} {% rauser Raeyene %} | -              |
+| {% ragamepic 38351, 128087, <span class="tag"><span>Homebrew</span></span> Sushi Nights %} | {% rauser Agnam %}                          | 2D Platforming |
 
 <a href="#toc">:top:</a>
 
@@ -260,11 +260,11 @@ toc: true
 | ------------------------------------------------------------------------- | --------------------------- | ---------------------- |
 | {% ragamepic 5536, 120365, Mad City %}                                    | {% rauser Etron %}          | Beat 'em Up            |
 | {% ragamepic 1917, 128389, RoboWarrior %}                                 | {% rauser rgavril %}        | Action                 |
-| {% ragamepic 38255, 127871, ~Hack~ Ghosts 'n Goblins: Powered Up!! %}     | {% rauser WilHiteWarrior %} | 2D Platforming, Action |
-| {% ragamepic 24943, 075802, ~Hack~ The Legend of Zelda: Fall of Hyrule %} | {% rauser solidification %} | Action-Adventure       |
-| {% ragamepic 37019, 124723, ~Homebrew~ Old Towers %}                      | {% rauser KiwiTaco %}       | Action Puzzle          |
-| {% ragamepic 4651, 127134, ~Homebrew~ Sack of Flour, Heart of Gold %}     | {% rauser Tabbysas %}       | 2D Platforming         |
-| {% ragamepic 32714, 128254, ~Homebrew~ The Great Gatsby %}                | {% rauser Aelern %}         | -                      |
+| {% ragamepic 38255, 127871, <span class="tag"><span>Hack</span></span> Ghosts 'n Goblins: Powered Up!! %}     | {% rauser WilHiteWarrior %} | 2D Platforming, Action |
+| {% ragamepic 24943, 075802, <span class="tag"><span>Hack</span></span> The Legend of Zelda: Fall of Hyrule %} | {% rauser solidification %} | Action-Adventure       |
+| {% ragamepic 37019, 124723, <span class="tag"><span>Homebrew</span></span> Old Towers %}                      | {% rauser KiwiTaco %}       | Action Puzzle          |
+| {% ragamepic 4651, 127134, <span class="tag"><span>Homebrew</span></span> Sack of Flour, Heart of Gold %}     | {% rauser Tabbysas %}       | 2D Platforming         |
+| {% ragamepic 32714, 128254, <span class="tag"><span>Homebrew</span></span> The Great Gatsby %}                | {% rauser Aelern %}         | -                      |
 
 <a href="#toc">:top:</a>
 
@@ -284,9 +284,9 @@ toc: true
 
 | Game                                                                      | Author                   | Genre                          |
 | ------------------------------------------------------------------------- | ------------------------ | ------------------------------ |
-| {% ragamepic 17415, 041897, ~Hack~ Super Mario 64: Trouble Town %}        | {% rauser Dimedime %}    | 3D Platforming, Collect-a-thon |
-| {% ragamepic 33668, 113023, ~Hack~ The Patchmaker's Workshop %}           | {% rauser ShadowFox02 %} | -                              |
-| {% ragamepic 33396, 110892, ~Hack~ The Super Mario Bros. Super Show 64 %} | {% rauser Minish %}      | 3D Platforming, Collect-a-thon |
+| {% ragamepic 17415, 041897, <span class="tag"><span>Hack</span></span> Super Mario 64: Trouble Town %}        | {% rauser Dimedime %}    | 3D Platforming, Collect-a-thon |
+| {% ragamepic 33668, 113023, <span class="tag"><span>Hack</span></span> The Patchmaker's Workshop %}           | {% rauser ShadowFox02 %} | -                              |
+| {% ragamepic 33396, 110892, <span class="tag"><span>Hack</span></span> The Super Mario Bros. Super Show 64 %} | {% rauser Minish %}      | 3D Platforming, Collect-a-thon |
 
 <a href="#toc">:top:</a>
 
@@ -304,7 +304,7 @@ toc: true
 | {% ragamepic 27139, 129038, M&M's Kart Racing %}                     | {% rauser BEXUS %}          | -                              |
 | {% ragamepic 17890, 121894, Mega Man Star Force: Dragon %}           | {% rauser Akirazord %}      | Action RPG                     |
 | {% ragamepic 17404, 124936, Tony Hawk's American Sk8land %}          | {% rauser BEXUS %}          | Extreme Sports - Skateboarding |
-| {% ragamepic 14969, 127851, ~Homebrew~ Super Mario Bros Galaxy DS %} | {% rauser LilCutieSophia %} | 2D Platforming                 |
+| {% ragamepic 14969, 127851, <span class="tag"><span>Homebrew</span></span> Super Mario Bros Galaxy DS %} | {% rauser LilCutieSophia %} | 2D Platforming                 |
 
 <a href="#toc">:top:</a>
 
@@ -357,7 +357,7 @@ toc: true
 | {% ragamepic 16176, 121052, Point Blank 3 %}                                             | {% rauser AmirGaris %}      | -              |
 | {% ragamepic 11339, 026702, R-Type Delta %}                                              | {% rauser solidification %} | Shoot 'em Up   |
 | {% ragamepic 18059, 119768, The Guardian of Darkness %}                                  | {% rauser JoyfulFireball %} | -              |
-| {% ragamepic 34943, 125968, ~Hack~ Mega Man X6: Survivor %}                              | {% rauser AlexHylian %}     | -              |
+| {% ragamepic 34943, 125968, <span class="tag"><span>Hack</span></span> Mega Man X6: Survivor %}                              | {% rauser AlexHylian %}     | -              |
 
 <a href="#toc">:top:</a>
 
@@ -376,7 +376,7 @@ toc: true
 | {% ragamepic 22634, 125070, The Tairyou Jigoku %}                              | {% rauser DrewMHax0r %}                           | Action-Adventure, Survival Horror |
 | {% ragamepic 19374, 066124, The Urbz: Sims in the City %}                      | {% rauser Prims %}                                | Life Simulation                   |
 | {% ragamepic 3294, 125683, Wipeout Fusion %}                                   | {% rauser HeyImTG %}                              | -                                 |
-| {% ragamepic 38130, 127834, ~Homebrew~ 3D Pinball: Space Cadet %}              | {% rauser TheScarletDevil %}                      | Pinball                           |
+| {% ragamepic 38130, 127834, <span class="tag"><span>Homebrew</span></span> 3D Pinball: Space Cadet %}              | {% rauser TheScarletDevil %}                      | Pinball                           |
 
 <a href="#toc">:top:</a>
 
@@ -388,9 +388,9 @@ toc: true
 | ------------------------------------------------------------------ | -------------------- | ------------------------- |
 | {% ragamepic 25827, 103423, Loretta no Shouzou: Sherlock Holmes %} | {% rauser Jamiras %} | Point-and-Click Adventure |
 | {% ragamepic 13994, 096576, Pitfall II: The Lost Caverns %}        | {% rauser zaydoc %}  | 2D Platforming            |
-| {% ragamepic 24569, 126880, ~Homebrew~ Arno Dash 2 %}              | {% rauser Verros %}  | Physics Puzzle, Puzzle    |
-| {% ragamepic 22684, 128181, ~Homebrew~ Arno Dash %}                | {% rauser Gudra %}   | Physics Puzzle            |
-| {% ragamepic 24546, 126062, ~Unlicensed~ King's Valley %}          | {% rauser Mendil %}  | Puzzle Platforming        |
+| {% ragamepic 24569, 126880, <span class="tag"><span>Homebrew</span></span> Arno Dash 2 %}              | {% rauser Verros %}  | Physics Puzzle, Puzzle    |
+| {% ragamepic 22684, 128181, <span class="tag"><span>Homebrew</span></span> Arno Dash %}                | {% rauser Gudra %}   | Physics Puzzle            |
+| {% ragamepic 24546, 126062, <span class="tag"><span>Unlicensed</span></span> King's Valley %}          | {% rauser Mendil %}  | Puzzle Platforming        |
 
 <a href="#toc">:top:</a>
 
@@ -404,7 +404,7 @@ toc: true
 | {% ragamepic 23372, 124007, Nickelodeon Guts %}                                   | {% rauser solidification %} | Sports, Game Show  |
 | {% ragamepic 4401, 063060, Popeye: Ijiwaru Majo Sea Hag no Maki %}                | {% rauser solidification %} | Action, Board Game |
 | {% ragamepic 1124, 126779, The Ren & Stimpy Show: Time Warp %}                    | {% rauser Dws18 %}          | Beat 'em Up        |
-| {% ragamepic 17949, 121724, ~Hack~ Super Mario World: 30th Anniversary Edition %} | {% rauser LadiesMan217 %}   | 2D Platforming     |
+| {% ragamepic 17949, 121724, <span class="tag"><span>Hack</span></span> Super Mario World: 30th Anniversary Edition %} | {% rauser LadiesMan217 %}   | 2D Platforming     |
 
 <a href="#toc">:top:</a>
 
@@ -452,8 +452,8 @@ toc: true
 
 | Game                                                     | Author              | Genre          |
 | -------------------------------------------------------- | ------------------- | -------------- |
-| {% ragamepic 25302, 127742, ~Homebrew~ Gravitrex Plus %} | {% rauser Mendil %} | Arcade         |
-| {% ragamepic 25211, 092276, ~Homebrew~ Turkey Runner %}  | {% rauser Verros %} | Endless Runner |
+| {% ragamepic 25302, 127742, <span class="tag"><span>Homebrew</span></span> Gravitrex Plus %} | {% rauser Mendil %} | Arcade         |
+| {% ragamepic 25211, 092276, <span class="tag"><span>Homebrew</span></span> Turkey Runner %}  | {% rauser Verros %} | Endless Runner |
 
 <a href="#toc">:top:</a>
 

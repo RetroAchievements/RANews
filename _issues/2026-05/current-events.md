@@ -143,7 +143,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li value="2" >{% rauserpic MentalBlank %} - 59 Points</li>
                     <li value="10" >{% rauserpic Tehkoa %} - 58 Points</li>
                     <li value="10" >{% rauserpic ArtikSkarab %} - 58 Points</li>
-                    <li value="10" >{% rauserpic Riley101 %} - 58 Points</li>
+                    <li value="10" >{% rauserpicalt Riley101, rileythepegasus %} - 58 Points</li>
                     <li value="10" >{% rauserpic Eferos %} - 58 Points</li>
                 </ol>
                 <br>Check out the game page for the up to date rankings.
@@ -241,7 +241,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li>{% rauserpic Eferos %}</li>
                     <li>{% rauserpicalt Riley101, rileythepegasus %}</li>
                     <li>{% rauserpic z0mbir %}</li>
-                    <li>{% rauserpic Kawaragi %}</li>
+                    <li>{% rauserpicalt Kawaragi, HiroiKawaragi %}</li>
                 </ol>
                 <br>Check out the game page for the up to date rankings.
             </td>
@@ -410,7 +410,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                         <tr>
                             <td>{% rauserpic DeeCee %}</td>
                             <td>{% rauserpic dumbFKNidiot %}</td>
-                            <td>{% rauserpic EEez %}</td>
+                            <td>{% rauserpicalt EEez, Yoshinohara %}</td>
                         </tr>
                         <tr>
                             <td>{% rauserpic Ezezin %}</td>
@@ -425,7 +425,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                         <tr>
                             <td>{% rauserpic PsyXchO %}</td>
                             <td>{% rauserpic Sutarion %}</td>
-                            <td>{% rauserpic TrashPaddy %}</td>
+                            <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
                         </tr>
                         <tr>
                             <td colspan="3">{% rauserpic Xymjak %}</td>

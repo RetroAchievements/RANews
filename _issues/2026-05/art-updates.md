@@ -25,7 +25,7 @@ toc: true
 | Game                                                                    | Icon By                | Icon Before                                                                        |
 | ----------------------------------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 12220, 126745, Magic Sword: Heroic Fantasy %}              | {% rauser berti %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/095122.png"> |
-| {% ragamepic 15760, 128253, ~Unlicensed~ Pacman Club \| Club Lambada %} | {% rauser rubybirdy %} | <img class="gameicon" src="https://media.retroachievements.org/Images/042390.png"> |
+| {% ragamepic 15760, 128253, <span class="tag"><span>Unlicensed</span></span> Pacman Club \| Club Lambada %} | {% rauser rubybirdy %} | <img class="gameicon" src="https://media.retroachievements.org/Images/042390.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -75,7 +75,7 @@ toc: true
 | {% ragamepic 16098, 128162, Medarot G: Kabuto Version %}       | {% rauser Raichi %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/060960.png"> |
 | {% ragamepic 18189, 128111, Sitting Ducks %}                   | {% rauser Ezezin %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/050375.png"> |
 | {% ragamepic 7854, 128257, X-Men: Reign of Apocalypse %}       | {% rauser Napolitoto %} | <img class="gameicon" src="https://media.retroachievements.org/Images/084491.png"> |
-| {% ragamepic 29758, 128312, ~Hack~ Pokémon Recharged Yellow %} | {% rauser TorchicZK %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/096367.png"> |
+| {% ragamepic 29758, 128312, <span class="tag"><span>Hack</span></span> Pokémon Recharged Yellow %} | {% rauser TorchicZK %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/096367.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -87,7 +87,7 @@ toc: true
 | -------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 11165, 126640, Bugs Bunny and Lola Bunny: Operation Carrot Patch %} | {% rauser DouguiNEW %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/015109.png"> |
 | {% ragamepic 4920, 126562, Hamtaro: Ham-Hams Unite! %}                           | {% rauser ShibuyaGato %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/025041.png"> |
-| {% ragamepic 14226, 128364, ~Hack~ Wario Land 3: The Master Quest %}             | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/069384.png"> |
+| {% ragamepic 14226, 128364, <span class="tag"><span>Hack</span></span> Wario Land 3: The Master Quest %}             | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/069384.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -152,7 +152,7 @@ toc: true
 | {% ragamepic 1982, 126748, Star Wars %}                    | {% rauser Frenchy70 %} | <img class="gameicon" src="https://media.retroachievements.org/Images/013066.png"> |
 | {% ragamepic 2032, 126960, Tiny Toon Adventures %}         | {% rauser Frenchy70 %} | <img class="gameicon" src="https://media.retroachievements.org/Images/015367.png"> |
 | {% ragamepic 2101, 128081, Yoshi's Cookie %}               | {% rauser GatoMago %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/049673.png"> |
-| {% ragamepic 32714, 128254, ~Homebrew~ The Great Gatsby %} | {% rauser Frenchy70 %} | <img class="gameicon" src="https://media.retroachievements.org/Images/113985.png"> |
+| {% ragamepic 32714, 128254, <span class="tag"><span>Homebrew</span></span> The Great Gatsby %} | {% rauser Frenchy70 %} | <img class="gameicon" src="https://media.retroachievements.org/Images/113985.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -175,8 +175,8 @@ toc: true
 | ---------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 10158, 126742, Destruction Derby 64 %}                                      | {% rauser cbrx %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/010834.png"> |
 | {% ragamepic 10469, 127860, Hey You, Pikachu! %}                                         | {% rauser FlareGamer64 %} | <img class="gameicon" src="https://media.retroachievements.org/Images/020102.png"> |
-| {% ragamepic 10471, 128079, ~Hack~ The Legend of Banjo-Kazooie: The Bear Waker Deluxe %} | {% rauser docbam %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/046318.png"> |
-| {% ragamepic 38334, 127863, ~Hack~ The Legend of Zelda: Curse Of Moonlight %}            | {% rauser docbam %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png"> |
+| {% ragamepic 10471, 128079, <span class="tag"><span>Hack</span></span> The Legend of Banjo-Kazooie: The Bear Waker Deluxe %} | {% rauser docbam %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/046318.png"> |
+| {% ragamepic 38334, 127863, <span class="tag"><span>Hack</span></span> The Legend of Zelda: Curse Of Moonlight %}            | {% rauser docbam %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -189,7 +189,7 @@ toc: true
 | {% ragamepic 18490, 128311, Call of Duty: Black Ops %}                 | {% rauser YeenTheBin %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/109841.png"> |
 | {% ragamepic 15454, 127866, One Piece: Gigant Battle! 2 - Shinsekai %} | {% rauser Frenchy70 %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/086115.png"> |
 | {% ragamepic 15453, 127858, One Piece: Gigant Battle! %}               | {% rauser Frenchy70 %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/068220.png"> |
-| {% ragamepic 17374, 128630, ~Hack~ New Super Mario Bros. Deluxe! %}    | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/062997.png"> |
+| {% ragamepic 17374, 128630, <span class="tag"><span>Hack</span></span> New Super Mario Bros. Deluxe! %}    | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/062997.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -234,7 +234,7 @@ toc: true
 | {% ragamepic 20618, 127969, Teenage Mutant Ninja Turtles %}                 | {% rauser Michelangel021 %} | <img class="gameicon" src="https://media.retroachievements.org/Images/089559.png"> |
 | {% ragamepic 20528, 128310, The Dog Island %}                               | {% rauser Moh4wk %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/067703.png"> |
 | {% ragamepic 21180, 128431, WinBack: Covert Operations %}                   | {% rauser WilHiteWarrior %} | <img class="gameicon" src="https://media.retroachievements.org/Images/103200.png"> |
-| {% ragamepic 24047, 126746, ~Hack~ Guitar Hero II: Iron Maiden %}           | {% rauser elpibe2024 %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png"> |
+| {% ragamepic 24047, 126746, <span class="tag"><span>Hack</span></span> Guitar Hero II: Iron Maiden %}           | {% rauser elpibe2024 %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -260,7 +260,7 @@ toc: true
 | ----------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 5213, 127152, Space Armor %}                   | {% rauser berti %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/078379.png"> |
 | {% ragamepic 5397, 126747, Space Mountain %}                | {% rauser berti %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/082293.png"> |
-| {% ragamepic 22345, 127401, ~Homebrew~ Snake [under4mhz] %} | {% rauser PlatterTheFinch %} | <img class="gameicon" src="https://media.retroachievements.org/Images/104467.png"> |
+| {% ragamepic 22345, 127401, <span class="tag"><span>Homebrew</span></span> Snake [under4mhz] %} | {% rauser PlatterTheFinch %} | <img class="gameicon" src="https://media.retroachievements.org/Images/104467.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -275,7 +275,7 @@ toc: true
 | {% ragamepic 1012, 126780, Magic Sword %}                                | {% rauser berti %}            | <img class="gameicon" src="https://media.retroachievements.org/Images/119073.png"> |
 | {% ragamepic 3227, 127739, Mario no Super Picross %}                     | {% rauser Verros %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/003359.png"> |
 | {% ragamepic 3409, 126959, Raiden Trad %}                                | {% rauser StudioGibley %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/126415.png"> |
-| {% ragamepic 18327, 128363, ~Hack~ Donkey Kong Country: Pacifist Mode %} | {% rauser DouguiNEW %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/116729.png"> |
+| {% ragamepic 18327, 128363, <span class="tag"><span>Hack</span></span> Donkey Kong Country: Pacifist Mode %} | {% rauser DouguiNEW %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/116729.png"> |
 
 <a href="#toc">:top:</a>
 

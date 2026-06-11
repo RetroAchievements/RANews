@@ -38,6 +38,6 @@ And here we have a painting in the one, the only, Mario Paint! SnowWolf looks to
 
 <p align="center"><img src="https://github.com/user-attachments/assets/6bd86162-7910-456c-b20c-c61e0708b849" /></p>
 
-By {% rauserpic hydrocityzone34 %}
+By {% rauserpicalt HydrocityZone, hydrocityzone34 %}
 
 hydrocityzone34 was playing Resident Evil: Survivor together with their friend, and drew a piece in commemoration to remember it by! This drawing is inspired by the section right before the Mansion, where their friend got the best of a hunter with the grenade launcher.

@@ -9,14 +9,14 @@ toc: true
 
 Play This Set is a showcase for our passionate community members to write about the games and achievement sets they love. Our inbox is always open, whether you're an achievement developer looking to promote your work or a player wanting to spread the word about your favorite hidden gem. If interested, submit your write-up as a private message to {% rauserpic RANews %}.
 
-## \~Hack~ Super Pinkgold Peach 64 (Nintendo 64)
+## <span class="tag"><span>Hack</span></span> Super Pinkgold Peach 64 (Nintendo 64)
 
-| Game                                                                                                                                                                                                                                                                               | Console     | Genre                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/22532" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/068409.png" alt="\~Hack~ Super Pinkgold Peach 64"> <span>\~Hack~ Super Pinkgold Peach 64</span></a> | Nintendo 64 | [3D Platforming](https://retroachievements.org/hub/2952) |
+| Game                                                                                                                                                                                                                                                                              | Console     | Genre                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/22532" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/068409.png" > <span><span class="tag"><span>Hack</span></span> Super Pinkgold Peach 64</span></a> | Nintendo 64 | [3D Platforming](https://retroachievements.org/hub/2952) |
 
-* Set by: {% rauserpic LilCutieSophia %}
-* Write-up by: {% rauserpic SolidPilson %}
+* Set by: {% rauserpicalt LilCutieSophia, MaddieKittyTV %}
+* Write-up by: {% rauserpicalt SolidPilson, Pilson %}
 
 Want to play some [Mario Kart 64](https://retroachievements.org/game/10078)? Yes, you do. In this hack you take the role of ~~Metal Peach~~ Super Pinkgold Peach, in order to collect the ~6~ 7 stars in the track as fast as possible.
 
@@ -90,11 +90,11 @@ Uncle Poo is a maze game in which the objective is to collect loot while the are
 
 It is very liberating to send a foe to Valhalla by releasing a well-timed thunder from down under, to the point that sometimes one tends to forget that the goal of the game is to get rich, not break wind. The soundtrack is on point, with every level ending with a chiptune rendition of Bizet's Carmen Suite No. 1. The bonus level, in which one must utilize the best of their backfiring abilities to blow mud bubbles at lines of foes, is appropriately scored by Khachaturian's Sabre Fight. A death is accompanied by Chopin's Piano Sonata No. 2 in B flat minor, better known as Funeral March. Uncle Poo is truly a delight for the erudite classical music connoisseur and the true archeologist in search of the obscure stinker game.
 
-## \~Hack~ Super Mario Bros. Peach's Adventure (SNES/Super Famicom)
+## <span class="tag"><span>Hack</span></span> Super Mario Bros. Peach's Adventure (SNES/Super Famicom)
 
-| Game                                                                                                                                                                                                                                                                                                       | Console            | Genre                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/18608" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/074755.png" alt="\~Hack~ Super Mario Bros. Peach's Adventure"> <span>\~Hack~ Super Mario Bros. Peach's Adventure</span></a> | SNES/Super Famicom | [2D Platforming](https://retroachievements.org/hub/8837) |
+| Game                                                                                                                                                                                                                                                                                          | Console            | Genre                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/18608" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/074755.png" > <span><span class="tag"><span>Hack</span></span> Super Mario Bros. Peach's Adventure</span></a> | SNES/Super Famicom | [2D Platforming](https://retroachievements.org/hub/8837) |
 
 * Set by: {% rauserpic Alena %}
 * Write-up by: {% rauserpic kalonZombie %}
@@ -113,7 +113,7 @@ So are you looking for more SMW without it being too hard? Here you go. Are you 
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/2179" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/028134.png" alt="Mega Man & Bass"> <span>Mega Man & Bass</span></a> | Game Boy Advance | [2D Platforming](https://retroachievements.org/hub/8837) |
 
-* Set by: {% rauserpic MeCKooLL %}, {% rauserpic lonegraywolf2000 %}
+* Set by: {% rauserpic MeCKooLL %}, {% rauserpicalt lonegraywolf2000, wolfman2000 %}
 * Write-up by: {% rauserpic Sniwott %}
 
 The [Mega Man](https://retroachievements.org/hub/9185) series is well known for its excellent soundtrack across most of the games, tight gameplay with an addicting loop and variety, and most of all, its difficulty. Despite that, the Blue Bomber has managed to capture our hearts, even with some of his games not being the greatest (looking at you [X7](https://retroachievements.org/game/5673)). One of these games, in my opinion, doesn't deserve to be called 'bad', that being the GBA port of Mega Man & Bass. It has often been regarded as the worst classic Mega Man game thanks to its difficulty, and the screen crunch certainly didn't help with that. However, this version of the game is excellent, and the RA set to go with it ended up being one of my favorites among all of my masteries.

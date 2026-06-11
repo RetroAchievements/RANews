@@ -14,7 +14,7 @@ It is no easy task to undertake the responsibility that is implementing sweeping
 
 We last spoke to my guest while we were just on the cusp of Dolphin, and in those three years challenges have been overcome, as well as fresh ideas born and raised - It begs the question: What does the future hold for RetroAchievements? 
 
-For exactly that reason, I have my guest here tonight, {% rauserpic WCopeland %} - To dive in on where we were, how far we've come, and what the captain sees himself on the horizon of our future. Much like a "State of the Union" address, this is RetroAchievements "State of RA"!
+For exactly that reason, I have my guest here tonight, {% rauserpicalt wes, WCopeland %} - To dive in on where we were, how far we've come, and what the captain sees himself on the horizon of our future. Much like a "State of the Union" address, this is RetroAchievements "State of RA"!
 
 <p align="center">
     <iframe

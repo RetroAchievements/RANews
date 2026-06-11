@@ -57,7 +57,7 @@ Hopefully we will one day get Amiga games on RA; until then, enjoy this port!
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/6271" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/086546.png" alt="Space Station Silicon Valley"> <span>Space Station Silicon Valley</span></a> | Game Boy Color | [2D Platforming](https://retroachievements.org/hub/8837) |
 
-* Write-up by: {% rauserpic TrashPaddy %}
+* Write-up by: {% rauserpicalt TrashPaddy, PaddyShade %}
 
 <figure style="text-align:center;float:right;width:50%;height:50%">
 <img src="https://s3.retroachievements.org/game/screenshots/141/1410427598/1546ab365c07668ee4de4d54e646f48528924100/backfill-2q3il4dm9u9m2nbo1dD.png"><figcaption></figcaption>
@@ -104,7 +104,7 @@ I would really like to see a multiplayer set for this game to expand the strange
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/5230" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/038916.png" alt="Wily & Light no Rockboard: That's Paradise"> <span>Wily & Light no Rockboard: That's Paradise</span></a> | NES/Famicom | [Board Game](https://retroachievements.org/hub/2585) |
 
-* Write-up by: {% rauserpic HOOVEDOMEN %}
+* Write-up by: {% rauserpicalt HOOVEDOMEN, ThatOneEnderr %}
 
 <figure style="text-align:center;float:right;width:50%;height:50%">
 <img src="https://s3.retroachievements.org/game/screenshots/115/1154771662/a9bd932d923829cff3958783e33b8f155993bf9f/backfill-bimkfkmrt6fv80kOZrI.png">
@@ -138,11 +138,11 @@ Among the massive ocean of shovelware on the Wii, this game isn't too shabby. It
 
 <br clear="left"/>
 
-## \~Homebrew~ Wrestling: Thunder City (Game Boy Color)
+## <span class="tag"><span>Homebrew</span></span> Wrestling: Thunder City (Game Boy Color)
 
-| Game                                                                                                                                                                                                                                                                                       | Console        | Genre             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ----------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/34450" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png" alt="\~Homebrew~ Wrestling: Thunder City"> <span>\~Homebrew~ Wrestling: Thunder City</span></a> | Game Boy Color | Role-Playing Game |
+| Game                                                                                                                                                                                                                                                                                 | Console        | Genre             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ----------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/34450" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png" > <span><span class="tag"><span>Homebrew</span></span> Wrestling: Thunder City</span></a> | Game Boy Color | Role-Playing Game |
 
 * Write-up by: {% rauserpic Laoth %}
 
@@ -163,7 +163,7 @@ If you like little Game Boy Color adventures, then this is for you. Because this
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/26141" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/085926.png" alt="Sight Training: Enjoy Exercising and Relaxing Your Eyes"> <span>Sight Training: Enjoy Exercising and Relaxing Your Eyes</span></a> | Nintendo DS | [Educational](https://retroachievements.org/hub/7940) |
 
-* Write-up by: {% rauserpic Pusheen %}
+* Write-up by: {% rauserpicalt Pusheen, MasterPusheen %}
 
 <figure style="text-align:center;float:left;width:50%;height:50%">
 <img src="https://s3.retroachievements.org/game/screenshots/794/794258126/c078329853a24288a4329eb85b787c12dd0f2372/backfill-r8811amkbcdqeeQfz76.png">
@@ -182,11 +182,11 @@ Uh, not much more to say. Hopefully someone reading this takes a chance on the g
 
 <br clear="left"/>
 
-## \~Hack~ The 12th Annual Vanilla Level Design Contest (SNES/Super Famicom)
+## <span class="tag"><span>Hack</span></span> The 12th Annual Vanilla Level Design Contest (SNES/Super Famicom)
 
-| Game                                                                                                                                                                                                                                                                                                                         | Console            | Genre          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/37713" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png" alt="\~Hack~ The 12th Annual Vanilla Level Design Contest"> <span>\~Hack~ The 12th Annual Vanilla Level Design Contest</span></a> | SNES/Super Famicom | 2D Platforming |
+| Game                                                                                                                                                                                                                                                                                                  | Console            | Genre          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/37713" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png" > <span><span class="tag"><span>Hack</span></span> The 12th Annual Vanilla Level Design Contest</span></a> | SNES/Super Famicom | 2D Platforming |
 
 * Write-up by: {% rauserpic PsyXchO %}
 
