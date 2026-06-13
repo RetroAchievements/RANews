@@ -25,7 +25,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 | 7   | {% rauserpic BahamutVoid %}**                    | 5/24/2021     | 5                |
 | 8   | {% rauserpic Lewis50248 %}**                     | 5/27/2021     | 5                |
 | 9   | {% rauserpic Excessiveiser %}                    | 5/1/2022      | 4                |
-| 10  | {% rauserpic LiveFastCyYoung %**}                | 5/20/2022     | 4                |
+| 10  | {% rauserpic LiveFastCyYoung %}**                | 5/20/2022     | 4                |
 | 11  | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 5/28/2022     | 4                |
 | 12  | {% rauserpic MelodyAsh %}                        | 5/28/2022     | 4                |
 | 13  | {% rauserpicalt Brylefi, Bryan1150 %}            | 5/31/2022     | 4                |
