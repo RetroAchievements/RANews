@@ -107,6 +107,14 @@ toc_float: false
     </a>
 </div>
 <div class="section-link">
+    <a href="./play-this-set.html">
+        <div class="section-content">
+            <h1 id="play-this-set">Play This Set</h1>
+            <p>Looking for some great game recommendations? Play This Set features writeups submitted by the community about existing sets and why you should give them a try. Whether you're looking to discover a new favorite or just need a reason to play something new, these writeups are sure to provide plenty of inspiration. So dive in, and get ready to take on a new set!</p>
+        </div>
+    </a>
+</div>
+<div class="section-link">
     <a href="./wish-this-set.html">
         <div class="section-content">
             <h1 id="wish-this-set">Wish This Set</h1>
