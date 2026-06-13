@@ -469,8 +469,8 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li value="6">{% rauserpic MiningMario %}<sup>**</sup> - 1197 Points</li>
                     <li value="7">{% rauserpic NeoRetroGamer %} - 777 Points</li>
                     <li value="8">{% rauserpic pitapocket17 %} - 602 Points</li>
-                    <li value="9">{% rauserpic Advent %} - 523 Points</li>
-                    <li value="10">{% rauserpic CMinusMinus %}<sup>**</sup> - 558 Points</li>
+                    <li value="9">{% rauserpic CMinusMinus %}<sup>**</sup> - 558 Points</li>
+                    <li value="10">{% rauserpic BlueShellBeast %}<sup>**</sup> - 557 Points</li>
                 </ol>
                 <br><sup>**</sup> Active Streak
             </td>
