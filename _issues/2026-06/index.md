@@ -69,23 +69,15 @@ toc_float: false
 <div class="section-link">
     <a href="./current-events.html">
         <div class="section-content">
-            <h1 id="current-events">Current Events---</h1>
+            <h1 id="current-events">Current Events</h1>
             <p>The RetroAchievements community is always buzzing with events and competitions, and our ongoing Current Events section is the perfect place to keep track of everything. From weekly leaderboard grinds to yearly community-wide challenges, this section will keep you in the loop on all the exciting events within our community. Stay tuned for updates on upcoming events, results from past events, and more!</p>
-        </div>
-    </a>
-</div>
-<div class="section-link">
-    <a href="./ra-fan-art.html">
-        <div class="section-content">
-            <h1 id="ra-fan-art">RA Fan Art---</h1>
-            <p>Dive into the artistic world of our RetroAchievements community with our new Fanart section. Discover a visual feast of nostalgia as members showcase their talent in celebrating the timeless charm of retro gaming. Immerse yourself in the pixelated passion that makes our community truly special.</p>
         </div>
     </a>
 </div>
 <div class="section-link">
     <a href="./community-news.html">
         <div class="section-content">
-            <h1 id="community-news">Community News---</h1>
+            <h1 id="community-news">Community News</h1>
             <p>Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.</p>
         </div>
     </a>
