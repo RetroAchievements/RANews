@@ -57,7 +57,7 @@ toc: true
 | {% ragamepic 5013, 130025, Castlevania II: Belmont's Revenge %} | {% rauser IDarkReaderW %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/070459.png"> |
 | {% ragamepic 689, 130024, Castlevania: The Adventure %}         | {% rauser IDarkReaderW %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/069975.png"> |
 | {% ragamepic 540, 129214, Super Mario Land 2: 6 Golden Coins %} | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/115135.png"> |
-| {% ragamepic 28392, 128974, ~Homebrew~ Dead by Daylight %}      | {% rauser tabby %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/089170.png"> |
+| {% ragamepic 28392, 128974, <span class="tag"><span>Homebrew</span></span> Dead by Daylight %}      | {% rauser tabby %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/089170.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -73,8 +73,8 @@ toc: true
 | {% ragamepic 37927, 123488, Nintendo e-Reader %}                       | {% rauser Frenchy70 %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/060128.png"> |
 | {% ragamepic 505, 130026, Super Mario Advance %}                       | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/035249.png"> |
 | {% ragamepic 5117, 129571, Yu-Gi-Oh! The Sacred Cards %}               | {% rauser ShibuyaGato %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/096892.png"> |
-| {% ragamepic 5106, 129752, ~Hack~ Pokémon Snakewood %}                 | {% rauser Moh4wk %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/029820.png"> |
-| {% ragamepic 33661, 130019, ~Hack~ Touhoumon: Another World Revised %} | {% rauser SpiritOfRei %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/112800.png"> |
+| {% ragamepic 5106, 129752, <span class="tag"><span>Hack</span></span> Pokémon Snakewood %}                 | {% rauser Moh4wk %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/029820.png"> |
+| {% ragamepic 33661, 130019, <span class="tag"><span>Hack</span></span> Touhoumon: Another World Revised %} | {% rauser SpiritOfRei %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/112800.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -89,7 +89,7 @@ toc: true
 | {% ragamepic 5133, 129804, Resident Evil: Gaiden %}                          | {% rauser Moh4wk %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/034861.png"> |
 | {% ragamepic 4131, 129041, Sesame Street Sports %}                           | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/043448.png"> |
 | {% ragamepic 14165, 129076, Sesame Street: Elmo's ABCs %}                    | {% rauser ZeeRA %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/042255.png"> |
-| {% ragamepic 24124, 129252, ~Homebrew~ Slender: The 8 Pages %}               | {% rauser Moh4wk %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/071726.png"> |
+| {% ragamepic 24124, 129252, <span class="tag"><span>Homebrew</span></span> Slender: The 8 Pages %}               | {% rauser Moh4wk %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/071726.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -111,7 +111,7 @@ toc: true
 | Game                                                                                                            | Icon By                | Icon Before                                                                        |
 | --------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 6238, 129101, Donkey Kong Jungle Beat %}                                                           | {% rauser Frenchy70 %} | <img class="gameicon" src="https://media.retroachievements.org/Images/127155.png"> |
-| {% ragamepic 28380, 128932, ~Hack~ SpongeBob SquarePants: Battle for Bikini Bottom - Sock Expedition Extreme %} | {% rauser ZeeRA %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/089343.png"> |
+| {% ragamepic 28380, 128932, <span class="tag"><span>Hack</span></span> SpongeBob SquarePants: Battle for Bikini Bottom - Sock Expedition Extreme %} | {% rauser ZeeRA %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/089343.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -156,9 +156,9 @@ toc: true
 | {% ragamepic 2070, 130023, Wheel of Fortune: Junior Edition %} | {% rauser Frenchy70 %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/012556.png"> |
 | {% ragamepic 5468, 130021, Wheel of Fortune %}                 | {% rauser Frenchy70 %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/012559.png"> |
 | {% ragamepic 2444, 129568, Yie Ar Kung-Fu %}                   | {% rauser Jayvee %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/088302.png"> |
-| {% ragamepic 5346, 129717, ~Prototype~ Bio Force Ape %}        | {% rauser Frenchy70 %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/077410.png"> |
-| {% ragamepic 9728, 129886, ~Prototype~ Block Out %}            | {% rauser Elmotus %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/051224.png"> |
-| {% ragamepic 8035, 129943, ~Prototype~ Happily Ever After %}   | {% rauser Elmotus %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/077609.png"> |
+| {% ragamepic 5346, 129717, <span class="tag"><span>Prototype</span></span> Bio Force Ape %}        | {% rauser Frenchy70 %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/077410.png"> |
+| {% ragamepic 9728, 129886, <span class="tag"><span>Prototype</span></span> Block Out %}            | {% rauser Elmotus %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/051224.png"> |
+| {% ragamepic 8035, 129943, <span class="tag"><span>Prototype</span></span> Happily Ever After %}   | {% rauser Elmotus %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/077609.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -193,8 +193,8 @@ toc: true
 | {% ragamepic 11299, 129349, Legend of Legaia %}                 | {% rauser Uprisen %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/044670.png"> |
 | {% ragamepic 17499, 128634, Rocket Power: Team Rocket Rescue %} | {% rauser ZeeRA %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/106342.png"> |
 | {% ragamepic 4494, 129137, Sesame Street Sports %}              | {% rauser LilCutieSophia %} | <img class="gameicon" src="https://media.retroachievements.org/Images/045545.png"> |
-| {% ragamepic 29055, 129940, ~Hack~ PSXFunkin: Lullaby Mod %}    | {% rauser BigChase %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/099197.png"> |
-| {% ragamepic 24002, 129251, ~Hack~ Skeleton Bros %}             | {% rauser BigChase %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/107654.png"> |
+| {% ragamepic 29055, 129940, <span class="tag"><span>Hack</span></span> PSXFunkin: Lullaby Mod %}    | {% rauser BigChase %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/099197.png"> |
+| {% ragamepic 24002, 129251, <span class="tag"><span>Hack</span></span> Skeleton Bros %}             | {% rauser BigChase %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/107654.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -205,10 +205,10 @@ toc: true
 | Game                                                                       | Icon By                      | Icon Before                                                                        |
 | -------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 22612, 129249, Ka 2: Let's Go Hawaii %}                       | {% rauser JomSpoons %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/112196.png"> |
-| {% ragamepic 20675, 128972, LEGO Indiana Jones: The Original Adventures %} | {% rauser Achievess %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/063962.png"> |
+| {% ragamepic 20675, 128972, LEGO Indiana Jones: The Original Adventures %} | {% rauser AxlHenriquez %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/063962.png"> |
 | {% ragamepic 2640, 129690, SSX %}                                          | {% rauser salvadorbastard %} | <img class="gameicon" src="https://media.retroachievements.org/Images/073851.png"> |
 | {% ragamepic 19384, 129075, Taiko: Drum Master %}                          | {% rauser rubybirdy %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/056861.png"> |
-| {% ragamepic 21697, 129939, ~Z~ ~Hack~ Bomba Patch 4 %}                    | {% rauser boutiz %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png"> |
+| {% ragamepic 21697, 129939, ~Z~ <span class="tag"><span>Hack</span></span> Bomba Patch 4 %}                    | {% rauser boutiz %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -232,9 +232,9 @@ toc: true
 | {% ragamepic 648, 129525, Street Fighter II Turbo: Hyper Fighting %}   | {% rauser Napolitoto %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/117039.png"> |
 | {% ragamepic 2641, 129100, The Amazing Spider-Man: Lethal Foes %}      | {% rauser Napolitoto %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/047329.png"> |
 | {% ragamepic 502, 129342, Top Gear %}                                  | {% rauser Heoutera %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/051929.png"> |
-| {% ragamepic 4578, 129246, ~Hack~ EarthBound: Halloween Hack %}        | {% rauser Aerachmor %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/109016.png"> |
-| {% ragamepic 908, 129613, ~Hack~ Grand Poo World 2 %}                  | {% rauser Frenchy70 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/120511.png"> |
-| {% ragamepic 28339, 130032, ~Hack~ Super Marisa Adventure World %}     | {% rauser SpiritOfRei %} | <img class="gameicon" src="https://media.retroachievements.org/Images/088698.png"> |
+| {% ragamepic 4578, 129246, <span class="tag"><span>Hack</span></span> EarthBound: Halloween Hack %}        | {% rauser Aerachmor %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/109016.png"> |
+| {% ragamepic 908, 129613, <span class="tag"><span>Hack</span></span> Grand Poo World 2 %}                  | {% rauser Frenchy70 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/120511.png"> |
+| {% ragamepic 28339, 130032, <span class="tag"><span>Hack</span></span> Super Marisa Adventure World %}     | {% rauser SpiritOfRei %} | <img class="gameicon" src="https://media.retroachievements.org/Images/088698.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -269,8 +269,8 @@ toc: true
 | {% ragamepic 35164, 129250, Golden Balls %}                                  | {% rauser ChiiniiTheComet %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/119326.png"> |
 | {% ragamepic 34597, 129488, Help Wanted: 50 Wacky Jobs! %}                   | {% rauser BiPolarScientist %} | <img class="gameicon" src="https://media.retroachievements.org/Images/118996.png"> |
 | {% ragamepic 11087, 129037, LEGO Indiana Jones 2: The Adventure Continues %} | {% rauser KiNG777zk %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/087594.png"> |
-| {% ragamepic 11086, 128975, LEGO Indiana Jones: The Original Adventures %}   | {% rauser Achievess %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/087590.png"> |
-| {% ragamepic 11090, 129572, LEGO Pirates of the Caribbean: The Video Game %} | {% rauser Achievess %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/104888.png"> |
+| {% ragamepic 11086, 128975, LEGO Indiana Jones: The Original Adventures %}   | {% rauser AxlHenriquez %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/087590.png"> |
+| {% ragamepic 11090, 129572, LEGO Pirates of the Caribbean: The Video Game %} | {% rauser AxlHenriquez %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/104888.png"> |
 | {% ragamepic 38158, 129404, Learning with the PooYoos: Episode 3 %}          | {% rauser ChiiniiTheComet %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/125724.png"> |
 | {% ragamepic 34596, 129039, M&M's Kart Racing %}                             | {% rauser ChiiniiTheComet %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/124103.png"> |
 | {% ragamepic 35798, 129750, PES 2008: Pro Evolution Soccer %}                | {% rauser che1sea %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png"> |
@@ -328,7 +328,7 @@ toc: true
 
 ![after](./img/art-updates/pgZJM90.png)
 
-#### ~Demo~ WarioWare, Inc.: Trial Version
+#### <span class="tag"><span>Demo</span></span> WarioWare, Inc.: Trial Version
  
 **New badges by {% rauser rubybirdy %}.**
  
@@ -496,7 +496,7 @@ toc: true
 
 
 
-#### ~Homebrew~ Five Nights at Freddy's
+#### <span class="tag"><span>Homebrew</span></span> Five Nights at Freddy's
  
 **New badges by {% rauser GatoMago %}.**
  

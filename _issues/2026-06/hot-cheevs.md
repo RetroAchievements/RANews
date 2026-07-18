@@ -80,7 +80,7 @@ toc: true
 | Game                                                  | Author                      | Genre                  |
 | ----------------------------------------------------- | --------------------------- | ---------------------- |
 | {% ragamepic 25623, 129793, King Kong %}              | {% rauser Verros %}         | Arcade, 2D Platforming |
-| {% ragamepic 13003, 129073, ~Prototype~ Bugs Bunny %} | {% rauser LilCutieSophia %} | Arcade                 |
+| {% ragamepic 13003, 129073, <span class="tag"><span>Prototype</span></span> Bugs Bunny %} | {% rauser LilCutieSophia %} | Arcade                 |
 
 <a href="#toc">:top:</a>
 
@@ -142,9 +142,9 @@ toc: true
 | {% ragamepic 3620, 076407, Mighty Beanz: Pocket Puzzles %}                | {% rauser LadyNadia %}      | Tile Matching                    |
 | {% ragamepic 17701, 126712, Urban Yeti! %}                                | {% rauser JoyfulFireball %} | Sandbox, Minigames               |
 | {% ragamepic 8561, 124248, Winx Club %}                                   | {% rauser JosephTheCat %}   | Action-Adventure                 |
-| {% ragamepic 38619, 129824, ~Hack~ Pokemblem [Subset - Challenge Runs] %} | {% rauser Sines %}          | Tactical RPG                     |
-| {% ragamepic 17723, 129825, ~Hack~ Pokemblem %}                           | {% rauser Sines %}          | Tactical RPG                     |
-| {% ragamepic 38188, 129336, ~Homebrew~ Bloxorz %}                         | {% rauser AxlHenriquez %}   | Puzzle                           |
+| {% ragamepic 38619, 129824, <span class="tag"><span>Hack</span></span> Pokemblem [Subset - Challenge Runs] %} | {% rauser Sines %}          | Tactical RPG                     |
+| {% ragamepic 17723, 129825, <span class="tag"><span>Hack</span></span> Pokemblem %}                           | {% rauser Sines %}          | Tactical RPG                     |
+| {% ragamepic 38188, 129336, <span class="tag"><span>Homebrew</span></span> Bloxorz %}                         | {% rauser AxlHenriquez %}   | Puzzle                           |
 
 <a href="#toc">:top:</a>
 
@@ -154,7 +154,7 @@ toc: true
 
 | Game                                                  | Author                  | Genre              |
 | ----------------------------------------------------- | ----------------------- | ------------------ |
-| {% ragamepic 38492, 129050, ~Homebrew~ Double Duck %} | {% rauser Tardigrade %} | Puzzle Platforming |
+| {% ragamepic 38492, 129050, <span class="tag"><span>Homebrew</span></span> Double Duck %} | {% rauser Tardigrade %} | Puzzle Platforming |
 
 <a href="#toc">:top:</a>
 
@@ -175,7 +175,7 @@ toc: true
 | Game                                                                                                            | Author                      | Genre                          |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------ |
 | {% ragamepic 30173, 101825, Dora the Explorer: Journey to the Purple Planet %}                                  | {% rauser TheMysticalOne %} | 3D Platforming, Collect-a-thon |
-| {% ragamepic 28380, 128932, ~Hack~ SpongeBob SquarePants: Battle for Bikini Bottom - Sock Expedition Extreme %} | {% rauser Verros %}         | Collect-a-thon                 |
+| {% ragamepic 28380, 128932, <span class="tag"><span>Hack</span></span> SpongeBob SquarePants: Battle for Bikini Bottom - Sock Expedition Extreme %} | {% rauser Verros %}         | Collect-a-thon                 |
 
 <a href="#toc">:top:</a>
 
@@ -185,8 +185,8 @@ toc: true
 
 | Game                                                                    | Author                       | Genre          |
 | ----------------------------------------------------------------------- | ---------------------------- | -------------- |
-| {% ragamepic 29744, 097780, ~Hack~ Touhou: An Aftermath of the Index %} | {% rauser TheScarletDevil %} | 2D Platforming |
-| {% ragamepic 38620, 129933, ~Unlicensed~ Pokémon II %}                  | {% rauser AxlHenriquez %}    | Maze Chase     |
+| {% ragamepic 29744, 097780, <span class="tag"><span>Hack</span></span> Touhou: An Aftermath of the Index %} | {% rauser TheScarletDevil %} | 2D Platforming |
+| {% ragamepic 38620, 129933, <span class="tag"><span>Unlicensed</span></span> Pokémon II %}                  | {% rauser AxlHenriquez %}    | Maze Chase     |
 
 <a href="#toc">:top:</a>
 
@@ -215,8 +215,8 @@ toc: true
 | {% ragamepic 38490, 128971, Mini-Putt [Subset - Ace Putter] %}           | {% rauser KiwiTaco %}                                                 | Sports - Golf                |
 | {% ragamepic 8090, 128796, Mini-Putt %}                                  | {% rauser KiwiTaco %}                                                 | Sports - Golf                |
 | {% ragamepic 22891, 128422, Silva Saga %}                                | {% rauser DeeCee %}                                                   | Turn-Based RPG               |
-| {% ragamepic 38346, 128843, ~Hack~ Zelda II: Monster Festival %}         | {% rauser suspect15 %} {% rauser Darky %} {% rauser LilCutieSophia %} | Action-Adventure, Action RPG |
-| {% ragamepic 37807, 124958, ~Homebrew~ Chicken of the Farm %}            | {% rauser DeargDoom %}                                                | 2D Platforming               |
+| {% ragamepic 38346, 128843, <span class="tag"><span>Hack</span></span> Zelda II: Monster Festival %}         | {% rauser suspect15 %} {% rauser Darky %} {% rauser LilCutieSophia %} | Action-Adventure, Action RPG |
+| {% ragamepic 37807, 124958, <span class="tag"><span>Homebrew</span></span> Chicken of the Farm %}            | {% rauser DeargDoom %}                                                | 2D Platforming               |
 
 <a href="#toc">:top:</a>
 
@@ -238,8 +238,8 @@ toc: true
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------- |
 | {% ragamepic 10164, 109362, Conker's Bad Fur Day %}                     | {% rauser Darky %}                                                                       | 3D Platforming, Action-Adventure |
 | {% ragamepic 37922, 129228, Diddy Kong Racing [Subset - Krunch Only] %} | {% rauser Delmaru %}                                                                     | Collect-a-thon, Kart Racing      |
-| {% ragamepic 22569, 128640, ~Hack~ Dog Collab %}                        | {% rauser Layton %} {% rauser Xyghost %} {% rauser SporyTike %} {% rauser authorblues %} | 3D Platforming, Collect-a-thon   |
-| {% ragamepic 25375, 129413, ~Hack~ Super Mario New Star %}              | {% rauser Dimedime %}                                                                    | 3D Platforming, Collect-a-thon   |
+| {% ragamepic 22569, 128640, <span class="tag"><span>Hack</span></span> Dog Collab %}                        | {% rauser Layton %} {% rauser Xyghost %} {% rauser SporyTike %} {% rauser authorblues %} | 3D Platforming, Collect-a-thon   |
+| {% ragamepic 25375, 129413, <span class="tag"><span>Hack</span></span> Super Mario New Star %}              | {% rauser Dimedime %}                                                                    | 3D Platforming, Collect-a-thon   |
 
 <a href="#toc">:top:</a>
 
@@ -259,7 +259,7 @@ toc: true
 | {% ragamepic 18714, 127816, Soul Eater: Plot of Medusa %}                                  | {% rauser Yurana %}       | -                                      |
 | {% ragamepic 16576, 108660, SpongeBob SquarePants: Plankton's Robotic Revenge %}           | {% rauser SoLegga %}      | Action-Adventure, Third-Person Shooter |
 | {% ragamepic 15406, 130942, Transformers: Decepticons %}                                   | {% rauser bruhgamer %}    | Action-Adventure                       |
-| {% ragamepic 37939, 123595, ~Hack~ Pokémon Super Mystery Dungeon: Echoes of Yesterday %}   | {% rauser Chuji %}        | Dungeon Crawl, Roguelike               |
+| {% ragamepic 37939, 123595, <span class="tag"><span>Hack</span></span> Pokémon Super Mystery Dungeon: Echoes of Yesterday %}   | {% rauser Chuji %}        | Dungeon Crawl, Roguelike               |
 
 <a href="#toc">:top:</a>
 
@@ -279,13 +279,13 @@ toc: true
 | {% ragamepic 17980, 116597, Speed Racer %}                                                   | {% rauser HylianHero %}   | Arcade Racing               |
 | {% ragamepic 17769, 125770, Tintin: Destination Adventure %}                                 | {% rauser Jerdan %}       | 2.5D Platforming            |
 | {% ragamepic 27053, 113778, Yaku: Yuujou Dangi %}                                            | {% rauser DeeCee %}       | Visual Novel, Horror        |
-| {% ragamepic 38503, 129901, ~Hack~ CTR: St. Patrick's Day Racing %}                          | {% rauser BEXUS %}        | Kart Racing                 |
-| {% ragamepic 38549, 129459, ~Hack~ Crash Team Racing: Unlimited [Subset - USF Difficulty] %} | {% rauser BEXUS %}        | -                           |
-| {% ragamepic 33902, 114299, ~Hack~ Crash Team Racing: Unlimited %}                           | {% rauser BEXUS %}        | Kart Racing                 |
-| {% ragamepic 29322, 102292, ~Hack~ PSXFunkin' with Parappa %}                                | {% rauser Fraise %}       | -                           |
-| {% ragamepic 29055, 129940, ~Hack~ PSXFunkin: Lullaby Mod %}                                 | {% rauser Fraise %}       | -                           |
-| {% ragamepic 29004, 117386, ~Hack~ PSXFunkin: Mind Games %}                                  | {% rauser Fraise %}       | -                           |
-| {% ragamepic 26038, 139077, ~Hack~ PSXGarcello %}                                            | {% rauser Fraise %}       | Rhythm                      |
+| {% ragamepic 38503, 129901, <span class="tag"><span>Hack</span></span> CTR: St. Patrick's Day Racing %}                          | {% rauser BEXUS %}        | Kart Racing                 |
+| {% ragamepic 38549, 129459, <span class="tag"><span>Hack</span></span> Crash Team Racing: Unlimited [Subset - USF Difficulty] %} | {% rauser BEXUS %}        | -                           |
+| {% ragamepic 33902, 114299, <span class="tag"><span>Hack</span></span> Crash Team Racing: Unlimited %}                           | {% rauser BEXUS %}        | Kart Racing                 |
+| {% ragamepic 29322, 102292, <span class="tag"><span>Hack</span></span> PSXFunkin' with Parappa %}                                | {% rauser Fraise %}       | -                           |
+| {% ragamepic 29055, 129940, <span class="tag"><span>Hack</span></span> PSXFunkin: Lullaby Mod %}                                 | {% rauser Fraise %}       | -                           |
+| {% ragamepic 29004, 117386, <span class="tag"><span>Hack</span></span> PSXFunkin: Mind Games %}                                  | {% rauser Fraise %}       | -                           |
+| {% ragamepic 26038, 139077, <span class="tag"><span>Hack</span></span> PSXGarcello %}                                            | {% rauser Fraise %}       | Rhythm                      |
 
 <a href="#toc">:top:</a>
 
@@ -324,9 +324,9 @@ toc: true
 | {% ragamepic 36647, 129778, Crimson Room Reverse %}                                              | {% rauser TheScarletDevil %}            | -               |
 | {% ragamepic 19427, 124710, Street Supremacy %}                                                  | {% rauser Skiichi %} {% rauser ryoxd %} | Racing          |
 | {% ragamepic 25238, 078407, Tenchu: Time of the Assassins %}                                     | {% rauser WilHiteWarrior %}             | Stealth         |
-| {% ragamepic 38493, 129139, ~Homebrew~ Slender PSP %}                                            | {% rauser Dws18 %}                      | Survival Horror |
-| {% ragamepic 38398, 128286, ~Homebrew~ Syobon Action [Subset - Random Mode] %}                   | {% rauser TheScarletDevil %}            | -               |
-| {% ragamepic 38577, 129691, ~Homebrew~ The Embodiment of Scarlet Hair Portable: I'm Lovin' It %} | {% rauser TheScarletDevil %}            | -               |
+| {% ragamepic 38493, 129139, <span class="tag"><span>Homebrew</span></span> Slender PSP %}                                            | {% rauser Dws18 %}                      | Survival Horror |
+| {% ragamepic 38398, 128286, <span class="tag"><span>Homebrew</span></span> Syobon Action [Subset - Random Mode] %}                   | {% rauser TheScarletDevil %}            | -               |
+| {% ragamepic 38577, 129691, <span class="tag"><span>Homebrew</span></span> The Embodiment of Scarlet Hair Portable: I'm Lovin' It %} | {% rauser TheScarletDevil %}            | -               |
 
 <a href="#toc">:top:</a>
 
@@ -341,10 +341,10 @@ toc: true
 | {% ragamepic 3425, 112827, Romancing SaGa 3 %}                                                            | {% rauser Quenthel %} {% rauser carlosrhv %} | Sandbox, Turn-Based RPG |
 | {% ragamepic 1167, 129126, Sonic Blast Man %}                                                             | {% rauser Cnat %}                            | Beat 'em Up             |
 | {% ragamepic 38565, 129702, The Legend of Zelda: A Link to the Past [Subset - Low%] %}                    | {% rauser KiwiTaco %}                        | Action-Adventure        |
-| {% ragamepic 17542, 128302, ~Hack~ Banzai Mario World %}                                                  | {% rauser manurmad %}                        | 2D Platforming          |
-| {% ragamepic 27722, 129306, ~Hack~ Super Dram World %}                                                    | {% rauser manurmad %}                        | 2D Platforming          |
-| {% ragamepic 17132, 127228, ~Hack~ Super Mario /v/orld 2: Moot Point %}                                   | {% rauser Minish %}                          | 2D Platforming          |
-| {% ragamepic 38108, 125408, ~Hack~ The Mario's Travel 3 %}                                                | {% rauser Hexadigital %}                     | 2D Platforming          |
+| {% ragamepic 17542, 128302, <span class="tag"><span>Hack</span></span> Banzai Mario World %}                                                  | {% rauser manurmad %}                        | 2D Platforming          |
+| {% ragamepic 27722, 129306, <span class="tag"><span>Hack</span></span> Super Dram World %}                                                    | {% rauser manurmad %}                        | 2D Platforming          |
+| {% ragamepic 17132, 127228, <span class="tag"><span>Hack</span></span> Super Mario /v/orld 2: Moot Point %}                                   | {% rauser Minish %}                          | 2D Platforming          |
+| {% ragamepic 38108, 125408, <span class="tag"><span>Hack</span></span> The Mario's Travel 3 %}                                                | {% rauser Hexadigital %}                     | 2D Platforming          |
 
 <a href="#toc">:top:</a>
 

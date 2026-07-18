@@ -17,7 +17,7 @@ It has already been two years since our last rollout huh? Two years ago, we were
 
 A massive thank you to the Dolphin team, the Rollout team for organizing the rollout, the Writing team for reviewing every set, and of course all of our fantastic developers who have made these sets for all your childhood favorites! Be sure to leave them a nice comment, they deserve it
 
-Come hang out in the ⁠`#🐬｜wii-channel` to discuss all the games or the Wii launch event that will be running for the coming 4 months!
+Thanks to everyone who made the Wii rollout a success, and though the event has concluded folks can still continue the conversation at the `#🐬｜wii-channel` on Discord.
 
 Useful Links
 - [Wii Details](https://retroachievements.org/forums/topic/35008)
@@ -27,7 +27,7 @@ Useful Links
 
 # Set Design Team
 
-We would like to introduce a new team to RetroAchievements, that will work on upping our quality even further than it currently is as well as bridging the gap between Developers and players. Introducing, the @Set Designer team!
+We would like to introduce a new team to RetroAchievements that will work on upping our quality even further than it currently is as well as bridging the gap between Developers and players. Introducing, the @Set Designer team!
 
 This team, starting with 16 Developers and 13 Players from all across the community with all kinds of different interests and skill levels, will work together with each other and the community to:
 
@@ -72,7 +72,7 @@ Odelot's forks (required for achievements)
 
 Multiset is a feature that has been in development for over a year that allows you to earn subset achievements without requiring a patched ROM. This has been a very highly requested feature for several years. You will need RetroArch 1.22.1+ or the absolute latest version of RALibRetro. This is a bleeding edge feature that requires a complete emulator upgrade as well as the latest cores. Only the latest emulators can talk to our back-end correctly to partake in multiset functionality.
 
-More details and multiset can be found [here](https://retroachievements.org/forums/topic/34021).
+More details on multiset can be found [here](https://retroachievements.org/forums/topic/34021).
 
 ## Hash Compatibility Testing
 
@@ -84,7 +84,7 @@ The QA-team is happy to announce a new process for hash compatibility testing! T
 | {% ragamepic 790, 104260, Pokemon Ruby %}                    | Game Boy Advance | German version      | {% rauserpic Turaltay %}    | June 15, 2026 |
 | {% ragamepic 2403, 117162, Final Fantasy Adventure %}        | Game Boy         | DX enhancement      | {% rauserpic Monkeyboy34 %} | July 12, 2026 |
 | {% ragamepic 16624, 099369, Time Hollow %}                   | Nintendo DS      | Undub               | {% rauserpic KiteKizoku %}  | July 13, 2026 |
-| {% ragamepic 2255, 028008, Mega Man V %}                     | Game Boy         | Updated DX patch    | {% rauserpic Manster173 %}  | July 14, 2026 |
+| {% ragamepic 2255, 028008, Mega Man V %}                     | Game Boy         | Updated DX patch    | {% rauserpicalt Manster173, Manster17 %}  | July 14, 2026 |
 
 
 More information can be found in the docs at [Player Compatibility Testing](https://docs.retroachievements.org/guidelines/content/player-compatibility-testing.html).
@@ -117,21 +117,36 @@ Type of content we're looking for:
 
 If you're interested in making content for the channel reach out to {% rauserpicalt SnowPin, Snow %} via DM!
 
-## Developer Compliance - TODO
+## Developer Compliance
 
 ### Set Approvals
 
-- [River King: A Wonderful Journey [Subset - Big Fish]](https://retroachievements.org/game/24500?set=38426)
-- [Mini-Putt [Subset - Ace Putter]](https://retroachievements.org/game/8090?set=38480)
-- [Auto Modellista](https://retroachievements.org/game/28615) USA Regional Variant
+- [Animal Crossing Calculator](https://retroachievements.org/game/27463)
+- [Animal Crossing Clock](https://retroachievements.org/game/22457)
+- [<span class="tag"><span>Hack</span></span> Skylanders: Spyro's Adventure - Nightmare Mode](https://retroachievements.org/game/38739)
 
 ### Set Updates
 
-| Set                           | Achievement                                           | Description                                                       | Update                                                      |
-| ----------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------- |
-| {% ragamepic 1448, 024519, %} | {% raachpic 29629, 528699, Pointful, Yet Pointless %} | Collect a total of over 150 Bonus Balls - maximum of 99 per stage | Demoted for Unwelcome Concept: Pointless Excessive Grinding |
-| {% ragamepic 6442, 060231, %} | {% raachpic 45265, 45996, Badaboum ! %}               | Let him get a rest (inactive for 60 seconds)                      | Demoted for Unwelcome Concept: Zero Effort Without Purpose  |
-| {% ragamepic 8601, 065893, %} | All Achievements                                      |                                                                   | Demoted for Set Plagiarism                                  |
+| Set                            | Achievement                                                    | Description                                                                                                     | Update                                                        |
+| ------------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| {% ragamepic 1446, 126543, %}  | {% raachpic 3219, 321924, What Are You Doing Up There? %}      | Take Mario to the top of the screen in World 1-2                                                                | Demoted for Unwelcome Concept: Achievement Spam               |
+| {% ragamepic 471, 085860, %}   | {% raachpic 6536, 376368, Legend of the Seven Stars %}         | Watch the opening movie                                                                                         | Demoted for Unwelcome Concept: Zero Effort Without Purpose    |
+| {% ragamepic 575, 091410, %}   | {% raachpic 8740, 144708, Jaywalker %}                         | Force a driver to stop their car                                                                                | Demoted for Unwelcome Concept: Zero Effort Without Purpose    |
+| {% ragamepic 2171, 116617, %}  | {% raachpic 15231, 102773, Set Like Game %}                    | Play a game that lasts 24 points or more                                                                        | Demoted for Unwelcome Concept: Playing Poorly Without Purpose |
+| {% ragamepic 1287, 026971, %}  | {% raachpic 26029, 26520, Newborn Vampire %}                   | Level up to reach level 2, the first of many.                                                                   | Demoted for Unwelcome Concept: Achievement Spam               |
+| {% ragamepic 165, 055707, %}   | {% raachpic 37431, 38325, The Disintegrator %}                 | Get Disintegrated                                                                                               | Demoted for Unwelcome Concept: Playing Poorly Without Purpose |
+| {% ragamepic 165, 055707, %}   | {% raachpic 37432, 38326, The wrong mission %}                 | This moment, when you realize that you don't know how to fix a reactor                                          | Demoted for Unwelcome Concept: Playing Poorly Without Purpose |
+| {% ragamepic 165, 055707, %}   | {% raachpic 37433, 38327, The sacrifice %}                     | At least, you have taken down these aliens with you                                                             | Demoted for Unwelcome Concept: Playing Poorly Without Purpose |
+| {% ragamepic 35, 077469, %}    | {% raachpic 44559, 45380, A Token Effort %}                    | Collect 50 of each timer based token {Across games}                                                             | Demoted for Unwelcome Concept: Pointless Excessive Grinding   |
+| {% ragamepic 11310, 058584, %} | {% raachpic 101761, 109284, Courage and Stupidity %}           | Obtain the Sonic Vision Force with Jack.                                                                        | Demoted for Unwelcome Concept: Achievement Spam               |
+| {% ragamepic 11344, 049224, %} | {% raachpic 105105, 114731, Spoiled Scroll %}                  | You squandered your only town portal - try a different button after you read the scroll!                        | Demoted for Unwelcome Concept: Playing Poorly Without Purpose |
+| {% ragamepic 724, 126545, %}   | {% raachpic 108181, 120662, Gambling Addict %}                 | Without resetting and without leaving the building, win 3,000 coins from slots at the Celadon City Game Corner. | Demoted for Unwelcome Concept: Pointless Excessive Grinding   |
+| {% ragamepic 4187, 072505, %}  | {% raachpic 134555, 149079, The Duck Avenger (No Passwords) %} | You really are a superhero! You cleared the entire game (Dimension D included) without losing lives!            | Demoted for Unwelcome Concept: Requires Complete Perfection   |
+| {% ragamepic 26471, 114502, %} | All Achievements                                               |                                                                                                                 | Unwelcome Game Type: Games That Lack Gameplay                 |
+| {% ragamepic 22457, 107675, %} | All Achievements                                               |                                                                                                                 | Unwelcome Game Type: Games That Lack Gameplay                 |
+| {% ragamepic 14722, 065895, %} | All Achievements                                               |                                                                                                                 | Demoted for Set Plagiarism                                    |
+| {% ragamepic 7821, 071443, %}  | All Achievements                                               |                                                                                                                 | Demoted for Unwelcome Concept: Compilations and Multi-Carts   |
+
 
 ## Site Updates
 
@@ -230,7 +245,7 @@ This is a minor release, mostly with QoL improvements for contributors / team me
     </thead>
     <tbody>
         <tr>
-            <td rowspan="4" width=250>{% rauserpic ladynadiad %}</td>
+            <td rowspan="4" width=250>{% rauserpicalt LadyNadia, ladynadiad %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 4919, 053956, Quest: Brian's Journey (GBC) %}</td>
@@ -265,7 +280,7 @@ This is a minor release, mostly with QoL improvements for contributors / team me
     </thead>
     <tbody>
         <tr>
-            <td rowspan="4" width=250>{% rauserpic ladynadiad %}</td>
+            <td rowspan="4" width=250>{% rauserpicalt LadyNadia, ladynadiad %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 4919, 053956, Quest: Brian's Journey (GBC) %}</td>
@@ -343,7 +358,7 @@ This is a minor release, mostly with QoL improvements for contributors / team me
             <td colspan="1">{% ragamepic 34903, 130315, Skylanders: Trap Team (Wii) %}</td>
         </tr>
         <tr>
-            <td rowspan="2" width=250>{% rauserpic PS2Hagrid %}</td>
+            <td rowspan="2" width=250>{% rauserpicalt PS2Hagrid, Player1041 %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 34585, 128330, Chuck E. Cheese's Party Games (Wii) %}</td>
@@ -359,7 +374,7 @@ This is a minor release, mostly with QoL improvements for contributors / team me
     </thead>
     <tbody>
         <tr>
-            <td rowspan="3" width=250>{% rauserpic PS2Hagrid %}</td>
+            <td rowspan="3" width=250>{% rauserpicalt PS2Hagrid, Player1041 %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 20965, 125276, Frogger: The Great Quest (PS2) %}</td>
@@ -469,7 +484,7 @@ This is a minor release, mostly with QoL improvements for contributors / team me
             <td rowspan="3" width=250>{% rauserpic Verros %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 25211, 092276, ~Homebrew~ Turkey Runner %}</td>
+            <td colspan="1">{% ragamepic 25211, 092276, <span class="tag"><span>Homebrew</span></span> Turkey Runner %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 37988, 127329, Glitch Dungeon %}</td>
@@ -478,16 +493,16 @@ This is a minor release, mostly with QoL improvements for contributors / team me
             <td rowspan="3" width=250>{% rauserpic quirky0992 %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 37695, 123177, ~Homebrew~ With the Last Moonbeam %}</td>
+            <td colspan="1">{% ragamepic 37695, 123177, <span class="tag"><span>Homebrew</span></span> With the Last Moonbeam %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 9540, 121219, ~Homebrew~ POWDER %}</td>
+            <td colspan="1">{% ragamepic 9540, 121219, <span class="tag"><span>Homebrew</span></span> POWDER %}</td>
         </tr>
         <tr>
             <td rowspan="3" width=250>{% rauserpic Gudra %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 29755, 096162, ~Homebrew~ Cross Shuriken %}</td>
+            <td colspan="1">{% ragamepic 29755, 096162, <span class="tag"><span>Homebrew</span></span> Cross Shuriken %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 29908, 121248, ARtillery %}</td>
@@ -529,7 +544,7 @@ This is a minor release, mostly with QoL improvements for contributors / team me
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2" width=250>{% rauserpic Cnat %}</td>
+            <td rowspan="2" width=250>{% rauserpicalt Cnat, SrLeo12 %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 1167, 129126, Sonic Blast Man (SNES) %}</td>

@@ -39,7 +39,7 @@ toc_float: false
 <div class="section-link">
     <div class="section-content">
         <h1 id="community-submitted-content">Community Submitted Content</h1>
-        <p>RANews thrives on community submitted content, Wish This Set, Play This Set, and RAdvantage are only possible if you allow it to be and send us your submissions for those articles. If you have any contributions that you would like to see featured in these articles, please send them in a direct message to {% rauser RANews %}.</p>
+        <p>RANews thrives on community submitted content. Wish This Set, Play This Set, and RAdvantage are only possible if you allow it to be and send us your submissions for those articles. If you have any contributions that you would like to see featured in these articles, please send them in a direct message to {% rauser RANews %}.</p>
     </div>
 </div>
 <div class="section-link">
@@ -90,18 +90,11 @@ toc_float: false
         </div>
     </a>
 </div>
-<div class="section-link">
-    <a href="./play-this-set.html">
-        <div class="section-content">
-            <h1 id="play-this-set">Play This Set---</h1>
-            <p>Looking for some great game recommendations? Play This Set features writeups submitted by the community about existing sets and why you should give them a try. Whether you're looking to discover a new favorite or just need a reason to play something new, these writeups are sure to provide plenty of inspiration. So dive in, and get ready to take on a new set!</p>
-        </div>
-    </a>
-</div>
+
 <div class="section-link">
     <a href="./wish-this-set.html">
         <div class="section-content">
-            <h1 id="wish-this-set">Wish This Set---</h1>
+            <h1 id="wish-this-set">Wish This Set</h1>
             <p>In this section, users share their thoughts on which games they would love to see have sets created for. Whether it's a beloved classic or an underrated gem, we want to hear about it. If you are a developer looking for a new set to work on, then look no further than right here.</p>
         </div>
     </a>
@@ -110,7 +103,7 @@ toc_float: false
     <a href="./raguide.html">
         <div class="section-content">
             <h1 id="raguide">RAGuide</h1>
-            <p>Build the farm of your dreams with the latest RAGuide for Harvest Moon on the SNES. Maintain crops, livestock, and friendships, throughout the changing seasons as you transform a neglected homestead into a your dream farm and master the set for this beloved game.</p>
+            <p>Build the farm of your dreams with the latest RAGuide for Harvest Moon on the SNES. Maintain crops, livestock, and friendships throughout the changing seasons as you transform a neglected homestead into your dream farm and master the set for this beloved game.</p>
         </div>
     </a>
 </div>
@@ -197,13 +190,66 @@ toc_float: false
 </div>
 <div class="section-link">
     <div class="section-content">
-        <h1 id="acknowledgments">Acknowledgments---</h1>
+        <h1 id="acknowledgments">Acknowledgments</h1>
         <p>The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.</p>
         <table><tbody>
             <tr>
                 <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
-                <td>{% rauserpic authorblues %}</td>
                 <td>{% rauserpic Bendyhuman %}</td>
+                <td>{% rauserpic Brandovsky %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic cbrx %}</td>
+                <td>{% rauserpic DevCompliance %}</td>
+                <td>{% rauserpic dumbFKNidiot %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt EEez, Yoshinohara %}</td>
+                <td>{% rauserpic Fortuna332 %}</td>
+                <td>{% rauserpic Frenchy70 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic gamer097 %}</td>
+                <td>{% rauserpic Hotscrock %}</td>
+                <td>{% rauserpicalt Igrek666, diablo666 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic MrOwnership %}</td>
+                <td>{% rauserpic Nepiki %}</td>
+                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Notdog1996 %}</td>
+                <td>{% rauserpic Nydaxn %}</td>
+                <td>{% rauserpicalt Leodis, Obliv %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic pinguupinguu %}</td>
+                <td>{% rauserpic QATeam %}</td>
+                <td>{% rauserpic RANews %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Raykusen %}</td>
+                <td>{% rauserpic RetroGameMaster %}</td>
+                <td>{% rauserpic Sines %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt SnowPin, Snow %}</td>
+                <td>{% rauserpic SporyTike %}</td>
+                <td>{% rauserpic StingX2 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt tele, televandalist %}</td>
+                <td>{% rauserpic TimeCrush %}</td>
+                <td>{% rauserpic tomotakino %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic vikdarkbomb %}</td>
+                <td>{% rauserpic wallmasterz %}</td>
+                <td>{% rauserpic Whynot15 %}</td>
+            </tr>
+            <tr>
+                <td colspan="3">{% rauserpic Xymjak %}</td>
             </tr>
         </tbody></table>
     </div>

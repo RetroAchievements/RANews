@@ -59,11 +59,11 @@ category: Spot The Difference
     <tr>
         <td>{% rauserpic Whoops %}</td>
         <td>{% rauserpic RetroVanny %}</td>
-        <td>{% rauserpic MariNyan %}</td>
+        <td>{% rauserpicalt MariNyan, ToveNMore %}</td>
     </tr>
     <tr>
         <td>{% rauserpic AweStriker %}</td>
-        <td>{% rauserpic AmethystLightTV %}</td>
+        <td>{% rauserpicalt AmethystLightTV, Knifemaker1 %}</td>
         <td>{% rauserpic TroffleWoffles %}</td>
     </tr>
     <tr>

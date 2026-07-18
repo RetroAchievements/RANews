@@ -136,7 +136,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li value="1">{% rauserpic WanderingHeiho %} - Points 83</li>
                     <li value="2">{% rauserpic Foxkazm %} - Points 74</li>
                     <li value="2">{% rauserpic Poolsharker %} - Points 74</li>
-                    <li value="2">{% rauserpic Riley101 %} - Points 74</li>
+                    <li value="2">{% rauserpicalt Riley101, rileythepegasus %} - Points 74</li>
                     <li value="5">{% rauserpic PsyXchO %} - Points 73</li>
                     <li value="5">{% rauserpic Tyrota %} - Points 73</li>
                     <li value="5">{% rauserpic Skarm137 %} - Points 73</li>
@@ -187,7 +187,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li value="1">{% rauserpic Griffin %} - 9 Points</li>
                     <li value="1">{% rauserpic risingsun65 %} - 9 Points</li>
                     <li value="4">{% rauserpic Foolacetic %} - 8 Points</li>
-                    <li value="4">{% rauserpic HOOVEDOMEN %} - 8 Points</li>
+                    <li value="4">{% rauserpicalt HOOVEDOMEN, ThatOneEnderr %} - 8 Points</li>
                     <li value="4">{% rauserpic doctormiawoo %} - 8 Points</li>
                     <li value="4">{% rauserpic TheJewker %} - 8 Points</li>
                     <li value="4">{% rauserpic Daroachie %} - 8 Points</li>
@@ -387,7 +387,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     </thead>
                     <tbody>
                         <tr>
-                            <td rowspan=2>{% rauserpic NanZyT48 %}</td>
+                            <td rowspan=2>{% rauserpicalt NanZyT48, Hombreton %}</td>
                             <td colspan=2>{% ragamepic 7444, 080776, J.J. & Jeff | Kato-chan Ken-chan %}</td>
                         </tr>
                         <tr>
@@ -415,13 +415,13 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                         </tr>
                         <tr>
                             <td>{% rauserpic Dyhalto %}</td>
-                            <td>{% rauserpic EEez %}</td>
+                            <td>{% rauserpicalt EEez, Yoshinohara %}</td>
                             <td>{% rauserpic HungryWalnut %}</td>
                         </tr>
                         <tr>
                             <td>{% rauserpic Jurbadis %}</td>
                             <td>{% rauserpic Knav %}</td>
-                            <td>{% rauserpic LadyNadia %}</td>
+                            <td>{% rauserpicalt LadyNadia, ladynadiad %}</td>
                         </tr>
                         <tr>
                             <td>{% rauserpic Mindhral %}</td>
@@ -440,11 +440,11 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                         </tr>
                         <tr>
                             <td>{% rauserpic Tanukitsune %}</td>
-                            <td>{% rauserpic TrashPaddy %}</td>
+                            <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
                             <td>{% rauserpic Trickcat %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic VeronicaVyxie %}</td>
+                            <td>{% rauserpicalt VeronicaVyxie, MarioKness %}</td>
                             <td colspan="2">{% rauserpic Xymjak %}</td>
                         </tr>
                     </tbody>

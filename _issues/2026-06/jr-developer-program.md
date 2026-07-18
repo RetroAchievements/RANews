@@ -7,29 +7,29 @@ title: Jr. Developer Program
 toc: false
 ---
 
-Every month, we would like to look back on the sets developed by our junior developers, as well as giving you a short introduction on the set in question. 
+Check out recent sets created by our Junior Developers. Consider the [Junior Developer Program](https://docs.retroachievements.org/developer-docs/jr-dev-rules.html#junior-developer-program-rules) if you are interested in learning how to create achievement sets.
 
 # Jr. Dev Sets <!-- ⭐ -->
 
-| Grad | Set                                                                                       | Jr. Developer                   | Reviewer                         | Review Date |
-| ---- | ----------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------- | ----------- |
-|      | {% ragamepic 14292, 103779, Puyo Puyo %}                                                  | {% rauserpic howlifeworks %}    | {% rauserpic Pilzkopf %}         | 5/2/2026    |
-|      | {% ragamepic 11889, 083321, WWF Superstars %}                                             | {% rauserpic Kortiki %}         | {% rauserpic lonegraywolf2000 %} | 5/2/2026    |
-| ⭐    | {% ragamepic 22718, 124796, PoPoLoCrois Monogatari II %}                                  | {% rauserpic Fraise %}          | {% rauserpic CySlaytor %}        | 5/8/2026    |
-|      | {% ragamepic 8561, 124248, Winx Club %}                                                   | {% rauserpic JosephTheCat %}    | {% rauserpic WheelsAndWhirls %}  | 5/9/2026    |
-|      | {% ragamepic 27017, 119339, World Rally 2: Twin Racing %}                                 | {% rauserpic neolukas86 %}      | {% rauserpic AaronDobbe %}       | 5/9/2026    |
-|      | {% ragamepic 1359, 092688, G-Police %}                                                    | {% rauserpic VSilverwings %}    | {% rauserpic CySlaytor  %}       | 5/11/2026   |
-|      | {% ragamepic 16576, 108660, SpongeBob SquarePants: Plankton's Robotic Revenge %}          | {% rauserpic SoLegga %}         | {% rauserpic Pilzkopf %}         | 5/12/2026   |
-|      | {% ragamepic 15406, 130942, Transformers: Decepticons %}                                  | {% rauserpic bruhgamer %}       | {% rauserpic lonegraywolf2000 %} | 5/13/2026   |
-|      | {% ragamepic 18403, 072081, Hannah Montana: The Movie %}                                  | {% rauserpic jtjammer %}        | {% rauserpic CySlaytor %}        | 5/14/2026   |
-|      | {% ragamepic 37939, 123595, ~Hack~ PokÃ©mon Super Mystery Dungeon: Echoes of Yesterday %} | {% rauserpic Chuji %}           | {% rauserpic TheMysticalOne %}   | 5/15/2026   |
-|      | {% ragamepic 17980, 116597, Speed Racer %}                                                | {% rauserpic HylianHero %}      | {% rauserpic WheelsAndWhirls %}  | 5/17/2026   |
-|      | {% ragamepic 3694, 112944, Dragon Ball Z: Goku Hishouden %}                               | {% rauserpic Zyos %}            | {% rauserpic zaydoc %}           | 5/17/2026   |
-| ⭐    | {% ragamepic 19116, 119377, Robot Alchemic Drive: RAD %}                                  | {% rauserpic stoneskipper42 %}  | {% rauserpic TheMysticalOne %}   | 5/19/2026   |
-|      | {% ragamepic 19104, 116191, Sanvein %}                                                    | {% rauserpic Orbi %}            | {% rauserpic Pilzkopf %}         | 5/22/2026   |
-|      | {% ragamepic 37807, 124958, ~Homebrew~ Chicken of the Farm %}                             | {% rauserpic DeargDoom %}       | {% rauserpic Yanbetari %}        | 5/24/2026   |
-|      | {% ragamepic 32064, 125317, Alvin and the Chipmunks %}                                    | {% rauserpic Rareware %}        | {% rauserpic Layton %}           | 5/24/2026   |
-|      | {% ragamepic 3489, 106573, Shenmue II %}                                                  | {% rauserpic fluttershylove8 %} | {% rauserpic suspect15 %}        | 5/26/2026   |
+| Grad | Set                                                                                                                          | Jr. Developer                   | Reviewer                                         | Review Date |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------ | ----------- |
+|      | {% ragamepic 14292, 103779, Puyo Puyo %}                                                                                     | {% rauserpic howlifeworks %}    | {% rauserpic Pilzkopf %}                         | 5/2/2026    |
+|      | {% ragamepic 11889, 083321, WWF Superstars %}                                                                                | {% rauserpic Kortiki %}         | {% rauserpicalt lonegraywolf2000, wolfman2000 %} | 5/2/2026    |
+| ⭐    | {% ragamepic 22718, 124796, PoPoLoCrois Monogatari II %}                                                                     | {% rauserpic Fraise %}          | {% rauserpic CySlaytor %}                        | 5/8/2026    |
+|      | {% ragamepic 8561, 124248, Winx Club %}                                                                                      | {% rauserpic JosephTheCat %}    | {% rauserpic WheelsAndWhirls %}                  | 5/9/2026    |
+|      | {% ragamepic 27017, 119339, World Rally 2: Twin Racing %}                                                                    | {% rauserpic neolukas86 %}      | {% rauserpic AaronDobbe %}                       | 5/9/2026    |
+|      | {% ragamepic 1359, 092688, G-Police %}                                                                                       | {% rauserpic VSilverwings %}    | {% rauserpic CySlaytor  %}                       | 5/11/2026   |
+|      | {% ragamepic 16576, 108660, SpongeBob SquarePants: Plankton's Robotic Revenge %}                                             | {% rauserpic SoLegga %}         | {% rauserpic Pilzkopf %}                         | 5/12/2026   |
+|      | {% ragamepic 15406, 130942, Transformers: Decepticons %}                                                                     | {% rauserpic bruhgamer %}       | {% rauserpicalt lonegraywolf2000, wolfman2000 %} | 5/13/2026   |
+|      | {% ragamepic 18403, 072081, Hannah Montana: The Movie %}                                                                     | {% rauserpic jtjammer %}        | {% rauserpic CySlaytor %}                        | 5/14/2026   |
+|      | {% ragamepic 37939, 123595, <span class="tag"><span>Hack</span></span> Pokémon Super Mystery Dungeon: Echoes of Yesterday %} | {% rauserpic Chuji %}           | {% rauserpic TheMysticalOne %}                   | 5/15/2026   |
+|      | {% ragamepic 17980, 116597, Speed Racer %}                                                                                   | {% rauserpic HylianHero %}      | {% rauserpic WheelsAndWhirls %}                  | 5/17/2026   |
+|      | {% ragamepic 3694, 112944, Dragon Ball Z: Goku Hishouden %}                                                                  | {% rauserpicalt Zyos, Yukizz %} | {% rauserpic zaydoc %}                           | 5/17/2026   |
+| ⭐    | {% ragamepic 19116, 119377, Robot Alchemic Drive: RAD %}                                                                     | {% rauserpic stoneskipper42 %}  | {% rauserpic TheMysticalOne %}                   | 5/19/2026   |
+|      | {% ragamepic 19104, 116191, Sanvein %}                                                                                       | {% rauserpic Orbi %}            | {% rauserpic Pilzkopf %}                         | 5/22/2026   |
+|      | {% ragamepic 37807, 124958, <span class="tag"><span>Homebrew</span></span> Chicken of the Farm %}                            | {% rauserpic DeargDoom %}       | {% rauserpic Yanbetari %}                        | 5/24/2026   |
+|      | {% ragamepic 32064, 125317, Alvin and the Chipmunks %}                                                                       | {% rauserpic Rareware %}        | {% rauserpic Layton %}                           | 5/24/2026   |
+|      | {% ragamepic 3489, 106573, Shenmue II %}                                                                                     | {% rauserpic fluttershylove8 %} | {% rauserpic suspect15 %}                        | 5/26/2026   |
 
 # Reviewer Stats
 
@@ -46,15 +46,15 @@ Alongside the Junior Developers are the Code Reviewers, with their never ending 
 
 <br>
 
-| Reviewer                         | Sets Reviewed |
-| -------------------------------- | ------------- |
-| {% rauserpic Pilzkopf %}         | 3             |
-| {% rauserpic lonegraywolf2000 %} | 2             |
-| {% rauserpic CySlaytor %}        | 3             |
-| {% rauserpic WheelsAndWhirls %}  | 2             |
-| {% rauserpic TheMysticalOne %}   | 2             |
-| {% rauserpic AaronDobbe %}       | 1             |
-| {% rauserpic zaydoc %}           | 1             |
-| {% rauserpic Yanbetari %}        | 1             |
-| {% rauserpic Layton %}           | 1             |
-| {% rauserpic suspect15 %}        | 1             |
+| Reviewer                                         | Sets Reviewed |
+| ------------------------------------------------ | ------------- |
+| {% rauserpic Pilzkopf %}                         | 3             |
+| {% rauserpicalt lonegraywolf2000, wolfman2000 %} | 2             |
+| {% rauserpic CySlaytor %}                        | 3             |
+| {% rauserpic WheelsAndWhirls %}                  | 2             |
+| {% rauserpic TheMysticalOne %}                   | 2             |
+| {% rauserpic AaronDobbe %}                       | 1             |
+| {% rauserpic zaydoc %}                           | 1             |
+| {% rauserpic Yanbetari %}                        | 1             |
+| {% rauserpic Layton %}                           | 1             |
+| {% rauserpic suspect15 %}                        | 1             |

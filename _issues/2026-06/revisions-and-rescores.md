@@ -101,7 +101,7 @@ toc: true
 
 | Game                                                                | Revision Author               | Genre          |
 | ------------------------------------------------------------------- | ----------------------------- | -------------- |
-| {% ragamepic 9595, 123771, ~Hack~ Pokémon Adventure: Red Chapter %} | {% rauser ChaoticAdventure %} | Turn-Based RPG |
+| {% ragamepic 9595, 123771, <span class="tag"><span>Hack</span></span> Pokémon Adventure: Red Chapter %} | {% rauser ChaoticAdventure %} | Turn-Based RPG |
 
 <a href="#toc">:top:</a>
 
