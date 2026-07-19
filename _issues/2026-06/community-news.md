@@ -7,6 +7,24 @@ title: Community News
 toc: true
 ---
 
+## Standalone Support Guidelines
+
+An official update regarding the standalone process has been put in place. With this, we hope to provide more clarity on how our internal decision making works, as well as make it more clear what standalone proposals we are hoping to see come in that will have a higher chance of success.
+
+You can read up on the complete guidelines here: [https://docs.retroachievements.org/general/standalone-support.html](https://docs.retroachievements.org/general/standalone-support.html)
+
+## Softcore Renaming
+
+"Softcore Mode" has been renamed to "Casual Mode". "Hardcore" is already a well-known term in gaming vocabulary even outside RA, featured prominently in games like Diablo. However, we've gotten in hot water with integration devs who are afraid to put the word "Softcore" in their apps (due to app store review), as this term is most commonly associated with adult content.
+
+There are no plans to change Hardcore Mode naming.
+
+## Media Team
+
+Screenshot beta feature is back online! As a result, we have created a a `@MediaTeam`, who are overlooking the queue of incoming submissions. DIscord now has a `⁠📸｜screenshot-help channel` that is primarily for requesting help for screenshots before uploading them, not for submitting them. The beta has been expanded with many new features for both the Media Team and users to follow the guidelines we've set up.
+
+Check out the Screenshot Guidelines for more details: [https://docs.retroachievements.org/guidelines/content/screenshot-guidelines.html](https://docs.retroachievements.org/guidelines/content/screenshot-guidelines.html)
+
 ## Wii Is Here!!
 
 Wii are extremely happy to welcome you to our biggest rollout ever with over 180 sets! RetroAchievements is proud to announce support for our 53rd console, the Nintendo Wii!
@@ -48,7 +66,7 @@ We are looking forward to this new era of RetroAchievements and community involv
 
 Introducing Emu4VitaPlus, an emulator frontend for the PlayStation Vita!
 
-This is an emulator frontend based on the Libretro API, meaning that multiple of the cores you already use to play games with are available, such as all Nintendo handheld devices up until Game Boy Advance, NES/SNES, the Mega Drive, PC Engine, and more. Likewise, most essential features like fastforward and overlays/shaders are available for you to mess around with.
+This is an emulator frontend based on the Libretro API, meaning that multiple of the cores you already use to play games with are available, such as all Nintendo handheld devices up until Game Boy Advance, NES/SNES, the Mega Drive, PC Engine, and more. Likewise, most essential features like fast forward and overlays/shaders are available for you to mess around with.
 
 To get this working on your Vita, you do need to hack it by putting VitaSDK on it. You can find the full instructions on how to do so on their [Github](https://github.com/noword/Emu4VitaPlus/blob/master/README.en.md).
 
@@ -78,13 +96,13 @@ More details on multiset can be found [here](https://retroachievements.org/forum
 
 The QA-team is happy to announce a new process for hash compatibility testing! This allows users to help test hash compatibility for existing sets. You can work with the developer on testing new hashes while mastering the set to verify compatibility.
 
-| Game                                                         | Console          | Hash Type           | Tester                      | Link Date     |
-| ------------------------------------------------------------ | ---------------- | ------------------- | --------------------------- | ------------- |
-| {% ragamepic 4911, 060996, Ghost Trick: Phantom Detective %} | Nintendo DS      | Russian translation | {% rauserpic Shmelyoff %}   | June 11, 2026 |
-| {% ragamepic 790, 104260, Pokemon Ruby %}                    | Game Boy Advance | German version      | {% rauserpic Turaltay %}    | June 15, 2026 |
-| {% ragamepic 2403, 117162, Final Fantasy Adventure %}        | Game Boy         | DX enhancement      | {% rauserpic Monkeyboy34 %} | July 12, 2026 |
-| {% ragamepic 16624, 099369, Time Hollow %}                   | Nintendo DS      | Undub               | {% rauserpic KiteKizoku %}  | July 13, 2026 |
-| {% ragamepic 2255, 028008, Mega Man V %}                     | Game Boy         | Updated DX patch    | {% rauserpicalt Manster173, Manster17 %}  | July 14, 2026 |
+| Game                                                         | Console          | Hash Type           | Tester                                   | Link Date     |
+| ------------------------------------------------------------ | ---------------- | ------------------- | ---------------------------------------- | ------------- |
+| {% ragamepic 4911, 060996, Ghost Trick: Phantom Detective %} | Nintendo DS      | Russian translation | {% rauserpic Shmelyoff %}                | June 11, 2026 |
+| {% ragamepic 790, 104260, Pokemon Ruby %}                    | Game Boy Advance | German version      | {% rauserpic Turaltay %}                 | June 15, 2026 |
+| {% ragamepic 2403, 117162, Final Fantasy Adventure %}        | Game Boy         | DX enhancement      | {% rauserpic Monkeyboy34 %}              | July 12, 2026 |
+| {% ragamepic 16624, 099369, Time Hollow %}                   | Nintendo DS      | Undub               | {% rauserpic KiteKizoku %}               | July 13, 2026 |
+| {% ragamepic 2255, 028008, Mega Man V %}                     | Game Boy         | Updated DX patch    | {% rauserpicalt Manster173, Manster17 %} | July 14, 2026 |
 
 
 More information can be found in the docs at [Player Compatibility Testing](https://docs.retroachievements.org/guidelines/content/player-compatibility-testing.html).
