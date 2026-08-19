@@ -31,7 +31,7 @@ toc: true
         <tr>
             <td><br><a href="../img/SpotTheDifferenceAnswers/2026-04.png"><img src="../img/SpotTheDifferenceAnswers/2026-04.png" width="400"></a></td>
             <td><br><a href="../img/SpotTheDifferenceAnswers/2026-05.png"><img src="../img/SpotTheDifferenceAnswers/2026-05.png" width="400"></a></td>
-            <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2026-06.png"><img src="../img/SpotTheDifferenceAnswers/2026-06.png" width="400"></a></td> -->
+            <td><br><a href="../img/SpotTheDifferenceAnswers/2026-06.png"><img src="../img/SpotTheDifferenceAnswers/2026-06.png" width="400"></a></td>
         </tr>
         <thead>
             <tr>
