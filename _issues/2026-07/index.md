@@ -107,6 +107,14 @@ toc_float: false
     </a>
 </div>
 <div class="section-link">
+    <a href="./wish-this-set.html">
+        <div class="section-content">
+            <h1 id="wish-this-set">Wish This Set</h1>
+            <p>In this section, users share their thoughts on which games they would love to see have sets created for. Whether it's a beloved classic or an underrated gem, we want to hear about it. If you are a developer looking for a new set to work on, then look no further than right here.</p>
+        </div>
+    </a>
+</div>
+<div class="section-link">
     <a href="./raguide.html">
         <div class="section-content">
             <h1 id="raguide">RAGuide</h1>
@@ -197,13 +205,83 @@ toc_float: false
 </div>
 <div class="section-link">
     <div class="section-content">
-        <h1 id="acknowledgments">Acknowledgments---</h1>
+        <h1 id="acknowledgments">Acknowledgments</h1>
         <p>The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.</p>
         <table><tbody>
             <tr>
+                <td>{% rauserpic ABCDEFGHI %}</td>
                 <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
+                <td>{% rauserpic authorblues %}</td>
+            </tr>
+            <tr>
                 <td>{% rauserpic Bendyhuman %}</td>
                 <td>{% rauserpic Brandovsky %}</td>
+                <td>{% rauserpic Carca %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic crrool %}</td>
+                <td>{% rauserpic DevCompliance %}</td>
+                <td>{% rauserpicalt EphemeralEnigmas, sb191219 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Frenchy70 %}</td>
+                <td>{% rauserpic gamer097 %}</td>
+                <td>{% rauserpic gamerforlifeforever %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Goodbite %}</td>
+                <td>{% rauserpic Hotscrock %}</td>
+                <td>{% rauserpic Jurbadis %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Kecleon352 %}</td>
+                <td>{% rauserpicalt LadyNadia, ladynadiad %}</td>
+                <td>{% rauserpicalt Meowdoleon, medoli900 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Molson %}</td>
+                <td>{% rauserpic MrOwnership %}</td>
+                <td>{% rauserpic Nepiki %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
+                <td>{% rauserpic Nydaxn %}</td>
+                <td>{% rauserpicalt Leodis, Obliv %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic pengboy08 %}</td>
+                <td>{% rauserpic pinguupinguu %}</td>
+                <td>{% rauserpic Prota %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic QATeam %}</td>
+                <td>{% rauserpic RANews %}</td>
+                <td>{% rauserpic RaphMec %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Raykusen %}</td>
+                <td>{% rauserpic RetroDronX %}</td>
+                <td>{% rauserpic RetroGameMaster %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Sines %}</td>
+                <td>{% rauserpic Snorkimon %}</td>
+                <td>{% rauserpicalt SnowPin, Snow %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic SporyTike %}</td>
+                <td>{% rauserpic StingX2 %}</td>
+                <td>{% rauserpicalt tele, televandalist %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic TheMicroMancer %}</td>
+                <td>{% rauserpic TimeCrush %}</td>
+                <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic vikdarkbomb %}</td>
+                <td>{% rauserpic wallmasterz %}</td>
+                <td>{% rauserpic Xymjak %}</td>
             </tr>
         </tbody></table>
     </div>

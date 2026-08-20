@@ -427,7 +427,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                         <tr>
                             <td>{% rauserpic Knav %}</td>
                             <td>{% rauserpic LeeD %}</td>
-                            <td>{% rauserpic Meowdoleon %}</td>
+                            <td>{% rauserpicalt Meowdoleon, medoli900 %}</td>
                         </tr>
                         <tr>
                             <td>{% rauserpic Mindhral %}</td>

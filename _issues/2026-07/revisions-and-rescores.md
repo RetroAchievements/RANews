@@ -22,9 +22,9 @@ toc: true
 ### Game Boy Advance
 
 
-| Game                                                                | Revision By                   | Genre          |
-| ------------------------------------------------------------------- | ----------------------------- | -------------- |
-| {% ragamepic 9595, 123771, ~Hack~ Pokémon Adventure: Red Chapter %} | {% rauser ChaoticAdventure %} | Turn-Based RPG |
+| Game                                                                                                    | Revision By                   | Genre          |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------- | -------------- |
+| {% ragamepic 9595, 123771, <span class="tag"><span>Hack</span></span> Pokémon Adventure: Red Chapter %} | {% rauser ChaoticAdventure %} | Turn-Based RPG |
 
 <a href="#toc">:top:</a>
 

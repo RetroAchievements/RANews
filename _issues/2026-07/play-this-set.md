@@ -9,13 +9,13 @@ toc: true
 
 Play This Set is a showcase for our passionate community members to write about the games and achievement sets they love. Our inbox is always open, whether you're an achievement developer looking to promote your work or a player wanting to spread the word about your favorite hidden gem. If interested, submit your write-up as a private message to {% rauserpic RANews %}.
 
-## \~Hack~ Waluigi's Taco Stand (Nintendo 64)
+## <span class="tag"><span>Hack</span></span> Waluigi's Taco Stand (Nintendo 64)
 
-| Game                                                                                                                                                                                                                                                                         | Console     | Genre                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/14157" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/024242.png" alt="\~Hack~ Waluigi's Taco Stand"> <span>\~Hack~ Waluigi's Taco Stand</span></a> | Nintendo 64 | [3D Platforming](https://retroachievements.org/hub/2952) |
+| Game                                                                                                                                                                                                                                                                                | Console     | Genre                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------- |
+| <a class="gameicon-link" href="https://retroachievements.org/game/14157" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/024242.png" alt=""> <span><span class="tag"><span>Hack</span></span> Waluigi's Taco Stand</span></a> | Nintendo 64 | [3D Platforming](https://retroachievements.org/hub/2952) |
 
-* Set by: {% rauserpic tiredlyrebird %}
+* Set by: {% rauserpicalt tiredlyrebird, Poppers %}
 * Write-up by: {% rauserpic Frenchy70 %}
 
 I first heard about this hack and [Kaze Emanuar](https://retroachievements.org/hub/914) in 2018 when watching the YouTuber SimpleFlips play the game in a video. My first impressions were “how did they make [SM64](https://retroachievements.org/game/10003) be this different?” So finally playing it years later for [CL2](https://retroachievements.org/forums/topic/35617?comment=388055#388055) and after playing Kaze’s future hacks, I can say it’s great for the era it was released in, and mostly holds up today.
@@ -135,7 +135,7 @@ It is almost criminal that this set still has fewer than 100 players, even after
 | <a class="gameicon-link" href="https://retroachievements.org/game/14544" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/079407.png" alt="Shining Wisdom"> <span>Shining Wisdom</span></a> | Saturn  | Action Adventure |
 
 * Set by: {% rauserpic Alfex %}
-* Write-up by: {% rauserpic EphemeralEnigmas %}
+* Write-up by: {% rauserpicalt EphemeralEnigmas, sb191219 %}
 
 I have a lot of love for [Zelda](https://retroachievements.org/hub/7438)-like games on Sega platforms. Every single one I can think of offers something distinct and exciting; [Beyond Oasis](https://retroachievements.org/game/143) has a cool beat 'em up battle system, [Landstalker](https://retroachievements.org/game/561) has its isometric platforming focus, Elemental Gimmick Gear is what I like to call an audiovisual masterpiece, and [Crusader of Centy](https://retroachievements.org/game/1438) has a plot that goes to surprisingly bold places. All these games get their flowers as they should, but poor Shining Wisdom never gets the affection it deserves despite being on their level in its own inspired way.
 
@@ -173,7 +173,7 @@ It’s a haunting, disorienting experience of art that showcases an era of gamin
 | <a class="gameicon-link" href="https://retroachievements.org/game/24159" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/100517.png" alt="Rune Master II"> <span>Rune Master II</span></a> | MSX     | [Board Game](https://retroachievements.org/hub/2585) |
 
 * Set by: {% rauserpic suspect15 %}
-* Write-up by: {% rauserpic TrashPaddy %}
+* Write-up by: {% rauserpicalt TrashPaddy, PaddyShade %}
 
 Ever wanted to play a 1990 RPG Board Game for MSX? Well, Rune Master II is the game for you! You play against 3 CPUs to defeat Azasor and save the kingdom. You make your way through the game by rolling dice, defeating monsters, completing quests, beating bosses, earning gold, and buying equipment and spells. Some quests are very obvious and are first come, first served to whichever player beats them first, and others are completely hidden on a specific spot. Some events you can skip with a good dice roll, and other times the dice fail you and you have to do a much harder task. It's a fairly short game, but honestly really enjoyable. I hope that Rune Masters I and III get developed so I can try them out as well! Also, there's a weird hidden shmup mode that the set covers - don't die!
 

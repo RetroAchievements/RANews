@@ -18,2244 +18,2244 @@ Welcome to the Set Creation Leaderboard page! In this section, we highlight the 
 
 ## 32X
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic ladynadiad %}          | 2    |
-| 1    | {% rauserpic Retrokaiser %}         | 2    |
-| 1    | {% rauserpic ThatAmericanSlacker %} | 2    |
-| 1    | {% rauserpic voiceofautumn %}       | 2    |
-| 5    | {% rauserpic AfroRyan %}            | 1    |
-| 5    | {% rauserpic Amir96lx %}            | 1    |
-| 5    | {% rauserpic Bl4h8L4hBl4h %}        | 1    |
-| 5    | {% rauserpic Brandovsky %}          | 1    |
-| 5    | {% rauserpic BrunoKiko %}           | 1    |
-| 5    | {% rauserpic Cadaxar %}             | 1    |
-| 5    | {% rauserpic cirellio %}            | 1    |
-| 5    | {% rauserpic Excessiveiser %}       | 1    |
-| 5    | {% rauserpic Gudra %}               | 1    |
-| 5    | {% rauserpic guindev %}             | 1    |
-| 5    | {% rauserpic Hexadigital %}         | 1    |
-| 5    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 5    | {% rauserpic Mendil %}              | 1    |
-| 5    | {% rauserpic MGNS8M %}              | 1    |
-| 5    | {% rauserpic MrRage2021 %}          | 1    |
-| 5    | {% rauserpic pickledyamsman %}      | 1    |
-| 5    | {% rauserpic pinguupinguu %}        | 1    |
-| 5    | {% rauserpic Raeyene %}             | 1    |
-| 5    | {% rauserpic RyCuLe %}              | 1    |
-| 5    | {% rauserpic s0uth %}               | 1    |
-| 5    | {% rauserpic scatter %}             | 1    |
-| 5    | {% rauserpic Sines %}               | 1    |
-| 5    | {% rauserpic Snow %}                | 1    |
-| 5    | {% rauserpic suspect15 %}           | 1    |
-| 5    | {% rauserpic televandalist %}       | 1    |
-| 5    | {% rauserpic TheMysticalOne %}      | 1    |
-| 5    | {% rauserpic tomojin %}             | 1    |
-| 5    | {% rauserpic Tybis %}               | 1    |
-| 5    | {% rauserpic xClawz %}              | 1    |
-| 5    | {% rauserpic zaydoc %}              | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpicalt LadyNadia, ladynadiad %}                | 2    |
+| 1    | {% rauserpic Retrokaiser %}                             | 2    |
+| 1    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 2    |
+| 1    | {% rauserpic voiceofautumn %}                           | 2    |
+| 5    | {% rauserpic AfroRyan %}                                | 1    |
+| 5    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 5    | {% rauserpic Bl4h8L4hBl4h %}                            | 1    |
+| 5    | {% rauserpic Brandovsky %}                              | 1    |
+| 5    | {% rauserpic BrunoKiko %}                               | 1    |
+| 5    | {% rauserpic Cadaxar %}                                 | 1    |
+| 5    | {% rauserpic cirellio %}                                | 1    |
+| 5    | {% rauserpic Excessiveiser %}                           | 1    |
+| 5    | {% rauserpic Gudra %}                                   | 1    |
+| 5    | {% rauserpic guindev %}                                 | 1    |
+| 5    | {% rauserpic Hexadigital %}                             | 1    |
+| 5    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 5    | {% rauserpic Mendil %}                                  | 1    |
+| 5    | {% rauserpic MGNS8M %}                                  | 1    |
+| 5    | {% rauserpic MrRage2021 %}                              | 1    |
+| 5    | {% rauserpic pickledyamsman %}                          | 1    |
+| 5    | {% rauserpic pinguupinguu %}                            | 1    |
+| 5    | {% rauserpic Raeyene %}                                 | 1    |
+| 5    | {% rauserpic RyCuLe %}                                  | 1    |
+| 5    | {% rauserpic s0uth %}                                   | 1    |
+| 5    | {% rauserpic scatter %}                                 | 1    |
+| 5    | {% rauserpic Sines %}                                   | 1    |
+| 5    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 5    | {% rauserpic suspect15 %}                               | 1    |
+| 5    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 5    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 5    | {% rauserpic tomojin %}                                 | 1    |
+| 5    | {% rauserpic Tybis %}                                   | 1    |
+| 5    | {% rauserpic xClawz %}                                  | 1    |
+| 5    | {% rauserpic zaydoc %}                                  | 1    |
 
 ## 3DO Interactive Multiplayer
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Anic %}                | 4    |
-| 2    | {% rauserpic guindev %}             | 2    |
-| 2    | {% rauserpic jplima %}              | 2    |
-| 2    | {% rauserpic MaddieKittyTV %}       | 2    |
-| 2    | {% rauserpic mopain85 %}            | 2    |
-| 2    | {% rauserpic Skiichi %}             | 2    |
-| 2    | {% rauserpic xnaivx %}              | 2    |
-| 8    | {% rauserpic Altomar %}             | 1    |
-| 8    | {% rauserpic Bedtime %}             | 1    |
-| 8    | {% rauserpic BiPolarScientist %}    | 1    |
-| 8    | {% rauserpic Brandovsky %}          | 1    |
-| 8    | {% rauserpic Cadaxar %}             | 1    |
-| 8    | {% rauserpic Excessiveiser %}       | 1    |
-| 8    | {% rauserpic Hexadigital %}         | 1    |
-| 8    | {% rauserpic ladynadiad %}          | 1    |
-| 8    | {% rauserpic lordpsycho %}          | 1    |
-| 8    | {% rauserpic Mendil %}              | 1    |
-| 8    | {% rauserpic MGNS8M %}              | 1    |
-| 8    | {% rauserpic monkeytoung %}         | 1    |
-| 8    | {% rauserpic pickledyamsman %}      | 1    |
-| 8    | {% rauserpic pinguupinguu %}        | 1    |
-| 8    | {% rauserpic rabbids4eva %}         | 1    |
-| 8    | {% rauserpic Sines %}               | 1    |
-| 8    | {% rauserpic Snow %}                | 1    |
-| 8    | {% rauserpic solidification %}      | 1    |
-| 8    | {% rauserpic suspect15 %}           | 1    |
-| 8    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 8    | {% rauserpic TheMysticalOne %}      | 1    |
-| 8    | {% rauserpic TwosomesUP %}          | 1    |
-| 8    | {% rauserpic WanderingHeiho %}      | 1    |
-| 8    | {% rauserpic WilHiteWarrior %}      | 1    |
-| 8    | {% rauserpic zizom %}               | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Anic %}                                    | 4    |
+| 2    | {% rauserpic guindev %}                                 | 2    |
+| 2    | {% rauserpic jplima %}                                  | 2    |
+| 2    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 2    |
+| 2    | {% rauserpic mopain85 %}                                | 2    |
+| 2    | {% rauserpic Skiichi %}                                 | 2    |
+| 2    | {% rauserpic xnaivx %}                                  | 2    |
+| 8    | {% rauserpic Altomar %}                                 | 1    |
+| 8    | {% rauserpic Bedtime %}                                 | 1    |
+| 8    | {% rauserpic BiPolarScientist %}                        | 1    |
+| 8    | {% rauserpic Brandovsky %}                              | 1    |
+| 8    | {% rauserpic Cadaxar %}                                 | 1    |
+| 8    | {% rauserpic Excessiveiser %}                           | 1    |
+| 8    | {% rauserpic Hexadigital %}                             | 1    |
+| 8    | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 8    | {% rauserpic lordpsycho %}                              | 1    |
+| 8    | {% rauserpic Mendil %}                                  | 1    |
+| 8    | {% rauserpic MGNS8M %}                                  | 1    |
+| 8    | {% rauserpic monkeytoung %}                             | 1    |
+| 8    | {% rauserpic pickledyamsman %}                          | 1    |
+| 8    | {% rauserpic pinguupinguu %}                            | 1    |
+| 8    | {% rauserpic rabbids4eva %}                             | 1    |
+| 8    | {% rauserpic Sines %}                                   | 1    |
+| 8    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 8    | {% rauserpic solidification %}                          | 1    |
+| 8    | {% rauserpic suspect15 %}                               | 1    |
+| 8    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 8    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 8    | {% rauserpicalt BacklogOddy, TwosomesUP %}              | 1    |
+| 8    | {% rauserpic WanderingHeiho %}                          | 1    |
+| 8    | {% rauserpic WilHiteWarrior %}                          | 1    |
+| 8    | {% rauserpic zizom %}                                   | 1    |
 
 ## Amstrad CPC
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic TheMysticalOne %}      | 8    |
-| 2    | {% rauserpic guindev %}             | 5    |
-| 2    | {% rauserpic kmpers %}              | 5    |
-| 2    | {% rauserpic quirky0992 %}          | 5    |
-| 5    | {% rauserpic Altomar %}             | 3    |
-| 5    | {% rauserpic MaddieKittyTV %}       | 3    |
-| 5    | {% rauserpic Snow %}                | 3    |
-| 8    | {% rauserpic Bl4h8L4hBl4h %}        | 2    |
-| 8    | {% rauserpic Brandovsky %}          | 2    |
-| 8    | {% rauserpic DoctorV %}             | 2    |
-| 8    | {% rauserpic Hexadigital %}         | 2    |
-| 8    | {% rauserpic malasdair %}           | 2    |
-| 8    | {% rauserpic pinguupinguu %}        | 2    |
-| 8    | {% rauserpic StingX2 %}             | 2    |
-| 15   | {% rauserpic Amir96lx %}            | 1    |
-| 15   | {% rauserpic Blazekickn %}          | 1    |
-| 15   | {% rauserpic Cadaxar %}             | 1    |
-| 15   | {% rauserpic Chr0x %}               | 1    |
-| 15   | {% rauserpic DeeCee %}              | 1    |
-| 15   | {% rauserpic DrewMHax0r %}          | 1    |
-| 15   | {% rauserpic DSkywalk %}            | 1    |
-| 15   | {% rauserpic elbearno %}            | 1    |
-| 15   | {% rauserpic Excessiveiser %}       | 1    |
-| 15   | {% rauserpic Falcus %}              | 1    |
-| 15   | {% rauserpic Halbarad %}            | 1    |
-| 15   | {% rauserpic Kayesay %}             | 1    |
-| 15   | {% rauserpic ladynadiad %}          | 1    |
-| 15   | {% rauserpic Layton %}              | 1    |
-| 15   | {% rauserpic LogicalFallacy %}      | 1    |
-| 15   | {% rauserpic LordAndrew %}          | 1    |
-| 15   | {% rauserpic Maximdraco %}          | 1    |
-| 15   | {% rauserpic Mendil %}              | 1    |
-| 15   | {% rauserpic MGNS8M %}              | 1    |
-| 15   | {% rauserpic NiterZ7 %}             | 1    |
-| 15   | {% rauserpic Sines %}               | 1    |
-| 15   | {% rauserpic SlashTangent %}        | 1    |
-| 15   | {% rauserpic Snapouille %}          | 1    |
-| 15   | {% rauserpic Soulsderfuchs %}       | 1    |
-| 15   | {% rauserpic SpaceRaton %}          | 1    |
-| 15   | {% rauserpic stfN1337 %}            | 1    |
-| 15   | {% rauserpic suspect15 %}           | 1    |
-| 15   | {% rauserpic televandalist %}       | 1    |
-| 15   | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 15   | {% rauserpic TheJediSonic %}        | 1    |
-| 15   | {% rauserpic Tybis %}               | 1    |
-| 15   | {% rauserpic ventuz %}              | 1    |
-| 15   | {% rauserpic voiceofautumn %}       | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic TheMysticalOne %}                          | 8    |
+| 2    | {% rauserpic guindev %}                                 | 5    |
+| 2    | {% rauserpic kmpers %}                                  | 5    |
+| 2    | {% rauserpic quirky0992 %}                              | 5    |
+| 5    | {% rauserpic Altomar %}                                 | 3    |
+| 5    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 3    |
+| 5    | {% rauserpicalt SnowPin, Snow %}                        | 3    |
+| 8    | {% rauserpic Bl4h8L4hBl4h %}                            | 2    |
+| 8    | {% rauserpic Brandovsky %}                              | 2    |
+| 8    | {% rauserpic DoctorV %}                                 | 2    |
+| 8    | {% rauserpic Hexadigital %}                             | 2    |
+| 8    | {% rauserpic malasdair %}                               | 2    |
+| 8    | {% rauserpic pinguupinguu %}                            | 2    |
+| 8    | {% rauserpic StingX2 %}                                 | 2    |
+| 15   | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 15   | {% rauserpic Blazekickn %}                              | 1    |
+| 15   | {% rauserpic Cadaxar %}                                 | 1    |
+| 15   | {% rauserpic Chr0x %}                                   | 1    |
+| 15   | {% rauserpic DeeCee %}                                  | 1    |
+| 15   | {% rauserpic DrewMHax0r %}                              | 1    |
+| 15   | {% rauserpic DSkywalk %}                                | 1    |
+| 15   | {% rauserpic elbearno %}                                | 1    |
+| 15   | {% rauserpic Excessiveiser %}                           | 1    |
+| 15   | {% rauserpic Falcus %}                                  | 1    |
+| 15   | {% rauserpic Halbarad %}                                | 1    |
+| 15   | {% rauserpic Kayesay %}                                 | 1    |
+| 15   | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 15   | {% rauserpic Layton %}                                  | 1    |
+| 15   | {% rauserpic LogicalFallacy %}                          | 1    |
+| 15   | {% rauserpic LordAndrew %}                              | 1    |
+| 15   | {% rauserpic Maximdraco %}                              | 1    |
+| 15   | {% rauserpic Mendil %}                                  | 1    |
+| 15   | {% rauserpic MGNS8M %}                                  | 1    |
+| 15   | {% rauserpic NiterZ7 %}                                 | 1    |
+| 15   | {% rauserpic Sines %}                                   | 1    |
+| 15   | {% rauserpic SlashTangent %}                            | 1    |
+| 15   | {% rauserpic Snapouille %}                              | 1    |
+| 15   | {% rauserpic Soulsderfuchs %}                           | 1    |
+| 15   | {% rauserpic SpaceRaton %}                              | 1    |
+| 15   | {% rauserpic stfN1337 %}                                | 1    |
+| 15   | {% rauserpic suspect15 %}                               | 1    |
+| 15   | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 15   | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 15   | {% rauserpic TheJediSonic %}                            | 1    |
+| 15   | {% rauserpic Tybis %}                                   | 1    |
+| 15   | {% rauserpic ventuz %}                                  | 1    |
+| 15   | {% rauserpic voiceofautumn %}                           | 1    |
 
 ## Apple II
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Jamiras %}             | 16   |
-| 2    | {% rauserpic zaydoc %}              | 8    |
-| 3    | {% rauserpic TheMysticalOne %}      | 7    |
-| 4    | {% rauserpic ladynadiad %}          | 5    |
-| 4    | {% rauserpic MaddieKittyTV %}       | 5    |
-| 4    | {% rauserpic Sines %}               | 5    |
-| 7    | {% rauserpic Euclide %}             | 4    |
-| 8    | {% rauserpic Bedtime %}             | 3    |
-| 8    | {% rauserpic Hexadigital %}         | 3    |
-| 8    | {% rauserpic LordAndrew %}          | 3    |
-| 11   | {% rauserpic authorblues %}         | 2    |
-| 11   | {% rauserpic Brandovsky %}          | 2    |
-| 11   | {% rauserpic guindev %}             | 2    |
-| 11   | {% rauserpic Mendil %}              | 2    |
-| 11   | {% rauserpic pickledyamsman %}      | 2    |
-| 11   | {% rauserpic pinguupinguu %}        | 2    |
-| 11   | {% rauserpic rabbids4eva %}         | 2    |
-| 11   | {% rauserpic voiceofautumn %}       | 2    |
-| 19   | {% rauserpic AfroRyan %}            | 1    |
-| 19   | {% rauserpic Amir96lx %}            | 1    |
-| 19   | {% rauserpic Bilalscape12 %}        | 1    |
-| 19   | {% rauserpic Blazekickn %}          | 1    |
-| 19   | {% rauserpic Cadaxar %}             | 1    |
-| 19   | {% rauserpic caricatur %}           | 1    |
-| 19   | {% rauserpic Coloradohusky %}       | 1    |
-| 19   | {% rauserpic DarkyAndreas %}        | 1    |
-| 19   | {% rauserpic Etron %}               | 1    |
-| 19   | {% rauserpic Excessiveiser %}       | 1    |
-| 19   | {% rauserpic Foolacetic %}          | 1    |
-| 19   | {% rauserpic Gudra %}               | 1    |
-| 19   | {% rauserpic Keltron3030 %}         | 1    |
-| 19   | {% rauserpic Kisumebuckets %}       | 1    |
-| 19   | {% rauserpic LogicalFallacy %}      | 1    |
-| 19   | {% rauserpic Maximdraco %}          | 1    |
-| 19   | {% rauserpic MGNS8M %}              | 1    |
-| 19   | {% rauserpic NamcoPlayer9871 %}     | 1    |
-| 19   | {% rauserpic Raeyene %}             | 1    |
-| 19   | {% rauserpic s0uth %}               | 1    |
-| 19   | {% rauserpic soltyd %}              | 1    |
-| 19   | {% rauserpic stoneskipper42 %}      | 1    |
-| 19   | {% rauserpic suspect15 %}           | 1    |
-| 19   | {% rauserpic Sutarion %}            | 1    |
-| 19   | {% rauserpic Tayadaoc %}            | 1    |
-| 19   | {% rauserpic televandalist %}       | 1    |
-| 19   | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 19   | {% rauserpic TheJediSonic %}        | 1    |
-| 19   | {% rauserpic Triforce %}            | 1    |
-| 19   | {% rauserpic TwosomesUP %}          | 1    |
-| 19   | {% rauserpic ViperZang %}           | 1    |
-| 19   | {% rauserpic WanderingHeiho %}      | 1    |
-| 19   | {% rauserpic WilHiteWarrior %}      | 1    |
-| 19   | {% rauserpic xnaivx %}              | 1    |
-| 19   | {% rauserpic Yanbetari %}           | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Jamiras %}                                 | 16   |
+| 2    | {% rauserpic zaydoc %}                                  | 8    |
+| 3    | {% rauserpic TheMysticalOne %}                          | 7    |
+| 4    | {% rauserpicalt LadyNadia, ladynadiad %}                | 5    |
+| 4    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 5    |
+| 4    | {% rauserpic Sines %}                                   | 5    |
+| 7    | {% rauserpic Euclide %}                                 | 4    |
+| 8    | {% rauserpic Bedtime %}                                 | 3    |
+| 8    | {% rauserpic Hexadigital %}                             | 3    |
+| 8    | {% rauserpic LordAndrew %}                              | 3    |
+| 11   | {% rauserpic authorblues %}                             | 2    |
+| 11   | {% rauserpic Brandovsky %}                              | 2    |
+| 11   | {% rauserpic guindev %}                                 | 2    |
+| 11   | {% rauserpic Mendil %}                                  | 2    |
+| 11   | {% rauserpic pickledyamsman %}                          | 2    |
+| 11   | {% rauserpic pinguupinguu %}                            | 2    |
+| 11   | {% rauserpic rabbids4eva %}                             | 2    |
+| 11   | {% rauserpic voiceofautumn %}                           | 2    |
+| 19   | {% rauserpic AfroRyan %}                                | 1    |
+| 19   | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 19   | {% rauserpic Bilalscape12 %}                            | 1    |
+| 19   | {% rauserpic Blazekickn %}                              | 1    |
+| 19   | {% rauserpic Cadaxar %}                                 | 1    |
+| 19   | {% rauserpic caricatur %}                               | 1    |
+| 19   | {% rauserpic Coloradohusky %}                           | 1    |
+| 19   | {% rauserpicalt Darky, DarkyAndreas %}                  | 1    |
+| 19   | {% rauserpic Etron %}                                   | 1    |
+| 19   | {% rauserpic Excessiveiser %}                           | 1    |
+| 19   | {% rauserpic Foolacetic %}                              | 1    |
+| 19   | {% rauserpic Gudra %}                                   | 1    |
+| 19   | {% rauserpic Keltron3030 %}                             | 1    |
+| 19   | {% rauserpic Kisumebuckets %}                           | 1    |
+| 19   | {% rauserpic LogicalFallacy %}                          | 1    |
+| 19   | {% rauserpic Maximdraco %}                              | 1    |
+| 19   | {% rauserpic MGNS8M %}                                  | 1    |
+| 19   | {% rauserpicalt suun, NamcoPlayer9871 %}                | 1    |
+| 19   | {% rauserpic Raeyene %}                                 | 1    |
+| 19   | {% rauserpic s0uth %}                                   | 1    |
+| 19   | {% rauserpic soltyd %}                                  | 1    |
+| 19   | {% rauserpic stoneskipper42 %}                          | 1    |
+| 19   | {% rauserpic suspect15 %}                               | 1    |
+| 19   | {% rauserpic Sutarion %}                                | 1    |
+| 19   | {% rauserpic Tayadaoc %}                                | 1    |
+| 19   | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 19   | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 19   | {% rauserpic TheJediSonic %}                            | 1    |
+| 19   | {% rauserpic Triforce %}                                | 1    |
+| 19   | {% rauserpicalt BacklogOddy, TwosomesUP %}              | 1    |
+| 19   | {% rauserpicalt EmilyPanem, ViperZang %}                | 1    |
+| 19   | {% rauserpic WanderingHeiho %}                          | 1    |
+| 19   | {% rauserpic WilHiteWarrior %}                          | 1    |
+| 19   | {% rauserpic xnaivx %}                                  | 1    |
+| 19   | {% rauserpic Yanbetari %}                               | 1    |
 
 ## Arcade
 
-| Rank | Developer                       | Sets |
-| ---- | ------------------------------- | ---- |
-| 1    | {% rauserpic zxmega %}          | 35   |
-| 2    | {% rauserpic Hexadigital %}     | 24   |
-| 3    | {% rauserpic hardt %}           | 19   |
-| 4    | {% rauserpic Salsa %}           | 18   |
-| 5    | {% rauserpic SherryBirkin %}    | 15   |
-| 6    | {% rauserpic suspect15 %}       | 14   |
-| 6    | {% rauserpic voiceofautumn %}   | 14   |
-| 8    | {% rauserpic PaulGoesDEV %}     | 13   |
-| 9    | {% rauserpic TeddyWestside %}   | 12   |
-| 10   | {% rauserpic clymax %}          | 11   |
-| 10   | {% rauserpic KloggMonkey %}     | 11   |
-| 12   | {% rauserpic guindev %}         | 10   |
-| 12   | {% rauserpic jplima %}          | 10   |
-| 12   | {% rauserpic Sines %}           | 10   |
-| 12   | {% rauserpic Wimpy %}           | 10   |
-| 16   | {% rauserpic Triforce %}        | 8    |
-| 17   | {% rauserpic Chr0x %}           | 7    |
-| 18   | {% rauserpic drimakus300 %}     | 6    |
-| 18   | {% rauserpic NgNvNn %}          | 6    |
-| 18   | {% rauserpic raniejogos %}      | 6    |
-| 18   | {% rauserpic WCopeland %}       | 6    |
-| 22   | {% rauserpic graypigeon22 %}    | 5    |
-| 22   | {% rauserpic ladynadiad %}      | 5    |
-| 22   | {% rauserpic lizstar %}         | 5    |
-| 22   | {% rauserpic Mendil %}          | 5    |
-| 22   | {% rauserpic NamcoPlayer9871 %} | 5    |
-| 22   | {% rauserpic TwosomesUP %}      | 5    |
-| 22   | {% rauserpic VampireLord %}     | 5    |
-| 22   | {% rauserpic WatWuzDat %}       | 5    |
+| Rank | Developer                                     | Sets |
+| ---- | --------------------------------------------- | ---- |
+| 1    | {% rauserpic zxmega %}                        | 35   |
+| 2    | {% rauserpic Hexadigital %}                   | 24   |
+| 3    | {% rauserpic hardt %}                         | 19   |
+| 4    | {% rauserpic Salsa %}                         | 18   |
+| 5    | {% rauserpic SherryBirkin %}                  | 15   |
+| 6    | {% rauserpic suspect15 %}                     | 14   |
+| 6    | {% rauserpic voiceofautumn %}                 | 14   |
+| 8    | {% rauserpic PaulGoesDEV %}                   | 13   |
+| 9    | {% rauserpic TeddyWestside %}                 | 12   |
+| 10   | {% rauserpic clymax %}                        | 11   |
+| 10   | {% rauserpic KloggMonkey %}                   | 11   |
+| 12   | {% rauserpic guindev %}                       | 10   |
+| 12   | {% rauserpic jplima %}                        | 10   |
+| 12   | {% rauserpic Sines %}                         | 10   |
+| 12   | {% rauserpic Wimpy %}                         | 10   |
+| 16   | {% rauserpic Triforce %}                      | 8    |
+| 17   | {% rauserpic Chr0x %}                         | 7    |
+| 18   | {% rauserpic drimakus300 %}                   | 6    |
+| 18   | {% rauserpic NgNvNn %}                        | 6    |
+| 18   | {% rauserpicalt Universus, raniejogos %}      | 6    |
+| 18   | {% rauserpicalt wes, WCopeland %}             | 6    |
+| 22   | {% rauserpicalt Pearl, graypigeon22 %}        | 5    |
+| 22   | {% rauserpicalt LadyNadia, ladynadiad %}      | 5    |
+| 22   | {% rauserpic lizstar %}                       | 5    |
+| 22   | {% rauserpic Mendil %}                        | 5    |
+| 22   | {% rauserpicalt suun, NamcoPlayer9871 %}      | 5    |
+| 22   | {% rauserpicalt BacklogOddy, TwosomesUP %}    | 5    |
+| 22   | {% rauserpicalt MarioDuarteGJ, VampireLord %} | 5    |
+| 22   | {% rauserpic WatWuzDat %}                     | 5    |
 
 ## Arcadia 2001
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Amir96lx %}            | 1    |
-| 1    | {% rauserpic AuburnRDM %}           | 1    |
-| 1    | {% rauserpic Bilalscape12 %}        | 1    |
-| 1    | {% rauserpic Brandovsky %}          | 1    |
-| 1    | {% rauserpic Cadaxar %}             | 1    |
-| 1    | {% rauserpic DarkyAndreas %}        | 1    |
-| 1    | {% rauserpic Etron %}               | 1    |
-| 1    | {% rauserpic Excessiveiser %}       | 1    |
-| 1    | {% rauserpic Gudra %}               | 1    |
-| 1    | {% rauserpic Hexadigital %}         | 1    |
-| 1    | {% rauserpic ladynadiad %}          | 1    |
-| 1    | {% rauserpic LogicalFallacy %}      | 1    |
-| 1    | {% rauserpic LordAndrew %}          | 1    |
-| 1    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 1    | {% rauserpic Maximdraco %}          | 1    |
-| 1    | {% rauserpic Mendil %}              | 1    |
-| 1    | {% rauserpic MGNS8M %}              | 1    |
-| 1    | {% rauserpic pinguupinguu %}        | 1    |
-| 1    | {% rauserpic Pudpod %}              | 1    |
-| 1    | {% rauserpic Sines %}               | 1    |
-| 1    | {% rauserpic Snow %}                | 1    |
-| 1    | {% rauserpic StingX2 %}             | 1    |
-| 1    | {% rauserpic suspect15 %}           | 1    |
-| 1    | {% rauserpic Sutarion %}            | 1    |
-| 1    | {% rauserpic Tayadaoc %}            | 1    |
-| 1    | {% rauserpic televandalist %}       | 1    |
-| 1    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 1    | {% rauserpic TheJediSonic %}        | 1    |
-| 1    | {% rauserpic TheMysticalOne %}      | 1    |
-| 1    | {% rauserpic tomojin %}             | 1    |
-| 1    | {% rauserpic Verros %}              | 1    |
-| 1    | {% rauserpic voiceofautumn %}       | 1    |
-| 1    | {% rauserpic xnaivx %}              | 1    |
-| 1    | {% rauserpic ZamArch %}             | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 1    | {% rauserpic AuburnRDM %}                               | 1    |
+| 1    | {% rauserpic Bilalscape12 %}                            | 1    |
+| 1    | {% rauserpic Brandovsky %}                              | 1    |
+| 1    | {% rauserpic Cadaxar %}                                 | 1    |
+| 1    | {% rauserpicalt Darky, DarkyAndreas %}                  | 1    |
+| 1    | {% rauserpic Etron %}                                   | 1    |
+| 1    | {% rauserpic Excessiveiser %}                           | 1    |
+| 1    | {% rauserpic Gudra %}                                   | 1    |
+| 1    | {% rauserpic Hexadigital %}                             | 1    |
+| 1    | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 1    | {% rauserpic LogicalFallacy %}                          | 1    |
+| 1    | {% rauserpic LordAndrew %}                              | 1    |
+| 1    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 1    | {% rauserpic Maximdraco %}                              | 1    |
+| 1    | {% rauserpic Mendil %}                                  | 1    |
+| 1    | {% rauserpic MGNS8M %}                                  | 1    |
+| 1    | {% rauserpic pinguupinguu %}                            | 1    |
+| 1    | {% rauserpic Pudpod %}                                  | 1    |
+| 1    | {% rauserpic Sines %}                                   | 1    |
+| 1    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 1    | {% rauserpic StingX2 %}                                 | 1    |
+| 1    | {% rauserpic suspect15 %}                               | 1    |
+| 1    | {% rauserpic Sutarion %}                                | 1    |
+| 1    | {% rauserpic Tayadaoc %}                                | 1    |
+| 1    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 1    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 1    | {% rauserpic TheJediSonic %}                            | 1    |
+| 1    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 1    | {% rauserpic tomojin %}                                 | 1    |
+| 1    | {% rauserpic Verros %}                                  | 1    |
+| 1    | {% rauserpic voiceofautumn %}                           | 1    |
+| 1    | {% rauserpic xnaivx %}                                  | 1    |
+| 1    | {% rauserpic ZamArch %}                                 | 1    |
 
 ## Arduboy
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Snow %}                | 11   |
-| 2    | {% rauserpic multonic %}            | 4    |
-| 2    | {% rauserpic pinguupinguu %}        | 4    |
-| 4    | {% rauserpic Excessiveiser %}       | 3    |
-| 4    | {% rauserpic ladynadiad %}          | 3    |
-| 6    | {% rauserpic Blazekickn %}          | 2    |
-| 6    | {% rauserpic Cadaxar %}             | 2    |
-| 6    | {% rauserpic Hexadigital %}         | 2    |
-| 6    | {% rauserpic kmpers %}              | 2    |
-| 6    | {% rauserpic LogicalFallacy %}      | 2    |
-| 6    | {% rauserpic LordAndrew %}          | 2    |
-| 6    | {% rauserpic MaddieKittyTV %}       | 2    |
-| 6    | {% rauserpic MajinWamu %}           | 2    |
-| 6    | {% rauserpic RyCuLe %}              | 2    |
-| 6    | {% rauserpic televandalist %}       | 2    |
-| 6    | {% rauserpic ThatAmericanSlacker %} | 2    |
-| 6    | {% rauserpic TheMysticalOne %}      | 2    |
-| 6    | {% rauserpic Triforce %}            | 2    |
-| 6    | {% rauserpic xClawz %}              | 2    |
-| 20   | {% rauserpic Achievess %}           | 1    |
-| 20   | {% rauserpic affftedio %}           | 1    |
-| 20   | {% rauserpic Amir96lx %}            | 1    |
-| 20   | {% rauserpic Bartis1989 %}          | 1    |
-| 20   | {% rauserpic BigWeedSmokerMan %}    | 1    |
-| 20   | {% rauserpic Brandovsky %}          | 1    |
-| 20   | {% rauserpic Bryan1150 %}           | 1    |
-| 20   | {% rauserpic DietDoctorFunk %}      | 1    |
-| 20   | {% rauserpic DoctorV %}             | 1    |
-| 20   | {% rauserpic Etron %}               | 1    |
-| 20   | {% rauserpic Falcus %}              | 1    |
-| 20   | {% rauserpic FRAN269 %}             | 1    |
-| 20   | {% rauserpic Fridge %}              | 1    |
-| 20   | {% rauserpic Goodbite %}            | 1    |
-| 20   | {% rauserpic Gudra %}               | 1    |
-| 20   | {% rauserpic guindev %}             | 1    |
-| 20   | {% rauserpic Infernox %}            | 1    |
-| 20   | {% rauserpic JAM %}                 | 1    |
-| 20   | {% rauserpic Jurbadis %}            | 1    |
-| 20   | {% rauserpic Knifemaker1 %}         | 1    |
-| 20   | {% rauserpic LabRatMime %}          | 1    |
-| 20   | {% rauserpic Layton %}              | 1    |
-| 20   | {% rauserpic LeakyComet %}          | 1    |
-| 20   | {% rauserpic malasdair %}           | 1    |
-| 20   | {% rauserpic Maximdraco %}          | 1    |
-| 20   | {% rauserpic Mendil %}              | 1    |
-| 20   | {% rauserpic MGNS8M %}              | 1    |
-| 20   | {% rauserpic msdmario %}            | 1    |
-| 20   | {% rauserpic NovaIAlex %}           | 1    |
-| 20   | {% rauserpic oddgoo %}              | 1    |
-| 20   | {% rauserpic Released %}            | 1    |
-| 20   | {% rauserpic Retrokaiser %}         | 1    |
-| 20   | {% rauserpic s0uth %}               | 1    |
-| 20   | {% rauserpic Searo %}               | 1    |
-| 20   | {% rauserpic Sines %}               | 1    |
-| 20   | {% rauserpic SlashTangent %}        | 1    |
-| 20   | {% rauserpic SpaceRaton %}          | 1    |
-| 20   | {% rauserpic StingX2 %}             | 1    |
-| 20   | {% rauserpic suspect15 %}           | 1    |
-| 20   | {% rauserpic Sutarion %}            | 1    |
-| 20   | {% rauserpic Tayadaoc %}            | 1    |
-| 20   | {% rauserpic TheJediSonic %}        | 1    |
-| 20   | {% rauserpic timenoe %}             | 1    |
-| 20   | {% rauserpic tomojin %}             | 1    |
-| 20   | {% rauserpic Vancleef %}            | 1    |
-| 20   | {% rauserpic ventuz %}              | 1    |
-| 20   | {% rauserpic Verros %}              | 1    |
-| 20   | {% rauserpic voiceofautumn %}       | 1    |
-| 20   | {% rauserpic WanderingHeiho %}      | 1    |
-| 20   | {% rauserpic wolfman2000 %}         | 1    |
-| 20   | {% rauserpic ZZKer %}               | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpicalt SnowPin, Snow %}                        | 11   |
+| 2    | {% rauserpic multonic %}                                | 4    |
+| 2    | {% rauserpic pinguupinguu %}                            | 4    |
+| 4    | {% rauserpic Excessiveiser %}                           | 3    |
+| 4    | {% rauserpicalt LadyNadia, ladynadiad %}                | 3    |
+| 6    | {% rauserpic Blazekickn %}                              | 2    |
+| 6    | {% rauserpic Cadaxar %}                                 | 2    |
+| 6    | {% rauserpic Hexadigital %}                             | 2    |
+| 6    | {% rauserpic kmpers %}                                  | 2    |
+| 6    | {% rauserpic LogicalFallacy %}                          | 2    |
+| 6    | {% rauserpic LordAndrew %}                              | 2    |
+| 6    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 2    |
+| 6    | {% rauserpic MajinWamu %}                               | 2    |
+| 6    | {% rauserpic RyCuLe %}                                  | 2    |
+| 6    | {% rauserpicalt tele, televandalist %}                  | 2    |
+| 6    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 2    |
+| 6    | {% rauserpic TheMysticalOne %}                          | 2    |
+| 6    | {% rauserpic Triforce %}                                | 2    |
+| 6    | {% rauserpic xClawz %}                                  | 2    |
+| 20   | {% rauserpic Achievess %}                               | 1    |
+| 20   | {% rauserpic affftedio %}                               | 1    |
+| 20   | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 20   | {% rauserpic Bartis1989 %}                              | 1    |
+| 20   | {% rauserpic BigWeedSmokerMan %}                        | 1    |
+| 20   | {% rauserpic Brandovsky %}                              | 1    |
+| 20   | {% rauserpicalt Brylefi, Bryan1150 %}                   | 1    |
+| 20   | {% rauserpic DietDoctorFunk %}                          | 1    |
+| 20   | {% rauserpic DoctorV %}                                 | 1    |
+| 20   | {% rauserpic Etron %}                                   | 1    |
+| 20   | {% rauserpic Falcus %}                                  | 1    |
+| 20   | {% rauserpic FRAN269 %}                                 | 1    |
+| 20   | {% rauserpic Fridge %}                                  | 1    |
+| 20   | {% rauserpic Goodbite %}                                | 1    |
+| 20   | {% rauserpic Gudra %}                                   | 1    |
+| 20   | {% rauserpic guindev %}                                 | 1    |
+| 20   | {% rauserpic Infernox %}                                | 1    |
+| 20   | {% rauserpic JAM %}                                     | 1    |
+| 20   | {% rauserpic Jurbadis %}                                | 1    |
+| 20   | {% rauserpicalt AmethystLightTV, Knifemaker1 %}         | 1    |
+| 20   | {% rauserpic LabRatMime %}                              | 1    |
+| 20   | {% rauserpic Layton %}                                  | 1    |
+| 20   | {% rauserpic LeakyComet %}                              | 1    |
+| 20   | {% rauserpic malasdair %}                               | 1    |
+| 20   | {% rauserpic Maximdraco %}                              | 1    |
+| 20   | {% rauserpic Mendil %}                                  | 1    |
+| 20   | {% rauserpic MGNS8M %}                                  | 1    |
+| 20   | {% rauserpic msdmario %}                                | 1    |
+| 20   | {% rauserpic NovaIAlex %}                               | 1    |
+| 20   | {% rauserpic oddgoo %}                                  | 1    |
+| 20   | {% rauserpic Released %}                                | 1    |
+| 20   | {% rauserpic Retrokaiser %}                             | 1    |
+| 20   | {% rauserpic s0uth %}                                   | 1    |
+| 20   | {% rauserpic Searo %}                                   | 1    |
+| 20   | {% rauserpic Sines %}                                   | 1    |
+| 20   | {% rauserpic SlashTangent %}                            | 1    |
+| 20   | {% rauserpic SpaceRaton %}                              | 1    |
+| 20   | {% rauserpic StingX2 %}                                 | 1    |
+| 20   | {% rauserpic suspect15 %}                               | 1    |
+| 20   | {% rauserpic Sutarion %}                                | 1    |
+| 20   | {% rauserpic Tayadaoc %}                                | 1    |
+| 20   | {% rauserpic TheJediSonic %}                            | 1    |
+| 20   | {% rauserpic timenoe %}                                 | 1    |
+| 20   | {% rauserpic tomojin %}                                 | 1    |
+| 20   | {% rauserpic Vancleef %}                                | 1    |
+| 20   | {% rauserpic ventuz %}                                  | 1    |
+| 20   | {% rauserpic Verros %}                                  | 1    |
+| 20   | {% rauserpic voiceofautumn %}                           | 1    |
+| 20   | {% rauserpic WanderingHeiho %}                          | 1    |
+| 20   | {% rauserpicalt lonegraywolf2000, wolfman2000 %}        | 1    |
+| 20   | {% rauserpic ZZKer %}                                   | 1    |
 
 ## Atari 2600
 
-| Rank | Developer                        | Sets |
-| ---- | -------------------------------- | ---- |
-| 1    | {% rauserpic RetroDave82 %}      | 16   |
-| 2    | {% rauserpic rabbids4eva %}      | 15   |
-| 3    | {% rauserpic MaddieKittyTV %}    | 8    |
-| 4    | {% rauserpic SporyTike %}        | 7    |
-| 5    | {% rauserpic Hexadigital %}      | 6    |
-| 6    | {% rauserpic Brandovsky %}       | 4    |
-| 6    | {% rauserpic ChaoticAdventure %} | 4    |
-| 6    | {% rauserpic deividokop %}       | 4    |
-| 6    | {% rauserpic MGNS8M %}           | 4    |
-| 10   | {% rauserpic ChaosFox %}         | 3    |
-| 10   | {% rauserpic ChaoZz %}           | 3    |
-| 10   | {% rauserpic Gloves %}           | 3    |
-| 10   | {% rauserpic Grenade44 %}        | 3    |
-| 10   | {% rauserpic Griffin %}          | 3    |
-| 10   | {% rauserpic ikki5 %}            | 3    |
-| 10   | {% rauserpic multonic %}         | 3    |
-| 10   | {% rauserpic NamcoPlayer9871 %}  | 3    |
-| 10   | {% rauserpic televandalist %}    | 3    |
-| 10   | {% rauserpic WanderingHeiho %}   | 3    |
-| 20   | {% rauserpic adamjohnny5 %}      | 2    |
-| 20   | {% rauserpic Blazekickn %}       | 2    |
-| 20   | {% rauserpic BlotchJBMR %}       | 2    |
-| 20   | {% rauserpic endtimes %}         | 2    |
-| 20   | {% rauserpic Kinglink %}         | 2    |
-| 20   | {% rauserpic meleu %}            | 2    |
-| 20   | {% rauserpic monkeytoung %}      | 2    |
-| 20   | {% rauserpic MrOwnership %}      | 2    |
-| 20   | {% rauserpic MrRage2021 %}       | 2    |
-| 20   | {% rauserpic orangepeelbeef %}   | 2    |
-| 20   | {% rauserpic Salsa %}            | 2    |
-| 20   | {% rauserpic soopercool101 %}    | 2    |
-| 20   | {% rauserpic TwosomesUP %}       | 2    |
-| 20   | {% rauserpic wolfman2000 %}      | 2    |
-| 20   | {% rauserpic ZZKer %}            | 2    |
+| Rank | Developer                                        | Sets |
+| ---- | ------------------------------------------------ | ---- |
+| 1    | {% rauserpic RetroDave82 %}                      | 16   |
+| 2    | {% rauserpic rabbids4eva %}                      | 15   |
+| 3    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 8    |
+| 4    | {% rauserpic SporyTike %}                        | 7    |
+| 5    | {% rauserpic Hexadigital %}                      | 6    |
+| 6    | {% rauserpic Brandovsky %}                       | 4    |
+| 6    | {% rauserpic ChaoticAdventure %}                 | 4    |
+| 6    | {% rauserpic deividokop %}                       | 4    |
+| 6    | {% rauserpic MGNS8M %}                           | 4    |
+| 10   | {% rauserpic ChaosFox %}                         | 3    |
+| 10   | {% rauserpic ChaoZz %}                           | 3    |
+| 10   | {% rauserpic Gloves %}                           | 3    |
+| 10   | {% rauserpic Grenade44 %}                        | 3    |
+| 10   | {% rauserpic Griffin %}                          | 3    |
+| 10   | {% rauserpic ikki5 %}                            | 3    |
+| 10   | {% rauserpic multonic %}                         | 3    |
+| 10   | {% rauserpicalt suun, NamcoPlayer9871 %}         | 3    |
+| 10   | {% rauserpicalt tele, televandalist %}           | 3    |
+| 10   | {% rauserpic WanderingHeiho %}                   | 3    |
+| 20   | {% rauserpic adamjohnny5 %}                      | 2    |
+| 20   | {% rauserpic Blazekickn %}                       | 2    |
+| 20   | {% rauserpicalt pinchanzo, BlotchJBMR %}         | 2    |
+| 20   | {% rauserpic endtimes %}                         | 2    |
+| 20   | {% rauserpic Kinglink %}                         | 2    |
+| 20   | {% rauserpic meleu %}                            | 2    |
+| 20   | {% rauserpic monkeytoung %}                      | 2    |
+| 20   | {% rauserpic MrOwnership %}                      | 2    |
+| 20   | {% rauserpic MrRage2021 %}                       | 2    |
+| 20   | {% rauserpic orangepeelbeef %}                   | 2    |
+| 20   | {% rauserpic Salsa %}                            | 2    |
+| 20   | {% rauserpic soopercool101 %}                    | 2    |
+| 20   | {% rauserpicalt BacklogOddy, TwosomesUP %}       | 2    |
+| 20   | {% rauserpicalt lonegraywolf2000, wolfman2000 %} | 2    |
+| 20   | {% rauserpic ZZKer %}                            | 2    |
 
 ## Atari 7800
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic NamcoPlayer9871 %}     | 3    |
-| 1    | {% rauserpic suspect15 %}           | 3    |
-| 3    | {% rauserpic Blazekickn %}          | 2    |
-| 3    | {% rauserpic Brandovsky %}          | 2    |
-| 3    | {% rauserpic minibt %}              | 2    |
-| 3    | {% rauserpic RetroDave82 %}         | 2    |
-| 3    | {% rauserpic televandalist %}       | 2    |
-| 3    | {% rauserpic voiceofautumn %}       | 2    |
-| 9    | {% rauserpic BigWeedSmokerMan %}    | 1    |
-| 9    | {% rauserpic Bl4h8L4hBl4h %}        | 1    |
-| 9    | {% rauserpic Cadaxar %}             | 1    |
-| 9    | {% rauserpic Delmaru %}             | 1    |
-| 9    | {% rauserpic Excessiveiser %}       | 1    |
-| 9    | {% rauserpic guindev %}             | 1    |
-| 9    | {% rauserpic Hexadigital %}         | 1    |
-| 9    | {% rauserpic ladynadiad %}          | 1    |
-| 9    | {% rauserpic LordAndrew %}          | 1    |
-| 9    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 9    | {% rauserpic Mendil %}              | 1    |
-| 9    | {% rauserpic MGNS8M %}              | 1    |
-| 9    | {% rauserpic pinguupinguu %}        | 1    |
-| 9    | {% rauserpic QuinnWasTaken %}       | 1    |
-| 9    | {% rauserpic rabbids4eva %}         | 1    |
-| 9    | {% rauserpic Released %}            | 1    |
-| 9    | {% rauserpic Sigma501 %}            | 1    |
-| 9    | {% rauserpic Sines %}               | 1    |
-| 9    | {% rauserpic Snow %}                | 1    |
-| 9    | {% rauserpic stfN1337 %}            | 1    |
-| 9    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 9    | {% rauserpic TheJediSonic %}        | 1    |
-| 9    | {% rauserpic TheMysticalOne %}      | 1    |
-| 9    | {% rauserpic WanderingHeiho %}      | 1    |
-| 9    | {% rauserpic zaydoc %}              | 1    |
-| 9    | {% rauserpic ZZKer %}               | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpicalt suun, NamcoPlayer9871 %}                | 3    |
+| 1    | {% rauserpic suspect15 %}                               | 3    |
+| 3    | {% rauserpic Blazekickn %}                              | 2    |
+| 3    | {% rauserpic Brandovsky %}                              | 2    |
+| 3    | {% rauserpic minibt %}                                  | 2    |
+| 3    | {% rauserpic RetroDave82 %}                             | 2    |
+| 3    | {% rauserpicalt tele, televandalist %}                  | 2    |
+| 3    | {% rauserpic voiceofautumn %}                           | 2    |
+| 9    | {% rauserpic BigWeedSmokerMan %}                        | 1    |
+| 9    | {% rauserpic Bl4h8L4hBl4h %}                            | 1    |
+| 9    | {% rauserpic Cadaxar %}                                 | 1    |
+| 9    | {% rauserpic Delmaru %}                                 | 1    |
+| 9    | {% rauserpic Excessiveiser %}                           | 1    |
+| 9    | {% rauserpic guindev %}                                 | 1    |
+| 9    | {% rauserpic Hexadigital %}                             | 1    |
+| 9    | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 9    | {% rauserpic LordAndrew %}                              | 1    |
+| 9    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 9    | {% rauserpic Mendil %}                                  | 1    |
+| 9    | {% rauserpic MGNS8M %}                                  | 1    |
+| 9    | {% rauserpic pinguupinguu %}                            | 1    |
+| 9    | {% rauserpic QuinnWasTaken %}                           | 1    |
+| 9    | {% rauserpic rabbids4eva %}                             | 1    |
+| 9    | {% rauserpic Released %}                                | 1    |
+| 9    | {% rauserpic Sigma501 %}                                | 1    |
+| 9    | {% rauserpic Sines %}                                   | 1    |
+| 9    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 9    | {% rauserpic stfN1337 %}                                | 1    |
+| 9    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 9    | {% rauserpic TheJediSonic %}                            | 1    |
+| 9    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 9    | {% rauserpic WanderingHeiho %}                          | 1    |
+| 9    | {% rauserpic zaydoc %}                                  | 1    |
+| 9    | {% rauserpic ZZKer %}                                   | 1    |
 
 ## Atari Jaguar
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Blazekickn %}          | 1    |
-| 1    | {% rauserpic Brandovsky %}          | 1    |
-| 1    | {% rauserpic Cadaxar %}             | 1    |
-| 1    | {% rauserpic Excessiveiser %}       | 1    |
-| 1    | {% rauserpic guindev %}             | 1    |
-| 1    | {% rauserpic Hexadigital %}         | 1    |
-| 1    | {% rauserpic Kisumebuckets %}       | 1    |
-| 1    | {% rauserpic kmpers %}              | 1    |
-| 1    | {% rauserpic ladynadiad %}          | 1    |
-| 1    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 1    | {% rauserpic Mendil %}              | 1    |
-| 1    | {% rauserpic MGNS8M %}              | 1    |
-| 1    | {% rauserpic pinguupinguu %}        | 1    |
-| 1    | {% rauserpic RyCuLe %}              | 1    |
-| 1    | {% rauserpic Sines %}               | 1    |
-| 1    | {% rauserpic Snow %}                | 1    |
-| 1    | {% rauserpic suspect15 %}           | 1    |
-| 1    | {% rauserpic televandalist %}       | 1    |
-| 1    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 1    | {% rauserpic thatbard %}            | 1    |
-| 1    | {% rauserpic TheMysticalOne %}      | 1    |
-| 1    | {% rauserpic voiceofautumn %}       | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Blazekickn %}                              | 1    |
+| 1    | {% rauserpic Brandovsky %}                              | 1    |
+| 1    | {% rauserpic Cadaxar %}                                 | 1    |
+| 1    | {% rauserpic Excessiveiser %}                           | 1    |
+| 1    | {% rauserpic guindev %}                                 | 1    |
+| 1    | {% rauserpic Hexadigital %}                             | 1    |
+| 1    | {% rauserpic Kisumebuckets %}                           | 1    |
+| 1    | {% rauserpic kmpers %}                                  | 1    |
+| 1    | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 1    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 1    | {% rauserpic Mendil %}                                  | 1    |
+| 1    | {% rauserpic MGNS8M %}                                  | 1    |
+| 1    | {% rauserpic pinguupinguu %}                            | 1    |
+| 1    | {% rauserpic RyCuLe %}                                  | 1    |
+| 1    | {% rauserpic Sines %}                                   | 1    |
+| 1    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 1    | {% rauserpic suspect15 %}                               | 1    |
+| 1    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 1    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 1    | {% rauserpic thatbard %}                                | 1    |
+| 1    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 1    | {% rauserpic voiceofautumn %}                           | 1    |
 
 ## Atari Jaguar CD
 
-| Rank | Developer                       | Sets |
-| ---- | ------------------------------- | ---- |
-| 1    | {% rauserpic TheMysticalOne %}  | 2    |
-| 2    | {% rauserpic AuburnRDM %}       | 1    |
-| 2    | {% rauserpic Blazekickn %}      | 1    |
-| 2    | {% rauserpic Brandovsky %}      | 1    |
-| 2    | {% rauserpic BrunoKiko %}       | 1    |
-| 2    | {% rauserpic Bryan1150 %}       | 1    |
-| 2    | {% rauserpic DarkyAndreas %}    | 1    |
-| 2    | {% rauserpic Excessiveiser %}   | 1    |
-| 2    | {% rauserpic Hexadigital %}     | 1    |
-| 2    | {% rauserpic ladynadiad %}      | 1    |
-| 2    | {% rauserpic LogicalFallacy %}  | 1    |
-| 2    | {% rauserpic LordAndrew %}      | 1    |
-| 2    | {% rauserpic MaddieKittyTV %}   | 1    |
-| 2    | {% rauserpic Maximdraco %}      | 1    |
-| 2    | {% rauserpic MGNS8M %}          | 1    |
-| 2    | {% rauserpic pinguupinguu %}    | 1    |
-| 2    | {% rauserpic Searo %}           | 1    |
-| 2    | {% rauserpic Sines %}           | 1    |
-| 2    | {% rauserpic Snow %}            | 1    |
-| 2    | {% rauserpic SubliminalSiren %} | 1    |
-| 2    | {% rauserpic suspect15 %}       | 1    |
-| 2    | {% rauserpic Tayadaoc %}        | 1    |
-| 2    | {% rauserpic televandalist %}   | 1    |
-| 2    | {% rauserpic TheJediSonic %}    | 1    |
-| 2    | {% rauserpic voiceofautumn %}   | 1    |
-| 2    | {% rauserpic ZamArch %}         | 1    |
+| Rank | Developer                                        | Sets |
+| ---- | ------------------------------------------------ | ---- |
+| 1    | {% rauserpic TheMysticalOne %}                   | 2    |
+| 2    | {% rauserpic AuburnRDM %}                        | 1    |
+| 2    | {% rauserpic Blazekickn %}                       | 1    |
+| 2    | {% rauserpic Brandovsky %}                       | 1    |
+| 2    | {% rauserpic BrunoKiko %}                        | 1    |
+| 2    | {% rauserpicalt Brylefi, Bryan1150 %}            | 1    |
+| 2    | {% rauserpicalt Darky, DarkyAndreas %}           | 1    |
+| 2    | {% rauserpic Excessiveiser %}                    | 1    |
+| 2    | {% rauserpic Hexadigital %}                      | 1    |
+| 2    | {% rauserpicalt LadyNadia, ladynadiad %}         | 1    |
+| 2    | {% rauserpic LogicalFallacy %}                   | 1    |
+| 2    | {% rauserpic LordAndrew %}                       | 1    |
+| 2    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 1    |
+| 2    | {% rauserpic Maximdraco %}                       | 1    |
+| 2    | {% rauserpic MGNS8M %}                           | 1    |
+| 2    | {% rauserpic pinguupinguu %}                     | 1    |
+| 2    | {% rauserpic Searo %}                            | 1    |
+| 2    | {% rauserpic Sines %}                            | 1    |
+| 2    | {% rauserpicalt SnowPin, Snow %}                 | 1    |
+| 2    | {% rauserpic SubliminalSiren %}                  | 1    |
+| 2    | {% rauserpic suspect15 %}                        | 1    |
+| 2    | {% rauserpic Tayadaoc %}                         | 1    |
+| 2    | {% rauserpicalt tele, televandalist %}           | 1    |
+| 2    | {% rauserpic TheJediSonic %}                     | 1    |
+| 2    | {% rauserpic voiceofautumn %}                    | 1    |
+| 2    | {% rauserpic ZamArch %}                          | 1    |
 
 ## Atari Lynx
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic voiceofautumn %}       | 5    |
-| 2    | {% rauserpic Sines %}               | 4    |
-| 3    | {% rauserpic Blazekickn %}          | 2    |
-| 3    | {% rauserpic MaddieKittyTV %}       | 2    |
-| 3    | {% rauserpic Mendil %}              | 2    |
-| 6    | {% rauserpic Achievess %}           | 1    |
-| 6    | {% rauserpic Brandovsky %}          | 1    |
-| 6    | {% rauserpic Burrrrris %}           | 1    |
-| 6    | {% rauserpic Cadaxar %}             | 1    |
-| 6    | {% rauserpic ChaoticAdventure %}    | 1    |
-| 6    | {% rauserpic Excessiveiser %}       | 1    |
-| 6    | {% rauserpic Grenade44 %}           | 1    |
-| 6    | {% rauserpic guindev %}             | 1    |
-| 6    | {% rauserpic Hexadigital %}         | 1    |
-| 6    | {% rauserpic kdecks %}              | 1    |
-| 6    | {% rauserpic ladynadiad %}          | 1    |
-| 6    | {% rauserpic LiveFastCyYoung %}     | 1    |
-| 6    | {% rauserpic MGNS8M %}              | 1    |
-| 6    | {% rauserpic pinguupinguu %}        | 1    |
-| 6    | {% rauserpic rabbids4eva %}         | 1    |
-| 6    | {% rauserpic s0uth %}               | 1    |
-| 6    | {% rauserpic Searo %}               | 1    |
-| 6    | {% rauserpic Sigma501 %}            | 1    |
-| 6    | {% rauserpic Snow %}                | 1    |
-| 6    | {% rauserpic Som1 %}                | 1    |
-| 6    | {% rauserpic suspect15 %}           | 1    |
-| 6    | {% rauserpic televandalist %}       | 1    |
-| 6    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 6    | {% rauserpic TheMysticalOne %}      | 1    |
-| 6    | {% rauserpic VampireLord %}         | 1    |
-| 6    | {% rauserpic WanderingHeiho %}      | 1    |
-| 6    | {% rauserpic Wimpy %}               | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic voiceofautumn %}                           | 5    |
+| 2    | {% rauserpic Sines %}                                   | 4    |
+| 3    | {% rauserpic Blazekickn %}                              | 2    |
+| 3    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 2    |
+| 3    | {% rauserpic Mendil %}                                  | 2    |
+| 6    | {% rauserpic Achievess %}                               | 1    |
+| 6    | {% rauserpic Brandovsky %}                              | 1    |
+| 6    | {% rauserpic Burrrrris %}                               | 1    |
+| 6    | {% rauserpic Cadaxar %}                                 | 1    |
+| 6    | {% rauserpic ChaoticAdventure %}                        | 1    |
+| 6    | {% rauserpic Excessiveiser %}                           | 1    |
+| 6    | {% rauserpic Grenade44 %}                               | 1    |
+| 6    | {% rauserpic guindev %}                                 | 1    |
+| 6    | {% rauserpic Hexadigital %}                             | 1    |
+| 6    | {% rauserpic kdecks %}                                  | 1    |
+| 6    | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 6    | {% rauserpic LiveFastCyYoung %}                         | 1    |
+| 6    | {% rauserpic MGNS8M %}                                  | 1    |
+| 6    | {% rauserpic pinguupinguu %}                            | 1    |
+| 6    | {% rauserpic rabbids4eva %}                             | 1    |
+| 6    | {% rauserpic s0uth %}                                   | 1    |
+| 6    | {% rauserpic Searo %}                                   | 1    |
+| 6    | {% rauserpic Sigma501 %}                                | 1    |
+| 6    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 6    | {% rauserpic Som1 %}                                    | 1    |
+| 6    | {% rauserpic suspect15 %}                               | 1    |
+| 6    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 6    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 6    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 6    | {% rauserpicalt MarioDuarteGJ, VampireLord %}           | 1    |
+| 6    | {% rauserpic WanderingHeiho %}                          | 1    |
+| 6    | {% rauserpic Wimpy %}                                   | 1    |
 
 ## ColecoVision
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic NamcoPlayer9871 %}     | 4    |
-| 2    | {% rauserpic Bilalscape12 %}        | 2    |
-| 2    | {% rauserpic Mendil %}              | 2    |
-| 2    | {% rauserpic pinguupinguu %}        | 2    |
-| 2    | {% rauserpic Sines %}               | 2    |
-| 2    | {% rauserpic ThatAmericanSlacker %} | 2    |
-| 2    | {% rauserpic voiceofautumn %}       | 2    |
-| 8    | {% rauserpic Aaamdacuaga %}         | 1    |
-| 8    | {% rauserpic Achievess %}           | 1    |
-| 8    | {% rauserpic Amir96lx %}            | 1    |
-| 8    | {% rauserpic Brandovsky %}          | 1    |
-| 8    | {% rauserpic Cadaxar %}             | 1    |
-| 8    | {% rauserpic caricatur %}           | 1    |
-| 8    | {% rauserpic Excessiveiser %}       | 1    |
-| 8    | {% rauserpic Gloves %}              | 1    |
-| 8    | {% rauserpic guindev %}             | 1    |
-| 8    | {% rauserpic Hexadigital %}         | 1    |
-| 8    | {% rauserpic Jamiras %}             | 1    |
-| 8    | {% rauserpic Julysse %}             | 1    |
-| 8    | {% rauserpic ladynadiad %}          | 1    |
-| 8    | {% rauserpic LogicalFallacy %}      | 1    |
-| 8    | {% rauserpic LordAndrew %}          | 1    |
-| 8    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 8    | {% rauserpic Maximdraco %}          | 1    |
-| 8    | {% rauserpic MGNS8M %}              | 1    |
-| 8    | {% rauserpic Prims %}               | 1    |
-| 8    | {% rauserpic Snow %}                | 1    |
-| 8    | {% rauserpic solidification %}      | 1    |
-| 8    | {% rauserpic soltyd %}              | 1    |
-| 8    | {% rauserpic suspect15 %}           | 1    |
-| 8    | {% rauserpic Sutarion %}            | 1    |
-| 8    | {% rauserpic televandalist %}       | 1    |
-| 8    | {% rauserpic TheJediSonic %}        | 1    |
-| 8    | {% rauserpic TheMysticalOne %}      | 1    |
-| 8    | {% rauserpic Valvadis %}            | 1    |
-| 8    | {% rauserpic WanderingHeiho %}      | 1    |
-| 8    | {% rauserpic wolfman2000 %}         | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpicalt suun, NamcoPlayer9871 %}                | 4    |
+| 2    | {% rauserpic Bilalscape12 %}                            | 2    |
+| 2    | {% rauserpic Mendil %}                                  | 2    |
+| 2    | {% rauserpic pinguupinguu %}                            | 2    |
+| 2    | {% rauserpic Sines %}                                   | 2    |
+| 2    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 2    |
+| 2    | {% rauserpic voiceofautumn %}                           | 2    |
+| 8    | {% rauserpic Aaamdacuaga %}                             | 1    |
+| 8    | {% rauserpic Achievess %}                               | 1    |
+| 8    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 8    | {% rauserpic Brandovsky %}                              | 1    |
+| 8    | {% rauserpic Cadaxar %}                                 | 1    |
+| 8    | {% rauserpic caricatur %}                               | 1    |
+| 8    | {% rauserpic Excessiveiser %}                           | 1    |
+| 8    | {% rauserpic Gloves %}                                  | 1    |
+| 8    | {% rauserpic guindev %}                                 | 1    |
+| 8    | {% rauserpic Hexadigital %}                             | 1    |
+| 8    | {% rauserpic Jamiras %}                                 | 1    |
+| 8    | {% rauserpic Julysse %}                                 | 1    |
+| 8    | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 8    | {% rauserpic LogicalFallacy %}                          | 1    |
+| 8    | {% rauserpic LordAndrew %}                              | 1    |
+| 8    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 8    | {% rauserpic Maximdraco %}                              | 1    |
+| 8    | {% rauserpic MGNS8M %}                                  | 1    |
+| 8    | {% rauserpic Prims %}                                   | 1    |
+| 8    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 8    | {% rauserpic solidification %}                          | 1    |
+| 8    | {% rauserpic soltyd %}                                  | 1    |
+| 8    | {% rauserpic suspect15 %}                               | 1    |
+| 8    | {% rauserpic Sutarion %}                                | 1    |
+| 8    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 8    | {% rauserpic TheJediSonic %}                            | 1    |
+| 8    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 8    | {% rauserpic Valvadis %}                                | 1    |
+| 8    | {% rauserpic WanderingHeiho %}                          | 1    |
+| 8    | {% rauserpicalt lonegraywolf2000, wolfman2000 %}        | 1    |
 
 ## Dreamcast
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic AlexGatao %}           | 7    |
-| 1    | {% rauserpic MGNS8M %}              | 7    |
-| 1    | {% rauserpic zxmega %}              | 7    |
-| 4    | {% rauserpic shnick1980 %}          | 6    |
-| 5    | {% rauserpic Excessiveiser %}       | 5    |
-| 5    | {% rauserpic Retrokaiser %}         | 5    |
-| 7    | {% rauserpic SlashTangent %}        | 4    |
-| 7    | {% rauserpic televandalist %}       | 4    |
-| 9    | {% rauserpic NeonPug %}             | 3    |
-| 9    | {% rauserpic Snow %}                | 3    |
-| 9    | {% rauserpic ThatAmericanSlacker %} | 3    |
-| 12   | {% rauserpic Anic %}                | 2    |
-| 12   | {% rauserpic Bilalscape12 %}        | 2    |
-| 12   | {% rauserpic Delmaru %}             | 2    |
-| 12   | {% rauserpic DoctorV %}             | 2    |
-| 12   | {% rauserpic Falcus %}              | 2    |
-| 12   | {% rauserpic Fridge %}              | 2    |
-| 12   | {% rauserpic Goodbite %}            | 2    |
-| 12   | {% rauserpic guindev %}             | 2    |
-| 12   | {% rauserpic Hexadigital %}         | 2    |
-| 12   | {% rauserpic LogicalFallacy %}      | 2    |
-| 12   | {% rauserpic Mekevin255 %}          | 2    |
-| 12   | {% rauserpic Numberman %}           | 2    |
-| 12   | {% rauserpic Pebete %}              | 2    |
-| 12   | {% rauserpic PsyHunter29 %}         | 2    |
-| 12   | {% rauserpic Sines %}               | 2    |
-| 12   | {% rauserpic StingX2 %}             | 2    |
-| 12   | {% rauserpic tatoonie %}            | 2    |
-| 12   | {% rauserpic Tayadaoc %}            | 2    |
-| 12   | {% rauserpic TeddyWestside %}       | 2    |
-| 12   | {% rauserpic voiceofautumn %}       | 2    |
-| 12   | {% rauserpic ZamArch %}             | 2    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpicalt AlexHylian, AlexGatao %}                | 7    |
+| 1    | {% rauserpic MGNS8M %}                                  | 7    |
+| 1    | {% rauserpic zxmega %}                                  | 7    |
+| 4    | {% rauserpic shnick1980 %}                              | 6    |
+| 5    | {% rauserpic Excessiveiser %}                           | 5    |
+| 5    | {% rauserpic Retrokaiser %}                             | 5    |
+| 7    | {% rauserpic SlashTangent %}                            | 4    |
+| 7    | {% rauserpicalt tele, televandalist %}                  | 4    |
+| 9    | {% rauserpic NeonPug %}                                 | 3    |
+| 9    | {% rauserpicalt SnowPin, Snow %}                        | 3    |
+| 9    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 3    |
+| 12   | {% rauserpic Anic %}                                    | 2    |
+| 12   | {% rauserpic Bilalscape12 %}                            | 2    |
+| 12   | {% rauserpic Delmaru %}                                 | 2    |
+| 12   | {% rauserpic DoctorV %}                                 | 2    |
+| 12   | {% rauserpic Falcus %}                                  | 2    |
+| 12   | {% rauserpic Fridge %}                                  | 2    |
+| 12   | {% rauserpic Goodbite %}                                | 2    |
+| 12   | {% rauserpic guindev %}                                 | 2    |
+| 12   | {% rauserpic Hexadigital %}                             | 2    |
+| 12   | {% rauserpic LogicalFallacy %}                          | 2    |
+| 12   | {% rauserpic Mekevin255 %}                              | 2    |
+| 12   | {% rauserpic Numberman %}                               | 2    |
+| 12   | {% rauserpic Pebete %}                                  | 2    |
+| 12   | {% rauserpic PsyHunter29 %}                             | 2    |
+| 12   | {% rauserpic Sines %}                                   | 2    |
+| 12   | {% rauserpic StingX2 %}                                 | 2    |
+| 12   | {% rauserpic tatoonie %}                                | 2    |
+| 12   | {% rauserpic Tayadaoc %}                                | 2    |
+| 12   | {% rauserpic TeddyWestside %}                           | 2    |
+| 12   | {% rauserpic voiceofautumn %}                           | 2    |
+| 12   | {% rauserpic ZamArch %}                                 | 2    |
 
 ## Elektor TV Games Computer
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Aaamdacuaga %}         | 1    |
-| 1    | {% rauserpic Amir96lx %}            | 1    |
-| 1    | {% rauserpic AuburnRDM %}           | 1    |
-| 1    | {% rauserpic Brandovsky %}          | 1    |
-| 1    | {% rauserpic Bryan1150 %}           | 1    |
-| 1    | {% rauserpic Cadaxar %}             | 1    |
-| 1    | {% rauserpic DarkyAndreas %}        | 1    |
-| 1    | {% rauserpic Excessiveiser %}       | 1    |
-| 1    | {% rauserpic Hexadigital %}         | 1    |
-| 1    | {% rauserpic ladynadiad %}          | 1    |
-| 1    | {% rauserpic LogicalFallacy %}      | 1    |
-| 1    | {% rauserpic LordAndrew %}          | 1    |
-| 1    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 1    | {% rauserpic Maximdraco %}          | 1    |
-| 1    | {% rauserpic Mendil %}              | 1    |
-| 1    | {% rauserpic MGNS8M %}              | 1    |
-| 1    | {% rauserpic pinguupinguu %}        | 1    |
-| 1    | {% rauserpic Sines %}               | 1    |
-| 1    | {% rauserpic Snow %}                | 1    |
-| 1    | {% rauserpic suspect15 %}           | 1    |
-| 1    | {% rauserpic Sutarion %}            | 1    |
-| 1    | {% rauserpic Tayadaoc %}            | 1    |
-| 1    | {% rauserpic televandalist %}       | 1    |
-| 1    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 1    | {% rauserpic TheJediSonic %}        | 1    |
-| 1    | {% rauserpic TheMysticalOne %}      | 1    |
-| 1    | {% rauserpic TheXIIIthX %}          | 1    |
-| 1    | {% rauserpic tomojin %}             | 1    |
-| 1    | {% rauserpic voiceofautumn %}       | 1    |
-| 1    | {% rauserpic xnaivx %}              | 1    |
-| 1    | {% rauserpic ZamArch %}             | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Aaamdacuaga %}                             | 1    |
+| 1    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 1    | {% rauserpic AuburnRDM %}                               | 1    |
+| 1    | {% rauserpic Brandovsky %}                              | 1    |
+| 1    | {% rauserpicalt Brylefi, Bryan1150 %}                   | 1    |
+| 1    | {% rauserpic Cadaxar %}                                 | 1    |
+| 1    | {% rauserpicalt Darky, DarkyAndreas %}                  | 1    |
+| 1    | {% rauserpic Excessiveiser %}                           | 1    |
+| 1    | {% rauserpic Hexadigital %}                             | 1    |
+| 1    | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 1    | {% rauserpic LogicalFallacy %}                          | 1    |
+| 1    | {% rauserpic LordAndrew %}                              | 1    |
+| 1    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 1    | {% rauserpic Maximdraco %}                              | 1    |
+| 1    | {% rauserpic Mendil %}                                  | 1    |
+| 1    | {% rauserpic MGNS8M %}                                  | 1    |
+| 1    | {% rauserpic pinguupinguu %}                            | 1    |
+| 1    | {% rauserpic Sines %}                                   | 1    |
+| 1    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 1    | {% rauserpic suspect15 %}                               | 1    |
+| 1    | {% rauserpic Sutarion %}                                | 1    |
+| 1    | {% rauserpic Tayadaoc %}                                | 1    |
+| 1    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 1    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 1    | {% rauserpic TheJediSonic %}                            | 1    |
+| 1    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 1    | {% rauserpic TheXIIIthX %}                              | 1    |
+| 1    | {% rauserpic tomojin %}                                 | 1    |
+| 1    | {% rauserpic voiceofautumn %}                           | 1    |
+| 1    | {% rauserpic xnaivx %}                                  | 1    |
+| 1    | {% rauserpic ZamArch %}                                 | 1    |
 
 ## Fairchild Channel F
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Maximdraco %}          | 2    |
-| 2    | {% rauserpic Agnam %}               | 1    |
-| 2    | {% rauserpic Amir96lx %}            | 1    |
-| 2    | {% rauserpic AuburnRDM %}           | 1    |
-| 2    | {% rauserpic BahamutVoid %}         | 1    |
-| 2    | {% rauserpic Bartis1989 %}          | 1    |
-| 2    | {% rauserpic BeeroyLenkins %}       | 1    |
-| 2    | {% rauserpic BEXUS %}               | 1    |
-| 2    | {% rauserpic BigDonRob %}           | 1    |
-| 2    | {% rauserpic BiPolarScientist %}    | 1    |
-| 2    | {% rauserpic Bryan1150 %}           | 1    |
-| 2    | {% rauserpic Burrrrris %}           | 1    |
-| 2    | {% rauserpic Cadaxar %}             | 1    |
-| 2    | {% rauserpic ChaoticAdventure %}    | 1    |
-| 2    | {% rauserpic Cruzelion %}           | 1    |
-| 2    | {% rauserpic Etron %}               | 1    |
-| 2    | {% rauserpic Excessiveiser %}       | 1    |
-| 2    | {% rauserpic Falcus %}              | 1    |
-| 2    | {% rauserpic Gadet %}               | 1    |
-| 2    | {% rauserpic Gudra %}               | 1    |
-| 2    | {% rauserpic Hexadigital %}         | 1    |
-| 2    | {% rauserpic Homuki %}              | 1    |
-| 2    | {% rauserpic JustLilith %}          | 1    |
-| 2    | {% rauserpic KingS1zzle %}          | 1    |
-| 2    | {% rauserpic Layton %}              | 1    |
-| 2    | {% rauserpic Lilihierax %}          | 1    |
-| 2    | {% rauserpic LogicalFallacy %}      | 1    |
-| 2    | {% rauserpic LordAndrew %}          | 1    |
-| 2    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 2    | {% rauserpic MelodyAsh %}           | 1    |
-| 2    | {% rauserpic Mendil %}              | 1    |
-| 2    | {% rauserpic Nevermond12 %}         | 1    |
-| 2    | {% rauserpic pickledyamsman %}      | 1    |
-| 2    | {% rauserpic pinguupinguu %}        | 1    |
-| 2    | {% rauserpic Player1041 %}          | 1    |
-| 2    | {% rauserpic Pudpod %}              | 1    |
-| 2    | {% rauserpic Searo %}               | 1    |
-| 2    | {% rauserpic ShadowFox02 %}         | 1    |
-| 2    | {% rauserpic Sines %}               | 1    |
-| 2    | {% rauserpic Snow %}                | 1    |
-| 2    | {% rauserpic Soulsderfuchs %}       | 1    |
-| 2    | {% rauserpic SporyTike %}           | 1    |
-| 2    | {% rauserpic StingX2 %}             | 1    |
-| 2    | {% rauserpic suspect15 %}           | 1    |
-| 2    | {% rauserpic Sutarion %}            | 1    |
-| 2    | {% rauserpic Tayadaoc %}            | 1    |
-| 2    | {% rauserpic Teddy1991 %}           | 1    |
-| 2    | {% rauserpic televandalist %}       | 1    |
-| 2    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 2    | {% rauserpic TheJediSonic %}        | 1    |
-| 2    | {% rauserpic TheMysticalOne %}      | 1    |
-| 2    | {% rauserpic TheXIIIthX %}          | 1    |
-| 2    | {% rauserpic tomojin %}             | 1    |
-| 2    | {% rauserpic Triforce %}            | 1    |
-| 2    | {% rauserpic Verros %}              | 1    |
-| 2    | {% rauserpic voiceofautumn %}       | 1    |
-| 2    | {% rauserpic WanderingHeiho %}      | 1    |
-| 2    | {% rauserpic wolfman2000 %}         | 1    |
-| 2    | {% rauserpic xClawz %}              | 1    |
-| 2    | {% rauserpic ZamArch %}             | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Maximdraco %}                              | 2    |
+| 2    | {% rauserpic Agnam %}                                   | 1    |
+| 2    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 2    | {% rauserpic AuburnRDM %}                               | 1    |
+| 2    | {% rauserpic BahamutVoid %}                             | 1    |
+| 2    | {% rauserpic Bartis1989 %}                              | 1    |
+| 2    | {% rauserpic BeeroyLenkins %}                           | 1    |
+| 2    | {% rauserpic BEXUS %}                                   | 1    |
+| 2    | {% rauserpic BigDonRob %}                               | 1    |
+| 2    | {% rauserpic BiPolarScientist %}                        | 1    |
+| 2    | {% rauserpicalt Brylefi, Bryan1150 %}                   | 1    |
+| 2    | {% rauserpic Burrrrris %}                               | 1    |
+| 2    | {% rauserpic Cadaxar %}                                 | 1    |
+| 2    | {% rauserpic ChaoticAdventure %}                        | 1    |
+| 2    | {% rauserpic Cruzelion %}                               | 1    |
+| 2    | {% rauserpic Etron %}                                   | 1    |
+| 2    | {% rauserpic Excessiveiser %}                           | 1    |
+| 2    | {% rauserpic Falcus %}                                  | 1    |
+| 2    | {% rauserpicalt SiSiSierra, Gadet %}                    | 1    |
+| 2    | {% rauserpic Gudra %}                                   | 1    |
+| 2    | {% rauserpic Hexadigital %}                             | 1    |
+| 2    | {% rauserpic Homuki %}                                  | 1    |
+| 2    | {% rauserpic JustLilith %}                              | 1    |
+| 2    | {% rauserpic KingS1zzle %}                              | 1    |
+| 2    | {% rauserpic Layton %}                                  | 1    |
+| 2    | {% rauserpic Lilihierax %}                              | 1    |
+| 2    | {% rauserpic LogicalFallacy %}                          | 1    |
+| 2    | {% rauserpic LordAndrew %}                              | 1    |
+| 2    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 2    | {% rauserpic MelodyAsh %}                               | 1    |
+| 2    | {% rauserpic Mendil %}                                  | 1    |
+| 2    | {% rauserpicalt agoodduck, Nevermond12 %}               | 1    |
+| 2    | {% rauserpic pickledyamsman %}                          | 1    |
+| 2    | {% rauserpic pinguupinguu %}                            | 1    |
+| 2    | {% rauserpicalt PS2Hagrid, Player1041 %}                | 1    |
+| 2    | {% rauserpic Pudpod %}                                  | 1    |
+| 2    | {% rauserpic Searo %}                                   | 1    |
+| 2    | {% rauserpic ShadowFox02 %}                             | 1    |
+| 2    | {% rauserpic Sines %}                                   | 1    |
+| 2    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 2    | {% rauserpic Soulsderfuchs %}                           | 1    |
+| 2    | {% rauserpic SporyTike %}                               | 1    |
+| 2    | {% rauserpic StingX2 %}                                 | 1    |
+| 2    | {% rauserpic suspect15 %}                               | 1    |
+| 2    | {% rauserpic Sutarion %}                                | 1    |
+| 2    | {% rauserpic Tayadaoc %}                                | 1    |
+| 2    | {% rauserpic Teddy1991 %}                               | 1    |
+| 2    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 2    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 2    | {% rauserpic TheJediSonic %}                            | 1    |
+| 2    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 2    | {% rauserpic TheXIIIthX %}                              | 1    |
+| 2    | {% rauserpic tomojin %}                                 | 1    |
+| 2    | {% rauserpic Triforce %}                                | 1    |
+| 2    | {% rauserpic Verros %}                                  | 1    |
+| 2    | {% rauserpic voiceofautumn %}                           | 1    |
+| 2    | {% rauserpic WanderingHeiho %}                          | 1    |
+| 2    | {% rauserpicalt lonegraywolf2000, wolfman2000 %}        | 1    |
+| 2    | {% rauserpic xClawz %}                                  | 1    |
+| 2    | {% rauserpic ZamArch %}                                 | 1    |
 
 ## Famicom Disk System
 
-| Rank | Developer                       | Sets |
-| ---- | ------------------------------- | ---- |
-| 1    | {% rauserpic KiwiTaco %}        | 4    |
-| 2    | {% rauserpic suspect15 %}       | 3    |
-| 3    | {% rauserpic Achievess %}       | 2    |
-| 3    | {% rauserpic JAM %}             | 2    |
-| 3    | {% rauserpic kmpers %}          | 2    |
-| 3    | {% rauserpic ladynadiad %}      | 2    |
-| 7    | {% rauserpic Blazekickn %}      | 1    |
-| 7    | {% rauserpic EulerMoises1981 %} | 1    |
-| 7    | {% rauserpic Excessiveiser %}   | 1    |
-| 7    | {% rauserpic FernandoFFS %}     | 1    |
-| 7    | {% rauserpic graypigeon22 %}    | 1    |
-| 7    | {% rauserpic guindev %}         | 1    |
-| 7    | {% rauserpic JustLilith %}      | 1    |
-| 7    | {% rauserpic Landa %}           | 1    |
-| 7    | {% rauserpic MaddieKittyTV %}   | 1    |
-| 7    | {% rauserpic MGNS8M %}          | 1    |
-| 7    | {% rauserpic psyduck %}         | 1    |
-| 7    | {% rauserpic RotoMola %}        | 1    |
-| 7    | {% rauserpic ryuzakimrl %}      | 1    |
-| 7    | {% rauserpic Sines %}           | 1    |
-| 7    | {% rauserpic SporyTike %}       | 1    |
-| 7    | {% rauserpic starlite %}        | 1    |
-| 7    | {% rauserpic Tardigrade %}      | 1    |
-| 7    | {% rauserpic TheMysticalOne %}  | 1    |
-| 7    | {% rauserpic TheXIIIthX %}      | 1    |
-| 7    | {% rauserpic TwosomesUP %}      | 1    |
-| 7    | {% rauserpic WheelsAndWhirls %} | 1    |
+| Rank | Developer                                        | Sets |
+| ---- | ------------------------------------------------ | ---- |
+| 1    | {% rauserpic KiwiTaco %}                         | 4    |
+| 2    | {% rauserpic suspect15 %}                        | 3    |
+| 3    | {% rauserpic Achievess %}                        | 2    |
+| 3    | {% rauserpic JAM %}                              | 2    |
+| 3    | {% rauserpic kmpers %}                           | 2    |
+| 3    | {% rauserpicalt LadyNadia, ladynadiad %}         | 2    |
+| 7    | {% rauserpic Blazekickn %}                       | 1    |
+| 7    | {% rauserpic EulerMoises1981 %}                  | 1    |
+| 7    | {% rauserpic Excessiveiser %}                    | 1    |
+| 7    | {% rauserpic FernandoFFS %}                      | 1    |
+| 7    | {% rauserpicalt Pearl, graypigeon22 %}           | 1    |
+| 7    | {% rauserpic guindev %}                          | 1    |
+| 7    | {% rauserpic JustLilith %}                       | 1    |
+| 7    | {% rauserpic Landa %}                            | 1    |
+| 7    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 1    |
+| 7    | {% rauserpic MGNS8M %}                           | 1    |
+| 7    | {% rauserpic psyduck %}                          | 1    |
+| 7    | {% rauserpic RotoMola %}                         | 1    |
+| 7    | {% rauserpic ryuzakimrl %}                       | 1    |
+| 7    | {% rauserpic Sines %}                            | 1    |
+| 7    | {% rauserpic SporyTike %}                        | 1    |
+| 7    | {% rauserpic starlite %}                         | 1    |
+| 7    | {% rauserpic Tardigrade %}                       | 1    |
+| 7    | {% rauserpic TheMysticalOne %}                   | 1    |
+| 7    | {% rauserpic TheXIIIthX %}                       | 1    |
+| 7    | {% rauserpicalt BacklogOddy, TwosomesUP %}       | 1    |
+| 7    | {% rauserpic WheelsAndWhirls %}                  | 1    |
 
 ## Game Boy
 
-| Rank | Developer                      | Sets |
-| ---- | ------------------------------ | ---- |
-| 1    | {% rauserpic jackolantern %}   | 25   |
-| 2    | {% rauserpic SporyTike %}      | 16   |
-| 3    | {% rauserpic stfN1337 %}       | 12   |
-| 4    | {% rauserpic MrOwnership %}    | 9    |
-| 4    | {% rauserpic Snow %}           | 9    |
-| 4    | {% rauserpic voiceofautumn %}  | 9    |
-| 7    | {% rauserpic Cadaxar %}        | 8    |
-| 7    | {% rauserpic StingX2 %}        | 8    |
-| 7    | {% rauserpic wolfman2000 %}    | 8    |
-| 10   | {% rauserpic MGNS8M %}         | 7    |
-| 11   | {% rauserpic Brandovsky %}     | 6    |
-| 11   | {% rauserpic dude1286 %}       | 6    |
-| 11   | {% rauserpic feifabricio %}    | 6    |
-| 11   | {% rauserpic Hexadigital %}    | 6    |
-| 11   | {% rauserpic ladynadiad %}     | 6    |
-| 11   | {% rauserpic solidification %} | 6    |
-| 17   | {% rauserpic adamjohnny5 %}    | 5    |
-| 17   | {% rauserpic Altomar %}        | 5    |
-| 17   | {% rauserpic coczero %}        | 5    |
-| 17   | {% rauserpic Delmaru %}        | 5    |
-| 17   | {% rauserpic Infernox %}       | 5    |
-| 17   | {% rauserpic pinguupinguu %}   | 5    |
-| 17   | {% rauserpic Rdannylor2 %}     | 5    |
-| 17   | {% rauserpic Som1 %}           | 5    |
-| 25   | {% rauserpic Excessiveiser %}  | 4    |
-| 25   | {% rauserpic LordAndrew %}     | 4    |
-| 25   | {% rauserpic Maximdraco %}     | 4    |
-| 25   | {% rauserpic mopain85 %}       | 4    |
-| 25   | {% rauserpic nemesis1385 %}    | 4    |
-| 25   | {% rauserpic suspect15 %}      | 4    |
-| 25   | {% rauserpic tuinj %}          | 4    |
+| Rank | Developer                                        | Sets |
+| ---- | ------------------------------------------------ | ---- |
+| 1    | {% rauserpic jackolantern %}                     | 25   |
+| 2    | {% rauserpic SporyTike %}                        | 16   |
+| 3    | {% rauserpic stfN1337 %}                         | 12   |
+| 4    | {% rauserpic MrOwnership %}                      | 9    |
+| 4    | {% rauserpicalt SnowPin, Snow %}                 | 9    |
+| 4    | {% rauserpic voiceofautumn %}                    | 9    |
+| 7    | {% rauserpic Cadaxar %}                          | 8    |
+| 7    | {% rauserpic StingX2 %}                          | 8    |
+| 7    | {% rauserpicalt lonegraywolf2000, wolfman2000 %} | 8    |
+| 10   | {% rauserpic MGNS8M %}                           | 7    |
+| 11   | {% rauserpic Brandovsky %}                       | 6    |
+| 11   | {% rauserpic dude1286 %}                         | 6    |
+| 11   | {% rauserpic feifabricio %}                      | 6    |
+| 11   | {% rauserpic Hexadigital %}                      | 6    |
+| 11   | {% rauserpicalt LadyNadia, ladynadiad %}         | 6    |
+| 11   | {% rauserpic solidification %}                   | 6    |
+| 17   | {% rauserpic adamjohnny5 %}                      | 5    |
+| 17   | {% rauserpic Altomar %}                          | 5    |
+| 17   | {% rauserpic coczero %}                          | 5    |
+| 17   | {% rauserpic Delmaru %}                          | 5    |
+| 17   | {% rauserpic Infernox %}                         | 5    |
+| 17   | {% rauserpic pinguupinguu %}                     | 5    |
+| 17   | {% rauserpic Rdannylor2 %}                       | 5    |
+| 17   | {% rauserpic Som1 %}                             | 5    |
+| 25   | {% rauserpic Excessiveiser %}                    | 4    |
+| 25   | {% rauserpic LordAndrew %}                       | 4    |
+| 25   | {% rauserpic Maximdraco %}                       | 4    |
+| 25   | {% rauserpic mopain85 %}                         | 4    |
+| 25   | {% rauserpic nemesis1385 %}                      | 4    |
+| 25   | {% rauserpic suspect15 %}                        | 4    |
+| 25   | {% rauserpic tuinj %}                            | 4    |
 
 ## Game Boy Advance
 
-| Rank | Developer                     | Sets |
-| ---- | ----------------------------- | ---- |
-| 1    | {% rauserpic voiceofautumn %} | 45   |
-| 2    | {% rauserpic SporyTike %}     | 30   |
-| 3    | {% rauserpic Delmaru %}       | 23   |
-| 4    | {% rauserpic Dexterspet %}    | 20   |
-| 5    | {% rauserpic Blazekickn %}    | 18   |
-| 6    | {% rauserpic Sines %}         | 15   |
-| 7    | {% rauserpic MeCKooLL %}      | 14   |
-| 8    | {% rauserpic Brian %}         | 13   |
-| 9    | {% rauserpic Snow %}          | 12   |
-| 10   | {% rauserpic MaddieKittyTV %} | 11   |
-| 10   | {% rauserpic pinguupinguu %}  | 11   |
-| 12   | {% rauserpic MGNS8M %}        | 10   |
-| 12   | {% rauserpic RyCuLe %}        | 10   |
-| 14   | {% rauserpic Bryan1150 %}     | 9    |
-| 14   | {% rauserpic Hexadigital %}   | 9    |
-| 16   | {% rauserpic blendedsea %}    | 8    |
-| 16   | {% rauserpic GalacticSpear %} | 8    |
-| 16   | {% rauserpic Layton %}        | 8    |
-| 16   | {% rauserpic mickyt888 %}     | 8    |
-| 16   | {% rauserpic YuriRod50248 %}  | 8    |
-| 21   | {% rauserpic Achievess %}     | 7    |
-| 21   | {% rauserpic Rewsifer %}      | 7    |
-| 21   | {% rauserpic stfN1337 %}      | 7    |
-| 24   | {% rauserpic Bilalscape12 %}  | 6    |
-| 24   | {% rauserpic salvadorc17 %}   | 6    |
-| 24   | {% rauserpic Triforce %}      | 6    |
+| Rank | Developer                                        | Sets |
+| ---- | ------------------------------------------------ | ---- |
+| 1    | {% rauserpic voiceofautumn %}                    | 45   |
+| 2    | {% rauserpic SporyTike %}                        | 30   |
+| 3    | {% rauserpic Delmaru %}                          | 23   |
+| 4    | {% rauserpic Dexterspet %}                       | 20   |
+| 5    | {% rauserpic Blazekickn %}                       | 18   |
+| 6    | {% rauserpic Sines %}                            | 15   |
+| 7    | {% rauserpic MeCKooLL %}                         | 14   |
+| 8    | {% rauserpic Brian %}                            | 13   |
+| 9    | {% rauserpicalt SnowPin, Snow %}                 | 12   |
+| 10   | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 11   |
+| 10   | {% rauserpic pinguupinguu %}                     | 11   |
+| 12   | {% rauserpic MGNS8M %}                           | 10   |
+| 12   | {% rauserpic RyCuLe %}                           | 10   |
+| 14   | {% rauserpicalt Brylefi, Bryan1150 %}            | 9    |
+| 14   | {% rauserpic Hexadigital %}                      | 9    |
+| 16   | {% rauserpic blendedsea %}                       | 8    |
+| 16   | {% rauserpic GalacticSpear %}                    | 8    |
+| 16   | {% rauserpic Layton %}                           | 8    |
+| 16   | {% rauserpic mickyt888 %}                        | 8    |
+| 16   | {% rauserpic YuriRod50248 %}                     | 8    |
+| 21   | {% rauserpic Achievess %}                        | 7    |
+| 21   | {% rauserpic Rewsifer %}                         | 7    |
+| 21   | {% rauserpic stfN1337 %}                         | 7    |
+| 24   | {% rauserpic Bilalscape12 %}                     | 6    |
+| 24   | {% rauserpic salvadorc17 %}                      | 6    |
+| 24   | {% rauserpic Triforce %}                         | 6    |
 
 ## Game Boy Color
 
-| Rank | Developer                      | Sets |
-| ---- | ------------------------------ | ---- |
-| 1    | {% rauserpic voiceofautumn %}  | 26   |
-| 2    | {% rauserpic SporyTike %}      | 23   |
-| 3    | {% rauserpic Layton %}         | 11   |
-| 3    | {% rauserpic MaddieKittyTV %}  | 11   |
-| 5    | {% rauserpic jackolantern %}   | 10   |
-| 6    | {% rauserpic Rewsifer %}       | 9    |
-| 6    | {% rauserpic wolfman2000 %}    | 9    |
-| 8    | {% rauserpic monkeytoung %}    | 8    |
-| 8    | {% rauserpic MrOwnership %}    | 8    |
-| 8    | {% rauserpic Snow %}           | 8    |
-| 11   | {% rauserpic Cadaxar %}        | 6    |
-| 11   | {% rauserpic Hexadigital %}    | 6    |
-| 11   | {% rauserpic mickyt888 %}      | 6    |
-| 14   | {% rauserpic Jamiras %}        | 5    |
-| 15   | {% rauserpic Blazekickn %}     | 4    |
-| 15   | {% rauserpic Brandovsky %}     | 4    |
-| 15   | {% rauserpic Griffin %}        | 4    |
-| 15   | {% rauserpic Infernox %}       | 4    |
-| 15   | {% rauserpic Kayesay %}        | 4    |
-| 15   | {% rauserpic ladynadiad %}     | 4    |
-| 15   | {% rauserpic LogicalFallacy %} | 4    |
-| 15   | {% rauserpic MeCKooLL %}       | 4    |
-| 15   | {% rauserpic rabbids4eva %}    | 4    |
-| 15   | {% rauserpic Sines %}          | 4    |
-| 15   | {% rauserpic solidification %} | 4    |
-| 15   | {% rauserpic tsyque %}         | 4    |
-| 15   | {% rauserpic WanderingHeiho %} | 4    |
+| Rank | Developer                                        | Sets |
+| ---- | ------------------------------------------------ | ---- |
+| 1    | {% rauserpic voiceofautumn %}                    | 26   |
+| 2    | {% rauserpic SporyTike %}                        | 23   |
+| 3    | {% rauserpic Layton %}                           | 11   |
+| 3    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 11   |
+| 5    | {% rauserpic jackolantern %}                     | 10   |
+| 6    | {% rauserpic Rewsifer %}                         | 9    |
+| 6    | {% rauserpicalt lonegraywolf2000, wolfman2000 %} | 9    |
+| 8    | {% rauserpic monkeytoung %}                      | 8    |
+| 8    | {% rauserpic MrOwnership %}                      | 8    |
+| 8    | {% rauserpicalt SnowPin, Snow %}                 | 8    |
+| 11   | {% rauserpic Cadaxar %}                          | 6    |
+| 11   | {% rauserpic Hexadigital %}                      | 6    |
+| 11   | {% rauserpic mickyt888 %}                        | 6    |
+| 14   | {% rauserpic Jamiras %}                          | 5    |
+| 15   | {% rauserpic Blazekickn %}                       | 4    |
+| 15   | {% rauserpic Brandovsky %}                       | 4    |
+| 15   | {% rauserpic Griffin %}                          | 4    |
+| 15   | {% rauserpic Infernox %}                         | 4    |
+| 15   | {% rauserpic Kayesay %}                          | 4    |
+| 15   | {% rauserpicalt LadyNadia, ladynadiad %}         | 4    |
+| 15   | {% rauserpic LogicalFallacy %}                   | 4    |
+| 15   | {% rauserpic MeCKooLL %}                         | 4    |
+| 15   | {% rauserpic rabbids4eva %}                      | 4    |
+| 15   | {% rauserpic Sines %}                            | 4    |
+| 15   | {% rauserpic solidification %}                   | 4    |
+| 15   | {% rauserpic tsyque %}                           | 4    |
+| 15   | {% rauserpic WanderingHeiho %}                   | 4    |
 
 ## Game Gear
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic ikki5 %}               | 13   |
-| 2    | {% rauserpic caricatur %}           | 10   |
-| 3    | {% rauserpic solidification %}      | 6    |
-| 4    | {% rauserpic VampireLord %}         | 5    |
-| 5    | {% rauserpic wolfman2000 %}         | 4    |
-| 6    | {% rauserpic Flara %}               | 3    |
-| 6    | {% rauserpic salvadorc17 %}         | 3    |
-| 6    | {% rauserpic Tayadaoc %}            | 3    |
-| 6    | {% rauserpic WanderingHeiho %}      | 3    |
-| 10   | {% rauserpic Bl4h8L4hBl4h %}        | 2    |
-| 10   | {% rauserpic BrunoKiko %}           | 2    |
-| 10   | {% rauserpic Cadaxar %}             | 2    |
-| 10   | {% rauserpic Chr0x %}               | 2    |
-| 10   | {% rauserpic Hexadigital %}         | 2    |
-| 10   | {% rauserpic NamcoPlayer9871 %}     | 2    |
-| 10   | {% rauserpic Searo %}               | 2    |
-| 10   | {% rauserpic televandalist %}       | 2    |
-| 10   | {% rauserpic ThatAmericanSlacker %} | 2    |
-| 10   | {% rauserpic TheJediSonic %}        | 2    |
-| 10   | {% rauserpic UnsolidSnake %}        | 2    |
-| 10   | {% rauserpic YuriRod50248 %}        | 2    |
-| 22   | {% rauserpic Alena %}               | 1    |
-| 22   | {% rauserpic AppleAndo %}           | 1    |
-| 22   | {% rauserpic Brandovsky %}          | 1    |
-| 22   | {% rauserpic Bryan1150 %}           | 1    |
-| 22   | {% rauserpic Darkc0m %}             | 1    |
-| 22   | {% rauserpic drisc %}               | 1    |
-| 22   | {% rauserpic ElectricAngel %}       | 1    |
-| 22   | {% rauserpic Etron %}               | 1    |
-| 22   | {% rauserpic Excessiveiser %}       | 1    |
-| 22   | {% rauserpic GalacticSpear %}       | 1    |
-| 22   | {% rauserpic guindev %}             | 1    |
-| 22   | {% rauserpic Halbarad %}            | 1    |
-| 22   | {% rauserpic howlifeworks %}        | 1    |
-| 22   | {% rauserpic Infernox %}            | 1    |
-| 22   | {% rauserpic Jenettebaghead %}      | 1    |
-| 22   | {% rauserpic ladynadiad %}          | 1    |
-| 22   | {% rauserpic lmig %}                | 1    |
-| 22   | {% rauserpic LordAndrew %}          | 1    |
-| 22   | {% rauserpic MaddieKittyTV %}       | 1    |
-| 22   | {% rauserpic malasdair %}           | 1    |
-| 22   | {% rauserpic Mendil %}              | 1    |
-| 22   | {% rauserpic MGNS8M %}              | 1    |
-| 22   | {% rauserpic mopain85 %}            | 1    |
-| 22   | {% rauserpic MrOwnership %}         | 1    |
-| 22   | {% rauserpic multonic %}            | 1    |
-| 22   | {% rauserpic Mutawarrior %}         | 1    |
-| 22   | {% rauserpic NgNvNn %}              | 1    |
-| 22   | {% rauserpic pickledyamsman %}      | 1    |
-| 22   | {% rauserpic pinguupinguu %}        | 1    |
-| 22   | {% rauserpic PsyHunter29 %}         | 1    |
-| 22   | {% rauserpic Pudpod %}              | 1    |
-| 22   | {% rauserpic rabbids4eva %}         | 1    |
-| 22   | {% rauserpic Raeyene %}             | 1    |
-| 22   | {% rauserpic Raichi %}              | 1    |
-| 22   | {% rauserpic reddyxd %}             | 1    |
-| 22   | {% rauserpic Sikayduh %}            | 1    |
-| 22   | {% rauserpic Sines %}               | 1    |
-| 22   | {% rauserpic siouxerskate %}        | 1    |
-| 22   | {% rauserpic Snow %}                | 1    |
-| 22   | {% rauserpic StingX2 %}             | 1    |
-| 22   | {% rauserpic suspect15 %}           | 1    |
-| 22   | {% rauserpic Sutarion %}            | 1    |
-| 22   | {% rauserpic TheMysticalOne %}      | 1    |
-| 22   | {% rauserpic timenoe %}             | 1    |
-| 22   | {% rauserpic voiceofautumn %}       | 1    |
-| 22   | {% rauserpic waldhof1907 %}         | 1    |
-| 22   | {% rauserpic Wulden %}              | 1    |
-| 22   | {% rauserpic Xyghost %}             | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic ikki5 %}                                   | 13   |
+| 2    | {% rauserpic caricatur %}                               | 10   |
+| 3    | {% rauserpic solidification %}                          | 6    |
+| 4    | {% rauserpicalt MarioDuarteGJ, VampireLord %}           | 5    |
+| 5    | {% rauserpicalt lonegraywolf2000, wolfman2000 %}        | 4    |
+| 6    | {% rauserpic Flara %}                                   | 3    |
+| 6    | {% rauserpic salvadorc17 %}                             | 3    |
+| 6    | {% rauserpic Tayadaoc %}                                | 3    |
+| 6    | {% rauserpic WanderingHeiho %}                          | 3    |
+| 10   | {% rauserpic Bl4h8L4hBl4h %}                            | 2    |
+| 10   | {% rauserpic BrunoKiko %}                               | 2    |
+| 10   | {% rauserpic Cadaxar %}                                 | 2    |
+| 10   | {% rauserpic Chr0x %}                                   | 2    |
+| 10   | {% rauserpic Hexadigital %}                             | 2    |
+| 10   | {% rauserpicalt suun, NamcoPlayer9871 %}                | 2    |
+| 10   | {% rauserpic Searo %}                                   | 2    |
+| 10   | {% rauserpicalt tele, televandalist %}                  | 2    |
+| 10   | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 2    |
+| 10   | {% rauserpic TheJediSonic %}                            | 2    |
+| 10   | {% rauserpic UnsolidSnake %}                            | 2    |
+| 10   | {% rauserpic YuriRod50248 %}                            | 2    |
+| 22   | {% rauserpic Alena %}                                   | 1    |
+| 22   | {% rauserpic AppleAndo %}                               | 1    |
+| 22   | {% rauserpic Brandovsky %}                              | 1    |
+| 22   | {% rauserpicalt Brylefi, Bryan1150 %}                   | 1    |
+| 22   | {% rauserpic Darkc0m %}                                 | 1    |
+| 22   | {% rauserpic drisc %}                                   | 1    |
+| 22   | {% rauserpic ElectricAngel %}                           | 1    |
+| 22   | {% rauserpic Etron %}                                   | 1    |
+| 22   | {% rauserpic Excessiveiser %}                           | 1    |
+| 22   | {% rauserpic GalacticSpear %}                           | 1    |
+| 22   | {% rauserpic guindev %}                                 | 1    |
+| 22   | {% rauserpic Halbarad %}                                | 1    |
+| 22   | {% rauserpic howlifeworks %}                            | 1    |
+| 22   | {% rauserpic Infernox %}                                | 1    |
+| 22   | {% rauserpic Jenettebaghead %}                          | 1    |
+| 22   | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 22   | {% rauserpic lmig %}                                    | 1    |
+| 22   | {% rauserpic LordAndrew %}                              | 1    |
+| 22   | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 22   | {% rauserpic malasdair %}                               | 1    |
+| 22   | {% rauserpic Mendil %}                                  | 1    |
+| 22   | {% rauserpic MGNS8M %}                                  | 1    |
+| 22   | {% rauserpic mopain85 %}                                | 1    |
+| 22   | {% rauserpic MrOwnership %}                             | 1    |
+| 22   | {% rauserpic multonic %}                                | 1    |
+| 22   | {% rauserpic Mutawarrior %}                             | 1    |
+| 22   | {% rauserpic NgNvNn %}                                  | 1    |
+| 22   | {% rauserpic pickledyamsman %}                          | 1    |
+| 22   | {% rauserpic pinguupinguu %}                            | 1    |
+| 22   | {% rauserpic PsyHunter29 %}                             | 1    |
+| 22   | {% rauserpic Pudpod %}                                  | 1    |
+| 22   | {% rauserpic rabbids4eva %}                             | 1    |
+| 22   | {% rauserpic Raeyene %}                                 | 1    |
+| 22   | {% rauserpic Raichi %}                                  | 1    |
+| 22   | {% rauserpic reddyxd %}                                 | 1    |
+| 22   | {% rauserpic Sikayduh %}                                | 1    |
+| 22   | {% rauserpic Sines %}                                   | 1    |
+| 22   | {% rauserpic siouxerskate %}                            | 1    |
+| 22   | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 22   | {% rauserpic StingX2 %}                                 | 1    |
+| 22   | {% rauserpic suspect15 %}                               | 1    |
+| 22   | {% rauserpic Sutarion %}                                | 1    |
+| 22   | {% rauserpic TheMysticalOne %}                          | 1    |
+| 22   | {% rauserpic timenoe %}                                 | 1    |
+| 22   | {% rauserpic voiceofautumn %}                           | 1    |
+| 22   | {% rauserpic waldhof1907 %}                             | 1    |
+| 22   | {% rauserpic Wulden %}                                  | 1    |
+| 22   | {% rauserpic Xyghost %}                                 | 1    |
 
 ## GameCube
 
-| Rank | Developer                       | Sets |
-| ---- | ------------------------------- | ---- |
-| 1    | {% rauserpic AlexGatao %}       | 14   |
-| 2    | {% rauserpic Gollawiz %}        | 10   |
-| 3    | {% rauserpic TheMysticalOne %}  | 9    |
-| 4    | {% rauserpic timenoe %}         | 8    |
-| 5    | {% rauserpic Griffin %}         | 7    |
-| 6    | {% rauserpic Blazekickn %}      | 6    |
-| 6    | {% rauserpic DarkyAndreas %}    | 6    |
-| 6    | {% rauserpic Layton %}          | 6    |
-| 6    | {% rauserpic WilHiteWarrior %}  | 6    |
-| 10   | {% rauserpic blendedsea %}      | 5    |
-| 11   | {% rauserpic Bryan1150 %}       | 4    |
-| 11   | {% rauserpic LiveFastCyYoung %} | 4    |
-| 11   | {% rauserpic NeonPug %}         | 4    |
-| 11   | {% rauserpic Sines %}           | 4    |
-| 11   | {% rauserpic Snow %}            | 4    |
-| 11   | {% rauserpic Whithbrin %}       | 4    |
-| 17   | {% rauserpic Butternnife %}     | 3    |
-| 17   | {% rauserpic Delmaru %}         | 3    |
-| 17   | {% rauserpic Excessiveiser %}   | 3    |
-| 17   | {% rauserpic KillingDead6 %}    | 3    |
-| 17   | {% rauserpic KiwiTaco %}        | 3    |
-| 17   | {% rauserpic MGNS8M %}          | 3    |
-| 17   | {% rauserpic shnick1980 %}      | 3    |
-| 17   | {% rauserpic SuperMeatBro %}    | 3    |
-| 17   | {% rauserpic Syltzhe %}         | 3    |
-| 17   | {% rauserpic Vancleef %}        | 3    |
-| 17   | {% rauserpic xClawz %}          | 3    |
+| Rank | Developer                                | Sets |
+| ---- | ---------------------------------------- | ---- |
+| 1    | {% rauserpicalt AlexHylian, AlexGatao %} | 14   |
+| 2    | {% rauserpic Gollawiz %}                 | 10   |
+| 3    | {% rauserpic TheMysticalOne %}           | 9    |
+| 4    | {% rauserpic timenoe %}                  | 8    |
+| 5    | {% rauserpic Griffin %}                  | 7    |
+| 6    | {% rauserpic Blazekickn %}               | 6    |
+| 6    | {% rauserpicalt Darky, DarkyAndreas %}   | 6    |
+| 6    | {% rauserpic Layton %}                   | 6    |
+| 6    | {% rauserpic WilHiteWarrior %}           | 6    |
+| 10   | {% rauserpic blendedsea %}               | 5    |
+| 11   | {% rauserpicalt Brylefi, Bryan1150 %}    | 4    |
+| 11   | {% rauserpic LiveFastCyYoung %}          | 4    |
+| 11   | {% rauserpic NeonPug %}                  | 4    |
+| 11   | {% rauserpic Sines %}                    | 4    |
+| 11   | {% rauserpicalt SnowPin, Snow %}         | 4    |
+| 11   | {% rauserpic Whithbrin %}                | 4    |
+| 17   | {% rauserpic Butternnife %}              | 3    |
+| 17   | {% rauserpic Delmaru %}                  | 3    |
+| 17   | {% rauserpic Excessiveiser %}            | 3    |
+| 17   | {% rauserpic KillingDead6 %}             | 3    |
+| 17   | {% rauserpic KiwiTaco %}                 | 3    |
+| 17   | {% rauserpic MGNS8M %}                   | 3    |
+| 17   | {% rauserpic shnick1980 %}               | 3    |
+| 17   | {% rauserpicalt Meatbro, SuperMeatBro %} | 3    |
+| 17   | {% rauserpic Syltzhe %}                  | 3    |
+| 17   | {% rauserpic Vancleef %}                 | 3    |
+| 17   | {% rauserpic xClawz %}                   | 3    |
 
 ## Genesis/Mega Drive
 
-| Rank | Developer                      | Sets |
-| ---- | ------------------------------ | ---- |
-| 1    | {% rauserpic Pereira006 %}     | 19   |
-| 2    | {% rauserpic Stronghammer22 %} | 16   |
-| 3    | {% rauserpic Bl4h8L4hBl4h %}   | 14   |
-| 3    | {% rauserpic Falconburns %}    | 14   |
-| 5    | {% rauserpic Alena %}          | 12   |
-| 5    | {% rauserpic MaddieKittyTV %}  | 12   |
-| 5    | {% rauserpic MGNS8M %}         | 12   |
-| 5    | {% rauserpic WilHiteWarrior %} | 12   |
-| 9    | {% rauserpic Achievess %}      | 9    |
-| 9    | {% rauserpic raniejogos %}     | 9    |
-| 9    | {% rauserpic Scott %}          | 9    |
-| 12   | {% rauserpic DarknessZedzi %}  | 8    |
-| 12   | {% rauserpic Hotscrock %}      | 8    |
-| 12   | {% rauserpic TeddyWestside %}  | 8    |
-| 15   | {% rauserpic AfroRyan %}       | 7    |
-| 15   | {% rauserpic BahamutVoid %}    | 7    |
-| 15   | {% rauserpic Salsa %}          | 7    |
-| 15   | {% rauserpic WanderingHeiho %} | 7    |
-| 19   | {% rauserpic FernandoFFS %}    | 6    |
-| 19   | {% rauserpic g0dm0d3 %}        | 6    |
-| 19   | {% rauserpic MrOwnership %}    | 6    |
-| 19   | {% rauserpic salvadorc17 %}    | 6    |
-| 19   | {% rauserpic Snow %}           | 6    |
-| 24   | {% rauserpic RyCuLe %}         | 5    |
-| 24   | {% rauserpic TheMysticalOne %} | 5    |
-| 24   | {% rauserpic Tybis %}          | 5    |
+| Rank | Developer                                        | Sets |
+| ---- | ------------------------------------------------ | ---- |
+| 1    | {% rauserpicalt Deafina, Pereira006 %}           | 19   |
+| 2    | {% rauserpic Stronghammer22 %}                   | 16   |
+| 3    | {% rauserpic Bl4h8L4hBl4h %}                     | 14   |
+| 3    | {% rauserpic Falconburns %}                      | 14   |
+| 5    | {% rauserpic Alena %}                            | 12   |
+| 5    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 12   |
+| 5    | {% rauserpic MGNS8M %}                           | 12   |
+| 5    | {% rauserpic WilHiteWarrior %}                   | 12   |
+| 9    | {% rauserpic Achievess %}                        | 9    |
+| 9    | {% rauserpicalt Universus, raniejogos %}         | 9    |
+| 9    | {% rauserpic Scott %}                            | 9    |
+| 12   | {% rauserpic DarknessZedzi %}                    | 8    |
+| 12   | {% rauserpic Hotscrock %}                        | 8    |
+| 12   | {% rauserpic TeddyWestside %}                    | 8    |
+| 15   | {% rauserpic AfroRyan %}                         | 7    |
+| 15   | {% rauserpic BahamutVoid %}                      | 7    |
+| 15   | {% rauserpic Salsa %}                            | 7    |
+| 15   | {% rauserpic WanderingHeiho %}                   | 7    |
+| 19   | {% rauserpic FernandoFFS %}                      | 6    |
+| 19   | {% rauserpic g0dm0d3 %}                          | 6    |
+| 19   | {% rauserpic MrOwnership %}                      | 6    |
+| 19   | {% rauserpic salvadorc17 %}                      | 6    |
+| 19   | {% rauserpicalt SnowPin, Snow %}                 | 6    |
+| 24   | {% rauserpic RyCuLe %}                           | 5    |
+| 24   | {% rauserpic TheMysticalOne %}                   | 5    |
+| 24   | {% rauserpic Tybis %}                            | 5    |
 
 ## Intellivision
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Blazekickn %}          | 3    |
-| 1    | {% rauserpic Keltron3030 %}         | 3    |
-| 3    | {% rauserpic Hexadigital %}         | 2    |
-| 3    | {% rauserpic ladynadiad %}          | 2    |
-| 5    | {% rauserpic AfroRyan %}            | 1    |
-| 5    | {% rauserpic Anic %}                | 1    |
-| 5    | {% rauserpic Brandovsky %}          | 1    |
-| 5    | {% rauserpic clymax %}              | 1    |
-| 5    | {% rauserpic Excessiveiser %}       | 1    |
-| 5    | {% rauserpic Foolacetic %}          | 1    |
-| 5    | {% rauserpic Gloves %}              | 1    |
-| 5    | {% rauserpic guindev %}             | 1    |
-| 5    | {% rauserpic Jamiras %}             | 1    |
-| 5    | {% rauserpic Julysse %}             | 1    |
-| 5    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 5    | {% rauserpic Mendil %}              | 1    |
-| 5    | {% rauserpic MGNS8M %}              | 1    |
-| 5    | {% rauserpic MiguelsoaresGames2 %}  | 1    |
-| 5    | {% rauserpic Monomaru %}            | 1    |
-| 5    | {% rauserpic NamcoPlayer9871 %}     | 1    |
-| 5    | {% rauserpic pinguupinguu %}        | 1    |
-| 5    | {% rauserpic QuinnWasTaken %}       | 1    |
-| 5    | {% rauserpic Searo %}               | 1    |
-| 5    | {% rauserpic Sines %}               | 1    |
-| 5    | {% rauserpic SkySlicer %}           | 1    |
-| 5    | {% rauserpic SlashTangent %}        | 1    |
-| 5    | {% rauserpic snek2eater %}          | 1    |
-| 5    | {% rauserpic Snow %}                | 1    |
-| 5    | {% rauserpic suspect15 %}           | 1    |
-| 5    | {% rauserpic Tayadaoc %}            | 1    |
-| 5    | {% rauserpic televandalist %}       | 1    |
-| 5    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 5    | {% rauserpic TheMysticalOne %}      | 1    |
-| 5    | {% rauserpic Verros %}              | 1    |
-| 5    | {% rauserpic voiceofautumn %}       | 1    |
-| 5    | {% rauserpic WanderingHeiho %}      | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Blazekickn %}                              | 3    |
+| 1    | {% rauserpic Keltron3030 %}                             | 3    |
+| 3    | {% rauserpic Hexadigital %}                             | 2    |
+| 3    | {% rauserpicalt LadyNadia, ladynadiad %}                | 2    |
+| 5    | {% rauserpic AfroRyan %}                                | 1    |
+| 5    | {% rauserpic Anic %}                                    | 1    |
+| 5    | {% rauserpic Brandovsky %}                              | 1    |
+| 5    | {% rauserpic clymax %}                                  | 1    |
+| 5    | {% rauserpic Excessiveiser %}                           | 1    |
+| 5    | {% rauserpic Foolacetic %}                              | 1    |
+| 5    | {% rauserpic Gloves %}                                  | 1    |
+| 5    | {% rauserpic guindev %}                                 | 1    |
+| 5    | {% rauserpic Jamiras %}                                 | 1    |
+| 5    | {% rauserpic Julysse %}                                 | 1    |
+| 5    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 5    | {% rauserpic Mendil %}                                  | 1    |
+| 5    | {% rauserpic MGNS8M %}                                  | 1    |
+| 5    | {% rauserpic MiguelsoaresGames2 %}                      | 1    |
+| 5    | {% rauserpic Monomaru %}                                | 1    |
+| 5    | {% rauserpicalt suun, NamcoPlayer9871 %}                | 1    |
+| 5    | {% rauserpic pinguupinguu %}                            | 1    |
+| 5    | {% rauserpic QuinnWasTaken %}                           | 1    |
+| 5    | {% rauserpic Searo %}                                   | 1    |
+| 5    | {% rauserpic Sines %}                                   | 1    |
+| 5    | {% rauserpic SkySlicer %}                               | 1    |
+| 5    | {% rauserpic SlashTangent %}                            | 1    |
+| 5    | {% rauserpicalt snek2, snek2eater %}                    | 1    |
+| 5    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 5    | {% rauserpic suspect15 %}                               | 1    |
+| 5    | {% rauserpic Tayadaoc %}                                | 1    |
+| 5    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 5    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 5    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 5    | {% rauserpic Verros %}                                  | 1    |
+| 5    | {% rauserpic voiceofautumn %}                           | 1    |
+| 5    | {% rauserpic WanderingHeiho %}                          | 1    |
 
 ## Interton VC 4000
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Hexadigital %}         | 2    |
-| 2    | {% rauserpic Amir96lx %}            | 1    |
-| 2    | {% rauserpic Bartis1989 %}          | 1    |
-| 2    | {% rauserpic Bilalscape12 %}        | 1    |
-| 2    | {% rauserpic Blazekickn %}          | 1    |
-| 2    | {% rauserpic Brandovsky %}          | 1    |
-| 2    | {% rauserpic Bryan1150 %}           | 1    |
-| 2    | {% rauserpic DarkyAndreas %}        | 1    |
-| 2    | {% rauserpic Etron %}               | 1    |
-| 2    | {% rauserpic Excessiveiser %}       | 1    |
-| 2    | {% rauserpic ladynadiad %}          | 1    |
-| 2    | {% rauserpic LogicalFallacy %}      | 1    |
-| 2    | {% rauserpic LordAndrew %}          | 1    |
-| 2    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 2    | {% rauserpic Maximdraco %}          | 1    |
-| 2    | {% rauserpic Mendil %}              | 1    |
-| 2    | {% rauserpic MGNS8M %}              | 1    |
-| 2    | {% rauserpic pickledyamsman %}      | 1    |
-| 2    | {% rauserpic pinguupinguu %}        | 1    |
-| 2    | {% rauserpic Pudpod %}              | 1    |
-| 2    | {% rauserpic QuinnWasTaken %}       | 1    |
-| 2    | {% rauserpic Sines %}               | 1    |
-| 2    | {% rauserpic Snow %}                | 1    |
-| 2    | {% rauserpic SporyTike %}           | 1    |
-| 2    | {% rauserpic suspect15 %}           | 1    |
-| 2    | {% rauserpic Sutarion %}            | 1    |
-| 2    | {% rauserpic Tayadaoc %}            | 1    |
-| 2    | {% rauserpic televandalist %}       | 1    |
-| 2    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 2    | {% rauserpic TheJediSonic %}        | 1    |
-| 2    | {% rauserpic TheMysticalOne %}      | 1    |
-| 2    | {% rauserpic tomojin %}             | 1    |
-| 2    | {% rauserpic voiceofautumn %}       | 1    |
-| 2    | {% rauserpic xnaivx %}              | 1    |
-| 2    | {% rauserpic ZamArch %}             | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Hexadigital %}                             | 2    |
+| 2    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 2    | {% rauserpic Bartis1989 %}                              | 1    |
+| 2    | {% rauserpic Bilalscape12 %}                            | 1    |
+| 2    | {% rauserpic Blazekickn %}                              | 1    |
+| 2    | {% rauserpic Brandovsky %}                              | 1    |
+| 2    | {% rauserpicalt Brylefi, Bryan1150 %}                   | 1    |
+| 2    | {% rauserpicalt Darky, DarkyAndreas %}                  | 1    |
+| 2    | {% rauserpic Etron %}                                   | 1    |
+| 2    | {% rauserpic Excessiveiser %}                           | 1    |
+| 2    | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 2    | {% rauserpic LogicalFallacy %}                          | 1    |
+| 2    | {% rauserpic LordAndrew %}                              | 1    |
+| 2    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 2    | {% rauserpic Maximdraco %}                              | 1    |
+| 2    | {% rauserpic Mendil %}                                  | 1    |
+| 2    | {% rauserpic MGNS8M %}                                  | 1    |
+| 2    | {% rauserpic pickledyamsman %}                          | 1    |
+| 2    | {% rauserpic pinguupinguu %}                            | 1    |
+| 2    | {% rauserpic Pudpod %}                                  | 1    |
+| 2    | {% rauserpic QuinnWasTaken %}                           | 1    |
+| 2    | {% rauserpic Sines %}                                   | 1    |
+| 2    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 2    | {% rauserpic SporyTike %}                               | 1    |
+| 2    | {% rauserpic suspect15 %}                               | 1    |
+| 2    | {% rauserpic Sutarion %}                                | 1    |
+| 2    | {% rauserpic Tayadaoc %}                                | 1    |
+| 2    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 2    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 2    | {% rauserpic TheJediSonic %}                            | 1    |
+| 2    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 2    | {% rauserpic tomojin %}                                 | 1    |
+| 2    | {% rauserpic voiceofautumn %}                           | 1    |
+| 2    | {% rauserpic xnaivx %}                                  | 1    |
+| 2    | {% rauserpic ZamArch %}                                 | 1    |
 
 ## Magnavox Odyssey 2
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Blazekickn %}          | 2    |
-| 1    | {% rauserpic ladynadiad %}          | 2    |
-| 1    | {% rauserpic MaddieKittyTV %}       | 2    |
-| 1    | {% rauserpic voiceofautumn %}       | 2    |
-| 5    | {% rauserpic AfroRyan %}            | 1    |
-| 5    | {% rauserpic Amir96lx %}            | 1    |
-| 5    | {% rauserpic BigWeedSmokerMan %}    | 1    |
-| 5    | {% rauserpic Brandovsky %}          | 1    |
-| 5    | {% rauserpic Cadaxar %}             | 1    |
-| 5    | {% rauserpic Excessiveiser %}       | 1    |
-| 5    | {% rauserpic guindev %}             | 1    |
-| 5    | {% rauserpic Hexadigital %}         | 1    |
-| 5    | {% rauserpic Kisumebuckets %}       | 1    |
-| 5    | {% rauserpic kmpers %}              | 1    |
-| 5    | {% rauserpic LordAndrew %}          | 1    |
-| 5    | {% rauserpic Mendil %}              | 1    |
-| 5    | {% rauserpic MGNS8M %}              | 1    |
-| 5    | {% rauserpic Mulbruk %}             | 1    |
-| 5    | {% rauserpic pinguupinguu %}        | 1    |
-| 5    | {% rauserpic Sikayduh %}            | 1    |
-| 5    | {% rauserpic Sines %}               | 1    |
-| 5    | {% rauserpic Snow %}                | 1    |
-| 5    | {% rauserpic suspect15 %}           | 1    |
-| 5    | {% rauserpic televandalist %}       | 1    |
-| 5    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 5    | {% rauserpic TheMysticalOne %}      | 1    |
-| 5    | {% rauserpic Yanbetari %}           | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Blazekickn %}                              | 2    |
+| 1    | {% rauserpicalt LadyNadia, ladynadiad %}                | 2    |
+| 1    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 2    |
+| 1    | {% rauserpic voiceofautumn %}                           | 2    |
+| 5    | {% rauserpic AfroRyan %}                                | 1    |
+| 5    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 5    | {% rauserpic BigWeedSmokerMan %}                        | 1    |
+| 5    | {% rauserpic Brandovsky %}                              | 1    |
+| 5    | {% rauserpic Cadaxar %}                                 | 1    |
+| 5    | {% rauserpic Excessiveiser %}                           | 1    |
+| 5    | {% rauserpic guindev %}                                 | 1    |
+| 5    | {% rauserpic Hexadigital %}                             | 1    |
+| 5    | {% rauserpic Kisumebuckets %}                           | 1    |
+| 5    | {% rauserpic kmpers %}                                  | 1    |
+| 5    | {% rauserpic LordAndrew %}                              | 1    |
+| 5    | {% rauserpic Mendil %}                                  | 1    |
+| 5    | {% rauserpic MGNS8M %}                                  | 1    |
+| 5    | {% rauserpic Mulbruk %}                                 | 1    |
+| 5    | {% rauserpic pinguupinguu %}                            | 1    |
+| 5    | {% rauserpic Sikayduh %}                                | 1    |
+| 5    | {% rauserpic Sines %}                                   | 1    |
+| 5    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 5    | {% rauserpic suspect15 %}                               | 1    |
+| 5    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 5    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 5    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 5    | {% rauserpic Yanbetari %}                               | 1    |
 
 ## Master System
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Arcaderama %}          | 10   |
-| 2    | {% rauserpic caricatur %}           | 7    |
-| 2    | {% rauserpic ENZYME1 %}             | 7    |
-| 4    | {% rauserpic MGNS8M %}              | 5    |
-| 4    | {% rauserpic PabloTMF %}            | 5    |
-| 4    | {% rauserpic Salsa %}               | 5    |
-| 7    | {% rauserpic Alena %}               | 4    |
-| 7    | {% rauserpic Bl4h8L4hBl4h %}        | 4    |
-| 7    | {% rauserpic VampireLord %}         | 4    |
-| 7    | {% rauserpic wolfman2000 %}         | 4    |
-| 11   | {% rauserpic AfroRyan %}            | 3    |
-| 11   | {% rauserpic ladynadiad %}          | 3    |
-| 11   | {% rauserpic monkeytoung %}         | 3    |
-| 11   | {% rauserpic MrOwnership %}         | 3    |
-| 15   | {% rauserpic Adultery %}            | 2    |
-| 15   | {% rauserpic Chr0x %}               | 2    |
-| 15   | {% rauserpic EulerMoises1981 %}     | 2    |
-| 15   | {% rauserpic gjhbkk %}              | 2    |
-| 15   | {% rauserpic MaddieKittyTV %}       | 2    |
-| 15   | {% rauserpic Mulbruk %}             | 2    |
-| 15   | {% rauserpic NgNvNn %}              | 2    |
-| 15   | {% rauserpic Raeyene %}             | 2    |
-| 15   | {% rauserpic Retrokaiser %}         | 2    |
-| 15   | {% rauserpic sireture %}            | 2    |
-| 15   | {% rauserpic Sutarion %}            | 2    |
-| 15   | {% rauserpic Tardigrade %}          | 2    |
-| 15   | {% rauserpic ThatAmericanSlacker %} | 2    |
-| 15   | {% rauserpic TwosomesUP %}          | 2    |
-| 15   | {% rauserpic voiceofautumn %}       | 2    |
-| 15   | {% rauserpic WanderingHeiho %}      | 2    |
-| 15   | {% rauserpic Wulden %}              | 2    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Arcaderama %}                              | 10   |
+| 2    | {% rauserpic caricatur %}                               | 7    |
+| 2    | {% rauserpic ENZYME1 %}                                 | 7    |
+| 4    | {% rauserpic MGNS8M %}                                  | 5    |
+| 4    | {% rauserpic PabloTMF %}                                | 5    |
+| 4    | {% rauserpic Salsa %}                                   | 5    |
+| 7    | {% rauserpic Alena %}                                   | 4    |
+| 7    | {% rauserpic Bl4h8L4hBl4h %}                            | 4    |
+| 7    | {% rauserpicalt MarioDuarteGJ, VampireLord %}           | 4    |
+| 7    | {% rauserpicalt lonegraywolf2000, wolfman2000 %}        | 4    |
+| 11   | {% rauserpic AfroRyan %}                                | 3    |
+| 11   | {% rauserpicalt LadyNadia, ladynadiad %}                | 3    |
+| 11   | {% rauserpic monkeytoung %}                             | 3    |
+| 11   | {% rauserpic MrOwnership %}                             | 3    |
+| 15   | {% rauserpicalt Adultery77, Adultery %}                 | 2    |
+| 15   | {% rauserpic Chr0x %}                                   | 2    |
+| 15   | {% rauserpic EulerMoises1981 %}                         | 2    |
+| 15   | {% rauserpic gjhbkk %}                                  | 2    |
+| 15   | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 2    |
+| 15   | {% rauserpic Mulbruk %}                                 | 2    |
+| 15   | {% rauserpic NgNvNn %}                                  | 2    |
+| 15   | {% rauserpic Raeyene %}                                 | 2    |
+| 15   | {% rauserpic Retrokaiser %}                             | 2    |
+| 15   | {% rauserpic sireture %}                                | 2    |
+| 15   | {% rauserpic Sutarion %}                                | 2    |
+| 15   | {% rauserpic Tardigrade %}                              | 2    |
+| 15   | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 2    |
+| 15   | {% rauserpicalt BacklogOddy, TwosomesUP %}              | 2    |
+| 15   | {% rauserpic voiceofautumn %}                           | 2    |
+| 15   | {% rauserpic WanderingHeiho %}                          | 2    |
+| 15   | {% rauserpic Wulden %}                                  | 2    |
 
 ## Mega Duck
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic pinguupinguu %}        | 2    |
-| 2    | {% rauserpic Agnam %}               | 1    |
-| 2    | {% rauserpic Amir96lx %}            | 1    |
-| 2    | {% rauserpic AuburnRDM %}           | 1    |
-| 2    | {% rauserpic BahamutVoid %}         | 1    |
-| 2    | {% rauserpic Bartis1989 %}          | 1    |
-| 2    | {% rauserpic Blazekickn %}          | 1    |
-| 2    | {% rauserpic Brandovsky %}          | 1    |
-| 2    | {% rauserpic Cadaxar %}             | 1    |
-| 2    | {% rauserpic Cruzelion %}           | 1    |
-| 2    | {% rauserpic DoctorV %}             | 1    |
-| 2    | {% rauserpic Etron %}               | 1    |
-| 2    | {% rauserpic Excessiveiser %}       | 1    |
-| 2    | {% rauserpic Falcus %}              | 1    |
-| 2    | {% rauserpic Hexadigital %}         | 1    |
-| 2    | {% rauserpic Infernox %}            | 1    |
-| 2    | {% rauserpic KingS1zzle %}          | 1    |
-| 2    | {% rauserpic LogicalFallacy %}      | 1    |
-| 2    | {% rauserpic LordAndrew %}          | 1    |
-| 2    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 2    | {% rauserpic Maximdraco %}          | 1    |
-| 2    | {% rauserpic Mendil %}              | 1    |
-| 2    | {% rauserpic MGNS8M %}              | 1    |
-| 2    | {% rauserpic NamcoPlayer9871 %}     | 1    |
-| 2    | {% rauserpic pickledyamsman %}      | 1    |
-| 2    | {% rauserpic Pudpod %}              | 1    |
-| 2    | {% rauserpic Raichi %}              | 1    |
-| 2    | {% rauserpic Searo %}               | 1    |
-| 2    | {% rauserpic Sines %}               | 1    |
-| 2    | {% rauserpic SporyTike %}           | 1    |
-| 2    | {% rauserpic suspect15 %}           | 1    |
-| 2    | {% rauserpic Sutarion %}            | 1    |
-| 2    | {% rauserpic Tayadaoc %}            | 1    |
-| 2    | {% rauserpic televandalist %}       | 1    |
-| 2    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 2    | {% rauserpic TheJediSonic %}        | 1    |
-| 2    | {% rauserpic TheMysticalOne %}      | 1    |
-| 2    | {% rauserpic timenoe %}             | 1    |
-| 2    | {% rauserpic wolfman2000 %}         | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic pinguupinguu %}                            | 2    |
+| 2    | {% rauserpic Agnam %}                                   | 1    |
+| 2    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 2    | {% rauserpic AuburnRDM %}                               | 1    |
+| 2    | {% rauserpic BahamutVoid %}                             | 1    |
+| 2    | {% rauserpic Bartis1989 %}                              | 1    |
+| 2    | {% rauserpic Blazekickn %}                              | 1    |
+| 2    | {% rauserpic Brandovsky %}                              | 1    |
+| 2    | {% rauserpic Cadaxar %}                                 | 1    |
+| 2    | {% rauserpic Cruzelion %}                               | 1    |
+| 2    | {% rauserpic DoctorV %}                                 | 1    |
+| 2    | {% rauserpic Etron %}                                   | 1    |
+| 2    | {% rauserpic Excessiveiser %}                           | 1    |
+| 2    | {% rauserpic Falcus %}                                  | 1    |
+| 2    | {% rauserpic Hexadigital %}                             | 1    |
+| 2    | {% rauserpic Infernox %}                                | 1    |
+| 2    | {% rauserpic KingS1zzle %}                              | 1    |
+| 2    | {% rauserpic LogicalFallacy %}                          | 1    |
+| 2    | {% rauserpic LordAndrew %}                              | 1    |
+| 2    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 2    | {% rauserpic Maximdraco %}                              | 1    |
+| 2    | {% rauserpic Mendil %}                                  | 1    |
+| 2    | {% rauserpic MGNS8M %}                                  | 1    |
+| 2    | {% rauserpicalt suun, NamcoPlayer9871 %}                | 1    |
+| 2    | {% rauserpic pickledyamsman %}                          | 1    |
+| 2    | {% rauserpic Pudpod %}                                  | 1    |
+| 2    | {% rauserpic Raichi %}                                  | 1    |
+| 2    | {% rauserpic Searo %}                                   | 1    |
+| 2    | {% rauserpic Sines %}                                   | 1    |
+| 2    | {% rauserpic SporyTike %}                               | 1    |
+| 2    | {% rauserpic suspect15 %}                               | 1    |
+| 2    | {% rauserpic Sutarion %}                                | 1    |
+| 2    | {% rauserpic Tayadaoc %}                                | 1    |
+| 2    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 2    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 2    | {% rauserpic TheJediSonic %}                            | 1    |
+| 2    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 2    | {% rauserpic timenoe %}                                 | 1    |
+| 2    | {% rauserpicalt lonegraywolf2000, wolfman2000 %}        | 1    |
 
 ## MSX
 
-| Rank | Developer                       | Sets |
-| ---- | ------------------------------- | ---- |
-| 1    | {% rauserpic authorblues %}     | 21   |
-| 2    | {% rauserpic LordAndrew %}      | 6    |
-| 2    | {% rauserpic RyCuLe %}          | 6    |
-| 4    | {% rauserpic guindev %}         | 5    |
-| 4    | {% rauserpic Kisumebuckets %}   | 5    |
-| 4    | {% rauserpic ladynadiad %}      | 5    |
-| 7    | {% rauserpic Hexadigital %}     | 4    |
-| 7    | {% rauserpic lizstar %}         | 4    |
-| 7    | {% rauserpic zaydoc %}          | 4    |
-| 10   | {% rauserpic Jamiras %}         | 3    |
-| 10   | {% rauserpic Mendil %}          | 3    |
-| 10   | {% rauserpic NamcoPlayer9871 %} | 3    |
-| 10   | {% rauserpic quirky0992 %}      | 3    |
-| 10   | {% rauserpic Raeyene %}         | 3    |
-| 10   | {% rauserpic TwosomesUP %}      | 3    |
-| 10   | {% rauserpic WanderingHeiho %}  | 3    |
-| 17   | {% rauserpic BOBLS %}           | 2    |
-| 17   | {% rauserpic Julysse %}         | 2    |
-| 17   | {% rauserpic orangepeelbeef %}  | 2    |
-| 17   | {% rauserpic pinguupinguu %}    | 2    |
-| 17   | {% rauserpic Sines %}           | 2    |
-| 17   | {% rauserpic Snow %}            | 2    |
-| 17   | {% rauserpic Sutarion %}        | 2    |
-| 17   | {% rauserpic TheMysticalOne %}  | 2    |
-| 17   | {% rauserpic Triforce %}        | 2    |
-| 17   | {% rauserpic WilHiteWarrior %}  | 2    |
-| 17   | {% rauserpic Wulden %}          | 2    |
-| 17   | {% rauserpic xClawz %}          | 2    |
-| 17   | {% rauserpic Yanbetari %}       | 2    |
+| Rank | Developer                                  | Sets |
+| ---- | ------------------------------------------ | ---- |
+| 1    | {% rauserpic authorblues %}                | 21   |
+| 2    | {% rauserpic LordAndrew %}                 | 6    |
+| 2    | {% rauserpic RyCuLe %}                     | 6    |
+| 4    | {% rauserpic guindev %}                    | 5    |
+| 4    | {% rauserpic Kisumebuckets %}              | 5    |
+| 4    | {% rauserpicalt LadyNadia, ladynadiad %}   | 5    |
+| 7    | {% rauserpic Hexadigital %}                | 4    |
+| 7    | {% rauserpic lizstar %}                    | 4    |
+| 7    | {% rauserpic zaydoc %}                     | 4    |
+| 10   | {% rauserpic Jamiras %}                    | 3    |
+| 10   | {% rauserpic Mendil %}                     | 3    |
+| 10   | {% rauserpicalt suun, NamcoPlayer9871 %}   | 3    |
+| 10   | {% rauserpic quirky0992 %}                 | 3    |
+| 10   | {% rauserpic Raeyene %}                    | 3    |
+| 10   | {% rauserpicalt BacklogOddy, TwosomesUP %} | 3    |
+| 10   | {% rauserpic WanderingHeiho %}             | 3    |
+| 17   | {% rauserpic BOBLS %}                      | 2    |
+| 17   | {% rauserpic Julysse %}                    | 2    |
+| 17   | {% rauserpic orangepeelbeef %}             | 2    |
+| 17   | {% rauserpic pinguupinguu %}               | 2    |
+| 17   | {% rauserpic Sines %}                      | 2    |
+| 17   | {% rauserpicalt SnowPin, Snow %}           | 2    |
+| 17   | {% rauserpic Sutarion %}                   | 2    |
+| 17   | {% rauserpic TheMysticalOne %}             | 2    |
+| 17   | {% rauserpic Triforce %}                   | 2    |
+| 17   | {% rauserpic WilHiteWarrior %}             | 2    |
+| 17   | {% rauserpic Wulden %}                     | 2    |
+| 17   | {% rauserpic xClawz %}                     | 2    |
+| 17   | {% rauserpic Yanbetari %}                  | 2    |
 
 ## Neo Geo CD
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic RyCuLe %}              | 3    |
-| 2    | {% rauserpic Chr0x %}               | 2    |
-| 2    | {% rauserpic TheMysticalOne %}      | 2    |
-| 4    | {% rauserpic Amir96lx %}            | 1    |
-| 4    | {% rauserpic AuburnRDM %}           | 1    |
-| 4    | {% rauserpic Bl4h8L4hBl4h %}        | 1    |
-| 4    | {% rauserpic BoomEX %}              | 1    |
-| 4    | {% rauserpic Brandovsky %}          | 1    |
-| 4    | {% rauserpic clymax %}              | 1    |
-| 4    | {% rauserpic DarkyAndreas %}        | 1    |
-| 4    | {% rauserpic DoctorV %}             | 1    |
-| 4    | {% rauserpic Excessiveiser %}       | 1    |
-| 4    | {% rauserpic Hexadigital %}         | 1    |
-| 4    | {% rauserpic Hotscrock %}           | 1    |
-| 4    | {% rauserpic ladynadiad %}          | 1    |
-| 4    | {% rauserpic LogicalFallacy %}      | 1    |
-| 4    | {% rauserpic LordAndrew %}          | 1    |
-| 4    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 4    | {% rauserpic Maximdraco %}          | 1    |
-| 4    | {% rauserpic Mendil %}              | 1    |
-| 4    | {% rauserpic MGNS8M %}              | 1    |
-| 4    | {% rauserpic MiguelsoaresGames2 %}  | 1    |
-| 4    | {% rauserpic pinguupinguu %}        | 1    |
-| 4    | {% rauserpic Retrokaiser %}         | 1    |
-| 4    | {% rauserpic s0uth %}               | 1    |
-| 4    | {% rauserpic Schengo %}             | 1    |
-| 4    | {% rauserpic Sines %}               | 1    |
-| 4    | {% rauserpic siouxerskate %}        | 1    |
-| 4    | {% rauserpic snek2eater %}          | 1    |
-| 4    | {% rauserpic Snow %}                | 1    |
-| 4    | {% rauserpic suspect15 %}           | 1    |
-| 4    | {% rauserpic Sutarion %}            | 1    |
-| 4    | {% rauserpic televandalist %}       | 1    |
-| 4    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 4    | {% rauserpic TheJediSonic %}        | 1    |
-| 4    | {% rauserpic tomojin %}             | 1    |
-| 4    | {% rauserpic voiceofautumn %}       | 1    |
-| 4    | {% rauserpic zaydoc %}              | 1    |
-| 4    | {% rauserpic zxmega %}              | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic RyCuLe %}                                  | 3    |
+| 2    | {% rauserpic Chr0x %}                                   | 2    |
+| 2    | {% rauserpic TheMysticalOne %}                          | 2    |
+| 4    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 4    | {% rauserpic AuburnRDM %}                               | 1    |
+| 4    | {% rauserpic Bl4h8L4hBl4h %}                            | 1    |
+| 4    | {% rauserpic BoomEX %}                                  | 1    |
+| 4    | {% rauserpic Brandovsky %}                              | 1    |
+| 4    | {% rauserpic clymax %}                                  | 1    |
+| 4    | {% rauserpicalt Darky, DarkyAndreas %}                  | 1    |
+| 4    | {% rauserpic DoctorV %}                                 | 1    |
+| 4    | {% rauserpic Excessiveiser %}                           | 1    |
+| 4    | {% rauserpic Hexadigital %}                             | 1    |
+| 4    | {% rauserpic Hotscrock %}                               | 1    |
+| 4    | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 4    | {% rauserpic LogicalFallacy %}                          | 1    |
+| 4    | {% rauserpic LordAndrew %}                              | 1    |
+| 4    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 4    | {% rauserpic Maximdraco %}                              | 1    |
+| 4    | {% rauserpic Mendil %}                                  | 1    |
+| 4    | {% rauserpic MGNS8M %}                                  | 1    |
+| 4    | {% rauserpic MiguelsoaresGames2 %}                      | 1    |
+| 4    | {% rauserpic pinguupinguu %}                            | 1    |
+| 4    | {% rauserpic Retrokaiser %}                             | 1    |
+| 4    | {% rauserpic s0uth %}                                   | 1    |
+| 4    | {% rauserpic Schengo %}                                 | 1    |
+| 4    | {% rauserpic Sines %}                                   | 1    |
+| 4    | {% rauserpic siouxerskate %}                            | 1    |
+| 4    | {% rauserpicalt snek2, snek2eater %}                    | 1    |
+| 4    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 4    | {% rauserpic suspect15 %}                               | 1    |
+| 4    | {% rauserpic Sutarion %}                                | 1    |
+| 4    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 4    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 4    | {% rauserpic TheJediSonic %}                            | 1    |
+| 4    | {% rauserpic tomojin %}                                 | 1    |
+| 4    | {% rauserpic voiceofautumn %}                           | 1    |
+| 4    | {% rauserpic zaydoc %}                                  | 1    |
+| 4    | {% rauserpic zxmega %}                                  | 1    |
 
 ## Neo Geo Pocket
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic voiceofautumn %}       | 4    |
-| 2    | {% rauserpic ladynadiad %}          | 2    |
-| 2    | {% rauserpic MaddieKittyTV %}       | 2    |
-| 2    | {% rauserpic Raeyene %}             | 2    |
-| 2    | {% rauserpic Snow %}                | 2    |
-| 2    | {% rauserpic zxmega %}              | 2    |
-| 7    | {% rauserpic Aaamdacuaga %}         | 1    |
-| 7    | {% rauserpic AfroRyan %}            | 1    |
-| 7    | {% rauserpic BEXUS %}               | 1    |
-| 7    | {% rauserpic BigWeedSmokerMan %}    | 1    |
-| 7    | {% rauserpic Blazekickn %}          | 1    |
-| 7    | {% rauserpic Brandovsky %}          | 1    |
-| 7    | {% rauserpic Cadaxar %}             | 1    |
-| 7    | {% rauserpic caricatur %}           | 1    |
-| 7    | {% rauserpic Excessiveiser %}       | 1    |
-| 7    | {% rauserpic guindev %}             | 1    |
-| 7    | {% rauserpic Hexadigital %}         | 1    |
-| 7    | {% rauserpic kcin2001 %}            | 1    |
-| 7    | {% rauserpic MelodyAsh %}           | 1    |
-| 7    | {% rauserpic MGNS8M %}              | 1    |
-| 7    | {% rauserpic mprobinson %}          | 1    |
-| 7    | {% rauserpic pinguupinguu %}        | 1    |
-| 7    | {% rauserpic rabbids4eva %}         | 1    |
-| 7    | {% rauserpic raniejogos %}          | 1    |
-| 7    | {% rauserpic Released %}            | 1    |
-| 7    | {% rauserpic s0uth %}               | 1    |
-| 7    | {% rauserpic Sines %}               | 1    |
-| 7    | {% rauserpic SlashTangent %}        | 1    |
-| 7    | {% rauserpic SporyTike %}           | 1    |
-| 7    | {% rauserpic suspect15 %}           | 1    |
-| 7    | {% rauserpic televandalist %}       | 1    |
-| 7    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 7    | {% rauserpic TheMysticalOne %}      | 1    |
-| 7    | {% rauserpic Thoreau %}             | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic voiceofautumn %}                           | 4    |
+| 2    | {% rauserpicalt LadyNadia, ladynadiad %}                | 2    |
+| 2    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 2    |
+| 2    | {% rauserpic Raeyene %}                                 | 2    |
+| 2    | {% rauserpicalt SnowPin, Snow %}                        | 2    |
+| 2    | {% rauserpic zxmega %}                                  | 2    |
+| 7    | {% rauserpic Aaamdacuaga %}                             | 1    |
+| 7    | {% rauserpic AfroRyan %}                                | 1    |
+| 7    | {% rauserpic BEXUS %}                                   | 1    |
+| 7    | {% rauserpic BigWeedSmokerMan %}                        | 1    |
+| 7    | {% rauserpic Blazekickn %}                              | 1    |
+| 7    | {% rauserpic Brandovsky %}                              | 1    |
+| 7    | {% rauserpic Cadaxar %}                                 | 1    |
+| 7    | {% rauserpic caricatur %}                               | 1    |
+| 7    | {% rauserpic Excessiveiser %}                           | 1    |
+| 7    | {% rauserpic guindev %}                                 | 1    |
+| 7    | {% rauserpic Hexadigital %}                             | 1    |
+| 7    | {% rauserpic kcin2001 %}                                | 1    |
+| 7    | {% rauserpic MelodyAsh %}                               | 1    |
+| 7    | {% rauserpic MGNS8M %}                                  | 1    |
+| 7    | {% rauserpic mprobinson %}                              | 1    |
+| 7    | {% rauserpic pinguupinguu %}                            | 1    |
+| 7    | {% rauserpic rabbids4eva %}                             | 1    |
+| 7    | {% rauserpicalt Universus, raniejogos %}                | 1    |
+| 7    | {% rauserpic Released %}                                | 1    |
+| 7    | {% rauserpic s0uth %}                                   | 1    |
+| 7    | {% rauserpic Sines %}                                   | 1    |
+| 7    | {% rauserpic SlashTangent %}                            | 1    |
+| 7    | {% rauserpic SporyTike %}                               | 1    |
+| 7    | {% rauserpic suspect15 %}                               | 1    |
+| 7    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 7    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 7    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 7    | {% rauserpic Thoreau %}                                 | 1    |
 
 ## NES/Famicom
 
-| Rank | Developer                       | Sets |
-| ---- | ------------------------------- | ---- |
-| 1    | {% rauserpic Salsa %}           | 44   |
-| 2    | {% rauserpic FernandoFFS %}     | 42   |
-| 3    | {% rauserpic EulerMoises1981 %} | 29   |
-| 4    | {% rauserpic WilHiteWarrior %}  | 27   |
-| 5    | {% rauserpic Bl4h8L4hBl4h %}    | 26   |
-| 5    | {% rauserpic MGNS8M %}          | 26   |
-| 7    | {% rauserpic Rdannylor2 %}      | 22   |
-| 8    | {% rauserpic Jamiras %}         | 20   |
-| 9    | {% rauserpic g0dm0d3 %}         | 18   |
-| 10   | {% rauserpic mickyt888 %}       | 17   |
-| 11   | {% rauserpic MrOwnership %}     | 16   |
-| 11   | {% rauserpic SporyTike %}       | 16   |
-| 13   | {% rauserpic Bedtime %}         | 15   |
-| 13   | {% rauserpic ladynadiad %}      | 15   |
-| 13   | {% rauserpic MeCKooLL %}        | 15   |
-| 13   | {% rauserpic Scootaloo %}       | 15   |
-| 13   | {% rauserpic televandalist %}   | 15   |
-| 13   | {% rauserpic Thundard %}        | 15   |
-| 13   | {% rauserpic wolfman2000 %}     | 15   |
-| 20   | {% rauserpic Kasumariii %}      | 14   |
-| 20   | {% rauserpic TheMysticalOne %}  | 14   |
-| 22   | {% rauserpic hardt %}           | 13   |
-| 23   | {% rauserpic Dexterspet %}      | 12   |
-| 23   | {% rauserpic suspect15 %}       | 12   |
-| 25   | {% rauserpic Cadaxar %}         | 11   |
-| 25   | {% rauserpic monkeytoung %}     | 11   |
+| Rank | Developer                                        | Sets |
+| ---- | ------------------------------------------------ | ---- |
+| 1    | {% rauserpic Salsa %}                            | 44   |
+| 2    | {% rauserpic FernandoFFS %}                      | 42   |
+| 3    | {% rauserpic EulerMoises1981 %}                  | 29   |
+| 4    | {% rauserpic WilHiteWarrior %}                   | 27   |
+| 5    | {% rauserpic Bl4h8L4hBl4h %}                     | 26   |
+| 5    | {% rauserpic MGNS8M %}                           | 26   |
+| 7    | {% rauserpic Rdannylor2 %}                       | 22   |
+| 8    | {% rauserpic Jamiras %}                          | 20   |
+| 9    | {% rauserpic g0dm0d3 %}                          | 18   |
+| 10   | {% rauserpic mickyt888 %}                        | 17   |
+| 11   | {% rauserpic MrOwnership %}                      | 16   |
+| 11   | {% rauserpic SporyTike %}                        | 16   |
+| 13   | {% rauserpic Bedtime %}                          | 15   |
+| 13   | {% rauserpicalt LadyNadia, ladynadiad %}         | 15   |
+| 13   | {% rauserpic MeCKooLL %}                         | 15   |
+| 13   | {% rauserpic Scootaloo %}                        | 15   |
+| 13   | {% rauserpicalt tele, televandalist %}           | 15   |
+| 13   | {% rauserpic Thundard %}                         | 15   |
+| 13   | {% rauserpicalt lonegraywolf2000, wolfman2000 %} | 15   |
+| 20   | {% rauserpic Kasumariii %}                       | 14   |
+| 20   | {% rauserpic TheMysticalOne %}                   | 14   |
+| 22   | {% rauserpic hardt %}                            | 13   |
+| 23   | {% rauserpic Dexterspet %}                       | 12   |
+| 23   | {% rauserpic suspect15 %}                        | 12   |
+| 25   | {% rauserpic Cadaxar %}                          | 11   |
+| 25   | {% rauserpic monkeytoung %}                      | 11   |
 
 ## Nintendo 64
 
-| Rank | Developer                     | Sets |
-| ---- | ----------------------------- | ---- |
-| 1    | {% rauserpic Dimedime %}      | 77   |
-| 2    | {% rauserpic SporyTike %}     | 32   |
-| 3    | {% rauserpic AlexGatao %}     | 31   |
-| 4    | {% rauserpic stfN1337 %}      | 20   |
-| 5    | {% rauserpic SlashTangent %}  | 18   |
-| 6    | {% rauserpic Edel %}          | 17   |
-| 7    | {% rauserpic MaddieKittyTV %} | 15   |
-| 8    | {% rauserpic mopain85 %}      | 14   |
-| 9    | {% rauserpic KiwiTaco %}      | 10   |
-| 9    | {% rauserpic Layton %}        | 10   |
-| 9    | {% rauserpic MGNS8M %}        | 10   |
-| 12   | {% rauserpic Whithbrin %}     | 9    |
-| 13   | {% rauserpic DarkyAndreas %}  | 8    |
-| 13   | {% rauserpic TeddyWestside %} | 8    |
-| 15   | {% rauserpic Delmaru %}       | 7    |
-| 15   | {% rauserpic Slyshock %}      | 7    |
-| 17   | {% rauserpic blendedsea %}    | 6    |
-| 17   | {% rauserpic dericobanjo %}   | 6    |
-| 19   | {% rauserpic ikki5 %}         | 5    |
-| 19   | {% rauserpic Kaiserlucas %}   | 5    |
-| 19   | {% rauserpic Lilihierax %}    | 5    |
-| 22   | {% rauserpic Bl4h8L4hBl4h %}  | 4    |
-| 22   | {% rauserpic BoomEX %}        | 4    |
-| 22   | {% rauserpic Chawk %}         | 4    |
-| 22   | {% rauserpic ChocoMilk %}     | 4    |
-| 22   | {% rauserpic Gorgar %}        | 4    |
-| 22   | {% rauserpic Griffin %}       | 4    |
-| 22   | {% rauserpic Pelouch %}       | 4    |
-| 22   | {% rauserpic Xyghost %}       | 4    |
+| Rank | Developer                                        | Sets |
+| ---- | ------------------------------------------------ | ---- |
+| 1    | {% rauserpic Dimedime %}                         | 77   |
+| 2    | {% rauserpic SporyTike %}                        | 32   |
+| 3    | {% rauserpicalt AlexHylian, AlexGatao %}         | 31   |
+| 4    | {% rauserpic stfN1337 %}                         | 20   |
+| 5    | {% rauserpic SlashTangent %}                     | 18   |
+| 6    | {% rauserpic Edel %}                             | 17   |
+| 7    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 15   |
+| 8    | {% rauserpic mopain85 %}                         | 14   |
+| 9    | {% rauserpic KiwiTaco %}                         | 10   |
+| 9    | {% rauserpic Layton %}                           | 10   |
+| 9    | {% rauserpic MGNS8M %}                           | 10   |
+| 12   | {% rauserpic Whithbrin %}                        | 9    |
+| 13   | {% rauserpicalt Darky, DarkyAndreas %}           | 8    |
+| 13   | {% rauserpic TeddyWestside %}                    | 8    |
+| 15   | {% rauserpic Delmaru %}                          | 7    |
+| 15   | {% rauserpic Slyshock %}                         | 7    |
+| 17   | {% rauserpic blendedsea %}                       | 6    |
+| 17   | {% rauserpic dericobanjo %}                      | 6    |
+| 19   | {% rauserpic ikki5 %}                            | 5    |
+| 19   | {% rauserpic Kaiserlucas %}                      | 5    |
+| 19   | {% rauserpic Lilihierax %}                       | 5    |
+| 22   | {% rauserpic Bl4h8L4hBl4h %}                     | 4    |
+| 22   | {% rauserpic BoomEX %}                           | 4    |
+| 22   | {% rauserpic Chawk %}                            | 4    |
+| 22   | {% rauserpicalt ChoccyMilk, ChocoMilk %}         | 4    |
+| 22   | {% rauserpic Gorgar %}                           | 4    |
+| 22   | {% rauserpic Griffin %}                          | 4    |
+| 22   | {% rauserpic Pelouch %}                          | 4    |
+| 22   | {% rauserpic Xyghost %}                          | 4    |
 
 ## Nintendo DS
 
-| Rank | Developer                        | Sets |
-| ---- | -------------------------------- | ---- |
-| 1    | {% rauserpic SporyTike %}        | 48   |
-| 2    | {% rauserpic pinguupinguu %}     | 39   |
-| 3    | {% rauserpic stfN1337 %}         | 34   |
-| 4    | {% rauserpic Bryan1150 %}        | 25   |
-| 5    | {% rauserpic MaddieKittyTV %}    | 22   |
-| 6    | {% rauserpic KiwiTaco %}         | 14   |
-| 7    | {% rauserpic blendedsea %}       | 12   |
-| 7    | {% rauserpic lordpsycho %}       | 12   |
-| 9    | {% rauserpic Cadaxar %}          | 11   |
-| 9    | {% rauserpic SherryBirkin %}     | 11   |
-| 11   | {% rauserpic AlexGatao %}        | 10   |
-| 11   | {% rauserpic Yurana %}           | 10   |
-| 13   | {% rauserpic Excessiveiser %}    | 9    |
-| 13   | {% rauserpic MGNS8M %}           | 9    |
-| 15   | {% rauserpic Blazekickn %}       | 8    |
-| 15   | {% rauserpic GameZone %}         | 8    |
-| 15   | {% rauserpic Griffin %}          | 8    |
-| 15   | {% rauserpic monkeytoung %}      | 8    |
-| 15   | {% rauserpic Snow %}             | 8    |
-| 20   | {% rauserpic ChaoticAdventure %} | 7    |
-| 20   | {% rauserpic Sines %}            | 7    |
-| 20   | {% rauserpic voiceofautumn %}    | 7    |
-| 23   | {% rauserpic Darkc0m %}          | 6    |
-| 23   | {% rauserpic Gudra %}            | 6    |
-| 23   | {% rauserpic Hexadigital %}      | 6    |
-| 23   | {% rauserpic SubliminalSiren %}  | 6    |
+| Rank | Developer                                        | Sets |
+| ---- | ------------------------------------------------ | ---- |
+| 1    | {% rauserpic SporyTike %}                        | 48   |
+| 2    | {% rauserpic pinguupinguu %}                     | 39   |
+| 3    | {% rauserpic stfN1337 %}                         | 34   |
+| 4    | {% rauserpicalt Brylefi, Bryan1150 %}            | 25   |
+| 5    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 22   |
+| 6    | {% rauserpic KiwiTaco %}                         | 14   |
+| 7    | {% rauserpic blendedsea %}                       | 12   |
+| 7    | {% rauserpic lordpsycho %}                       | 12   |
+| 9    | {% rauserpic Cadaxar %}                          | 11   |
+| 9    | {% rauserpic SherryBirkin %}                     | 11   |
+| 11   | {% rauserpicalt AlexHylian, AlexGatao %}         | 10   |
+| 11   | {% rauserpic Yurana %}                           | 10   |
+| 13   | {% rauserpic Excessiveiser %}                    | 9    |
+| 13   | {% rauserpic MGNS8M %}                           | 9    |
+| 15   | {% rauserpic Blazekickn %}                       | 8    |
+| 15   | {% rauserpicalt EvZonius, GameZone %}            | 8    |
+| 15   | {% rauserpic Griffin %}                          | 8    |
+| 15   | {% rauserpic monkeytoung %}                      | 8    |
+| 15   | {% rauserpicalt SnowPin, Snow %}                 | 8    |
+| 20   | {% rauserpic ChaoticAdventure %}                 | 7    |
+| 20   | {% rauserpic Sines %}                            | 7    |
+| 20   | {% rauserpic voiceofautumn %}                    | 7    |
+| 23   | {% rauserpic Darkc0m %}                          | 6    |
+| 23   | {% rauserpic Gudra %}                            | 6    |
+| 23   | {% rauserpic Hexadigital %}                      | 6    |
+| 23   | {% rauserpic SubliminalSiren %}                  | 6    |
 
 ## Nintendo DSi
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic timenoe %}             | 7    |
-| 2    | {% rauserpic SporyTike %}           | 4    |
-| 3    | {% rauserpic FRAN269 %}             | 3    |
-| 3    | {% rauserpic MaddieKittyTV %}       | 3    |
-| 5    | {% rauserpic Hexadigital %}         | 2    |
-| 5    | {% rauserpic ladynadiad %}          | 2    |
-| 5    | {% rauserpic Maximdraco %}          | 2    |
-| 5    | {% rauserpic pinguupinguu %}        | 2    |
-| 5    | {% rauserpic Sines %}               | 2    |
-| 5    | {% rauserpic TheJediSonic %}        | 2    |
-| 11   | {% rauserpic Amir96lx %}            | 1    |
-| 11   | {% rauserpic AuburnRDM %}           | 1    |
-| 11   | {% rauserpic Bilalscape12 %}        | 1    |
-| 11   | {% rauserpic Blazekickn %}          | 1    |
-| 11   | {% rauserpic Brandovsky %}          | 1    |
-| 11   | {% rauserpic BrunoKiko %}           | 1    |
-| 11   | {% rauserpic Bryan1150 %}           | 1    |
-| 11   | {% rauserpic Cadaxar %}             | 1    |
-| 11   | {% rauserpic Cerlayjux %}           | 1    |
-| 11   | {% rauserpic ChiiniiTheComet %}     | 1    |
-| 11   | {% rauserpic Coloradohusky %}       | 1    |
-| 11   | {% rauserpic Darkc0m %}             | 1    |
-| 11   | {% rauserpic DarkyAndreas %}        | 1    |
-| 11   | {% rauserpic Dennis1543 %}          | 1    |
-| 11   | {% rauserpic DoctorV %}             | 1    |
-| 11   | {% rauserpic Etron %}               | 1    |
-| 11   | {% rauserpic Excessiveiser %}       | 1    |
-| 11   | {% rauserpic Fridge %}              | 1    |
-| 11   | {% rauserpic Gudra %}               | 1    |
-| 11   | {% rauserpic KniteRite %}           | 1    |
-| 11   | {% rauserpic Layton %}              | 1    |
-| 11   | {% rauserpic LogicalFallacy %}      | 1    |
-| 11   | {% rauserpic LordAndrew %}          | 1    |
-| 11   | {% rauserpic malasdair %}           | 1    |
-| 11   | {% rauserpic MelodyAsh %}           | 1    |
-| 11   | {% rauserpic MGNS8M %}              | 1    |
-| 11   | {% rauserpic NamcoPlayer9871 %}     | 1    |
-| 11   | {% rauserpic pickledyamsman %}      | 1    |
-| 11   | {% rauserpic Released %}            | 1    |
-| 11   | {% rauserpic Shmelyoff %}           | 1    |
-| 11   | {% rauserpic Snow %}                | 1    |
-| 11   | {% rauserpic suspect15 %}           | 1    |
-| 11   | {% rauserpic Tayadaoc %}            | 1    |
-| 11   | {% rauserpic televandalist %}       | 1    |
-| 11   | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 11   | {% rauserpic TheMysticalOne %}      | 1    |
-| 11   | {% rauserpic TheScarletDevil %}     | 1    |
-| 11   | {% rauserpic TheThirdCube %}        | 1    |
-| 11   | {% rauserpic voiceofautumn %}       | 1    |
-| 11   | {% rauserpic wolfman2000 %}         | 1    |
-| 11   | {% rauserpic ZamArch %}             | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic timenoe %}                                 | 7    |
+| 2    | {% rauserpic SporyTike %}                               | 4    |
+| 3    | {% rauserpic FRAN269 %}                                 | 3    |
+| 3    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 3    |
+| 5    | {% rauserpic Hexadigital %}                             | 2    |
+| 5    | {% rauserpicalt LadyNadia, ladynadiad %}                | 2    |
+| 5    | {% rauserpic Maximdraco %}                              | 2    |
+| 5    | {% rauserpic pinguupinguu %}                            | 2    |
+| 5    | {% rauserpic Sines %}                                   | 2    |
+| 5    | {% rauserpic TheJediSonic %}                            | 2    |
+| 11   | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 11   | {% rauserpic AuburnRDM %}                               | 1    |
+| 11   | {% rauserpic Bilalscape12 %}                            | 1    |
+| 11   | {% rauserpic Blazekickn %}                              | 1    |
+| 11   | {% rauserpic Brandovsky %}                              | 1    |
+| 11   | {% rauserpic BrunoKiko %}                               | 1    |
+| 11   | {% rauserpicalt Brylefi, Bryan1150 %}                   | 1    |
+| 11   | {% rauserpic Cadaxar %}                                 | 1    |
+| 11   | {% rauserpic Cerlayjux %}                               | 1    |
+| 11   | {% rauserpic ChiiniiTheComet %}                         | 1    |
+| 11   | {% rauserpic Coloradohusky %}                           | 1    |
+| 11   | {% rauserpic Darkc0m %}                                 | 1    |
+| 11   | {% rauserpicalt Darky, DarkyAndreas %}                  | 1    |
+| 11   | {% rauserpic Dennis1543 %}                              | 1    |
+| 11   | {% rauserpic DoctorV %}                                 | 1    |
+| 11   | {% rauserpic Etron %}                                   | 1    |
+| 11   | {% rauserpic Excessiveiser %}                           | 1    |
+| 11   | {% rauserpic Fridge %}                                  | 1    |
+| 11   | {% rauserpic Gudra %}                                   | 1    |
+| 11   | {% rauserpic KniteRite %}                               | 1    |
+| 11   | {% rauserpic Layton %}                                  | 1    |
+| 11   | {% rauserpic LogicalFallacy %}                          | 1    |
+| 11   | {% rauserpic LordAndrew %}                              | 1    |
+| 11   | {% rauserpic malasdair %}                               | 1    |
+| 11   | {% rauserpic MelodyAsh %}                               | 1    |
+| 11   | {% rauserpic MGNS8M %}                                  | 1    |
+| 11   | {% rauserpicalt suun, NamcoPlayer9871 %}                | 1    |
+| 11   | {% rauserpic pickledyamsman %}                          | 1    |
+| 11   | {% rauserpic Released %}                                | 1    |
+| 11   | {% rauserpic Shmelyoff %}                               | 1    |
+| 11   | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 11   | {% rauserpic suspect15 %}                               | 1    |
+| 11   | {% rauserpic Tayadaoc %}                                | 1    |
+| 11   | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 11   | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 11   | {% rauserpic TheMysticalOne %}                          | 1    |
+| 11   | {% rauserpic TheScarletDevil %}                         | 1    |
+| 11   | {% rauserpic TheThirdCube %}                            | 1    |
+| 11   | {% rauserpic voiceofautumn %}                           | 1    |
+| 11   | {% rauserpicalt lonegraywolf2000, wolfman2000 %}        | 1    |
+| 11   | {% rauserpic ZamArch %}                                 | 1    |
 
 ## PC Engine CD/TurboGrafx-CD
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Cadaxar %}             | 6    |
-| 2    | {% rauserpic ladynadiad %}          | 5    |
-| 2    | {% rauserpic televandalist %}       | 5    |
-| 4    | {% rauserpic guindev %}             | 3    |
-| 4    | {% rauserpic ThatAmericanSlacker %} | 3    |
-| 4    | {% rauserpic tomojin %}             | 3    |
-| 4    | {% rauserpic VampireLord %}         | 3    |
-| 8    | {% rauserpic Excessiveiser %}       | 2    |
-| 8    | {% rauserpic hardt %}               | 2    |
-| 8    | {% rauserpic Hexadigital %}         | 2    |
-| 8    | {% rauserpic Jamiras %}             | 2    |
-| 8    | {% rauserpic LordAndrew %}          | 2    |
-| 8    | {% rauserpic Sigma501 %}            | 2    |
-| 8    | {% rauserpic Snow %}                | 2    |
-| 8    | {% rauserpic TheMysticalOne %}      | 2    |
-| 16   | {% rauserpic Biendeo %}             | 1    |
-| 16   | {% rauserpic BigWeedSmokerMan %}    | 1    |
-| 16   | {% rauserpic BiPolarScientist %}    | 1    |
-| 16   | {% rauserpic Bl4h8L4hBl4h %}        | 1    |
-| 16   | {% rauserpic Blazekickn %}          | 1    |
-| 16   | {% rauserpic Brandovsky %}          | 1    |
-| 16   | {% rauserpic ChocoMilk %}           | 1    |
-| 16   | {% rauserpic clymax %}              | 1    |
-| 16   | {% rauserpic DeeCee %}              | 1    |
-| 16   | {% rauserpic drusiform %}           | 1    |
-| 16   | {% rauserpic Etron %}               | 1    |
-| 16   | {% rauserpic Hotscrock %}           | 1    |
-| 16   | {% rauserpic KiwiTaco %}            | 1    |
-| 16   | {% rauserpic Lilpaulo3232 %}        | 1    |
-| 16   | {% rauserpic lordpsycho %}          | 1    |
-| 16   | {% rauserpic MaddieKittyTV %}       | 1    |
-| 16   | {% rauserpic malasdair %}           | 1    |
-| 16   | {% rauserpic Maximdraco %}          | 1    |
-| 16   | {% rauserpic MGNS8M %}              | 1    |
-| 16   | {% rauserpic MiguelsoaresGames2 %}  | 1    |
-| 16   | {% rauserpic pinguupinguu %}        | 1    |
-| 16   | {% rauserpic Quenthel %}            | 1    |
-| 16   | {% rauserpic quirky0992 %}          | 1    |
-| 16   | {% rauserpic RyCuLe %}              | 1    |
-| 16   | {% rauserpic Salsa %}               | 1    |
-| 16   | {% rauserpic Sines %}               | 1    |
-| 16   | {% rauserpic suspect15 %}           | 1    |
-| 16   | {% rauserpic Sutarion %}            | 1    |
-| 16   | {% rauserpic Tayadaoc %}            | 1    |
-| 16   | {% rauserpic TheJediSonic %}        | 1    |
-| 16   | {% rauserpic tuteur51 %}            | 1    |
-| 16   | {% rauserpic voiceofautumn %}       | 1    |
-| 16   | {% rauserpic WanderingHeiho %}      | 1    |
-| 16   | {% rauserpic WilHiteWarrior %}      | 1    |
-| 16   | {% rauserpic Wulden %}              | 1    |
-| 16   | {% rauserpic zaydoc %}              | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Cadaxar %}                                 | 6    |
+| 2    | {% rauserpicalt LadyNadia, ladynadiad %}                | 5    |
+| 2    | {% rauserpicalt tele, televandalist %}                  | 5    |
+| 4    | {% rauserpic guindev %}                                 | 3    |
+| 4    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 3    |
+| 4    | {% rauserpic tomojin %}                                 | 3    |
+| 4    | {% rauserpicalt MarioDuarteGJ, VampireLord %}           | 3    |
+| 8    | {% rauserpic Excessiveiser %}                           | 2    |
+| 8    | {% rauserpic hardt %}                                   | 2    |
+| 8    | {% rauserpic Hexadigital %}                             | 2    |
+| 8    | {% rauserpic Jamiras %}                                 | 2    |
+| 8    | {% rauserpic LordAndrew %}                              | 2    |
+| 8    | {% rauserpic Sigma501 %}                                | 2    |
+| 8    | {% rauserpicalt SnowPin, Snow %}                        | 2    |
+| 8    | {% rauserpic TheMysticalOne %}                          | 2    |
+| 16   | {% rauserpic Biendeo %}                                 | 1    |
+| 16   | {% rauserpic BigWeedSmokerMan %}                        | 1    |
+| 16   | {% rauserpic BiPolarScientist %}                        | 1    |
+| 16   | {% rauserpic Bl4h8L4hBl4h %}                            | 1    |
+| 16   | {% rauserpic Blazekickn %}                              | 1    |
+| 16   | {% rauserpic Brandovsky %}                              | 1    |
+| 16   | {% rauserpicalt ChoccyMilk, ChocoMilk %}                | 1    |
+| 16   | {% rauserpic clymax %}                                  | 1    |
+| 16   | {% rauserpic DeeCee %}                                  | 1    |
+| 16   | {% rauserpic drusiform %}                               | 1    |
+| 16   | {% rauserpic Etron %}                                   | 1    |
+| 16   | {% rauserpic Hotscrock %}                               | 1    |
+| 16   | {% rauserpic KiwiTaco %}                                | 1    |
+| 16   | {% rauserpic Lilpaulo3232 %}                            | 1    |
+| 16   | {% rauserpic lordpsycho %}                              | 1    |
+| 16   | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 16   | {% rauserpic malasdair %}                               | 1    |
+| 16   | {% rauserpic Maximdraco %}                              | 1    |
+| 16   | {% rauserpic MGNS8M %}                                  | 1    |
+| 16   | {% rauserpic MiguelsoaresGames2 %}                      | 1    |
+| 16   | {% rauserpic pinguupinguu %}                            | 1    |
+| 16   | {% rauserpic Quenthel %}                                | 1    |
+| 16   | {% rauserpic quirky0992 %}                              | 1    |
+| 16   | {% rauserpic RyCuLe %}                                  | 1    |
+| 16   | {% rauserpic Salsa %}                                   | 1    |
+| 16   | {% rauserpic Sines %}                                   | 1    |
+| 16   | {% rauserpic suspect15 %}                               | 1    |
+| 16   | {% rauserpic Sutarion %}                                | 1    |
+| 16   | {% rauserpic Tayadaoc %}                                | 1    |
+| 16   | {% rauserpic TheJediSonic %}                            | 1    |
+| 16   | {% rauserpic tuteur51 %}                                | 1    |
+| 16   | {% rauserpic voiceofautumn %}                           | 1    |
+| 16   | {% rauserpic WanderingHeiho %}                          | 1    |
+| 16   | {% rauserpic WilHiteWarrior %}                          | 1    |
+| 16   | {% rauserpic Wulden %}                                  | 1    |
+| 16   | {% rauserpic zaydoc %}                                  | 1    |
 
 ## PC Engine/TurboGrafx-16
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic hardt %}               | 16   |
-| 2    | {% rauserpic televandalist %}       | 13   |
-| 3    | {% rauserpic Hexadigital %}         | 10   |
-| 3    | {% rauserpic MGNS8M %}              | 10   |
-| 5    | {% rauserpic ThatAmericanSlacker %} | 8    |
-| 6    | {% rauserpic gogotea %}             | 7    |
-| 7    | {% rauserpic Kinglink %}            | 4    |
-| 8    | {% rauserpic caricatur %}           | 3    |
-| 8    | {% rauserpic guindev %}             | 3    |
-| 8    | {% rauserpic ikki5 %}               | 3    |
-| 8    | {% rauserpic Sines %}               | 3    |
-| 8    | {% rauserpic TheMysticalOne %}      | 3    |
-| 8    | {% rauserpic tomojin %}             | 3    |
-| 14   | {% rauserpic Bl4h8L4hBl4h %}        | 2    |
-| 14   | {% rauserpic DanielARP %}           | 2    |
-| 14   | {% rauserpic MagusPC %}             | 2    |
-| 14   | {% rauserpic princentvice %}        | 2    |
-| 14   | {% rauserpic s0uth %}               | 2    |
-| 14   | {% rauserpic Schnitzel %}           | 2    |
-| 14   | {% rauserpic VampireLord %}         | 2    |
-| 14   | {% rauserpic Wulden %}              | 2    |
-| 14   | {% rauserpic Zaphnath %}            | 2    |
-| 23   | {% rauserpic AaronDobbe %}          | 1    |
-| 23   | {% rauserpic AfroRyan %}            | 1    |
-| 23   | {% rauserpic Bedtime %}             | 1    |
-| 23   | {% rauserpic BennyBurrito %}        | 1    |
-| 23   | {% rauserpic Blazekickn %}          | 1    |
-| 23   | {% rauserpic Brandovsky %}          | 1    |
-| 23   | {% rauserpic Cadaxar %}             | 1    |
-| 23   | {% rauserpic Chr0x %}               | 1    |
-| 23   | {% rauserpic Dexterspet %}          | 1    |
-| 23   | {% rauserpic DionOf93 %}            | 1    |
-| 23   | {% rauserpic DoctorV %}             | 1    |
-| 23   | {% rauserpic Excessiveiser %}       | 1    |
-| 23   | {% rauserpic Falcus %}              | 1    |
-| 23   | {% rauserpic ladynadiad %}          | 1    |
-| 23   | {% rauserpic Layton %}              | 1    |
-| 23   | {% rauserpic LordAndrew %}          | 1    |
-| 23   | {% rauserpic MaddieKittyTV %}       | 1    |
-| 23   | {% rauserpic malasdair %}           | 1    |
-| 23   | {% rauserpic Maximdraco %}          | 1    |
-| 23   | {% rauserpic MeCKooLL %}            | 1    |
-| 23   | {% rauserpic monkeytoung %}         | 1    |
-| 23   | {% rauserpic Numberman %}           | 1    |
-| 23   | {% rauserpic Psyrek %}              | 1    |
-| 23   | {% rauserpic quirky0992 %}          | 1    |
-| 23   | {% rauserpic Retrokaiser %}         | 1    |
-| 23   | {% rauserpic RyCuLe %}              | 1    |
-| 23   | {% rauserpic Salsa %}               | 1    |
-| 23   | {% rauserpic Snow %}                | 1    |
-| 23   | {% rauserpic suspect15 %}           | 1    |
-| 23   | {% rauserpic Sutarion %}            | 1    |
-| 23   | {% rauserpic TheJediSonic %}        | 1    |
-| 23   | {% rauserpic Totaya %}              | 1    |
-| 23   | {% rauserpic voiceofautumn %}       | 1    |
-| 23   | {% rauserpic WilHiteWarrior %}      | 1    |
-| 23   | {% rauserpic WindmasterManwe %}     | 1    |
-| 23   | {% rauserpic wolfman2000 %}         | 1    |
-| 23   | {% rauserpic zaydoc %}              | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic hardt %}                                   | 16   |
+| 2    | {% rauserpicalt tele, televandalist %}                  | 13   |
+| 3    | {% rauserpic Hexadigital %}                             | 10   |
+| 3    | {% rauserpic MGNS8M %}                                  | 10   |
+| 5    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 8    |
+| 6    | {% rauserpic gogotea %}                                 | 7    |
+| 7    | {% rauserpic Kinglink %}                                | 4    |
+| 8    | {% rauserpic caricatur %}                               | 3    |
+| 8    | {% rauserpic guindev %}                                 | 3    |
+| 8    | {% rauserpic ikki5 %}                                   | 3    |
+| 8    | {% rauserpic Sines %}                                   | 3    |
+| 8    | {% rauserpic TheMysticalOne %}                          | 3    |
+| 8    | {% rauserpic tomojin %}                                 | 3    |
+| 14   | {% rauserpic Bl4h8L4hBl4h %}                            | 2    |
+| 14   | {% rauserpic DanielARP %}                               | 2    |
+| 14   | {% rauserpic MagusPC %}                                 | 2    |
+| 14   | {% rauserpicalt hoagieking, princentvice %}             | 2    |
+| 14   | {% rauserpic s0uth %}                                   | 2    |
+| 14   | {% rauserpic Schnitzel %}                               | 2    |
+| 14   | {% rauserpicalt MarioDuarteGJ, VampireLord %}           | 2    |
+| 14   | {% rauserpic Wulden %}                                  | 2    |
+| 14   | {% rauserpic Zaphnath %}                                | 2    |
+| 23   | {% rauserpic AaronDobbe %}                              | 1    |
+| 23   | {% rauserpic AfroRyan %}                                | 1    |
+| 23   | {% rauserpic Bedtime %}                                 | 1    |
+| 23   | {% rauserpic BennyBurrito %}                            | 1    |
+| 23   | {% rauserpic Blazekickn %}                              | 1    |
+| 23   | {% rauserpic Brandovsky %}                              | 1    |
+| 23   | {% rauserpic Cadaxar %}                                 | 1    |
+| 23   | {% rauserpic Chr0x %}                                   | 1    |
+| 23   | {% rauserpic Dexterspet %}                              | 1    |
+| 23   | {% rauserpic DionOf93 %}                                | 1    |
+| 23   | {% rauserpic DoctorV %}                                 | 1    |
+| 23   | {% rauserpic Excessiveiser %}                           | 1    |
+| 23   | {% rauserpic Falcus %}                                  | 1    |
+| 23   | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 23   | {% rauserpic Layton %}                                  | 1    |
+| 23   | {% rauserpic LordAndrew %}                              | 1    |
+| 23   | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 23   | {% rauserpic malasdair %}                               | 1    |
+| 23   | {% rauserpic Maximdraco %}                              | 1    |
+| 23   | {% rauserpic MeCKooLL %}                                | 1    |
+| 23   | {% rauserpic monkeytoung %}                             | 1    |
+| 23   | {% rauserpic Numberman %}                               | 1    |
+| 23   | {% rauserpic Psyrek %}                                  | 1    |
+| 23   | {% rauserpic quirky0992 %}                              | 1    |
+| 23   | {% rauserpic Retrokaiser %}                             | 1    |
+| 23   | {% rauserpic RyCuLe %}                                  | 1    |
+| 23   | {% rauserpic Salsa %}                                   | 1    |
+| 23   | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 23   | {% rauserpic suspect15 %}                               | 1    |
+| 23   | {% rauserpic Sutarion %}                                | 1    |
+| 23   | {% rauserpic TheJediSonic %}                            | 1    |
+| 23   | {% rauserpic Totaya %}                                  | 1    |
+| 23   | {% rauserpic voiceofautumn %}                           | 1    |
+| 23   | {% rauserpic WilHiteWarrior %}                          | 1    |
+| 23   | {% rauserpicalt AshenStrix, WindmasterManwe %}          | 1    |
+| 23   | {% rauserpicalt lonegraywolf2000, wolfman2000 %}        | 1    |
+| 23   | {% rauserpic zaydoc %}                                  | 1    |
 
 ## PC-8000/8800
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Euclide %}             | 7    |
-| 1    | {% rauserpic Hexadigital %}         | 7    |
-| 3    | {% rauserpic Retrokaiser %}         | 4    |
-| 3    | {% rauserpic televandalist %}       | 4    |
-| 5    | {% rauserpic caricatur %}           | 3    |
-| 5    | {% rauserpic RyCuLe %}              | 3    |
-| 5    | {% rauserpic Sines %}               | 3    |
-| 5    | {% rauserpic Snow %}                | 3    |
-| 9    | {% rauserpic Akujo %}               | 2    |
-| 9    | {% rauserpic Cadaxar %}             | 2    |
-| 9    | {% rauserpic guindev %}             | 2    |
-| 9    | {% rauserpic Jamiras %}             | 2    |
-| 9    | {% rauserpic kmpers %}              | 2    |
-| 9    | {% rauserpic LordAndrew %}          | 2    |
-| 9    | {% rauserpic MaddieKittyTV %}       | 2    |
-| 9    | {% rauserpic NamcoPlayer9871 %}     | 2    |
-| 9    | {% rauserpic scatter %}             | 2    |
-| 9    | {% rauserpic Sutarion %}            | 2    |
-| 9    | {% rauserpic TheMysticalOne %}      | 2    |
-| 9    | {% rauserpic Triforce %}            | 2    |
-| 21   | {% rauserpic Aaamdacuaga %}         | 1    |
-| 21   | {% rauserpic AfroRyan %}            | 1    |
-| 21   | {% rauserpic Amir96lx %}            | 1    |
-| 21   | {% rauserpic Biendeo %}             | 1    |
-| 21   | {% rauserpic Blazekickn %}          | 1    |
-| 21   | {% rauserpic Brandovsky %}          | 1    |
-| 21   | {% rauserpic DoctorV %}             | 1    |
-| 21   | {% rauserpic Excessiveiser %}       | 1    |
-| 21   | {% rauserpic GalacticSpear %}       | 1    |
-| 21   | {% rauserpic Hotscrock %}           | 1    |
-| 21   | {% rauserpic ladynadiad %}          | 1    |
-| 21   | {% rauserpic lordpsycho %}          | 1    |
-| 21   | {% rauserpic Mendil %}              | 1    |
-| 21   | {% rauserpic MGNS8M %}              | 1    |
-| 21   | {% rauserpic PasokonDeacon %}       | 1    |
-| 21   | {% rauserpic pinguupinguu %}        | 1    |
-| 21   | {% rauserpic s0uth %}               | 1    |
-| 21   | {% rauserpic siouxerskate %}        | 1    |
-| 21   | {% rauserpic suspect15 %}           | 1    |
-| 21   | {% rauserpic Tayadaoc %}            | 1    |
-| 21   | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 21   | {% rauserpic TheBatman %}           | 1    |
-| 21   | {% rauserpic TheJediSonic %}        | 1    |
-| 21   | {% rauserpic TwosomesUP %}          | 1    |
-| 21   | {% rauserpic voiceofautumn %}       | 1    |
-| 21   | {% rauserpic zaydoc %}              | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Euclide %}                                 | 7    |
+| 1    | {% rauserpic Hexadigital %}                             | 7    |
+| 3    | {% rauserpic Retrokaiser %}                             | 4    |
+| 3    | {% rauserpicalt tele, televandalist %}                  | 4    |
+| 5    | {% rauserpic caricatur %}                               | 3    |
+| 5    | {% rauserpic RyCuLe %}                                  | 3    |
+| 5    | {% rauserpic Sines %}                                   | 3    |
+| 5    | {% rauserpicalt SnowPin, Snow %}                        | 3    |
+| 9    | {% rauserpic Akujo %}                                   | 2    |
+| 9    | {% rauserpic Cadaxar %}                                 | 2    |
+| 9    | {% rauserpic guindev %}                                 | 2    |
+| 9    | {% rauserpic Jamiras %}                                 | 2    |
+| 9    | {% rauserpic kmpers %}                                  | 2    |
+| 9    | {% rauserpic LordAndrew %}                              | 2    |
+| 9    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 2    |
+| 9    | {% rauserpicalt suun, NamcoPlayer9871 %}                | 2    |
+| 9    | {% rauserpic scatter %}                                 | 2    |
+| 9    | {% rauserpic Sutarion %}                                | 2    |
+| 9    | {% rauserpic TheMysticalOne %}                          | 2    |
+| 9    | {% rauserpic Triforce %}                                | 2    |
+| 21   | {% rauserpic Aaamdacuaga %}                             | 1    |
+| 21   | {% rauserpic AfroRyan %}                                | 1    |
+| 21   | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 21   | {% rauserpic Biendeo %}                                 | 1    |
+| 21   | {% rauserpic Blazekickn %}                              | 1    |
+| 21   | {% rauserpic Brandovsky %}                              | 1    |
+| 21   | {% rauserpic DoctorV %}                                 | 1    |
+| 21   | {% rauserpic Excessiveiser %}                           | 1    |
+| 21   | {% rauserpic GalacticSpear %}                           | 1    |
+| 21   | {% rauserpic Hotscrock %}                               | 1    |
+| 21   | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 21   | {% rauserpic lordpsycho %}                              | 1    |
+| 21   | {% rauserpic Mendil %}                                  | 1    |
+| 21   | {% rauserpic MGNS8M %}                                  | 1    |
+| 21   | {% rauserpic PasokonDeacon %}                           | 1    |
+| 21   | {% rauserpic pinguupinguu %}                            | 1    |
+| 21   | {% rauserpic s0uth %}                                   | 1    |
+| 21   | {% rauserpic siouxerskate %}                            | 1    |
+| 21   | {% rauserpic suspect15 %}                               | 1    |
+| 21   | {% rauserpic Tayadaoc %}                                | 1    |
+| 21   | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 21   | {% rauserpic TheBatman %}                               | 1    |
+| 21   | {% rauserpic TheJediSonic %}                            | 1    |
+| 21   | {% rauserpicalt BacklogOddy, TwosomesUP %}              | 1    |
+| 21   | {% rauserpic voiceofautumn %}                           | 1    |
+| 21   | {% rauserpic zaydoc %}                                  | 1    |
 
 ## PC-FX
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Amir96lx %}            | 1    |
-| 1    | {% rauserpic BigWeedSmokerMan %}    | 1    |
-| 1    | {% rauserpic Blazekickn %}          | 1    |
-| 1    | {% rauserpic Brandovsky %}          | 1    |
-| 1    | {% rauserpic Excessiveiser %}       | 1    |
-| 1    | {% rauserpic guindev %}             | 1    |
-| 1    | {% rauserpic Hexadigital %}         | 1    |
-| 1    | {% rauserpic ladynadiad %}          | 1    |
-| 1    | {% rauserpic lizstar %}             | 1    |
-| 1    | {% rauserpic LogicalFallacy %}      | 1    |
-| 1    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 1    | {% rauserpic MGNS8M %}              | 1    |
-| 1    | {% rauserpic pinguupinguu %}        | 1    |
-| 1    | {% rauserpic Sines %}               | 1    |
-| 1    | {% rauserpic Snow %}                | 1    |
-| 1    | {% rauserpic suspect15 %}           | 1    |
-| 1    | {% rauserpic televandalist %}       | 1    |
-| 1    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 1    | {% rauserpic TheMysticalOne %}      | 1    |
-| 1    | {% rauserpic voiceofautumn %}       | 1    |
-| 1    | {% rauserpic zaydoc %}              | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 1    | {% rauserpic BigWeedSmokerMan %}                        | 1    |
+| 1    | {% rauserpic Blazekickn %}                              | 1    |
+| 1    | {% rauserpic Brandovsky %}                              | 1    |
+| 1    | {% rauserpic Excessiveiser %}                           | 1    |
+| 1    | {% rauserpic guindev %}                                 | 1    |
+| 1    | {% rauserpic Hexadigital %}                             | 1    |
+| 1    | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 1    | {% rauserpic lizstar %}                                 | 1    |
+| 1    | {% rauserpic LogicalFallacy %}                          | 1    |
+| 1    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 1    | {% rauserpic MGNS8M %}                                  | 1    |
+| 1    | {% rauserpic pinguupinguu %}                            | 1    |
+| 1    | {% rauserpic Sines %}                                   | 1    |
+| 1    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 1    | {% rauserpic suspect15 %}                               | 1    |
+| 1    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 1    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 1    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 1    | {% rauserpic voiceofautumn %}                           | 1    |
+| 1    | {% rauserpic zaydoc %}                                  | 1    |
 
 ## PlayStation
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Amir96lx %}            | 40   |
-| 2    | {% rauserpic Alfex %}               | 29   |
-| 3    | {% rauserpic BrunoKiko %}           | 23   |
-| 3    | {% rauserpic tatoonie %}            | 23   |
-| 5    | {% rauserpic ikki5 %}               | 21   |
-| 6    | {% rauserpic monkeytoung %}         | 20   |
-| 6    | {% rauserpic televandalist %}       | 20   |
-| 8    | {% rauserpic Layton %}              | 19   |
-| 8    | {% rauserpic valts %}               | 19   |
-| 10   | {% rauserpic WilHiteWarrior %}      | 17   |
-| 11   | {% rauserpic raniejogos %}          | 15   |
-| 12   | {% rauserpic TeddyWestside %}       | 14   |
-| 13   | {% rauserpic Alena %}               | 11   |
-| 14   | {% rauserpic AlexGatao %}           | 10   |
-| 14   | {% rauserpic timenoe %}             | 10   |
-| 16   | {% rauserpic NgNvNn %}              | 9    |
-| 16   | {% rauserpic ThatAmericanSlacker %} | 9    |
-| 18   | {% rauserpic Excessiveiser %}       | 8    |
-| 18   | {% rauserpic mario2188 %}           | 8    |
-| 18   | {% rauserpic Vancleef %}            | 8    |
-| 21   | {% rauserpic Bryan1150 %}           | 7    |
-| 21   | {% rauserpic KingS1zzle %}          | 7    |
-| 21   | {% rauserpic SherryBirkin %}        | 7    |
-| 21   | {% rauserpic toteman %}             | 7    |
-| 25   | {% rauserpic ArcaneJames %}         | 6    |
-| 25   | {% rauserpic BEXUS %}               | 6    |
-| 25   | {% rauserpic FBernkastelKues %}     | 6    |
-| 25   | {% rauserpic Infernox %}            | 6    |
-| 25   | {% rauserpic MGNS8M %}              | 6    |
-| 25   | {% rauserpic pinguupinguu %}        | 6    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 40   |
+| 2    | {% rauserpic Alfex %}                                   | 29   |
+| 3    | {% rauserpic BrunoKiko %}                               | 23   |
+| 3    | {% rauserpic tatoonie %}                                | 23   |
+| 5    | {% rauserpic ikki5 %}                                   | 21   |
+| 6    | {% rauserpic monkeytoung %}                             | 20   |
+| 6    | {% rauserpicalt tele, televandalist %}                  | 20   |
+| 8    | {% rauserpic Layton %}                                  | 19   |
+| 8    | {% rauserpic valts %}                                   | 19   |
+| 10   | {% rauserpic WilHiteWarrior %}                          | 17   |
+| 11   | {% rauserpicalt Universus, raniejogos %}                | 15   |
+| 12   | {% rauserpic TeddyWestside %}                           | 14   |
+| 13   | {% rauserpic Alena %}                                   | 11   |
+| 14   | {% rauserpicalt AlexHylian, AlexGatao %}                | 10   |
+| 14   | {% rauserpic timenoe %}                                 | 10   |
+| 16   | {% rauserpic NgNvNn %}                                  | 9    |
+| 16   | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 9    |
+| 18   | {% rauserpic Excessiveiser %}                           | 8    |
+| 18   | {% rauserpic mario2188 %}                               | 8    |
+| 18   | {% rauserpic Vancleef %}                                | 8    |
+| 21   | {% rauserpicalt Brylefi, Bryan1150 %}                   | 7    |
+| 21   | {% rauserpic KingS1zzle %}                              | 7    |
+| 21   | {% rauserpic SherryBirkin %}                            | 7    |
+| 21   | {% rauserpic toteman %}                                 | 7    |
+| 25   | {% rauserpic ArcaneJames %}                             | 6    |
+| 25   | {% rauserpic BEXUS %}                                   | 6    |
+| 25   | {% rauserpic FBernkastelKues %}                         | 6    |
+| 25   | {% rauserpic Infernox %}                                | 6    |
+| 25   | {% rauserpic MGNS8M %}                                  | 6    |
+| 25   | {% rauserpic pinguupinguu %}                            | 6    |
 
 ## PlayStation 2
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Snow %}                | 41   |
-| 2    | {% rauserpic Excessiveiser %}       | 31   |
-| 2    | {% rauserpic zxmega %}              | 31   |
-| 4    | {% rauserpic AlexGatao %}           | 30   |
-| 4    | {% rauserpic NeonPug %}             | 30   |
-| 6    | {% rauserpic WilHiteWarrior %}      | 29   |
-| 7    | {% rauserpic TeddyWestside %}       | 25   |
-| 8    | {% rauserpic timenoe %}             | 24   |
-| 9    | {% rauserpic pinguupinguu %}        | 23   |
-| 10   | {% rauserpic SuperMeatBro %}        | 22   |
-| 10   | {% rauserpic Vancleef %}            | 22   |
-| 12   | {% rauserpic blendedsea %}          | 17   |
-| 12   | {% rauserpic Gollawiz %}            | 17   |
-| 14   | {% rauserpic Delmaru %}             | 16   |
-| 14   | {% rauserpic Kinglink %}            | 16   |
-| 14   | {% rauserpic suspect15 %}           | 16   |
-| 17   | {% rauserpic Bryan1150 %}           | 14   |
-| 17   | {% rauserpic Souzooka %}            | 14   |
-| 19   | {% rauserpic Layton %}              | 13   |
-| 20   | {% rauserpic RyCuLe %}              | 10   |
-| 21   | {% rauserpic Griffin %}             | 9    |
-| 21   | {% rauserpic Guinea %}              | 9    |
-| 21   | {% rauserpic SporyTike %}           | 9    |
-| 21   | {% rauserpic suXin %}               | 9    |
-| 21   | {% rauserpic ThatAmericanSlacker %} | 9    |
-| 21   | {% rauserpic zizom %}               | 9    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpicalt SnowPin, Snow %}                        | 41   |
+| 2    | {% rauserpic Excessiveiser %}                           | 31   |
+| 2    | {% rauserpic zxmega %}                                  | 31   |
+| 4    | {% rauserpicalt AlexHylian, AlexGatao %}                | 30   |
+| 4    | {% rauserpic NeonPug %}                                 | 30   |
+| 6    | {% rauserpic WilHiteWarrior %}                          | 29   |
+| 7    | {% rauserpic TeddyWestside %}                           | 25   |
+| 8    | {% rauserpic timenoe %}                                 | 24   |
+| 9    | {% rauserpic pinguupinguu %}                            | 23   |
+| 10   | {% rauserpicalt Meatbro, SuperMeatBro %}                | 22   |
+| 10   | {% rauserpic Vancleef %}                                | 22   |
+| 12   | {% rauserpic blendedsea %}                              | 17   |
+| 12   | {% rauserpic Gollawiz %}                                | 17   |
+| 14   | {% rauserpic Delmaru %}                                 | 16   |
+| 14   | {% rauserpic Kinglink %}                                | 16   |
+| 14   | {% rauserpic suspect15 %}                               | 16   |
+| 17   | {% rauserpicalt Brylefi, Bryan1150 %}                   | 14   |
+| 17   | {% rauserpic Souzooka %}                                | 14   |
+| 19   | {% rauserpic Layton %}                                  | 13   |
+| 20   | {% rauserpic RyCuLe %}                                  | 10   |
+| 21   | {% rauserpic Griffin %}                                 | 9    |
+| 21   | {% rauserpic Guinea %}                                  | 9    |
+| 21   | {% rauserpic SporyTike %}                               | 9    |
+| 21   | {% rauserpic suXin %}                                   | 9    |
+| 21   | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 9    |
+| 21   | {% rauserpic zizom %}                                   | 9    |
 
 ## PlayStation Portable
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic AlexGatao %}           | 20   |
-| 2    | {% rauserpic TeddyWestside %}       | 14   |
-| 3    | {% rauserpic KingS1zzle %}          | 12   |
-| 3    | {% rauserpic lordpsycho %}          | 12   |
-| 3    | {% rauserpic Snow %}                | 12   |
-| 6    | {% rauserpic SporyTike %}           | 10   |
-| 7    | {% rauserpic Skiichi %}             | 9    |
-| 8    | {% rauserpic raniejogos %}          | 8    |
-| 8    | {% rauserpic WanderingHeiho %}      | 8    |
-| 10   | {% rauserpic abdalin %}             | 7    |
-| 10   | {% rauserpic blendedsea %}          | 7    |
-| 10   | {% rauserpic Bryan1150 %}           | 7    |
-| 10   | {% rauserpic ThatAmericanSlacker %} | 7    |
-| 14   | {% rauserpic Delmaru %}             | 6    |
-| 14   | {% rauserpic MGNS8M %}              | 6    |
-| 14   | {% rauserpic NeonPug %}             | 6    |
-| 14   | {% rauserpic televandalist %}       | 6    |
-| 18   | {% rauserpic Excessiveiser %}       | 5    |
-| 18   | {% rauserpic Guinea %}              | 5    |
-| 18   | {% rauserpic ladynadiad %}          | 5    |
-| 18   | {% rauserpic Layton %}              | 5    |
-| 18   | {% rauserpic suspect15 %}           | 5    |
-| 18   | {% rauserpic TheScarletDevil %}     | 5    |
-| 18   | {% rauserpic WilHiteWarrior %}      | 5    |
-| 18   | {% rauserpic zizom %}               | 5    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpicalt AlexHylian, AlexGatao %}                | 20   |
+| 2    | {% rauserpic TeddyWestside %}                           | 14   |
+| 3    | {% rauserpic KingS1zzle %}                              | 12   |
+| 3    | {% rauserpic lordpsycho %}                              | 12   |
+| 3    | {% rauserpicalt SnowPin, Snow %}                        | 12   |
+| 6    | {% rauserpic SporyTike %}                               | 10   |
+| 7    | {% rauserpic Skiichi %}                                 | 9    |
+| 8    | {% rauserpicalt Universus, raniejogos %}                | 8    |
+| 8    | {% rauserpic WanderingHeiho %}                          | 8    |
+| 10   | {% rauserpic abdalin %}                                 | 7    |
+| 10   | {% rauserpic blendedsea %}                              | 7    |
+| 10   | {% rauserpicalt Brylefi, Bryan1150 %}                   | 7    |
+| 10   | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 7    |
+| 14   | {% rauserpic Delmaru %}                                 | 6    |
+| 14   | {% rauserpic MGNS8M %}                                  | 6    |
+| 14   | {% rauserpic NeonPug %}                                 | 6    |
+| 14   | {% rauserpicalt tele, televandalist %}                  | 6    |
+| 18   | {% rauserpic Excessiveiser %}                           | 5    |
+| 18   | {% rauserpic Guinea %}                                  | 5    |
+| 18   | {% rauserpicalt LadyNadia, ladynadiad %}                | 5    |
+| 18   | {% rauserpic Layton %}                                  | 5    |
+| 18   | {% rauserpic suspect15 %}                               | 5    |
+| 18   | {% rauserpic TheScarletDevil %}                         | 5    |
+| 18   | {% rauserpic WilHiteWarrior %}                          | 5    |
+| 18   | {% rauserpic zizom %}                                   | 5    |
 
 ## Pokemon Mini
 
-| Rank | Developer                        | Sets |
-| ---- | -------------------------------- | ---- |
-| 1    | {% rauserpic Blazekickn %}       | 5    |
-| 2    | {% rauserpic pinguupinguu %}     | 2    |
-| 2    | {% rauserpic SporyTike %}        | 2    |
-| 4    | {% rauserpic adamjohnny5 %}      | 1    |
-| 4    | {% rauserpic BahamutVoid %}      | 1    |
-| 4    | {% rauserpic BigWeedSmokerMan %} | 1    |
-| 4    | {% rauserpic Bl4h8L4hBl4h %}     | 1    |
-| 4    | {% rauserpic Brandovsky %}       | 1    |
-| 4    | {% rauserpic Bryan1150 %}        | 1    |
-| 4    | {% rauserpic Cadaxar %}          | 1    |
-| 4    | {% rauserpic Euclide %}          | 1    |
-| 4    | {% rauserpic Excessiveiser %}    | 1    |
-| 4    | {% rauserpic guindev %}          | 1    |
-| 4    | {% rauserpic jos %}              | 1    |
-| 4    | {% rauserpic kcin2001 %}         | 1    |
-| 4    | {% rauserpic Kisumebuckets %}    | 1    |
-| 4    | {% rauserpic ladynadiad %}       | 1    |
-| 4    | {% rauserpic LogicalFallacy %}   | 1    |
-| 4    | {% rauserpic LordAndrew %}       | 1    |
-| 4    | {% rauserpic MaddieKittyTV %}    | 1    |
-| 4    | {% rauserpic Maximdraco %}       | 1    |
-| 4    | {% rauserpic MGNS8M %}           | 1    |
-| 4    | {% rauserpic monkeytoung %}      | 1    |
-| 4    | {% rauserpic Pelouch %}          | 1    |
-| 4    | {% rauserpic pickledyamsman %}   | 1    |
-| 4    | {% rauserpic Searo %}            | 1    |
-| 4    | {% rauserpic SlashTangent %}     | 1    |
-| 4    | {% rauserpic Snow %}             | 1    |
-| 4    | {% rauserpic soopercool101 %}    | 1    |
-| 4    | {% rauserpic StingX2 %}          | 1    |
-| 4    | {% rauserpic suspect15 %}        | 1    |
-| 4    | {% rauserpic Sutarion %}         | 1    |
-| 4    | {% rauserpic televandalist %}    | 1    |
-| 4    | {% rauserpic TheMysticalOne %}   | 1    |
-| 4    | {% rauserpic Verros %}           | 1    |
-| 4    | {% rauserpic voiceofautumn %}    | 1    |
-| 4    | {% rauserpic wolfman2000 %}      | 1    |
-| 4    | {% rauserpic ZZKer %}            | 1    |
+| Rank | Developer                                        | Sets |
+| ---- | ------------------------------------------------ | ---- |
+| 1    | {% rauserpic Blazekickn %}                       | 5    |
+| 2    | {% rauserpic pinguupinguu %}                     | 2    |
+| 2    | {% rauserpic SporyTike %}                        | 2    |
+| 4    | {% rauserpic adamjohnny5 %}                      | 1    |
+| 4    | {% rauserpic BahamutVoid %}                      | 1    |
+| 4    | {% rauserpic BigWeedSmokerMan %}                 | 1    |
+| 4    | {% rauserpic Bl4h8L4hBl4h %}                     | 1    |
+| 4    | {% rauserpic Brandovsky %}                       | 1    |
+| 4    | {% rauserpicalt Brylefi, Bryan1150 %}            | 1    |
+| 4    | {% rauserpic Cadaxar %}                          | 1    |
+| 4    | {% rauserpic Euclide %}                          | 1    |
+| 4    | {% rauserpic Excessiveiser %}                    | 1    |
+| 4    | {% rauserpic guindev %}                          | 1    |
+| 4    | {% rauserpic jos %}                              | 1    |
+| 4    | {% rauserpic kcin2001 %}                         | 1    |
+| 4    | {% rauserpic Kisumebuckets %}                    | 1    |
+| 4    | {% rauserpicalt LadyNadia, ladynadiad %}         | 1    |
+| 4    | {% rauserpic LogicalFallacy %}                   | 1    |
+| 4    | {% rauserpic LordAndrew %}                       | 1    |
+| 4    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 1    |
+| 4    | {% rauserpic Maximdraco %}                       | 1    |
+| 4    | {% rauserpic MGNS8M %}                           | 1    |
+| 4    | {% rauserpic monkeytoung %}                      | 1    |
+| 4    | {% rauserpic Pelouch %}                          | 1    |
+| 4    | {% rauserpic pickledyamsman %}                   | 1    |
+| 4    | {% rauserpic Searo %}                            | 1    |
+| 4    | {% rauserpic SlashTangent %}                     | 1    |
+| 4    | {% rauserpicalt SnowPin, Snow %}                 | 1    |
+| 4    | {% rauserpic soopercool101 %}                    | 1    |
+| 4    | {% rauserpic StingX2 %}                          | 1    |
+| 4    | {% rauserpic suspect15 %}                        | 1    |
+| 4    | {% rauserpic Sutarion %}                         | 1    |
+| 4    | {% rauserpicalt tele, televandalist %}           | 1    |
+| 4    | {% rauserpic TheMysticalOne %}                   | 1    |
+| 4    | {% rauserpic Verros %}                           | 1    |
+| 4    | {% rauserpic voiceofautumn %}                    | 1    |
+| 4    | {% rauserpicalt lonegraywolf2000, wolfman2000 %} | 1    |
+| 4    | {% rauserpic ZZKer %}                            | 1    |
 
 ## Saturn
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Skiichi %}             | 17   |
-| 2    | {% rauserpic tomojin %}             | 11   |
-| 3    | {% rauserpic Bl4h8L4hBl4h %}        | 10   |
-| 4    | {% rauserpic Sines %}               | 9    |
-| 5    | {% rauserpic ThatAmericanSlacker %} | 7    |
-| 6    | {% rauserpic televandalist %}       | 6    |
-| 7    | {% rauserpic lizstar %}             | 4    |
-| 7    | {% rauserpic MGNS8M %}              | 4    |
-| 7    | {% rauserpic Tybis %}               | 4    |
-| 10   | {% rauserpic AlexGatao %}           | 3    |
-| 10   | {% rauserpic DoctorV %}             | 3    |
-| 10   | {% rauserpic Kinglink %}            | 3    |
-| 10   | {% rauserpic ladynadiad %}          | 3    |
-| 10   | {% rauserpic Snow %}                | 3    |
-| 10   | {% rauserpic WanderingHeiho %}      | 3    |
-| 16   | {% rauserpic AfroRyan %}            | 2    |
-| 16   | {% rauserpic Alfex %}               | 2    |
-| 16   | {% rauserpic BrunoKiko %}           | 2    |
-| 16   | {% rauserpic Cadaxar %}             | 2    |
-| 16   | {% rauserpic Cheatsalot123 %}       | 2    |
-| 16   | {% rauserpic clymax %}              | 2    |
-| 16   | {% rauserpic Excessiveiser %}       | 2    |
-| 16   | {% rauserpic Ghal416 %}             | 2    |
-| 16   | {% rauserpic guindev %}             | 2    |
-| 16   | {% rauserpic Hexadigital %}         | 2    |
-| 16   | {% rauserpic kmpers %}              | 2    |
-| 16   | {% rauserpic LiveFastCyYoung %}     | 2    |
-| 16   | {% rauserpic LordAndrew %}          | 2    |
-| 16   | {% rauserpic lordpsycho %}          | 2    |
-| 16   | {% rauserpic monkeytoung %}         | 2    |
-| 16   | {% rauserpic Mulbruk %}             | 2    |
-| 16   | {% rauserpic rabbids4eva %}         | 2    |
-| 16   | {% rauserpic Raeyene %}             | 2    |
-| 16   | {% rauserpic supermoe1985 %}        | 2    |
-| 16   | {% rauserpic Sutarion %}            | 2    |
-| 16   | {% rauserpic TeddyWestside %}       | 2    |
-| 16   | {% rauserpic TheMysticalOne %}      | 2    |
-| 16   | {% rauserpic Vancleef %}            | 2    |
-| 16   | {% rauserpic voiceofautumn %}       | 2    |
-| 16   | {% rauserpic xnaivx %}              | 2    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Skiichi %}                                 | 17   |
+| 2    | {% rauserpic tomojin %}                                 | 11   |
+| 3    | {% rauserpic Bl4h8L4hBl4h %}                            | 10   |
+| 4    | {% rauserpic Sines %}                                   | 9    |
+| 5    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 7    |
+| 6    | {% rauserpicalt tele, televandalist %}                  | 6    |
+| 7    | {% rauserpic lizstar %}                                 | 4    |
+| 7    | {% rauserpic MGNS8M %}                                  | 4    |
+| 7    | {% rauserpic Tybis %}                                   | 4    |
+| 10   | {% rauserpicalt AlexHylian, AlexGatao %}                | 3    |
+| 10   | {% rauserpic DoctorV %}                                 | 3    |
+| 10   | {% rauserpic Kinglink %}                                | 3    |
+| 10   | {% rauserpicalt LadyNadia, ladynadiad %}                | 3    |
+| 10   | {% rauserpicalt SnowPin, Snow %}                        | 3    |
+| 10   | {% rauserpic WanderingHeiho %}                          | 3    |
+| 16   | {% rauserpic AfroRyan %}                                | 2    |
+| 16   | {% rauserpic Alfex %}                                   | 2    |
+| 16   | {% rauserpic BrunoKiko %}                               | 2    |
+| 16   | {% rauserpic Cadaxar %}                                 | 2    |
+| 16   | {% rauserpic Cheatsalot123 %}                           | 2    |
+| 16   | {% rauserpic clymax %}                                  | 2    |
+| 16   | {% rauserpic Excessiveiser %}                           | 2    |
+| 16   | {% rauserpic Ghal416 %}                                 | 2    |
+| 16   | {% rauserpic guindev %}                                 | 2    |
+| 16   | {% rauserpic Hexadigital %}                             | 2    |
+| 16   | {% rauserpic kmpers %}                                  | 2    |
+| 16   | {% rauserpic LiveFastCyYoung %}                         | 2    |
+| 16   | {% rauserpic LordAndrew %}                              | 2    |
+| 16   | {% rauserpic lordpsycho %}                              | 2    |
+| 16   | {% rauserpic monkeytoung %}                             | 2    |
+| 16   | {% rauserpic Mulbruk %}                                 | 2    |
+| 16   | {% rauserpic rabbids4eva %}                             | 2    |
+| 16   | {% rauserpic Raeyene %}                                 | 2    |
+| 16   | {% rauserpic supermoe1985 %}                            | 2    |
+| 16   | {% rauserpic Sutarion %}                                | 2    |
+| 16   | {% rauserpic TeddyWestside %}                           | 2    |
+| 16   | {% rauserpic TheMysticalOne %}                          | 2    |
+| 16   | {% rauserpic Vancleef %}                                | 2    |
+| 16   | {% rauserpic voiceofautumn %}                           | 2    |
+| 16   | {% rauserpic xnaivx %}                                  | 2    |
 
 ## Sega CD
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic televandalist %}       | 4    |
-| 2    | {% rauserpic Hexadigital %}         | 3    |
-| 2    | {% rauserpic Jamiras %}             | 3    |
-| 2    | {% rauserpic Mendil %}              | 3    |
-| 2    | {% rauserpic Snow %}                | 3    |
-| 2    | {% rauserpic WilHiteWarrior %}      | 3    |
-| 2    | {% rauserpic Wulden %}              | 3    |
-| 8    | {% rauserpic AfroRyan %}            | 2    |
-| 8    | {% rauserpic Brandovsky %}          | 2    |
-| 8    | {% rauserpic coffeelover239 %}      | 2    |
-| 8    | {% rauserpic Ghal416 %}             | 2    |
-| 8    | {% rauserpic lizstar %}             | 2    |
-| 8    | {% rauserpic LordAndrew %}          | 2    |
-| 8    | {% rauserpic monkeytoung %}         | 2    |
-| 8    | {% rauserpic psyduck %}             | 2    |
-| 8    | {% rauserpic Sutarion %}            | 2    |
-| 8    | {% rauserpic TheMysticalOne %}      | 2    |
-| 18   | {% rauserpic 8BitOwl %}             | 1    |
-| 18   | {% rauserpic Alfex %}               | 1    |
-| 18   | {% rauserpic Altomar %}             | 1    |
-| 18   | {% rauserpic BahamutVoid %}         | 1    |
-| 18   | {% rauserpic BigWeedSmokerMan %}    | 1    |
-| 18   | {% rauserpic BiPolarScientist %}    | 1    |
-| 18   | {% rauserpic Blazekickn %}          | 1    |
-| 18   | {% rauserpic BoomEX %}              | 1    |
-| 18   | {% rauserpic BrunoKiko %}           | 1    |
-| 18   | {% rauserpic Bryan1150 %}           | 1    |
-| 18   | {% rauserpic Chr0x %}               | 1    |
-| 18   | {% rauserpic CosmicZeppelin %}      | 1    |
-| 18   | {% rauserpic DarknessZedzi %}       | 1    |
-| 18   | {% rauserpic Dennis1543 %}          | 1    |
-| 18   | {% rauserpic DoctorV %}             | 1    |
-| 18   | {% rauserpic Excessiveiser %}       | 1    |
-| 18   | {% rauserpic guindev %}             | 1    |
-| 18   | {% rauserpic Hotscrock %}           | 1    |
-| 18   | {% rauserpic Keltron3030 %}         | 1    |
-| 18   | {% rauserpic Kinglink %}            | 1    |
-| 18   | {% rauserpic ladynadiad %}          | 1    |
-| 18   | {% rauserpic MaddieKittyTV %}       | 1    |
-| 18   | {% rauserpic MGNS8M %}              | 1    |
-| 18   | {% rauserpic MiguelsoaresGames2 %}  | 1    |
-| 18   | {% rauserpic mopain85 %}            | 1    |
-| 18   | {% rauserpic NgNvNn %}              | 1    |
-| 18   | {% rauserpic pickledyamsman %}      | 1    |
-| 18   | {% rauserpic pinguupinguu %}        | 1    |
-| 18   | {% rauserpic Raeyene %}             | 1    |
-| 18   | {% rauserpic RyCuLe %}              | 1    |
-| 18   | {% rauserpic Salla %}               | 1    |
-| 18   | {% rauserpic salvadorc17 %}         | 1    |
-| 18   | {% rauserpic scatter %}             | 1    |
-| 18   | {% rauserpic shnick1980 %}          | 1    |
-| 18   | {% rauserpic Sikayduh %}            | 1    |
-| 18   | {% rauserpic Sines %}               | 1    |
-| 18   | {% rauserpic solidification %}      | 1    |
-| 18   | {% rauserpic suspect15 %}           | 1    |
-| 18   | {% rauserpic Tayadaoc %}            | 1    |
-| 18   | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 18   | {% rauserpic TheJediSonic %}        | 1    |
-| 18   | {% rauserpic Triforce %}            | 1    |
-| 18   | {% rauserpic VampireLord %}         | 1    |
-| 18   | {% rauserpic wolfman2000 %}         | 1    |
-| 18   | {% rauserpic xnaivx %}              | 1    |
-| 18   | {% rauserpic Yanbetari %}           | 1    |
-| 18   | {% rauserpic zaydoc %}              | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpicalt tele, televandalist %}                  | 4    |
+| 2    | {% rauserpic Hexadigital %}                             | 3    |
+| 2    | {% rauserpic Jamiras %}                                 | 3    |
+| 2    | {% rauserpic Mendil %}                                  | 3    |
+| 2    | {% rauserpicalt SnowPin, Snow %}                        | 3    |
+| 2    | {% rauserpic WilHiteWarrior %}                          | 3    |
+| 2    | {% rauserpic Wulden %}                                  | 3    |
+| 8    | {% rauserpic AfroRyan %}                                | 2    |
+| 8    | {% rauserpic Brandovsky %}                              | 2    |
+| 8    | {% rauserpic coffeelover239 %}                          | 2    |
+| 8    | {% rauserpic Ghal416 %}                                 | 2    |
+| 8    | {% rauserpic lizstar %}                                 | 2    |
+| 8    | {% rauserpic LordAndrew %}                              | 2    |
+| 8    | {% rauserpic monkeytoung %}                             | 2    |
+| 8    | {% rauserpic psyduck %}                                 | 2    |
+| 8    | {% rauserpic Sutarion %}                                | 2    |
+| 8    | {% rauserpic TheMysticalOne %}                          | 2    |
+| 18   | {% rauserpic 8BitOwl %}                                 | 1    |
+| 18   | {% rauserpic Alfex %}                                   | 1    |
+| 18   | {% rauserpic Altomar %}                                 | 1    |
+| 18   | {% rauserpic BahamutVoid %}                             | 1    |
+| 18   | {% rauserpic BigWeedSmokerMan %}                        | 1    |
+| 18   | {% rauserpic BiPolarScientist %}                        | 1    |
+| 18   | {% rauserpic Blazekickn %}                              | 1    |
+| 18   | {% rauserpic BoomEX %}                                  | 1    |
+| 18   | {% rauserpic BrunoKiko %}                               | 1    |
+| 18   | {% rauserpicalt Brylefi, Bryan1150 %}                   | 1    |
+| 18   | {% rauserpic Chr0x %}                                   | 1    |
+| 18   | {% rauserpic CosmicZeppelin %}                          | 1    |
+| 18   | {% rauserpic DarknessZedzi %}                           | 1    |
+| 18   | {% rauserpic Dennis1543 %}                              | 1    |
+| 18   | {% rauserpic DoctorV %}                                 | 1    |
+| 18   | {% rauserpic Excessiveiser %}                           | 1    |
+| 18   | {% rauserpic guindev %}                                 | 1    |
+| 18   | {% rauserpic Hotscrock %}                               | 1    |
+| 18   | {% rauserpic Keltron3030 %}                             | 1    |
+| 18   | {% rauserpic Kinglink %}                                | 1    |
+| 18   | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 18   | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 18   | {% rauserpic MGNS8M %}                                  | 1    |
+| 18   | {% rauserpic MiguelsoaresGames2 %}                      | 1    |
+| 18   | {% rauserpic mopain85 %}                                | 1    |
+| 18   | {% rauserpic NgNvNn %}                                  | 1    |
+| 18   | {% rauserpic pickledyamsman %}                          | 1    |
+| 18   | {% rauserpic pinguupinguu %}                            | 1    |
+| 18   | {% rauserpic Raeyene %}                                 | 1    |
+| 18   | {% rauserpic RyCuLe %}                                  | 1    |
+| 18   | {% rauserpic Salla %}                                   | 1    |
+| 18   | {% rauserpic salvadorc17 %}                             | 1    |
+| 18   | {% rauserpic scatter %}                                 | 1    |
+| 18   | {% rauserpic shnick1980 %}                              | 1    |
+| 18   | {% rauserpic Sikayduh %}                                | 1    |
+| 18   | {% rauserpic Sines %}                                   | 1    |
+| 18   | {% rauserpic solidification %}                          | 1    |
+| 18   | {% rauserpic suspect15 %}                               | 1    |
+| 18   | {% rauserpic Tayadaoc %}                                | 1    |
+| 18   | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 18   | {% rauserpic TheJediSonic %}                            | 1    |
+| 18   | {% rauserpic Triforce %}                                | 1    |
+| 18   | {% rauserpicalt MarioDuarteGJ, VampireLord %}           | 1    |
+| 18   | {% rauserpicalt lonegraywolf2000, wolfman2000 %}        | 1    |
+| 18   | {% rauserpic xnaivx %}                                  | 1    |
+| 18   | {% rauserpic Yanbetari %}                               | 1    |
+| 18   | {% rauserpic zaydoc %}                                  | 1    |
 
 ## SG-1000
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Hexadigital %}         | 5    |
-| 2    | {% rauserpic Bl4h8L4hBl4h %}        | 4    |
-| 2    | {% rauserpic ladynadiad %}          | 4    |
-| 2    | {% rauserpic pinguupinguu %}        | 4    |
-| 2    | {% rauserpic Sines %}               | 4    |
-| 2    | {% rauserpic televandalist %}       | 4    |
-| 2    | {% rauserpic ThatAmericanSlacker %} | 4    |
-| 8    | {% rauserpic AuburnRDM %}           | 3    |
-| 8    | {% rauserpic LordAndrew %}          | 3    |
-| 8    | {% rauserpic Snow %}                | 3    |
-| 11   | {% rauserpic AdeptTempest %}        | 2    |
-| 11   | {% rauserpic AfroRyan %}            | 2    |
-| 11   | {% rauserpic Amir96lx %}            | 2    |
-| 11   | {% rauserpic Bilalscape12 %}        | 2    |
-| 11   | {% rauserpic caricatur %}           | 2    |
-| 11   | {% rauserpic DarkyAndreas %}        | 2    |
-| 11   | {% rauserpic DoctorV %}             | 2    |
-| 11   | {% rauserpic kmpers %}              | 2    |
-| 11   | {% rauserpic LiveFastCyYoung %}     | 2    |
-| 11   | {% rauserpic rabbids4eva %}         | 2    |
-| 11   | {% rauserpic Released %}            | 2    |
-| 11   | {% rauserpic Retrokaiser %}         | 2    |
-| 11   | {% rauserpic Salsa %}               | 2    |
-| 11   | {% rauserpic Sutarion %}            | 2    |
-| 11   | {% rauserpic TheMysticalOne %}      | 2    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Hexadigital %}                             | 5    |
+| 2    | {% rauserpic Bl4h8L4hBl4h %}                            | 4    |
+| 2    | {% rauserpicalt LadyNadia, ladynadiad %}                | 4    |
+| 2    | {% rauserpic pinguupinguu %}                            | 4    |
+| 2    | {% rauserpic Sines %}                                   | 4    |
+| 2    | {% rauserpicalt tele, televandalist %}                  | 4    |
+| 2    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 4    |
+| 8    | {% rauserpic AuburnRDM %}                               | 3    |
+| 8    | {% rauserpic LordAndrew %}                              | 3    |
+| 8    | {% rauserpicalt SnowPin, Snow %}                        | 3    |
+| 11   | {% rauserpicalt ADTempest, AdeptTempest %}              | 2    |
+| 11   | {% rauserpic AfroRyan %}                                | 2    |
+| 11   | {% rauserpicalt AmirGaris, Amir96lx %}                  | 2    |
+| 11   | {% rauserpic Bilalscape12 %}                            | 2    |
+| 11   | {% rauserpic caricatur %}                               | 2    |
+| 11   | {% rauserpicalt Darky, DarkyAndreas %}                  | 2    |
+| 11   | {% rauserpic DoctorV %}                                 | 2    |
+| 11   | {% rauserpic kmpers %}                                  | 2    |
+| 11   | {% rauserpic LiveFastCyYoung %}                         | 2    |
+| 11   | {% rauserpic rabbids4eva %}                             | 2    |
+| 11   | {% rauserpic Released %}                                | 2    |
+| 11   | {% rauserpic Retrokaiser %}                             | 2    |
+| 11   | {% rauserpic Salsa %}                                   | 2    |
+| 11   | {% rauserpic Sutarion %}                                | 2    |
+| 11   | {% rauserpic TheMysticalOne %}                          | 2    |
 
 ## SNES/Super Famicom
 
-| Rank | Developer                       | Sets |
-| ---- | ------------------------------- | ---- |
-| 1    | {% rauserpic SuperMeatBro %}    | 43   |
-| 2    | {% rauserpic Skystarmania %}    | 32   |
-| 3    | {% rauserpic solidification %}  | 30   |
-| 4    | {% rauserpic Alena %}           | 29   |
-| 5    | {% rauserpic AlexGatao %}       | 25   |
-| 5    | {% rauserpic stfN1337 %}        | 25   |
-| 7    | {% rauserpic Bl4h8L4hBl4h %}    | 20   |
-| 7    | {% rauserpic EulerMoises1981 %} | 20   |
-| 7    | {% rauserpic GalacticSpear %}   | 20   |
-| 10   | {% rauserpic Dexterspet %}      | 19   |
-| 11   | {% rauserpic mickyt888 %}       | 16   |
-| 12   | {% rauserpic andreemendess %}   | 15   |
-| 12   | {% rauserpic jplima %}          | 15   |
-| 14   | {% rauserpic VampireLord %}     | 14   |
-| 14   | {% rauserpic xTr4ceur %}        | 14   |
-| 16   | {% rauserpic Cadaxar %}         | 13   |
-| 16   | {% rauserpic Hexadigital %}     | 13   |
-| 18   | {% rauserpic Arcaderama %}      | 12   |
-| 18   | {% rauserpic SporyTike %}       | 12   |
-| 18   | {% rauserpic WilHiteWarrior %}  | 12   |
-| 21   | {% rauserpic ikki5 %}           | 11   |
-| 21   | {% rauserpic suspect15 %}       | 11   |
-| 23   | {% rauserpic Altomar %}         | 10   |
-| 23   | {% rauserpic dericobanjo %}     | 10   |
-| 23   | {% rauserpic multonic %}        | 10   |
-| 23   | {% rauserpic Salsa %}           | 10   |
-| 23   | {% rauserpic siouxerskate %}    | 10   |
+| Rank | Developer                                     | Sets |
+| ---- | --------------------------------------------- | ---- |
+| 1    | {% rauserpicalt Meatbro, SuperMeatBro %}      | 43   |
+| 2    | {% rauserpic Skystarmania %}                  | 32   |
+| 3    | {% rauserpic solidification %}                | 30   |
+| 4    | {% rauserpic Alena %}                         | 29   |
+| 5    | {% rauserpicalt AlexHylian, AlexGatao %}      | 25   |
+| 5    | {% rauserpic stfN1337 %}                      | 25   |
+| 7    | {% rauserpic Bl4h8L4hBl4h %}                  | 20   |
+| 7    | {% rauserpic EulerMoises1981 %}               | 20   |
+| 7    | {% rauserpic GalacticSpear %}                 | 20   |
+| 10   | {% rauserpic Dexterspet %}                    | 19   |
+| 11   | {% rauserpic mickyt888 %}                     | 16   |
+| 12   | {% rauserpic andreemendess %}                 | 15   |
+| 12   | {% rauserpic jplima %}                        | 15   |
+| 14   | {% rauserpicalt MarioDuarteGJ, VampireLord %} | 14   |
+| 14   | {% rauserpicalt Traysir89, xTr4ceur %}        | 14   |
+| 16   | {% rauserpic Cadaxar %}                       | 13   |
+| 16   | {% rauserpic Hexadigital %}                   | 13   |
+| 18   | {% rauserpic Arcaderama %}                    | 12   |
+| 18   | {% rauserpic SporyTike %}                     | 12   |
+| 18   | {% rauserpic WilHiteWarrior %}                | 12   |
+| 21   | {% rauserpic ikki5 %}                         | 11   |
+| 21   | {% rauserpic suspect15 %}                     | 11   |
+| 23   | {% rauserpic Altomar %}                       | 10   |
+| 23   | {% rauserpic dericobanjo %}                   | 10   |
+| 23   | {% rauserpic multonic %}                      | 10   |
+| 23   | {% rauserpic Salsa %}                         | 10   |
+| 23   | {% rauserpic siouxerskate %}                  | 10   |
 
 ## Uzebox
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic clymax %}              | 3    |
-| 1    | {% rauserpic Excessiveiser %}       | 3    |
-| 1    | {% rauserpic Hexadigital %}         | 3    |
-| 4    | {% rauserpic KingS1zzle %}          | 2    |
-| 4    | {% rauserpic MaddieKittyTV %}       | 2    |
-| 4    | {% rauserpic pinguupinguu %}        | 2    |
-| 7    | {% rauserpic Amir96lx %}            | 1    |
-| 7    | {% rauserpic AuburnRDM %}           | 1    |
-| 7    | {% rauserpic Brandovsky %}          | 1    |
-| 7    | {% rauserpic Cadaxar %}             | 1    |
-| 7    | {% rauserpic Casually %}            | 1    |
-| 7    | {% rauserpic DarkyAndreas %}        | 1    |
-| 7    | {% rauserpic Etron %}               | 1    |
-| 7    | {% rauserpic Gudra %}               | 1    |
-| 7    | {% rauserpic ladynadiad %}          | 1    |
-| 7    | {% rauserpic LogicalFallacy %}      | 1    |
-| 7    | {% rauserpic LordAndrew %}          | 1    |
-| 7    | {% rauserpic Maximdraco %}          | 1    |
-| 7    | {% rauserpic Mendil %}              | 1    |
-| 7    | {% rauserpic MGNS8M %}              | 1    |
-| 7    | {% rauserpic Pudpod %}              | 1    |
-| 7    | {% rauserpic Sines %}               | 1    |
-| 7    | {% rauserpic Snow %}                | 1    |
-| 7    | {% rauserpic suspect15 %}           | 1    |
-| 7    | {% rauserpic Sutarion %}            | 1    |
-| 7    | {% rauserpic Tayadaoc %}            | 1    |
-| 7    | {% rauserpic televandalist %}       | 1    |
-| 7    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 7    | {% rauserpic TheJediSonic %}        | 1    |
-| 7    | {% rauserpic TheMysticalOne %}      | 1    |
-| 7    | {% rauserpic tomojin %}             | 1    |
-| 7    | {% rauserpic Verros %}              | 1    |
-| 7    | {% rauserpic voiceofautumn %}       | 1    |
-| 7    | {% rauserpic WanderingHeiho %}      | 1    |
-| 7    | {% rauserpic wolfman2000 %}         | 1    |
-| 7    | {% rauserpic xnaivx %}              | 1    |
-| 7    | {% rauserpic Yanbetari %}           | 1    |
-| 7    | {% rauserpic ZamArch %}             | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic clymax %}                                  | 3    |
+| 1    | {% rauserpic Excessiveiser %}                           | 3    |
+| 1    | {% rauserpic Hexadigital %}                             | 3    |
+| 4    | {% rauserpic KingS1zzle %}                              | 2    |
+| 4    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 2    |
+| 4    | {% rauserpic pinguupinguu %}                            | 2    |
+| 7    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 7    | {% rauserpic AuburnRDM %}                               | 1    |
+| 7    | {% rauserpic Brandovsky %}                              | 1    |
+| 7    | {% rauserpic Cadaxar %}                                 | 1    |
+| 7    | {% rauserpic Casually %}                                | 1    |
+| 7    | {% rauserpicalt Darky, DarkyAndreas %}                  | 1    |
+| 7    | {% rauserpic Etron %}                                   | 1    |
+| 7    | {% rauserpic Gudra %}                                   | 1    |
+| 7    | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 7    | {% rauserpic LogicalFallacy %}                          | 1    |
+| 7    | {% rauserpic LordAndrew %}                              | 1    |
+| 7    | {% rauserpic Maximdraco %}                              | 1    |
+| 7    | {% rauserpic Mendil %}                                  | 1    |
+| 7    | {% rauserpic MGNS8M %}                                  | 1    |
+| 7    | {% rauserpic Pudpod %}                                  | 1    |
+| 7    | {% rauserpic Sines %}                                   | 1    |
+| 7    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 7    | {% rauserpic suspect15 %}                               | 1    |
+| 7    | {% rauserpic Sutarion %}                                | 1    |
+| 7    | {% rauserpic Tayadaoc %}                                | 1    |
+| 7    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 7    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 7    | {% rauserpic TheJediSonic %}                            | 1    |
+| 7    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 7    | {% rauserpic tomojin %}                                 | 1    |
+| 7    | {% rauserpic Verros %}                                  | 1    |
+| 7    | {% rauserpic voiceofautumn %}                           | 1    |
+| 7    | {% rauserpic WanderingHeiho %}                          | 1    |
+| 7    | {% rauserpicalt lonegraywolf2000, wolfman2000 %}        | 1    |
+| 7    | {% rauserpic xnaivx %}                                  | 1    |
+| 7    | {% rauserpic Yanbetari %}                               | 1    |
+| 7    | {% rauserpic ZamArch %}                                 | 1    |
 
 ## Vectrex
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Bilalscape12 %}        | 2    |
-| 1    | {% rauserpic guindev %}             | 2    |
-| 1    | {% rauserpic Hexadigital %}         | 2    |
-| 4    | {% rauserpic Amir96lx %}            | 1    |
-| 4    | {% rauserpic AuburnRDM %}           | 1    |
-| 4    | {% rauserpic BigWeedSmokerMan %}    | 1    |
-| 4    | {% rauserpic Blazekickn %}          | 1    |
-| 4    | {% rauserpic blendedsea %}          | 1    |
-| 4    | {% rauserpic Brandovsky %}          | 1    |
-| 4    | {% rauserpic Cadaxar %}             | 1    |
-| 4    | {% rauserpic Etron %}               | 1    |
-| 4    | {% rauserpic Excessiveiser %}       | 1    |
-| 4    | {% rauserpic gde %}                 | 1    |
-| 4    | {% rauserpic Gloves %}              | 1    |
-| 4    | {% rauserpic ladynadiad %}          | 1    |
-| 4    | {% rauserpic LordAndrew %}          | 1    |
-| 4    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 4    | {% rauserpic Maximdraco %}          | 1    |
-| 4    | {% rauserpic Mendil %}              | 1    |
-| 4    | {% rauserpic MGNS8M %}              | 1    |
-| 4    | {% rauserpic pinguupinguu %}        | 1    |
-| 4    | {% rauserpic Sines %}               | 1    |
-| 4    | {% rauserpic Snow %}                | 1    |
-| 4    | {% rauserpic suspect15 %}           | 1    |
-| 4    | {% rauserpic Tayadaoc %}            | 1    |
-| 4    | {% rauserpic televandalist %}       | 1    |
-| 4    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 4    | {% rauserpic TheMysticalOne %}      | 1    |
-| 4    | {% rauserpic ventuz %}              | 1    |
-| 4    | {% rauserpic Verros %}              | 1    |
-| 4    | {% rauserpic voiceofautumn %}       | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Bilalscape12 %}                            | 2    |
+| 1    | {% rauserpic guindev %}                                 | 2    |
+| 1    | {% rauserpic Hexadigital %}                             | 2    |
+| 4    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 4    | {% rauserpic AuburnRDM %}                               | 1    |
+| 4    | {% rauserpic BigWeedSmokerMan %}                        | 1    |
+| 4    | {% rauserpic Blazekickn %}                              | 1    |
+| 4    | {% rauserpic blendedsea %}                              | 1    |
+| 4    | {% rauserpic Brandovsky %}                              | 1    |
+| 4    | {% rauserpic Cadaxar %}                                 | 1    |
+| 4    | {% rauserpic Etron %}                                   | 1    |
+| 4    | {% rauserpic Excessiveiser %}                           | 1    |
+| 4    | {% rauserpic gde %}                                     | 1    |
+| 4    | {% rauserpic Gloves %}                                  | 1    |
+| 4    | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 4    | {% rauserpic LordAndrew %}                              | 1    |
+| 4    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 4    | {% rauserpic Maximdraco %}                              | 1    |
+| 4    | {% rauserpic Mendil %}                                  | 1    |
+| 4    | {% rauserpic MGNS8M %}                                  | 1    |
+| 4    | {% rauserpic pinguupinguu %}                            | 1    |
+| 4    | {% rauserpic Sines %}                                   | 1    |
+| 4    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 4    | {% rauserpic suspect15 %}                               | 1    |
+| 4    | {% rauserpic Tayadaoc %}                                | 1    |
+| 4    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 4    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 4    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 4    | {% rauserpic ventuz %}                                  | 1    |
+| 4    | {% rauserpic Verros %}                                  | 1    |
+| 4    | {% rauserpic voiceofautumn %}                           | 1    |
 
 ## Virtual Boy
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic pinguupinguu %}        | 2    |
-| 1    | {% rauserpic SporyTike %}           | 2    |
-| 1    | {% rauserpic televandalist %}       | 2    |
-| 4    | {% rauserpic adamjohnny5 %}         | 1    |
-| 4    | {% rauserpic AfroRyan %}            | 1    |
-| 4    | {% rauserpic BigWeedSmokerMan %}    | 1    |
-| 4    | {% rauserpic Blazekickn %}          | 1    |
-| 4    | {% rauserpic BlotchJBMR %}          | 1    |
-| 4    | {% rauserpic Brandovsky %}          | 1    |
-| 4    | {% rauserpic Bryan1150 %}           | 1    |
-| 4    | {% rauserpic Cadaxar %}             | 1    |
-| 4    | {% rauserpic Celeryyy %}            | 1    |
-| 4    | {% rauserpic DoctorV %}             | 1    |
-| 4    | {% rauserpic Etron %}               | 1    |
-| 4    | {% rauserpic Excessiveiser %}       | 1    |
-| 4    | {% rauserpic Foolacetic %}          | 1    |
-| 4    | {% rauserpic Fridge %}              | 1    |
-| 4    | {% rauserpic guindev %}             | 1    |
-| 4    | {% rauserpic Hexadigital %}         | 1    |
-| 4    | {% rauserpic Keltron3030 %}         | 1    |
-| 4    | {% rauserpic kmpers %}              | 1    |
-| 4    | {% rauserpic ladynadiad %}          | 1    |
-| 4    | {% rauserpic Layton %}              | 1    |
-| 4    | {% rauserpic LogicalFallacy %}      | 1    |
-| 4    | {% rauserpic LordAndrew %}          | 1    |
-| 4    | {% rauserpic lordpsycho %}          | 1    |
-| 4    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 4    | {% rauserpic Maximdraco %}          | 1    |
-| 4    | {% rauserpic Mendil %}              | 1    |
-| 4    | {% rauserpic MGNS8M %}              | 1    |
-| 4    | {% rauserpic multonic %}            | 1    |
-| 4    | {% rauserpic NgNvNn %}              | 1    |
-| 4    | {% rauserpic rabbids4eva %}         | 1    |
-| 4    | {% rauserpic Searo %}               | 1    |
-| 4    | {% rauserpic Snow %}                | 1    |
-| 4    | {% rauserpic suspect15 %}           | 1    |
-| 4    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 4    | {% rauserpic voiceofautumn %}       | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic pinguupinguu %}                            | 2    |
+| 1    | {% rauserpic SporyTike %}                               | 2    |
+| 1    | {% rauserpicalt tele, televandalist %}                  | 2    |
+| 4    | {% rauserpic adamjohnny5 %}                             | 1    |
+| 4    | {% rauserpic AfroRyan %}                                | 1    |
+| 4    | {% rauserpic BigWeedSmokerMan %}                        | 1    |
+| 4    | {% rauserpic Blazekickn %}                              | 1    |
+| 4    | {% rauserpicalt pinchanzo, BlotchJBMR %}                | 1    |
+| 4    | {% rauserpic Brandovsky %}                              | 1    |
+| 4    | {% rauserpicalt Brylefi, Bryan1150 %}                   | 1    |
+| 4    | {% rauserpic Cadaxar %}                                 | 1    |
+| 4    | {% rauserpic Celeryyy %}                                | 1    |
+| 4    | {% rauserpic DoctorV %}                                 | 1    |
+| 4    | {% rauserpic Etron %}                                   | 1    |
+| 4    | {% rauserpic Excessiveiser %}                           | 1    |
+| 4    | {% rauserpic Foolacetic %}                              | 1    |
+| 4    | {% rauserpic Fridge %}                                  | 1    |
+| 4    | {% rauserpic guindev %}                                 | 1    |
+| 4    | {% rauserpic Hexadigital %}                             | 1    |
+| 4    | {% rauserpic Keltron3030 %}                             | 1    |
+| 4    | {% rauserpic kmpers %}                                  | 1    |
+| 4    | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 4    | {% rauserpic Layton %}                                  | 1    |
+| 4    | {% rauserpic LogicalFallacy %}                          | 1    |
+| 4    | {% rauserpic LordAndrew %}                              | 1    |
+| 4    | {% rauserpic lordpsycho %}                              | 1    |
+| 4    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 4    | {% rauserpic Maximdraco %}                              | 1    |
+| 4    | {% rauserpic Mendil %}                                  | 1    |
+| 4    | {% rauserpic MGNS8M %}                                  | 1    |
+| 4    | {% rauserpic multonic %}                                | 1    |
+| 4    | {% rauserpic NgNvNn %}                                  | 1    |
+| 4    | {% rauserpic rabbids4eva %}                             | 1    |
+| 4    | {% rauserpic Searo %}                                   | 1    |
+| 4    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 4    | {% rauserpic suspect15 %}                               | 1    |
+| 4    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 4    | {% rauserpic voiceofautumn %}                           | 1    |
 
 ## WASM-4
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Amir96lx %}            | 4    |
-| 2    | {% rauserpic MaddieKittyTV %}       | 3    |
-| 3    | {% rauserpic Bryan1150 %}           | 2    |
-| 3    | {% rauserpic Etron %}               | 2    |
-| 3    | {% rauserpic Hexadigital %}         | 2    |
-| 3    | {% rauserpic LogicalFallacy %}      | 2    |
-| 3    | {% rauserpic LordAndrew %}          | 2    |
-| 3    | {% rauserpic Snow %}                | 2    |
-| 3    | {% rauserpic SporyTike %}           | 2    |
-| 10   | {% rauserpic Achievess %}           | 1    |
-| 10   | {% rauserpic BahamutVoid %}         | 1    |
-| 10   | {% rauserpic Bartis1989 %}          | 1    |
-| 10   | {% rauserpic BigWeedSmokerMan %}    | 1    |
-| 10   | {% rauserpic Bl4h8L4hBl4h %}        | 1    |
-| 10   | {% rauserpic Blazekickn %}          | 1    |
-| 10   | {% rauserpic Brandovsky %}          | 1    |
-| 10   | {% rauserpic Cadaxar %}             | 1    |
-| 10   | {% rauserpic ChocoMilk %}           | 1    |
-| 10   | {% rauserpic DoctorV %}             | 1    |
-| 10   | {% rauserpic Excessiveiser %}       | 1    |
-| 10   | {% rauserpic FRAN269 %}             | 1    |
-| 10   | {% rauserpic Gudra %}               | 1    |
-| 10   | {% rauserpic guindev %}             | 1    |
-| 10   | {% rauserpic Infernox %}            | 1    |
-| 10   | {% rauserpic kmpers %}              | 1    |
-| 10   | {% rauserpic Krylan %}              | 1    |
-| 10   | {% rauserpic ladynadiad %}          | 1    |
-| 10   | {% rauserpic Layton %}              | 1    |
-| 10   | {% rauserpic malasdair %}           | 1    |
-| 10   | {% rauserpic Maximdraco %}          | 1    |
-| 10   | {% rauserpic Mendil %}              | 1    |
-| 10   | {% rauserpic MGNS8M %}              | 1    |
-| 10   | {% rauserpic pinguupinguu %}        | 1    |
-| 10   | {% rauserpic Player1041 %}          | 1    |
-| 10   | {% rauserpic Released %}            | 1    |
-| 10   | {% rauserpic Scott %}               | 1    |
-| 10   | {% rauserpic Searo %}               | 1    |
-| 10   | {% rauserpic Sines %}               | 1    |
-| 10   | {% rauserpic StingX2 %}             | 1    |
-| 10   | {% rauserpic suspect15 %}           | 1    |
-| 10   | {% rauserpic televandalist %}       | 1    |
-| 10   | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 10   | {% rauserpic TheJediSonic %}        | 1    |
-| 10   | {% rauserpic TheMysticalOne %}      | 1    |
-| 10   | {% rauserpic TheXIIIthX %}          | 1    |
-| 10   | {% rauserpic timenoe %}             | 1    |
-| 10   | {% rauserpic ToastLover %}          | 1    |
-| 10   | {% rauserpic Vancleef %}            | 1    |
-| 10   | {% rauserpic ventuz %}              | 1    |
-| 10   | {% rauserpic Verros %}              | 1    |
-| 10   | {% rauserpic Vofel %}               | 1    |
-| 10   | {% rauserpic voiceofautumn %}       | 1    |
-| 10   | {% rauserpic wolfman2000 %}         | 1    |
-| 10   | {% rauserpic xClawz %}              | 1    |
-| 10   | {% rauserpic ZZKer %}               | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 4    |
+| 2    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 3    |
+| 3    | {% rauserpicalt Brylefi, Bryan1150 %}                   | 2    |
+| 3    | {% rauserpic Etron %}                                   | 2    |
+| 3    | {% rauserpic Hexadigital %}                             | 2    |
+| 3    | {% rauserpic LogicalFallacy %}                          | 2    |
+| 3    | {% rauserpic LordAndrew %}                              | 2    |
+| 3    | {% rauserpicalt SnowPin, Snow %}                        | 2    |
+| 3    | {% rauserpic SporyTike %}                               | 2    |
+| 10   | {% rauserpic Achievess %}                               | 1    |
+| 10   | {% rauserpic BahamutVoid %}                             | 1    |
+| 10   | {% rauserpic Bartis1989 %}                              | 1    |
+| 10   | {% rauserpic BigWeedSmokerMan %}                        | 1    |
+| 10   | {% rauserpic Bl4h8L4hBl4h %}                            | 1    |
+| 10   | {% rauserpic Blazekickn %}                              | 1    |
+| 10   | {% rauserpic Brandovsky %}                              | 1    |
+| 10   | {% rauserpic Cadaxar %}                                 | 1    |
+| 10   | {% rauserpicalt ChoccyMilk, ChocoMilk %}                | 1    |
+| 10   | {% rauserpic DoctorV %}                                 | 1    |
+| 10   | {% rauserpic Excessiveiser %}                           | 1    |
+| 10   | {% rauserpic FRAN269 %}                                 | 1    |
+| 10   | {% rauserpic Gudra %}                                   | 1    |
+| 10   | {% rauserpic guindev %}                                 | 1    |
+| 10   | {% rauserpic Infernox %}                                | 1    |
+| 10   | {% rauserpic kmpers %}                                  | 1    |
+| 10   | {% rauserpic Krylan %}                                  | 1    |
+| 10   | {% rauserpicalt LadyNadia, ladynadiad %}                | 1    |
+| 10   | {% rauserpic Layton %}                                  | 1    |
+| 10   | {% rauserpic malasdair %}                               | 1    |
+| 10   | {% rauserpic Maximdraco %}                              | 1    |
+| 10   | {% rauserpic Mendil %}                                  | 1    |
+| 10   | {% rauserpic MGNS8M %}                                  | 1    |
+| 10   | {% rauserpic pinguupinguu %}                            | 1    |
+| 10   | {% rauserpicalt PS2Hagrid, Player1041 %}                | 1    |
+| 10   | {% rauserpic Released %}                                | 1    |
+| 10   | {% rauserpic Scott %}                                   | 1    |
+| 10   | {% rauserpic Searo %}                                   | 1    |
+| 10   | {% rauserpic Sines %}                                   | 1    |
+| 10   | {% rauserpic StingX2 %}                                 | 1    |
+| 10   | {% rauserpic suspect15 %}                               | 1    |
+| 10   | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 10   | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 10   | {% rauserpic TheJediSonic %}                            | 1    |
+| 10   | {% rauserpic TheMysticalOne %}                          | 1    |
+| 10   | {% rauserpic TheXIIIthX %}                              | 1    |
+| 10   | {% rauserpic timenoe %}                                 | 1    |
+| 10   | {% rauserpic ToastLover %}                              | 1    |
+| 10   | {% rauserpic Vancleef %}                                | 1    |
+| 10   | {% rauserpic ventuz %}                                  | 1    |
+| 10   | {% rauserpic Verros %}                                  | 1    |
+| 10   | {% rauserpic Vofel %}                                   | 1    |
+| 10   | {% rauserpic voiceofautumn %}                           | 1    |
+| 10   | {% rauserpicalt lonegraywolf2000, wolfman2000 %}        | 1    |
+| 10   | {% rauserpic xClawz %}                                  | 1    |
+| 10   | {% rauserpic ZZKer %}                                   | 1    |
 
 ## Watara Supervision
 
-| Rank | Developer                        | Sets |
-| ---- | -------------------------------- | ---- |
-| 1    | {% rauserpic SporyTike %}        | 31   |
-| 2    | {% rauserpic pinguupinguu %}     | 4    |
-| 3    | {% rauserpic SlashTangent %}     | 3    |
-| 3    | {% rauserpic StingX2 %}          | 3    |
-| 5    | {% rauserpic BahamutVoid %}      | 1    |
-| 5    | {% rauserpic BigWeedSmokerMan %} | 1    |
-| 5    | {% rauserpic Bl4h8L4hBl4h %}     | 1    |
-| 5    | {% rauserpic Blazekickn %}       | 1    |
-| 5    | {% rauserpic blendedsea %}       | 1    |
-| 5    | {% rauserpic Brandovsky %}       | 1    |
-| 5    | {% rauserpic BrunoKiko %}        | 1    |
-| 5    | {% rauserpic Cadaxar %}          | 1    |
-| 5    | {% rauserpic Delmaru %}          | 1    |
-| 5    | {% rauserpic gde %}              | 1    |
-| 5    | {% rauserpic Gudra %}            | 1    |
-| 5    | {% rauserpic guindev %}          | 1    |
-| 5    | {% rauserpic Hexadigital %}      | 1    |
-| 5    | {% rauserpic Infernox %}         | 1    |
-| 5    | {% rauserpic Keltron3030 %}      | 1    |
-| 5    | {% rauserpic KingS1zzle %}       | 1    |
-| 5    | {% rauserpic LogicalFallacy %}   | 1    |
-| 5    | {% rauserpic LordAndrew %}       | 1    |
-| 5    | {% rauserpic MaddieKittyTV %}    | 1    |
-| 5    | {% rauserpic Maximdraco %}       | 1    |
-| 5    | {% rauserpic Mendil %}           | 1    |
-| 5    | {% rauserpic MGNS8M %}           | 1    |
-| 5    | {% rauserpic minibt %}           | 1    |
-| 5    | {% rauserpic mopain85 %}         | 1    |
-| 5    | {% rauserpic pickledyamsman %}   | 1    |
-| 5    | {% rauserpic Ryudo %}            | 1    |
-| 5    | {% rauserpic Searo %}            | 1    |
-| 5    | {% rauserpic Sines %}            | 1    |
-| 5    | {% rauserpic snek2eater %}       | 1    |
-| 5    | {% rauserpic Snow %}             | 1    |
-| 5    | {% rauserpic suspect15 %}        | 1    |
-| 5    | {% rauserpic televandalist %}    | 1    |
-| 5    | {% rauserpic TheJediSonic %}     | 1    |
-| 5    | {% rauserpic TheMysticalOne %}   | 1    |
-| 5    | {% rauserpic Vancleef %}         | 1    |
-| 5    | {% rauserpic voiceofautumn %}    | 1    |
-| 5    | {% rauserpic ZZKer %}            | 1    |
+| Rank | Developer                                        | Sets |
+| ---- | ------------------------------------------------ | ---- |
+| 1    | {% rauserpic SporyTike %}                        | 31   |
+| 2    | {% rauserpic pinguupinguu %}                     | 4    |
+| 3    | {% rauserpic SlashTangent %}                     | 3    |
+| 3    | {% rauserpic StingX2 %}                          | 3    |
+| 5    | {% rauserpic BahamutVoid %}                      | 1    |
+| 5    | {% rauserpic BigWeedSmokerMan %}                 | 1    |
+| 5    | {% rauserpic Bl4h8L4hBl4h %}                     | 1    |
+| 5    | {% rauserpic Blazekickn %}                       | 1    |
+| 5    | {% rauserpic blendedsea %}                       | 1    |
+| 5    | {% rauserpic Brandovsky %}                       | 1    |
+| 5    | {% rauserpic BrunoKiko %}                        | 1    |
+| 5    | {% rauserpic Cadaxar %}                          | 1    |
+| 5    | {% rauserpic Delmaru %}                          | 1    |
+| 5    | {% rauserpic gde %}                              | 1    |
+| 5    | {% rauserpic Gudra %}                            | 1    |
+| 5    | {% rauserpic guindev %}                          | 1    |
+| 5    | {% rauserpic Hexadigital %}                      | 1    |
+| 5    | {% rauserpic Infernox %}                         | 1    |
+| 5    | {% rauserpic Keltron3030 %}                      | 1    |
+| 5    | {% rauserpic KingS1zzle %}                       | 1    |
+| 5    | {% rauserpic LogicalFallacy %}                   | 1    |
+| 5    | {% rauserpic LordAndrew %}                       | 1    |
+| 5    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 1    |
+| 5    | {% rauserpic Maximdraco %}                       | 1    |
+| 5    | {% rauserpic Mendil %}                           | 1    |
+| 5    | {% rauserpic MGNS8M %}                           | 1    |
+| 5    | {% rauserpic minibt %}                           | 1    |
+| 5    | {% rauserpic mopain85 %}                         | 1    |
+| 5    | {% rauserpic pickledyamsman %}                   | 1    |
+| 5    | {% rauserpic Ryudo %}                            | 1    |
+| 5    | {% rauserpic Searo %}                            | 1    |
+| 5    | {% rauserpic Sines %}                            | 1    |
+| 5    | {% rauserpicalt snek2, snek2eater %}             | 1    |
+| 5    | {% rauserpicalt SnowPin, Snow %}                 | 1    |
+| 5    | {% rauserpic suspect15 %}                        | 1    |
+| 5    | {% rauserpicalt tele, televandalist %}           | 1    |
+| 5    | {% rauserpic TheJediSonic %}                     | 1    |
+| 5    | {% rauserpic TheMysticalOne %}                   | 1    |
+| 5    | {% rauserpic Vancleef %}                         | 1    |
+| 5    | {% rauserpic voiceofautumn %}                    | 1    |
+| 5    | {% rauserpic ZZKer %}                            | 1    |
 
 ## Wii
 
-| Rank | Developer                        | Sets |
-| ---- | -------------------------------- | ---- |
-| 1    | {% rauserpic SuperMeatBro %}     | 16   |
-| 2    | {% rauserpic Guinea %}           | 10   |
-| 3    | {% rauserpic Teddy1991 %}        | 9    |
-| 4    | {% rauserpic AlexGatao %}        | 8    |
-| 5    | {% rauserpic KiwiTaco %}         | 7    |
-| 5    | {% rauserpic RyCuLe %}           | 7    |
-| 5    | {% rauserpic WilHiteWarrior %}   | 7    |
-| 8    | {% rauserpic Excessiveiser %}    | 6    |
-| 8    | {% rauserpic Layton %}           | 6    |
-| 8    | {% rauserpic NeonPug %}          | 6    |
-| 11   | {% rauserpic authorblues %}      | 5    |
-| 11   | {% rauserpic DoctorV %}          | 5    |
-| 11   | {% rauserpic MaddieKittyTV %}    | 5    |
-| 11   | {% rauserpic Pilzkopf %}         | 5    |
-| 15   | {% rauserpic Biendeo %}          | 4    |
-| 15   | {% rauserpic Griffin %}          | 4    |
-| 15   | {% rauserpic Julysse %}          | 4    |
-| 15   | {% rauserpic pinguupinguu %}     | 4    |
-| 15   | {% rauserpic Player1041 %}       | 4    |
-| 15   | {% rauserpic Skiichi %}          | 4    |
-| 15   | {% rauserpic SporyTike %}        | 4    |
-| 15   | {% rauserpic suspect15 %}        | 4    |
-| 23   | {% rauserpic BiPolarScientist %} | 3    |
-| 23   | {% rauserpic Delmaru %}          | 3    |
-| 23   | {% rauserpic Gollawiz %}         | 3    |
-| 23   | {% rauserpic MelodyAsh %}        | 3    |
-| 23   | {% rauserpic Raeyene %}          | 3    |
-| 23   | {% rauserpic Salva64bits %}      | 3    |
-| 23   | {% rauserpic Sines %}            | 3    |
-| 23   | {% rauserpic TheMysticalOne %}   | 3    |
-| 23   | {% rauserpic WanderingHeiho %}   | 3    |
-| 23   | {% rauserpic xClawz %}           | 3    |
-| 23   | {% rauserpic zaydoc %}           | 3    |
+| Rank | Developer                                        | Sets |
+| ---- | ------------------------------------------------ | ---- |
+| 1    | {% rauserpicalt Meatbro, SuperMeatBro %}         | 16   |
+| 2    | {% rauserpic Guinea %}                           | 10   |
+| 3    | {% rauserpic Teddy1991 %}                        | 9    |
+| 4    | {% rauserpicalt AlexHylian, AlexGatao %}         | 8    |
+| 5    | {% rauserpic KiwiTaco %}                         | 7    |
+| 5    | {% rauserpic RyCuLe %}                           | 7    |
+| 5    | {% rauserpic WilHiteWarrior %}                   | 7    |
+| 8    | {% rauserpic Excessiveiser %}                    | 6    |
+| 8    | {% rauserpic Layton %}                           | 6    |
+| 8    | {% rauserpic NeonPug %}                          | 6    |
+| 11   | {% rauserpic authorblues %}                      | 5    |
+| 11   | {% rauserpic DoctorV %}                          | 5    |
+| 11   | {% rauserpicalt LilCutieSophia, MaddieKittyTV %} | 5    |
+| 11   | {% rauserpic Pilzkopf %}                         | 5    |
+| 15   | {% rauserpic Biendeo %}                          | 4    |
+| 15   | {% rauserpic Griffin %}                          | 4    |
+| 15   | {% rauserpic Julysse %}                          | 4    |
+| 15   | {% rauserpic pinguupinguu %}                     | 4    |
+| 15   | {% rauserpicalt PS2Hagrid, Player1041 %}         | 4    |
+| 15   | {% rauserpic Skiichi %}                          | 4    |
+| 15   | {% rauserpic SporyTike %}                        | 4    |
+| 15   | {% rauserpic suspect15 %}                        | 4    |
+| 23   | {% rauserpic BiPolarScientist %}                 | 3    |
+| 23   | {% rauserpic Delmaru %}                          | 3    |
+| 23   | {% rauserpic Gollawiz %}                         | 3    |
+| 23   | {% rauserpic MelodyAsh %}                        | 3    |
+| 23   | {% rauserpic Raeyene %}                          | 3    |
+| 23   | {% rauserpic Salva64bits %}                      | 3    |
+| 23   | {% rauserpic Sines %}                            | 3    |
+| 23   | {% rauserpic TheMysticalOne %}                   | 3    |
+| 23   | {% rauserpic WanderingHeiho %}                   | 3    |
+| 23   | {% rauserpic xClawz %}                           | 3    |
+| 23   | {% rauserpic zaydoc %}                           | 3    |
 
 ## WonderSwan
 
-| Rank | Developer                           | Sets |
-| ---- | ----------------------------------- | ---- |
-| 1    | {% rauserpic Sines %}               | 8    |
-| 2    | {% rauserpic ladynadiad %}          | 3    |
-| 2    | {% rauserpic voiceofautumn %}       | 3    |
-| 4    | {% rauserpic Yurana %}              | 2    |
-| 5    | {% rauserpic AfroRyan %}            | 1    |
-| 5    | {% rauserpic Amir96lx %}            | 1    |
-| 5    | {% rauserpic Arvenyte %}            | 1    |
-| 5    | {% rauserpic BigWeedSmokerMan %}    | 1    |
-| 5    | {% rauserpic Brandovsky %}          | 1    |
-| 5    | {% rauserpic Cadaxar %}             | 1    |
-| 5    | {% rauserpic Cruzelion %}           | 1    |
-| 5    | {% rauserpic EldridgeCrimson %}     | 1    |
-| 5    | {% rauserpic Euclide %}             | 1    |
-| 5    | {% rauserpic Excessiveiser %}       | 1    |
-| 5    | {% rauserpic guindev %}             | 1    |
-| 5    | {% rauserpic Hexadigital %}         | 1    |
-| 5    | {% rauserpic Hotscrock %}           | 1    |
-| 5    | {% rauserpic Infernox %}            | 1    |
-| 5    | {% rauserpic JustLilith %}          | 1    |
-| 5    | {% rauserpic KingS1zzle %}          | 1    |
-| 5    | {% rauserpic LogicalFallacy %}      | 1    |
-| 5    | {% rauserpic lordpsycho %}          | 1    |
-| 5    | {% rauserpic MaddieKittyTV %}       | 1    |
-| 5    | {% rauserpic MGNS8M %}              | 1    |
-| 5    | {% rauserpic monkeytoung %}         | 1    |
-| 5    | {% rauserpic pinguupinguu %}        | 1    |
-| 5    | {% rauserpic Quenthel %}            | 1    |
-| 5    | {% rauserpic raniejogos %}          | 1    |
-| 5    | {% rauserpic siouxerskate %}        | 1    |
-| 5    | {% rauserpic Snow %}                | 1    |
-| 5    | {% rauserpic solidification %}      | 1    |
-| 5    | {% rauserpic SporyTike %}           | 1    |
-| 5    | {% rauserpic suspect15 %}           | 1    |
-| 5    | {% rauserpic tatoonie %}            | 1    |
-| 5    | {% rauserpic televandalist %}       | 1    |
-| 5    | {% rauserpic ThatAmericanSlacker %} | 1    |
-| 5    | {% rauserpic theanxietybuster %}    | 1    |
-| 5    | {% rauserpic TheMysticalOne %}      | 1    |
-| 5    | {% rauserpic TheXIIIthX %}          | 1    |
-| 5    | {% rauserpic ToxicMushroom %}       | 1    |
-| 5    | {% rauserpic Valvadis %}            | 1    |
-| 5    | {% rauserpic ventuz %}              | 1    |
-| 5    | {% rauserpic WanderingHeiho %}      | 1    |
+| Rank | Developer                                               | Sets |
+| ---- | ------------------------------------------------------- | ---- |
+| 1    | {% rauserpic Sines %}                                   | 8    |
+| 2    | {% rauserpicalt LadyNadia, ladynadiad %}                | 3    |
+| 2    | {% rauserpic voiceofautumn %}                           | 3    |
+| 4    | {% rauserpic Yurana %}                                  | 2    |
+| 5    | {% rauserpic AfroRyan %}                                | 1    |
+| 5    | {% rauserpicalt AmirGaris, Amir96lx %}                  | 1    |
+| 5    | {% rauserpic Arvenyte %}                                | 1    |
+| 5    | {% rauserpic BigWeedSmokerMan %}                        | 1    |
+| 5    | {% rauserpic Brandovsky %}                              | 1    |
+| 5    | {% rauserpic Cadaxar %}                                 | 1    |
+| 5    | {% rauserpic Cruzelion %}                               | 1    |
+| 5    | {% rauserpic EldridgeCrimson %}                         | 1    |
+| 5    | {% rauserpic Euclide %}                                 | 1    |
+| 5    | {% rauserpic Excessiveiser %}                           | 1    |
+| 5    | {% rauserpic guindev %}                                 | 1    |
+| 5    | {% rauserpic Hexadigital %}                             | 1    |
+| 5    | {% rauserpic Hotscrock %}                               | 1    |
+| 5    | {% rauserpic Infernox %}                                | 1    |
+| 5    | {% rauserpic JustLilith %}                              | 1    |
+| 5    | {% rauserpic KingS1zzle %}                              | 1    |
+| 5    | {% rauserpic LogicalFallacy %}                          | 1    |
+| 5    | {% rauserpic lordpsycho %}                              | 1    |
+| 5    | {% rauserpicalt LilCutieSophia, MaddieKittyTV %}        | 1    |
+| 5    | {% rauserpic MGNS8M %}                                  | 1    |
+| 5    | {% rauserpic monkeytoung %}                             | 1    |
+| 5    | {% rauserpic pinguupinguu %}                            | 1    |
+| 5    | {% rauserpic Quenthel %}                                | 1    |
+| 5    | {% rauserpicalt Universus, raniejogos %}                | 1    |
+| 5    | {% rauserpic siouxerskate %}                            | 1    |
+| 5    | {% rauserpicalt SnowPin, Snow %}                        | 1    |
+| 5    | {% rauserpic solidification %}                          | 1    |
+| 5    | {% rauserpic SporyTike %}                               | 1    |
+| 5    | {% rauserpic suspect15 %}                               | 1    |
+| 5    | {% rauserpic tatoonie %}                                | 1    |
+| 5    | {% rauserpicalt tele, televandalist %}                  | 1    |
+| 5    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 1    |
+| 5    | {% rauserpic theanxietybuster %}                        | 1    |
+| 5    | {% rauserpic TheMysticalOne %}                          | 1    |
+| 5    | {% rauserpic TheXIIIthX %}                              | 1    |
+| 5    | {% rauserpic ToxicMushroom %}                           | 1    |
+| 5    | {% rauserpic Valvadis %}                                | 1    |
+| 5    | {% rauserpic ventuz %}                                  | 1    |
+| 5    | {% rauserpic WanderingHeiho %}                          | 1    |
 

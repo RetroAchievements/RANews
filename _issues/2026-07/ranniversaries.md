@@ -14,40 +14,40 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 
 ## Developer Anniversaries
 
-| #   | Developer                                        | Date Promoted | Anniversary Year |
-| --- | ------------------------------------------------ | ------------- | ---------------- |
-| 1   | {% rauserpic MGNS8M %}                           | 07/14/2016    | 10               |
-| 2   | {% rauserpic ikki5 %}<sup>**</sup>               | 07/22/2016    | 10               |
-| 3   | {% rauserpic Alena %}<sup>**</sup>               | 07/01/2017    | 9                |
-| 4   | {% rauserpic Jamiras %}                          | 07/09/2017    | 9                |
-| 5   | {% rauserpic televandalist %}                    | 07/14/2018    | 8                |
-| 6   | {% rauserpic siouxerskate %}                     | 07/15/2018    | 8                |
-| 7   | {% rauserpic wilhitewarrior %}                   | 07/25/2018    | 8                |
-| 8   | {% rauserpic gogotea %}<sup>**</sup>             | 07/12/2019    | 7                |
-| 9   | {% rauserpic multonic %}                         | 07/09/2020    | 6                |
-| 10  | {% rauserpic psyduck %}                          | 07/19/2020    | 6                |
-| 11  | {% rauserpic KloggMonkey %}<sup>**</sup>         | 07/26/2020    | 6                |
-| 12  | {% rauserpic Pebete %}<sup>**</sup>              | 07/07/2021    | 5                |
-| 13  | {% rauserpic Rubicate %}<sup>**</sup>            | 07/07/2021    | 5                |
-| 14  | {% rauserpic Etron %}                            | 07/10/2021    | 5                |
-| 15  | {% rauserpic Dimedime %}                         | 07/18/2021    | 5                |
-| 16  | {% rauserpic BigWeedSmokerMan %}<sup>**</sup>    | 07/24/2021    | 5                |
-| 17  | {% rauserpic Tybis %}                            | 07/26/2021    | 5                |
-| 18  | {% rauserpic DarkyAndreas %}                     | 07/12/2022    | 4                |
-| 19  | {% rauserpic ModelZGolden %}<sup>**</sup>        | 07/16/2022    | 4                |
-| 20  | {% rauserpic Anic %}<sup>**</sup>                | 07/21/2022    | 4                |
-| 21  | {% rauserpic Dennis1543 %}                       | 07/21/2022    | 4                |
-| 22  | {% rauserpic Tardigrade %}                       | 07/25/2022    | 4                |
-| 23  | {% rauserpic suspect15 %}                        | 07/26/2022    | 4                |
-| 24  | {% rauserpic ThatAmericanSlacker %}<sup>**</sup> | 07/29/2022    | 4                |
-| 25  | {% rauserpic rauvoir %}<sup>**</sup>             | 07/30/2022    | 4                |
-| 26  | {% rauserpic BoomEX %}<sup>**</sup>              | 07/05/2023    | 3                |
-| 27  | {% rauserpic abdalin %}                          | 07/31/2024    | 2                |
-| 28  | {% rauserpic solidification %}                   | 07/31/2024    | 2                |
-| 29  | {% rauserpic Homuki %}                           | 07/01/2025    | 1                |
-| 30  | {% rauserpic Julysse %}                          | 07/09/2025    | 1                |
-| 31  | {% rauserpic Manperson %}                        | 07/19/2025    | 1                |
-| 32  | {% rauserpic TurnipStar %}                       | 07/24/2025    | 1                |
+| #   | Developer                                                            | Date Promoted | Anniversary Year |
+| --- | -------------------------------------------------------------------- | ------------- | ---------------- |
+| 1   | {% rauserpic MGNS8M %}                                               | 07/14/2016    | 10               |
+| 2   | {% rauserpic ikki5 %}<sup>**</sup>                                   | 07/22/2016    | 10               |
+| 3   | {% rauserpic Alena %}<sup>**</sup>                                   | 07/01/2017    | 9                |
+| 4   | {% rauserpic Jamiras %}                                              | 07/09/2017    | 9                |
+| 5   | {% rauserpicalt tele, televandalist %}                               | 07/14/2018    | 8                |
+| 6   | {% rauserpic siouxerskate %}                                         | 07/15/2018    | 8                |
+| 7   | {% rauserpic wilhitewarrior %}                                       | 07/25/2018    | 8                |
+| 8   | {% rauserpic gogotea %}<sup>**</sup>                                 | 07/12/2019    | 7                |
+| 9   | {% rauserpic multonic %}                                             | 07/09/2020    | 6                |
+| 10  | {% rauserpic psyduck %}                                              | 07/19/2020    | 6                |
+| 11  | {% rauserpic KloggMonkey %}<sup>**</sup>                             | 07/26/2020    | 6                |
+| 12  | {% rauserpic Pebete %}<sup>**</sup>                                  | 07/07/2021    | 5                |
+| 13  | {% rauserpic Rubicate %}<sup>**</sup>                                | 07/07/2021    | 5                |
+| 14  | {% rauserpic Etron %}                                                | 07/10/2021    | 5                |
+| 15  | {% rauserpic Dimedime %}                                             | 07/18/2021    | 5                |
+| 16  | {% rauserpic BigWeedSmokerMan %}<sup>**</sup>                        | 07/24/2021    | 5                |
+| 17  | {% rauserpic Tybis %}                                                | 07/26/2021    | 5                |
+| 18  | {% rauserpicalt Darky, DarkyAndreas %}                               | 07/12/2022    | 4                |
+| 19  | {% rauserpic ModelZGolden %}<sup>**</sup>                            | 07/16/2022    | 4                |
+| 20  | {% rauserpic Anic %}<sup>**</sup>                                    | 07/21/2022    | 4                |
+| 21  | {% rauserpic Dennis1543 %}                                           | 07/21/2022    | 4                |
+| 22  | {% rauserpic Tardigrade %}                                           | 07/25/2022    | 4                |
+| 23  | {% rauserpic suspect15 %}                                            | 07/26/2022    | 4                |
+| 24  | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %}<sup>**</sup> | 07/29/2022    | 4                |
+| 25  | {% rauserpic rauvoir %}<sup>**</sup>                                 | 07/30/2022    | 4                |
+| 26  | {% rauserpic BoomEX %}<sup>**</sup>                                  | 07/05/2023    | 3                |
+| 27  | {% rauserpic abdalin %}                                              | 07/31/2024    | 2                |
+| 28  | {% rauserpic solidification %}                                       | 07/31/2024    | 2                |
+| 29  | {% rauserpic Homuki %}                                               | 07/01/2025    | 1                |
+| 30  | {% rauserpic Julysse %}                                              | 07/09/2025    | 1                |
+| 31  | {% rauserpic Manperson %}                                            | 07/19/2025    | 1                |
+| 32  | {% rauserpic TurnipStar %}                                           | 07/24/2025    | 1                |
 
 <sup>**</sup> Inactive
 
@@ -61,11 +61,11 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 <br>
 <table>
     <thead><tr><th colspan="5">12 Years (2014) - 31 Members</th></tr></thead>
-        <tr><td>{% rauser DylanTheWizard %}</td><td>{% rauser mach1920 %}</td><td>{% rauser Copvice %}</td><td>{% rauser mandasapanda %}</td><td>{% rauser jossyhadash %}</td></tr>
+        <tr><td>{% rauser DylanTheWizard %}</td><td>{% rauser mach1920 %}</td><td>{% rauser Copvice %}</td><td>{% rauser mandasapanda %}</td><td>{% rauser sarahconnor618 %}</td></tr>
         <tr><td>{% rauser Hyne %}</td><td>{% rauser RedXIII93 %}</td><td>{% rauser Shidira %}</td><td>{% rauser tuteur51 %}</td><td>{% rauser wallygeorge1989 %}</td></tr>
         <tr><td>{% rauser MeCKooLL %}</td><td>{% rauser Gummydrop %}</td><td>{% rauser TracyPoff %}</td><td>{% rauser EvilAaron %}</td><td>{% rauser blooddogg757 %}</td></tr>
-        <tr><td>{% rauser KevinCarbonara %}</td><td>{% rauser ladynadiad %}</td><td>{% rauser scottschendel %}</td><td>{% rauser AbseilDagron %}</td><td>{% rauser droobey %}</td></tr>
-        <tr><td>{% rauser proudlarry %}</td><td>{% rauser howardstern007 %}</td><td>{% rauser suicidepacmen %}</td><td>{% rauser Griefor %}</td><td>{% rauser suicidebr %}</td></tr>
+        <tr><td>{% rauser KevinCarbonara %}</td><td>{% rauser LadyNadia %}</td><td>{% rauser scottschendel %}</td><td>{% rauser AbseilDagron %}</td><td>{% rauser droobey %}</td></tr>
+        <tr><td>{% rauser proudlarry %}</td><td>{% rauser howardstern007 %}</td><td>{% rauser suicidepacmen %}</td><td>{% rauser Griefor %}</td><td>{% rauser RPSx %}</td></tr>
         <tr><td>{% rauser Neyzel %}</td><td>{% rauser Onubis %}</td><td>{% rauser DJJohnDouglas %}</td><td>{% rauser SirVG %}</td><td>{% rauser Ueki420 %}</td></tr>
         <tr><td>{% rauser eJeen %}</td><td></td><td></td><td></td><td></td></tr>
 </table>
@@ -74,7 +74,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
     <thead><tr><th colspan="5">11 Years (2015) - 173 Members</th></tr></thead>
         <tr><td>{% rauser asterion %}</td><td>{% rauser Basou %}</td><td>{% rauser israellaks %}</td><td>{% rauser lade1rex %}</td><td>{% rauser skaradams %}</td></tr>
         <tr><td>{% rauser Audon %}</td><td>{% rauser fraselle3000 %}</td><td>{% rauser Maarr %}</td><td>{% rauser Remix %}</td><td>{% rauser Slime95 %}</td></tr>
-        <tr><td>{% rauser Alkncas %}</td><td>{% rauser cykadesu %}</td><td>{% rauser goldsaint %}</td><td>{% rauser Ishbale %}</td><td>{% rauser phlisboa %}</td></tr>
+        <tr><td>{% rauser Alkncas %}</td><td>{% rauser chauss37te %}</td><td>{% rauser goldsaint %}</td><td>{% rauser Ishbale %}</td><td>{% rauser phlisboa %}</td></tr>
         <tr><td>{% rauser reaper00702 %}</td><td>{% rauser Redpheonix79 %}</td><td>{% rauser ServalBrennus %}</td><td>{% rauser Skoky %}</td><td>{% rauser clockworknait %}</td></tr>
         <tr><td>{% rauser Collapsing %}</td><td>{% rauser DomoDaisuki %}</td><td>{% rauser johnagra %}</td><td>{% rauser Kimitatsu %}</td><td>{% rauser PlayFan %}</td></tr>
         <tr><td>{% rauser wwsnkneo %}</td><td>{% rauser zackshinra %}</td><td>{% rauser Zodro %}</td><td>{% rauser Moonlow %}</td><td>{% rauser Morcas %}</td></tr>
@@ -96,12 +96,12 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser MalphasJD %}</td><td>{% rauser Number1chun %}</td><td>{% rauser Takezo %}</td><td>{% rauser BlueLanternAoH %}</td><td>{% rauser brunosantana16 %}</td></tr>
         <tr><td>{% rauser crrool %}</td><td>{% rauser prendel %}</td><td>{% rauser Sekani81511 %}</td><td>{% rauser Sylwyrm %}</td><td>{% rauser taiga73 %}</td></tr>
         <tr><td>{% rauser takaro21 %}</td><td>{% rauser beefyerikson %}</td><td>{% rauser hangeronastove %}</td><td>{% rauser Nilsyn %}</td><td>{% rauser GrubXer0 %}</td></tr>
-        <tr><td>{% rauser OmegaZHeroZX %}</td><td>{% rauser Ori2828 %}</td><td>{% rauser Cronk %}</td><td>{% rauser Dirt %}</td><td>{% rauser dwthomaz %}</td></tr>
+        <tr><td>{% rauser OmegaZHeroZX %}</td><td>{% rauser Ori2828 %}</td><td>{% rauser Cronk %}</td><td>{% rauser Dirt %}</td><td>{% rauser diegowander %}</td></tr>
         <tr><td>{% rauser ply447 %}</td><td>{% rauser WeslleyGabrielGamer %}</td><td>{% rauser Ammonox %}</td><td>{% rauser Dimenzio %}</td><td>{% rauser JDlafontaine %}</td></tr>
         <tr><td>{% rauser kman2495 %}</td><td>{% rauser laml %}</td><td>{% rauser MidiGuyDP %}</td><td>{% rauser AntonyBlalock %}</td><td>{% rauser Daredevil %}</td></tr>
-        <tr><td>{% rauser Grungust %}</td><td>{% rauser joaocabecudo %}</td><td>{% rauser Snow %}</td><td>{% rauser alaskaribou %}</td><td>{% rauser faL %}</td></tr>
+        <tr><td>{% rauser Femcel %}</td><td>{% rauser Botijooj %}</td><td>{% rauser SnowPin %}</td><td>{% rauser alaskaribou %}</td><td>{% rauser faL %}</td></tr>
         <tr><td>{% rauser Legrand09 %}</td><td>{% rauser pynous %}</td><td>{% rauser Suicideforspite %}</td><td>{% rauser ZenicReverie %}</td><td>{% rauser darksonic872 %}</td></tr>
-        <tr><td>{% rauser NeonHenchman %}</td><td>{% rauser Polo %}</td><td>{% rauser PurpleHeart %}</td><td>{% rauser Shinkun13 %}</td><td>{% rauser Trabbbyyy %}</td></tr>
+        <tr><td>{% rauser NeonHenchman %}</td><td>{% rauser Miguts %}</td><td>{% rauser PurpleHeart %}</td><td>{% rauser Shinkun13 %}</td><td>{% rauser Trabbbyyy %}</td></tr>
         <tr><td>{% rauser aldielite %}</td><td>{% rauser dino974 %}</td><td>{% rauser FlyingOmelette %}</td><td>{% rauser Moka %}</td><td>{% rauser Ravsieg %}</td></tr>
         <tr><td>{% rauser SykoPenguin %}</td><td>{% rauser Damizan %}</td><td>{% rauser Karu %}</td><td>{% rauser Kirua %}</td><td>{% rauser Piku %}</td></tr>
         <tr><td>{% rauser raikon %}</td><td>{% rauser Reasonance %}</td><td>{% rauser FatalFrame %}</td><td>{% rauser FelipeSama02 %}</td><td>{% rauser RegularBottle %}</td></tr>
@@ -112,24 +112,24 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 <table>
     <thead><tr><th colspan="5">10 Years (2016) - 101 Members</th></tr></thead>
         <tr><td>{% rauser Doomey %}</td><td>{% rauser JimmyLaskera %}</td><td>{% rauser oakley %}</td><td>{% rauser shotmaker %}</td><td>{% rauser StupidStudiosN %}</td></tr>
-        <tr><td>{% rauser DanteOnix %}</td><td>{% rauser DrFolley77 %}</td><td>{% rauser hajimehimura %}</td><td>{% rauser Zaddy %}</td><td>{% rauser ahstro %}</td></tr>
+        <tr><td>{% rauser Vinnizus %}</td><td>{% rauser DrFolley77 %}</td><td>{% rauser hajimehimura %}</td><td>{% rauser Zaddy %}</td><td>{% rauser mag3000 %}</td></tr>
         <tr><td>{% rauser avoidingnoid %}</td><td>{% rauser CanYouSayKarma %}</td><td>{% rauser luciano2000 %}</td><td>{% rauser Pyrrhus %}</td><td>{% rauser rey2703 %}</td></tr>
         <tr><td>{% rauser Artemisk %}</td><td>{% rauser Celeryyy %}</td><td>{% rauser KirbyPink %}</td><td>{% rauser LucianoFlashDANCE %}</td><td>{% rauser MegaBlues %}</td></tr>
-        <tr><td>{% rauser SuperMeatBro %}</td><td>{% rauser Boubouet %}</td><td>{% rauser chorao %}</td><td>{% rauser papageek %}</td><td>{% rauser Ennart %}</td></tr>
+        <tr><td>{% rauser Meatbro %}</td><td>{% rauser Boubouet %}</td><td>{% rauser chorao %}</td><td>{% rauser papageek %}</td><td>{% rauser Ennart %}</td></tr>
         <tr><td>{% rauser Zwiezinski %}</td><td>{% rauser faytfang %}</td><td>{% rauser RidleySM %}</td><td>{% rauser samucka %}</td><td>{% rauser BladeFire %}</td></tr>
         <tr><td>{% rauser EVANN55 %}</td><td>{% rauser Gurrugoner %}</td><td>{% rauser kroko95 %}</td><td>{% rauser Imanolea %}</td><td>{% rauser MaxpowersBR %}</td></tr>
         <tr><td>{% rauser Shingo %}</td><td>{% rauser Snoopdude %}</td><td>{% rauser vinbob87 %}</td><td>{% rauser WyteKnyte %}</td><td>{% rauser retrobro %}</td></tr>
         <tr><td>{% rauser soleilnoirrc %}</td><td>{% rauser KratosBr966 %}</td><td>{% rauser MIKE0029 %}</td><td>{% rauser TheHarbinger %}</td><td>{% rauser TheLostJoJo %}</td></tr>
         <tr><td>{% rauser CherrieVelvet %}</td><td>{% rauser claytor22 %}</td><td>{% rauser CreamFilling512 %}</td><td>{% rauser EnigmaGameZ %}</td><td>{% rauser greatdeceiver %}</td></tr>
-        <tr><td>{% rauser lanerobertlane %}</td><td>{% rauser ThatInvaderGuy %}</td><td>{% rauser TheOnlyTrout %}</td><td>{% rauser Fragmaster007 %}</td><td>{% rauser Lalilulelo %}</td></tr>
-        <tr><td>{% rauser luanthefox %}</td><td>{% rauser Rewercy %}</td><td>{% rauser ConmanTheUber %}</td><td>{% rauser shorty1k %}</td><td>{% rauser auty %}</td></tr>
+        <tr><td>{% rauser lanerobertlane %}</td><td>{% rauser ThatInvaderGuy %}</td><td>{% rauser TheOnlyTrout %}</td><td>{% rauser Fragmaster007 %}</td><td>{% rauser Moukku %}</td></tr>
+        <tr><td>{% rauser FoxyH %}</td><td>{% rauser Rewercy %}</td><td>{% rauser ConmanTheUber %}</td><td>{% rauser shorty1k %}</td><td>{% rauser auty %}</td></tr>
         <tr><td>{% rauser bobbybest %}</td><td>{% rauser crafciak31 %}</td><td>{% rauser DeathHalt %}</td><td>{% rauser KersouMan %}</td><td>{% rauser Masamune3210 %}</td></tr>
         <tr><td>{% rauser CavaleirodaLuz %}</td><td>{% rauser Corcevado %}</td><td>{% rauser Dario64 %}</td><td>{% rauser Daxaber %}</td><td>{% rauser TopherDawg %}</td></tr>
         <tr><td>{% rauser astrich %}</td><td>{% rauser Damniel %}</td><td>{% rauser spikeriley %}</td><td>{% rauser TheoVellum %}</td><td>{% rauser UnrealGecko %}</td></tr>
         <tr><td>{% rauser Allucardz %}</td><td>{% rauser keithbugeja %}</td><td>{% rauser edgar %}</td><td>{% rauser Faust666 %}</td><td>{% rauser Kreepy %}</td></tr>
         <tr><td>{% rauser MrMattamus %}</td><td>{% rauser darkside1978 %}</td><td>{% rauser rodent %}</td><td>{% rauser TheRozitaKnight %}</td><td>{% rauser dvdspg %}</td></tr>
-        <tr><td>{% rauser poopbucket %}</td><td>{% rauser ShinAbo %}</td><td>{% rauser Massamo %}</td><td>{% rauser RetroRobb %}</td><td>{% rauser RodrigoHK %}</td></tr>
-        <tr><td>{% rauser Wiedfried %}</td><td>{% rauser Yoschimidtsu %}</td><td>{% rauser MitsuriZX %}</td><td>{% rauser Sapphonix %}</td><td>{% rauser wariw %}</td></tr>
+        <tr><td>{% rauser JudgeDoom %}</td><td>{% rauser ShinAbo %}</td><td>{% rauser Massamo %}</td><td>{% rauser RetroRobb %}</td><td>{% rauser RodrigoHK %}</td></tr>
+        <tr><td>{% rauser Wiedfried %}</td><td>{% rauser Zahutsen %}</td><td>{% rauser MitsuriZX %}</td><td>{% rauser Sapphonix %}</td><td>{% rauser wariw %}</td></tr>
         <tr><td>{% rauser bizarf %}</td><td>{% rauser codemonkey77 %}</td><td>{% rauser ONLYUSEmeFEET %}</td><td>{% rauser Poppycop %}</td><td>{% rauser SevenBeloved %}</td></tr>
         <tr><td>{% rauser SteviLsGaminG %}</td><td></td><td></td><td></td><td></td></tr>
 </table>
@@ -137,34 +137,34 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 <table>
     <thead><tr><th colspan="5">9 Years (2017) - 146 Members</th></tr></thead>
         <tr><td>{% rauser bitsandglory %}</td><td>{% rauser Romik %}</td><td>{% rauser xythen %}</td><td>{% rauser AeroBlast %}</td><td>{% rauser AlexK90 %}</td></tr>
-        <tr><td>{% rauser Muusi %}</td><td>{% rauser ryanjays %}</td><td>{% rauser thebolak %}</td><td>{% rauser thebolak007 %}</td><td>{% rauser Ed %}</td></tr>
-        <tr><td>{% rauser HDSnoozer %}</td><td>{% rauser ivanzito2 %}</td><td>{% rauser Jordath %}</td><td>{% rauser lttiglea %}</td><td>{% rauser MrJordaaany %}</td></tr>
+        <tr><td>{% rauser Muusi %}</td><td>{% rauser ryanjays %}</td><td>{% rauser thebolak %}</td><td>{% rauser Ebolak %}</td><td>{% rauser Ed %}</td></tr>
+        <tr><td>{% rauser HDDigitalis %}</td><td>{% rauser ivanzito2 %}</td><td>{% rauser Jordath %}</td><td>{% rauser lttiglea %}</td><td>{% rauser MrJordaaany %}</td></tr>
         <tr><td>{% rauser reilley %}</td><td>{% rauser Elmazz %}</td><td>{% rauser mikee246 %}</td><td>{% rauser Yae64 %}</td><td>{% rauser early90spants %}</td></tr>
-        <tr><td>{% rauser jpx %}</td><td>{% rauser ManuCrytu %}</td><td>{% rauser pozzony %}</td><td>{% rauser Xennith %}</td><td>{% rauser FireFrog %}</td></tr>
-        <tr><td>{% rauser loadfire %}</td><td>{% rauser zaqsce147539 %}</td><td>{% rauser 11000matias %}</td><td>{% rauser bob110590 %}</td><td>{% rauser Jagga7722 %}</td></tr>
+        <tr><td>{% rauser jpx %}</td><td>{% rauser ManuCrytu %}</td><td>{% rauser pozzony %}</td><td>{% rauser PhantasmalFlea %}</td><td>{% rauser FireFrog %}</td></tr>
+        <tr><td>{% rauser loadfire %}</td><td>{% rauser zaqsce147539 %}</td><td>{% rauser 11000matias %}</td><td>{% rauser Rapadura17 %}</td><td>{% rauser Jagga7722 %}</td></tr>
         <tr><td>{% rauser Javisaur %}</td><td>{% rauser pavelsha %}</td><td>{% rauser 0kti %}</td><td>{% rauser CeeSDaMan %}</td><td>{% rauser Darukeru %}</td></tr>
         <tr><td>{% rauser RxBrad %}</td><td>{% rauser Travis %}</td><td>{% rauser ChronoReaper %}</td><td>{% rauser GhoulSlayeR %}</td><td>{% rauser lx5 %}</td></tr>
         <tr><td>{% rauser ninomelon %}</td><td>{% rauser Vinz %}</td><td>{% rauser BrineBlade %}</td><td>{% rauser costaskk %}</td><td>{% rauser JohnnyRotring %}</td></tr>
-        <tr><td>{% rauser screwedjuan %}</td><td>{% rauser TJax %}</td><td>{% rauser Domotron %}</td><td>{% rauser Karleone %}</td><td>{% rauser RetroHell %}</td></tr>
+        <tr><td>{% rauser screwedjuan %}</td><td>{% rauser TJax %}</td><td>{% rauser Domotron %}</td><td>{% rauser Karleone %}</td><td>{% rauser RetroHeck %}</td></tr>
         <tr><td>{% rauser Rodolfis %}</td><td>{% rauser YouGotHitByGunner %}</td><td>{% rauser 3vango %}</td><td>{% rauser Aweqwerty %}</td><td>{% rauser ganjik61 %}</td></tr>
         <tr><td>{% rauser KadrisMieryu %}</td><td>{% rauser LaFrite %}</td><td>{% rauser maxsteiner %}</td><td>{% rauser Sines %}</td><td>{% rauser Kidakairis %}</td></tr>
         <tr><td>{% rauser Klayne %}</td><td>{% rauser leonelcaue %}</td><td>{% rauser retromustache %}</td><td>{% rauser Shmelyoff %}</td><td>{% rauser Spegy %}</td></tr>
-        <tr><td>{% rauser Vice1986 %}</td><td>{% rauser fernandosantos25 %}</td><td>{% rauser inops %}</td><td>{% rauser Montherus %}</td><td>{% rauser santobielnr %}</td></tr>
+        <tr><td>{% rauser Vice1986 %}</td><td>{% rauser fsantosluz %}</td><td>{% rauser inops %}</td><td>{% rauser Montherus %}</td><td>{% rauser SantoVOX %}</td></tr>
         <tr><td>{% rauser Chancool %}</td><td>{% rauser Eduardo8bit %}</td><td>{% rauser FierenTheStar %}</td><td>{% rauser Prosolis %}</td><td>{% rauser renanmpaz %}</td></tr>
-        <tr><td>{% rauser satomiz %}</td><td>{% rauser yoshter2011 %}</td><td>{% rauser alexmobius %}</td><td>{% rauser Arlum %}</td><td>{% rauser Crytikal77 %}</td></tr>
-        <tr><td>{% rauser dantebloodink %}</td><td>{% rauser dlong41123 %}</td><td>{% rauser Lonesock %}</td><td>{% rauser redfox2809 %}</td><td>{% rauser RODRIGOGAMER %}</td></tr>
-        <tr><td>{% rauser ruijian %}</td><td>{% rauser daniellopes110 %}</td><td>{% rauser Fantasystarquest %}</td><td>{% rauser h4vok %}</td><td>{% rauser kaue123 %}</td></tr>
+        <tr><td>{% rauser JoyFormidable %}</td><td>{% rauser yoshter2011 %}</td><td>{% rauser alexmobius %}</td><td>{% rauser Arlum %}</td><td>{% rauser Crytikal77 %}</td></tr>
+        <tr><td>{% rauser dantebloodink %}</td><td>{% rauser dlong41123 %}</td><td>{% rauser Lonesock %}</td><td>{% rauser redfox2809 %}</td><td>{% rauser RodrigoOguriCap %}</td></tr>
+        <tr><td>{% rauser Dgrade %}</td><td>{% rauser daniellopes110 %}</td><td>{% rauser Fantasystarquest %}</td><td>{% rauser h4vok %}</td><td>{% rauser kaue123 %}</td></tr>
         <tr><td>{% rauser misfit1138 %}</td><td>{% rauser Shioxus %}</td><td>{% rauser thiagoauler %}</td><td>{% rauser VitorLCMartins %}</td><td>{% rauser hankchill %}</td></tr>
         <tr><td>{% rauser Krisis2254 %}</td><td>{% rauser LordBBH %}</td><td>{% rauser Tarik %}</td><td>{% rauser wojtasemzi %}</td><td>{% rauser Jero925 %}</td></tr>
-        <tr><td>{% rauser fhemtosp %}</td><td>{% rauser kevin62 %}</td><td>{% rauser Lonoke31 %}</td><td>{% rauser MaxPower %}</td><td>{% rauser retroandeh %}</td></tr>
+        <tr><td>{% rauser Abadenas %}</td><td>{% rauser kevin62 %}</td><td>{% rauser Lonoke31 %}</td><td>{% rauser MaxPower %}</td><td>{% rauser retroandeh %}</td></tr>
         <tr><td>{% rauser RodolfoM %}</td><td>{% rauser ZERO195 %}</td><td>{% rauser JetMartlet %}</td><td>{% rauser Lachlean %}</td><td>{% rauser Darling %}</td></tr>
         <tr><td>{% rauser exayden %}</td><td>{% rauser Fulgor1991 %}</td><td>{% rauser GOH25 %}</td><td>{% rauser kcin2001 %}</td><td>{% rauser LeonardoSoler %}</td></tr>
         <tr><td>{% rauser LutheR %}</td><td>{% rauser BellaNomi91 %}</td><td>{% rauser Keinry %}</td><td>{% rauser Puredark248 %}</td><td>{% rauser Cybertutoriaiskodi %}</td></tr>
         <tr><td>{% rauser Deyvid %}</td><td>{% rauser RyukiiChu %}</td><td>{% rauser tofubeat %}</td><td>{% rauser Lockyy182 %}</td><td>{% rauser Orfeo %}</td></tr>
         <tr><td>{% rauser santossousas2 %}</td><td>{% rauser Vareiretis %}</td><td>{% rauser qu1r0s %}</td><td>{% rauser theafroninja %}</td><td>{% rauser Victor4Battle %}</td></tr>
         <tr><td>{% rauser cuboidcactus %}</td><td>{% rauser NikoNegima %}</td><td>{% rauser PR0MQU33NK1LL3R %}</td><td>{% rauser Tardigrados %}</td><td>{% rauser zapturk %}</td></tr>
-        <tr><td>{% rauser AdrianAuditore %}</td><td>{% rauser dethyan %}</td><td>{% rauser lakmir411 %}</td><td>{% rauser rafaellgcorreia %}</td><td>{% rauser Ultros %}</td></tr>
-        <tr><td>{% rauser VicTur %}</td><td>{% rauser Fentyr %}</td><td>{% rauser henriquearsenio %}</td><td>{% rauser letubbies1 %}</td><td>{% rauser Pango5k %}</td></tr>
+        <tr><td>{% rauser AdrianAuditore %}</td><td>{% rauser dethyan %}</td><td>{% rauser NodStation %}</td><td>{% rauser rafaellgcorreia %}</td><td>{% rauser SteelCat %}</td></tr>
+        <tr><td>{% rauser VicTur %}</td><td>{% rauser Fentyr %}</td><td>{% rauser henriquearsenio %}</td><td>{% rauser letubbies1 %}</td><td>{% rauser MythicalFoxes %}</td></tr>
         <tr><td>{% rauser random %}</td><td></td><td></td><td></td><td></td></tr>
 </table>
 <br>
@@ -174,47 +174,47 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser agentbinky %}</td><td>{% rauser Bennyboobah %}</td><td>{% rauser DJtheMan %}</td><td>{% rauser Kitsyfluff %}</td><td>{% rauser Mnemic %}</td></tr>
         <tr><td>{% rauser Mouringue %}</td><td>{% rauser PerfctWeapon %}</td><td>{% rauser qt %}</td><td>{% rauser Slayer187 %}</td><td>{% rauser TheNekroFaker %}</td></tr>
         <tr><td>{% rauser veggietales4ever %}</td><td>{% rauser zany130 %}</td><td>{% rauser AyaEve %}</td><td>{% rauser mitu %}</td><td>{% rauser gonzoMD %}</td></tr>
-        <tr><td>{% rauser IAmSkeletor %}</td><td>{% rauser logicallysound %}</td><td>{% rauser Psychosteve %}</td><td>{% rauser smorpheus %}</td><td>{% rauser JokeOfDead %}</td></tr>
+        <tr><td>{% rauser Greens %}</td><td>{% rauser logicallysound %}</td><td>{% rauser Psychosteve %}</td><td>{% rauser smorpheus %}</td><td>{% rauser JokeOfDead %}</td></tr>
         <tr><td>{% rauser Atur1 %}</td><td>{% rauser autran %}</td><td>{% rauser olnoknees %}</td><td>{% rauser Pepino %}</td><td>{% rauser rslanna %}</td></tr>
         <tr><td>{% rauser TeJay %}</td><td>{% rauser BJonsey %}</td><td>{% rauser ChaozBreed %}</td><td>{% rauser Dopequest %}</td><td>{% rauser DrCollosus %}</td></tr>
         <tr><td>{% rauser Lackofsense %}</td><td>{% rauser MastaFu %}</td><td>{% rauser Shaoke %}</td><td>{% rauser betox80x %}</td><td>{% rauser Phipe93Arancibia %}</td></tr>
-        <tr><td>{% rauser TehLamp %}</td><td>{% rauser 333OnlyHalfEvil %}</td><td>{% rauser Cardboard %}</td><td>{% rauser DarkToto24 %}</td><td>{% rauser SoKeR %}</td></tr>
-        <tr><td>{% rauser Zimbo %}</td><td>{% rauser ApeIsHere %}</td><td>{% rauser GamersCase %}</td><td>{% rauser LolindirLink %}</td><td>{% rauser NumberXV %}</td></tr>
+        <tr><td>{% rauser TehLamp %}</td><td>{% rauser NRH3CD3OHE3 %}</td><td>{% rauser Cardboard %}</td><td>{% rauser DarkToto24 %}</td><td>{% rauser SoKeR %}</td></tr>
+        <tr><td>{% rauser Zimbo %}</td><td>{% rauser DOMcXBOCTOM %}</td><td>{% rauser GamersCase %}</td><td>{% rauser LolindirLink %}</td><td>{% rauser NumberXV %}</td></tr>
         <tr><td>{% rauser AndyKills457 %}</td><td>{% rauser desiler %}</td><td>{% rauser ando70 %}</td><td>{% rauser PabOu %}</td><td>{% rauser BroDuck %}</td></tr>
         <tr><td>{% rauser Gabri82 %}</td><td>{% rauser LadyKaiyo %}</td><td>{% rauser skribe %}</td><td>{% rauser slickolascage %}</td><td>{% rauser Wackachotin %}</td></tr>
-        <tr><td>{% rauser Nevermond12 %}</td><td>{% rauser Regent %}</td><td>{% rauser UngratefulDead %}</td><td>{% rauser Jerjerrodh %}</td><td>{% rauser PlusInsta %}</td></tr>
+        <tr><td>{% rauser agoodduck %}</td><td>{% rauser Regent %}</td><td>{% rauser UngratefulDead %}</td><td>{% rauser Jerjerrodh %}</td><td>{% rauser PlusInsta %}</td></tr>
         <tr><td>{% rauser ciccioDM %}</td><td>{% rauser HARDDEXTER %}</td><td>{% rauser Kago %}</td><td>{% rauser Nope %}</td><td>{% rauser shuforov %}</td></tr>
         <tr><td>{% rauser SurfingRamJam %}</td><td>{% rauser Blanshe %}</td><td>{% rauser FoxwellGNR %}</td><td>{% rauser JustCallMeGio %}</td><td>{% rauser mabedeep %}</td></tr>
         <tr><td>{% rauser Seveth %}</td><td>{% rauser Warpsin %}</td><td>{% rauser ColoR %}</td><td>{% rauser Noxillio %}</td><td>{% rauser Sylvethter %}</td></tr>
         <tr><td>{% rauser bg123 %}</td><td>{% rauser deadloch %}</td><td>{% rauser Galarian %}</td><td>{% rauser MagicDiesel1990 %}</td><td>{% rauser 8bitmazter %}</td></tr>
-        <tr><td>{% rauser KidRetro %}</td><td>{% rauser KoroZuno %}</td><td>{% rauser Monty81 %}</td><td>{% rauser Rhakyr %}</td><td>{% rauser soopercool101 %}</td></tr>
+        <tr><td>{% rauser KidRetro %}</td><td>{% rauser TenterLion %}</td><td>{% rauser Monty81 %}</td><td>{% rauser Rhakyr %}</td><td>{% rauser soopercool101 %}</td></tr>
         <tr><td>{% rauser SpaZtiK %}</td><td>{% rauser CoolCanuck %}</td><td>{% rauser DrDrPepperIsBack %}</td><td>{% rauser nathandrake28 %}</td><td>{% rauser Regulus %}</td></tr>
         <tr><td>{% rauser TheGameingChef %}</td><td>{% rauser Zamblar %}</td><td>{% rauser DerPapa %}</td><td>{% rauser MotherBrain %}</td><td>{% rauser Nightsuno %}</td></tr>
-        <tr><td>{% rauser RedDash16 %}</td><td>{% rauser relin808 %}</td><td>{% rauser erosstrato %}</td><td>{% rauser GamesXtreme %}</td><td>{% rauser Kouga1994 %}</td></tr>
+        <tr><td>{% rauser RedDash16 %}</td><td>{% rauser relin808 %}</td><td>{% rauser erosstrato %}</td><td>{% rauser GamesXtreme %}</td><td>{% rauser Laudinoinfamous99 %}</td></tr>
         <tr><td>{% rauser Xerenogan %}</td><td>{% rauser Onlink %}</td><td>{% rauser timsilva %}</td><td>{% rauser ViniciusNunes %}</td><td>{% rauser Bene0451 %}</td></tr>
         <tr><td>{% rauser OnceAgain %}</td><td>{% rauser AccelElGamer %}</td><td>{% rauser LuizFb %}</td><td>{% rauser Narumanu %}</td><td>{% rauser Noxyan88 %}</td></tr>
-        <tr><td>{% rauser boktai1000 %}</td><td>{% rauser martin447 %}</td><td>{% rauser MiloPilgrimxd %}</td><td>{% rauser venicislao %}</td><td>{% rauser brightshadow %}</td></tr>
+        <tr><td>{% rauser boktai1000 %}</td><td>{% rauser genova447 %}</td><td>{% rauser MiloPilgrimxd %}</td><td>{% rauser venicislao %}</td><td>{% rauser brightshadow %}</td></tr>
         <tr><td>{% rauser DebileLegerQC %}</td><td>{% rauser DemonOfElru %}</td><td>{% rauser filaria %}</td><td>{% rauser jrjguy %}</td><td>{% rauser Kingoflosers %}</td></tr>
         <tr><td>{% rauser Krylan %}</td><td>{% rauser peterlennon %}</td><td>{% rauser Riczz %}</td><td>{% rauser 8bitp1xelz %}</td><td>{% rauser JDFitch21 %}</td></tr>
-        <tr><td>{% rauser Matthew325 %}</td><td>{% rauser Necroangel %}</td><td>{% rauser VladIV %}</td><td>{% rauser Crismoonster %}</td><td>{% rauser Haylel %}</td></tr>
-        <tr><td>{% rauser jeffx300 %}</td><td>{% rauser legendkillajay %}</td><td>{% rauser loutchi %}</td><td>{% rauser Pablo200 %}</td><td>{% rauser VegetaIsTheBomb %}</td></tr>
-        <tr><td>{% rauser WMan64 %}</td><td></td><td></td><td></td><td></td></tr>
+        <tr><td>{% rauser Matthew325 %}</td><td>{% rauser Necroangel %}</td><td>{% rauser Zifth %}</td><td>{% rauser Crismoonster %}</td><td>{% rauser Haylel %}</td></tr>
+        <tr><td>{% rauser jeffx300 %}</td><td>{% rauser GrayFoxxUK %}</td><td>{% rauser loutchi %}</td><td>{% rauser Pabbuffet %}</td><td>{% rauser VegetaIsTheBomb %}</td></tr>
+        <tr><td>{% rauser willowistired %}</td><td></td><td></td><td></td><td></td></tr>
 </table>
 <br>
 <table>
     <thead><tr><th colspan="5">7 Years (2019) - 186 Members</th></tr></thead>
         <tr><td>{% rauser Medalofhalo %}</td><td>{% rauser Pakeeda %}</td><td>{% rauser rexandale %}</td><td>{% rauser Olboll %}</td><td>{% rauser TheLastBorba %}</td></tr>
-        <tr><td>{% rauser Butterboi %}</td><td>{% rauser gfaren %}</td><td>{% rauser kevinmk760 %}</td><td>{% rauser PRAGMA %}</td><td>{% rauser EddieBu %}</td></tr>
+        <tr><td>{% rauser ZettaBladeshock %}</td><td>{% rauser gfaren %}</td><td>{% rauser kevinmk760 %}</td><td>{% rauser PRAGMA %}</td><td>{% rauser EddieBu %}</td></tr>
         <tr><td>{% rauser Raykusen %}</td><td>{% rauser tuffasagong %}</td><td>{% rauser Zumaro %}</td><td>{% rauser 01Ogopogo %}</td><td>{% rauser SDNova %}</td></tr>
-        <tr><td>{% rauser XxSICKxXKiller %}</td><td>{% rauser Zaygh %}</td><td>{% rauser Zodli %}</td><td>{% rauser Cornell %}</td><td>{% rauser Maks1980 %}</td></tr>
-        <tr><td>{% rauser MauricioNeo %}</td><td>{% rauser Noobalator %}</td><td>{% rauser Pochu7 %}</td><td>{% rauser spigot %}</td><td>{% rauser Tauhous %}</td></tr>
-        <tr><td>{% rauser angelan1992 %}</td><td>{% rauser Coolguymike3910 %}</td><td>{% rauser Edgememe %}</td><td>{% rauser Heinzik %}</td><td>{% rauser Isinia %}</td></tr>
+        <tr><td>{% rauser xXS1CKXxKiller %}</td><td>{% rauser Zaygh %}</td><td>{% rauser Zodli %}</td><td>{% rauser Cornell %}</td><td>{% rauser Maks1980 %}</td></tr>
+        <tr><td>{% rauser MauricioNeo %}</td><td>{% rauser Noobalator %}</td><td>{% rauser Pochu7 %}</td><td>{% rauser GetDunked %}</td><td>{% rauser Tauhous %}</td></tr>
+        <tr><td>{% rauser angelan1992 %}</td><td>{% rauser FerronTheDeer %}</td><td>{% rauser Edgememe %}</td><td>{% rauser Heinzik %}</td><td>{% rauser Isinia %}</td></tr>
         <tr><td>{% rauser Mowcno %}</td><td>{% rauser SavageColeTrain %}</td><td>{% rauser Ax3LRoD %}</td><td>{% rauser lequiz %}</td><td>{% rauser RaggaRanger %}</td></tr>
         <tr><td>{% rauser UniverseOfGamer %}</td><td>{% rauser AlexTheHedgehog %}</td><td>{% rauser Kaiserlucas %}</td><td>{% rauser RedHaze %}</td><td>{% rauser VinniS16 %}</td></tr>
         <tr><td>{% rauser darlanpcm %}</td><td>{% rauser kzinssie %}</td><td>{% rauser LeoCormillotSL %}</td><td>{% rauser Megamaw %}</td><td>{% rauser MokWed420 %}</td></tr>
         <tr><td>{% rauser noxlen %}</td><td>{% rauser ToPoleaDK %}</td><td>{% rauser ZethCross %}</td><td>{% rauser adamfx990 %}</td><td>{% rauser AnthonyAJumelles %}</td></tr>
         <tr><td>{% rauser BlackBogard %}</td><td>{% rauser moneymal %}</td><td>{% rauser SoulFire801 %}</td><td>{% rauser VainVair %}</td><td>{% rauser XavierClanck %}</td></tr>
-        <tr><td>{% rauser BrianH1988 %}</td><td>{% rauser chanbam %}</td><td>{% rauser murph17 %}</td><td>{% rauser orlando9090 %}</td><td>{% rauser wdcastro %}</td></tr>
+        <tr><td>{% rauser BrianH1988 %}</td><td>{% rauser chanbam %}</td><td>{% rauser murph17 %}</td><td>{% rauser orlando9090 %}</td><td>{% rauser SrWilson %}</td></tr>
         <tr><td>{% rauser 17040037 %}</td><td>{% rauser AnteLasic %}</td><td>{% rauser Arcal %}</td><td>{% rauser kai9950 %}</td><td>{% rauser Kyoshi %}</td></tr>
         <tr><td>{% rauser NegativeChaos93 %}</td><td>{% rauser abel1358 %}</td><td>{% rauser Andrea07 %}</td><td>{% rauser djm858 %}</td><td>{% rauser gustawho %}</td></tr>
         <tr><td>{% rauser Helfaerd %}</td><td>{% rauser starbreakerEX %}</td><td>{% rauser TioLusga %}</td><td>{% rauser Misanthropic %}</td><td>{% rauser saguinee %}</td></tr>
@@ -223,17 +223,17 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser DropTheGrace %}</td><td>{% rauser Kortiki %}</td><td>{% rauser Moraduke %}</td><td>{% rauser pablocasta %}</td><td>{% rauser pandaMonium %}</td></tr>
         <tr><td>{% rauser RobinBawss %}</td><td>{% rauser ShyBaconzilla %}</td><td>{% rauser subataxia %}</td><td>{% rauser w3llton %}</td><td>{% rauser abcdefg %}</td></tr>
         <tr><td>{% rauser Anis360 %}</td><td>{% rauser Arctiq %}</td><td>{% rauser AustNerevar %}</td><td>{% rauser DuckTricks %}</td><td>{% rauser hubcapp %}</td></tr>
-        <tr><td>{% rauser KleiEX %}</td><td>{% rauser Marshfellow %}</td><td>{% rauser MrHumpage %}</td><td>{% rauser PinkFoxy %}</td><td>{% rauser Twalk3293 %}</td></tr>
+        <tr><td>{% rauser KleiEX %}</td><td>{% rauser Mellolin %}</td><td>{% rauser MrHumpage %}</td><td>{% rauser PinkFoxy %}</td><td>{% rauser Twalk3293 %}</td></tr>
         <tr><td>{% rauser BigGameBrutis %}</td><td>{% rauser highbrow69 %}</td><td>{% rauser VGLongplays %}</td><td>{% rauser g0dm0d3 %}</td><td>{% rauser Leange %}</td></tr>
         <tr><td>{% rauser Luminier %}</td><td>{% rauser orzech90 %}</td><td>{% rauser silleeel %}</td><td>{% rauser spacecadet %}</td><td>{% rauser agreed88 %}</td></tr>
-        <tr><td>{% rauser Foxkrul %}</td><td>{% rauser kdrudy %}</td><td>{% rauser LondonTown %}</td><td>{% rauser MetaxZ %}</td><td>{% rauser NeoNight1986 %}</td></tr>
-        <tr><td>{% rauser NyansNotHot %}</td><td>{% rauser PlamzDomino %}</td><td>{% rauser ReaperOfBurgers %}</td><td>{% rauser Stin87 %}</td><td>{% rauser tsuuy %}</td></tr>
+        <tr><td>{% rauser Foxkrul %}</td><td>{% rauser kdrudy %}</td><td>{% rauser LondonTown %}</td><td>{% rauser TaMix %}</td><td>{% rauser NeoNight1986 %}</td></tr>
+        <tr><td>{% rauser NyansNotHot %}</td><td>{% rauser MasterMoron %}</td><td>{% rauser ReaperOfBurgers %}</td><td>{% rauser Stin87 %}</td><td>{% rauser tsuuy %}</td></tr>
         <tr><td>{% rauser Wex %}</td><td>{% rauser wilkcarver %}</td><td>{% rauser AuronGaio %}</td><td>{% rauser JeffSharivan %}</td><td>{% rauser kibozx %}</td></tr>
         <tr><td>{% rauser kryptin %}</td><td>{% rauser AtomicTreeDude %}</td><td>{% rauser CactusJackSG %}</td><td>{% rauser Cleto %}</td><td>{% rauser DarkPh4 %}</td></tr>
         <tr><td>{% rauser davrulezz %}</td><td>{% rauser dragonhunter056 %}</td><td>{% rauser KryFi %}</td><td>{% rauser treeckofy %}</td><td>{% rauser drdtroit %}</td></tr>
         <tr><td>{% rauser EngineerKappa %}</td><td>{% rauser Hamsterdamn %}</td><td>{% rauser InsaniumCoil %}</td><td>{% rauser jaguarrn %}</td><td>{% rauser BurakSizinkan %}</td></tr>
-        <tr><td>{% rauser josigamer %}</td><td>{% rauser El %}</td><td>{% rauser GaTechGrad %}</td><td>{% rauser Girarkyus %}</td><td>{% rauser kcsmnt0 %}</td></tr>
-        <tr><td>{% rauser Negativepower %}</td><td>{% rauser TheMetro %}</td><td>{% rauser JuneDarling %}</td><td>{% rauser Laurapalmer %}</td><td>{% rauser LordChucKy %}</td></tr>
+        <tr><td>{% rauser josigamer %}</td><td>{% rauser El %}</td><td>{% rauser GeorgePBurdell %}</td><td>{% rauser Girarkyus %}</td><td>{% rauser kcsmnt0 %}</td></tr>
+        <tr><td>{% rauser Negativepower %}</td><td>{% rauser Scheiblettenkaese %}</td><td>{% rauser JuneDarling %}</td><td>{% rauser Laurapalmer %}</td><td>{% rauser LordChucKy %}</td></tr>
         <tr><td>{% rauser lovelaika %}</td><td>{% rauser N64ounce %}</td><td>{% rauser Vifesan %}</td><td>{% rauser 130N35 %}</td><td>{% rauser D34dlyK1ss %}</td></tr>
         <tr><td>{% rauser dougfreitas %}</td><td>{% rauser eLLL1337 %}</td><td>{% rauser Hitsu2k %}</td><td>{% rauser IgorSal %}</td><td>{% rauser K0bEn %}</td></tr>
         <tr><td>{% rauser Lyubphim %}</td><td>{% rauser NobleNexus %}</td><td>{% rauser Peterrppl %}</td><td>{% rauser RageMix %}</td><td>{% rauser Tsu %}</td></tr>
@@ -250,67 +250,67 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser AlextheGreat78 %}</td><td>{% rauser Arkade2020 %}</td><td>{% rauser Dryden %}</td><td>{% rauser GuiJoojs %}</td><td>{% rauser Hanchai %}</td></tr>
         <tr><td>{% rauser jamersonze %}</td><td>{% rauser llxRamonxll %}</td><td>{% rauser rholliday %}</td><td>{% rauser skeletongaming %}</td><td>{% rauser stovies5 %}</td></tr>
         <tr><td>{% rauser Yars %}</td><td>{% rauser achajogo %}</td><td>{% rauser BusterSwordBoy %}</td><td>{% rauser CupRamen %}</td><td>{% rauser mehernan %}</td></tr>
-        <tr><td>{% rauser NilGamesXP %}</td><td>{% rauser Ninja2129 %}</td><td>{% rauser Teilz %}</td><td>{% rauser thedarkcrimsonangel %}</td><td>{% rauser thykingviking %}</td></tr>
+        <tr><td>{% rauser NilGamesXP %}</td><td>{% rauser Ninja212906 %}</td><td>{% rauser Teilz %}</td><td>{% rauser thedarkcrimsonangel %}</td><td>{% rauser thykingviking %}</td></tr>
         <tr><td>{% rauser Walfyr %}</td><td>{% rauser Alok %}</td><td>{% rauser AnvilManDudeBro %}</td><td>{% rauser barsoosayque %}</td><td>{% rauser darkjedi521 %}</td></tr>
         <tr><td>{% rauser Gaverage %}</td><td>{% rauser KiriSweets %}</td><td>{% rauser nickkeane %}</td><td>{% rauser Richtoon %}</td><td>{% rauser smozzler %}</td></tr>
-        <tr><td>{% rauser UnknownSize %}</td><td>{% rauser will21 %}</td><td>{% rauser 1000kiwi %}</td><td>{% rauser Faburizu %}</td><td>{% rauser Goldsword026 %}</td></tr>
+        <tr><td>{% rauser UnknownSize %}</td><td>{% rauser will21 %}</td><td>{% rauser 1000kiwi %}</td><td>{% rauser sukai %}</td><td>{% rauser Goldsword026 %}</td></tr>
         <tr><td>{% rauser Louredo %}</td><td>{% rauser Nezumi26 %}</td><td>{% rauser Nirwanda %}</td><td>{% rauser StardustAlpha %}</td><td>{% rauser Wafla %}</td></tr>
         <tr><td>{% rauser zaydrok %}</td><td>{% rauser AsagiXD %}</td><td>{% rauser Coodu %}</td><td>{% rauser Deity %}</td><td>{% rauser FallenAngel %}</td></tr>
         <tr><td>{% rauser fraser1974 %}</td><td>{% rauser FulltimeGames %}</td><td>{% rauser HayzoShinobiZ %}</td><td>{% rauser Jutty %}</td><td>{% rauser leonmachar %}</td></tr>
-        <tr><td>{% rauser Nels01 %}</td><td>{% rauser NineBreaker %}</td><td>{% rauser Rathbone %}</td><td>{% rauser SebaOutbreak %}</td><td>{% rauser TeaShooey %}</td></tr>
+        <tr><td>{% rauser Nels01 %}</td><td>{% rauser SunshineNine %}</td><td>{% rauser Rathbone %}</td><td>{% rauser SebaOutbreak %}</td><td>{% rauser TeaShooey %}</td></tr>
         <tr><td>{% rauser TheDuncanEffect %}</td><td>{% rauser bluestoc %}</td><td>{% rauser BRenzy247 %}</td><td>{% rauser Ciwe %}</td><td>{% rauser Dudva %}</td></tr>
-        <tr><td>{% rauser EmilPlayer %}</td><td>{% rauser IGOT80 %}</td><td>{% rauser linkette %}</td><td>{% rauser MarceloBartlett %}</td><td>{% rauser mario123667 %}</td></tr>
+        <tr><td>{% rauser EmilPlayer %}</td><td>{% rauser TRASH80 %}</td><td>{% rauser linkette %}</td><td>{% rauser MarceloBartlett %}</td><td>{% rauser mario123667 %}</td></tr>
         <tr><td>{% rauser RavenDuke %}</td><td>{% rauser Tyfuzzle %}</td><td>{% rauser Wedness %}</td><td>{% rauser ChessDragon %}</td><td>{% rauser Eg85 %}</td></tr>
         <tr><td>{% rauser felipemrb %}</td><td>{% rauser HeeroM %}</td><td>{% rauser Jakeojr %}</td><td>{% rauser Janagirl %}</td><td>{% rauser jedistargazer %}</td></tr>
         <tr><td>{% rauser NesTii17 %}</td><td>{% rauser Nostalgier %}</td><td>{% rauser saltyaprendiz %}</td><td>{% rauser Scalluu %}</td><td>{% rauser Shakal %}</td></tr>
-        <tr><td>{% rauser sora089 %}</td><td>{% rauser StonerBarbie %}</td><td>{% rauser teteu %}</td><td>{% rauser ViniciusGAvancine %}</td><td>{% rauser 8bitplay %}</td></tr>
-        <tr><td>{% rauser Bakaki %}</td><td>{% rauser ChicoShowTV %}</td><td>{% rauser Fabonez %}</td><td>{% rauser KCGamer %}</td><td>{% rauser Kito %}</td></tr>
+        <tr><td>{% rauser sora089 %}</td><td>{% rauser StonerBarbie %}</td><td>{% rauser teteobonzao %}</td><td>{% rauser ViniciusGAvancine %}</td><td>{% rauser 8bitplay %}</td></tr>
+        <tr><td>{% rauser Bakaki %}</td><td>{% rauser CapoRomano %}</td><td>{% rauser xFahbsx %}</td><td>{% rauser KCGamer %}</td><td>{% rauser Kito %}</td></tr>
         <tr><td>{% rauser Nibskit %}</td><td>{% rauser Raffaa %}</td><td>{% rauser ReliablePatamon %}</td><td>{% rauser tavernadowill %}</td><td>{% rauser Themooncow %}</td></tr>
         <tr><td>{% rauser UmSenhore %}</td><td>{% rauser uymaz %}</td><td>{% rauser gengibirra %}</td><td>{% rauser HYPERSONIC999 %}</td><td>{% rauser matheuzim %}</td></tr>
         <tr><td>{% rauser MauricioReis %}</td><td>{% rauser mike21878 %}</td><td>{% rauser QuoteDoukutsu %}</td><td>{% rauser retrogamermilo %}</td><td>{% rauser Shuujin %}</td></tr>
         <tr><td>{% rauser Throgg %}</td><td>{% rauser axless %}</td><td>{% rauser duddlee %}</td><td>{% rauser fronztec %}</td><td>{% rauser Maxwiible %}</td></tr>
         <tr><td>{% rauser nrdrex %}</td><td>{% rauser ParaParaKing %}</td><td>{% rauser PeterMelv %}</td><td>{% rauser SaeferCyon %}</td><td>{% rauser Yeldres %}</td></tr>
-        <tr><td>{% rauser artinox %}</td><td>{% rauser Gkiller %}</td><td>{% rauser KDOCTVORANGECOUNTY %}</td><td>{% rauser LandonTheLad %}</td><td>{% rauser Paduano %}</td></tr>
+        <tr><td>{% rauser artinox %}</td><td>{% rauser Gkiller %}</td><td>{% rauser KDOCTVORANGECOUNTY %}</td><td>{% rauser DickJustice %}</td><td>{% rauser Paduano %}</td></tr>
         <tr><td>{% rauser Pixelsilzavon77 %}</td><td>{% rauser Sabrinafelix5 %}</td><td>{% rauser saphoenix1987 %}</td><td>{% rauser VanillaGlaceon %}</td><td>{% rauser Dark4ssass1n %}</td></tr>
         <tr><td>{% rauser Fricassee %}</td><td>{% rauser Greenchili %}</td><td>{% rauser JMiX %}</td><td>{% rauser Justsomebody %}</td><td>{% rauser mathenl %}</td></tr>
         <tr><td>{% rauser Olberic %}</td><td>{% rauser rickyjay1990 %}</td><td>{% rauser RoboRat %}</td><td>{% rauser sveniroth %}</td><td>{% rauser TheHunterZ %}</td></tr>
         <tr><td>{% rauser TyrannousAsh20 %}</td><td>{% rauser ustanaktr00 %}</td><td>{% rauser zukelson %}</td><td>{% rauser bpasn458 %}</td><td>{% rauser Cynkade %}</td></tr>
-        <tr><td>{% rauser DarkZeroSider %}</td><td>{% rauser DrAwkward89 %}</td><td>{% rauser gczago %}</td><td>{% rauser OctorokHero %}</td><td>{% rauser Slowni %}</td></tr>
-        <tr><td>{% rauser TheLegendaryAphex %}</td><td>{% rauser TiagoSanchez %}</td><td>{% rauser Verbouc %}</td><td>{% rauser Wrgis %}</td><td>{% rauser DynamixDJ %}</td></tr>
+        <tr><td>{% rauser DarkZeroSider %}</td><td>{% rauser DrAwkward214 %}</td><td>{% rauser gczago %}</td><td>{% rauser OctorokHero %}</td><td>{% rauser Slowni %}</td></tr>
+        <tr><td>{% rauser ApexVeiko %}</td><td>{% rauser TiagoSanchez %}</td><td>{% rauser Verbouc %}</td><td>{% rauser Wrgis %}</td><td>{% rauser DynamixDJ %}</td></tr>
         <tr><td>{% rauser Elitonrj666 %}</td><td>{% rauser GoldenTDW %}</td><td>{% rauser jacqylfrost %}</td><td>{% rauser kewlpinguino %}</td><td>{% rauser luis025 %}</td></tr>
-        <tr><td>{% rauser M2020L %}</td><td>{% rauser MrBlonde %}</td><td>{% rauser pikachumittins %}</td><td>{% rauser Silver520 %}</td><td>{% rauser Tenry %}</td></tr>
+        <tr><td>{% rauser M2020L %}</td><td>{% rauser MrBlonde %}</td><td>{% rauser pikachumittins %}</td><td>{% rauser MommySilver %}</td><td>{% rauser Tenry %}</td></tr>
         <tr><td>{% rauser vlizzard %}</td><td>{% rauser BRUXAO16 %}</td><td>{% rauser CAG1984 %}</td><td>{% rauser GviT %}</td><td>{% rauser Hydr8ion %}</td></tr>
         <tr><td>{% rauser jpneto1986 %}</td><td>{% rauser Orleleise %}</td><td>{% rauser Photik %}</td><td>{% rauser REDS %}</td><td>{% rauser Sentry %}</td></tr>
-        <tr><td>{% rauser snakesolid %}</td><td>{% rauser Sobrevivente %}</td><td>{% rauser Stphor %}</td><td>{% rauser Tira76 %}</td><td>{% rauser viniciusoot %}</td></tr>
-        <tr><td>{% rauser zonachi %}</td><td>{% rauser Brandonwigwam %}</td><td>{% rauser Cerberus97 %}</td><td>{% rauser chacal13 %}</td><td>{% rauser dmfld %}</td></tr>
+        <tr><td>{% rauser snakesolid %}</td><td>{% rauser Sobrevivente %}</td><td>{% rauser Stphor %}</td><td>{% rauser Tira76 %}</td><td>{% rauser vncsmnl %}</td></tr>
+        <tr><td>{% rauser zonachi %}</td><td>{% rauser Brandonwigwam %}</td><td>{% rauser Cerberus97 %}</td><td>{% rauser chacal13 %}</td><td>{% rauser qlutz %}</td></tr>
         <tr><td>{% rauser DomiSwitch %}</td><td>{% rauser Haydenthecoolman %}</td><td>{% rauser hop193 %}</td><td>{% rauser JedDBandicoot01 %}</td><td>{% rauser Lehneep %}</td></tr>
         <tr><td>{% rauser mookie1515 %}</td><td>{% rauser PerfectChaosOne %}</td><td>{% rauser RDDracolos %}</td><td>{% rauser Robnamikaze %}</td><td>{% rauser Sanderski %}</td></tr>
-        <tr><td>{% rauser shadoweh %}</td><td>{% rauser zaynenova %}</td><td>{% rauser BALtimore2001 %}</td><td>{% rauser Driden %}</td><td>{% rauser EoXers %}</td></tr>
-        <tr><td>{% rauser giroldii %}</td><td>{% rauser GusRocha %}</td><td>{% rauser Ka1KXZero %}</td><td>{% rauser natedavwise13 %}</td><td>{% rauser Warpriest86 %}</td></tr>
+        <tr><td>{% rauser shadoweh %}</td><td>{% rauser puyofan99 %}</td><td>{% rauser BALtimore2001 %}</td><td>{% rauser Driden %}</td><td>{% rauser Rubenxrs %}</td></tr>
+        <tr><td>{% rauser giroldii %}</td><td>{% rauser GusRocha %}</td><td>{% rauser Ka1KXZero %}</td><td>{% rauser Anno200X %}</td><td>{% rauser Warpriest86 %}</td></tr>
         <tr><td>{% rauser webmastgab %}</td><td>{% rauser zelrose %}</td><td>{% rauser ZeroIGuess %}</td><td>{% rauser AlastorAlex %}</td><td>{% rauser DackTe %}</td></tr>
-        <tr><td>{% rauser kraftyshark %}</td><td>{% rauser PrimalGiratina %}</td><td>{% rauser TheRealCastanho %}</td><td>{% rauser boooi03 %}</td><td>{% rauser Bushando64 %}</td></tr>
+        <tr><td>{% rauser kraftyshark %}</td><td>{% rauser PrimalGiratina %}</td><td>{% rauser TheRealCastanho %}</td><td>{% rauser boooi03 %}</td><td>{% rauser BushandoREX %}</td></tr>
         <tr><td>{% rauser Courierfive %}</td><td>{% rauser DCrypt %}</td><td>{% rauser erling1000 %}</td><td>{% rauser Panfuricus %}</td><td>{% rauser ShikimiShiramine %}</td></tr>
-        <tr><td>{% rauser Shmuckle %}</td><td>{% rauser Sleeping %}</td><td>{% rauser Warpath1111 %}</td><td>{% rauser Zolberg999 %}</td><td>{% rauser Birdkid %}</td></tr>
+        <tr><td>{% rauser Shmuckle %}</td><td>{% rauser Sleeping %}</td><td>{% rauser Warpath2002 %}</td><td>{% rauser Zolberg999 %}</td><td>{% rauser Birdkid %}</td></tr>
         <tr><td>{% rauser deathbychipmunk %}</td><td>{% rauser DevAesthetic %}</td><td>{% rauser EYETALEANO %}</td><td>{% rauser Lolibot %}</td><td>{% rauser Mentro %}</td></tr>
-        <tr><td>{% rauser PatrezGames %}</td><td>{% rauser rosalique %}</td><td>{% rauser davijak02 %}</td><td>{% rauser Griiever %}</td><td>{% rauser Lilpaulo3232 %}</td></tr>
-        <tr><td>{% rauser marvibosa %}</td><td>{% rauser Orotachi %}</td><td>{% rauser Pull %}</td><td>{% rauser r4nd0mz %}</td><td>{% rauser RetroDrewAU %}</td></tr>
+        <tr><td>{% rauser PatrezGames %}</td><td>{% rauser rosalique %}</td><td>{% rauser LauraMouras %}</td><td>{% rauser Griiever %}</td><td>{% rauser Lilpaulo3232 %}</td></tr>
+        <tr><td>{% rauser marvibosa %}</td><td>{% rauser Orotachi %}</td><td>{% rauser Pull %}</td><td>{% rauser r4nd0mz %}</td><td>{% rauser RetroDrewTV %}</td></tr>
         <tr><td>{% rauser SapphireP78292 %}</td><td>{% rauser TripleDeek %}</td><td>{% rauser dunnyone %}</td><td>{% rauser GameLog %}</td><td>{% rauser Spyder1028 %}</td></tr>
-        <tr><td>{% rauser Synclayr %}</td><td>{% rauser WyvernOff %}</td><td>{% rauser DrXerneas %}</td><td>{% rauser fmninja %}</td><td>{% rauser freddyereg3 %}</td></tr>
+        <tr><td>{% rauser Synclayr %}</td><td>{% rauser WyvernOff %}</td><td>{% rauser RipperWendigo %}</td><td>{% rauser fmninja %}</td><td>{% rauser freddyereg3 %}</td></tr>
         <tr><td>{% rauser Loneliiii %}</td><td>{% rauser OrangeSoul %}</td><td>{% rauser ridsevilla %}</td><td>{% rauser Skyroller %}</td><td>{% rauser SomeRandom %}</td></tr>
-        <tr><td>{% rauser TsukiMcDohl %}</td><td>{% rauser cesarncarvalho %}</td><td>{% rauser GromovPetr %}</td><td>{% rauser lezephyr %}</td><td>{% rauser nanzington %}</td></tr>
+        <tr><td>{% rauser TsukiMcDohl %}</td><td>{% rauser cesardonascimento %}</td><td>{% rauser GromovPetr %}</td><td>{% rauser lezephyr %}</td><td>{% rauser nanzington %}</td></tr>
         <tr><td>{% rauser RisukuAozora %}</td><td>{% rauser Tripaschief %}</td><td>{% rauser Adrianinhu10 %}</td><td>{% rauser DigitalOutlaw %}</td><td>{% rauser Edlink %}</td></tr>
         <tr><td>{% rauser griseouslight %}</td><td>{% rauser iLynxx %}</td><td>{% rauser JakWolf %}</td><td>{% rauser Miriam %}</td><td>{% rauser primal %}</td></tr>
         <tr><td>{% rauser pseudodragon %}</td><td>{% rauser rekyuu %}</td><td>{% rauser Restuugrexx %}</td><td>{% rauser Romitus %}</td><td>{% rauser Silveryami %}</td></tr>
         <tr><td>{% rauser Blind3 %}</td><td>{% rauser DaPolicia %}</td><td>{% rauser gulias874 %}</td><td>{% rauser Kyryh %}</td><td>{% rauser PumpkinLink %}</td></tr>
         <tr><td>{% rauser Samigraj %}</td><td>{% rauser sarahumbra %}</td><td>{% rauser Schmoo %}</td><td>{% rauser stoo %}</td><td>{% rauser ZakkiOrichalcum %}</td></tr>
         <tr><td>{% rauser AlexAugust %}</td><td>{% rauser Dehly %}</td><td>{% rauser EberTloZ %}</td><td>{% rauser Gelmario %}</td><td>{% rauser GJMS0670 %}</td></tr>
-        <tr><td>{% rauser Jokymi %}</td><td>{% rauser leionardon %}</td><td>{% rauser tininsteelian %}</td><td>{% rauser Tobicake %}</td><td>{% rauser Chazo %}</td></tr>
+        <tr><td>{% rauser Jokymi %}</td><td>{% rauser leionardon %}</td><td>{% rauser tininsteelian %}</td><td>{% rauser tobi666 %}</td><td>{% rauser Chazo %}</td></tr>
         <tr><td>{% rauser DeadmanDan %}</td><td>{% rauser GutoPinto %}</td><td>{% rauser Luwis1337 %}</td><td>{% rauser mindbender444 %}</td><td>{% rauser Orchard %}</td></tr>
-        <tr><td>{% rauser partnerslayer %}</td><td>{% rauser PrinceLatios %}</td><td>{% rauser Raven90 %}</td><td>{% rauser Aggesan %}</td><td>{% rauser Ax0les %}</td></tr>
+        <tr><td>{% rauser partnerslayer %}</td><td>{% rauser PrinceLatios %}</td><td>{% rauser Raven90 %}</td><td>{% rauser Aggesan %}</td><td>{% rauser SkungaDunga %}</td></tr>
         <tr><td>{% rauser BadoRises %}</td><td>{% rauser CommanderDolan %}</td><td>{% rauser DANTONLEVY1 %}</td><td>{% rauser DJAima %}</td><td>{% rauser HenriqueGamer %}</td></tr>
-        <tr><td>{% rauser kerimugurdonmez %}</td><td>{% rauser Kiriel %}</td><td>{% rauser LevZion34 %}</td><td>{% rauser Noroimatsu %}</td><td>{% rauser zenanomaly %}</td></tr>
+        <tr><td>{% rauser kerimugurdonmez %}</td><td>{% rauser Kiriel %}</td><td>{% rauser LevZion34 %}</td><td>{% rauser Noroimatsu %}</td><td>{% rauser stooky %}</td></tr>
         <tr><td>{% rauser Zuks %}</td><td>{% rauser akimura %}</td><td>{% rauser BazooKazoo %}</td><td>{% rauser Blushadow64 %}</td><td>{% rauser BOJO5 %}</td></tr>
-        <tr><td>{% rauser chapinha %}</td><td>{% rauser DaFlarez %}</td><td>{% rauser Dudoidaum %}</td><td>{% rauser GigaWerts %}</td><td>{% rauser ItsAJs %}</td></tr>
+        <tr><td>{% rauser chapinha %}</td><td>{% rauser makkoryn %}</td><td>{% rauser Dudoidaum %}</td><td>{% rauser GigaWerts %}</td><td>{% rauser ItsAJs %}</td></tr>
         <tr><td>{% rauser IVB01 %}</td><td>{% rauser Jaxas %}</td><td>{% rauser Kledioz %}</td><td>{% rauser Moca %}</td><td>{% rauser Nore %}</td></tr>
         <tr><td>{% rauser retrogameplays %}</td><td>{% rauser RonnieMonnerat %}</td><td>{% rauser SignalWalker %}</td><td>{% rauser Sm0kyprophet %}</td><td>{% rauser ThePersonTwo %}</td></tr>
 </table>
@@ -318,96 +318,96 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 <table>
     <thead><tr><th colspan="5">5 Years (2021) - 398 Members</th></tr></thead>
         <tr><td>{% rauser Aerachmor %}</td><td>{% rauser apben %}</td><td>{% rauser Leier10 %}</td><td>{% rauser LuNicz %}</td><td>{% rauser mecharm %}</td></tr>
-        <tr><td>{% rauser Naglfar %}</td><td>{% rauser Name1essHero %}</td><td>{% rauser neibern %}</td><td>{% rauser baraleon %}</td><td>{% rauser CrouchZ %}</td></tr>
+        <tr><td>{% rauser Grauken %}</td><td>{% rauser Name1essHero %}</td><td>{% rauser neibern %}</td><td>{% rauser baraleon %}</td><td>{% rauser CrouchC3 %}</td></tr>
         <tr><td>{% rauser Freedom2051 %}</td><td>{% rauser gokussj %}</td><td>{% rauser GutoHolanda %}</td><td>{% rauser jarraoplay %}</td><td>{% rauser KimmyDNC %}</td></tr>
-        <tr><td>{% rauser NinjaBub504 %}</td><td>{% rauser petrisha %}</td><td>{% rauser Saahlevy %}</td><td>{% rauser TheMrGmk %}</td><td>{% rauser UnSimpleWn %}</td></tr>
-        <tr><td>{% rauser xMojaveDream %}</td><td>{% rauser BrenTenkage %}</td><td>{% rauser ButtonEars %}</td><td>{% rauser Crimar %}</td><td>{% rauser dattson %}</td></tr>
-        <tr><td>{% rauser drisc %}</td><td>{% rauser enma89 %}</td><td>{% rauser eXcella %}</td><td>{% rauser fumezin %}</td><td>{% rauser HylianBard %}</td></tr>
+        <tr><td>{% rauser NinjaBub504 %}</td><td>{% rauser petrisha %}</td><td>{% rauser Saahlevy %}</td><td>{% rauser TheMrGmk %}</td><td>{% rauser LesClaydol %}</td></tr>
+        <tr><td>{% rauser ad4stra %}</td><td>{% rauser BrenTenkage %}</td><td>{% rauser Walbalah %}</td><td>{% rauser Crimar %}</td><td>{% rauser dattson %}</td></tr>
+        <tr><td>{% rauser drisc %}</td><td>{% rauser enma89 %}</td><td>{% rauser CuddleJoy %}</td><td>{% rauser fumezin %}</td><td>{% rauser HylianBard %}</td></tr>
         <tr><td>{% rauser itsamevenom %}</td><td>{% rauser KoodroWolf %}</td><td>{% rauser lockethiago %}</td><td>{% rauser Pakwaf %}</td><td>{% rauser Purgta %}</td></tr>
         <tr><td>{% rauser Rembyx %}</td><td>{% rauser ThigoBooyah %}</td><td>{% rauser Xonguinhow %}</td><td>{% rauser Alexre %}</td><td>{% rauser CarloAndrea97 %}</td></tr>
         <tr><td>{% rauser Conducivehawk2 %}</td><td>{% rauser elvo %}</td><td>{% rauser Gaius %}</td><td>{% rauser JaChinoLatino %}</td><td>{% rauser Oregano %}</td></tr>
         <tr><td>{% rauser Remag %}</td><td>{% rauser SparxTH %}</td><td>{% rauser storm0983 %}</td><td>{% rauser Technostrophe %}</td><td>{% rauser VetoVeto %}</td></tr>
         <tr><td>{% rauser xXJKXx %}</td><td>{% rauser bodaiju %}</td><td>{% rauser Donte %}</td><td>{% rauser eduardosega1985 %}</td><td>{% rauser IzayoiKizu %}</td></tr>
         <tr><td>{% rauser Kagenza %}</td><td>{% rauser RetroPolis %}</td><td>{% rauser Rossy8722 %}</td><td>{% rauser Sif59 %}</td><td>{% rauser 5omecallmeTim %}</td></tr>
-        <tr><td>{% rauser BanYa %}</td><td>{% rauser Caioreal2010 %}</td><td>{% rauser daintii %}</td><td>{% rauser JacobHollings %}</td><td>{% rauser JPCK %}</td></tr>
+        <tr><td>{% rauser RogueAshura %}</td><td>{% rauser Caioreal2010 %}</td><td>{% rauser daintii %}</td><td>{% rauser JacobHollings %}</td><td>{% rauser JPCK %}</td></tr>
         <tr><td>{% rauser Knuckler %}</td><td>{% rauser Lordnitroxs %}</td><td>{% rauser Mew101 %}</td><td>{% rauser ParuSoras %}</td><td>{% rauser Renzy %}</td></tr>
         <tr><td>{% rauser suflors %}</td><td>{% rauser UWorlds %}</td><td>{% rauser Anndysauro %}</td><td>{% rauser KyleGDL %}</td><td>{% rauser LoudSHa %}</td></tr>
         <tr><td>{% rauser palceu %}</td><td>{% rauser Slidebrain %}</td><td>{% rauser TemaRound %}</td><td>{% rauser Valdio %}</td><td>{% rauser Borysewicz %}</td></tr>
         <tr><td>{% rauser Dalrint %}</td><td>{% rauser Hillgas %}</td><td>{% rauser hokares %}</td><td>{% rauser Jippo %}</td><td>{% rauser MartyMcLoud %}</td></tr>
         <tr><td>{% rauser Michael04 %}</td><td>{% rauser prismfighter %}</td><td>{% rauser Rawr985 %}</td><td>{% rauser Senna %}</td><td>{% rauser ShiryuUuUU %}</td></tr>
-        <tr><td>{% rauser suplexer %}</td><td>{% rauser Walson65 %}</td><td>{% rauser xXTheLGCY %}</td><td>{% rauser BadLoveBear %}</td><td>{% rauser CheeseBurgerCats %}</td></tr>
-        <tr><td>{% rauser DougRedfield87 %}</td><td>{% rauser katatonius %}</td><td>{% rauser kittywabbit %}</td><td>{% rauser Misro228 %}</td><td>{% rauser NoPush %}</td></tr>
+        <tr><td>{% rauser suplexer %}</td><td>{% rauser Walsoner65 %}</td><td>{% rauser xXTheLGCY %}</td><td>{% rauser BadLoveBear %}</td><td>{% rauser CheeseBurgerCats %}</td></tr>
+        <tr><td>{% rauser DougRedfield87 %}</td><td>{% rauser katatonius %}</td><td>{% rauser kittywabbit %}</td><td>{% rauser JKala %}</td><td>{% rauser NoPush %}</td></tr>
         <tr><td>{% rauser OrobaSpyro %}</td><td>{% rauser rcneto %}</td><td>{% rauser Slayn %}</td><td>{% rauser Zhander2 %}</td><td>{% rauser AmberCyprian %}</td></tr>
         <tr><td>{% rauser Corky316rulz %}</td><td>{% rauser dirn %}</td><td>{% rauser funzoo123 %}</td><td>{% rauser ggaleto %}</td><td>{% rauser Henro400 %}</td></tr>
         <tr><td>{% rauser lucabgt %}</td><td>{% rauser megafat %}</td><td>{% rauser RedundoRetro %}</td><td>{% rauser Testsigma66 %}</td><td>{% rauser TheOblivionPT %}</td></tr>
-        <tr><td>{% rauser Thiangre %}</td><td>{% rauser unrenewable %}</td><td>{% rauser AndreFonte %}</td><td>{% rauser dericobanjo %}</td><td>{% rauser devilmann69 %}</td></tr>
+        <tr><td>{% rauser Thiangre %}</td><td>{% rauser renewedrebirth %}</td><td>{% rauser AndreFonte %}</td><td>{% rauser dericobanjo %}</td><td>{% rauser devilmann69 %}</td></tr>
         <tr><td>{% rauser dlac9900 %}</td><td>{% rauser Ezakam %}</td><td>{% rauser FidelCarlton %}</td><td>{% rauser flutzer %}</td><td>{% rauser gdex %}</td></tr>
         <tr><td>{% rauser GleamingSloth %}</td><td>{% rauser Guzmancik %}</td><td>{% rauser igorkamenrider %}</td><td>{% rauser Jnk28 %}</td><td>{% rauser Kobishima %}</td></tr>
         <tr><td>{% rauser LufiaLionheart %}</td><td>{% rauser manu0623 %}</td><td>{% rauser Renesy %}</td><td>{% rauser retrokeith %}</td><td>{% rauser Seedy %}</td></tr>
         <tr><td>{% rauser SlimeVagrant %}</td><td>{% rauser theDANISHdynamite %}</td><td>{% rauser Bluenox89 %}</td><td>{% rauser CartooN %}</td><td>{% rauser Diguinhofly %}</td></tr>
         <tr><td>{% rauser dreamLogic %}</td><td>{% rauser efelix64 %}</td><td>{% rauser imustaquirebepis %}</td><td>{% rauser Itsluanrox %}</td><td>{% rauser jerffeson17 %}</td></tr>
-        <tr><td>{% rauser Kaua2009 %}</td><td>{% rauser Lux227 %}</td><td>{% rauser MrYoake %}</td><td>{% rauser mtsu %}</td><td>{% rauser OverTheGun %}</td></tr>
-        <tr><td>{% rauser rapcow %}</td><td>{% rauser Speachbyte %}</td><td>{% rauser AquaDragonBr %}</td><td>{% rauser BKhisDudeness %}</td><td>{% rauser Cobblestone %}</td></tr>
-        <tr><td>{% rauser dirceu %}</td><td>{% rauser FanSheikah %}</td><td>{% rauser GiGAxPUDDiN %}</td><td>{% rauser NerfPlayeR135 %}</td><td>{% rauser NightSpark %}</td></tr>
-        <tr><td>{% rauser rabbids24 %}</td><td>{% rauser Rockcims %}</td><td>{% rauser ShinGero %}</td><td>{% rauser shub %}</td><td>{% rauser TheFG %}</td></tr>
-        <tr><td>{% rauser TheoMario500 %}</td><td>{% rauser wololo %}</td><td>{% rauser Bobert213 %}</td><td>{% rauser brhoom28 %}</td><td>{% rauser CharlieFoxtrot %}</td></tr>
+        <tr><td>{% rauser SammySaneSam %}</td><td>{% rauser Lux227 %}</td><td>{% rauser MrYoake %}</td><td>{% rauser Maccha4dd1kut0 %}</td><td>{% rauser OverTheGun %}</td></tr>
+        <tr><td>{% rauser xohugs %}</td><td>{% rauser Speachbyte %}</td><td>{% rauser AquaDragonBr %}</td><td>{% rauser BKhisDudeness %}</td><td>{% rauser PrinceCobb %}</td></tr>
+        <tr><td>{% rauser dirceu %}</td><td>{% rauser FanSheikah %}</td><td>{% rauser GiGAxPUDDiN %}</td><td>{% rauser ShinesparkNerf %}</td><td>{% rauser NightSpark %}</td></tr>
+        <tr><td>{% rauser Genro24 %}</td><td>{% rauser Rockcims %}</td><td>{% rauser ShinGero108 %}</td><td>{% rauser shub %}</td><td>{% rauser TheFG %}</td></tr>
+        <tr><td>{% rauser LilBerry %}</td><td>{% rauser wololo %}</td><td>{% rauser Bobert213 %}</td><td>{% rauser brhoom28 %}</td><td>{% rauser CharlieFoxtrot %}</td></tr>
         <tr><td>{% rauser CosmicMerCanary %}</td><td>{% rauser Dney1980 %}</td><td>{% rauser Fulltilt %}</td><td>{% rauser homeboi %}</td><td>{% rauser JobertLourenco %}</td></tr>
-        <tr><td>{% rauser Liljhou %}</td><td>{% rauser MaxLion %}</td><td>{% rauser Seregasko %}</td><td>{% rauser ae90 %}</td><td>{% rauser AmiiqoNyges %}</td></tr>
+        <tr><td>{% rauser Liljhou %}</td><td>{% rauser MaxLion %}</td><td>{% rauser Seregasko %}</td><td>{% rauser ae90 %}</td><td>{% rauser Nyges %}</td></tr>
         <tr><td>{% rauser badassjonesy %}</td><td>{% rauser Bazsle %}</td><td>{% rauser CureEthernal %}</td><td>{% rauser FloralTrash %}</td><td>{% rauser grendyzer73 %}</td></tr>
-        <tr><td>{% rauser HoodietheWolf %}</td><td>{% rauser Jotta %}</td><td>{% rauser NeronW %}</td><td>{% rauser ShadowDoge64X %}</td><td>{% rauser Shramalama %}</td></tr>
-        <tr><td>{% rauser SirObvious %}</td><td>{% rauser zxzlo %}</td><td>{% rauser AtomVision %}</td><td>{% rauser ChineasyMonkey %}</td><td>{% rauser GamerSoulBR %}</td></tr>
+        <tr><td>{% rauser starryspiritz %}</td><td>{% rauser Joaum02 %}</td><td>{% rauser NeronW %}</td><td>{% rauser Jadindustri %}</td><td>{% rauser Shramalama %}</td></tr>
+        <tr><td>{% rauser Axsley %}</td><td>{% rauser zxzlo %}</td><td>{% rauser AtomVision %}</td><td>{% rauser vbox %}</td><td>{% rauser GamerSoulBR %}</td></tr>
         <tr><td>{% rauser goosejelly %}</td><td>{% rauser holo34 %}</td><td>{% rauser JamesGibbs88 %}</td><td>{% rauser konohali %}</td><td>{% rauser larichan01 %}</td></tr>
         <tr><td>{% rauser Larut %}</td><td>{% rauser N0sSyndrome %}</td><td>{% rauser noother %}</td><td>{% rauser radiationbots %}</td><td>{% rauser RavenDICE %}</td></tr>
-        <tr><td>{% rauser satchfuji %}</td><td>{% rauser bloodbubby %}</td><td>{% rauser Kingofminds %}</td><td>{% rauser LotusLandSigma %}</td><td>{% rauser NullxVoid %}</td></tr>
+        <tr><td>{% rauser satchfuji %}</td><td>{% rauser bloodbubby %}</td><td>{% rauser Kingofminds %}</td><td>{% rauser LotusLandSaturn %}</td><td>{% rauser nxllxvxxd %}</td></tr>
         <tr><td>{% rauser Pimastr %}</td><td>{% rauser RetroTVForeverYT %}</td><td>{% rauser SaintAsterisk %}</td><td>{% rauser Section9 %}</td><td>{% rauser SucioLegacy %}</td></tr>
-        <tr><td>{% rauser sudNimpact %}</td><td>{% rauser wolfman2000 %}</td><td>{% rauser zelbu %}</td><td>{% rauser AlanBun %}</td><td>{% rauser amauriin %}</td></tr>
+        <tr><td>{% rauser sudNimpact %}</td><td>{% rauser lonegraywolf2000 %}</td><td>{% rauser zelbu %}</td><td>{% rauser AlanBun %}</td><td>{% rauser amauriin %}</td></tr>
         <tr><td>{% rauser commandoguy %}</td><td>{% rauser Crasher0o %}</td><td>{% rauser djlain %}</td><td>{% rauser dubinat0rz %}</td><td>{% rauser Earthzm %}</td></tr>
         <tr><td>{% rauser Froz3npancake %}</td><td>{% rauser IwataMegumi %}</td><td>{% rauser jetsharklambo %}</td><td>{% rauser Kamaro %}</td><td>{% rauser MachnhcaM %}</td></tr>
         <tr><td>{% rauser Nickyy %}</td><td>{% rauser rcp5 %}</td><td>{% rauser Slipps97 %}</td><td>{% rauser SteelTrainerJoey %}</td><td>{% rauser xPeps10 %}</td></tr>
         <tr><td>{% rauser AloneGreen %}</td><td>{% rauser Andrej57 %}</td><td>{% rauser AntiRezvov %}</td><td>{% rauser bowzur %}</td><td>{% rauser cannon9009 %}</td></tr>
         <tr><td>{% rauser Firespray421 %}</td><td>{% rauser FritzyKatz %}</td><td>{% rauser gamerjv2003 %}</td><td>{% rauser GDrag %}</td><td>{% rauser GrampyBack %}</td></tr>
-        <tr><td>{% rauser gustavoarchive %}</td><td>{% rauser LigeroGamer2021 %}</td><td>{% rauser Nightwaver %}</td><td>{% rauser peupower7101 %}</td><td>{% rauser RJMcReedy %}</td></tr>
+        <tr><td>{% rauser StarMega %}</td><td>{% rauser LigeroGamer2021 %}</td><td>{% rauser Nightwaver %}</td><td>{% rauser peupower7101 %}</td><td>{% rauser RJMcReedy %}</td></tr>
         <tr><td>{% rauser TurboKiller %}</td><td>{% rauser Bonety %}</td><td>{% rauser Bunjimayn %}</td><td>{% rauser eduprowler %}</td><td>{% rauser keefeddy %}</td></tr>
         <tr><td>{% rauser kuschelchen %}</td><td>{% rauser LaFlex %}</td><td>{% rauser M1918IIBAR %}</td><td>{% rauser Ninban %}</td><td>{% rauser noaidi %}</td></tr>
         <tr><td>{% rauser NoName40404 %}</td><td>{% rauser SkyeLazlo %}</td><td>{% rauser tabris9909 %}</td><td>{% rauser TopBadger %}</td><td>{% rauser VulpixFuchs %}</td></tr>
         <tr><td>{% rauser BallistaBear %}</td><td>{% rauser Banimem %}</td><td>{% rauser Benefond %}</td><td>{% rauser Bolch %}</td><td>{% rauser Crawbellini %}</td></tr>
-        <tr><td>{% rauser Guraburunuku %}</td><td>{% rauser Hannibal %}</td><td>{% rauser Keovlo %}</td><td>{% rauser Nintenman %}</td><td>{% rauser noheroes %}</td></tr>
-        <tr><td>{% rauser Orthogon %}</td><td>{% rauser Quesillo %}</td><td>{% rauser RevanG %}</td><td>{% rauser Seeme %}</td><td>{% rauser SilverAureus %}</td></tr>
+        <tr><td>{% rauser Guraburu %}</td><td>{% rauser Hannibal %}</td><td>{% rauser Keovlo %}</td><td>{% rauser Nintenman %}</td><td>{% rauser noheroes %}</td></tr>
+        <tr><td>{% rauser Orthogon %}</td><td>{% rauser Quesillo %}</td><td>{% rauser RevanZ %}</td><td>{% rauser Seeme %}</td><td>{% rauser SilverAureus %}</td></tr>
         <tr><td>{% rauser TonyVice %}</td><td>{% rauser XenoAura %}</td><td>{% rauser Jub4rte %}</td><td>{% rauser kendots %}</td><td>{% rauser MariusRetro %}</td></tr>
         <tr><td>{% rauser OwOSama %}</td><td>{% rauser rodrigodojo %}</td><td>{% rauser Starnomaly %}</td><td>{% rauser ZinZaku %}</td><td>{% rauser bezgkun %}</td></tr>
         <tr><td>{% rauser bryleuski %}</td><td>{% rauser Carleone %}</td><td>{% rauser firefox1632 %}</td><td>{% rauser iamkieras %}</td><td>{% rauser Jaq515 %}</td></tr>
         <tr><td>{% rauser magus1992 %}</td><td>{% rauser Mcheza %}</td><td>{% rauser Raidenchino %}</td><td>{% rauser Retrogamerdude23 %}</td><td>{% rauser SaibotSouls %}</td></tr>
-        <tr><td>{% rauser Spelworm %}</td><td>{% rauser theoneev %}</td><td>{% rauser UmbraRabbit %}</td><td>{% rauser Blaui %}</td><td>{% rauser CelticBriton %}</td></tr>
+        <tr><td>{% rauser Spelworm %}</td><td>{% rauser theoneev %}</td><td>{% rauser UmbraRabbit %}</td><td>{% rauser BlizzBlu %}</td><td>{% rauser CelticBriton %}</td></tr>
         <tr><td>{% rauser coldzebra %}</td><td>{% rauser FayeShiro %}</td><td>{% rauser gigakoks %}</td><td>{% rauser GustavoLotti665 %}</td><td>{% rauser Jokupo %}</td></tr>
-        <tr><td>{% rauser Minimariner %}</td><td>{% rauser PoohofWar %}</td><td>{% rauser Rivaille %}</td><td>{% rauser superkingkeon %}</td><td>{% rauser ToveriJuri %}</td></tr>
+        <tr><td>{% rauser Minimariner %}</td><td>{% rauser PoohofWar %}</td><td>{% rauser Rivaille %}</td><td>{% rauser MaouTsumi %}</td><td>{% rauser ToveriJuri %}</td></tr>
         <tr><td>{% rauser Venomothim %}</td><td>{% rauser wence96 %}</td><td>{% rauser ZintheDestroyr %}</td><td>{% rauser 14ausher %}</td><td>{% rauser Epsilon13 %}</td></tr>
         <tr><td>{% rauser JajsemCZ %}</td><td>{% rauser klappster %}</td><td>{% rauser Klariodon %}</td><td>{% rauser mickbot %}</td><td>{% rauser Noid %}</td></tr>
         <tr><td>{% rauser Noobody %}</td><td>{% rauser Tharjo %}</td><td>{% rauser VanillaLegend %}</td><td>{% rauser xStrato %}</td><td>{% rauser Baitos %}</td></tr>
         <tr><td>{% rauser Beccatsura %}</td><td>{% rauser cuboid64 %}</td><td>{% rauser G59Scrim %}</td><td>{% rauser LPLOl %}</td><td>{% rauser Masterchef117 %}</td></tr>
         <tr><td>{% rauser minoribran %}</td><td>{% rauser NEONess %}</td><td>{% rauser Netsuen %}</td><td>{% rauser Nighto %}</td><td>{% rauser Pancakeking2130 %}</td></tr>
         <tr><td>{% rauser SamJDH %}</td><td>{% rauser sammybam88 %}</td><td>{% rauser SayuriMio %}</td><td>{% rauser toonofc2user %}</td><td>{% rauser Trobo %}</td></tr>
-        <tr><td>{% rauser ViolentViolet %}</td><td>{% rauser bloodstone82 %}</td><td>{% rauser CitizenKane %}</td><td>{% rauser Deathound %}</td><td>{% rauser GrandeNappa %}</td></tr>
+        <tr><td>{% rauser ViolentViolet %}</td><td>{% rauser bloodstone82 %}</td><td>{% rauser CitizenKane %}</td><td>{% rauser Deathound %}</td><td>{% rauser Arqueira0904 %}</td></tr>
         <tr><td>{% rauser gZa76 %}</td><td>{% rauser kakarookee %}</td><td>{% rauser KWO1996 %}</td><td>{% rauser LeMacho %}</td><td>{% rauser MrKnytt %}</td></tr>
         <tr><td>{% rauser shamrockharv %}</td><td>{% rauser xampion %}</td><td>{% rauser cbar1999 %}</td><td>{% rauser Engooneer %}</td><td>{% rauser gabrielgtc1992 %}</td></tr>
         <tr><td>{% rauser Geno1129 %}</td><td>{% rauser GLOVEZ123 %}</td><td>{% rauser GrandeNappa8000 %}</td><td>{% rauser M3R1D1U5 %}</td><td>{% rauser marviorocha %}</td></tr>
-        <tr><td>{% rauser MirrorHall %}</td><td>{% rauser Naharsio %}</td><td>{% rauser no1phil %}</td><td>{% rauser Obori3 %}</td><td>{% rauser Soap999 %}</td></tr>
-        <tr><td>{% rauser sTuNt %}</td><td>{% rauser Armandoriel %}</td><td>{% rauser drwhat %}</td><td>{% rauser fatherdom85 %}</td><td>{% rauser FerretPlayingPS4 %}</td></tr>
+        <tr><td>{% rauser MirrorHall %}</td><td>{% rauser Naharsio %}</td><td>{% rauser no1phil %}</td><td>{% rauser Obori3 %}</td><td>{% rauser NeoSoap %}</td></tr>
+        <tr><td>{% rauser sTuNt %}</td><td>{% rauser Armandoriel %}</td><td>{% rauser drwhat %}</td><td>{% rauser fatherdom85 %}</td><td>{% rauser Ferret %}</td></tr>
         <tr><td>{% rauser Ghostplane64 %}</td><td>{% rauser Jesmaster %}</td><td>{% rauser Kelvyn %}</td><td>{% rauser markdarkness %}</td><td>{% rauser mystrdat %}</td></tr>
-        <tr><td>{% rauser retropolcey %}</td><td>{% rauser bakanui %}</td><td>{% rauser Foley %}</td><td>{% rauser Kirbygamernes66 %}</td><td>{% rauser patbyrne %}</td></tr>
+        <tr><td>{% rauser retropolcey %}</td><td>{% rauser bakanui %}</td><td>{% rauser Foley %}</td><td>{% rauser TheColonguy %}</td><td>{% rauser patbyrne %}</td></tr>
         <tr><td>{% rauser SekaiEnd %}</td><td>{% rauser Tanky1000 %}</td><td>{% rauser Vortex1 %}</td><td>{% rauser VPP82 %}</td><td>{% rauser Aesthemic %}</td></tr>
-        <tr><td>{% rauser Dimentiorules %}</td><td>{% rauser egoHyphie %}</td><td>{% rauser Gyohnny %}</td><td>{% rauser HeroicChocobo %}</td><td>{% rauser jabedoben %}</td></tr>
+        <tr><td>{% rauser Dimentiorules %}</td><td>{% rauser Hurt %}</td><td>{% rauser Gyohnny %}</td><td>{% rauser HeroicChocobo %}</td><td>{% rauser jabedoben %}</td></tr>
         <tr><td>{% rauser Siifar %}</td><td>{% rauser ThePhix %}</td><td>{% rauser Zdorf %}</td><td></td><td></td></tr>
 </table>
 <br>
 <table>
     <thead><tr><th colspan="5">4 Years (2022) - 480 Members</th></tr></thead>
-        <tr><td>{% rauser Aamer91 %}</td><td>{% rauser Adonysus %}</td><td>{% rauser armayafox %}</td><td>{% rauser c193 %}</td><td>{% rauser DDRmails %}</td></tr>
+        <tr><td>{% rauser Aamer91 %}</td><td>{% rauser Adonys %}</td><td>{% rauser armayafox %}</td><td>{% rauser c193 %}</td><td>{% rauser DDRmails %}</td></tr>
         <tr><td>{% rauser DougRetro %}</td><td>{% rauser Folkius %}</td><td>{% rauser foxtrotblues %}</td><td>{% rauser karkii %}</td><td>{% rauser KingBaard %}</td></tr>
-        <tr><td>{% rauser madminimalist %}</td><td>{% rauser Marcelin090 %}</td><td>{% rauser Nightmares %}</td><td>{% rauser NoxtisXIII %}</td><td>{% rauser pharo %}</td></tr>
+        <tr><td>{% rauser madminimalist %}</td><td>{% rauser MostCalmo %}</td><td>{% rauser Nightmares %}</td><td>{% rauser NoxtisXIII %}</td><td>{% rauser pharo %}</td></tr>
         <tr><td>{% rauser PistolPeteReal %}</td><td>{% rauser Predoquinha %}</td><td>{% rauser robocrazy %}</td><td>{% rauser SauteedPokemon %}</td><td>{% rauser switchedandy %}</td></tr>
         <tr><td>{% rauser Xinios %}</td><td>{% rauser chunkyCodeMonkey %}</td><td>{% rauser Derby42 %}</td><td>{% rauser DreadfulMood %}</td><td>{% rauser HolmesM10 %}</td></tr>
         <tr><td>{% rauser HowDoUPlay %}</td><td>{% rauser LiliumDX %}</td><td>{% rauser martymar127 %}</td><td>{% rauser PeteSimon %}</td><td>{% rauser rwilliamsjournalist %}</td></tr>
-        <tr><td>{% rauser Seifer2790 %}</td><td>{% rauser Walaier %}</td><td>{% rauser zarvur14 %}</td><td>{% rauser arskaP %}</td><td>{% rauser Brixas %}</td></tr>
+        <tr><td>{% rauser Seifer2790 %}</td><td>{% rauser Walaier %}</td><td>{% rauser zarvur14 %}</td><td>{% rauser arskapupu %}</td><td>{% rauser Brixas %}</td></tr>
         <tr><td>{% rauser coics %}</td><td>{% rauser Farb %}</td><td>{% rauser feecamargo %}</td><td>{% rauser firefoxray %}</td><td>{% rauser HideoGodzila %}</td></tr>
         <tr><td>{% rauser Jokie %}</td><td>{% rauser KofiKots %}</td><td>{% rauser LucasFernandes %}</td><td>{% rauser Luis132 %}</td><td>{% rauser Mastodont %}</td></tr>
         <tr><td>{% rauser MikeyMo82 %}</td><td>{% rauser Muxing %}</td><td>{% rauser NotARobotv2 %}</td><td>{% rauser papaollie %}</td><td>{% rauser Sirzechs %}</td></tr>
@@ -417,68 +417,68 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser maltesi %}</td><td>{% rauser Marliton %}</td><td>{% rauser Mert %}</td><td>{% rauser Ravenous92 %}</td><td>{% rauser Reinhander %}</td></tr>
         <tr><td>{% rauser shiorat %}</td><td>{% rauser smsuchy %}</td><td>{% rauser tartaro %}</td><td>{% rauser Vordenko %}</td><td>{% rauser Waxweazler %}</td></tr>
         <tr><td>{% rauser AEpicGoat %}</td><td>{% rauser AkunoKen %}</td><td>{% rauser Alchemic %}</td><td>{% rauser Boblafete %}</td><td>{% rauser cary %}</td></tr>
-        <tr><td>{% rauser Dneomih %}</td><td>{% rauser doofsupreme %}</td><td>{% rauser Earnix %}</td><td>{% rauser ForgottenJ %}</td><td>{% rauser Hvedrungr89 %}</td></tr>
+        <tr><td>{% rauser Dneomih %}</td><td>{% rauser doofsupreme %}</td><td>{% rauser Earnix %}</td><td>{% rauser JalsLynX %}</td><td>{% rauser Hvedrungr89 %}</td></tr>
         <tr><td>{% rauser jimmy4352 %}</td><td>{% rauser Joestar420 %}</td><td>{% rauser JRodslegend %}</td><td>{% rauser LucianoD3M %}</td><td>{% rauser Luxaetern %}</td></tr>
         <tr><td>{% rauser Mariomania25 %}</td><td>{% rauser Mattoo %}</td><td>{% rauser Multibacking %}</td><td>{% rauser ryno0023 %}</td><td>{% rauser Auromite %}</td></tr>
         <tr><td>{% rauser AzmaNiapry %}</td><td>{% rauser BlindBeholder %}</td><td>{% rauser Catalyst2413 %}</td><td>{% rauser Eferos %}</td><td>{% rauser isaak1397 %}</td></tr>
         <tr><td>{% rauser Julnd %}</td><td>{% rauser Proph %}</td><td>{% rauser seraphiclucas %}</td><td>{% rauser Spanswick %}</td><td>{% rauser tavaum %}</td></tr>
-        <tr><td>{% rauser TheDapperDragon %}</td><td>{% rauser Xmitz %}</td><td>{% rauser axisandallies %}</td><td>{% rauser brybry184 %}</td><td>{% rauser Buranty %}</td></tr>
+        <tr><td>{% rauser TheDapperDragon %}</td><td>{% rauser Xmitz %}</td><td>{% rauser GreyingSeer %}</td><td>{% rauser brybry184 %}</td><td>{% rauser Buranty %}</td></tr>
         <tr><td>{% rauser DiegoTrejos %}</td><td>{% rauser dsagas89 %}</td><td>{% rauser Flexii %}</td><td>{% rauser Habrame %}</td><td>{% rauser jackw04 %}</td></tr>
         <tr><td>{% rauser jamsden %}</td><td>{% rauser k1742 %}</td><td>{% rauser L3vi4t4 %}</td><td>{% rauser mellow1892 %}</td><td>{% rauser Puzzler20 %}</td></tr>
         <tr><td>{% rauser rapidemboar %}</td><td>{% rauser StrikerAH %}</td><td>{% rauser UltraSuperChamp %}</td><td>{% rauser BacktoEdgar %}</td><td>{% rauser BigGlue %}</td></tr>
         <tr><td>{% rauser Chezno %}</td><td>{% rauser DanteSeven %}</td><td>{% rauser Gika %}</td><td>{% rauser ijsman99 %}</td><td>{% rauser JulianSK %}</td></tr>
-        <tr><td>{% rauser KevZer %}</td><td>{% rauser Kylesful %}</td><td>{% rauser LastGoodBoy %}</td><td>{% rauser LotusEaterGs %}</td><td>{% rauser MalteseRaven %}</td></tr>
+        <tr><td>{% rauser TheKevinGDX %}</td><td>{% rauser Kylesful %}</td><td>{% rauser Fours %}</td><td>{% rauser LotusEaterGs %}</td><td>{% rauser MalteseRaven %}</td></tr>
         <tr><td>{% rauser matty528 %}</td><td>{% rauser Prime182 %}</td><td>{% rauser Rofleiny %}</td><td>{% rauser SamSuperN %}</td><td>{% rauser ShakerSpear %}</td></tr>
-        <tr><td>{% rauser TheHyperZtar %}</td><td>{% rauser toshlaiin18k %}</td><td>{% rauser capojared %}</td><td>{% rauser Crewface28 %}</td><td>{% rauser enemigodelbien %}</td></tr>
+        <tr><td>{% rauser Frostlefog %}</td><td>{% rauser toshlaiin18k %}</td><td>{% rauser capojared %}</td><td>{% rauser Crewface %}</td><td>{% rauser enemigodelbien %}</td></tr>
         <tr><td>{% rauser GalexTheUnknown %}</td><td>{% rauser Haziel %}</td><td>{% rauser Khranos %}</td><td>{% rauser KIDinho %}</td><td>{% rauser Kindra %}</td></tr>
-        <tr><td>{% rauser KingSlowpoke06 %}</td><td>{% rauser koolmcr %}</td><td>{% rauser Omar5e4 %}</td><td>{% rauser OrezAmgis %}</td><td>{% rauser shalashaska007 %}</td></tr>
-        <tr><td>{% rauser soapsudsssbm %}</td><td>{% rauser UmbraRaika %}</td><td>{% rauser cowcommander %}</td><td>{% rauser ebee77 %}</td><td>{% rauser EDMILSONKL %}</td></tr>
+        <tr><td>{% rauser KingSlowpoke06 %}</td><td>{% rauser beardyerror %}</td><td>{% rauser TechBIN %}</td><td>{% rauser OrezAmgis %}</td><td>{% rauser shalashaska007 %}</td></tr>
+        <tr><td>{% rauser soapsudsssbm %}</td><td>{% rauser UmbraRaika %}</td><td>{% rauser cowcommander %}</td><td>{% rauser DietMentosZero %}</td><td>{% rauser EDMILSONKL %}</td></tr>
         <tr><td>{% rauser Enherjaren %}</td><td>{% rauser FreeLipe %}</td><td>{% rauser Ghfannboygh %}</td><td>{% rauser greazyDUSK %}</td><td>{% rauser Hiuri %}</td></tr>
         <tr><td>{% rauser holeemolee %}</td><td>{% rauser lilhound88 %}</td><td>{% rauser locobaton53 %}</td><td>{% rauser mheralynn %}</td><td>{% rauser MMProductions %}</td></tr>
         <tr><td>{% rauser MoriRaine %}</td><td>{% rauser NavelEvan %}</td><td>{% rauser RedCoin %}</td><td>{% rauser SantosGustavo40 %}</td><td>{% rauser Shinjimum %}</td></tr>
-        <tr><td>{% rauser Tredik %}</td><td>{% rauser alienth %}</td><td>{% rauser carville %}</td><td>{% rauser DeevilsHunter %}</td><td>{% rauser Demonaz80 %}</td></tr>
+        <tr><td>{% rauser Tredik %}</td><td>{% rauser alienth %}</td><td>{% rauser carville %}</td><td>{% rauser DeevilHunter %}</td><td>{% rauser Demonaz80 %}</td></tr>
         <tr><td>{% rauser gamerel0 %}</td><td>{% rauser Juissi %}</td><td>{% rauser Ksekos %}</td><td>{% rauser Nizzo921 %}</td><td>{% rauser Pollon98 %}</td></tr>
-        <tr><td>{% rauser SofiaScarlet %}</td><td>{% rauser SolarisTM %}</td><td>{% rauser tomojin %}</td><td>{% rauser vocalcog %}</td><td>{% rauser WerPVP %}</td></tr>
+        <tr><td>{% rauser Yoshitsune893 %}</td><td>{% rauser SolarisTM %}</td><td>{% rauser tomojin %}</td><td>{% rauser vocalcog %}</td><td>{% rauser wernux1337 %}</td></tr>
         <tr><td>{% rauser Alarju %}</td><td>{% rauser Baracuda %}</td><td>{% rauser Blunderer1099 %}</td><td>{% rauser czaj %}</td><td>{% rauser hylia7 %}</td></tr>
-        <tr><td>{% rauser kidtroubleHR %}</td><td>{% rauser mancer5572 %}</td><td>{% rauser Shinkaz12 %}</td><td>{% rauser admiralsalty %}</td><td>{% rauser AxlAsimov %}</td></tr>
-        <tr><td>{% rauser BIRILLLLL %}</td><td>{% rauser catfishman %}</td><td>{% rauser Fartingo %}</td><td>{% rauser FPrompto %}</td><td>{% rauser Jeremin %}</td></tr>
+        <tr><td>{% rauser kidtrouble999 %}</td><td>{% rauser mancer5572 %}</td><td>{% rauser Shinkaz12 %}</td><td>{% rauser admiralsalty %}</td><td>{% rauser AxlAsimov %}</td></tr>
+        <tr><td>{% rauser BIRILLLLL %}</td><td>{% rauser catfishman %}</td><td>{% rauser Fartingo %}</td><td>{% rauser FPrompto %}</td><td>{% rauser Esnupy %}</td></tr>
         <tr><td>{% rauser JorgeLucas0 %}</td><td>{% rauser Klavisz %}</td><td>{% rauser KyleRoig %}</td><td>{% rauser lowlevel %}</td><td>{% rauser Mari312 %}</td></tr>
         <tr><td>{% rauser MintChip %}</td><td>{% rauser SantaVoorhees %}</td><td>{% rauser Tynaeve %}</td><td>{% rauser weecraig27 %}</td><td>{% rauser WilGrieve %}</td></tr>
         <tr><td>{% rauser Wrenchik %}</td><td>{% rauser Yaku %}</td><td>{% rauser BobZee %}</td><td>{% rauser cdymrtn %}</td><td>{% rauser DarkGreenLand %}</td></tr>
         <tr><td>{% rauser DTH10 %}</td><td>{% rauser elamodelqueso %}</td><td>{% rauser electroenigma %}</td><td>{% rauser fliggity1976 %}</td><td>{% rauser Florounet83 %}</td></tr>
         <tr><td>{% rauser LockeCole %}</td><td>{% rauser MattBrostar %}</td><td>{% rauser Metavy %}</td><td>{% rauser MisterGimmick %}</td><td>{% rauser Pandamoon206 %}</td></tr>
-        <tr><td>{% rauser PeaKay %}</td><td>{% rauser Arathrum %}</td><td>{% rauser atomkern %}</td><td>{% rauser ButterBro80 %}</td><td>{% rauser Candy %}</td></tr>
-        <tr><td>{% rauser ChaosMissy %}</td><td>{% rauser debgerme %}</td><td>{% rauser gallantioh %}</td><td>{% rauser GrillGuy %}</td><td>{% rauser himynameiswill %}</td></tr>
+        <tr><td>{% rauser PeaKay %}</td><td>{% rauser Arathrum %}</td><td>{% rauser atomkern %}</td><td>{% rauser ButterBro80 %}</td><td>{% rauser Dogfood1 %}</td></tr>
+        <tr><td>{% rauser MissyCoon %}</td><td>{% rauser debgerme %}</td><td>{% rauser gallantioh %}</td><td>{% rauser GrillGuy %}</td><td>{% rauser himynameiswill %}</td></tr>
         <tr><td>{% rauser iizlts %}</td><td>{% rauser Kjata %}</td><td>{% rauser latunera %}</td><td>{% rauser NeuroVoid %}</td><td>{% rauser OnyxTheGamingMachine %}</td></tr>
         <tr><td>{% rauser prismiah %}</td><td>{% rauser Ragnadan %}</td><td>{% rauser ragnarokcomes %}</td><td>{% rauser retroterry %}</td><td>{% rauser RoR666 %}</td></tr>
         <tr><td>{% rauser SonJean %}</td><td>{% rauser STKxAKUMA209x %}</td><td>{% rauser thoreffectgaming %}</td><td>{% rauser UserNumberSomething %}</td><td>{% rauser Zytahui %}</td></tr>
         <tr><td>{% rauser AndrisMarrandris %}</td><td>{% rauser Authion %}</td><td>{% rauser Block2222 %}</td><td>{% rauser carlosforti %}</td><td>{% rauser Erkanth %}</td></tr>
-        <tr><td>{% rauser HexTree %}</td><td>{% rauser HippyKomeiji %}</td><td>{% rauser jimenez %}</td><td>{% rauser LTHLT %}</td><td>{% rauser mrdao %}</td></tr>
+        <tr><td>{% rauser HexTree %}</td><td>{% rauser HippyKomeiji %}</td><td>{% rauser cijas %}</td><td>{% rauser LTHLT %}</td><td>{% rauser mrdao %}</td></tr>
         <tr><td>{% rauser Nipe7 %}</td><td>{% rauser sectorzee %}</td><td>{% rauser Tortuga %}</td><td>{% rauser Aarzak %}</td><td>{% rauser Aeravon %}</td></tr>
-        <tr><td>{% rauser detheavn %}</td><td>{% rauser dflat %}</td><td>{% rauser Dooober %}</td><td>{% rauser FoxZinBR %}</td><td>{% rauser gtkampos %}</td></tr>
-        <tr><td>{% rauser JeanPiroca %}</td><td>{% rauser neonvanilla %}</td><td>{% rauser OceanManow %}</td><td>{% rauser OniKaiser %}</td><td>{% rauser TheN %}</td></tr>
-        <tr><td>{% rauser wezmtl %}</td><td>{% rauser Wolfoxx %}</td><td>{% rauser ziprasidone146939277 %}</td><td>{% rauser zomxbae %}</td><td>{% rauser devilbot %}</td></tr>
+        <tr><td>{% rauser detheavn %}</td><td>{% rauser dflat %}</td><td>{% rauser Dooober %}</td><td>{% rauser Saylooor %}</td><td>{% rauser gtkampos %}</td></tr>
+        <tr><td>{% rauser JeanPiroca %}</td><td>{% rauser neonvanilla %}</td><td>{% rauser OceanManow %}</td><td>{% rauser OniKaiser %}</td><td>{% rauser Guildanesh %}</td></tr>
+        <tr><td>{% rauser wezmtl %}</td><td>{% rauser Wolfoxx %}</td><td>{% rauser ziprasidone146939277 %}</td><td>{% rauser darkxsirenxgaming %}</td><td>{% rauser devilbot %}</td></tr>
         <tr><td>{% rauser Guilherme007 %}</td><td>{% rauser Jabbawocky %}</td><td>{% rauser MugiwaraNoPeto %}</td><td>{% rauser notatall %}</td><td>{% rauser Primofaro %}</td></tr>
-        <tr><td>{% rauser ReiDaSucata %}</td><td>{% rauser RobTheIII %}</td><td>{% rauser Armag %}</td><td>{% rauser BinYeen %}</td><td>{% rauser EvilSaturn %}</td></tr>
+        <tr><td>{% rauser ReiDaSucata %}</td><td>{% rauser RobTheIII %}</td><td>{% rauser Armag %}</td><td>{% rauser YeenTheBin %}</td><td>{% rauser EvilSaturn %}</td></tr>
         <tr><td>{% rauser Henrique917 %}</td><td>{% rauser Igroteka %}</td><td>{% rauser letdowNN %}</td><td>{% rauser Paisen %}</td><td>{% rauser Phaynney %}</td></tr>
-        <tr><td>{% rauser Piximator %}</td><td>{% rauser RetroDale %}</td><td>{% rauser RyanHPrice %}</td><td>{% rauser Shimabot %}</td><td>{% rauser TayTay83 %}</td></tr>
-        <tr><td>{% rauser thamagikal1 %}</td><td>{% rauser XGundaMasterX %}</td><td>{% rauser APow %}</td><td>{% rauser DropPopCasey %}</td><td>{% rauser G4M3RZ3R0 %}</td></tr>
+        <tr><td>{% rauser Piximator %}</td><td>{% rauser RetroBas %}</td><td>{% rauser RyanHPrice %}</td><td>{% rauser Shimabot %}</td><td>{% rauser TayTay83 %}</td></tr>
+        <tr><td>{% rauser thamagikal1 %}</td><td>{% rauser XGundaMasterX %}</td><td>{% rauser APow %}</td><td>{% rauser DropPopCasey %}</td><td>{% rauser Deadinternetzero %}</td></tr>
         <tr><td>{% rauser gennarocc %}</td><td>{% rauser Guguplay73 %}</td><td>{% rauser Hacker360 %}</td><td>{% rauser JoeFoe %}</td><td>{% rauser Kokuman %}</td></tr>
-        <tr><td>{% rauser LordHexcalibur %}</td><td>{% rauser OwlStar06 %}</td><td>{% rauser RiftFall %}</td><td>{% rauser Robscure %}</td><td>{% rauser Rooreelooo %}</td></tr>
+        <tr><td>{% rauser LordHexcalibur %}</td><td>{% rauser Voltren6 %}</td><td>{% rauser RiftFall %}</td><td>{% rauser Robscure %}</td><td>{% rauser Rooreelooo %}</td></tr>
         <tr><td>{% rauser Sonofwiseau %}</td><td>{% rauser uhmilktea %}</td><td>{% rauser usAurelius %}</td><td>{% rauser utilitypie %}</td><td>{% rauser Akirus %}</td></tr>
-        <tr><td>{% rauser AnEntity0 %}</td><td>{% rauser AppendSX %}</td><td>{% rauser Dokgo %}</td><td>{% rauser HpUnderflow %}</td><td>{% rauser hthief %}</td></tr>
+        <tr><td>{% rauser AnEntity0 %}</td><td>{% rauser tsuuruki %}</td><td>{% rauser Dokgo %}</td><td>{% rauser HpUnderflow %}</td><td>{% rauser hthief %}</td></tr>
         <tr><td>{% rauser Jhonson %}</td><td>{% rauser Jigsy %}</td><td>{% rauser Maciiek %}</td><td>{% rauser Mago77 %}</td><td>{% rauser outcausinpanicTTV %}</td></tr>
         <tr><td>{% rauser Phimmmy %}</td><td>{% rauser RuiGax %}</td><td>{% rauser SoldierOfCydonia %}</td><td>{% rauser SrManoel %}</td><td>{% rauser uKnightmare %}</td></tr>
         <tr><td>{% rauser Backlogix %}</td><td>{% rauser blanky %}</td><td>{% rauser BreadButToast %}</td><td>{% rauser Chake %}</td><td>{% rauser dhwueb17 %}</td></tr>
         <tr><td>{% rauser kaduuugtt %}</td><td>{% rauser KolderQl %}</td><td>{% rauser LunacyRiff %}</td><td>{% rauser Mastaonion %}</td><td>{% rauser MMengos %}</td></tr>
         <tr><td>{% rauser napo %}</td><td>{% rauser PS2wizard %}</td><td>{% rauser RudoReels %}</td><td>{% rauser Sneazy %}</td><td>{% rauser xianort99 %}</td></tr>
-        <tr><td>{% rauser Appotheozz %}</td><td>{% rauser Donquaite %}</td><td>{% rauser EloizioHMD %}</td><td>{% rauser PickySalsa %}</td><td>{% rauser Zenon %}</td></tr>
+        <tr><td>{% rauser Appotheozz %}</td><td>{% rauser Donquaite %}</td><td>{% rauser EloizioHMD %}</td><td>{% rauser PickySalsa %}</td><td>{% rauser WESLLEY97 %}</td></tr>
         <tr><td>{% rauser BustinSmash %}</td><td>{% rauser Chain %}</td><td>{% rauser didma %}</td><td>{% rauser dimentar %}</td><td>{% rauser ewarwoowar %}</td></tr>
         <tr><td>{% rauser garrettskye %}</td><td>{% rauser katamariwar %}</td><td>{% rauser MajinJimOf85 %}</td><td>{% rauser Mitchfynde %}</td><td>{% rauser NiceTCyou %}</td></tr>
         <tr><td>{% rauser NivekDrol %}</td><td>{% rauser Nursultan %}</td><td>{% rauser Phantom6960 %}</td><td>{% rauser RiceBoy25 %}</td><td>{% rauser rustycreeper %}</td></tr>
-        <tr><td>{% rauser Xkiller %}</td><td>{% rauser akoomer %}</td><td>{% rauser boatmeme %}</td><td>{% rauser DaviTC %}</td><td>{% rauser Duglas560 %}</td></tr>
-        <tr><td>{% rauser Fairytale %}</td><td>{% rauser Shuu %}</td><td>{% rauser Smeatlord %}</td><td>{% rauser teamplz %}</td><td>{% rauser andreripper %}</td></tr>
-        <tr><td>{% rauser benjaminmcp0 %}</td><td>{% rauser charmless %}</td><td>{% rauser DiegoxK %}</td><td>{% rauser eeveegms %}</td><td>{% rauser fakemaria %}</td></tr>
+        <tr><td>{% rauser Sampaioz7 %}</td><td>{% rauser akoomer %}</td><td>{% rauser boatmeme %}</td><td>{% rauser DaviTC %}</td><td>{% rauser Duglas560 %}</td></tr>
+        <tr><td>{% rauser Fairytale %}</td><td>{% rauser OldW %}</td><td>{% rauser Smeatlord %}</td><td>{% rauser teamplz %}</td><td>{% rauser andreripper %}</td></tr>
+        <tr><td>{% rauser Benjaminmcp0TTV %}</td><td>{% rauser charmless %}</td><td>{% rauser DiegoxK %}</td><td>{% rauser eeveegms %}</td><td>{% rauser fakemaria %}</td></tr>
         <tr><td>{% rauser Gotsu87 %}</td><td>{% rauser HamsterKsun %}</td><td>{% rauser HiraokaNettoMichio %}</td><td>{% rauser Niiro %}</td><td>{% rauser packy17 %}</td></tr>
         <tr><td>{% rauser PRINCEHEART0 %}</td><td>{% rauser Project %}</td><td>{% rauser Siallus %}</td><td>{% rauser Steeperthrone24 %}</td><td>{% rauser StroudDavion %}</td></tr>
         <tr><td>{% rauser wisza %}</td><td>{% rauser akihime %}</td><td>{% rauser banditMarche %}</td><td>{% rauser CocktailCabbage %}</td><td>{% rauser iuku5 %}</td></tr>
@@ -487,12 +487,12 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser underoath96 %}</td><td>{% rauser USMailman %}</td><td>{% rauser Ayaseth %}</td><td>{% rauser Bullant012 %}</td><td>{% rauser co6ra111 %}</td></tr>
         <tr><td>{% rauser Elvundil %}</td><td>{% rauser GabrielDoreto %}</td><td>{% rauser laralin %}</td><td>{% rauser Luizgonsalez838 %}</td><td>{% rauser pippolo %}</td></tr>
         <tr><td>{% rauser rndinho %}</td><td>{% rauser sambruck %}</td><td>{% rauser victorMoRiv01 %}</td><td>{% rauser Wansti %}</td><td>{% rauser ZyRoXWolfb %}</td></tr>
-        <tr><td>{% rauser ailsonsousa %}</td><td>{% rauser Badbillfly %}</td><td>{% rauser CaioGamesRETRO %}</td><td>{% rauser DeadCaligo %}</td><td>{% rauser HachimanGamer %}</td></tr>
+        <tr><td>{% rauser ailsonsousa %}</td><td>{% rauser Chernomysh %}</td><td>{% rauser CaioGamesRETRO %}</td><td>{% rauser DeadCaligo %}</td><td>{% rauser HachimanGamer %}</td></tr>
         <tr><td>{% rauser Had0k3n %}</td><td>{% rauser Kads %}</td><td>{% rauser lilspooky %}</td><td>{% rauser Louis883Grz %}</td><td>{% rauser MaiaStarchild %}</td></tr>
         <tr><td>{% rauser OptiMiced %}</td><td>{% rauser red7thunder %}</td><td>{% rauser Rocknato %}</td><td>{% rauser Sakujin %}</td><td>{% rauser wicked1one11 %}</td></tr>
-        <tr><td>{% rauser anisoptera %}</td><td>{% rauser aykot %}</td><td>{% rauser CEROSA %}</td><td>{% rauser ChainChomp5040 %}</td><td>{% rauser Charmander %}</td></tr>
-        <tr><td>{% rauser coreycloud %}</td><td>{% rauser davesalmon %}</td><td>{% rauser Exepan95 %}</td><td>{% rauser Gengar %}</td><td>{% rauser jonniegrunge %}</td></tr>
-        <tr><td>{% rauser KobraKye %}</td><td>{% rauser Lincow10a %}</td><td>{% rauser LiquidSnake07 %}</td><td>{% rauser Miguelitus02 %}</td><td>{% rauser MrSparkles %}</td></tr>
+        <tr><td>{% rauser anisoptera %}</td><td>{% rauser bazuara %}</td><td>{% rauser CEROSA %}</td><td>{% rauser ChainChomp5040 %}</td><td>{% rauser Charmander %}</td></tr>
+        <tr><td>{% rauser coreycloud %}</td><td>{% rauser Flamingbag2 %}</td><td>{% rauser Exepan95 %}</td><td>{% rauser Gengar %}</td><td>{% rauser jonniegrunge %}</td></tr>
+        <tr><td>{% rauser KobraKye %}</td><td>{% rauser Lincow10a %}</td><td>{% rauser BrutalRam %}</td><td>{% rauser MACJ02 %}</td><td>{% rauser MrSparkles %}</td></tr>
         <tr><td>{% rauser newbartman %}</td><td>{% rauser Samitalltohecc %}</td><td>{% rauser SmokeTheReject %}</td><td>{% rauser StrikerJaken %}</td><td>{% rauser Chupapi %}</td></tr>
         <tr><td>{% rauser Dgurks %}</td><td>{% rauser evseev2102 %}</td><td>{% rauser hanktree %}</td><td>{% rauser HavNoFear %}</td><td>{% rauser KoopaTenshi %}</td></tr>
         <tr><td>{% rauser mateteu %}</td><td>{% rauser MeiFel %}</td><td>{% rauser MIR4NHA %}</td><td>{% rauser Montii %}</td><td>{% rauser Nachote27 %}</td></tr>
@@ -502,40 +502,40 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
 <table>
     <thead><tr><th colspan="5">3 Years (2023) - 870 Members</th></tr></thead>
         <tr><td>{% rauser Ailtown %}</td><td>{% rauser Alexmack %}</td><td>{% rauser BADMUTATION %}</td><td>{% rauser BassicBass %}</td><td>{% rauser BrenSelk %}</td></tr>
-        <tr><td>{% rauser caitcat9 %}</td><td>{% rauser DaNiiDE %}</td><td>{% rauser DanUwU %}</td><td>{% rauser Danyalfredo2004 %}</td><td>{% rauser DededeMan %}</td></tr>
-        <tr><td>{% rauser downhomechunk %}</td><td>{% rauser EnrichedUranium %}</td><td>{% rauser Fern4nDitto %}</td><td>{% rauser gusqq %}</td><td>{% rauser IamTurok %}</td></tr>
+        <tr><td>{% rauser caitcat9 %}</td><td>{% rauser DaNiiDE %}</td><td>{% rauser DanUwU %}</td><td>{% rauser Danyalfredo2004 %}</td><td>{% rauser IdiotMayCry %}</td></tr>
+        <tr><td>{% rauser downhomechunk %}</td><td>{% rauser EnrichedUranium %}</td><td>{% rauser Fern4nDitto %}</td><td>{% rauser gusqq %}</td><td>{% rauser Danielquinn %}</td></tr>
         <tr><td>{% rauser ImpetuousHarp20 %}</td><td>{% rauser infamous2117 %}</td><td>{% rauser MarquisElmdore %}</td><td>{% rauser MarretaLMRM %}</td><td>{% rauser mechaonion %}</td></tr>
         <tr><td>{% rauser Mitochad %}</td><td>{% rauser naufalanam %}</td><td>{% rauser Piston %}</td><td>{% rauser smofan %}</td><td>{% rauser Sohlitude %}</td></tr>
-        <tr><td>{% rauser TheDetonaGabriel %}</td><td>{% rauser Urielis %}</td><td>{% rauser Uzumaki %}</td><td>{% rauser WickstarRunner %}</td><td>{% rauser Yguboladao %}</td></tr>
-        <tr><td>{% rauser Yozy %}</td><td>{% rauser 123killa %}</td><td>{% rauser antom99 %}</td><td>{% rauser BigMeanChicken %}</td><td>{% rauser blx001 %}</td></tr>
-        <tr><td>{% rauser Davigemz %}</td><td>{% rauser DrPepperSpartan %}</td><td>{% rauser Falcondias %}</td><td>{% rauser fragoss %}</td><td>{% rauser Garox %}</td></tr>
+        <tr><td>{% rauser TheDetonaGabriel %}</td><td>{% rauser Urielis %}</td><td>{% rauser Uzumaki %}</td><td>{% rauser WickstarRunner %}</td><td>{% rauser YgorEsteves %}</td></tr>
+        <tr><td>{% rauser Yozy %}</td><td>{% rauser 123killa %}</td><td>{% rauser antom99 %}</td><td>{% rauser BigMeanChicken %}</td><td>{% rauser blx777 %}</td></tr>
+        <tr><td>{% rauser Davigemz %}</td><td>{% rauser FourLeafGlover %}</td><td>{% rauser Falcondias %}</td><td>{% rauser fragoss %}</td><td>{% rauser Garox %}</td></tr>
         <tr><td>{% rauser GeorgeKojak %}</td><td>{% rauser GhostVanGhost %}</td><td>{% rauser Hobbes %}</td><td>{% rauser igoor %}</td><td>{% rauser Jackoth %}</td></tr>
         <tr><td>{% rauser Joncky %}</td><td>{% rauser Kenmore %}</td><td>{% rauser kminari %}</td><td>{% rauser komeet007 %}</td><td>{% rauser Kubija %}</td></tr>
         <tr><td>{% rauser maestroBoy %}</td><td>{% rauser marcussaison %}</td><td>{% rauser MCM66 %}</td><td>{% rauser MilC %}</td><td>{% rauser Mythdrake %}</td></tr>
-        <tr><td>{% rauser Olengu86 %}</td><td>{% rauser qoznyyy %}</td><td>{% rauser Raggaman %}</td><td>{% rauser RzvGsb %}</td><td>{% rauser SilentGlyph %}</td></tr>
+        <tr><td>{% rauser Olengu86 %}</td><td>{% rauser qoznyyy %}</td><td>{% rauser Raggaman %}</td><td>{% rauser RzvGsb %}</td><td>{% rauser ZoneCrashX %}</td></tr>
         <tr><td>{% rauser AllKiwi %}</td><td>{% rauser AudreyStrategy %}</td><td>{% rauser bhimz %}</td><td>{% rauser bigsaskatuna %}</td><td>{% rauser chankifung4e %}</td></tr>
         <tr><td>{% rauser ColonelSkills %}</td><td>{% rauser ConchaNautica %}</td><td>{% rauser Cregan %}</td><td>{% rauser DalekRichards %}</td><td>{% rauser DevilsSkull555 %}</td></tr>
         <tr><td>{% rauser Flexik %}</td><td>{% rauser GDuke %}</td><td>{% rauser JCHRONICda1 %}</td><td>{% rauser LargeCairn %}</td><td>{% rauser Linopolis3000 %}</td></tr>
         <tr><td>{% rauser Malcolm748 %}</td><td>{% rauser menotesenpai %}</td><td>{% rauser mitadhumanoyrobot %}</td><td>{% rauser Mrfantastic417 %}</td><td>{% rauser Nitael %}</td></tr>
-        <tr><td>{% rauser potatofryguy %}</td><td>{% rauser Rottytopss %}</td><td>{% rauser Ryzelf %}</td><td>{% rauser samuel123 %}</td><td>{% rauser sirfig %}</td></tr>
+        <tr><td>{% rauser potatofryguy %}</td><td>{% rauser Rotty %}</td><td>{% rauser Ryzelf %}</td><td>{% rauser samuel123 %}</td><td>{% rauser sirfig %}</td></tr>
         <tr><td>{% rauser SpazPownrO7z %}</td><td>{% rauser TheCrimsonCren %}</td><td>{% rauser USeenChef %}</td><td>{% rauser Wujboy %}</td><td>{% rauser Wxitep %}</td></tr>
         <tr><td>{% rauser AndrewBetson %}</td><td>{% rauser Asidiacc %}</td><td>{% rauser Banarno %}</td><td>{% rauser BozIsBad %}</td><td>{% rauser Gabriel20ki %}</td></tr>
-        <tr><td>{% rauser jtrent115 %}</td><td>{% rauser kahnwiley %}</td><td>{% rauser L1MB0 %}</td><td>{% rauser Lay96 %}</td><td>{% rauser Muramasa666 %}</td></tr>
+        <tr><td>{% rauser jtrentkygg %}</td><td>{% rauser kahnwiley %}</td><td>{% rauser L1MB0 %}</td><td>{% rauser Lay96 %}</td><td>{% rauser Muramasa666 %}</td></tr>
         <tr><td>{% rauser NeoFlare451 %}</td><td>{% rauser plantesoul %}</td><td>{% rauser Poki64 %}</td><td>{% rauser Sircrypt %}</td><td>{% rauser Sussurro2009 %}</td></tr>
         <tr><td>{% rauser theipon24 %}</td><td>{% rauser TheParagonKhan %}</td><td>{% rauser zatztugod %}</td><td>{% rauser AirriChanPlays %}</td><td>{% rauser allcorndiet %}</td></tr>
         <tr><td>{% rauser BabsJohnson %}</td><td>{% rauser Beethroid %}</td><td>{% rauser Betoferi %}</td><td>{% rauser DazFC %}</td><td>{% rauser Desmond93 %}</td></tr>
         <tr><td>{% rauser DrCypressCube %}</td><td>{% rauser EdSylvestre %}</td><td>{% rauser Franics %}</td><td>{% rauser GriC %}</td><td>{% rauser hutch78uk %}</td></tr>
         <tr><td>{% rauser jakinnoks %}</td><td>{% rauser JD3351 %}</td><td>{% rauser kil10230 %}</td><td>{% rauser KoRnish %}</td><td>{% rauser Madiismad %}</td></tr>
-        <tr><td>{% rauser MattGtheOG %}</td><td>{% rauser Mikoloko %}</td><td>{% rauser Minotaur %}</td><td>{% rauser odensla %}</td><td>{% rauser Pallord %}</td></tr>
-        <tr><td>{% rauser Poopasaurus %}</td><td>{% rauser PuchoBravo %}</td><td>{% rauser Servet %}</td><td>{% rauser Silver33 %}</td><td>{% rauser Stoogiemeister %}</td></tr>
-        <tr><td>{% rauser TFD500 %}</td><td>{% rauser TommyDeal %}</td><td>{% rauser Treskwenta %}</td><td>{% rauser TwilightAutumn %}</td><td>{% rauser XT64 %}</td></tr>
+        <tr><td>{% rauser MattGtheOG %}</td><td>{% rauser OGelin %}</td><td>{% rauser Rosencrantz %}</td><td>{% rauser odensla %}</td><td>{% rauser Pallord %}</td></tr>
+        <tr><td>{% rauser Poopasaurus %}</td><td>{% rauser PuchoBravo %}</td><td>{% rauser Servet %}</td><td>{% rauser EdaxGt %}</td><td>{% rauser Stoogiemeister %}</td></tr>
+        <tr><td>{% rauser TFD500 %}</td><td>{% rauser Tommy %}</td><td>{% rauser Treskwenta %}</td><td>{% rauser TwilightAutumn %}</td><td>{% rauser XT64 %}</td></tr>
         <tr><td>{% rauser Zeebuura %}</td><td>{% rauser Alber %}</td><td>{% rauser CachorroChupetao %}</td><td>{% rauser Cha0tical %}</td><td>{% rauser DarbazMahmood %}</td></tr>
         <tr><td>{% rauser DSkull1057 %}</td><td>{% rauser DuoRX %}</td><td>{% rauser Fallacy22 %}</td><td>{% rauser JGam %}</td><td>{% rauser LeeroyYoung %}</td></tr>
-        <tr><td>{% rauser lordBypass %}</td><td>{% rauser MCH8erade %}</td><td>{% rauser Meliodas949 %}</td><td>{% rauser miffmaff %}</td><td>{% rauser MisterNigth %}</td></tr>
-        <tr><td>{% rauser Nicol %}</td><td>{% rauser Novoxia %}</td><td>{% rauser Pastami %}</td><td>{% rauser roskora %}</td><td>{% rauser shisyow %}</td></tr>
+        <tr><td>{% rauser lordBypass %}</td><td>{% rauser MCH8erade %}</td><td>{% rauser YumeNoTamashii %}</td><td>{% rauser miffmaff %}</td><td>{% rauser MisterNigth %}</td></tr>
+        <tr><td>{% rauser Nicol %}</td><td>{% rauser Voxx %}</td><td>{% rauser Pastami %}</td><td>{% rauser roskora %}</td><td>{% rauser shisyow %}</td></tr>
         <tr><td>{% rauser Skye1510 %}</td><td>{% rauser Sweetumms %}</td><td>{% rauser Tarpz %}</td><td>{% rauser TenneyBox %}</td><td>{% rauser ThePhyrex %}</td></tr>
         <tr><td>{% rauser TheValenmaker %}</td><td>{% rauser Yeyoskpy %}</td><td>{% rauser Belloni %}</td><td>{% rauser BooCarKey0 %}</td><td>{% rauser brodsky %}</td></tr>
-        <tr><td>{% rauser cargobrrr %}</td><td>{% rauser Corpsfeast %}</td><td>{% rauser Estelle %}</td><td>{% rauser EvanQuora %}</td><td>{% rauser fakegamerTV2 %}</td></tr>
+        <tr><td>{% rauser cargobrrr %}</td><td>{% rauser Corpsfeast %}</td><td>{% rauser Estelle %}</td><td>{% rauser EvanQuora %}</td><td>{% rauser Faku %}</td></tr>
         <tr><td>{% rauser GaleS %}</td><td>{% rauser HousingX %}</td><td>{% rauser iainmacleod %}</td><td>{% rauser IamGeorge %}</td><td>{% rauser Isirus %}</td></tr>
         <tr><td>{% rauser Leviathan01 %}</td><td>{% rauser nimvega %}</td><td>{% rauser Opelsi %}</td><td>{% rauser SagaMaximus %}</td><td>{% rauser sasagaru %}</td></tr>
         <tr><td>{% rauser Snorb %}</td><td>{% rauser typhloquil %}</td><td>{% rauser ZeltzinUVA %}</td><td>{% rauser Abaddonsouls %}</td><td>{% rauser AkuXDemon %}</td></tr>
@@ -545,12 +545,12 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser KylarPlayz %}</td><td>{% rauser leavewe %}</td><td>{% rauser LJRETRO %}</td><td>{% rauser MakaiPhantom %}</td><td>{% rauser MarchElt %}</td></tr>
         <tr><td>{% rauser mattheosexo %}</td><td>{% rauser Melfice90 %}</td><td>{% rauser MrBeam89 %}</td><td>{% rauser NyctoAcro %}</td><td>{% rauser OxFoster %}</td></tr>
         <tr><td>{% rauser P3rrJ %}</td><td>{% rauser radj33 %}</td><td>{% rauser Raladorn %}</td><td>{% rauser RenzoMaxPeru %}</td><td>{% rauser ScratchinWarlok %}</td></tr>
-        <tr><td>{% rauser SegTindoPro %}</td><td>{% rauser shockedtooth %}</td><td>{% rauser Sirus4223 %}</td><td>{% rauser slattman92 %}</td><td>{% rauser Viniciusfox1234 %}</td></tr>
+        <tr><td>{% rauser SegTindo %}</td><td>{% rauser shockedtooth %}</td><td>{% rauser Sirus4223 %}</td><td>{% rauser slattman92 %}</td><td>{% rauser Viniciusfox1234 %}</td></tr>
         <tr><td>{% rauser Aksamytt %}</td><td>{% rauser AnotherCrow %}</td><td>{% rauser Bokko %}</td><td>{% rauser bpcarter93 %}</td><td>{% rauser Deathsway %}</td></tr>
         <tr><td>{% rauser DJNoodle %}</td><td>{% rauser DraveAvelon %}</td><td>{% rauser DrPac %}</td><td>{% rauser DynamiteHeaddy %}</td><td>{% rauser entitygeorge %}</td></tr>
         <tr><td>{% rauser Geomenny %}</td><td>{% rauser ItsBruno %}</td><td>{% rauser Izen91 %}</td><td>{% rauser kain611 %}</td><td>{% rauser malumadue %}</td></tr>
         <tr><td>{% rauser miketocco %}</td><td>{% rauser MrMoneyMan %}</td><td>{% rauser mullyman987 %}</td><td>{% rauser Phrygisian %}</td><td>{% rauser RetroSTL %}</td></tr>
-        <tr><td>{% rauser robe1293 %}</td><td>{% rauser silcoish %}</td><td>{% rauser Slatra %}</td><td>{% rauser stigro %}</td><td>{% rauser SuperHerc %}</td></tr>
+        <tr><td>{% rauser robe1293 %}</td><td>{% rauser silcoish %}</td><td>{% rauser VoxReverie %}</td><td>{% rauser stigro %}</td><td>{% rauser SuperHerc %}</td></tr>
         <tr><td>{% rauser TheDemon91 %}</td><td>{% rauser TheLazyPerson %}</td><td>{% rauser XxGVirusxX %}</td><td>{% rauser ADAM7117 %}</td><td>{% rauser Adriexpert %}</td></tr>
         <tr><td>{% rauser ALL1138 %}</td><td>{% rauser DiegoCat %}</td><td>{% rauser Keado %}</td><td>{% rauser Kopeng %}</td><td>{% rauser Kruzer %}</td></tr>
         <tr><td>{% rauser lHyperl %}</td><td>{% rauser lihua %}</td><td>{% rauser lonlegen %}</td><td>{% rauser LucienGreeth %}</td><td>{% rauser LudwigVan %}</td></tr>
@@ -558,22 +558,22 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser reivieira %}</td><td>{% rauser salvatore77 %}</td><td>{% rauser SkyTroN %}</td><td>{% rauser Teriem %}</td><td>{% rauser TrashGang %}</td></tr>
         <tr><td>{% rauser Treeplot %}</td><td>{% rauser UltraGodAzgorath %}</td><td>{% rauser Votek %}</td><td>{% rauser wastelandoasis %}</td><td>{% rauser zaybu %}</td></tr>
         <tr><td>{% rauser Bosshogg %}</td><td>{% rauser budmaster %}</td><td>{% rauser DantNess %}</td><td>{% rauser Dexim01 %}</td><td>{% rauser ElidanTopa %}</td></tr>
-        <tr><td>{% rauser Freddy2421 %}</td><td>{% rauser GranadasBan %}</td><td>{% rauser Hipoot %}</td><td>{% rauser Hornswaggle %}</td><td>{% rauser JacksterHead %}</td></tr>
+        <tr><td>{% rauser Freddy2421 %}</td><td>{% rauser GranadasBan %}</td><td>{% rauser Hipoot %}</td><td>{% rauser Hornswaggle %}</td><td>{% rauser Charged %}</td></tr>
         <tr><td>{% rauser Jaylarity %}</td><td>{% rauser Medronte251 %}</td><td>{% rauser moonfgc %}</td><td>{% rauser MrJeffudo %}</td><td>{% rauser myusufds %}</td></tr>
         <tr><td>{% rauser OfficialTobo %}</td><td>{% rauser Salgadinho69 %}</td><td>{% rauser sebasprak %}</td><td>{% rauser Sonidiff %}</td><td>{% rauser tenDebil %}</td></tr>
-        <tr><td>{% rauser tylermc %}</td><td>{% rauser VG584Pro %}</td><td>{% rauser burpee64 %}</td><td>{% rauser caps1989 %}</td><td>{% rauser CloudyMusic %}</td></tr>
+        <tr><td>{% rauser tylermc %}</td><td>{% rauser VGX584 %}</td><td>{% rauser burpee64 %}</td><td>{% rauser caps1989 %}</td><td>{% rauser CloudyMusic %}</td></tr>
         <tr><td>{% rauser DarthGlory %}</td><td>{% rauser Derekraponi %}</td><td>{% rauser dragonmatt %}</td><td>{% rauser flowersofevil %}</td><td>{% rauser Foolius %}</td></tr>
         <tr><td>{% rauser KanaNagano %}</td><td>{% rauser M0jooj %}</td><td>{% rauser M1lagre %}</td><td>{% rauser Maikki %}</td><td>{% rauser megaximil %}</td></tr>
-        <tr><td>{% rauser mzneo %}</td><td>{% rauser OyakruTerhu %}</td><td>{% rauser Ozappa %}</td><td>{% rauser panjandrm %}</td><td>{% rauser Pariah01 %}</td></tr>
-        <tr><td>{% rauser pedro1996 %}</td><td>{% rauser potatowr3 %}</td><td>{% rauser Rom13 %}</td><td>{% rauser Romgona %}</td><td>{% rauser Rubymaster %}</td></tr>
+        <tr><td>{% rauser mzneo %}</td><td>{% rauser OyakruTerhu %}</td><td>{% rauser Retrozappa %}</td><td>{% rauser panjandrm %}</td><td>{% rauser Pariah01 %}</td></tr>
+        <tr><td>{% rauser pedro1996 %}</td><td>{% rauser vermilioncannibar %}</td><td>{% rauser Rom13 %}</td><td>{% rauser Romgona %}</td><td>{% rauser Rubymaster %}</td></tr>
         <tr><td>{% rauser russelld %}</td><td>{% rauser Scoovy %}</td><td>{% rauser seant4427 %}</td><td>{% rauser SomethingNeu %}</td><td>{% rauser sorghe %}</td></tr>
         <tr><td>{% rauser theyyun %}</td><td>{% rauser tinyviolet %}</td><td>{% rauser tipokot %}</td><td>{% rauser Underhungship9 %}</td><td>{% rauser upoke3 %}</td></tr>
-        <tr><td>{% rauser xKRAUSER33x %}</td><td>{% rauser xxmagnoxx123 %}</td><td>{% rauser yellenaja %}</td><td>{% rauser Ztrit %}</td><td>{% rauser Boris99 %}</td></tr>
+        <tr><td>{% rauser xKRAUSER33x %}</td><td>{% rauser xxmagnoxx123 %}</td><td>{% rauser TrulyTragic %}</td><td>{% rauser Ztrit %}</td><td>{% rauser Boris99 %}</td></tr>
         <tr><td>{% rauser breddie %}</td><td>{% rauser CheMan %}</td><td>{% rauser crowic %}</td><td>{% rauser DwaynePowers %}</td><td>{% rauser entrer0 %}</td></tr>
-        <tr><td>{% rauser EuphoricLemon %}</td><td>{% rauser Gabbe0411 %}</td><td>{% rauser Helixunebula %}</td><td>{% rauser Ivanildo %}</td><td>{% rauser kahukura %}</td></tr>
+        <tr><td>{% rauser SmoothCanadianEgg %}</td><td>{% rauser Gabbe0 %}</td><td>{% rauser Helixunebula %}</td><td>{% rauser Ivanildo %}</td><td>{% rauser kahukura %}</td></tr>
         <tr><td>{% rauser MrVhite %}</td><td>{% rauser Odedy %}</td><td>{% rauser Peaceall %}</td><td>{% rauser PROPLAYEN %}</td><td>{% rauser retroRAT %}</td></tr>
         <tr><td>{% rauser Shemp %}</td><td>{% rauser Sinnerboy89 %}</td><td>{% rauser slammu %}</td><td>{% rauser sodalicious %}</td><td>{% rauser Spoof1234 %}</td></tr>
-        <tr><td>{% rauser SukydaLosy %}</td><td>{% rauser t3hguitarman %}</td><td>{% rauser ThugitMcNugget %}</td><td>{% rauser UltimateJo5hua %}</td><td>{% rauser WeeGeeGaming %}</td></tr>
+        <tr><td>{% rauser Sukyy %}</td><td>{% rauser Joontendo %}</td><td>{% rauser ThugitMcNugget %}</td><td>{% rauser UltimateJo5hua %}</td><td>{% rauser BigBossGaming %}</td></tr>
         <tr><td>{% rauser Wingsofjupiter %}</td><td>{% rauser Aestysu %}</td><td>{% rauser ahmedxlto %}</td><td>{% rauser AlexeyOrlenkov %}</td><td>{% rauser AngelOfEphesus %}</td></tr>
         <tr><td>{% rauser ArkXela %}</td><td>{% rauser arthuralexandrovich %}</td><td>{% rauser BEERMAN %}</td><td>{% rauser Brogueyy %}</td><td>{% rauser danielchang395 %}</td></tr>
         <tr><td>{% rauser GunSush %}</td><td>{% rauser HoshiDRyu %}</td><td>{% rauser JacobGmaer %}</td><td>{% rauser JDRetro %}</td><td>{% rauser Jerkin18 %}</td></tr>
@@ -582,122 +582,122 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser NimbusSpark %}</td><td>{% rauser Ogman511 %}</td><td>{% rauser Orbilion %}</td><td>{% rauser Rand0m %}</td><td>{% rauser redroyalty03 %}</td></tr>
         <tr><td>{% rauser RevolutionaryWhale %}</td><td>{% rauser rosariovonli %}</td><td>{% rauser ryuzakixALT %}</td><td>{% rauser sammy2870 %}</td><td>{% rauser snilloc23 %}</td></tr>
         <tr><td>{% rauser vavadix %}</td><td>{% rauser Vemon %}</td><td>{% rauser Volfield %}</td><td>{% rauser YoNoddy %}</td><td>{% rauser angel9897 %}</td></tr>
-        <tr><td>{% rauser arjones67 %}</td><td>{% rauser Arrium %}</td><td>{% rauser Cameps %}</td><td>{% rauser Cyantrunks %}</td><td>{% rauser Dango360 %}</td></tr>
+        <tr><td>{% rauser arjones67 %}</td><td>{% rauser Arrium %}</td><td>{% rauser Cameps %}</td><td>{% rauser ZatFrog %}</td><td>{% rauser Dango360 %}</td></tr>
         <tr><td>{% rauser DAZwonder28 %}</td><td>{% rauser fantasmaazul %}</td><td>{% rauser ghosttovvn %}</td><td>{% rauser JDsHideout %}</td><td>{% rauser joebob %}</td></tr>
-        <tr><td>{% rauser JTGreat %}</td><td>{% rauser Jude99 %}</td><td>{% rauser julianlightfellow %}</td><td>{% rauser Karlottezz %}</td><td>{% rauser MonolithBK %}</td></tr>
+        <tr><td>{% rauser JTGreat %}</td><td>{% rauser Jude99 %}</td><td>{% rauser julianlightfellow %}</td><td>{% rauser Karlottezz %}</td><td>{% rauser HWMK13 %}</td></tr>
         <tr><td>{% rauser NepGlaceon %}</td><td>{% rauser NioGoat %}</td><td>{% rauser PinballWizardBMR %}</td><td>{% rauser Pineboy %}</td><td>{% rauser RALFF %}</td></tr>
-        <tr><td>{% rauser S3V1ET %}</td><td>{% rauser saltydkdan %}</td><td>{% rauser Smartinoaj %}</td><td>{% rauser spa91 %}</td><td>{% rauser SpecQQ %}</td></tr>
+        <tr><td>{% rauser S3V1ET %}</td><td>{% rauser saltydkdan %}</td><td>{% rauser Zynlar %}</td><td>{% rauser MRxFOXHOUND %}</td><td>{% rauser SpecQQ %}</td></tr>
         <tr><td>{% rauser Spoogle %}</td><td>{% rauser StellaCalypso %}</td><td>{% rauser Strockso %}</td><td>{% rauser agreenchair %}</td><td>{% rauser AnunGuy %}</td></tr>
         <tr><td>{% rauser AzureAegis %}</td><td>{% rauser baranork %}</td><td>{% rauser boringplum %}</td><td>{% rauser Bronson15 %}</td><td>{% rauser ColonOnFire %}</td></tr>
         <tr><td>{% rauser ConvertedSegaFan %}</td><td>{% rauser cormanosafadao %}</td><td>{% rauser dexleeon %}</td><td>{% rauser Edsquire %}</td><td>{% rauser GDasher572 %}</td></tr>
-        <tr><td>{% rauser Goldphnx %}</td><td>{% rauser GreatJusticeZig %}</td><td>{% rauser GTOOver %}</td><td>{% rauser Ismaelisa2021 %}</td><td>{% rauser jecxjo %}</td></tr>
+        <tr><td>{% rauser Goldphnx %}</td><td>{% rauser GreatJusticeZig %}</td><td>{% rauser GTOOver %}</td><td>{% rauser IsmaelisaRetro %}</td><td>{% rauser jecxjo %}</td></tr>
         <tr><td>{% rauser localmommy %}</td><td>{% rauser mcdermos %}</td><td>{% rauser mynameiscoffey %}</td><td>{% rauser Patboy3000 %}</td><td>{% rauser R00023 %}</td></tr>
         <tr><td>{% rauser Rednax4305 %}</td><td>{% rauser RyukoM %}</td><td>{% rauser Salsupe %}</td><td>{% rauser siriusz %}</td><td>{% rauser SlayerzNZ %}</td></tr>
         <tr><td>{% rauser SNKfan94 %}</td><td>{% rauser Stuhligen %}</td><td>{% rauser summeraino %}</td><td>{% rauser thedarckman %}</td><td>{% rauser valenzalpha %}</td></tr>
-        <tr><td>{% rauser Veinth %}</td><td>{% rauser alborba %}</td><td>{% rauser AquelePao %}</td><td>{% rauser Demigod890 %}</td><td>{% rauser Foreman %}</td></tr>
+        <tr><td>{% rauser Veinth %}</td><td>{% rauser alborba %}</td><td>{% rauser AquelePao %}</td><td>{% rauser DemiSteph %}</td><td>{% rauser Foreman %}</td></tr>
         <tr><td>{% rauser FTWOBR2000 %}</td><td>{% rauser gerne %}</td><td>{% rauser Ginononi %}</td><td>{% rauser Guijamz %}</td><td>{% rauser Haiburiddo %}</td></tr>
-        <tr><td>{% rauser HenryHomesweet %}</td><td>{% rauser ImOctavius %}</td><td>{% rauser johannalves %}</td><td>{% rauser Jtastic %}</td><td>{% rauser okmaster92 %}</td></tr>
+        <tr><td>{% rauser HenryHomesweet %}</td><td>{% rauser ImOctavius %}</td><td>{% rauser alvesjohann %}</td><td>{% rauser Jtastic %}</td><td>{% rauser okmaster92 %}</td></tr>
         <tr><td>{% rauser Pepy95 %}</td><td>{% rauser philosophical %}</td><td>{% rauser ReflectRaid %}</td><td>{% rauser Stormacus %}</td><td>{% rauser Theandroidmeme %}</td></tr>
         <tr><td>{% rauser Vordon %}</td><td>{% rauser Winchester67 %}</td><td>{% rauser Yaro99 %}</td><td>{% rauser alvarock70 %}</td><td>{% rauser Exaclaw %}</td></tr>
-        <tr><td>{% rauser Ghostaker12 %}</td><td>{% rauser goofyahh %}</td><td>{% rauser GreenMegalodon %}</td><td>{% rauser groolmeister %}</td><td>{% rauser inatimate %}</td></tr>
+        <tr><td>{% rauser Ghostaker12 %}</td><td>{% rauser Zelenskyj420 %}</td><td>{% rauser GreenMegalodon %}</td><td>{% rauser groolmeister %}</td><td>{% rauser inatimate %}</td></tr>
         <tr><td>{% rauser jjwmezun %}</td><td>{% rauser JoeBerlocher %}</td><td>{% rauser jontonsoup %}</td><td>{% rauser Keropon %}</td><td>{% rauser LunacyTony %}</td></tr>
         <tr><td>{% rauser moditorsen %}</td><td>{% rauser Nyx2115 %}</td><td>{% rauser PowerXBlue %}</td><td>{% rauser PSYCOMMUnist %}</td><td>{% rauser regam %}</td></tr>
         <tr><td>{% rauser Rwolf %}</td><td>{% rauser SquallLionhart %}</td><td>{% rauser srshinsaw %}</td><td>{% rauser thisisdog %}</td><td>{% rauser TTTTT %}</td></tr>
-        <tr><td>{% rauser VXA2000 %}</td><td>{% rauser Yeza %}</td><td>{% rauser BubbleLitten %}</td><td>{% rauser casperboots %}</td><td>{% rauser chocolatecheddar %}</td></tr>
+        <tr><td>{% rauser VXA1PSTART %}</td><td>{% rauser Yeza %}</td><td>{% rauser BubbleLitten %}</td><td>{% rauser casperboots %}</td><td>{% rauser chocolatecheddar %}</td></tr>
         <tr><td>{% rauser deadman805 %}</td><td>{% rauser GolfistaVW %}</td><td>{% rauser Hildner32 %}</td><td>{% rauser JakeTheSilent %}</td><td>{% rauser Loic290793 %}</td></tr>
         <tr><td>{% rauser MonkeyBrainGoBrrrrr %}</td><td>{% rauser Morgahonahon %}</td><td>{% rauser NuSchGraL %}</td><td>{% rauser Poixer %}</td><td>{% rauser PopsGhostly %}</td></tr>
-        <tr><td>{% rauser RamboCris %}</td><td>{% rauser Rocktra %}</td><td>{% rauser rwesterman4 %}</td><td>{% rauser Sauro %}</td><td>{% rauser sawmxker %}</td></tr>
+        <tr><td>{% rauser RamboCris %}</td><td>{% rauser Rocktra %}</td><td>{% rauser rwesterman4 %}</td><td>{% rauser Excells %}</td><td>{% rauser sawmxker %}</td></tr>
         <tr><td>{% rauser Vesper37 %}</td><td>{% rauser WetBandAid %}</td><td>{% rauser Xelrog %}</td><td>{% rauser yellerdoesntexist %}</td><td>{% rauser Albg1 %}</td></tr>
         <tr><td>{% rauser Alh409 %}</td><td>{% rauser bosbor %}</td><td>{% rauser BraedenH2O %}</td><td>{% rauser BranchRamps %}</td><td>{% rauser Chillmore %}</td></tr>
-        <tr><td>{% rauser Crawf1987 %}</td><td>{% rauser csdeathmatch %}</td><td>{% rauser Epicmonkie %}</td><td>{% rauser fishapples %}</td><td>{% rauser Geeovanny %}</td></tr>
-        <tr><td>{% rauser GeracaoAndroid %}</td><td>{% rauser Katrina %}</td><td>{% rauser MWMorais %}</td><td>{% rauser NinjaPotato53 %}</td><td>{% rauser Runswithsheep %}</td></tr>
+        <tr><td>{% rauser Crawf1987 %}</td><td>{% rauser N4pstr %}</td><td>{% rauser Epicmonkie %}</td><td>{% rauser fishapples %}</td><td>{% rauser Geeovanny %}</td></tr>
+        <tr><td>{% rauser GeracaoAndroid %}</td><td>{% rauser Irisita %}</td><td>{% rauser MWMorais %}</td><td>{% rauser NinjaPotato53 %}</td><td>{% rauser Runswithsheep %}</td></tr>
         <tr><td>{% rauser SailorMoon797 %}</td><td>{% rauser SimonDiamond %}</td><td>{% rauser tequilatango %}</td><td>{% rauser THAQT1P %}</td><td>{% rauser TheWorstLetter %}</td></tr>
         <tr><td>{% rauser xanax %}</td><td>{% rauser XSunCheZX %}</td><td>{% rauser 2nami %}</td><td>{% rauser astralsleep %}</td><td>{% rauser Balcsi %}</td></tr>
         <tr><td>{% rauser Bigcrush338 %}</td><td>{% rauser Chicho %}</td><td>{% rauser Combat627 %}</td><td>{% rauser DaCookie %}</td><td>{% rauser DizzyEevee %}</td></tr>
         <tr><td>{% rauser eduguest %}</td><td>{% rauser Feign %}</td><td>{% rauser GuilzinX %}</td><td>{% rauser hiori %}</td><td>{% rauser humberlandia %}</td></tr>
-        <tr><td>{% rauser JollyGood02 %}</td><td>{% rauser Jona2591 %}</td><td>{% rauser Kombatking64 %}</td><td>{% rauser LemyAtom %}</td><td>{% rauser Mious %}</td></tr>
-        <tr><td>{% rauser MrSteJ %}</td><td>{% rauser mTzin %}</td><td>{% rauser Nekomax %}</td><td>{% rauser nickls2002 %}</td><td>{% rauser Pacofication %}</td></tr>
+        <tr><td>{% rauser JollyGood02 %}</td><td>{% rauser Jona2591 %}</td><td>{% rauser Kombatking64 %}</td><td>{% rauser JonathanWG %}</td><td>{% rauser Miuss %}</td></tr>
+        <tr><td>{% rauser MrSteJ %}</td><td>{% rauser mTzCost %}</td><td>{% rauser Nekomax %}</td><td>{% rauser nickls2002 %}</td><td>{% rauser Pacofication %}</td></tr>
         <tr><td>{% rauser PocketPyro %}</td><td>{% rauser RetroHatchievements %}</td><td>{% rauser Rhodey %}</td><td>{% rauser schwem %}</td><td>{% rauser simplegamingdad %}</td></tr>
-        <tr><td>{% rauser SloJohnGenesis %}</td><td>{% rauser Steven92300 %}</td><td>{% rauser SuperDflame %}</td><td>{% rauser TheQuiotRiot %}</td><td>{% rauser Therefore %}</td></tr>
+        <tr><td>{% rauser JohnGenesis78 %}</td><td>{% rauser Steven92300 %}</td><td>{% rauser SuperDflame %}</td><td>{% rauser TheQuiotRiot %}</td><td>{% rauser Therefore %}</td></tr>
         <tr><td>{% rauser Transist0r7 %}</td><td>{% rauser Trigold97 %}</td><td>{% rauser WRElement %}</td><td>{% rauser zapato %}</td><td>{% rauser AbstractFeel %}</td></tr>
-        <tr><td>{% rauser Auros %}</td><td>{% rauser Barrettorbix %}</td><td>{% rauser blackrook29 %}</td><td>{% rauser Cloverbot %}</td><td>{% rauser Covikt %}</td></tr>
+        <tr><td>{% rauser Auros %}</td><td>{% rauser Torbix %}</td><td>{% rauser stephenhopkins1988 %}</td><td>{% rauser Cloverbot %}</td><td>{% rauser Covikt %}</td></tr>
         <tr><td>{% rauser Daff4K %}</td><td>{% rauser dkieffer %}</td><td>{% rauser eindoc %}</td><td>{% rauser Engmaste %}</td><td>{% rauser Gemma %}</td></tr>
-        <tr><td>{% rauser guz21 %}</td><td>{% rauser hendyp9758 %}</td><td>{% rauser hylices %}</td><td>{% rauser HyoAsdasx14 %}</td><td>{% rauser Jeff895 %}</td></tr>
+        <tr><td>{% rauser 00guz %}</td><td>{% rauser hendyp9758 %}</td><td>{% rauser uboa %}</td><td>{% rauser HyoAsdasx14 %}</td><td>{% rauser Jeff895 %}</td></tr>
         <tr><td>{% rauser Kdp2012 %}</td><td>{% rauser KenjaMago %}</td><td>{% rauser KoolyRamonBuenas20 %}</td><td>{% rauser MagicSeb %}</td><td>{% rauser marmarton %}</td></tr>
         <tr><td>{% rauser MegaGoat %}</td><td>{% rauser MiniSebrango %}</td><td>{% rauser MrMadMothy %}</td><td>{% rauser NEOVENISE %}</td><td>{% rauser Plasteristic %}</td></tr>
         <tr><td>{% rauser SectionVR %}</td><td>{% rauser Skeletor7x %}</td><td>{% rauser Sussywuzhere %}</td><td>{% rauser sweetSol %}</td><td>{% rauser TapW %}</td></tr>
-        <tr><td>{% rauser ThunderousFolf %}</td><td>{% rauser VictorStone1 %}</td><td>{% rauser walle35 %}</td><td>{% rauser 1911 %}</td><td>{% rauser BaenjiTrumpet %}</td></tr>
-        <tr><td>{% rauser Bentasy %}</td><td>{% rauser blasty19941 %}</td><td>{% rauser born4thefight %}</td><td>{% rauser chumbkt %}</td><td>{% rauser CrimsonKaiX %}</td></tr>
-        <tr><td>{% rauser criptycdot %}</td><td>{% rauser Deviaphan %}</td><td>{% rauser Gmendes %}</td><td>{% rauser Heimies777 %}</td><td>{% rauser iabereii %}</td></tr>
-        <tr><td>{% rauser JaumLima %}</td><td>{% rauser KAWDROGO %}</td><td>{% rauser Keith1265 %}</td><td>{% rauser LeandroRJ %}</td><td>{% rauser LEGAIAN %}</td></tr>
-        <tr><td>{% rauser mackroobyte %}</td><td>{% rauser Nadim74 %}</td><td>{% rauser netovl %}</td><td>{% rauser NicolBolas %}</td><td>{% rauser Pidgey %}</td></tr>
+        <tr><td>{% rauser ThunderousFolf %}</td><td>{% rauser CaptainRedbeard1 %}</td><td>{% rauser walle35 %}</td><td>{% rauser 1911 %}</td><td>{% rauser BaenjiTrumpet %}</td></tr>
+        <tr><td>{% rauser FinalBENntasy %}</td><td>{% rauser blasty19941 %}</td><td>{% rauser born4thefight %}</td><td>{% rauser chumbkt %}</td><td>{% rauser CrimsonKaiX %}</td></tr>
+        <tr><td>{% rauser criptycdot %}</td><td>{% rauser Deviaphan %}</td><td>{% rauser Gmendes %}</td><td>{% rauser Heimies777 %}</td><td>{% rauser Ginno2006 %}</td></tr>
+        <tr><td>{% rauser JaumLima %}</td><td>{% rauser Bolsominionsgamer %}</td><td>{% rauser Turbografx16 %}</td><td>{% rauser LeandroRJ %}</td><td>{% rauser LEGAIAN %}</td></tr>
+        <tr><td>{% rauser mackroobyte %}</td><td>{% rauser Nadim74 %}</td><td>{% rauser netovl %}</td><td>{% rauser xHeataFajita %}</td><td>{% rauser Pidgey %}</td></tr>
         <tr><td>{% rauser prettymf %}</td><td>{% rauser RotaRy %}</td><td>{% rauser SteakEater %}</td><td>{% rauser TakaNori %}</td><td>{% rauser Unusualwale %}</td></tr>
         <tr><td>{% rauser Wesleythedog %}</td><td>{% rauser xRainmakerRSx %}</td><td>{% rauser Youngie03 %}</td><td>{% rauser AaronoftheAbyss %}</td><td>{% rauser Anchoas %}</td></tr>
         <tr><td>{% rauser augustoxo %}</td><td>{% rauser Becca %}</td><td>{% rauser BlindNostalgia %}</td><td>{% rauser Briardogg %}</td><td>{% rauser catzmash %}</td></tr>
-        <tr><td>{% rauser Charlie1896 %}</td><td>{% rauser claudioycarlos %}</td><td>{% rauser CrashWing %}</td><td>{% rauser CtPhantomXD %}</td><td>{% rauser dankrez1 %}</td></tr>
+        <tr><td>{% rauser CharlieBaltao2 %}</td><td>{% rauser claudioycarlos %}</td><td>{% rauser CrashWing %}</td><td>{% rauser CtPhantomXD %}</td><td>{% rauser Omniscronchulon %}</td></tr>
         <tr><td>{% rauser davidnaitor %}</td><td>{% rauser DemonDraye %}</td><td>{% rauser fetuchini %}</td><td>{% rauser GamingR %}</td><td>{% rauser gibmar1 %}</td></tr>
-        <tr><td>{% rauser gU0100 %}</td><td>{% rauser Guilty %}</td><td>{% rauser Gurndalf %}</td><td>{% rauser Hellbeast126 %}</td><td>{% rauser jasonowen %}</td></tr>
-        <tr><td>{% rauser JuanBaez %}</td><td>{% rauser Kv4Loh %}</td><td>{% rauser mamarallen %}</td><td>{% rauser Mozasvit %}</td><td>{% rauser Murloc4353884 %}</td></tr>
+        <tr><td>{% rauser gU0100 %}</td><td>{% rauser Guilty %}</td><td>{% rauser Gurndalf %}</td><td>{% rauser SolaireTheSun %}</td><td>{% rauser jasonowen %}</td></tr>
+        <tr><td>{% rauser NoobFighter %}</td><td>{% rauser KoenMa %}</td><td>{% rauser mamarallen %}</td><td>{% rauser Mozasvit %}</td><td>{% rauser Murloc4353884 %}</td></tr>
         <tr><td>{% rauser myobi %}</td><td>{% rauser NamelessAshen %}</td><td>{% rauser nougatpng %}</td><td>{% rauser pato007 %}</td><td>{% rauser Pichu75 %}</td></tr>
         <tr><td>{% rauser RastreadorDePlatinas %}</td><td>{% rauser retroraven64 %}</td><td>{% rauser RPGguy52 %}</td><td>{% rauser sefhighwind %}</td><td>{% rauser Tiwdor %}</td></tr>
         <tr><td>{% rauser vitorsvt %}</td><td>{% rauser youvebeennamed %}</td><td>{% rauser Bananoa %}</td><td>{% rauser BlackTearDrop %}</td><td>{% rauser Distexx %}</td></tr>
-        <tr><td>{% rauser electrona %}</td><td>{% rauser Enderman7185 %}</td><td>{% rauser Ergot %}</td><td>{% rauser LordSaint64 %}</td><td>{% rauser MindingoRebelde %}</td></tr>
+        <tr><td>{% rauser ThatIsNeat %}</td><td>{% rauser Enderman7185 %}</td><td>{% rauser Ergot %}</td><td>{% rauser LordSaint64 %}</td><td>{% rauser MindingoRebelde %}</td></tr>
         <tr><td>{% rauser OddBallin %}</td><td>{% rauser OnlyXGamer %}</td><td>{% rauser other909 %}</td><td>{% rauser Patchuiko %}</td><td>{% rauser prestocube %}</td></tr>
-        <tr><td>{% rauser RickettsJr %}</td><td>{% rauser rustgarde %}</td><td>{% rauser Sgoc %}</td><td>{% rauser skemuno %}</td><td>{% rauser SonicBR2008 %}</td></tr>
+        <tr><td>{% rauser RickettsJr %}</td><td>{% rauser Zaldyn %}</td><td>{% rauser Sgoc %}</td><td>{% rauser Skemz %}</td><td>{% rauser SonicBR2008 %}</td></tr>
         <tr><td>{% rauser yemzez %}</td><td>{% rauser AlexanderFreeman %}</td><td>{% rauser APelsinov %}</td><td>{% rauser BluLevant %}</td><td>{% rauser bwalker5775 %}</td></tr>
         <tr><td>{% rauser ciat3516 %}</td><td>{% rauser Cool2Smart %}</td><td>{% rauser Danimal471 %}</td><td>{% rauser dantepicasso %}</td><td>{% rauser Delgus %}</td></tr>
         <tr><td>{% rauser emrick111 %}</td><td>{% rauser gjjsp %}</td><td>{% rauser kodskrivaren %}</td><td>{% rauser leostark %}</td><td>{% rauser MarioRPG %}</td></tr>
         <tr><td>{% rauser Meremorem %}</td><td>{% rauser mountainbadger64 %}</td><td>{% rauser NeoSnoopy %}</td><td>{% rauser ParadoxSilverwood %}</td><td>{% rauser Pika66 %}</td></tr>
-        <tr><td>{% rauser Randy898900 %}</td><td>{% rauser rulebreaker0 %}</td><td>{% rauser SheeYu %}</td><td>{% rauser SlavaM %}</td><td>{% rauser SnapKick %}</td></tr>
+        <tr><td>{% rauser RandyJosephNg %}</td><td>{% rauser rulebreaker0 %}</td><td>{% rauser SheeYu %}</td><td>{% rauser SlavaM %}</td><td>{% rauser SnapKick %}</td></tr>
         <tr><td>{% rauser Venocty %}</td><td>{% rauser Wh1sky %}</td><td>{% rauser Zeta64 %}</td><td>{% rauser Arak1 %}</td><td>{% rauser Battlepantsu %}</td></tr>
         <tr><td>{% rauser CleggaZ %}</td><td>{% rauser CrimsonRenji %}</td><td>{% rauser Dyson %}</td><td>{% rauser flowershroud %}</td><td>{% rauser imklubb %}</td></tr>
         <tr><td>{% rauser JTG1980 %}</td><td>{% rauser Kaxarus %}</td><td>{% rauser KeithTheGeek %}</td><td>{% rauser Lynch7 %}</td><td>{% rauser mesosfear %}</td></tr>
         <tr><td>{% rauser nopeaceatall %}</td><td>{% rauser ogmandias %}</td><td>{% rauser panteo92 %}</td><td>{% rauser pengd0t %}</td><td>{% rauser Petros11231 %}</td></tr>
-        <tr><td>{% rauser RandomCarl %}</td><td>{% rauser ReduxRichy %}</td><td>{% rauser TheGusst2Gamer %}</td><td>{% rauser tognetti %}</td><td>{% rauser Abecale %}</td></tr>
+        <tr><td>{% rauser RandomCarl %}</td><td>{% rauser ProjectRichy %}</td><td>{% rauser TheGusst2Gamer %}</td><td>{% rauser tognetti %}</td><td>{% rauser Abecale %}</td></tr>
         <tr><td>{% rauser alexkiddscastle %}</td><td>{% rauser CecilFlanter %}</td><td>{% rauser dasc2000 %}</td><td>{% rauser derekdagwood %}</td><td>{% rauser devildantexd123 %}</td></tr>
-        <tr><td>{% rauser explosiontyphlosion %}</td><td>{% rauser GangCorp %}</td><td>{% rauser gaogao %}</td><td>{% rauser Geusen %}</td><td>{% rauser gloopyzoop %}</td></tr>
-        <tr><td>{% rauser Justifis %}</td><td>{% rauser Kamon137 %}</td><td>{% rauser Kazezo %}</td><td>{% rauser Kneazie %}</td><td>{% rauser MajesticPanda89 %}</td></tr>
-        <tr><td>{% rauser nuzhn1y %}</td><td>{% rauser NyddotBR %}</td><td>{% rauser PriddhasPengu %}</td><td>{% rauser PRZ2K0 %}</td><td>{% rauser RetroGamingPro2023 %}</td></tr>
-        <tr><td>{% rauser Stoeps %}</td><td>{% rauser Symtux %}</td><td>{% rauser TurboPingouin %}</td><td>{% rauser vgsbass %}</td><td>{% rauser Aichi95 %}</td></tr>
+        <tr><td>{% rauser NoLuvMini %}</td><td>{% rauser GangCorp %}</td><td>{% rauser gaogao %}</td><td>{% rauser Geusen %}</td><td>{% rauser gloopyzoop %}</td></tr>
+        <tr><td>{% rauser Justifis %}</td><td>{% rauser Kamon137 %}</td><td>{% rauser Kazezo %}</td><td>{% rauser Spookys %}</td><td>{% rauser MajesticPanda89 %}</td></tr>
+        <tr><td>{% rauser pirdyxa %}</td><td>{% rauser WpxKarllos %}</td><td>{% rauser PriddTheNoodle %}</td><td>{% rauser PRZ2K0 %}</td><td>{% rauser RetroGamingPro2023 %}</td></tr>
+        <tr><td>{% rauser Stoeps %}</td><td>{% rauser Symtux %}</td><td>{% rauser TurboPingouin %}</td><td>{% rauser VicGavlan %}</td><td>{% rauser Aichi95 %}</td></tr>
         <tr><td>{% rauser Breakdown32 %}</td><td>{% rauser Cheeroborn %}</td><td>{% rauser d8st1y %}</td><td>{% rauser DaBirb %}</td><td>{% rauser eataninja %}</td></tr>
         <tr><td>{% rauser Feistygandhi %}</td><td>{% rauser fruitshootman %}</td><td>{% rauser Gundorado %}</td><td>{% rauser JGC17 %}</td><td>{% rauser Krautman %}</td></tr>
-        <tr><td>{% rauser linxsexe %}</td><td>{% rauser lordbizarrluis %}</td><td>{% rauser Marx64 %}</td><td>{% rauser MethMoth %}</td><td>{% rauser monosector %}</td></tr>
+        <tr><td>{% rauser linxsexe %}</td><td>{% rauser lordbizarrluis %}</td><td>{% rauser Maglarx64 %}</td><td>{% rauser OjamaBlack %}</td><td>{% rauser monosector %}</td></tr>
         <tr><td>{% rauser MoozipanCheese %}</td><td>{% rauser NachosNachos %}</td><td>{% rauser nagatomybeloved %}</td><td>{% rauser Norkusa %}</td><td>{% rauser PuriPeri %}</td></tr>
         <tr><td>{% rauser RexO %}</td><td>{% rauser ShockwaveTLS %}</td><td>{% rauser Sk4rm %}</td><td>{% rauser Wolfina2 %}</td><td>{% rauser Xirbtt %}</td></tr>
         <tr><td>{% rauser 47alphatango %}</td><td>{% rauser Badegamuz %}</td><td>{% rauser Bina %}</td><td>{% rauser BRNINBODIEZ %}</td><td>{% rauser CypherDYez %}</td></tr>
-        <tr><td>{% rauser DrawnByAj %}</td><td>{% rauser EmbryND %}</td><td>{% rauser J03L %}</td><td>{% rauser Jkwerg %}</td><td>{% rauser juhweetwelwiE %}</td></tr>
+        <tr><td>{% rauser DrawnByAj %}</td><td>{% rauser EmbryND %}</td><td>{% rauser jo3L %}</td><td>{% rauser Jkwerg %}</td><td>{% rauser juhweetwelwiE %}</td></tr>
         <tr><td>{% rauser Justst10 %}</td><td>{% rauser LAS4GNA %}</td><td>{% rauser MaybeMeowth %}</td><td>{% rauser OldKnavey %}</td><td>{% rauser Paragleiber %}</td></tr>
-        <tr><td>{% rauser PellicanoIST %}</td><td>{% rauser quantumnothing %}</td><td>{% rauser RoseSnow %}</td><td>{% rauser Sevenlovelywaifu %}</td><td>{% rauser teddy587 %}</td></tr>
+        <tr><td>{% rauser PellicanoIST %}</td><td>{% rauser quantumnothing %}</td><td>{% rauser RoseArchangel %}</td><td>{% rauser Sevenlovelywaifu %}</td><td>{% rauser teddy587 %}</td></tr>
         <tr><td>{% rauser zensationalist %}</td><td>{% rauser 151Dreemurr %}</td><td>{% rauser authorblues %}</td><td>{% rauser Azirad %}</td><td>{% rauser Babberoni %}</td></tr>
         <tr><td>{% rauser benjadosmil %}</td><td>{% rauser Bfram02 %}</td><td>{% rauser Bologna %}</td><td>{% rauser Borvilya %}</td><td>{% rauser Brostradamus %}</td></tr>
         <tr><td>{% rauser caim127 %}</td><td>{% rauser CherryBomb %}</td><td>{% rauser Chlorum %}</td><td>{% rauser Corndogette %}</td><td>{% rauser DenisFaria %}</td></tr>
-        <tr><td>{% rauser DigitalSyntax7 %}</td><td>{% rauser DocInsaneTM %}</td><td>{% rauser Dykrow %}</td><td>{% rauser Elitepotatoz %}</td><td>{% rauser euphor1a %}</td></tr>
-        <tr><td>{% rauser fritz66 %}</td><td>{% rauser heshnath %}</td><td>{% rauser Hgn91 %}</td><td>{% rauser leapfrog %}</td><td>{% rauser MINTEQUE123 %}</td></tr>
+        <tr><td>{% rauser DigitalSyntax7 %}</td><td>{% rauser DocInsaneTM %}</td><td>{% rauser Denorak %}</td><td>{% rauser Elitepotatoz %}</td><td>{% rauser euphor1a %}</td></tr>
+        <tr><td>{% rauser inglish %}</td><td>{% rauser heshnath %}</td><td>{% rauser Hgn91 %}</td><td>{% rauser leapfrog %}</td><td>{% rauser MlNTEQUE %}</td></tr>
         <tr><td>{% rauser mrtipper %}</td><td>{% rauser Noridz %}</td><td>{% rauser RetroReplay %}</td><td>{% rauser SerKanra %}</td><td>{% rauser Squaroli %}</td></tr>
         <tr><td>{% rauser TetrAZLD %}</td><td>{% rauser TonkRogerio %}</td><td>{% rauser Tyden %}</td><td>{% rauser whscott02 %}</td><td>{% rauser YoungFlexerOG %}</td></tr>
 </table>
 <br>
 <table>
     <thead><tr><th colspan="5">2 Years (2024) - 1,660 Members</th></tr></thead>
-        <tr><td>{% rauser AdrixCora82 %}</td><td>{% rauser alcmekmc %}</td><td>{% rauser ArchSorcerer %}</td><td>{% rauser Ben36 %}</td><td>{% rauser bioxcis %}</td></tr>
+        <tr><td>{% rauser AdrixCora82 %}</td><td>{% rauser alcmekmc %}</td><td>{% rauser ArchSorcerer %}</td><td>{% rauser Jeager36 %}</td><td>{% rauser BiosAxis %}</td></tr>
         <tr><td>{% rauser Bloato %}</td><td>{% rauser BroBoiler %}</td><td>{% rauser Bugbuddy %}</td><td>{% rauser Dr00 %}</td><td>{% rauser EpicScout %}</td></tr>
         <tr><td>{% rauser FoxboySaga %}</td><td>{% rauser fragiskos %}</td><td>{% rauser Frette %}</td><td>{% rauser guiorochi19 %}</td><td>{% rauser heyyyjimmyyy %}</td></tr>
         <tr><td>{% rauser IAmLegion %}</td><td>{% rauser IrumaFafas %}</td><td>{% rauser ItsLinkZX %}</td><td>{% rauser jac1001 %}</td><td>{% rauser Jaybobshow %}</td></tr>
         <tr><td>{% rauser kajobida %}</td><td>{% rauser Kickerton %}</td><td>{% rauser ksnd79 %}</td><td>{% rauser Lordkaiok %}</td><td>{% rauser Lostontheinternet %}</td></tr>
         <tr><td>{% rauser Mat1590 %}</td><td>{% rauser maxed %}</td><td>{% rauser Mayoboi64 %}</td><td>{% rauser MoxyFFXI %}</td><td>{% rauser Mrcapi122 %}</td></tr>
-        <tr><td>{% rauser NehiChao %}</td><td>{% rauser RasitMirac %}</td><td>{% rauser RetroGamer4013 %}</td><td>{% rauser Robced %}</td><td>{% rauser robinhue %}</td></tr>
-        <tr><td>{% rauser ronswussiev %}</td><td>{% rauser S3AIR %}</td><td>{% rauser Stardust15 %}</td><td>{% rauser Taomage %}</td><td>{% rauser Trixelian %}</td></tr>
+        <tr><td>{% rauser NehiChao %}</td><td>{% rauser rasmi %}</td><td>{% rauser RetroGamer4013 %}</td><td>{% rauser Robced %}</td><td>{% rauser robinhue %}</td></tr>
+        <tr><td>{% rauser ronswussiev %}</td><td>{% rauser HyperRush %}</td><td>{% rauser Stardust15 %}</td><td>{% rauser Taomage %}</td><td>{% rauser Trixelian %}</td></tr>
         <tr><td>{% rauser TwoEyedMike %}</td><td>{% rauser userjb007 %}</td><td>{% rauser veeohla %}</td><td>{% rauser Zalharas %}</td><td>{% rauser Zenq8889 %}</td></tr>
         <tr><td>{% rauser Aaquist %}</td><td>{% rauser adb62790 %}</td><td>{% rauser Alecsandro147 %}</td><td>{% rauser AlsaceAlexander %}</td><td>{% rauser Azucarita %}</td></tr>
         <tr><td>{% rauser Bangpulse %}</td><td>{% rauser BladeLS22 %}</td><td>{% rauser BustyBabyBacon %}</td><td>{% rauser CAIQUETLX %}</td><td>{% rauser CrisMelga %}</td></tr>
         <tr><td>{% rauser dindorrick %}</td><td>{% rauser dripbacon %}</td><td>{% rauser dsz2011 %}</td><td>{% rauser Dylpickle %}</td><td>{% rauser eggseventy %}</td></tr>
-        <tr><td>{% rauser Expurgadomaybem %}</td><td>{% rauser ffernando %}</td><td>{% rauser HipHopHead %}</td><td>{% rauser Hugo1130 %}</td><td>{% rauser Hykahx %}</td></tr>
+        <tr><td>{% rauser Expurgadomaybem %}</td><td>{% rauser ffernando %}</td><td>{% rauser HipHopHead %}</td><td>{% rauser Justin1 %}</td><td>{% rauser Hykahx %}</td></tr>
         <tr><td>{% rauser jakace %}</td><td>{% rauser kayceegames %}</td><td>{% rauser KhaoticIntent %}</td><td>{% rauser knnstradamus %}</td><td>{% rauser Leeonia %}</td></tr>
         <tr><td>{% rauser MarcosSR %}</td><td>{% rauser MysticAkito %}</td><td>{% rauser myxomatosis12 %}</td><td>{% rauser Ninjacrowl %}</td><td>{% rauser RalPlayz %}</td></tr>
         <tr><td>{% rauser Rashin %}</td><td>{% rauser ruryk %}</td><td>{% rauser Slhoavnee %}</td><td>{% rauser Sprashbandicoot %}</td><td>{% rauser TheUskies %}</td></tr>
         <tr><td>{% rauser Veeghha %}</td><td>{% rauser Vegitomui40812 %}</td><td>{% rauser Wallnutz %}</td><td>{% rauser XThanatosX %}</td><td>{% rauser AJDrako %}</td></tr>
         <tr><td>{% rauser Baez %}</td><td>{% rauser Bagelslayer %}</td><td>{% rauser brewski %}</td><td>{% rauser CrispDemon %}</td><td>{% rauser CygnusXv %}</td></tr>
-        <tr><td>{% rauser CyrusTrentUK %}</td><td>{% rauser ElCocker %}</td><td>{% rauser FranKoizumi %}</td><td>{% rauser Fumoffu %}</td><td>{% rauser Funkygamertine %}</td></tr>
+        <tr><td>{% rauser CyrusTrentUK %}</td><td>{% rauser ElCocker %}</td><td>{% rauser FranKoizumi %}</td><td>{% rauser Fumoffu %}</td><td>{% rauser Funkygamertime %}</td></tr>
         <tr><td>{% rauser FurStriker %}</td><td>{% rauser GapAthenA %}</td><td>{% rauser Gronak007 %}</td><td>{% rauser Howdyitsash %}</td><td>{% rauser InertialPear47 %}</td></tr>
         <tr><td>{% rauser jessejames11 %}</td><td>{% rauser JoeHiYo %}</td><td>{% rauser johnnygerbs %}</td><td>{% rauser KatanaNovaCat %}</td><td>{% rauser Kittendemon %}</td></tr>
         <tr><td>{% rauser KRAENKER208 %}</td><td>{% rauser LostReport %}</td><td>{% rauser mario102026 %}</td><td>{% rauser Mateus1994 %}</td><td>{% rauser MiniJoan %}</td></tr>
@@ -705,53 +705,53 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser psydent %}</td><td>{% rauser Raneetti %}</td><td>{% rauser Rolokobe %}</td><td>{% rauser Sage250 %}</td><td>{% rauser Shinii %}</td></tr>
         <tr><td>{% rauser Souv %}</td><td>{% rauser supacraig21 %}</td><td>{% rauser UltChimi %}</td><td>{% rauser Vonspar %}</td><td>{% rauser vulkansnake %}</td></tr>
         <tr><td>{% rauser WandererPS2 %}</td><td>{% rauser zJayDee %}</td><td>{% rauser AdrianSnake %}</td><td>{% rauser aiaiaiyukito %}</td><td>{% rauser Bigslickmcdick %}</td></tr>
-        <tr><td>{% rauser Bliffy %}</td><td>{% rauser CodemanRyan %}</td><td>{% rauser cradle %}</td><td>{% rauser deadline101 %}</td><td>{% rauser deepsea %}</td></tr>
+        <tr><td>{% rauser Bliffy %}</td><td>{% rauser CodemanRyan %}</td><td>{% rauser cradle %}</td><td>{% rauser MaxPsyCho %}</td><td>{% rauser deepsea %}</td></tr>
         <tr><td>{% rauser DerpCritic %}</td><td>{% rauser Divtrel %}</td><td>{% rauser FayaaNeirda %}</td><td>{% rauser gryphonthegoon %}</td><td>{% rauser HakaishinVegeta0511 %}</td></tr>
-        <tr><td>{% rauser joshvar33 %}</td><td>{% rauser Legado %}</td><td>{% rauser MisaoK %}</td><td>{% rauser MrROBINKONG %}</td><td>{% rauser Muzy %}</td></tr>
-        <tr><td>{% rauser NinjaDwarf %}</td><td>{% rauser notlolly %}</td><td>{% rauser Ph0en1X %}</td><td>{% rauser Platinadormaster %}</td><td>{% rauser PowerGirl %}</td></tr>
+        <tr><td>{% rauser joshvar %}</td><td>{% rauser Legado %}</td><td>{% rauser MisaoK %}</td><td>{% rauser MrROBINKONG %}</td><td>{% rauser Muzy %}</td></tr>
+        <tr><td>{% rauser NinjaDwarf %}</td><td>{% rauser notlolly %}</td><td>{% rauser PinstripeDz7 %}</td><td>{% rauser Platinadormaster %}</td><td>{% rauser PowerGirl %}</td></tr>
         <tr><td>{% rauser PriestlyRainbow %}</td><td>{% rauser Pukefroth %}</td><td>{% rauser Raronth %}</td><td>{% rauser RedScion %}</td><td>{% rauser RetroLucy %}</td></tr>
         <tr><td>{% rauser RoboQui %}</td><td>{% rauser Skywise %}</td><td>{% rauser TellmeJhonna96 %}</td><td>{% rauser VitorNoe %}</td><td>{% rauser w3s7 %}</td></tr>
         <tr><td>{% rauser 612Gucci %}</td><td>{% rauser aetos %}</td><td>{% rauser AHSimon %}</td><td>{% rauser artemisdragmire %}</td><td>{% rauser ashvain %}</td></tr>
         <tr><td>{% rauser ATPsynthase %}</td><td>{% rauser bolacinco7br %}</td><td>{% rauser BragiTheBard %}</td><td>{% rauser Bragma %}</td><td>{% rauser Callan2133 %}</td></tr>
-        <tr><td>{% rauser CooperFair15 %}</td><td>{% rauser CosmicWaffle %}</td><td>{% rauser discordian %}</td><td>{% rauser DuffO22 %}</td><td>{% rauser EdgarNickman %}</td></tr>
+        <tr><td>{% rauser CooperFair16 %}</td><td>{% rauser CosmicWaffle %}</td><td>{% rauser discordian %}</td><td>{% rauser DuffO22 %}</td><td>{% rauser EdgarNickman %}</td></tr>
         <tr><td>{% rauser Firik %}</td><td>{% rauser g00b %}</td><td>{% rauser Genshu %}</td><td>{% rauser GleamTheFox %}</td><td>{% rauser Haddock %}</td></tr>
-        <tr><td>{% rauser JamesPrower5 %}</td><td>{% rauser jingabriel %}</td><td>{% rauser Kitshotgun %}</td><td>{% rauser kverk %}</td><td>{% rauser KyleTheMan4444 %}</td></tr>
+        <tr><td>{% rauser JamesPrower5 %}</td><td>{% rauser jingabriel %}</td><td>{% rauser ChuChews %}</td><td>{% rauser kverk %}</td><td>{% rauser KyleTheMan4444 %}</td></tr>
         <tr><td>{% rauser matukaze %}</td><td>{% rauser msd997 %}</td><td>{% rauser Nalienffxi %}</td><td>{% rauser NinjaGooner %}</td><td>{% rauser NSLoser %}</td></tr>
-        <tr><td>{% rauser oriolpm6 %}</td><td>{% rauser PisforPK %}</td><td>{% rauser playerpoe %}</td><td>{% rauser Rabadasher %}</td><td>{% rauser RandRandom %}</td></tr>
+        <tr><td>{% rauser oriolpm6 %}</td><td>{% rauser retroavid %}</td><td>{% rauser playerpoe %}</td><td>{% rauser Rabadasher %}</td><td>{% rauser RandRandom %}</td></tr>
         <tr><td>{% rauser redead104 %}</td><td>{% rauser Rinomaru %}</td><td>{% rauser Robert7654 %}</td><td>{% rauser seenz %}</td><td>{% rauser Tatsuyaman %}</td></tr>
-        <tr><td>{% rauser UberJaeger %}</td><td>{% rauser wewquew %}</td><td>{% rauser xNehal %}</td><td>{% rauser AKSs %}</td><td>{% rauser Ale1208 %}</td></tr>
-        <tr><td>{% rauser B0uncyh0use1234 %}</td><td>{% rauser Balzweet %}</td><td>{% rauser Bisylizzie %}</td><td>{% rauser Blackb33tle %}</td><td>{% rauser ClownOtter %}</td></tr>
-        <tr><td>{% rauser CropxDust %}</td><td>{% rauser Dargorion2505 %}</td><td>{% rauser DrFeelgood22 %}</td><td>{% rauser DrLiveseyPhonk %}</td><td>{% rauser elcrackelcan %}</td></tr>
-        <tr><td>{% rauser frankvilla %}</td><td>{% rauser FrostKanek %}</td><td>{% rauser GamingFox %}</td><td>{% rauser HeroStar1988 %}</td><td>{% rauser Jerryes %}</td></tr>
+        <tr><td>{% rauser UberJaeger %}</td><td>{% rauser wewquew %}</td><td>{% rauser xNehal %}</td><td>{% rauser xAKSx %}</td><td>{% rauser Trixrats %}</td></tr>
+        <tr><td>{% rauser B0uncyh0use1234 %}</td><td>{% rauser Balzweet %}</td><td>{% rauser Bisylizzie %}</td><td>{% rauser Blackb33tle %}</td><td>{% rauser wesiken %}</td></tr>
+        <tr><td>{% rauser cowboysong %}</td><td>{% rauser Dargorion2505 %}</td><td>{% rauser DrFeelgood22 %}</td><td>{% rauser DrLiveseyPhonk %}</td><td>{% rauser elcrackelcan %}</td></tr>
+        <tr><td>{% rauser frankvilla %}</td><td>{% rauser FrostKanek %}</td><td>{% rauser GamingFox %}</td><td>{% rauser HeroStar1988 %}</td><td>{% rauser JustSubject %}</td></tr>
         <tr><td>{% rauser Jgplayer90 %}</td><td>{% rauser Jogahi %}</td><td>{% rauser JoyPirate %}</td><td>{% rauser Kickfullthai %}</td><td>{% rauser Lucas785983 %}</td></tr>
         <tr><td>{% rauser maskvid %}</td><td>{% rauser Mazeku %}</td><td>{% rauser Melrik %}</td><td>{% rauser mikeblackwater %}</td><td>{% rauser moeSchmoe %}</td></tr>
-        <tr><td>{% rauser nicollas936 %}</td><td>{% rauser NoSpace %}</td><td>{% rauser Pixelpain %}</td><td>{% rauser Raked %}</td><td>{% rauser rathy %}</td></tr>
+        <tr><td>{% rauser Roachzzzie %}</td><td>{% rauser NoSpace %}</td><td>{% rauser Pixelpain %}</td><td>{% rauser Raked %}</td><td>{% rauser rathy %}</td></tr>
         <tr><td>{% rauser Red1909 %}</td><td>{% rauser rfizzolio %}</td><td>{% rauser Rhode138 %}</td><td>{% rauser roflmao420 %}</td><td>{% rauser ryansock %}</td></tr>
         <tr><td>{% rauser SBMS %}</td><td>{% rauser SirValentine %}</td><td>{% rauser TheLavaRats %}</td><td>{% rauser tubesteak %}</td><td>{% rauser ViraPyon %}</td></tr>
         <tr><td>{% rauser Vito6750 %}</td><td>{% rauser YabukiJo %}</td><td>{% rauser Zenred %}</td><td>{% rauser ABrazilianSaria %}</td><td>{% rauser Absolomb27 %}</td></tr>
-        <tr><td>{% rauser alexgamer22d %}</td><td>{% rauser angle7044 %}</td><td>{% rauser Ariseis %}</td><td>{% rauser Aruman %}</td><td>{% rauser BigSpork66 %}</td></tr>
+        <tr><td>{% rauser alexgamer22d %}</td><td>{% rauser angelzz %}</td><td>{% rauser Ariseis %}</td><td>{% rauser Aruman %}</td><td>{% rauser BigSpork66 %}</td></tr>
         <tr><td>{% rauser Ccanzoodti %}</td><td>{% rauser Crabssiah %}</td><td>{% rauser crawling %}</td><td>{% rauser Daredevil56 %}</td><td>{% rauser Devy %}</td></tr>
         <tr><td>{% rauser ecciq %}</td><td>{% rauser Ermak7 %}</td><td>{% rauser Fusako %}</td><td>{% rauser GamerGuy345 %}</td><td>{% rauser Grachus %}</td></tr>
-        <tr><td>{% rauser hokiemarley %}</td><td>{% rauser Ianis %}</td><td>{% rauser Inigodeciple64 %}</td><td>{% rauser Inkani %}</td><td>{% rauser JhonT %}</td></tr>
+        <tr><td>{% rauser hokiemarley %}</td><td>{% rauser Ianis %}</td><td>{% rauser Inigodeciple64 %}</td><td>{% rauser Inkani %}</td><td>{% rauser Altf44rt %}</td></tr>
         <tr><td>{% rauser Kadiri %}</td><td>{% rauser kediatherdm %}</td><td>{% rauser KosukeD %}</td><td>{% rauser LTirton %}</td><td>{% rauser Ltoo %}</td></tr>
         <tr><td>{% rauser mattgrider %}</td><td>{% rauser MellBeeb %}</td><td>{% rauser Morgs99 %}</td><td>{% rauser MrBagelByte %}</td><td>{% rauser naitro %}</td></tr>
         <tr><td>{% rauser NYPunk93 %}</td><td>{% rauser Octohorror %}</td><td>{% rauser Pinback78 %}</td><td>{% rauser Retr0GamePack %}</td><td>{% rauser retro8panda %}</td></tr>
         <tr><td>{% rauser shikah4x %}</td><td>{% rauser Silverolo %}</td><td>{% rauser snerck %}</td><td>{% rauser Styrbo %}</td><td>{% rauser TheGoronMan %}</td></tr>
-        <tr><td>{% rauser Tome2233 %}</td><td>{% rauser UsYrIllus %}</td><td>{% rauser Vados5Star %}</td><td>{% rauser vitorretrosega %}</td><td>{% rauser warbird1500 %}</td></tr>
+        <tr><td>{% rauser Cachoss %}</td><td>{% rauser UsYrIllus %}</td><td>{% rauser Vados5Star %}</td><td>{% rauser vitorretrosega %}</td><td>{% rauser warbird1500 %}</td></tr>
         <tr><td>{% rauser Zalbar %}</td><td>{% rauser Zockerbirne %}</td><td>{% rauser Zunxar %}</td><td>{% rauser Alessandro191401 %}</td><td>{% rauser Arrosto %}</td></tr>
         <tr><td>{% rauser Ausper %}</td><td>{% rauser aviatorn %}</td><td>{% rauser aznxknight %}</td><td>{% rauser BiTiX %}</td><td>{% rauser BrOcCoLiplayGamE %}</td></tr>
         <tr><td>{% rauser Calcabu %}</td><td>{% rauser carlos0243 %}</td><td>{% rauser Cle0 %}</td><td>{% rauser CosmicSandshrew %}</td><td>{% rauser CrayonJackie %}</td></tr>
-        <tr><td>{% rauser deathmog91 %}</td><td>{% rauser Deephellbringer %}</td><td>{% rauser Devastrato %}</td><td>{% rauser dhippo %}</td><td>{% rauser docmagoo %}</td></tr>
+        <tr><td>{% rauser deathmog91 %}</td><td>{% rauser Deephellbringer %}</td><td>{% rauser Straxox %}</td><td>{% rauser dhippo %}</td><td>{% rauser docmagoo %}</td></tr>
         <tr><td>{% rauser ElDaevid %}</td><td>{% rauser Em1nate %}</td><td>{% rauser EzLo54 %}</td><td>{% rauser FiggyytK %}</td><td>{% rauser GalaxyExplorer %}</td></tr>
         <tr><td>{% rauser gaytorbeans %}</td><td>{% rauser GoblinLachlan %}</td><td>{% rauser gregorpatterson %}</td><td>{% rauser Harleydama %}</td><td>{% rauser HuhWhat %}</td></tr>
         <tr><td>{% rauser Hyper645 %}</td><td>{% rauser Jethrin %}</td><td>{% rauser jnsavko %}</td><td>{% rauser Lukk %}</td><td>{% rauser MarkusLuka %}</td></tr>
-        <tr><td>{% rauser MattyIfYaNasty %}</td><td>{% rauser milliemacy %}</td><td>{% rauser MilweyXD %}</td><td>{% rauser nickcat1 %}</td><td>{% rauser ononanonena %}</td></tr>
-        <tr><td>{% rauser Paulilla %}</td><td>{% rauser Repimpas %}</td><td>{% rauser SaltwaterBath %}</td><td>{% rauser SamTheSly %}</td><td>{% rauser santyzj %}</td></tr>
+        <tr><td>{% rauser MattyBoomBattie %}</td><td>{% rauser milliemacy %}</td><td>{% rauser MilweyXD %}</td><td>{% rauser nickcat1 %}</td><td>{% rauser ononanonena %}</td></tr>
+        <tr><td>{% rauser Paulilla %}</td><td>{% rauser Repimpas %}</td><td>{% rauser SaltwaterBath %}</td><td>{% rauser SamTheSly %}</td><td>{% rauser starjills %}</td></tr>
         <tr><td>{% rauser simoneb %}</td><td>{% rauser Squibbble %}</td><td>{% rauser super64 %}</td><td>{% rauser T4Garrett %}</td><td>{% rauser Tamloo %}</td></tr>
-        <tr><td>{% rauser theDevNextDoor %}</td><td>{% rauser TooTyrnt %}</td><td>{% rauser TyronLapido %}</td><td>{% rauser UndergroundSR %}</td><td>{% rauser VashTTV %}</td></tr>
+        <tr><td>{% rauser theLogicalDev %}</td><td>{% rauser JSC31994 %}</td><td>{% rauser TyronLapido %}</td><td>{% rauser UndergroundSR %}</td><td>{% rauser VashTTV %}</td></tr>
         <tr><td>{% rauser VideogameSuperstars %}</td><td>{% rauser YerBludGrass %}</td><td>{% rauser zachfuller %}</td><td>{% rauser 214k %}</td><td>{% rauser Amondren %}</td></tr>
         <tr><td>{% rauser ampersand11 %}</td><td>{% rauser BenWellDone %}</td><td>{% rauser Bisll %}</td><td>{% rauser bobbob2238 %}</td><td>{% rauser BonesPasta %}</td></tr>
-        <tr><td>{% rauser cbrown596 %}</td><td>{% rauser Clis02 %}</td><td>{% rauser CrossOverLover %}</td><td>{% rauser daddydumdums %}</td><td>{% rauser DarxGamer99 %}</td></tr>
+        <tr><td>{% rauser cbrown596 %}</td><td>{% rauser CLSantzz %}</td><td>{% rauser CrossOverLover %}</td><td>{% rauser daddydumdums %}</td><td>{% rauser Zarx %}</td></tr>
         <tr><td>{% rauser DouglasQuailMars %}</td><td>{% rauser funnybunny %}</td><td>{% rauser girlcow %}</td><td>{% rauser HydroGirlie %}</td><td>{% rauser Jpaes87 %}</td></tr>
         <tr><td>{% rauser Kinako %}</td><td>{% rauser KitCatFunni %}</td><td>{% rauser LonePolar %}</td><td>{% rauser Manperson %}</td><td>{% rauser MarijnG %}</td></tr>
         <tr><td>{% rauser MartyDumbston650 %}</td><td>{% rauser MegaPegasus %}</td><td>{% rauser NeaHecate %}</td><td>{% rauser neonphantom %}</td><td>{% rauser PlasticKnight %}</td></tr>
@@ -760,75 +760,75 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser StarRank %}</td><td>{% rauser TheDeceiver %}</td><td>{% rauser TheMikeKGamer %}</td><td>{% rauser TheRealestNico %}</td><td>{% rauser Vendreatta %}</td></tr>
         <tr><td>{% rauser VFivePilot %}</td><td>{% rauser Zealotf %}</td><td>{% rauser Argentum722 %}</td><td>{% rauser atreides7887 %}</td><td>{% rauser CleberSilva1990 %}</td></tr>
         <tr><td>{% rauser Coryhenry97 %}</td><td>{% rauser CourierRice %}</td><td>{% rauser Curzon85 %}</td><td>{% rauser DamnitChris %}</td><td>{% rauser Dsneigoski %}</td></tr>
-        <tr><td>{% rauser Edudu210 %}</td><td>{% rauser Fazermint %}</td><td>{% rauser gameboyf9 %}</td><td>{% rauser IDKSomeOtherGuy %}</td><td>{% rauser Jhruann %}</td></tr>
+        <tr><td>{% rauser Edudu210 %}</td><td>{% rauser Fazermint %}</td><td>{% rauser gameboyf9 %}</td><td>{% rauser GreatBeardicus %}</td><td>{% rauser Jhruann %}</td></tr>
         <tr><td>{% rauser joanthony %}</td><td>{% rauser katun82 %}</td><td>{% rauser kevinallyson56 %}</td><td>{% rauser laithrem %}</td><td>{% rauser legnarth %}</td></tr>
         <tr><td>{% rauser logicalbeat %}</td><td>{% rauser LordTwisted %}</td><td>{% rauser Lyiamm %}</td><td>{% rauser Maggotosh %}</td><td>{% rauser Mars1 %}</td></tr>
         <tr><td>{% rauser mgjlqnhu %}</td><td>{% rauser MortisBortis %}</td><td>{% rauser n1kke %}</td><td>{% rauser Porritus %}</td><td>{% rauser Rafaxile %}</td></tr>
         <tr><td>{% rauser RetroTay %}</td><td>{% rauser Robino %}</td><td>{% rauser Shaditax %}</td><td>{% rauser SillyPoogie %}</td><td>{% rauser Smartzke %}</td></tr>
         <tr><td>{% rauser Squiggy %}</td><td>{% rauser squirrelking55 %}</td><td>{% rauser tarotaru %}</td><td>{% rauser tarticulate %}</td><td>{% rauser TerryHB %}</td></tr>
-        <tr><td>{% rauser YamiYukiko %}</td><td>{% rauser Asher413 %}</td><td>{% rauser Bern14042012 %}</td><td>{% rauser bigfunny88 %}</td><td>{% rauser byfield %}</td></tr>
+        <tr><td>{% rauser YamiYukiko %}</td><td>{% rauser Asher413 %}</td><td>{% rauser Bezin14 %}</td><td>{% rauser bigfunny88 %}</td><td>{% rauser byfield %}</td></tr>
         <tr><td>{% rauser cameliasinensis %}</td><td>{% rauser crisvader %}</td><td>{% rauser DeathNoDamage %}</td><td>{% rauser FastxFred %}</td><td>{% rauser FuraHan %}</td></tr>
         <tr><td>{% rauser GaBrechotte27 %}</td><td>{% rauser GandalfGaming %}</td><td>{% rauser greenhero30 %}</td><td>{% rauser heinemann98 %}</td><td>{% rauser Hurkalurka %}</td></tr>
         <tr><td>{% rauser Icoza %}</td><td>{% rauser ironkoala %}</td><td>{% rauser islandwalk %}</td><td>{% rauser itsbazs112 %}</td><td>{% rauser Ivalin %}</td></tr>
-        <tr><td>{% rauser joosis %}</td><td>{% rauser madisonde %}</td><td>{% rauser Matgamer2575 %}</td><td>{% rauser medoli900 %}</td><td>{% rauser MeisterIndigo %}</td></tr>
-        <tr><td>{% rauser MiGunMkIII %}</td><td>{% rauser morbioseJuice %}</td><td>{% rauser MysticEchoes %}</td><td>{% rauser NoobNew %}</td><td>{% rauser NotSpooky %}</td></tr>
-        <tr><td>{% rauser Patatosaladz %}</td><td>{% rauser paythejay %}</td><td>{% rauser peralmatt %}</td><td>{% rauser RodRock %}</td><td>{% rauser RouroZxa %}</td></tr>
+        <tr><td>{% rauser witchhousee %}</td><td>{% rauser madisonde %}</td><td>{% rauser Matgamer2575 %}</td><td>{% rauser Meowdoleon %}</td><td>{% rauser MeisterIndigo %}</td></tr>
+        <tr><td>{% rauser MiGunMkIII %}</td><td>{% rauser morbiose %}</td><td>{% rauser mintp0p %}</td><td>{% rauser NoobNew %}</td><td>{% rauser NotSpooky %}</td></tr>
+        <tr><td>{% rauser Patatosaladz %}</td><td>{% rauser paythejay %}</td><td>{% rauser haretastic %}</td><td>{% rauser RodRock %}</td><td>{% rauser RouroZxa %}</td></tr>
         <tr><td>{% rauser S5PH4NT0M %}</td><td>{% rauser SAMUPSX %}</td><td>{% rauser SgomeON496 %}</td><td>{% rauser Tehking3 %}</td><td>{% rauser thecakebandito %}</td></tr>
         <tr><td>{% rauser tra1nsgirl %}</td><td>{% rauser VirtuAaron %}</td><td>{% rauser weeone %}</td><td>{% rauser WingedAziel %}</td><td>{% rauser wuotan793 %}</td></tr>
-        <tr><td>{% rauser XenonNV %}</td><td>{% rauser xgt29 %}</td><td>{% rauser xkaibaman %}</td><td>{% rauser Xyonos %}</td><td>{% rauser Yoshi1995 %}</td></tr>
-        <tr><td>{% rauser ysakgames %}</td><td>{% rauser aentunus %}</td><td>{% rauser afam %}</td><td>{% rauser bekonek09 %}</td><td>{% rauser Bladesever %}</td></tr>
+        <tr><td>{% rauser XenonNV %}</td><td>{% rauser xgt29 %}</td><td>{% rauser xkaibaman %}</td><td>{% rauser Xyonos %}</td><td>{% rauser Mightyena %}</td></tr>
+        <tr><td>{% rauser ysakgames %}</td><td>{% rauser aentunus %}</td><td>{% rauser afam %}</td><td>{% rauser bekonek09 %}</td><td>{% rauser Yerdumb %}</td></tr>
         <tr><td>{% rauser callmeceto %}</td><td>{% rauser Chr1st12n %}</td><td>{% rauser danilatheshadow %}</td><td>{% rauser ebone710 %}</td><td>{% rauser elgrone1551 %}</td></tr>
         <tr><td>{% rauser Errant %}</td><td>{% rauser fnok %}</td><td>{% rauser Guilherme01 %}</td><td>{% rauser IrrationalSoup %}</td><td>{% rauser IsaacMD %}</td></tr>
-        <tr><td>{% rauser jonhny117 %}</td><td>{% rauser JungleCrew %}</td><td>{% rauser kciusekk %}</td><td>{% rauser KerosinKanistra %}</td><td>{% rauser killdyro77 %}</td></tr>
+        <tr><td>{% rauser Jonhny %}</td><td>{% rauser JungleCrew %}</td><td>{% rauser MasterBowler %}</td><td>{% rauser KerosinKanistra %}</td><td>{% rauser BossManBrew %}</td></tr>
         <tr><td>{% rauser koozkie %}</td><td>{% rauser kriscatto %}</td><td>{% rauser LeandroDS %}</td><td>{% rauser Mike2Times %}</td><td>{% rauser Moa94 %}</td></tr>
-        <tr><td>{% rauser Nin64 %}</td><td>{% rauser Nomadd %}</td><td>{% rauser Noworks %}</td><td>{% rauser OrochiMiss %}</td><td>{% rauser PoyoPoyo1985 %}</td></tr>
+        <tr><td>{% rauser Nin64 %}</td><td>{% rauser Nomadd %}</td><td>{% rauser Noworks %}</td><td>{% rauser OrochiLord %}</td><td>{% rauser PoyoPoyo1985 %}</td></tr>
         <tr><td>{% rauser r4ndyg %}</td><td>{% rauser Ramulax %}</td><td>{% rauser RngRoy %}</td><td>{% rauser Shekinah %}</td><td>{% rauser SidThug %}</td></tr>
         <tr><td>{% rauser SlashBite %}</td><td>{% rauser smallfryal %}</td><td>{% rauser T1Mega %}</td><td>{% rauser TechSMan %}</td><td>{% rauser Tsunamixi %}</td></tr>
-        <tr><td>{% rauser Undyne1119 %}</td><td>{% rauser UniverseBlackCat %}</td><td>{% rauser Violet190 %}</td><td>{% rauser vivavivi004 %}</td><td>{% rauser altorzzin %}</td></tr>
-        <tr><td>{% rauser AnalogCTRL %}</td><td>{% rauser AshleyMoos %}</td><td>{% rauser Avenue %}</td><td>{% rauser BeefbossMiiA %}</td><td>{% rauser BiggCMan %}</td></tr>
-        <tr><td>{% rauser Boshed %}</td><td>{% rauser cliXLittleJo %}</td><td>{% rauser crashtime %}</td><td>{% rauser CzarAc %}</td><td>{% rauser Deltarwarrior15 %}</td></tr>
-        <tr><td>{% rauser Dondimadong %}</td><td>{% rauser EggmaniMN %}</td><td>{% rauser elaymm4 %}</td><td>{% rauser Fixxer22 %}</td><td>{% rauser FJOJR %}</td></tr>
-        <tr><td>{% rauser Fredburg32 %}</td><td>{% rauser gold801 %}</td><td>{% rauser Gustawiz %}</td><td>{% rauser healfriend %}</td><td>{% rauser Hedgehogretro %}</td></tr>
+        <tr><td>{% rauser UnskilledGaming %}</td><td>{% rauser UniverseBlackCat %}</td><td>{% rauser Koori %}</td><td>{% rauser vivavivi004 %}</td><td>{% rauser altorzzin %}</td></tr>
+        <tr><td>{% rauser AnalogCTRL %}</td><td>{% rauser AshleyMoos %}</td><td>{% rauser retrochiba %}</td><td>{% rauser WahooManKirby %}</td><td>{% rauser BiggCMan %}</td></tr>
+        <tr><td>{% rauser Boshed %}</td><td>{% rauser cliXLittleJo %}</td><td>{% rauser crashtime %}</td><td>{% rauser CzarAc %}</td><td>{% rauser Delta15 %}</td></tr>
+        <tr><td>{% rauser Dondimadong %}</td><td>{% rauser EggmaniMN %}</td><td>{% rauser elaymm4 %}</td><td>{% rauser Fixxer87 %}</td><td>{% rauser FJOJR %}</td></tr>
+        <tr><td>{% rauser Fredburg32 %}</td><td>{% rauser AsteriaRPGs %}</td><td>{% rauser Gustawiz %}</td><td>{% rauser healfriend %}</td><td>{% rauser Hedgehogretro %}</td></tr>
         <tr><td>{% rauser HollyWoodschaukel %}</td><td>{% rauser IITRALALAII %}</td><td>{% rauser Imploder %}</td><td>{% rauser izz68 %}</td><td>{% rauser JesssTr %}</td></tr>
-        <tr><td>{% rauser JoeyJoJo %}</td><td>{% rauser Jorgelara %}</td><td>{% rauser justin7885 %}</td><td>{% rauser Kchomen %}</td><td>{% rauser LeCheck21 %}</td></tr>
+        <tr><td>{% rauser JoeyJoJo %}</td><td>{% rauser Jorgelara %}</td><td>{% rauser EternalWintereenmas %}</td><td>{% rauser Kchomen %}</td><td>{% rauser LeCheck21 %}</td></tr>
         <tr><td>{% rauser LucasGTP %}</td><td>{% rauser maddux %}</td><td>{% rauser Mahajone %}</td><td>{% rauser meathook33 %}</td><td>{% rauser Mikagamex %}</td></tr>
         <tr><td>{% rauser Miskav %}</td><td>{% rauser morbitm %}</td><td>{% rauser MrCuck %}</td><td>{% rauser mrstealyoursock %}</td><td>{% rauser NebulaJuniper %}</td></tr>
         <tr><td>{% rauser Nick007J %}</td><td>{% rauser Nindani %}</td><td>{% rauser Osterreich %}</td><td>{% rauser PaisleyPop %}</td><td>{% rauser Peepzinho %}</td></tr>
         <tr><td>{% rauser pgama %}</td><td>{% rauser Qazsdfgvhn %}</td><td>{% rauser Quenthel %}</td><td>{% rauser Redice5 %}</td><td>{% rauser Reverie8394 %}</td></tr>
-        <tr><td>{% rauser Saxxy25 %}</td><td>{% rauser ScarZ0 %}</td><td>{% rauser Senrote %}</td><td>{% rauser seven24gamer %}</td><td>{% rauser Shirfos %}</td></tr>
+        <tr><td>{% rauser Saxxy25 %}</td><td>{% rauser CtrlMaxx %}</td><td>{% rauser Senrote %}</td><td>{% rauser seven24gamer %}</td><td>{% rauser Shirfos %}</td></tr>
         <tr><td>{% rauser Shol48 %}</td><td>{% rauser SMVENOM %}</td><td>{% rauser Starfishe %}</td><td>{% rauser StarGame49 %}</td><td>{% rauser TempSerge %}</td></tr>
-        <tr><td>{% rauser Thexisback %}</td><td>{% rauser tioralf %}</td><td>{% rauser TocaDoGengar %}</td><td>{% rauser WilkinsKid %}</td><td>{% rauser zmxx %}</td></tr>
+        <tr><td>{% rauser Thexisback %}</td><td>{% rauser tioralf %}</td><td>{% rauser TocaDoGengar %}</td><td>{% rauser WilkinsKid %}</td><td>{% rauser NeryStar %}</td></tr>
         <tr><td>{% rauser alegamex %}</td><td>{% rauser Asekio %}</td><td>{% rauser Asgore55 %}</td><td>{% rauser avatarer %}</td><td>{% rauser azka203 %}</td></tr>
         <tr><td>{% rauser Biafosgaming %}</td><td>{% rauser Birdboy69 %}</td><td>{% rauser CelestialVoid %}</td><td>{% rauser Cl92n3 %}</td><td>{% rauser Corvus97 %}</td></tr>
         <tr><td>{% rauser denmar %}</td><td>{% rauser Eligius %}</td><td>{% rauser en2que %}</td><td>{% rauser Gallasan %}</td><td>{% rauser GsGabe %}</td></tr>
         <tr><td>{% rauser GustavoA32 %}</td><td>{% rauser HeyoDabido %}</td><td>{% rauser HollowSeoul %}</td><td>{% rauser idontcarelmao %}</td><td>{% rauser ImDiox %}</td></tr>
-        <tr><td>{% rauser InquistiorVess %}</td><td>{% rauser jd3598 %}</td><td>{% rauser jetsetruri %}</td><td>{% rauser K1RA55 %}</td><td>{% rauser kaakrachador %}</td></tr>
+        <tr><td>{% rauser InquistiorVess %}</td><td>{% rauser Dons3598 %}</td><td>{% rauser jetsetruri %}</td><td>{% rauser K1RA55 %}</td><td>{% rauser kaakrachador %}</td></tr>
         <tr><td>{% rauser kidfido %}</td><td>{% rauser kkopsco %}</td><td>{% rauser KurenaiTori %}</td><td>{% rauser Lensermon %}</td><td>{% rauser LucasCav26 %}</td></tr>
         <tr><td>{% rauser maesles %}</td><td>{% rauser MaGnUmKiLLa %}</td><td>{% rauser MarkosRagnarok %}</td><td>{% rauser mths1009 %}</td><td>{% rauser nevasca %}</td></tr>
-        <tr><td>{% rauser Newman420 %}</td><td>{% rauser Nulak %}</td><td>{% rauser Phaelyon %}</td><td>{% rauser photonsOrigin %}</td><td>{% rauser PootisRedchup %}</td></tr>
-        <tr><td>{% rauser RaphaellReis %}</td><td>{% rauser ReconMane %}</td><td>{% rauser RedSlendy %}</td><td>{% rauser REN0 %}</td><td>{% rauser scottysx %}</td></tr>
+        <tr><td>{% rauser jaylovesscott %}</td><td>{% rauser Nulak %}</td><td>{% rauser Phaelyon %}</td><td>{% rauser photonsOrigin %}</td><td>{% rauser PootisRedchup %}</td></tr>
+        <tr><td>{% rauser RaphaellReis %}</td><td>{% rauser SpeedyFido %}</td><td>{% rauser RedSlendy %}</td><td>{% rauser REN0 %}</td><td>{% rauser scottysx %}</td></tr>
         <tr><td>{% rauser Shado713 %}</td><td>{% rauser shinyokohama %}</td><td>{% rauser Shushuyuku %}</td><td>{% rauser shyserr %}</td><td>{% rauser Skelattack123 %}</td></tr>
         <tr><td>{% rauser SockOwner %}</td><td>{% rauser SparkMandrill %}</td><td>{% rauser ssriley70 %}</td><td>{% rauser StudioSoaker %}</td><td>{% rauser SuperSgamer %}</td></tr>
         <tr><td>{% rauser tdo111 %}</td><td>{% rauser Tiolelo %}</td><td>{% rauser trashalmighty %}</td><td>{% rauser TYVU %}</td><td>{% rauser UnisNaru %}</td></tr>
         <tr><td>{% rauser VideoGameWeekend %}</td><td>{% rauser vitordemelo1202 %}</td><td>{% rauser Warrior935 %}</td><td>{% rauser WRXJoey %}</td><td>{% rauser Wu9q %}</td></tr>
-        <tr><td>{% rauser zalbatar %}</td><td>{% rauser Arkangel99 %}</td><td>{% rauser arkcresent %}</td><td>{% rauser av4lanche %}</td><td>{% rauser BigBomba88 %}</td></tr>
-        <tr><td>{% rauser BlackThil %}</td><td>{% rauser Blaclu %}</td><td>{% rauser Buttersussy %}</td><td>{% rauser byMare %}</td><td>{% rauser cartcart %}</td></tr>
-        <tr><td>{% rauser ctea %}</td><td>{% rauser deseijas %}</td><td>{% rauser Doormaster %}</td><td>{% rauser Dradz %}</td><td>{% rauser einomi %}</td></tr>
+        <tr><td>{% rauser zalbatar %}</td><td>{% rauser Arkangel99 %}</td><td>{% rauser arkymew %}</td><td>{% rauser av4lanche %}</td><td>{% rauser BigBomba88 %}</td></tr>
+        <tr><td>{% rauser BlackThil %}</td><td>{% rauser Blaclu %}</td><td>{% rauser Buttersussy %}</td><td>{% rauser byMare %}</td><td>{% rauser cartnites %}</td></tr>
+        <tr><td>{% rauser ctea %}</td><td>{% rauser deseijas %}</td><td>{% rauser Doormaster %}</td><td>{% rauser Dradz %}</td><td>{% rauser paradrew101 %}</td></tr>
         <tr><td>{% rauser ElectroTDS %}</td><td>{% rauser Eriy5819 %}</td><td>{% rauser ErMun %}</td><td>{% rauser esdrasfera %}</td><td>{% rauser fang31 %}</td></tr>
         <tr><td>{% rauser GannonXP %}</td><td>{% rauser Girnade %}</td><td>{% rauser Goonslaper %}</td><td>{% rauser Gorb %}</td><td>{% rauser Guaxisz %}</td></tr>
         <tr><td>{% rauser Hamboy3 %}</td><td>{% rauser Icondor %}</td><td>{% rauser itsmejackyg37 %}</td><td>{% rauser JanomanX %}</td><td>{% rauser joeyclassic %}</td></tr>
-        <tr><td>{% rauser KartingKoopa %}</td><td>{% rauser kaspercool %}</td><td>{% rauser Lightakai %}</td><td>{% rauser LosingStreakPH %}</td><td>{% rauser mdsplayer22 %}</td></tr>
-        <tr><td>{% rauser MintDagz %}</td><td>{% rauser MomoNoBaka %}</td><td>{% rauser MrAftonv2 %}</td><td>{% rauser NeonRaiden %}</td><td>{% rauser Neonsoldaat %}</td></tr>
+        <tr><td>{% rauser ArgenDrazil %}</td><td>{% rauser kaspercool %}</td><td>{% rauser Lightakai %}</td><td>{% rauser LosingStreakPH %}</td><td>{% rauser mdsplayer22 %}</td></tr>
+        <tr><td>{% rauser MintDagz %}</td><td>{% rauser MomoNoBaka %}</td><td>{% rauser MrAftonv2 %}</td><td>{% rauser VergilBigBoss %}</td><td>{% rauser Neonsoldaat %}</td></tr>
         <tr><td>{% rauser Noob1336 %}</td><td>{% rauser poseidon1743 %}</td><td>{% rauser PurpleFrog %}</td><td>{% rauser Quelxaxas %}</td><td>{% rauser retrobeaver33 %}</td></tr>
         <tr><td>{% rauser Robinspook %}</td><td>{% rauser rozhestvensky %}</td><td>{% rauser seba212ful %}</td><td>{% rauser Shiningneo %}</td><td>{% rauser Squidnoid %}</td></tr>
-        <tr><td>{% rauser SweetInsomnia %}</td><td>{% rauser SydroTallic %}</td><td>{% rauser syfori %}</td><td>{% rauser techtomaz %}</td><td>{% rauser Vexs %}</td></tr>
+        <tr><td>{% rauser SweetInsomnia %}</td><td>{% rauser Sydro %}</td><td>{% rauser thesedays %}</td><td>{% rauser techtomaz %}</td><td>{% rauser Vexs %}</td></tr>
         <tr><td>{% rauser WetCarp %}</td><td>{% rauser Wh1t3st4r %}</td><td>{% rauser WildFire972 %}</td><td>{% rauser Yumess %}</td><td>{% rauser A1GoldenRunner %}</td></tr>
-        <tr><td>{% rauser Amaneedesu %}</td><td>{% rauser ANerdzilla %}</td><td>{% rauser Arenity %}</td><td>{% rauser Astronomy4727 %}</td><td>{% rauser Azzy626 %}</td></tr>
+        <tr><td>{% rauser Amanee %}</td><td>{% rauser ANerdzilla %}</td><td>{% rauser Arenity %}</td><td>{% rauser Astronomy4727 %}</td><td>{% rauser Azzy626 %}</td></tr>
         <tr><td>{% rauser Banny %}</td><td>{% rauser BlankySIM %}</td><td>{% rauser BlazingVictini %}</td><td>{% rauser BmVent %}</td><td>{% rauser boomshroom %}</td></tr>
         <tr><td>{% rauser bxfresh01 %}</td><td>{% rauser Canadianhxc %}</td><td>{% rauser Charaster %}</td><td>{% rauser chauan %}</td><td>{% rauser chris316 %}</td></tr>
-        <tr><td>{% rauser CJengineer18 %}</td><td>{% rauser Clarento %}</td><td>{% rauser Cleopanda %}</td><td>{% rauser coffinbirth %}</td><td>{% rauser Collencyte %}</td></tr>
+        <tr><td>{% rauser CJengineer18 %}</td><td>{% rauser Clarent %}</td><td>{% rauser Cleopanda %}</td><td>{% rauser coffinbirth %}</td><td>{% rauser Collencyte %}</td></tr>
         <tr><td>{% rauser DamianWhat %}</td><td>{% rauser DaveAce %}</td><td>{% rauser DavidMomu %}</td><td>{% rauser dearberry %}</td><td>{% rauser DizzyNEM %}</td></tr>
-        <tr><td>{% rauser DoomWulfo %}</td><td>{% rauser DrewPag %}</td><td>{% rauser DuckMark %}</td><td>{% rauser Edyson %}</td><td>{% rauser Eeveegamer2 %}</td></tr>
+        <tr><td>{% rauser DoomWulfo %}</td><td>{% rauser DrewPag %}</td><td>{% rauser DuckMark %}</td><td>{% rauser MrShiesty %}</td><td>{% rauser KoishiiV %}</td></tr>
         <tr><td>{% rauser ella %}</td><td>{% rauser emeraldpie %}</td><td>{% rauser EmI89PL %}</td><td>{% rauser Entiss %}</td><td>{% rauser EWAT %}</td></tr>
         <tr><td>{% rauser Fallengir %}</td><td>{% rauser FinalRPGman %}</td><td>{% rauser fishy12233 %}</td><td>{% rauser frogbros %}</td><td>{% rauser FuseboxEntertainment %}</td></tr>
         <tr><td>{% rauser ghastlyninja %}</td><td>{% rauser GolurkWrecker43 %}</td><td>{% rauser Grobindbois %}</td><td>{% rauser GuffMcGufferson %}</td><td>{% rauser GuyWithaKeyboard %}</td></tr>
@@ -837,73 +837,73 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser JohnyPlays %}</td><td>{% rauser Kaiyochii %}</td><td>{% rauser kandivia %}</td><td>{% rauser kedjim %}</td><td>{% rauser killercatman5 %}</td></tr>
         <tr><td>{% rauser Kixstart %}</td><td>{% rauser Leluil %}</td><td>{% rauser LidiaCreatia %}</td><td>{% rauser LilliesMADs %}</td><td>{% rauser LizardManJack %}</td></tr>
         <tr><td>{% rauser lucho544 %}</td><td>{% rauser LuckyLerry %}</td><td>{% rauser lukuh %}</td><td>{% rauser M0F0B0 %}</td><td>{% rauser malvaKor %}</td></tr>
-        <tr><td>{% rauser MarcelSOLDIER %}</td><td>{% rauser MarkAndILikePigs %}</td><td>{% rauser maverickhunterdelta %}</td><td>{% rauser MegatonAnimal %}</td><td>{% rauser MikeHofnarr %}</td></tr>
+        <tr><td>{% rauser MarcelNotMiguel %}</td><td>{% rauser MarkAndILikePigs %}</td><td>{% rauser maverickhunterdelta %}</td><td>{% rauser MegatonAnimal %}</td><td>{% rauser MikeHofnarr %}</td></tr>
         <tr><td>{% rauser Monakwee27 %}</td><td>{% rauser Morgz1027 %}</td><td>{% rauser MReaper756 %}</td><td>{% rauser MsK7 %}</td><td>{% rauser mushmush %}</td></tr>
         <tr><td>{% rauser MystOpossum %}</td><td>{% rauser NateLupson %}</td><td>{% rauser Natsuyodragon %}</td><td>{% rauser nattanzzinxzs %}</td><td>{% rauser nerdydisasterfluffle %}</td></tr>
         <tr><td>{% rauser NicoMrt %}</td><td>{% rauser OldBbbones %}</td><td>{% rauser oplo66 %}</td><td>{% rauser oshjames %}</td><td>{% rauser Ozokerite %}</td></tr>
         <tr><td>{% rauser Pablich %}</td><td>{% rauser pachoarmadillo %}</td><td>{% rauser Pascal1996 %}</td><td>{% rauser pichy %}</td><td>{% rauser PinkFreakCrystal %}</td></tr>
-        <tr><td>{% rauser Plan %}</td><td>{% rauser planetdean123 %}</td><td>{% rauser Princejerrell720 %}</td><td>{% rauser QueenNeptunia %}</td><td>{% rauser quickmich %}</td></tr>
-        <tr><td>{% rauser RetroKaribu %}</td><td>{% rauser RRXD84 %}</td><td>{% rauser Rubygamer71 %}</td><td>{% rauser S4500 %}</td><td>{% rauser ScienceCat %}</td></tr>
+        <tr><td>{% rauser Plan %}</td><td>{% rauser planetdean123 %}</td><td>{% rauser Princejerrell720 %}</td><td>{% rauser QueenNeptunia %}</td><td>{% rauser quickmichxd %}</td></tr>
+        <tr><td>{% rauser RetroKaribu %}</td><td>{% rauser RRXD84 %}</td><td>{% rauser Rubygamer71 %}</td><td>{% rauser Cevichesextob %}</td><td>{% rauser ScienceCat %}</td></tr>
         <tr><td>{% rauser Shaynicide %}</td><td>{% rauser sheppdawg %}</td><td>{% rauser SirFreedx %}</td><td>{% rauser SkyChaser %}</td><td>{% rauser Soupadoupa5 %}</td></tr>
         <tr><td>{% rauser SQUiiRTLE %}</td><td>{% rauser SUNKYKONG %}</td><td>{% rauser SweetTeeth %}</td><td>{% rauser Takenwyatt %}</td><td>{% rauser TakFR %}</td></tr>
-        <tr><td>{% rauser TechBlitz %}</td><td>{% rauser TheEntireBonzai %}</td><td>{% rauser TheHereafter %}</td><td>{% rauser TheJezstarr %}</td><td>{% rauser thricebite %}</td></tr>
+        <tr><td>{% rauser ThatIrrelevantTech %}</td><td>{% rauser TheEntireBonzai %}</td><td>{% rauser TheHereafter %}</td><td>{% rauser TheJezstarr %}</td><td>{% rauser thricebite %}</td></tr>
         <tr><td>{% rauser tomapro0123 %}</td><td>{% rauser Trayvis94 %}</td><td>{% rauser ttzop %}</td><td>{% rauser Twotonecrow %}</td><td>{% rauser unprodano %}</td></tr>
-        <tr><td>{% rauser Vashzaron %}</td><td>{% rauser VeigueisVeigue %}</td><td>{% rauser Voltstand %}</td><td>{% rauser WigglesTiggles %}</td><td>{% rauser wiister %}</td></tr>
-        <tr><td>{% rauser WILDFUSE %}</td><td>{% rauser Wirbel %}</td><td>{% rauser xJeefo %}</td><td>{% rauser Zeroaxl01 %}</td><td>{% rauser ZoyTeken %}</td></tr>
-        <tr><td>{% rauser Aesisol %}</td><td>{% rauser Akashagarbha %}</td><td>{% rauser aki1999 %}</td><td>{% rauser akiko3 %}</td><td>{% rauser AngelR %}</td></tr>
+        <tr><td>{% rauser Vashwave %}</td><td>{% rauser VeigueisVeigue %}</td><td>{% rauser Voltstand %}</td><td>{% rauser WigglesTiggles %}</td><td>{% rauser wiister %}</td></tr>
+        <tr><td>{% rauser SPORKYBORK %}</td><td>{% rauser Wirbel %}</td><td>{% rauser xJeefo %}</td><td>{% rauser Zeroaxl01 %}</td><td>{% rauser ZoyTeken %}</td></tr>
+        <tr><td>{% rauser LamieraYamal %}</td><td>{% rauser Akashagarbha %}</td><td>{% rauser aki1999 %}</td><td>{% rauser akiko3 %}</td><td>{% rauser AngelR %}</td></tr>
         <tr><td>{% rauser Animarte0963 %}</td><td>{% rauser AstridO %}</td><td>{% rauser beatofthemeat22 %}</td><td>{% rauser BolonaVirus %}</td><td>{% rauser BrianBR16 %}</td></tr>
         <tr><td>{% rauser brooklyngardner %}</td><td>{% rauser BrunoDeNiteroi %}</td><td>{% rauser CABEZA23 %}</td><td>{% rauser Carboard %}</td><td>{% rauser cardellz %}</td></tr>
-        <tr><td>{% rauser CidsTea %}</td><td>{% rauser CornMom1988 %}</td><td>{% rauser CyanRyan %}</td><td>{% rauser dEUS87 %}</td><td>{% rauser DevKetchem195 %}</td></tr>
+        <tr><td>{% rauser CidsTea %}</td><td>{% rauser CornMom1988 %}</td><td>{% rauser CyanRyan %}</td><td>{% rauser dEUS876 %}</td><td>{% rauser DevKetchem195 %}</td></tr>
         <tr><td>{% rauser DirtyKornDogg %}</td><td>{% rauser emilytippz %}</td><td>{% rauser EonLover %}</td><td>{% rauser FatX %}</td><td>{% rauser FinalDay %}</td></tr>
         <tr><td>{% rauser FindingBoundaries %}</td><td>{% rauser gcntheuzin %}</td><td>{% rauser GigaGoji %}</td><td>{% rauser GSEleven %}</td><td>{% rauser habbitatmatt %}</td></tr>
         <tr><td>{% rauser Harebrains %}</td><td>{% rauser herculeszero %}</td><td>{% rauser Hikaru01 %}</td><td>{% rauser hikkiran %}</td><td>{% rauser HotDogHeeHaw %}</td></tr>
-        <tr><td>{% rauser ImDatRyno %}</td><td>{% rauser JackTDugan1197 %}</td><td>{% rauser jayvni %}</td><td>{% rauser Jonxhas %}</td><td>{% rauser Komrrk %}</td></tr>
+        <tr><td>{% rauser ImDatRyno %}</td><td>{% rauser duganman555 %}</td><td>{% rauser jayvin %}</td><td>{% rauser Jonxhas %}</td><td>{% rauser Komrrk %}</td></tr>
         <tr><td>{% rauser LazyManRoche %}</td><td>{% rauser LcdoVera %}</td><td>{% rauser lemmy811 %}</td><td>{% rauser LioBlackmore %}</td><td>{% rauser Luigifan64d %}</td></tr>
         <tr><td>{% rauser mafuyuyanagi %}</td><td>{% rauser marioparty555 %}</td><td>{% rauser MARYMOOCOW1 %}</td><td>{% rauser mikey20100 %}</td><td>{% rauser MinusMario %}</td></tr>
         <tr><td>{% rauser Ongobongo57 %}</td><td>{% rauser oreo0315 %}</td><td>{% rauser Oshua %}</td><td>{% rauser Outer %}</td><td>{% rauser peanutfish94 %}</td></tr>
         <tr><td>{% rauser Pikmin933 %}</td><td>{% rauser puipuimolcar %}</td><td>{% rauser queest347 %}</td><td>{% rauser Rangertop85 %}</td><td>{% rauser rch614 %}</td></tr>
-        <tr><td>{% rauser RetroMarco %}</td><td>{% rauser Robtk92 %}</td><td>{% rauser samgb2004 %}</td><td>{% rauser Sanfer626 %}</td><td>{% rauser SaviorD22 %}</td></tr>
+        <tr><td>{% rauser RetroMarco %}</td><td>{% rauser RobTK78 %}</td><td>{% rauser samgb2004 %}</td><td>{% rauser Sanfer626 %}</td><td>{% rauser SaviorD22 %}</td></tr>
         <tr><td>{% rauser shadkirb %}</td><td>{% rauser shadowbreaker11 %}</td><td>{% rauser shawnking2255 %}</td><td>{% rauser ShyGalJaz %}</td><td>{% rauser Snown95 %}</td></tr>
         <tr><td>{% rauser Sonqo %}</td><td>{% rauser sqvictor %}</td><td>{% rauser SSJAlhazred %}</td><td>{% rauser Steven30042007 %}</td><td>{% rauser ThatOneIndividual %}</td></tr>
         <tr><td>{% rauser titans1127 %}</td><td>{% rauser TraceBullet %}</td><td>{% rauser trewper %}</td><td>{% rauser ultimo87 %}</td><td>{% rauser unteleportedman %}</td></tr>
-        <tr><td>{% rauser UrsaGram %}</td><td>{% rauser Yuusatsu %}</td><td>{% rauser Zacano %}</td><td>{% rauser Zic3 %}</td><td>{% rauser Zorgothe %}</td></tr>
+        <tr><td>{% rauser UrsaGram %}</td><td>{% rauser Yuusatsu %}</td><td>{% rauser Zacano %}</td><td>{% rauser Zic3 %}</td><td>{% rauser Zorgnorg %}</td></tr>
         <tr><td>{% rauser 1Portatiufofu %}</td><td>{% rauser adiso2424 %}</td><td>{% rauser AdventureShock24 %}</td><td>{% rauser Aidster %}</td><td>{% rauser ajeedo %}</td></tr>
         <tr><td>{% rauser Apernett %}</td><td>{% rauser AzCoolin12 %}</td><td>{% rauser badacctname %}</td><td>{% rauser Baiylee %}</td><td>{% rauser Bibiz %}</td></tr>
         <tr><td>{% rauser billtookahit420 %}</td><td>{% rauser bobus %}</td><td>{% rauser BoolTable %}</td><td>{% rauser BoppoSkrew %}</td><td>{% rauser BronzyDruid5299 %}</td></tr>
-        <tr><td>{% rauser Bug13Fallen %}</td><td>{% rauser camadelean %}</td><td>{% rauser CharlesDev %}</td><td>{% rauser CHILLYBUS %}</td><td>{% rauser CodyCha0tic %}</td></tr>
+        <tr><td>{% rauser Buqi83 %}</td><td>{% rauser camadelean %}</td><td>{% rauser braydev %}</td><td>{% rauser CHILLYBUS %}</td><td>{% rauser CodyCha0tic %}</td></tr>
         <tr><td>{% rauser cosmepl %}</td><td>{% rauser DanaIsAlright %}</td><td>{% rauser DasBabycat %}</td><td>{% rauser DeerMongering %}</td><td>{% rauser dimaold %}</td></tr>
         <tr><td>{% rauser Discussion %}</td><td>{% rauser DorkyDelphox %}</td><td>{% rauser Dreamphantasytv %}</td><td>{% rauser dyago %}</td><td>{% rauser Fastto %}</td></tr>
         <tr><td>{% rauser FD4life %}</td><td>{% rauser FracturedFilter %}</td><td>{% rauser grandepe00 %}</td><td>{% rauser GrennT %}</td><td>{% rauser gulasch42 %}</td></tr>
         <tr><td>{% rauser HaouLeo %}</td><td>{% rauser ivirj %}</td><td>{% rauser jman0625 %}</td><td>{% rauser JOHNCALUM %}</td><td>{% rauser JRCL %}</td></tr>
         <tr><td>{% rauser Kaboom328 %}</td><td>{% rauser KaichoFluffy %}</td><td>{% rauser Krryos %}</td><td>{% rauser Lanzerince %}</td><td>{% rauser leosmike %}</td></tr>
         <tr><td>{% rauser LooselyLucid %}</td><td>{% rauser LPFer %}</td><td>{% rauser lucasego %}</td><td>{% rauser Malev %}</td><td>{% rauser mckecjam %}</td></tr>
-        <tr><td>{% rauser Nate56667 %}</td><td>{% rauser OvOPlant %}</td><td>{% rauser Pessi %}</td><td>{% rauser phantom567459 %}</td><td>{% rauser Pharcyde %}</td></tr>
+        <tr><td>{% rauser Nate56667 %}</td><td>{% rauser OvOPlant %}</td><td>{% rauser Pessi %}</td><td>{% rauser phantom567459 %}</td><td>{% rauser OUTKAAAST99 %}</td></tr>
         <tr><td>{% rauser Pilolo %}</td><td>{% rauser Pingua95 %}</td><td>{% rauser PlasticCiv %}</td><td>{% rauser PWNSTAR %}</td><td>{% rauser RegulymGod %}</td></tr>
-        <tr><td>{% rauser Repxar %}</td><td>{% rauser RetroRael %}</td><td>{% rauser Rhylum %}</td><td>{% rauser Shwa95 %}</td><td>{% rauser SMAW %}</td></tr>
+        <tr><td>{% rauser Repxar %}</td><td>{% rauser RetroRael %}</td><td>{% rauser Rhylum %}</td><td>{% rauser Shwa950 %}</td><td>{% rauser SMAW %}</td></tr>
         <tr><td>{% rauser snoozinsusan %}</td><td>{% rauser spookieDex %}</td><td>{% rauser spoonfork %}</td><td>{% rauser Squashyy %}</td><td>{% rauser SweetBlasphemy16 %}</td></tr>
         <tr><td>{% rauser TailsGP2 %}</td><td>{% rauser thebigvaporeon %}</td><td>{% rauser Thiago45672 %}</td><td>{% rauser thiagocsiqueira %}</td><td>{% rauser varet125 %}</td></tr>
         <tr><td>{% rauser ZeroThe14th %}</td><td>{% rauser afflack %}</td><td>{% rauser ArcanaShox %}</td><td>{% rauser ARQUI002 %}</td><td>{% rauser ArseneTheThird %}</td></tr>
         <tr><td>{% rauser azharian %}</td><td>{% rauser Benjaminhdp %}</td><td>{% rauser BigTrain %}</td><td>{% rauser blooga %}</td><td>{% rauser BodyAttk %}</td></tr>
-        <tr><td>{% rauser BootDook %}</td><td>{% rauser Broboi698 %}</td><td>{% rauser caioribe1ro %}</td><td>{% rauser CherriBomb %}</td><td>{% rauser Criteria %}</td></tr>
+        <tr><td>{% rauser BootDook %}</td><td>{% rauser Broboi698 %}</td><td>{% rauser caiociriaco %}</td><td>{% rauser CherriBomb %}</td><td>{% rauser Criteria %}</td></tr>
         <tr><td>{% rauser Cushycastle %}</td><td>{% rauser Dasein %}</td><td>{% rauser dsoda %}</td><td>{% rauser Duwangles %}</td><td>{% rauser emergodffx %}</td></tr>
         <tr><td>{% rauser Forgot7en %}</td><td>{% rauser Gary312x %}</td><td>{% rauser GimmeEmElbow %}</td><td>{% rauser hekkse %}</td><td>{% rauser HETOTYUKEN %}</td></tr>
-        <tr><td>{% rauser IceCream %}</td><td>{% rauser IngloriousBastid %}</td><td>{% rauser JMK4264 %}</td><td>{% rauser joetc %}</td><td>{% rauser JohnnyChampagne %}</td></tr>
-        <tr><td>{% rauser Kiruha50756 %}</td><td>{% rauser KSSyt %}</td><td>{% rauser LirycPrime793 %}</td><td>{% rauser Lodric %}</td><td>{% rauser MAJINJOE %}</td></tr>
+        <tr><td>{% rauser Plushhh %}</td><td>{% rauser IngloriousBastid %}</td><td>{% rauser JMK4264 %}</td><td>{% rauser nicesoup %}</td><td>{% rauser JohnnyChampagne %}</td></tr>
+        <tr><td>{% rauser Kiruha50756 %}</td><td>{% rauser Kayyy %}</td><td>{% rauser LirycPrime793 %}</td><td>{% rauser Lodric %}</td><td>{% rauser MAJINJOE %}</td></tr>
         <tr><td>{% rauser markus19808 %}</td><td>{% rauser Mateo125 %}</td><td>{% rauser mrsmashit %}</td><td>{% rauser onilionel %}</td><td>{% rauser Orpheus01 %}</td></tr>
         <tr><td>{% rauser PeebsX %}</td><td>{% rauser RetroRatNewHat %}</td><td>{% rauser rittyrit %}</td><td>{% rauser Sankwak %}</td><td>{% rauser sariacrossing %}</td></tr>
-        <tr><td>{% rauser Shiranuhi %}</td><td>{% rauser Slimtheshin %}</td><td>{% rauser sneakypete %}</td><td>{% rauser taybear %}</td><td>{% rauser thedbear %}</td></tr>
+        <tr><td>{% rauser Shiranuhi %}</td><td>{% rauser Slimtheshin %}</td><td>{% rauser sneakypete %}</td><td>{% rauser taybear %}</td><td>{% rauser SingSongDewgong %}</td></tr>
         <tr><td>{% rauser TheMandrew %}</td><td>{% rauser TurnipBoy %}</td><td>{% rauser Vexeis %}</td><td>{% rauser WadeB %}</td><td>{% rauser Xrave %}</td></tr>
-        <tr><td>{% rauser ABM64 %}</td><td>{% rauser ArrowSMorgan %}</td><td>{% rauser Bluer13 %}</td><td>{% rauser calledthezealot %}</td><td>{% rauser CanidSerpent %}</td></tr>
+        <tr><td>{% rauser ABM64 %}</td><td>{% rauser ArrowSMorgan %}</td><td>{% rauser Bluer13 %}</td><td>{% rauser grieves %}</td><td>{% rauser CanidSerpent %}</td></tr>
         <tr><td>{% rauser capvara %}</td><td>{% rauser carriganholt %}</td><td>{% rauser cattastic212 %}</td><td>{% rauser ComicCon20Playz %}</td><td>{% rauser cthuloo %}</td></tr>
         <tr><td>{% rauser cykeswiki %}</td><td>{% rauser DaniMarill %}</td><td>{% rauser Dgerson %}</td><td>{% rauser discussedspy %}</td><td>{% rauser eggco %}</td></tr>
-        <tr><td>{% rauser einBirnenbaum %}</td><td>{% rauser erden %}</td><td>{% rauser evertonj %}</td><td>{% rauser Fayyt %}</td><td>{% rauser FineMineKine %}</td></tr>
-        <tr><td>{% rauser GamingDork2000 %}</td><td>{% rauser isrossok %}</td><td>{% rauser Jacopo18 %}</td><td>{% rauser jstndstrctn %}</td><td>{% rauser KaiPers %}</td></tr>
+        <tr><td>{% rauser einBirnenbaum %}</td><td>{% rauser thesolidsnake123 %}</td><td>{% rauser evertonj %}</td><td>{% rauser Fayyt %}</td><td>{% rauser coreyPJT %}</td></tr>
+        <tr><td>{% rauser GamingDork %}</td><td>{% rauser isrossok %}</td><td>{% rauser Jacopo18 %}</td><td>{% rauser jstndstrctn %}</td><td>{% rauser KaiPers %}</td></tr>
         <tr><td>{% rauser kalu2004 %}</td><td>{% rauser KelleyBean %}</td><td>{% rauser killatron %}</td><td>{% rauser Leadv000 %}</td><td>{% rauser Longshot45 %}</td></tr>
-        <tr><td>{% rauser mashiah03 %}</td><td>{% rauser MaxusAchiev94 %}</td><td>{% rauser MichaelsStuff %}</td><td>{% rauser Moister %}</td><td>{% rauser MushutheEver %}</td></tr>
+        <tr><td>{% rauser mashiah03 %}</td><td>{% rauser CertifiedMaxus %}</td><td>{% rauser MichaelsStuff %}</td><td>{% rauser Moister %}</td><td>{% rauser LeEsqueleton %}</td></tr>
         <tr><td>{% rauser Neologue %}</td><td>{% rauser nesdude %}</td><td>{% rauser Nikws %}</td><td>{% rauser Nosferatoo %}</td><td>{% rauser NovaFrederick %}</td></tr>
-        <tr><td>{% rauser OneLegTree %}</td><td>{% rauser OreoStepswitcher %}</td><td>{% rauser penguinatorxl7 %}</td><td>{% rauser Primenova %}</td><td>{% rauser Punnynomad %}</td></tr>
-        <tr><td>{% rauser ReaperXYZ %}</td><td>{% rauser ronime %}</td><td>{% rauser Srv221 %}</td><td>{% rauser Strawblaze %}</td><td>{% rauser ttvJacoTiltado %}</td></tr>
-        <tr><td>{% rauser TwilitMinish %}</td><td>{% rauser Vampcyuh %}</td><td>{% rauser Viniskrrr %}</td><td>{% rauser WarkyRoo %}</td><td>{% rauser WasabiTonic %}</td></tr>
+        <tr><td>{% rauser OneLegTree %}</td><td>{% rauser nikodoesthings %}</td><td>{% rauser Penguinato %}</td><td>{% rauser Primenova %}</td><td>{% rauser Punnynomad %}</td></tr>
+        <tr><td>{% rauser ReaperXYZ %}</td><td>{% rauser ronime %}</td><td>{% rauser Trueno5309 %}</td><td>{% rauser Strawblaze %}</td><td>{% rauser ttvJacoTiltado %}</td></tr>
+        <tr><td>{% rauser TwilitMinish %}</td><td>{% rauser SomeRandomMedic %}</td><td>{% rauser Viniskrrr %}</td><td>{% rauser WarkyRoo %}</td><td>{% rauser WasabiTonic %}</td></tr>
         <tr><td>{% rauser WhiteSkeleton %}</td><td>{% rauser Wildson %}</td><td>{% rauser WilliamWorxInc %}</td><td>{% rauser Yair56r %}</td><td>{% rauser Yaruzu %}</td></tr>
         <tr><td>{% rauser yeeves %}</td><td>{% rauser Adfectus %}</td><td>{% rauser Adoril %}</td><td>{% rauser adrianoretro %}</td><td>{% rauser ArcticWolf %}</td></tr>
         <tr><td>{% rauser Blooero %}</td><td>{% rauser Brokensky369 %}</td><td>{% rauser Bwizo %}</td><td>{% rauser Deensly %}</td><td>{% rauser DerNiio %}</td></tr>
@@ -912,22 +912,22 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser ImStuff %}</td><td>{% rauser JerryCann %}</td><td>{% rauser JohnnyFootball %}</td><td>{% rauser jvoc %}</td><td>{% rauser KamSon253 %}</td></tr>
         <tr><td>{% rauser Karasumann %}</td><td>{% rauser Killboi207 %}</td><td>{% rauser KingofJackals %}</td><td>{% rauser KoopsDaGreat %}</td><td>{% rauser kriath %}</td></tr>
         <tr><td>{% rauser macydeweerd %}</td><td>{% rauser Makino %}</td><td>{% rauser milgrall %}</td><td>{% rauser MrFeral %}</td><td>{% rauser mutimutamut %}</td></tr>
-        <tr><td>{% rauser NintegaN %}</td><td>{% rauser Notdonknotts %}</td><td>{% rauser notsxba %}</td><td>{% rauser phoam %}</td><td>{% rauser PhuckYuBich187 %}</td></tr>
+        <tr><td>{% rauser UmLuiz2005KK %}</td><td>{% rauser Notdonknotts %}</td><td>{% rauser notsxba %}</td><td>{% rauser phoam %}</td><td>{% rauser PhuckYuBich187 %}</td></tr>
         <tr><td>{% rauser pissmartin %}</td><td>{% rauser SarahtheFox %}</td><td>{% rauser seaver1087 %}</td><td>{% rauser Shallie %}</td><td>{% rauser Shiydoh %}</td></tr>
-        <tr><td>{% rauser Sleazoid %}</td><td>{% rauser Sori %}</td><td>{% rauser srdango %}</td><td>{% rauser TDFChiefAdviser %}</td><td>{% rauser UpdateJournal %}</td></tr>
-        <tr><td>{% rauser userless %}</td><td>{% rauser waaatever %}</td><td>{% rauser Wishengrad %}</td><td>{% rauser WIWKACVV %}</td><td>{% rauser Yoyojimminy %}</td></tr>
+        <tr><td>{% rauser Sleazoid %}</td><td>{% rauser Sori %}</td><td>{% rauser srdango %}</td><td>{% rauser BanchoTokomon %}</td><td>{% rauser UpdateJournal %}</td></tr>
+        <tr><td>{% rauser userless %}</td><td>{% rauser oDani %}</td><td>{% rauser Wishengrad %}</td><td>{% rauser WIWKACVV %}</td><td>{% rauser Yoyojimminy %}</td></tr>
         <tr><td>{% rauser adamachieves %}</td><td>{% rauser Agghyson %}</td><td>{% rauser areil %}</td><td>{% rauser AshenTUT %}</td><td>{% rauser Axxel22Ar %}</td></tr>
         <tr><td>{% rauser BreakbeatGen %}</td><td>{% rauser Codiiy %}</td><td>{% rauser CrimsonEX %}</td><td>{% rauser CTJX %}</td><td>{% rauser DANKM4N %}</td></tr>
         <tr><td>{% rauser Denfiko %}</td><td>{% rauser EkatNate %}</td><td>{% rauser Elitsoh %}</td><td>{% rauser Era2173 %}</td><td>{% rauser Etelarid %}</td></tr>
-        <tr><td>{% rauser FancyRacc %}</td><td>{% rauser FFXIHumeStuff %}</td><td>{% rauser Francik %}</td><td>{% rauser froji %}</td><td>{% rauser Gabii %}</td></tr>
+        <tr><td>{% rauser ImKindaFancy %}</td><td>{% rauser FFXIHumeStuff %}</td><td>{% rauser Francik %}</td><td>{% rauser froji %}</td><td>{% rauser Gabii %}</td></tr>
         <tr><td>{% rauser glockzz %}</td><td>{% rauser Guler01010 %}</td><td>{% rauser hafian25 %}</td><td>{% rauser HenryRafael %}</td><td>{% rauser igorseabra4 %}</td></tr>
         <tr><td>{% rauser jheusgabriel %}</td><td>{% rauser LacraMaxima %}</td><td>{% rauser limesparrow %}</td><td>{% rauser Lunnee21 %}</td><td>{% rauser Marck59 %}</td></tr>
-        <tr><td>{% rauser Megavent %}</td><td>{% rauser mountainmaster %}</td><td>{% rauser MuriloMachado %}</td><td>{% rauser mzxx %}</td><td>{% rauser Nictendo %}</td></tr>
+        <tr><td>{% rauser Megavent %}</td><td>{% rauser mountainmaster %}</td><td>{% rauser MuriloMachado %}</td><td>{% rauser StormDelta6 %}</td><td>{% rauser Nictendo %}</td></tr>
         <tr><td>{% rauser NikkiENVT %}</td><td>{% rauser oktpm %}</td><td>{% rauser ornigimas %}</td><td>{% rauser RetroGuille64 %}</td><td>{% rauser RobustKnight %}</td></tr>
         <tr><td>{% rauser SarinaLocke %}</td><td>{% rauser Schuylerv %}</td><td>{% rauser Tamaryn %}</td><td>{% rauser TheLoryan %}</td><td>{% rauser TrapChefSanji %}</td></tr>
         <tr><td>{% rauser UltraParadox %}</td><td>{% rauser Vlya %}</td><td>{% rauser VoxArgent %}</td><td>{% rauser Wewser %}</td><td>{% rauser WGDragoon %}</td></tr>
-        <tr><td>{% rauser whatthelump666 %}</td><td>{% rauser XimangoH %}</td><td>{% rauser Xst1nct %}</td><td>{% rauser xXNoctisXx %}</td><td>{% rauser YuPinPanLee %}</td></tr>
-        <tr><td>{% rauser zaHando %}</td><td>{% rauser ZeroBeatBanjo %}</td><td>{% rauser ZombieGarou %}</td><td>{% rauser 321687097 %}</td><td>{% rauser AkabonBR %}</td></tr>
+        <tr><td>{% rauser whatthelump666 %}</td><td>{% rauser XimangoH %}</td><td>{% rauser GalahadX %}</td><td>{% rauser xXNoctisXx %}</td><td>{% rauser YuPinPanLee %}</td></tr>
+        <tr><td>{% rauser zaHando %}</td><td>{% rauser ZeroBeatBanjo %}</td><td>{% rauser ZombieGarou %}</td><td>{% rauser 321687097 %}</td><td>{% rauser AkabonKusanagiV2 %}</td></tr>
         <tr><td>{% rauser BakaUsagii %}</td><td>{% rauser Crazy1r %}</td><td>{% rauser CruelCynic %}</td><td>{% rauser DaftBanana %}</td><td>{% rauser DoctorR %}</td></tr>
         <tr><td>{% rauser eacp001 %}</td><td>{% rauser EddyWinchester %}</td><td>{% rauser ElMarce %}</td><td>{% rauser Fenexus %}</td><td>{% rauser ggdroi %}</td></tr>
         <tr><td>{% rauser Josema1077 %}</td><td>{% rauser Judge1964 %}</td><td>{% rauser kittysnuggles %}</td><td>{% rauser LinguineBruh %}</td><td>{% rauser MattWandering %}</td></tr>
@@ -943,69 +943,69 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser Roxas9327 %}</td><td>{% rauser Sk4zZi0uS %}</td><td>{% rauser SkeletonGod1245 %}</td><td>{% rauser SleepyPumpkinHead %}</td><td>{% rauser SnowWolf %}</td></tr>
         <tr><td>{% rauser Tailsisreal %}</td><td>{% rauser TheKing132 %}</td><td>{% rauser vaexcy %}</td><td>{% rauser ValScrimbly %}</td><td>{% rauser wenzhe %}</td></tr>
         <tr><td>{% rauser Winks %}</td><td>{% rauser xanshark %}</td><td>{% rauser Yoshard %}</td><td>{% rauser Arce120p %}</td><td>{% rauser artihip %}</td></tr>
-        <tr><td>{% rauser asATree %}</td><td>{% rauser BestGurlMyny %}</td><td>{% rauser Bongo98 %}</td><td>{% rauser Brudicion %}</td><td>{% rauser BubbleBlacky %}</td></tr>
+        <tr><td>{% rauser asATree %}</td><td>{% rauser LoryMin %}</td><td>{% rauser Bongo98 %}</td><td>{% rauser Brudicion %}</td><td>{% rauser BubbleBlacky %}</td></tr>
         <tr><td>{% rauser CerealCat %}</td><td>{% rauser Chaosmage %}</td><td>{% rauser charliechopshop %}</td><td>{% rauser cwilkins10 %}</td><td>{% rauser deadlydosage %}</td></tr>
         <tr><td>{% rauser Deebonk %}</td><td>{% rauser dtb345 %}</td><td>{% rauser FakuMiranoru %}</td><td>{% rauser Falabe %}</td><td>{% rauser FeliMatos86 %}</td></tr>
         <tr><td>{% rauser Ferreyracito %}</td><td>{% rauser FrankGerrard %}</td><td>{% rauser HollywoodKids %}</td><td>{% rauser iPodwithnomusic %}</td><td>{% rauser Itawmn %}</td></tr>
-        <tr><td>{% rauser itzMISTAHJ %}</td><td>{% rauser JesuSiuXD %}</td><td>{% rauser jogosstar %}</td><td>{% rauser JonathanBelmon %}</td><td>{% rauser Katamakuri %}</td></tr>
-        <tr><td>{% rauser Klab %}</td><td>{% rauser Koroshia %}</td><td>{% rauser Kurffy %}</td><td>{% rauser LiamMichaelBishop %}</td><td>{% rauser Lyngwe %}</td></tr>
+        <tr><td>{% rauser itzMISTAHJ %}</td><td>{% rauser JesuSiuXD %}</td><td>{% rauser jogosstar %}</td><td>{% rauser JonathanBelmont %}</td><td>{% rauser Katamakuri %}</td></tr>
+        <tr><td>{% rauser PatchofRoses %}</td><td>{% rauser Koroshia %}</td><td>{% rauser Kurffy %}</td><td>{% rauser LiamMichaelBishop %}</td><td>{% rauser Lyngwe %}</td></tr>
         <tr><td>{% rauser ManiacSR %}</td><td>{% rauser MarcosRei %}</td><td>{% rauser Mutagen01 %}</td><td>{% rauser Narai %}</td><td>{% rauser nittynittsters %}</td></tr>
         <tr><td>{% rauser Ozzy420x365 %}</td><td>{% rauser ParallaxSeraph %}</td><td>{% rauser puduccini %}</td><td>{% rauser RamonPadua %}</td><td>{% rauser rockmos %}</td></tr>
         <tr><td>{% rauser RyTic %}</td><td>{% rauser sailorhasaids123 %}</td><td>{% rauser SailorStars %}</td><td>{% rauser Sanilu %}</td><td>{% rauser stiborge %}</td></tr>
-        <tr><td>{% rauser streitixy %}</td><td>{% rauser SusieTheDoozie %}</td><td>{% rauser tchufli %}</td><td>{% rauser Thecolawade %}</td><td>{% rauser Tinhil %}</td></tr>
+        <tr><td>{% rauser streitixy %}</td><td>{% rauser StarryBrightVT %}</td><td>{% rauser tchufli %}</td><td>{% rauser Thecolawade %}</td><td>{% rauser Tinhil %}</td></tr>
         <tr><td>{% rauser TravZord66 %}</td><td>{% rauser YortroY %}</td><td>{% rauser abs075 %}</td><td>{% rauser Albelux %}</td><td>{% rauser ale2203 %}</td></tr>
         <tr><td>{% rauser AnDr61J %}</td><td>{% rauser Apoliom %}</td><td>{% rauser AroomWithAMoose %}</td><td>{% rauser Ayan001 %}</td><td>{% rauser batsamu %}</td></tr>
-        <tr><td>{% rauser berti %}</td><td>{% rauser Buglog %}</td><td>{% rauser Byaku524 %}</td><td>{% rauser ChatLumo %}</td><td>{% rauser CometBlueFox %}</td></tr>
+        <tr><td>{% rauser berti %}</td><td>{% rauser Buglog %}</td><td>{% rauser Byaku524 %}</td><td>{% rauser ChatLumo %}</td><td>{% rauser CometLeBouffon %}</td></tr>
         <tr><td>{% rauser darthhelmet2193 %}</td><td>{% rauser Dhue %}</td><td>{% rauser dial66 %}</td><td>{% rauser DinnerKing %}</td><td>{% rauser doomhiker %}</td></tr>
         <tr><td>{% rauser DrLeopeiros %}</td><td>{% rauser Dunes %}</td><td>{% rauser EmiliaLani %}</td><td>{% rauser finsom %}</td><td>{% rauser FMDesperado %}</td></tr>
-        <tr><td>{% rauser FuriaGuerrera19 %}</td><td>{% rauser GastlyGibus %}</td><td>{% rauser gayseal %}</td><td>{% rauser guyi621 %}</td><td>{% rauser Heartknightengaged %}</td></tr>
+        <tr><td>{% rauser FuriaGuerrera19 %}</td><td>{% rauser GastlyGibus %}</td><td>{% rauser PoroporoProto %}</td><td>{% rauser guyi621 %}</td><td>{% rauser Heartknightengaged %}</td></tr>
         <tr><td>{% rauser Hennui %}</td><td>{% rauser HyperDynamo %}</td><td>{% rauser Ilaiyayaya %}</td><td>{% rauser IsolaDelfina %}</td><td>{% rauser itsyuria %}</td></tr>
-        <tr><td>{% rauser jndd %}</td><td>{% rauser KidNES %}</td><td>{% rauser LevelX %}</td><td>{% rauser lms7ds %}</td><td>{% rauser Lunariiar %}</td></tr>
+        <tr><td>{% rauser jndd %}</td><td>{% rauser KidNES %}</td><td>{% rauser GreenGear %}</td><td>{% rauser lms7ds %}</td><td>{% rauser Lunariiar %}</td></tr>
         <tr><td>{% rauser luxun1985 %}</td><td>{% rauser markopolou %}</td><td>{% rauser Matheusbarbiot01 %}</td><td>{% rauser MindStranger %}</td><td>{% rauser Mixtape %}</td></tr>
         <tr><td>{% rauser NaccirDaisy %}</td><td>{% rauser nicky777 %}</td><td>{% rauser Notdog1996 %}</td><td>{% rauser Oposh %}</td><td>{% rauser Parukia %}</td></tr>
         <tr><td>{% rauser Peanriri %}</td><td>{% rauser Pigcountry %}</td><td>{% rauser SPap3r %}</td><td>{% rauser SpinSlash165 %}</td><td>{% rauser Strawflowers %}</td></tr>
-        <tr><td>{% rauser TacoDivision %}</td><td>{% rauser tuuca %}</td><td>{% rauser Unguided %}</td><td>{% rauser unhappypeepo %}</td><td>{% rauser WhiteHibachi %}</td></tr>
+        <tr><td>{% rauser TacoDivision %}</td><td>{% rauser tuuca %}</td><td>{% rauser Unguided %}</td><td>{% rauser GreatPeepo %}</td><td>{% rauser WhiteHibachi %}</td></tr>
         <tr><td>{% rauser WizardofWords %}</td><td>{% rauser Xelanaia %}</td><td>{% rauser xtroyano %}</td><td>{% rauser Yodontorius %}</td><td>{% rauser achateaux %}</td></tr>
-        <tr><td>{% rauser AnhJim %}</td><td>{% rauser AsagaoHanae %}</td><td>{% rauser AzurRayne %}</td><td>{% rauser Baiken2006 %}</td><td>{% rauser Bambers %}</td></tr>
-        <tr><td>{% rauser blackdoom99 %}</td><td>{% rauser BobOnTheKebab %}</td><td>{% rauser Bowryoku %}</td><td>{% rauser bultack %}</td><td>{% rauser Deopice %}</td></tr>
+        <tr><td>{% rauser AnhJim %}</td><td>{% rauser Curren %}</td><td>{% rauser AzurRayne %}</td><td>{% rauser Baiken2006 %}</td><td>{% rauser bambiibop %}</td></tr>
+        <tr><td>{% rauser blackdoom99 %}</td><td>{% rauser BobOnTheKebab %}</td><td>{% rauser Bowrpyku %}</td><td>{% rauser bultack %}</td><td>{% rauser Deopice %}</td></tr>
         <tr><td>{% rauser flameguy21 %}</td><td>{% rauser Goofs227 %}</td><td>{% rauser Hikkichan %}</td><td>{% rauser HoshiNoSerena %}</td><td>{% rauser iYenderTLk %}</td></tr>
         <tr><td>{% rauser Josephhenrique30 %}</td><td>{% rauser Karzy25 %}</td><td>{% rauser kashika15 %}</td><td>{% rauser kodoku8619 %}</td><td>{% rauser KyleMayheM %}</td></tr>
         <tr><td>{% rauser LehLeh %}</td><td>{% rauser lmgginspace %}</td><td>{% rauser LostDeoxys %}</td><td>{% rauser maicolox %}</td><td>{% rauser MrBodd %}</td></tr>
-        <tr><td>{% rauser Ogmius1994 %}</td><td>{% rauser Opossum %}</td><td>{% rauser PulsarrGaming %}</td><td>{% rauser Raelvt %}</td><td>{% rauser RagingMammoth %}</td></tr>
-        <tr><td>{% rauser REV1791 %}</td><td>{% rauser RothkoChappelle %}</td><td>{% rauser Rs525 %}</td><td>{% rauser Sanicfan24 %}</td><td>{% rauser SilentReaverX %}</td></tr>
-        <tr><td>{% rauser sloopin %}</td><td>{% rauser SolidAllu %}</td><td>{% rauser sophi %}</td><td>{% rauser t65re4 %}</td><td>{% rauser TalentzOG %}</td></tr>
-        <tr><td>{% rauser TaZeSpeed %}</td><td>{% rauser TheIcelandicLoser %}</td><td>{% rauser TheReybanz %}</td><td>{% rauser TooDrunkFor %}</td><td>{% rauser ToxRx %}</td></tr>
+        <tr><td>{% rauser Ogmius1994 %}</td><td>{% rauser Opossum %}</td><td>{% rauser PulsarrGaming %}</td><td>{% rauser Onerdfalido %}</td><td>{% rauser RagingMammoth %}</td></tr>
+        <tr><td>{% rauser REV000 %}</td><td>{% rauser RothkoChappelle %}</td><td>{% rauser RayTurismo %}</td><td>{% rauser Sanicfan24 %}</td><td>{% rauser SilentReaverX %}</td></tr>
+        <tr><td>{% rauser sloopin %}</td><td>{% rauser SolidAllu %}</td><td>{% rauser sophi %}</td><td>{% rauser t65re4 %}</td><td>{% rauser RetroTalentz %}</td></tr>
+        <tr><td>{% rauser TaZeSpeed %}</td><td>{% rauser TheIcelandicLoser %}</td><td>{% rauser Sickly %}</td><td>{% rauser TooDrunkFor %}</td><td>{% rauser ToxRx %}</td></tr>
         <tr><td>{% rauser ukwe %}</td><td>{% rauser Yegos %}</td><td>{% rauser Ammari95 %}</td><td>{% rauser Bluex91 %}</td><td>{% rauser Browhiskas %}</td></tr>
-        <tr><td>{% rauser CartMix %}</td><td>{% rauser ClankyBoi %}</td><td>{% rauser CloudyBrains %}</td><td>{% rauser DarkShadow17 %}</td><td>{% rauser Davinperk %}</td></tr>
+        <tr><td>{% rauser CartMix %}</td><td>{% rauser ClankyBoi %}</td><td>{% rauser PandoraMegistus %}</td><td>{% rauser DarkShadow17 %}</td><td>{% rauser Davinperk %}</td></tr>
         <tr><td>{% rauser Denserbeef %}</td><td>{% rauser Deondre128 %}</td><td>{% rauser DpadSensei %}</td><td>{% rauser DustyJames %}</td><td>{% rauser Elias3265 %}</td></tr>
         <tr><td>{% rauser emptygoodman %}</td><td>{% rauser Espancavgn %}</td><td>{% rauser gabiofastora %}</td><td>{% rauser GODOX %}</td><td>{% rauser Haggar4president %}</td></tr>
-        <tr><td>{% rauser hardric %}</td><td>{% rauser HelpThe14 %}</td><td>{% rauser homulily %}</td><td>{% rauser IkeStogi %}</td><td>{% rauser InvisibleMango %}</td></tr>
-        <tr><td>{% rauser jasbird %}</td><td>{% rauser Kaelia %}</td><td>{% rauser koisher %}</td><td>{% rauser MaskeD1YT %}</td><td>{% rauser Mephilex %}</td></tr>
-        <tr><td>{% rauser metaljess %}</td><td>{% rauser MOVGames %}</td><td>{% rauser munjininja %}</td><td>{% rauser N0sg0th %}</td><td>{% rauser NisuPudding %}</td></tr>
-        <tr><td>{% rauser Polosios %}</td><td>{% rauser prjoeL %}</td><td>{% rauser Razor075 %}</td><td>{% rauser rcitolin %}</td><td>{% rauser Repiteo %}</td></tr>
+        <tr><td>{% rauser hardric %}</td><td>{% rauser HelpThe14 %}</td><td>{% rauser yunocchi %}</td><td>{% rauser IkeStogi %}</td><td>{% rauser InvisibleMango %}</td></tr>
+        <tr><td>{% rauser LateNightRoon %}</td><td>{% rauser Kaelia %}</td><td>{% rauser koisher %}</td><td>{% rauser MaskeD1YT %}</td><td>{% rauser Mephilex %}</td></tr>
+        <tr><td>{% rauser metaljess %}</td><td>{% rauser MOVGames %}</td><td>{% rauser munjininja %}</td><td>{% rauser N0sg0th %}</td><td>{% rauser Tenshii %}</td></tr>
+        <tr><td>{% rauser Polosios %}</td><td>{% rauser prjoeL %}</td><td>{% rauser Revzor %}</td><td>{% rauser rcitolin %}</td><td>{% rauser Repiteo %}</td></tr>
         <tr><td>{% rauser Rodrigol788 %}</td><td>{% rauser se3ing %}</td><td>{% rauser Skuntty %}</td><td>{% rauser Snake097 %}</td><td>{% rauser SpeedyBall %}</td></tr>
-        <tr><td>{% rauser Stanscooby %}</td><td>{% rauser testerww %}</td><td>{% rauser TheSpectralStar %}</td><td>{% rauser TheUltimateNao %}</td><td>{% rauser theuselessgod %}</td></tr>
+        <tr><td>{% rauser Stanscooby %}</td><td>{% rauser waitwaht %}</td><td>{% rauser TheSpectralStar %}</td><td>{% rauser TheUltimateNao %}</td><td>{% rauser theuselessgod %}</td></tr>
         <tr><td>{% rauser VLadiiii %}</td><td>{% rauser Wadytu %}</td><td>{% rauser y0ggy %}</td><td>{% rauser Arrowsone %}</td><td>{% rauser Blais %}</td></tr>
-        <tr><td>{% rauser Bryan664 %}</td><td>{% rauser bswag %}</td><td>{% rauser Casperions %}</td><td>{% rauser ClassicAchievements %}</td><td>{% rauser CronoNes %}</td></tr>
+        <tr><td>{% rauser RandomBrazillianGuy %}</td><td>{% rauser bswag %}</td><td>{% rauser Casperions %}</td><td>{% rauser ClassicAchievements %}</td><td>{% rauser CronoNes %}</td></tr>
         <tr><td>{% rauser DavidPlaysGames %}</td><td>{% rauser dayrocketzero %}</td><td>{% rauser DEMACY %}</td><td>{% rauser DoomerBr %}</td><td>{% rauser DrK727 %}</td></tr>
         <tr><td>{% rauser Dubiz %}</td><td>{% rauser Elkarapara %}</td><td>{% rauser Fluxvalve %}</td><td>{% rauser Fortniteguy %}</td><td>{% rauser Gavin04 %}</td></tr>
         <tr><td>{% rauser Ghirahim %}</td><td>{% rauser GingerHorse %}</td><td>{% rauser Giordys %}</td><td>{% rauser GrandmaEater %}</td><td>{% rauser GuideMissile %}</td></tr>
-        <tr><td>{% rauser imAndy %}</td><td>{% rauser JeanJamesJohnson %}</td><td>{% rauser kurama6 %}</td><td>{% rauser loestr %}</td><td>{% rauser LunarCrescent1 %}</td></tr>
+        <tr><td>{% rauser imAndy %}</td><td>{% rauser JeanJamesJohnson %}</td><td>{% rauser lupocrata %}</td><td>{% rauser loes %}</td><td>{% rauser LunarCrescent1 %}</td></tr>
         <tr><td>{% rauser MACHINEMAN %}</td><td>{% rauser maxmontezuma %}</td><td>{% rauser Mysticvalley %}</td><td>{% rauser nexberry %}</td><td>{% rauser ObtooseMoose %}</td></tr>
-        <tr><td>{% rauser pinkshonen %}</td><td>{% rauser realdealGAMER %}</td><td>{% rauser Reneav %}</td><td>{% rauser RgMagi %}</td><td>{% rauser Robbyv109 %}</td></tr>
-        <tr><td>{% rauser SamuraiGardev %}</td><td>{% rauser Sanganman %}</td><td>{% rauser Shryp %}</td><td>{% rauser sneefsnorf %}</td><td>{% rauser SomeAsshat %}</td></tr>
+        <tr><td>{% rauser digdug77 %}</td><td>{% rauser realdealGAMER %}</td><td>{% rauser Reneav %}</td><td>{% rauser RgMagi %}</td><td>{% rauser Robbyv109 %}</td></tr>
+        <tr><td>{% rauser SamuraiGardevoir828 %}</td><td>{% rauser Sanganman %}</td><td>{% rauser Shryp %}</td><td>{% rauser sneefsnorf %}</td><td>{% rauser SomeAsshat %}</td></tr>
         <tr><td>{% rauser StefLeRef %}</td><td>{% rauser thedjw191 %}</td><td>{% rauser TriForC %}</td><td>{% rauser Vanraen %}</td><td>{% rauser wippichgood %}</td></tr>
         <tr><td>{% rauser 8bittheologian %}</td><td>{% rauser Aleks05 %}</td><td>{% rauser Alilspoopy %}</td><td>{% rauser amjordee %}</td><td>{% rauser ApokilipticKaos %}</td></tr>
         <tr><td>{% rauser Arekisandoru %}</td><td>{% rauser beefboy19 %}</td><td>{% rauser Calic0 %}</td><td>{% rauser carolilo %}</td><td>{% rauser cpc1 %}</td></tr>
-        <tr><td>{% rauser Drazen13 %}</td><td>{% rauser eddy76 %}</td><td>{% rauser ElevaV %}</td><td>{% rauser fwade87 %}</td><td>{% rauser GamerMage42 %}</td></tr>
+        <tr><td>{% rauser Drazen13 %}</td><td>{% rauser eddy76 %}</td><td>{% rauser ElevaV %}</td><td>{% rauser fwade87 %}</td><td>{% rauser GlengoolieBlu42 %}</td></tr>
         <tr><td>{% rauser Hotstreak164 %}</td><td>{% rauser IwanPV %}</td><td>{% rauser Kaionetta %}</td><td>{% rauser KrowCatiel %}</td><td>{% rauser Lauraexe %}</td></tr>
         <tr><td>{% rauser Lexianerd %}</td><td>{% rauser linkhs %}</td><td>{% rauser MetalRage %}</td><td>{% rauser milespeebles %}</td><td>{% rauser nashvilleskyline %}</td></tr>
         <tr><td>{% rauser NayrusLuvv %}</td><td>{% rauser OnlyJulim %}</td><td>{% rauser Pakitronco %}</td><td>{% rauser Richas1234 %}</td><td>{% rauser Ruisu26 %}</td></tr>
         <tr><td>{% rauser SariaKokiri %}</td><td>{% rauser ShinobuFujiko %}</td><td>{% rauser VALIS %}</td><td>{% rauser Xking684 %}</td><td>{% rauser Z1n0gr3 %}</td></tr>
         <tr><td>{% rauser zegrifed %}</td><td>{% rauser ZeratosRF %}</td><td>{% rauser zerovoid1086 %}</td><td>{% rauser AMIN2504ever %}</td><td>{% rauser Andromedus %}</td></tr>
         <tr><td>{% rauser Astaroth85 %}</td><td>{% rauser avaelin %}</td><td>{% rauser BritishCloudy %}</td><td>{% rauser cateat %}</td><td>{% rauser crimsonlea %}</td></tr>
-        <tr><td>{% rauser draynaps %}</td><td>{% rauser DriftInTheAbyss %}</td><td>{% rauser Edkux %}</td><td>{% rauser fab1982 %}</td><td>{% rauser FairAlastor %}</td></tr>
-        <tr><td>{% rauser glasseskouhai %}</td><td>{% rauser Goberto %}</td><td>{% rauser Grifo999 %}</td><td>{% rauser GuaxinimTz %}</td><td>{% rauser Heatrez %}</td></tr>
+        <tr><td>{% rauser draynaps %}</td><td>{% rauser DriftInTheAbyss %}</td><td>{% rauser Edkux %}</td><td>{% rauser fab1982 %}</td><td>{% rauser Reasercher %}</td></tr>
+        <tr><td>{% rauser glasseskouhai %}</td><td>{% rauser Goberto %}</td><td>{% rauser Grifo999 %}</td><td>{% rauser RAYMATADORADEDRAGOES %}</td><td>{% rauser Heatrez %}</td></tr>
         <tr><td>{% rauser HOSTILITEA %}</td><td>{% rauser Idontpk %}</td><td>{% rauser Isdarkness %}</td><td>{% rauser itsfrayar %}</td><td>{% rauser Jex101 %}</td></tr>
         <tr><td>{% rauser Jpcrash12 %}</td><td>{% rauser Kylerfunk %}</td><td>{% rauser Malvadeira %}</td><td>{% rauser ManicManuel %}</td><td>{% rauser Marcoss %}</td></tr>
         <tr><td>{% rauser PanManDwn %}</td><td>{% rauser PAPERpop %}</td><td>{% rauser Porf %}</td><td>{% rauser R4z0r98 %}</td><td>{% rauser Rengekii %}</td></tr>
@@ -1018,80 +1018,80 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser 032007caio %}</td><td>{% rauser Acraea %}</td><td>{% rauser Alexleo99 %}</td><td>{% rauser Alkkio %}</td><td>{% rauser AnjoFisico %}</td></tr>
         <tr><td>{% rauser artoffutbol %}</td><td>{% rauser Beshi %}</td><td>{% rauser BloodbornePC %}</td><td>{% rauser BriarNaga %}</td><td>{% rauser Carlosalexis9 %}</td></tr>
         <tr><td>{% rauser ChiL %}</td><td>{% rauser Corydehart %}</td><td>{% rauser Dannieplatinum %}</td><td>{% rauser destroyer1817 %}</td><td>{% rauser Dolphdac %}</td></tr>
-        <tr><td>{% rauser ejaculodentrogames %}</td><td>{% rauser EzraBloop %}</td><td>{% rauser Flockiv %}</td><td>{% rauser fresham %}</td><td>{% rauser fridaykitty %}</td></tr>
-        <tr><td>{% rauser GamerDadSean %}</td><td>{% rauser GarciaFam %}</td><td>{% rauser gotanysnacks %}</td><td>{% rauser gothiccoffin666 %}</td><td>{% rauser Joevious %}</td></tr>
-        <tr><td>{% rauser JurnthReinal %}</td><td>{% rauser KleviTowers22 %}</td><td>{% rauser kvartsfinne %}</td><td>{% rauser Leonidas30069 %}</td><td>{% rauser mathantolous %}</td></tr>
+        <tr><td>{% rauser beniorr %}</td><td>{% rauser EzraBloop %}</td><td>{% rauser Flockiv %}</td><td>{% rauser fresham %}</td><td>{% rauser fridaykitty %}</td></tr>
+        <tr><td>{% rauser GamingFatherSean %}</td><td>{% rauser GarciaFam %}</td><td>{% rauser gotanysnacks %}</td><td>{% rauser gothiccoffin666 %}</td><td>{% rauser Joevious %}</td></tr>
+        <tr><td>{% rauser JurnthReinal %}</td><td>{% rauser KleviTowers %}</td><td>{% rauser kvartsfinne %}</td><td>{% rauser Leonidas30069 %}</td><td>{% rauser mathantolous %}</td></tr>
         <tr><td>{% rauser MattyBuhh %}</td><td>{% rauser Menaxi %}</td><td>{% rauser Migueltsune69BR %}</td><td>{% rauser Oyobu %}</td><td>{% rauser ozkr %}</td></tr>
         <tr><td>{% rauser Pedriiino %}</td><td>{% rauser PioneerSoundSystem %}</td><td>{% rauser ProtoWarrior231 %}</td><td>{% rauser riano2525 %}</td><td>{% rauser rowanlool %}</td></tr>
         <tr><td>{% rauser TheGuitarGamer %}</td><td>{% rauser Tiempura %}</td><td>{% rauser Tinosaurus %}</td><td>{% rauser Veetiz %}</td><td>{% rauser Zoin %}</td></tr>
         <tr><td>{% rauser Zyphrix %}</td><td>{% rauser APeX87 %}</td><td>{% rauser aswanthpra2012 %}</td><td>{% rauser CapiPinkman %}</td><td>{% rauser dewstend %}</td></tr>
         <tr><td>{% rauser ErinYatogami %}</td><td>{% rauser FruggleJugg %}</td><td>{% rauser henriquewrr %}</td><td>{% rauser Jackdieyster %}</td><td>{% rauser Keysome7 %}</td></tr>
-        <tr><td>{% rauser Limmon %}</td><td>{% rauser Makoushu %}</td><td>{% rauser marceloexegonzalez %}</td><td>{% rauser marijn1999 %}</td><td>{% rauser Mau21 %}</td></tr>
-        <tr><td>{% rauser mushroomol %}</td><td>{% rauser Myth1cArs3nal %}</td><td>{% rauser oimeuchapa84 %}</td><td>{% rauser raiquesantos %}</td><td>{% rauser renankcalb %}</td></tr>
-        <tr><td>{% rauser SIKORSKY84 %}</td><td>{% rauser SonicEmpire777GD %}</td><td>{% rauser StarboiKendo %}</td><td>{% rauser TheAutisticGamer27 %}</td><td>{% rauser ToastGhost522 %}</td></tr>
-        <tr><td>{% rauser tonivitone %}</td><td>{% rauser tyler75wilhelm %}</td><td>{% rauser Valnight %}</td><td>{% rauser WLF4 %}</td><td>{% rauser Aby01 %}</td></tr>
+        <tr><td>{% rauser Limmon %}</td><td>{% rauser Makoushu %}</td><td>{% rauser marceloexegonzalez %}</td><td>{% rauser marijn1999 %}</td><td>{% rauser mauspfc %}</td></tr>
+        <tr><td>{% rauser ColtenVoid %}</td><td>{% rauser Myth1cArs3nal %}</td><td>{% rauser oimeuchapa84 %}</td><td>{% rauser raiquesantos %}</td><td>{% rauser renankcalb %}</td></tr>
+        <tr><td>{% rauser SIKORSKY84 %}</td><td>{% rauser SonicEmpire777GD %}</td><td>{% rauser StarboiKendo %}</td><td>{% rauser TAGPlaysGames27 %}</td><td>{% rauser ToastGhost522 %}</td></tr>
+        <tr><td>{% rauser tonivitone %}</td><td>{% rauser SKNcolorMNTR %}</td><td>{% rauser Valnight %}</td><td>{% rauser WLF4 %}</td><td>{% rauser Aby01 %}</td></tr>
         <tr><td>{% rauser aF4nG %}</td><td>{% rauser Aquilo24 %}</td><td>{% rauser ayymarkie %}</td><td>{% rauser beep0406 %}</td><td>{% rauser Beth333 %}</td></tr>
         <tr><td>{% rauser Brunosantiin %}</td><td>{% rauser dangphuochung1511 %}</td><td>{% rauser DaRixta76 %}</td><td>{% rauser DarkShadowSoul %}</td><td>{% rauser doccobell %}</td></tr>
         <tr><td>{% rauser Dstomp %}</td><td>{% rauser DxSylls %}</td><td>{% rauser ElCicio420 %}</td><td>{% rauser Evcas93 %}</td><td>{% rauser ForperCN %}</td></tr>
-        <tr><td>{% rauser Gamoi1 %}</td><td>{% rauser goose69420 %}</td><td>{% rauser inajar %}</td><td>{% rauser J0ntinas %}</td><td>{% rauser KittyMadness %}</td></tr>
+        <tr><td>{% rauser Gamoi1 %}</td><td>{% rauser goose69420 %}</td><td>{% rauser v3xt %}</td><td>{% rauser J0ntinas %}</td><td>{% rauser KittyMadness %}</td></tr>
         <tr><td>{% rauser Luigiclem64 %}</td><td>{% rauser Luigingus %}</td><td>{% rauser mkDarker %}</td><td>{% rauser MPEDLP %}</td><td>{% rauser MrYamcha %}</td></tr>
         <tr><td>{% rauser nickthebot %}</td><td>{% rauser pojke %}</td><td>{% rauser RanardoSan %}</td><td>{% rauser retroab0307 %}</td><td>{% rauser ripperjunkie %}</td></tr>
-        <tr><td>{% rauser Sandynosaur %}</td><td>{% rauser sciencevoyager %}</td><td>{% rauser ShockedOtter %}</td><td>{% rauser smithers20 %}</td><td>{% rauser Smork %}</td></tr>
+        <tr><td>{% rauser GoblinQueen %}</td><td>{% rauser sciencevoyager %}</td><td>{% rauser ShockedOtter %}</td><td>{% rauser smithers20 %}</td><td>{% rauser Smork %}</td></tr>
         <tr><td>{% rauser Sybilex %}</td><td>{% rauser Turtles320 %}</td><td>{% rauser UncleBats %}</td><td>{% rauser Valentinn %}</td><td>{% rauser Watzup7856 %}</td></tr>
         <tr><td>{% rauser yellowmcfingerbite %}</td><td>{% rauser zatyme %}</td><td>{% rauser zKitsune %}</td><td>{% rauser alopex44 %}</td><td>{% rauser AndreoDubal %}</td></tr>
         <tr><td>{% rauser Aphelian %}</td><td>{% rauser Arikato %}</td><td>{% rauser Bezdek %}</td><td>{% rauser CaldodePato %}</td><td>{% rauser Chobani %}</td></tr>
         <tr><td>{% rauser Crumpey %}</td><td>{% rauser Davaughn %}</td><td>{% rauser DAW242 %}</td><td>{% rauser Dextrous47 %}</td><td>{% rauser discro %}</td></tr>
-        <tr><td>{% rauser Drawtime120 %}</td><td>{% rauser EspacoBranco %}</td><td>{% rauser Flutt3rButter %}</td><td>{% rauser harvok08 %}</td><td>{% rauser HeavyStoneClouds %}</td></tr>
+        <tr><td>{% rauser Drawtime120 %}</td><td>{% rauser theFarao %}</td><td>{% rauser Flutt3rButter %}</td><td>{% rauser Sunpichu %}</td><td>{% rauser HeavyStoneClouds %}</td></tr>
         <tr><td>{% rauser HermitToad %}</td><td>{% rauser Jadger %}</td><td>{% rauser killthane %}</td><td>{% rauser Lucrei %}</td><td>{% rauser Marisol %}</td></tr>
         <tr><td>{% rauser Mikeymikez %}</td><td>{% rauser mkdroz91 %}</td><td>{% rauser MrPikmin16 %}</td><td>{% rauser NiamherDreams %}</td><td>{% rauser Nifland %}</td></tr>
         <tr><td>{% rauser Nikccanal %}</td><td>{% rauser Obelisk94 %}</td><td>{% rauser Odinke %}</td><td>{% rauser PeaPeanut1 %}</td><td>{% rauser pooPgOd %}</td></tr>
         <tr><td>{% rauser RatKing %}</td><td>{% rauser shadow1635 %}</td><td>{% rauser Spyashchiy %}</td><td>{% rauser Takelberry %}</td><td>{% rauser Theleruby %}</td></tr>
         <tr><td>{% rauser tk1603 %}</td><td>{% rauser Trubbs %}</td><td>{% rauser umberto44 %}</td><td>{% rauser Vexxariel %}</td><td>{% rauser WheelsAndWhirls %}</td></tr>
         <tr><td>{% rauser Zakuro287 %}</td><td>{% rauser ZanaZira %}</td><td>{% rauser ZzzEternal %}</td><td>{% rauser 1Pic1 %}</td><td>{% rauser Arianault %}</td></tr>
-        <tr><td>{% rauser aubeezey %}</td><td>{% rauser Blastrike21 %}</td><td>{% rauser bombchuubowling1up %}</td><td>{% rauser BrennoGames364 %}</td><td>{% rauser Cellophane652 %}</td></tr>
+        <tr><td>{% rauser aubeezey %}</td><td>{% rauser Elizeo %}</td><td>{% rauser bombchuubowling1up %}</td><td>{% rauser BrennoGames364 %}</td><td>{% rauser Cellophane652 %}</td></tr>
         <tr><td>{% rauser Cloudmuffin %}</td><td>{% rauser Colut %}</td><td>{% rauser Crank030 %}</td><td>{% rauser DaggerSlider %}</td><td>{% rauser Darkkitten %}</td></tr>
-        <tr><td>{% rauser guyonthecouch %}</td><td>{% rauser IluvGreenSeaTurtles %}</td><td>{% rauser Janustar %}</td><td>{% rauser Jbren98 %}</td><td>{% rauser jordanh %}</td></tr>
-        <tr><td>{% rauser juegador %}</td><td>{% rauser lllisa %}</td><td>{% rauser maldadeEvil %}</td><td>{% rauser mirisyt1 %}</td><td>{% rauser moontrip %}</td></tr>
-        <tr><td>{% rauser n64m %}</td><td>{% rauser NadaBDK %}</td><td>{% rauser NightOwl124 %}</td><td>{% rauser notjowy %}</td><td>{% rauser Pablito64 %}</td></tr>
+        <tr><td>{% rauser guyonthecouch %}</td><td>{% rauser IluvGreenSeaTurtles %}</td><td>{% rauser Janustar %}</td><td>{% rauser BrenzyZ %}</td><td>{% rauser jordanh %}</td></tr>
+        <tr><td>{% rauser juegador %}</td><td>{% rauser lllisa %}</td><td>{% rauser KillEmAll %}</td><td>{% rauser mirisyt1 %}</td><td>{% rauser moontrip %}</td></tr>
+        <tr><td>{% rauser anil434343 %}</td><td>{% rauser NadaBDK %}</td><td>{% rauser NightOwl124 %}</td><td>{% rauser FioraAlmater %}</td><td>{% rauser Pablito64 %}</td></tr>
         <tr><td>{% rauser Paulota12 %}</td><td>{% rauser Pixelfetish %}</td><td>{% rauser Raethia %}</td><td>{% rauser Rasekhmet %}</td><td>{% rauser S4astliv4ik %}</td></tr>
         <tr><td>{% rauser speck99001 %}</td><td>{% rauser Tangarifee90 %}</td><td>{% rauser TobiWanKenobi95 %}</td><td>{% rauser Turaltay %}</td><td>{% rauser Wafflesip %}</td></tr>
         <tr><td>{% rauser werox %}</td><td>{% rauser Wiresong %}</td><td>{% rauser xXGodSlayerXx %}</td><td>{% rauser 507310 %}</td><td>{% rauser 6lu6st6 %}</td></tr>
         <tr><td>{% rauser AceMcGhee %}</td><td>{% rauser AhmetZ %}</td><td>{% rauser ALeal %}</td><td>{% rauser AngelDarkslayer %}</td><td>{% rauser ArmandoVVV %}</td></tr>
         <tr><td>{% rauser Bunsig %}</td><td>{% rauser calhooom %}</td><td>{% rauser d0beye %}</td><td>{% rauser deepeternal %}</td><td>{% rauser DeXudra %}</td></tr>
-        <tr><td>{% rauser Dracofly %}</td><td>{% rauser EchoBastralle %}</td><td>{% rauser Heldorak %}</td><td>{% rauser Higusa %}</td><td>{% rauser IvanGooDel010 %}</td></tr>
-        <tr><td>{% rauser JackWimbelton %}</td><td>{% rauser JLovelock %}</td><td>{% rauser Joshua199 %}</td><td>{% rauser kamil28 %}</td><td>{% rauser karlik1209 %}</td></tr>
+        <tr><td>{% rauser TheOguriLover %}</td><td>{% rauser EchoBastralle %}</td><td>{% rauser Heldorak %}</td><td>{% rauser Higusa %}</td><td>{% rauser IvanGooDel010 %}</td></tr>
+        <tr><td>{% rauser JackWimbelton %}</td><td>{% rauser JLovelock %}</td><td>{% rauser Joshua199 %}</td><td>{% rauser GerginGorunusluAdam %}</td><td>{% rauser karlik1209 %}</td></tr>
         <tr><td>{% rauser ksitherland2727 %}</td><td>{% rauser ledsterr %}</td><td>{% rauser MetalRemains %}</td><td>{% rauser MisterMeexX %}</td><td>{% rauser MoncholoX %}</td></tr>
         <tr><td>{% rauser notquitefoggy %}</td><td>{% rauser PalboM %}</td><td>{% rauser Paulbismuth %}</td><td>{% rauser pedrostein %}</td><td>{% rauser quartzomatic %}</td></tr>
         <tr><td>{% rauser ReKy %}</td><td>{% rauser RockruffPL %}</td><td>{% rauser sevillia %}</td><td>{% rauser ShoopinWhoopin %}</td><td>{% rauser Silvrwlf %}</td></tr>
-        <tr><td>{% rauser SoloOashisu %}</td><td>{% rauser Teransu1988 %}</td><td>{% rauser theirishsponge %}</td><td>{% rauser Tianorder %}</td><td>{% rauser timecarp %}</td></tr>
-        <tr><td>{% rauser umieracszybko %}</td><td>{% rauser Utys %}</td><td>{% rauser Veame %}</td><td>{% rauser ViniciusCamargo %}</td><td>{% rauser WindupMurkrow %}</td></tr>
+        <tr><td>{% rauser Solo0asis %}</td><td>{% rauser Teransu1988 %}</td><td>{% rauser theirishsponge %}</td><td>{% rauser Tianorder %}</td><td>{% rauser timecarp %}</td></tr>
+        <tr><td>{% rauser umieracszybko %}</td><td>{% rauser Utys %}</td><td>{% rauser Veame %}</td><td>{% rauser ViniciusCamargo %}</td><td>{% rauser VVindupBird %}</td></tr>
         <tr><td>{% rauser Xero23ww %}</td><td>{% rauser yasuriyamileth69 %}</td><td>{% rauser yogo896 %}</td><td>{% rauser yoshiql0 %}</td><td>{% rauser ZenbladeEx %}</td></tr>
         <tr><td>{% rauser ziza %}</td><td>{% rauser alexb28123 %}</td><td>{% rauser AmericanRedMoss %}</td><td>{% rauser antt12 %}</td><td>{% rauser ARADSKADNAD %}</td></tr>
         <tr><td>{% rauser Ayyr21 %}</td><td>{% rauser bluestbee %}</td><td>{% rauser BotDannyL %}</td><td>{% rauser Caranella %}</td><td>{% rauser Chillybara %}</td></tr>
-        <tr><td>{% rauser DariD %}</td><td>{% rauser Derickv16 %}</td><td>{% rauser Dicetower1 %}</td><td>{% rauser DubiousJank %}</td><td>{% rauser floodedduckling %}</td></tr>
-        <tr><td>{% rauser FroSteeMate %}</td><td>{% rauser Galaxy92 %}</td><td>{% rauser Grahnolax %}</td><td>{% rauser GV31986 %}</td><td>{% rauser holasksiwi %}</td></tr>
+        <tr><td>{% rauser DariD %}</td><td>{% rauser Derickv16 %}</td><td>{% rauser Dicetower1 %}</td><td>{% rauser DubiousJank %}</td><td>{% rauser TwilightSeer %}</td></tr>
+        <tr><td>{% rauser FroSteeMate %}</td><td>{% rauser Galaxy92 %}</td><td>{% rauser Grahnolax %}</td><td>{% rauser GV31986 %}</td><td>{% rauser U17R4 %}</td></tr>
         <tr><td>{% rauser humanoidtyphoon %}</td><td>{% rauser Jynox %}</td><td>{% rauser Karmicname %}</td><td>{% rauser Kirbito %}</td><td>{% rauser Kirito1007 %}</td></tr>
         <tr><td>{% rauser KTDG %}</td><td>{% rauser leanXD %}</td><td>{% rauser MellowMims %}</td><td>{% rauser MichOnFlight %}</td><td>{% rauser MillyTails %}</td></tr>
         <tr><td>{% rauser MRQS94 %}</td><td>{% rauser ofzambrano %}</td><td>{% rauser R0ry64 %}</td><td>{% rauser ReNanys30 %}</td><td>{% rauser Shinxtailes %}</td></tr>
         <tr><td>{% rauser SnowStorm00 %}</td><td>{% rauser SonataOfChaos %}</td><td>{% rauser SpArKSTARR %}</td><td>{% rauser spirityuri %}</td><td>{% rauser TheGreatWildcard %}</td></tr>
         <tr><td>{% rauser TheMcGoofy %}</td><td>{% rauser UltraMMVII %}</td><td>{% rauser venatr %}</td><td>{% rauser xarabas %}</td><td>{% rauser yeep %}</td></tr>
         <tr><td>{% rauser Arma %}</td><td>{% rauser Ashrabbit %}</td><td>{% rauser aveoxus %}</td><td>{% rauser BinoHardAdm %}</td><td>{% rauser bobclark %}</td></tr>
-        <tr><td>{% rauser brenoalves %}</td><td>{% rauser Bunnie189 %}</td><td>{% rauser CaptainPanther %}</td><td>{% rauser Chris95072 %}</td><td>{% rauser Dethswitch %}</td></tr>
+        <tr><td>{% rauser naBerada %}</td><td>{% rauser Bunnie189 %}</td><td>{% rauser CaptainPanther %}</td><td>{% rauser Chris95072 %}</td><td>{% rauser Dethswitch %}</td></tr>
         <tr><td>{% rauser evad22 %}</td><td>{% rauser Flop1851 %}</td><td>{% rauser GaijinJhin %}</td><td>{% rauser greenkibble %}</td><td>{% rauser Hatsch %}</td></tr>
         <tr><td>{% rauser hippodad %}</td><td>{% rauser Hotspur27 %}</td><td>{% rauser Jeroro %}</td><td>{% rauser jooniskin %}</td><td>{% rauser Kaled23 %}</td></tr>
         <tr><td>{% rauser koryuuoh %}</td><td>{% rauser MrLobster22 %}</td><td>{% rauser Nejinho %}</td><td>{% rauser NerdyMangler %}</td><td>{% rauser NinjaChicken123 %}</td></tr>
-        <tr><td>{% rauser NOXUN2104 %}</td><td>{% rauser OddsomeOddy %}</td><td>{% rauser oprimodochris01 %}</td><td>{% rauser Rafa2004 %}</td><td>{% rauser RetroVanilla05 %}</td></tr>
+        <tr><td>{% rauser NOXUN2104 %}</td><td>{% rauser OddsomeOddy %}</td><td>{% rauser DarkAnakin %}</td><td>{% rauser Rafa2004 %}</td><td>{% rauser RetroVanilla05 %}</td></tr>
         <tr><td>{% rauser RickZarber %}</td><td>{% rauser RoyMustang656 %}</td><td>{% rauser rtm1101 %}</td><td>{% rauser RussiaTV %}</td><td>{% rauser smalliepaul83 %}</td></tr>
         <tr><td>{% rauser stealastar %}</td><td>{% rauser TETEUBOMBER653 %}</td><td>{% rauser TexasJohnson %}</td><td>{% rauser thcrf008 %}</td><td>{% rauser TheGrayFox %}</td></tr>
         <tr><td>{% rauser adeves %}</td><td>{% rauser ancelot %}</td><td>{% rauser Anenigmaticliquid %}</td><td>{% rauser Asce1999 %}</td><td>{% rauser AxiomCat %}</td></tr>
-        <tr><td>{% rauser Baldra %}</td><td>{% rauser bayernuard %}</td><td>{% rauser Bradical65 %}</td><td>{% rauser BunnyFuFu42 %}</td><td>{% rauser CrimsonBlastoise %}</td></tr>
+        <tr><td>{% rauser Baldra %}</td><td>{% rauser bayernuard %}</td><td>{% rauser Bradical65 %}</td><td>{% rauser BunnyFuFu42 %}</td><td>{% rauser AttackOnBacklog %}</td></tr>
         <tr><td>{% rauser edson201044 %}</td><td>{% rauser grandtheftpikmin %}</td><td>{% rauser guigstree %}</td><td>{% rauser Helldog100 %}</td><td>{% rauser HeroKitsune %}</td></tr>
         <tr><td>{% rauser ImmortalCoal %}</td><td>{% rauser KajekXIII %}</td><td>{% rauser KingShrek %}</td><td>{% rauser levitylovely %}</td><td>{% rauser lordhnrq %}</td></tr>
         <tr><td>{% rauser matheusgomes %}</td><td>{% rauser MichaelFSS %}</td><td>{% rauser MrLobotomy %}</td><td>{% rauser Peasham %}</td><td>{% rauser Proximatic %}</td></tr>
         <tr><td>{% rauser radicalmatt87 %}</td><td>{% rauser RedSpade83 %}</td><td>{% rauser RexBmx %}</td><td>{% rauser Rogue1 %}</td><td>{% rauser Thewitchkingg %}</td></tr>
-        <tr><td>{% rauser videogamejosh %}</td><td>{% rauser WickedChild %}</td><td>{% rauser 1D1ocracy %}</td><td>{% rauser Acsrev %}</td><td>{% rauser Bernock %}</td></tr>
+        <tr><td>{% rauser entredeux %}</td><td>{% rauser WickedChild %}</td><td>{% rauser 1D1ocracy %}</td><td>{% rauser Acsrev %}</td><td>{% rauser Bernock %}</td></tr>
         <tr><td>{% rauser Bgggggggg %}</td><td>{% rauser bmpred %}</td><td>{% rauser carlrotto %}</td><td>{% rauser cassielyn %}</td><td>{% rauser CdGamer64 %}</td></tr>
-        <tr><td>{% rauser czww %}</td><td>{% rauser DavidSlzar %}</td><td>{% rauser Davizin69 %}</td><td>{% rauser Debrine5 %}</td><td>{% rauser depingpong %}</td></tr>
+        <tr><td>{% rauser czww %}</td><td>{% rauser SalsitaX10 %}</td><td>{% rauser Davizin69 %}</td><td>{% rauser Debrine5 %}</td><td>{% rauser depingpong %}</td></tr>
         <tr><td>{% rauser DinoTaco %}</td><td>{% rauser Doomstuff %}</td><td>{% rauser Exploder %}</td><td>{% rauser ExUC4r1b4 %}</td><td>{% rauser Gammo %}</td></tr>
         <tr><td>{% rauser gearffxi %}</td><td>{% rauser Haelnoraa %}</td><td>{% rauser jarno3v %}</td><td>{% rauser Kennedys %}</td><td>{% rauser Kexx %}</td></tr>
         <tr><td>{% rauser Kintaro569 %}</td><td>{% rauser LordAyers %}</td><td>{% rauser MatLoneKnight %}</td><td>{% rauser MonoSP %}</td><td>{% rauser Najan %}</td></tr>
@@ -1100,148 +1100,148 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser retroJck %}</td><td>{% rauser rorovg2 %}</td><td>{% rauser SilvervaleHC %}</td><td>{% rauser SloppyOrgies %}</td><td>{% rauser SuperFinken %}</td></tr>
         <tr><td>{% rauser tomba2 %}</td><td>{% rauser vicjoga %}</td><td>{% rauser xxdeadjhonnyxx %}</td><td>{% rauser Yayman667 %}</td><td>{% rauser zeedif %}</td></tr>
         <tr><td>{% rauser ZoppZ %}</td><td>{% rauser 1ofAkind %}</td><td>{% rauser Cabbage9 %}</td><td>{% rauser Collinso41 %}</td><td>{% rauser Denamy %}</td></tr>
-        <tr><td>{% rauser Dwingvatt %}</td><td>{% rauser Faegaes %}</td><td>{% rauser Filipefilipesr %}</td><td>{% rauser Flootomo %}</td><td>{% rauser fozzygaming %}</td></tr>
+        <tr><td>{% rauser Dwingvatt %}</td><td>{% rauser Faegaes %}</td><td>{% rauser Filipefilipesr %}</td><td>{% rauser Hampatchi %}</td><td>{% rauser fozzygaming %}</td></tr>
         <tr><td>{% rauser Fqd1 %}</td><td>{% rauser gexen %}</td><td>{% rauser Gheregames %}</td><td>{% rauser GioTGM %}</td><td>{% rauser gunkfuture %}</td></tr>
-        <tr><td>{% rauser JohnnyStar2469 %}</td><td>{% rauser L34hc1m %}</td><td>{% rauser LSSPope %}</td><td>{% rauser MiniPirracas %}</td><td>{% rauser mrclmrclmrcl %}</td></tr>
+        <tr><td>{% rauser MayConquer %}</td><td>{% rauser L34hc1m %}</td><td>{% rauser LSSPope %}</td><td>{% rauser PARRACAS %}</td><td>{% rauser mrclmrclmrcl %}</td></tr>
         <tr><td>{% rauser NHDZeR0 %}</td><td>{% rauser ODST0197 %}</td><td>{% rauser okamygor %}</td><td>{% rauser OSKOUR %}</td><td>{% rauser RaizenAstriumYT %}</td></tr>
         <tr><td>{% rauser RhelaFufni %}</td><td>{% rauser Royal187512 %}</td><td>{% rauser Rtrocam80 %}</td><td>{% rauser salmonshark %}</td><td>{% rauser ScuddyMcScudface %}</td></tr>
-        <tr><td>{% rauser SpinarakIsCute %}</td><td>{% rauser THEPUNISHMENTDUE %}</td><td>{% rauser trustiesttuna %}</td><td>{% rauser zerosouled %}</td><td>{% rauser acidace497 %}</td></tr>
+        <tr><td>{% rauser SpinarakIsCute %}</td><td>{% rauser mlcht %}</td><td>{% rauser trustiesttuna %}</td><td>{% rauser zerosouled %}</td><td>{% rauser acidace497 %}</td></tr>
         <tr><td>{% rauser Afelzius %}</td><td>{% rauser arvo13g %}</td><td>{% rauser Ayslond %}</td><td>{% rauser BadgerCheevs %}</td><td>{% rauser BenPyton %}</td></tr>
         <tr><td>{% rauser brozephh %}</td><td>{% rauser DanjoR %}</td><td>{% rauser DeargDoom %}</td><td>{% rauser dovesam %}</td><td>{% rauser Elpapusabroso69 %}</td></tr>
-        <tr><td>{% rauser Elzekas %}</td><td>{% rauser FieryFeKnox %}</td><td>{% rauser firstlad %}</td><td>{% rauser Foolipe %}</td><td>{% rauser gothminister %}</td></tr>
+        <tr><td>{% rauser Elzekas %}</td><td>{% rauser FieryFeKnox %}</td><td>{% rauser electricladyland %}</td><td>{% rauser Foolipe %}</td><td>{% rauser gothminister %}</td></tr>
         <tr><td>{% rauser icoPspecter %}</td><td>{% rauser JackMustDie %}</td><td>{% rauser Jerav %}</td><td>{% rauser karim352 %}</td><td>{% rauser KasakiAkashin %}</td></tr>
         <tr><td>{% rauser Kithrules2095 %}</td><td>{% rauser Meebo %}</td><td>{% rauser meni %}</td><td>{% rauser MoNaK %}</td><td>{% rauser owlblockade %}</td></tr>
-        <tr><td>{% rauser ProFerret %}</td><td>{% rauser recruta4106 %}</td><td>{% rauser Relating %}</td><td>{% rauser RianPatricio %}</td><td>{% rauser Rick04 %}</td></tr>
-        <tr><td>{% rauser SanguineSweetheartVV %}</td><td>{% rauser Sastronicus %}</td><td>{% rauser ShyChimchar07 %}</td><td>{% rauser THEGLADIATOR95 %}</td><td>{% rauser TheLocalDinoPimp %}</td></tr>
+        <tr><td>{% rauser NeilBreen %}</td><td>{% rauser recruta4106 %}</td><td>{% rauser Relating %}</td><td>{% rauser RianPatricio %}</td><td>{% rauser Rick04 %}</td></tr>
+        <tr><td>{% rauser SanguineSweetheartVV %}</td><td>{% rauser MrPonguin %}</td><td>{% rauser ShyChimchar07 %}</td><td>{% rauser THEGLADIATOR95 %}</td><td>{% rauser TheLocalDinoPimp %}</td></tr>
         <tr><td>{% rauser thomlvrz %}</td><td>{% rauser TimeStreamerMoebius %}</td><td>{% rauser tortas8 %}</td><td>{% rauser TubularBells %}</td><td>{% rauser Vharkhan %}</td></tr>
-        <tr><td>{% rauser Vtreue %}</td><td>{% rauser WarAthena %}</td><td>{% rauser wootnik %}</td><td>{% rauser abodiwithpants %}</td><td>{% rauser ac07 %}</td></tr>
+        <tr><td>{% rauser Vtreue %}</td><td>{% rauser WarAthena %}</td><td>{% rauser wootnik %}</td><td>{% rauser abodiwithpants %}</td><td>{% rauser Codorna07 %}</td></tr>
         <tr><td>{% rauser airbub %}</td><td>{% rauser almaWade %}</td><td>{% rauser BatataDoceFeijao %}</td><td>{% rauser Bickham %}</td><td>{% rauser Bill89 %}</td></tr>
-        <tr><td>{% rauser BlackHayato %}</td><td>{% rauser carrotsoup %}</td><td>{% rauser chilliac %}</td><td>{% rauser Davtel %}</td><td>{% rauser Ferdimaru0101 %}</td></tr>
+        <tr><td>{% rauser BlackHayato %}</td><td>{% rauser carrotsoup %}</td><td>{% rauser chilliac %}</td><td>{% rauser Auswels %}</td><td>{% rauser Ferdimaru0101 %}</td></tr>
         <tr><td>{% rauser FormulaFrittata %}</td><td>{% rauser GOLD74 %}</td><td>{% rauser Kerenzikov77 %}</td><td>{% rauser KVCDGO %}</td><td>{% rauser lcolonq %}</td></tr>
-        <tr><td>{% rauser LightOvHelel %}</td><td>{% rauser lobsterfighter %}</td><td>{% rauser Lonrr %}</td><td>{% rauser MadCoyote %}</td><td>{% rauser Melsypoo %}</td></tr>
-        <tr><td>{% rauser miguelsjs %}</td><td>{% rauser MooseTanuki %}</td><td>{% rauser Naitexi %}</td><td>{% rauser Newbahbah1 %}</td><td>{% rauser oakberger %}</td></tr>
+        <tr><td>{% rauser GameGirlAdvance %}</td><td>{% rauser lobsterfighter %}</td><td>{% rauser Lorn %}</td><td>{% rauser MadCoyote %}</td><td>{% rauser Melsypoo %}</td></tr>
+        <tr><td>{% rauser miguelsjs %}</td><td>{% rauser MooseTanuki %}</td><td>{% rauser Naitexi %}</td><td>{% rauser Salchicha %}</td><td>{% rauser oakberger %}</td></tr>
         <tr><td>{% rauser OPTEbr %}</td><td>{% rauser PentaManrix %}</td><td>{% rauser pikuselu %}</td><td>{% rauser PrizmaticSoul %}</td><td>{% rauser Qardasowsky %}</td></tr>
-        <tr><td>{% rauser Rafa383 %}</td><td>{% rauser ragnarokseiken972 %}</td><td>{% rauser Raihan42 %}</td><td>{% rauser Retritis %}</td><td>{% rauser rhymebomb %}</td></tr>
-        <tr><td>{% rauser ronnieraccoon %}</td><td>{% rauser Rugacchi %}</td><td>{% rauser sa1995 %}</td><td>{% rauser Skrunkles %}</td><td>{% rauser Sophcore %}</td></tr>
+        <tr><td>{% rauser RafiuskiBR %}</td><td>{% rauser ragnarokseiken972 %}</td><td>{% rauser Raihan42 %}</td><td>{% rauser Retritis %}</td><td>{% rauser rhymebomb %}</td></tr>
+        <tr><td>{% rauser ronnieraccoon %}</td><td>{% rauser Rugacchi %}</td><td>{% rauser slo0omy1995 %}</td><td>{% rauser Skrunkles %}</td><td>{% rauser Autumnism %}</td></tr>
         <tr><td>{% rauser TheDoho %}</td><td>{% rauser TheLonelyPrayer %}</td><td>{% rauser Timbo514 %}</td><td>{% rauser volte %}</td><td>{% rauser WingsOfBahamutx %}</td></tr>
         <tr><td>{% rauser YukYuk %}</td><td>{% rauser Zaphy %}</td><td>{% rauser Ayush3000 %}</td><td>{% rauser Bigdave9109 %}</td><td>{% rauser billybat %}</td></tr>
         <tr><td>{% rauser blorpmcgorp %}</td><td>{% rauser Bluedevil70 %}</td><td>{% rauser cwbrendan6 %}</td><td>{% rauser Da2facekillah %}</td><td>{% rauser daaaaaaaaaamien %}</td></tr>
         <tr><td>{% rauser DanielAndrade %}</td><td>{% rauser Dassaric %}</td><td>{% rauser Dialex %}</td><td>{% rauser Faraam %}</td><td>{% rauser Gante %}</td></tr>
-        <tr><td>{% rauser geadud %}</td><td>{% rauser guilhermekanopa %}</td><td>{% rauser Jhinkle24 %}</td><td>{% rauser Leandro7110 %}</td><td>{% rauser lncxr %}</td></tr>
-        <tr><td>{% rauser Morci %}</td><td>{% rauser nadamor %}</td><td>{% rauser Nameless762s %}</td><td>{% rauser Odinoco %}</td><td>{% rauser Phoenixcaptain %}</td></tr>
-        <tr><td>{% rauser purolatex6 %}</td><td>{% rauser quaintlearner %}</td><td>{% rauser Rodrigoferrr %}</td><td>{% rauser RunNGunCrusader %}</td><td>{% rauser SeattleSaturday %}</td></tr>
-        <tr><td>{% rauser TrueCherub %}</td><td>{% rauser Vadood %}</td><td>{% rauser vinedecc %}</td><td>{% rauser Waellersom %}</td><td>{% rauser weedeaterray %}</td></tr>
+        <tr><td>{% rauser geadud %}</td><td>{% rauser guilhermekanopa %}</td><td>{% rauser Jank24 %}</td><td>{% rauser Leandro7110 %}</td><td>{% rauser lncxr %}</td></tr>
+        <tr><td>{% rauser Morci %}</td><td>{% rauser nadamor %}</td><td>{% rauser Nathan7622s %}</td><td>{% rauser Odinoco %}</td><td>{% rauser Phoenixcaptain %}</td></tr>
+        <tr><td>{% rauser MrHoovesMrsDerpy64 %}</td><td>{% rauser cosmodellibergoli %}</td><td>{% rauser Rodrigoferrr %}</td><td>{% rauser BrothersScrimm %}</td><td>{% rauser SeattleSaturday %}</td></tr>
+        <tr><td>{% rauser CrayonCrow %}</td><td>{% rauser Vadood %}</td><td>{% rauser vinedecc %}</td><td>{% rauser MIKEDTZ %}</td><td>{% rauser weedeaterray %}</td></tr>
         <tr><td>{% rauser Wolfy127 %}</td><td>{% rauser yloom %}</td><td>{% rauser Yosh53 %}</td><td>{% rauser 66864austin %}</td><td>{% rauser AppleCider %}</td></tr>
         <tr><td>{% rauser bakutt %}</td><td>{% rauser BingusWho %}</td><td>{% rauser BoneheadedBob99 %}</td><td>{% rauser burakinbeni %}</td><td>{% rauser Cadet21 %}</td></tr>
         <tr><td>{% rauser chalkie %}</td><td>{% rauser cheeseymolerat %}</td><td>{% rauser Daniloab2017 %}</td><td>{% rauser Davilara %}</td><td>{% rauser diebri %}</td></tr>
         <tr><td>{% rauser Duftspray %}</td><td>{% rauser Ema567 %}</td><td>{% rauser falenangel %}</td><td>{% rauser HavenWasTaken %}</td><td>{% rauser hokari99 %}</td></tr>
-        <tr><td>{% rauser Hombreton %}</td><td>{% rauser HouseBlendAspie %}</td><td>{% rauser Jonaway88 %}</td><td>{% rauser Jorgechaos %}</td><td>{% rauser katzemancer %}</td></tr>
+        <tr><td>{% rauser Senioron %}</td><td>{% rauser HouseBlendAspie %}</td><td>{% rauser Jonaway88 %}</td><td>{% rauser Jorgechaos %}</td><td>{% rauser milamaus %}</td></tr>
         <tr><td>{% rauser Kefgoeroe %}</td><td>{% rauser KerryMKA %}</td><td>{% rauser Kimi555 %}</td><td>{% rauser Kolipolu %}</td><td>{% rauser KosmoLore64 %}</td></tr>
         <tr><td>{% rauser LettyWhiterock %}</td><td>{% rauser Lexx24 %}</td><td>{% rauser LunarTanuki %}</td><td>{% rauser MakedMonkes %}</td><td>{% rauser Miguel2030 %}</td></tr>
         <tr><td>{% rauser mikebyrne84 %}</td><td>{% rauser Omnitsu %}</td><td>{% rauser PancakeDreemurr %}</td><td>{% rauser patrick22ofc %}</td><td>{% rauser RedderBet %}</td></tr>
-        <tr><td>{% rauser RetroIkari %}</td><td>{% rauser RetroKittenGaming %}</td><td>{% rauser samsarianreverie %}</td><td>{% rauser Sandrinos %}</td><td>{% rauser Schlep %}</td></tr>
-        <tr><td>{% rauser skipp22 %}</td><td>{% rauser SuperMarioTzu %}</td><td>{% rauser swampbutch %}</td><td>{% rauser Technotonix %}</td><td>{% rauser unduh %}</td></tr>
+        <tr><td>{% rauser RetroIkari %}</td><td>{% rauser RetroKittenGaming %}</td><td>{% rauser thewonderword %}</td><td>{% rauser Sandrinos %}</td><td>{% rauser Schlep %}</td></tr>
+        <tr><td>{% rauser skipp22 %}</td><td>{% rauser SuperMarioTzu %}</td><td>{% rauser sludgebutch %}</td><td>{% rauser Technotonix %}</td><td>{% rauser unduh %}</td></tr>
         <tr><td>{% rauser Vernias %}</td><td>{% rauser YBA94 %}</td><td>{% rauser Angel2by4 %}</td><td>{% rauser AngelArya %}</td><td>{% rauser basu19 %}</td></tr>
-        <tr><td>{% rauser Brandenmo %}</td><td>{% rauser BravoWhiskey4815 %}</td><td>{% rauser Buckijr %}</td><td>{% rauser cery0za %}</td><td>{% rauser Ch3fski %}</td></tr>
-        <tr><td>{% rauser Coleo %}</td><td>{% rauser Cyser789 %}</td><td>{% rauser Deliriini %}</td><td>{% rauser donnakira %}</td><td>{% rauser FanTaBlue %}</td></tr>
+        <tr><td>{% rauser Brandenmo %}</td><td>{% rauser BravoWhiskey4815 %}</td><td>{% rauser Buckijr %}</td><td>{% rauser fantasiacereza %}</td><td>{% rauser Ch3fski %}</td></tr>
+        <tr><td>{% rauser Coleo %}</td><td>{% rauser Cyser789 %}</td><td>{% rauser Deliriini %}</td><td>{% rauser diodeletherio %}</td><td>{% rauser FanTaBlue %}</td></tr>
         <tr><td>{% rauser Feralo777 %}</td><td>{% rauser fluffsicle %}</td><td>{% rauser FrameDude %}</td><td>{% rauser gachaponclown %}</td><td>{% rauser GDlima %}</td></tr>
         <tr><td>{% rauser GGOLDemu %}</td><td>{% rauser Igglypiggly %}</td><td>{% rauser Jaichachu %}</td><td>{% rauser jancok182 %}</td><td>{% rauser jaoguiih %}</td></tr>
         <tr><td>{% rauser Juanshis %}</td><td>{% rauser Kangus %}</td><td>{% rauser Knox667 %}</td><td>{% rauser LunarLexomancer %}</td><td>{% rauser Mastrael %}</td></tr>
         <tr><td>{% rauser MEconfusionFul %}</td><td>{% rauser MusouFiend56 %}</td><td>{% rauser NeulawHC %}</td><td>{% rauser nikoiku %}</td><td>{% rauser Rumania %}</td></tr>
-        <tr><td>{% rauser SaaVlewd %}</td><td>{% rauser Seanoise %}</td><td>{% rauser smudge17 %}</td><td>{% rauser ThaAgreement %}</td><td>{% rauser thenewrage1997 %}</td></tr>
+        <tr><td>{% rauser ValIsOdd %}</td><td>{% rauser Seanoise %}</td><td>{% rauser smudge17 %}</td><td>{% rauser ThaAgreement %}</td><td>{% rauser thenewrage1997 %}</td></tr>
         <tr><td>{% rauser THzy %}</td><td>{% rauser Ubexer %}</td><td>{% rauser Wllowwisp %}</td><td>{% rauser ZomZD %}</td><td>{% rauser Admiral2087 %}</td></tr>
         <tr><td>{% rauser AeroMoomin %}</td><td>{% rauser AftmostRook56 %}</td><td>{% rauser AlinaSnowfairy %}</td><td>{% rauser angecritter %}</td><td>{% rauser Beedus %}</td></tr>
-        <tr><td>{% rauser Crovve %}</td><td>{% rauser cualkeira %}</td><td>{% rauser Framesarecool1237 %}</td><td>{% rauser Franczesko %}</td><td>{% rauser gamesdoguto %}</td></tr>
+        <tr><td>{% rauser Crovve %}</td><td>{% rauser cualkeira %}</td><td>{% rauser Framesarecool1237 %}</td><td>{% rauser Fujok %}</td><td>{% rauser gamesdoguto %}</td></tr>
         <tr><td>{% rauser gpusinel21 %}</td><td>{% rauser Ironpudge %}</td><td>{% rauser JeshuaTheKnight %}</td><td>{% rauser KanonFodder1155 %}</td><td>{% rauser koja8050 %}</td></tr>
         <tr><td>{% rauser lephista8 %}</td><td>{% rauser LMMsser %}</td><td>{% rauser Mamurich %}</td><td>{% rauser Niadh024 %}</td><td>{% rauser Pookinis %}</td></tr>
         <tr><td>{% rauser QuipQwop %}</td><td>{% rauser Rarts %}</td><td>{% rauser RDSR20006 %}</td><td>{% rauser RetroGwil %}</td><td>{% rauser ShadowAstro69 %}</td></tr>
-        <tr><td>{% rauser SillyDingus %}</td><td>{% rauser SloppyMctasty %}</td><td>{% rauser spaghettiidiot %}</td><td>{% rauser Trentc27 %}</td><td>{% rauser Vanzel %}</td></tr>
-        <tr><td>{% rauser wamblypencil550 %}</td><td>{% rauser xriki %}</td><td>{% rauser Yenommp %}</td><td>{% rauser YumeMoon %}</td><td>{% rauser zefez9 %}</td></tr>
+        <tr><td>{% rauser SillyDingus %}</td><td>{% rauser SloppyMctasty %}</td><td>{% rauser spaghettifool %}</td><td>{% rauser Trentc27 %}</td><td>{% rauser Vanzel %}</td></tr>
+        <tr><td>{% rauser wamblypencil550 %}</td><td>{% rauser xriki %}</td><td>{% rauser Yenommp %}</td><td>{% rauser yAngel %}</td><td>{% rauser zefez9 %}</td></tr>
         <tr><td>{% rauser 1995Gamer %}</td><td>{% rauser Amalgamayne %}</td><td>{% rauser Arkwulff %}</td><td>{% rauser atariwiz %}</td><td>{% rauser BlackSky1407 %}</td></tr>
         <tr><td>{% rauser Capndrake %}</td><td>{% rauser cavebird %}</td><td>{% rauser Chrizplayz %}</td><td>{% rauser chupamacabre %}</td><td>{% rauser CJ51 %}</td></tr>
         <tr><td>{% rauser Degaharu %}</td><td>{% rauser Dimitrov %}</td><td>{% rauser evilkitten %}</td><td>{% rauser excitotoxico %}</td><td>{% rauser Fiercehart %}</td></tr>
         <tr><td>{% rauser Gamergeo %}</td><td>{% rauser GnomeFinn %}</td><td>{% rauser HappyBoyLuc %}</td><td>{% rauser iSadaron %}</td><td>{% rauser Jac18 %}</td></tr>
         <tr><td>{% rauser JayRabbit %}</td><td>{% rauser Jugg4 %}</td><td>{% rauser jumbofrogman %}</td><td>{% rauser K92Zero %}</td><td>{% rauser Ks33 %}</td></tr>
-        <tr><td>{% rauser Lesar %}</td><td>{% rauser lordhypnos7 %}</td><td>{% rauser MajinJamie %}</td><td>{% rauser malicenthyme %}</td><td>{% rauser Marcov999999 %}</td></tr>
+        <tr><td>{% rauser JachiW %}</td><td>{% rauser lordhypnos7 %}</td><td>{% rauser MajinJamie %}</td><td>{% rauser malicenthyme %}</td><td>{% rauser KX77 %}</td></tr>
         <tr><td>{% rauser MayaMayhem %}</td><td>{% rauser Michaelbest2763 %}</td><td>{% rauser Morotopitek %}</td><td>{% rauser MoyaHoney %}</td><td>{% rauser mrhats %}</td></tr>
-        <tr><td>{% rauser player93104 %}</td><td>{% rauser PutridDrake %}</td><td>{% rauser Resky82 %}</td><td>{% rauser ScoobySnacks %}</td><td>{% rauser ScornedScorpion %}</td></tr>
+        <tr><td>{% rauser De4dFoX %}</td><td>{% rauser PutridDrake %}</td><td>{% rauser Resky82 %}</td><td>{% rauser ScoobySnacks %}</td><td>{% rauser ScornedScorpion %}</td></tr>
         <tr><td>{% rauser triatum %}</td><td>{% rauser Tricodin %}</td><td>{% rauser VinceWalkerT1 %}</td><td>{% rauser BigPudge %}</td><td>{% rauser Boog1e %}</td></tr>
         <tr><td>{% rauser broitsu %}</td><td>{% rauser CHILIDG %}</td><td>{% rauser DaphPunk %}</td><td>{% rauser DaPunkrocker %}</td><td>{% rauser devMiyax %}</td></tr>
-        <tr><td>{% rauser dokishep %}</td><td>{% rauser DunkleDubs %}</td><td>{% rauser elgato123 %}</td><td>{% rauser EmperorRaidou %}</td><td>{% rauser ESCANOR2025 %}</td></tr>
+        <tr><td>{% rauser dokishep %}</td><td>{% rauser DunkleDubs %}</td><td>{% rauser elgato123 %}</td><td>{% rauser EmperorRaidou %}</td><td>{% rauser ESCANOR25 %}</td></tr>
         <tr><td>{% rauser EsmeRylan %}</td><td>{% rauser Fachewachewa %}</td><td>{% rauser FreyrTempesta %}</td><td>{% rauser Gabrsoueu %}</td><td>{% rauser Goularte %}</td></tr>
-        <tr><td>{% rauser HolderofAshtrays %}</td><td>{% rauser IncognitoD33 %}</td><td>{% rauser Jinbei189 %}</td><td>{% rauser jpro %}</td><td>{% rauser LuraSven %}</td></tr>
+        <tr><td>{% rauser HolderofAshtrays %}</td><td>{% rauser IncognitoD33 %}</td><td>{% rauser Jinbei189 %}</td><td>{% rauser spacecircle %}</td><td>{% rauser LuraSven %}</td></tr>
         <tr><td>{% rauser Malakiii %}</td><td>{% rauser Maverick561 %}</td><td>{% rauser MrFatherDad %}</td><td>{% rauser MTGJoeD %}</td><td>{% rauser Ozinor %}</td></tr>
-        <tr><td>{% rauser Pauloosnes %}</td><td>{% rauser piethelemon %}</td><td>{% rauser Pugpy %}</td><td>{% rauser raccoonofthemoon %}</td><td>{% rauser retroballs %}</td></tr>
-        <tr><td>{% rauser RetroReploid %}</td><td>{% rauser SageSoft %}</td><td>{% rauser Stecenko %}</td><td>{% rauser TMCaveman %}</td><td>{% rauser Undersoul %}</td></tr>
-        <tr><td>{% rauser Vinnnc %}</td><td>{% rauser Wezzle123 %}</td><td>{% rauser WhimsiMoth %}</td><td>{% rauser WowShane %}</td><td>{% rauser zoisite %}</td></tr>
-        <tr><td>{% rauser Apprai %}</td><td>{% rauser Bandicoot500 %}</td><td>{% rauser Bomber57 %}</td><td>{% rauser Buckthebuck %}</td><td>{% rauser Calebizin %}</td></tr>
-        <tr><td>{% rauser cheezyyy %}</td><td>{% rauser cwenzlick %}</td><td>{% rauser dethtreeorigin %}</td><td>{% rauser Dufrio %}</td><td>{% rauser Eavesdropping %}</td></tr>
+        <tr><td>{% rauser Paulo0Snes %}</td><td>{% rauser piethelemon %}</td><td>{% rauser Pugpy %}</td><td>{% rauser raccoonofthemoon %}</td><td>{% rauser retroballs %}</td></tr>
+        <tr><td>{% rauser RetrolasNicholas %}</td><td>{% rauser SageSoft %}</td><td>{% rauser Stecenko %}</td><td>{% rauser TMCaveman %}</td><td>{% rauser Undersoul %}</td></tr>
+        <tr><td>{% rauser Vinnnc %}</td><td>{% rauser Wezzle123 %}</td><td>{% rauser WhimsiMoth %}</td><td>{% rauser WowShane %}</td><td>{% rauser lychee %}</td></tr>
+        <tr><td>{% rauser Apprai %}</td><td>{% rauser Bandicoot500 %}</td><td>{% rauser Bomber57 %}</td><td>{% rauser Buckthebuck %}</td><td>{% rauser angelxz %}</td></tr>
+        <tr><td>{% rauser cheezball8 %}</td><td>{% rauser cwenzlick %}</td><td>{% rauser dethtreeorigin %}</td><td>{% rauser Dufrio %}</td><td>{% rauser Eavesdropping %}</td></tr>
         <tr><td>{% rauser Farimere %}</td><td>{% rauser Gadavi %}</td><td>{% rauser geneswitch10 %}</td><td>{% rauser GMDarkPKM %}</td><td>{% rauser Hamal %}</td></tr>
         <tr><td>{% rauser Ichyamo %}</td><td>{% rauser Jorjick %}</td><td>{% rauser Josephiroth420 %}</td><td>{% rauser Khendra %}</td><td>{% rauser Littleguy30 %}</td></tr>
-        <tr><td>{% rauser Lonelytree %}</td><td>{% rauser MAGGOT %}</td><td>{% rauser maxfigueiredo %}</td><td>{% rauser MondoPop93YT %}</td><td>{% rauser MosquitoMaster %}</td></tr>
-        <tr><td>{% rauser NOWITSREYNTIME17 %}</td><td>{% rauser Onebeto %}</td><td>{% rauser proselythum %}</td><td>{% rauser Retrodude72 %}</td><td>{% rauser RetroGilligan %}</td></tr>
+        <tr><td>{% rauser Yolius %}</td><td>{% rauser MAGGOT %}</td><td>{% rauser maxfigueiredo %}</td><td>{% rauser MondoPop93YT %}</td><td>{% rauser MosquitoMaster %}</td></tr>
+        <tr><td>{% rauser NOWITSREYNTIME17 %}</td><td>{% rauser Onebeto %}</td><td>{% rauser proselythum %}</td><td>{% rauser Goober72 %}</td><td>{% rauser RetroGilligan %}</td></tr>
         <tr><td>{% rauser Schokotorte %}</td><td>{% rauser SirPirawin %}</td><td>{% rauser sonofasonofasatan %}</td><td>{% rauser Spike1996gamer %}</td><td>{% rauser Starlightt %}</td></tr>
-        <tr><td>{% rauser Sylviel %}</td><td>{% rauser TheSemPaciencia %}</td><td>{% rauser tiwaheronud %}</td><td>{% rauser Vicendithas %}</td><td>{% rauser WyZoldyck %}</td></tr>
-        <tr><td>{% rauser Zomb1esmasher %}</td><td>{% rauser 2thBrush %}</td><td>{% rauser AmyCamelia %}</td><td>{% rauser ArcheressAva %}</td><td>{% rauser Aristocrat1 %}</td></tr>
-        <tr><td>{% rauser brenodlr %}</td><td>{% rauser Burn0utt %}</td><td>{% rauser CasualYouTuber31 %}</td><td>{% rauser crimson1 %}</td><td>{% rauser Danilaso %}</td></tr>
+        <tr><td>{% rauser Sylviel %}</td><td>{% rauser DanTeixeira %}</td><td>{% rauser tiwaheronud %}</td><td>{% rauser Vicendithas %}</td><td>{% rauser WesAngelo %}</td></tr>
+        <tr><td>{% rauser Zomb1esmasher %}</td><td>{% rauser 2thBrush %}</td><td>{% rauser AmieCamelia %}</td><td>{% rauser ArcheressAva %}</td><td>{% rauser Aristocrat1 %}</td></tr>
+        <tr><td>{% rauser brenodlr %}</td><td>{% rauser Burn0utt %}</td><td>{% rauser CasualYouTuber31 %}</td><td>{% rauser crimson1 %}</td><td>{% rauser DaniRodrigo %}</td></tr>
         <tr><td>{% rauser Darlike %}</td><td>{% rauser daweezy %}</td><td>{% rauser Diegros %}</td><td>{% rauser dr111 %}</td><td>{% rauser dreonos0 %}</td></tr>
-        <tr><td>{% rauser eliasvalt %}</td><td>{% rauser fadelego %}</td><td>{% rauser GabryelMatias %}</td><td>{% rauser IceSlayer %}</td><td>{% rauser JBlasterz %}</td></tr>
-        <tr><td>{% rauser Joyos %}</td><td>{% rauser jqwert %}</td><td>{% rauser KezaBrosso %}</td><td>{% rauser Kvnsamurai27 %}</td><td>{% rauser lucy242 %}</td></tr>
-        <tr><td>{% rauser McMunch86 %}</td><td>{% rauser MiyChanVT %}</td><td>{% rauser Oceandrink24 %}</td><td>{% rauser OctavioVBR %}</td><td>{% rauser Potato777 %}</td></tr>
-        <tr><td>{% rauser PSYCHEDEL1QUE %}</td><td>{% rauser RaedoN %}</td><td>{% rauser RamzaX %}</td><td>{% rauser reminiscynt %}</td><td>{% rauser Renanzintotm %}</td></tr>
-        <tr><td>{% rauser Retrojugon %}</td><td>{% rauser Ritsuuuu %}</td><td>{% rauser rubenfretwell %}</td><td>{% rauser Saulhacker %}</td><td>{% rauser SomeVocaloidFan %}</td></tr>
-        <tr><td>{% rauser suta %}</td><td>{% rauser thuggyboy %}</td><td>{% rauser tonystarkz %}</td><td>{% rauser truelom %}</td><td>{% rauser Ultima514 %}</td></tr>
+        <tr><td>{% rauser eliasvalt %}</td><td>{% rauser SabidoPlays %}</td><td>{% rauser GabryelMatias %}</td><td>{% rauser IceSlayer %}</td><td>{% rauser JustineBlast %}</td></tr>
+        <tr><td>{% rauser Joyos %}</td><td>{% rauser jqwert %}</td><td>{% rauser KezaBrosso %}</td><td>{% rauser Kvnsamurai27 %}</td><td>{% rauser Lucyyy404 %}</td></tr>
+        <tr><td>{% rauser McMunch86 %}</td><td>{% rauser MiyChanVT %}</td><td>{% rauser Oceandrink %}</td><td>{% rauser OctavioVBR %}</td><td>{% rauser Potato777 %}</td></tr>
+        <tr><td>{% rauser PSYCHEDEL1QUE %}</td><td>{% rauser RaedoN %}</td><td>{% rauser RamzaX %}</td><td>{% rauser reminiscynt %}</td><td>{% rauser Renanzitotm %}</td></tr>
+        <tr><td>{% rauser Retrojugon %}</td><td>{% rauser Ritsuuuu %}</td><td>{% rauser OldJuicy %}</td><td>{% rauser Saulhacker %}</td><td>{% rauser SomeVocaloidFan %}</td></tr>
+        <tr><td>{% rauser suta %}</td><td>{% rauser thuggyboy %}</td><td>{% rauser thonystarkz %}</td><td>{% rauser truelom %}</td><td>{% rauser Ultima514 %}</td></tr>
         <tr><td>{% rauser yoshigamer5463 %}</td><td>{% rauser Algorythmic %}</td><td>{% rauser arainbowcubed %}</td><td>{% rauser asdarex %}</td><td>{% rauser Badre2K %}</td></tr>
         <tr><td>{% rauser befjonah %}</td><td>{% rauser blanksylvia %}</td><td>{% rauser Boncer2000 %}</td><td>{% rauser cancunpun %}</td><td>{% rauser cieldavila %}</td></tr>
-        <tr><td>{% rauser EngineerMonkey %}</td><td>{% rauser Eosforum %}</td><td>{% rauser errrskate151 %}</td><td>{% rauser Invictivus %}</td><td>{% rauser J4M700P %}</td></tr>
-        <tr><td>{% rauser JMG12 %}</td><td>{% rauser keesie7 %}</td><td>{% rauser Kelpman28 %}</td><td>{% rauser Lisieux %}</td><td>{% rauser MagMH %}</td></tr>
+        <tr><td>{% rauser SmokingMonkey %}</td><td>{% rauser Eosforum %}</td><td>{% rauser errrskate151 %}</td><td>{% rauser Invictivus %}</td><td>{% rauser J4M700P %}</td></tr>
+        <tr><td>{% rauser ElGringoLoco12 %}</td><td>{% rauser keesie7 %}</td><td>{% rauser Kelpman28 %}</td><td>{% rauser Gottesfreund %}</td><td>{% rauser MagMH %}</td></tr>
         <tr><td>{% rauser Matheusoff %}</td><td>{% rauser Maurix %}</td><td>{% rauser Memin966 %}</td><td>{% rauser Mikelmaus %}</td><td>{% rauser Mjx121418 %}</td></tr>
-        <tr><td>{% rauser PauloLebrego %}</td><td>{% rauser pauloojoga900 %}</td><td>{% rauser Pedrof15 %}</td><td>{% rauser Raul1990 %}</td><td>{% rauser retro3 %}</td></tr>
+        <tr><td>{% rauser PauloLebrego %}</td><td>{% rauser Paulojoga900 %}</td><td>{% rauser Pedrof15 %}</td><td>{% rauser Raul1990 %}</td><td>{% rauser retro3 %}</td></tr>
         <tr><td>{% rauser saghe %}</td><td>{% rauser seynt %}</td><td>{% rauser SpeedySpectrum %}</td><td>{% rauser Spyro073 %}</td><td>{% rauser Strider4 %}</td></tr>
         <tr><td>{% rauser styLe7vn %}</td><td>{% rauser superst4r %}</td><td>{% rauser Swamer %}</td><td>{% rauser Valadriel %}</td><td>{% rauser Vultra %}</td></tr>
         <tr><td>{% rauser Wlfkron %}</td><td>{% rauser yoblast %}</td><td>{% rauser YourLocalOoF %}</td><td>{% rauser Acermandela %}</td><td>{% rauser Alvo6241 %}</td></tr>
         <tr><td>{% rauser Antotorte %}</td><td>{% rauser beansonic %}</td><td>{% rauser Berzerlius %}</td><td>{% rauser bloodynosed %}</td><td>{% rauser Bonsplicer %}</td></tr>
         <tr><td>{% rauser Brzero %}</td><td>{% rauser byteporter %}</td><td>{% rauser ederslairy2011 %}</td><td>{% rauser Enkhbat %}</td><td>{% rauser Evangelos %}</td></tr>
-        <tr><td>{% rauser Fournaxx %}</td><td>{% rauser giranogu %}</td><td>{% rauser gooksmoker %}</td><td>{% rauser HashemNAV %}</td><td>{% rauser Heypeople11234 %}</td></tr>
+        <tr><td>{% rauser Fournaxx %}</td><td>{% rauser giranogu %}</td><td>{% rauser oblong %}</td><td>{% rauser HashemNAV %}</td><td>{% rauser Heypeople11234 %}</td></tr>
         <tr><td>{% rauser IAmN %}</td><td>{% rauser Josegalxd64 %}</td><td>{% rauser KillerOfSmiler001 %}</td><td>{% rauser KingKaiWen %}</td><td>{% rauser Kirce %}</td></tr>
-        <tr><td>{% rauser Lautaro2402 %}</td><td>{% rauser LeoN61 %}</td><td>{% rauser MCor57 %}</td><td>{% rauser Mizaros %}</td><td>{% rauser MrFingersMcgee %}</td></tr>
+        <tr><td>{% rauser ManriL %}</td><td>{% rauser LeoN61 %}</td><td>{% rauser MCor57 %}</td><td>{% rauser Mizaros %}</td><td>{% rauser MrFingersMcgee %}</td></tr>
         <tr><td>{% rauser MrMudkipHD %}</td><td>{% rauser naighes %}</td><td>{% rauser Nemises %}</td><td>{% rauser niltin %}</td><td>{% rauser nyjd777 %}</td></tr>
         <tr><td>{% rauser Peluchus1 %}</td><td>{% rauser PranKz %}</td><td>{% rauser psyduk %}</td><td>{% rauser Qdartem %}</td><td>{% rauser ratfunk %}</td></tr>
-        <tr><td>{% rauser Riverflow404 %}</td><td>{% rauser Rune64 %}</td><td>{% rauser satria04dzikri %}</td><td>{% rauser SpookyCat25 %}</td><td>{% rauser Tinho47 %}</td></tr>
+        <tr><td>{% rauser Riverflow404 %}</td><td>{% rauser RuneZ64 %}</td><td>{% rauser satria04dzikri %}</td><td>{% rauser SpookyCat25 %}</td><td>{% rauser Tinho47 %}</td></tr>
         <tr><td>{% rauser Tokatron %}</td><td>{% rauser XboxFactory %}</td><td>{% rauser Zebs %}</td><td>{% rauser aryyliter %}</td><td>{% rauser blindpr0phet %}</td></tr>
-        <tr><td>{% rauser Bodejames %}</td><td>{% rauser BrokenRonin %}</td><td>{% rauser CallMeDraggo %}</td><td>{% rauser catfelixz %}</td><td>{% rauser Ceodered %}</td></tr>
+        <tr><td>{% rauser Bodejames %}</td><td>{% rauser AwokenRonin %}</td><td>{% rauser Draggo %}</td><td>{% rauser catfelixz %}</td><td>{% rauser Ceodered %}</td></tr>
         <tr><td>{% rauser ChrisBoulderPunch %}</td><td>{% rauser Elryk2 %}</td><td>{% rauser Elvick %}</td><td>{% rauser EngHusain %}</td><td>{% rauser EpicSackboy54 %}</td></tr>
         <tr><td>{% rauser excitescooter %}</td><td>{% rauser FakeFriend %}</td><td>{% rauser freeinternet %}</td><td>{% rauser Hashbrowner %}</td><td>{% rauser HyperJasty %}</td></tr>
-        <tr><td>{% rauser Ineedairsupport %}</td><td>{% rauser JodbyBerundi %}</td><td>{% rauser marciogarcia %}</td><td>{% rauser morsalin009 %}</td><td>{% rauser MrHawaiian %}</td></tr>
+        <tr><td>{% rauser Ineedairsupport %}</td><td>{% rauser JodbyBerundi %}</td><td>{% rauser marciogarcia %}</td><td>{% rauser morsalin009 %}</td><td>{% rauser UrbanStoicGamer %}</td></tr>
         <tr><td>{% rauser MrMoseby %}</td><td>{% rauser Octragon %}</td><td>{% rauser RiseLegacy %}</td><td>{% rauser rocadiox %}</td><td>{% rauser sabletheraccoon %}</td></tr>
         <tr><td>{% rauser ShizukoMurphy %}</td><td>{% rauser Sigfrodi %}</td><td>{% rauser siveraveton %}</td><td>{% rauser solopipp %}</td><td>{% rauser SouOldGameR %}</td></tr>
-        <tr><td>{% rauser Sxl3m %}</td><td>{% rauser Takama2 %}</td><td>{% rauser TheEmerqldKnight %}</td><td>{% rauser ThunDriell %}</td><td>{% rauser togepis %}</td></tr>
+        <tr><td>{% rauser Sxl3m %}</td><td>{% rauser Takama2 %}</td><td>{% rauser TheEmerqldKnight %}</td><td>{% rauser ThunDriell %}</td><td>{% rauser Togepi %}</td></tr>
         <tr><td>{% rauser TrueLeader7 %}</td><td>{% rauser Twizz %}</td><td>{% rauser VRArt1 %}</td><td>{% rauser andygeeeee %}</td><td>{% rauser boebunculus %}</td></tr>
         <tr><td>{% rauser Brodysseus %}</td><td>{% rauser cruxialx %}</td><td>{% rauser dshappy %}</td><td>{% rauser ejihog %}</td><td>{% rauser esse %}</td></tr>
         <tr><td>{% rauser Fayelem %}</td><td>{% rauser jezukri %}</td><td>{% rauser Jfog12 %}</td><td>{% rauser joaonak %}</td><td>{% rauser Jonkerball %}</td></tr>
         <tr><td>{% rauser Kindara360Spades %}</td><td>{% rauser Laeroba %}</td><td>{% rauser LambakeOfficial %}</td><td>{% rauser lexus812 %}</td><td>{% rauser Lucasfirehouse %}</td></tr>
         <tr><td>{% rauser LuisJoggatina %}</td><td>{% rauser makteska %}</td><td>{% rauser MarceloRMC %}</td><td>{% rauser MasterPlay11 %}</td><td>{% rauser MetalNerd117 %}</td></tr>
-        <tr><td>{% rauser Paul3an %}</td><td>{% rauser Pieselka %}</td><td>{% rauser QwertyBird %}</td><td>{% rauser rubyy17 %}</td><td>{% rauser sangcomtamcbc %}</td></tr>
-        <tr><td>{% rauser serchinnho %}</td><td>{% rauser SilverSky %}</td><td>{% rauser sleeppy %}</td><td>{% rauser SpearmanCondition %}</td><td>{% rauser SpinyWiz %}</td></tr>
+        <tr><td>{% rauser Paul3an %}</td><td>{% rauser Pieselka %}</td><td>{% rauser QwertyBird %}</td><td>{% rauser Goldien120 %}</td><td>{% rauser sangcomtamcbc %}</td></tr>
+        <tr><td>{% rauser serchinnho %}</td><td>{% rauser SilverSky %}</td><td>{% rauser NoSleepSun %}</td><td>{% rauser SpearmanCondition %}</td><td>{% rauser SpinyWiz %}</td></tr>
         <tr><td>{% rauser Strilu %}</td><td>{% rauser TheBlueRogue %}</td><td>{% rauser TheQu4ttro %}</td><td>{% rauser Yatogam %}</td><td>{% rauser ZTZT %}</td></tr>
-        <tr><td>{% rauser 0meeegaX %}</td><td>{% rauser ajharleson %}</td><td>{% rauser Amaralicht %}</td><td>{% rauser AntiToon %}</td><td>{% rauser Bellininator %}</td></tr>
+        <tr><td>{% rauser 0meeegaX %}</td><td>{% rauser ajharleson %}</td><td>{% rauser Amaralicht %}</td><td>{% rauser SageSaintly %}</td><td>{% rauser Bellininator %}</td></tr>
         <tr><td>{% rauser Burley %}</td><td>{% rauser CookieBandit %}</td><td>{% rauser coolcatkim22 %}</td><td>{% rauser darkalan %}</td><td>{% rauser DarkenedTerra %}</td></tr>
         <tr><td>{% rauser DJDenim %}</td><td>{% rauser DrotciV %}</td><td>{% rauser Encko %}</td><td>{% rauser FatherMesad %}</td><td>{% rauser Gabrielcajeux %}</td></tr>
         <tr><td>{% rauser Gustavo275 %}</td><td>{% rauser Kaibaman1378 %}</td><td>{% rauser litaisfearless %}</td><td>{% rauser lmbce %}</td><td>{% rauser lordpolar1991 %}</td></tr>
         <tr><td>{% rauser LuxFero %}</td><td>{% rauser MadelineRetro %}</td><td>{% rauser magronegocio %}</td><td>{% rauser Memo0603 %}</td><td>{% rauser Misa22 %}</td></tr>
         <tr><td>{% rauser namelessdweeb %}</td><td>{% rauser NovaNovaPrime %}</td><td>{% rauser Omogand %}</td><td>{% rauser osrobo %}</td><td>{% rauser ozchunk %}</td></tr>
-        <tr><td>{% rauser psvitaemanu %}</td><td>{% rauser RealAgentBanan1 %}</td><td>{% rauser regginreggae %}</td><td>{% rauser Retrofamily %}</td><td>{% rauser Rouper %}</td></tr>
+        <tr><td>{% rauser psvitaemanu %}</td><td>{% rauser RealAgentBanan1 %}</td><td>{% rauser toddhoward225 %}</td><td>{% rauser Retrofamily %}</td><td>{% rauser Rouper %}</td></tr>
         <tr><td>{% rauser Sekken %}</td><td>{% rauser SexWithSunRa %}</td><td>{% rauser Shurato1991 %}</td><td>{% rauser sleepyvapor %}</td><td>{% rauser Solsticio %}</td></tr>
         <tr><td>{% rauser swampdark %}</td><td>{% rauser TastySammich %}</td><td>{% rauser th3g3ntlemen %}</td><td>{% rauser Thunderstruck61 %}</td><td>{% rauser Ujstorkg %}</td></tr>
         <tr><td>{% rauser Wolfatus %}</td><td>{% rauser XerGaSa %}</td><td>{% rauser YamoshiTheGoldenLord %}</td><td>{% rauser Aiedan %}</td><td>{% rauser alexandrepg01 %}</td></tr>
         <tr><td>{% rauser Am1Ng0523 %}</td><td>{% rauser Arg33n %}</td><td>{% rauser Argent %}</td><td>{% rauser BerserkerGuy %}</td><td>{% rauser CatcheJagger %}</td></tr>
-        <tr><td>{% rauser Chrisagui06 %}</td><td>{% rauser Cloud21 %}</td><td>{% rauser codenamesonic2 %}</td><td>{% rauser DasMatt %}</td><td>{% rauser DeathCupz %}</td></tr>
+        <tr><td>{% rauser Chikino1712 %}</td><td>{% rauser Cloud21 %}</td><td>{% rauser CODENAMESONIC %}</td><td>{% rauser DasMatt %}</td><td>{% rauser DeathCupz %}</td></tr>
         <tr><td>{% rauser Droppedpillow %}</td><td>{% rauser e4akae4r0r %}</td><td>{% rauser Elyktrick %}</td><td>{% rauser FairwayZ %}</td><td>{% rauser Ferinha %}</td></tr>
-        <tr><td>{% rauser FoxyTrot %}</td><td>{% rauser GalvaoMath %}</td><td>{% rauser GladiusDX1 %}</td><td>{% rauser Glennsion %}</td><td>{% rauser HatateHimekaidou %}</td></tr>
+        <tr><td>{% rauser FoxyTrot %}</td><td>{% rauser GalvaoMath %}</td><td>{% rauser GladiusXD %}</td><td>{% rauser Glennsion %}</td><td>{% rauser HatateHimekaidou %}</td></tr>
         <tr><td>{% rauser Horizon173 %}</td><td>{% rauser ironcladsoldier %}</td><td>{% rauser Jay6581 %}</td><td>{% rauser JeanHDMC %}</td><td>{% rauser jpeters2 %}</td></tr>
-        <tr><td>{% rauser kupikupo %}</td><td>{% rauser LCAyn %}</td><td>{% rauser Leopowermetal %}</td><td>{% rauser Liberadikal %}</td><td>{% rauser lillyloude %}</td></tr>
+        <tr><td>{% rauser gachapon %}</td><td>{% rauser LCAyn %}</td><td>{% rauser Leopowermetal %}</td><td>{% rauser Liberadikal %}</td><td>{% rauser lillyloude %}</td></tr>
         <tr><td>{% rauser marchelliano13 %}</td><td>{% rauser MarioBlue22 %}</td><td>{% rauser MattWithAMop %}</td><td>{% rauser Palex23 %}</td><td>{% rauser Papillongamer2005 %}</td></tr>
-        <tr><td>{% rauser Rawlsack %}</td><td>{% rauser RogueNibba %}</td><td>{% rauser saladyoon %}</td><td>{% rauser Seththesloth %}</td><td>{% rauser shoclex %}</td></tr>
+        <tr><td>{% rauser Rawlsack %}</td><td>{% rauser Nippers2 %}</td><td>{% rauser saladyoon %}</td><td>{% rauser Seththesloth %}</td><td>{% rauser shoclex %}</td></tr>
         <tr><td>{% rauser StrykerZ %}</td><td>{% rauser sylph10 %}</td><td>{% rauser theclaw124 %}</td><td>{% rauser vitormde256 %}</td><td>{% rauser wilsonrpg %}</td></tr>
         <tr><td>{% rauser yogg %}</td><td>{% rauser andicus %}</td><td>{% rauser AwesomeKalin55 %}</td><td>{% rauser AysuD %}</td><td>{% rauser BomPower %}</td></tr>
         <tr><td>{% rauser calliecreampuff %}</td><td>{% rauser Coleslaw81 %}</td><td>{% rauser cool19062 %}</td><td>{% rauser coses %}</td><td>{% rauser crusaderboss %}</td></tr>
@@ -1251,7 +1251,7 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser PetrosVB %}</td><td>{% rauser Rafritas %}</td><td>{% rauser RedRevenant %}</td><td>{% rauser rosbet %}</td><td>{% rauser Scotty793 %}</td></tr>
         <tr><td>{% rauser siggnal %}</td><td>{% rauser SkipPlayz %}</td><td>{% rauser Slurpnoodlez %}</td><td>{% rauser Tenderisedbeef %}</td><td>{% rauser Thuggybear1983 %}</td></tr>
         <tr><td>{% rauser TickTockClock %}</td><td>{% rauser TrinaryAdept %}</td><td>{% rauser Triskle333 %}</td><td>{% rauser tsubasamanda %}</td><td>{% rauser Twister7x %}</td></tr>
-        <tr><td>{% rauser Unrecognizable %}</td><td>{% rauser VITgamesX13 %}</td><td>{% rauser YDKW %}</td><td>{% rauser zukothecat %}</td><td>{% rauser ZyroBR %}</td></tr>
+        <tr><td>{% rauser Unrecognizable %}</td><td>{% rauser VITgamesX13 %}</td><td>{% rauser YDKW %}</td><td>{% rauser zukothecat %}</td><td>{% rauser iSo7 %}</td></tr>
         <tr><td>{% rauser aaron168 %}</td><td>{% rauser AchievementHunter101 %}</td><td>{% rauser AltoAvenue %}</td><td>{% rauser bubundoamor %}</td><td>{% rauser Desgramofone %}</td></tr>
         <tr><td>{% rauser DoogerBop5600 %}</td><td>{% rauser ElPlataformas %}</td><td>{% rauser EvansVandead %}</td><td>{% rauser FREDDY124 %}</td><td>{% rauser Gimono %}</td></tr>
         <tr><td>{% rauser HeineDog %}</td><td>{% rauser Kewne %}</td><td>{% rauser KikiSenchou %}</td><td>{% rauser Koto775 %}</td><td>{% rauser longshot1314 %}</td></tr>
@@ -1259,23 +1259,23 @@ This brief column highlights yearly user anniversaries, as well as yearly develo
         <tr><td>{% rauser mire871 %}</td><td>{% rauser N1ckScream %}</td><td>{% rauser nicozzard %}</td><td>{% rauser ObitusDivus %}</td><td>{% rauser porygon %}</td></tr>
         <tr><td>{% rauser ProfeHeiner %}</td><td>{% rauser purplerad %}</td><td>{% rauser qsainBolt %}</td><td>{% rauser RetroHagrid %}</td><td>{% rauser revealing %}</td></tr>
         <tr><td>{% rauser SebasCapo9 %}</td><td>{% rauser silverhunter1213 %}</td><td>{% rauser Spheral %}</td><td>{% rauser SynecViren %}</td><td>{% rauser Verminmerman %}</td></tr>
-        <tr><td>{% rauser ViagemRapida %}</td><td>{% rauser Vulp0x %}</td><td>{% rauser williamalpha %}</td><td>{% rauser yakupunktur %}</td><td>{% rauser 0xPedrolucas %}</td></tr>
+        <tr><td>{% rauser oProprioRayman %}</td><td>{% rauser Vulp0x %}</td><td>{% rauser williamalpha %}</td><td>{% rauser yakupunktur %}</td><td>{% rauser 0xPedrolucas %}</td></tr>
         <tr><td>{% rauser 20sidedpeach %}</td><td>{% rauser 86NSX %}</td><td>{% rauser Amar4l %}</td><td>{% rauser andrelams %}</td><td>{% rauser AZK6 %}</td></tr>
         <tr><td>{% rauser Bridger %}</td><td>{% rauser Brones %}</td><td>{% rauser carlozjeffrey28 %}</td><td>{% rauser Chamomiletea %}</td><td>{% rauser DanteDraconi %}</td></tr>
-        <tr><td>{% rauser dinkyndixie %}</td><td>{% rauser Dknboo %}</td><td>{% rauser Draig %}</td><td>{% rauser eugostodetortas %}</td><td>{% rauser Finalpewe %}</td></tr>
-        <tr><td>{% rauser GHaak01 %}</td><td>{% rauser glassSoldier %}</td><td>{% rauser GoddessMaria %}</td><td>{% rauser GzRStee %}</td><td>{% rauser HeroicKitsune %}</td></tr>
+        <tr><td>{% rauser polybidust %}</td><td>{% rauser Dknboo %}</td><td>{% rauser Draig %}</td><td>{% rauser BoyBluePiano %}</td><td>{% rauser Finalpewe %}</td></tr>
+        <tr><td>{% rauser GHaak01 %}</td><td>{% rauser glassSoldier %}</td><td>{% rauser HappyLog %}</td><td>{% rauser GzRStee %}</td><td>{% rauser HeroicKitsune %}</td></tr>
         <tr><td>{% rauser Huntroid %}</td><td>{% rauser Jspx %}</td><td>{% rauser Maluf %}</td><td>{% rauser megaorbit %}</td><td>{% rauser misomosi %}</td></tr>
         <tr><td>{% rauser NoobDad76 %}</td><td>{% rauser pepeleo %}</td><td>{% rauser pollyowl %}</td><td>{% rauser Puffballbk2 %}</td><td>{% rauser Rachx %}</td></tr>
         <tr><td>{% rauser rafaelitonwn %}</td><td>{% rauser RetroPaz %}</td><td>{% rauser RoboB0t203 %}</td><td>{% rauser Sinistsir %}</td><td>{% rauser sixpotatoes %}</td></tr>
-        <tr><td>{% rauser Snifflyjewel %}</td><td>{% rauser starfield %}</td><td>{% rauser suicidality %}</td><td>{% rauser TheScarletDevil %}</td><td>{% rauser TonyGen001 %}</td></tr>
+        <tr><td>{% rauser Snifflyjewel %}</td><td>{% rauser starfield %}</td><td>{% rauser Jikuro %}</td><td>{% rauser TheScarletDevil %}</td><td>{% rauser TonyGen001 %}</td></tr>
         <tr><td>{% rauser TSRQ %}</td><td>{% rauser UsefulCard %}</td><td>{% rauser vibechecker %}</td><td>{% rauser wandersonPaiva %}</td><td>{% rauser XPCromwell %}</td></tr>
-        <tr><td>{% rauser Yo002 %}</td><td>{% rauser aquelemarcus %}</td><td>{% rauser arushi %}</td><td>{% rauser bjr3031 %}</td><td>{% rauser Bloodline16 %}</td></tr>
+        <tr><td>{% rauser Yo002 %}</td><td>{% rauser aquelemarcus %}</td><td>{% rauser arushi %}</td><td>{% rauser bjr3031 %}</td><td>{% rauser 9MILLY %}</td></tr>
         <tr><td>{% rauser carlosanjos %}</td><td>{% rauser CrashX %}</td><td>{% rauser Dabrav %}</td><td>{% rauser Dani86 %}</td><td>{% rauser Duffmana %}</td></tr>
-        <tr><td>{% rauser elguti22 %}</td><td>{% rauser Eviliork %}</td><td>{% rauser Fredman %}</td><td>{% rauser GameFreak96 %}</td><td>{% rauser Gilban %}</td></tr>
+        <tr><td>{% rauser RadiantHero %}</td><td>{% rauser Eviliork %}</td><td>{% rauser Fredman %}</td><td>{% rauser GameFreak96 %}</td><td>{% rauser Gillban %}</td></tr>
         <tr><td>{% rauser Giuss %}</td><td>{% rauser HighSpecNeet %}</td><td>{% rauser Hiryukishin %}</td><td>{% rauser iascaranius %}</td><td>{% rauser KaitouMonkey %}</td></tr>
         <tr><td>{% rauser Kinzy %}</td><td>{% rauser KitsuneAugusta %}</td><td>{% rauser laf1987 %}</td><td>{% rauser Lidshe %}</td><td>{% rauser Lunarectic %}</td></tr>
         <tr><td>{% rauser mark2817 %}</td><td>{% rauser NariChiiga %}</td><td>{% rauser Patseaza %}</td><td>{% rauser SaurianShinobi %}</td><td>{% rauser Saxmaster17 %}</td></tr>
         <tr><td>{% rauser strijder457 %}</td><td>{% rauser Strimmer %}</td><td>{% rauser Tyattack4545 %}</td><td>{% rauser VolarWeb %}</td><td>{% rauser WeskerEnd %}</td></tr>
-        <tr><td>{% rauser YamiSpark %}</td><td></td><td></td><td></td><td></td></tr>
+        <tr><td>{% rauser Yacchaabr %}</td><td></td><td></td><td></td><td></td></tr>
 </table>
 <br>
