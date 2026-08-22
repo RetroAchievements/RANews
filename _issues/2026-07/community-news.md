@@ -7,6 +7,19 @@ title: Community News
 toc: true
 ---
 
+## New Patreon Tier
+
+RetroAchievements has always been a non-profit and will always be. RA's backers have asked for another Patreon tier to open, and we want to provide something in return to make it worthwhile. Since the servers have been paid for and we haven't had concerns, there wasn't a need to investigate this, until lately. Prices for hosting have increased significantly due to surging global hardware costs, RAM supply shortages and rising energy expenses. Our hosting provider has mercifully grandfathered our server costs, however if overnight they were to charge us their going-rate, we wouldn't break even.
+
+Rather than adding adverts, lowering the server capabilities, etc we don't want any of that. Instead we have decided to start looking at leaning on Patreon to see if we can invest in providing more content. To start this off, we are looking to add a new $2 Patreon Tier to allow you to be a "Super Supporter" https://www.patreon.com/retroachievements this will allow you to have a special HOLOGRAPHIC supporter badge, thanks to the incredible skills of {% rauser wes %} who has worked hard to support this and {% rauser SporyTike %} who has updated existing tiers on the site where possible.
+
+
+## Undertale Standalone
+
+RetroAchievements is excited to announce our latest standalone, the big hit by Toby Fox, Undertale! You play as a young human who fell down into the underground, a world full of monsters. Now you'll have to find your way out, but how will you do it? Will you use your EXPerience from other RPGs and take out everyone standing in your way to raise your LV, or will you befriend them instead so they can help bring you to the surface? The choice is all yours, as you can experience this entire game without ever killing anyone or anything! ...Or you can ;)
+
+{% ragamepic 41157, 147631, Undertale %}
+
 ## Standalone Support Guidelines
 
 An official update regarding the standalone process has been put in place. With this, we hope to provide more clarity on how our internal decision making works, as well as make it more clear what standalone proposals we are hoping to see come in that will have a higher chance of success.
@@ -25,23 +38,6 @@ Screenshot beta feature is back online! As a result, we have created a a `@Media
 
 Check out the Screenshot Guidelines for more details: [https://docs.retroachievements.org/guidelines/content/screenshot-guidelines.html](https://docs.retroachievements.org/guidelines/content/screenshot-guidelines.html)
 
-## Wii Is Here!!
-
-Wii are extremely happy to welcome you to our biggest rollout ever with over 180 sets! RetroAchievements is proud to announce support for our 53rd console, the Nintendo Wii!
-
-**To start earning achievements for Wii, as well as GameCube in Hardcore mode, you need to be on version 2603a or later, or 2603-81+ for Nightly. Use the auto-updater, or get a new version directly from [https://dolphin-emu.org/](https://dolphin-emu.org/).**
-
-It has already been two years since our last rollout huh? Two years ago, we were working together with the Dolphin team on bringing GameCube to our platform (which was our previous biggest rollout!), and our community has grown exponentially since then. Of course as with every rollout, people were starting to wonder what's next; would it be what we teased in the previous post with older computers like ZX Spectrum and Commodore 64, or was the answer in front of us after all with the Nintendo Wii? We kept it a secret for long, until we revealed it last year after thorough testing that we would in fact continue the legacy of Nintendo!
-
-A massive thank you to the Dolphin team, the Rollout team for organizing the rollout, the Writing team for reviewing every set, and of course all of our fantastic developers who have made these sets for all your childhood favorites! Be sure to leave them a nice comment, they deserve it
-
-Thanks to everyone who made the Wii rollout a success, and though the event has concluded folks can still continue the conversation at the `#🐬｜wii-channel` on Discord.
-
-Useful Links
-- [Wii Details](https://retroachievements.org/forums/topic/35008)
-- [A Guide to Wii](https://retroachievements.org/forums/topic/34986)
-- [Wii Launch Event](https://retroachievements.org/forums/topic/34940)
-- [Infinite Backlog's Wii Event](https://infinitebacklog.net/challenges/events/wii-would-like-to-play)
 
 # Set Design Team
 
@@ -53,38 +49,7 @@ This team, starting with 16 Developers and 13 Players from all across the commun
 - Assist developers who are looking for feedback about a set they're developing/plan to develop.
 - Take over the subset process and improve it overall, discussing it in detail with proposers and providing feedback in the hopes to see more high quality subsets approved.
 
-| {% rauserpic Aeliana %}                  | {% rauserpic AuburnRDM %}          | {% rauserpicalt Brylefi, Bryan1150 %} | {% rauserpic carlosrhv %}              | {% rauserpic CelerityTM %}             |
-| {% rauserpic Daroachie %}                | {% rauserpic Dominick %}           | {% rauserpic Fridge %}                | {% rauserpic Ghal416 %}                | {% rauserpic Gollawiz %}               |
-| {% rauserpic HealApe %}                  | {% rauserpic Jazerus %}            | {% rauserpic Kaiserlucas %}           | {% rauserpic manakate %}               | {% rauserpic Maximdraco %}             |
-| {% rauserpicalt Meatbro, SuperMeatBro %} | {% rauserpic MeloDeathAtmoBlack %} | {% rauserpic NeoDragon223 %}          | {% rauserpicalt Pearl, graypigeon22 %} | {% rauserpicalt Pie345, ilikepie345 %} |
-| {% rauserpic Prota %}                    | {% rauserpic Raeyene %}            | {% rauserpic Raichi %}                | {% rauserpic RyCuLe %}                 | {% rauserpic ryoxd %}                  |
-| {% rauserpic TechnoFangirl %}            | {% rauserpic TheMysticalOne %}     | {% rauserpic TrashCity %}             | {% rauserpic WilHiteWarrior %}         |
-
 We are looking forward to this new era of RetroAchievements and community involvement, and are eagerly awaiting to see what more can be done with the team in the future!
-
-## Emu4Vita++
-
-Introducing Emu4VitaPlus, an emulator frontend for the PlayStation Vita!
-
-This is an emulator frontend based on the Libretro API, meaning that multiple of the cores you already use to play games with are available, such as all Nintendo handheld devices up until Game Boy Advance, NES/SNES, the Mega Drive, PC Engine, and more. Likewise, most essential features like fast forward and overlays/shaders are available for you to mess around with.
-
-To get this working on your Vita, you do need to hack it by putting VitaSDK on it. You can find the full instructions on how to do so on their [Github](https://github.com/noword/Emu4VitaPlus/blob/master/README.en.md).
-
-# MiSTer FPGA Hardcore Achievements
-
-If you want to get truly retro with your gaming setup, then we got something very excited to share with you. Thanks to the hard work of {% rauserpic odelot %}, it is now possible to play NES games with HARDCORE achievements on MiSTer FPGA Hardware!
-
-MiSTer is an open-source project where systems are ran through FPGA on a printed circuit board. Unlike the emulators we currently use and are all familiar with, MiSTer uses hardware emulation which has the potential to have the performance be exactly like how it would run on original consoles with zero lag. In fact, it's perfect to use for CRTs to truly replicate that feeling of retro gaming that we all long back for!
-
-Currently, only NES games are supported. However, Odelot and testers are working hard on other cores as well such as Mega Drive, and these will roll out over time. For more information, here are some useful links to check out and get you started:
-
-Information about MiSTer
-- [MiSTer FPGA Documentation](https://mister-devel.github.io/MkDocs_MiSTer/)
-- [MiSTer-devel Github](https://github.com/mister-devel)
-
-Odelot's forks (required for achievements)
-- [Main_MiSTer](https://github.com/odelot/Main_MiSTer/releases/tag/v1.0)
-- [NES_MiSTer](https://github.com/odelot/NES_MiSTer/releases/tag/v1.0)
 
 ## Multiset
 
@@ -110,16 +75,6 @@ If you suspect anyone may be cheating or see suspicious scores/times, you can se
 ## Official RA YouTube
 
 The official [RetroAchievements YouTube Channel](https://www.youtube.com/@retrocheevos) has passed 1,000 subscribers. We're looking for users who may already have videos or would like to make videos to contribute to the channel.
-
-Type of content we're looking for:
-- "What is RetroAchievements" - A Channel Intro video showcasing what the website is all about!
-- Emulation Tutorials,
-- Developer Tutorials,
-- Achievement Guides,
-- Announcement Videos,
-- Reviews,
-- Top 10's
-- ...and more!
 
 If you're interested in making content for the channel reach out to {% rauserpicalt SnowPin, Snow %} via DM!
 
@@ -202,6 +157,10 @@ Tips for getting your screenshots approved:
 - Fixes an issue where a Remember common to all alts was being promoted to core, leaving unique per-alt Recalls without a Remember
 
 [Full release notes and download here](https://github.com/Jamiras/RATools/releases/tag/v1.17.3)
+
+## RABot Updates
+
+RABot is now slash-command only. `!` commands like `!poll` or `!gan` relied on the bot reading the message as it was written in the channel. It can't do that anymore, so these `!` commands won't work. All the `!` commands have been migrated to slash commands.
 
 ## DevQuest
 
