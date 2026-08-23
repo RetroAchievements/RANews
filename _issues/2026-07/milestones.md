@@ -818,14 +818,30 @@ toc: true
 
 ### 100 Site Awards Earned
 
-|{% rauserpic arclad84 %}|{% rauserpic arqueologogames1 %}|{% rauserpic Eltana %}|
-|{% rauserpic FacuGOLAZO %}|{% rauserpic girugamesh %}|{% rauserpic ImStuff %}|
-|{% rauserpic KevKjef %}|{% rauserpic Kitsunic %}|{% rauserpic M4g1cW4rr10r %}|
-|{% rauserpic Moka %}|{% rauserpic NoobKING %}|{% rauserpic Odincito89 %}|
-|{% rauserpicalt acido, popsky %}|{% rauserpic Ridlaid %}|{% rauserpic rominho %}|
-|{% rauserpic shadowloona27 %}|{% rauserpic SirCold %}|{% rauserpicalt SStephen, SStephenMC %}|
-|{% rauserpic TheTudeDude %}|{% rauserpic ValentinGobert %}|{% rauserpicalt Abysm, VivianandOndine %}|
-|{% rauserpic whiskeyriver %}|{% rauserpic WokeWendy %}||
+|{% rauserpic 10yoshi %}|{% rauserpic agyrof %}|{% rauserpic Aikner %}|
+|{% rauserpic arqueologogames1 %}|{% rauserpic bangerra %}|{% rauserpic Bishmanrock %}|
+|{% rauserpic BlessedGamer7 %}|{% rauserpic blipblo %}|{% rauserpic BonesBurger %}|
+|{% rauserpic Brandon402 %}|{% rauserpic c4th %}|{% rauserpic Cabrunco %}|
+|{% rauserpic carefreebomb %}|{% rauserpic chaoticenigma %}|{% rauserpic CharmanderAutista %}|
+|{% rauserpic CHmartialarts %}|{% rauserpic CjDJ99 %}|{% rauserpic Comical %}|
+|{% rauserpic DantePlays %}|{% rauserpic dinkyslinky %}|{% rauserpic DonMarci %}|
+|{% rauserpic DrHamburgerJ %}|{% rauserpic EGONBOBOSLACKE %}|{% rauserpic Exodecai %}|
+|{% rauserpic Falakiko %}|{% rauserpic Flareon %}|{% rauserpic Grafvolluth %}|
+|{% rauserpicalt GrumpyJak908TTV, Grumpyjack908 %}|{% rauserpic guysir %}|{% rauserpic Halbarad %}|
+|{% rauserpic Hamatuth %}|{% rauserpic heytallman %}|{% rauserpic HylianHero %}|
+|{% rauserpicalt drainbamaged, idrainbamaged %}|{% rauserpic Irondan316 %}|{% rauserpic Keovlo %}|
+|{% rauserpic Kojji %}|{% rauserpicalt Videogamie, Kraken %}|{% rauserpic kynetixx %}|
+|{% rauserpic leandromorato %}|{% rauserpicalt LiftingD00d, LiftingDood69 %}|{% rauserpic LilNizzy %}|
+|{% rauserpic LunaticSlave %}|{% rauserpic MachnhcaM %}|{% rauserpic Marcur01 %}|
+|{% rauserpic MelloLvl %}|{% rauserpic Mia %}|{% rauserpic Mightymo77 %}|
+|{% rauserpic Noid %}|{% rauserpic PacoAlcantara %}|{% rauserpic pixelfan8 %}|
+|{% rauserpicalt Seimari, PoisonBoy %}|{% rauserpic pokemoneiton %}|{% rauserpic PrinceTornado %}|
+|{% rauserpic reofan %}|{% rauserpic RetroDronX %}|{% rauserpic Saucee %}|
+|{% rauserpicalt KwekKwekKid, senorhappy41 %}|{% rauserpicalt Rennyur, Skipsy %}|{% rauserpic soroxas94 %}|
+|{% rauserpic Splasher %}|{% rauserpic Squirrel107 %}|{% rauserpicalt laudotrar, sunthemage %}|
+|{% rauserpic ThatRetro %}|{% rauserpic TheScarletDevil %}|{% rauserpic TobiPotato %}|
+|{% rauserpic Tumor %}|{% rauserpic UltimaWeaponPrime %}|{% rauserpicalt Vashwave, Vashzaron %}|
+|{% rauserpic wallmasterz %}|{% rauserpic Whitepoplar %}|{% rauserpicalt Lown, xhollowxonex %}|
 
 ## Leaderboards
 

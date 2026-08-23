@@ -47,7 +47,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 | {% rasystempic 40 %}                       | {% rauserpicalt ZetaGundam, Yordlebreeder %}                                                                   | 69             | <!-- Dreamcast -->                   |
 | {% rasystempic 75 %}                       | {% rauserpic 1stPrize %}<br>{% rauserpic alopex44 %}<br>{% rauserpic Beliskner999 %}<br>{% rauserpic Whoops %} | 29             | <!-- Elektor TV Games Computer -->   |
 | {% rasystempic 57 %}                       | {% rauserpic JeanBlasay %}                                                                                     | 36             | <!-- Fairchild Channel F -->         |
-| {% rasystempic 0, Famicom Disk System %}   | {% rauserpic mx01 %}                                                                                           | 8              | <!-- Famicom Disk System -->         |
+| {% rasystempic 81 %}                       | {% rauserpic mx01 %}                                                                                           | 8              | <!-- Famicom Disk System -->         |
 | {% rasystempic 4 %}                        | {% rauserpic Shootzy %}                                                                                        | 188            | <!-- Game Boy -->                    |
 | {% rasystempic 5 %}                        | {% rauserpic bonecrusher1022 %}                                                                                | 234            | <!-- Game Boy Advance -->            |
 | {% rasystempic 6 %}                        | {% rauserpic valeforge %}                                                                                      | 216            | <!-- Game Boy Color -->              |
@@ -83,7 +83,7 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 | {% rasystempic 28 %}                       | {% rauserpic Poefred %}                                                                                        | 24             | <!-- Virtual Boy -->                 |
 | {% rasystempic 72 %}                       | {% rauserpic chengdawei %}                                                                                     | 65             | <!-- WASM-4 -->                      |
 | {% rasystempic 63 %}                       | {% rauserpic AzuchiAkeshi %}                                                                                   | 59             | <!-- Watara Supervision -->          |
-| {% rasystempic 0, Wii %}                   | {% rauserpic AstroFennec %}                                                                                    | 78             | <!-- Wii -->                         |
+| {% rasystempic 19 %}                       | {% rauserpic AstroFennec %}                                                                                    | 78             | <!-- Wii -->                         |
 | {% rasystempic 53 %}                       | {% rauserpic GregHouse007 %}<br>{% rauserpic Nanashi %}                                                        | 19             | <!-- WonderSwan -->                  |
 
 ## Notable Milestones
@@ -152,14 +152,30 @@ Special thanks to {% rauserpic Nydaxn %} for creating the ranking image template
 
 ### 100 Mastery Awards
 
-|{% rauserpic arclad84 %}|{% rauserpic arqueologogames1 %}|{% rauserpic Eltana %}|
-|{% rauserpic FacuGOLAZO %}|{% rauserpic girugamesh %}|{% rauserpic ImStuff %}|
-|{% rauserpic KevKjef %}|{% rauserpic Kitsunic %}|{% rauserpic M4g1cW4rr10r %}|
-|{% rauserpic Moka %}|{% rauserpic NoobKING %}|{% rauserpic Odincito89 %}|
-|{% rauserpicalt acido, popsky %}|{% rauserpic Ridlaid %}|{% rauserpic rominho %}|
-|{% rauserpic shadowloona27 %}|{% rauserpic SirCold %}|{% rauserpicalt SStephen, SStephenMC %}|
-|{% rauserpic TheTudeDude %}|{% rauserpic ValentinGobert %}|{% rauserpicalt Abysm, VivianandOndine %}|
-|{% rauserpic whiskeyriver %}|{% rauserpic WokeWendy %}||
+|{% rauserpic 10yoshi %}|{% rauserpic agyrof %}|{% rauserpic Aikner %}|
+|{% rauserpic arqueologogames1 %}|{% rauserpic bangerra %}|{% rauserpic Bishmanrock %}|
+|{% rauserpic BlessedGamer7 %}|{% rauserpic blipblo %}|{% rauserpic BonesBurger %}|
+|{% rauserpic Brandon402 %}|{% rauserpic c4th %}|{% rauserpic Cabrunco %}|
+|{% rauserpic carefreebomb %}|{% rauserpic chaoticenigma %}|{% rauserpic CharmanderAutista %}|
+|{% rauserpic CHmartialarts %}|{% rauserpic CjDJ99 %}|{% rauserpic Comical %}|
+|{% rauserpic DantePlays %}|{% rauserpic dinkyslinky %}|{% rauserpic DonMarci %}|
+|{% rauserpic DrHamburgerJ %}|{% rauserpic EGONBOBOSLACKE %}|{% rauserpic Exodecai %}|
+|{% rauserpic Falakiko %}|{% rauserpic Flareon %}|{% rauserpic Grafvolluth %}|
+|{% rauserpicalt GrumpyJak908TTV, Grumpyjack908 %}|{% rauserpic guysir %}|{% rauserpic Halbarad %}|
+|{% rauserpic Hamatuth %}|{% rauserpic heytallman %}|{% rauserpic HylianHero %}|
+|{% rauserpicalt drainbamaged, idrainbamaged %}|{% rauserpic Irondan316 %}|{% rauserpic Keovlo %}|
+|{% rauserpic Kojji %}|{% rauserpicalt Videogamie, Kraken %}|{% rauserpic kynetixx %}|
+|{% rauserpic leandromorato %}|{% rauserpicalt LiftingD00d, LiftingDood69 %}|{% rauserpic LilNizzy %}|
+|{% rauserpic LunaticSlave %}|{% rauserpic MachnhcaM %}|{% rauserpic Marcur01 %}|
+|{% rauserpic MelloLvl %}|{% rauserpic Mia %}|{% rauserpic Mightymo77 %}|
+|{% rauserpic Noid %}|{% rauserpic PacoAlcantara %}|{% rauserpic pixelfan8 %}|
+|{% rauserpicalt Seimari, PoisonBoy %}|{% rauserpic pokemoneiton %}|{% rauserpic PrinceTornado %}|
+|{% rauserpic reofan %}|{% rauserpic RetroDronX %}|{% rauserpic Saucee %}|
+|{% rauserpicalt KwekKwekKid, senorhappy41 %}|{% rauserpicalt Rennyur, Skipsy %}|{% rauserpic soroxas94 %}|
+|{% rauserpic Splasher %}|{% rauserpic Squirrel107 %}|{% rauserpicalt laudotrar, sunthemage %}|
+|{% rauserpic ThatRetro %}|{% rauserpic TheScarletDevil %}|{% rauserpic TobiPotato %}|
+|{% rauserpic Tumor %}|{% rauserpic UltimaWeaponPrime %}|{% rauserpicalt Vashwave, Vashzaron %}|
+|{% rauserpic wallmasterz %}|{% rauserpic Whitepoplar %}|{% rauserpicalt Lown, xhollowxonex %}|
 
 
 ### Total Awards
