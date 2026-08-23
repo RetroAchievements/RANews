@@ -185,7 +185,6 @@ art	7010	I	IDarkReaderW	https://media.retroachievements.org/Images/106340.png	ht
 art	34903	I	FlareGamer64	https://media.retroachievements.org/Images/129749.png	https://media.retroachievements.org/Images/130315.png
 art	11642	I	JomSpoons	https://media.retroachievements.org/Images/023704.png	https://media.retroachievements.org/Images/130316.png
 art	15972	I	Hawkow	https://media.retroachievements.org/Images/063380.png	https://media.retroachievements.org/Images/130317.png
-art	8728	I	YeenTheBin	https://media.retroachievements.org/Images/060988.png	https://media.retroachievements.org/Images/130318.png
 art	35803	I	che1sea	https://media.retroachievements.org/Images/000001.png	https://media.retroachievements.org/Images/130319.png
 art	11327	B	GorbrushThreepwood S4NSAN Heoutera	https://i.imgur.com/VoMV89e.png	https://i.imgur.com/uI04YkY.png
 art	22530	I	boutiz	https://media.retroachievements.org/Images/125209.png	https://media.retroachievements.org/Images/130733.png
@@ -297,7 +296,6 @@ art	25395	I	ZeeRA	https://media.retroachievements.org/Images/080973.png	https://
 art	11927	I	hotelmariolover	https://media.retroachievements.org/Images/049915.png	https://media.retroachievements.org/Images/133951.png
 art	19894	I	Guininhas	https://media.retroachievements.org/Images/059360.png	https://media.retroachievements.org/Images/134667.png
 art	16669	I	ZeeRA	https://media.retroachievements.org/Images/060587.png	https://media.retroachievements.org/Images/134668.png
-art	4402	I	che1sea	https://media.retroachievements.org/Images/085637.png	https://media.retroachievements.org/Images/134669.png
 art	21005	I	AnarchisedLUTE	https://media.retroachievements.org/Images/000001.png	https://media.retroachievements.org/Images/134670.png
 art	18590	I	LilCutieSophia	https://media.retroachievements.org/Images/103351.png	https://media.retroachievements.org/Images/135157.png
 art	6685	I	TrucyStar	https://media.retroachievements.org/Images/052073.png	https://media.retroachievements.org/Images/135158.png
@@ -368,3 +366,5 @@ art	5022	I	LoLHaKer	https://media.retroachievements.org/Images/054759.png	https:
 art	23815	I	che1sea	https://media.retroachievements.org/Images/136737.png	https://media.retroachievements.org/Images/140802.png
 art	22882	I	DerpyHooves	https://media.retroachievements.org/Images/140077.png	https://media.retroachievements.org/Images/140803.png
 art	17322	I	Jayvee	https://media.retroachievements.org/Images/070490.png	https://media.retroachievements.org/Images/140804.png
+art	24402	H	che1sea	https://media.retroachievements.org/Images/085637.png	https://media.retroachievements.org/Images/134669.png
+art	18728	H	YeenTheBin	https://media.retroachievements.org/Images/060988.png	https://media.retroachievements.org/Images/130318.png

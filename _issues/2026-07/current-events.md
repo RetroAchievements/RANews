@@ -72,7 +72,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
 | {% ragamepic  32828, 106743, Halloween 2023 - Evergreen %}                                  | Master all 13 games featured in the event.                                                                             |
 | {% raeventpic 195,   121245, RetroAchievemas 2024 - Evergreen %}                            | Earn 35 points by beating and mastering games featured in the RetroAchievemas 2024 Event.                              |
 | {% raeventpic 199,   123853, RA-TALITY - Evergreen %}                                       | Earn 60 points by beating and mastering fighting games.                                                                |
-| {% raeventpic 220,   123853, 75 Years of F1 RAcing - Evergreen %}                           | Earn 60 points by beating and mastering racing games from 75 Years of F1 RAcing.                                       |
+| {% raeventpic 220,   142867, 75 Years of F1 RAcing - Evergreen %}                           | Earn 60 points by beating and mastering racing games from 75 Years of F1 RAcing.                                       |
 
 # Active Events
 

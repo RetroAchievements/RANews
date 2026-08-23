@@ -165,7 +165,6 @@ toc: true
 | ------------------------------------------------------------------------------------------------ | --------------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 159, 130789, B.O.B. %}                                                              | {% rauser Napolitoto %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/038577.png"> |
 | {% ragamepic 4386, 135160, Pinocchio %}                                                          | {% rauser LilCutieSophia %} | <img class="gameicon" src="https://media.retroachievements.org/Images/038856.png"> |
-| {% ragamepic 8728, 093122, <span class="tag"><span>Hack</span></span> Sonic ERaZor %}            | {% rauser YeenTheBin %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/060988.png"> |
 | {% ragamepic 9933, 131024, <span class="tag"><span>Hack</span></span> Sonic: Brother Trouble %}  | {% rauser Universus %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/077465.png"> |
 | {% ragamepic 1363, 135161, <span class="tag"><span>Prototype</span></span> Bill's Tomato Game %} | {% rauser LilCutieSophia %} | <img class="gameicon" src="https://media.retroachievements.org/Images/101781.png"> |
 
@@ -175,9 +174,10 @@ toc: true
 ### Hubs
 
 
-| Game                                                     | Icon By              | Icon Before                                                                        |
-| -------------------------------------------------------- | -------------------- | ---------------------------------------------------------------------------------- |
-| {% ragamepic 4402, 106639, [Hacks - Super Mario Kart] %} | {% rauser che1sea %} | <img class="gameicon" src="https://media.retroachievements.org/Images/085637.png"> |
+| Game                                                 | Icon By                 | Icon Before                                                                        |
+| ---------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------- |
+| {% rahubpic 18728, 130318, Series - Rhythm Heaven %} | {% rauser YeenTheBin %} | <img class="gameicon" src="https://media.retroachievements.org/Images/060988.png"> |
+| {% rahubpic 24402, 134669, Series - UEFA %}          | {% rauser che1sea %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/085637.png"> |
 
 <a href="#toc">:top:</a>
 
