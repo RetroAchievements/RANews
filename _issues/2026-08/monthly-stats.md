@@ -10,7 +10,7 @@ toc: true
 # General Stats
 Check out some general stats from this month.
 
-| Number of sets released. | XX | <!-- Get from Hot Cheevs -->
+| Number of sets released. | 149 | <!-- Get from Hot Cheevs -->
 | Number of achievements released. | 4,491 | <!-- 01 -->
 | Number of hardcore achievements earned. | 4,013,654 | <!-- 02 -->
 | Number of code notes created. | 18,828 | <!-- 03 -->
@@ -83,10 +83,10 @@ Check out the top 25 achievement creators from this month.
 | 11   | {% rauserpic BEXUS %}              | 115          |
 | 12   | {% rauserpic MGNS8M %}             | 113          |
 | 13   | {% rauserpic Quenthel %}           | 108          |
-| 14   | {% rauserpic AlexGatao %}          | 106          |
+| 14   | {% rauserpicalt AlexHylian, AlexGatao %}          | 106          |
 | 15   | {% rauserpic Excessiveiser %}      | 101          |
 | 16   | {% rauserpic SporyTike %}          | 89           |
-| 17   | {% rauserpic SrLeo12 %}            | 83           |
+| 17   | {% rauserpicalt Cnat, SrLeo12 %}            | 83           |
 | 18   | {% rauserpic authorblues %}        | 79           |
 | 19   | {% rauserpic TheMysticalOne %}     | 76           |
 | 20   | {% rauserpic Gudra %}              | 75           |
@@ -101,11 +101,11 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 
 | Rank | Developer                           | Unlocks Awarded | Points Awarded | Retro Points Awarded |
 | ---- | ----------------------------------- | --------------- | -------------- | -------------------- |
-| 1    | {% rauserpic Snow %}                | 188,072         | 381,850        | 1,683,097            |
+| 1    | {% rauserpicalt SnowPin, Snow %}                | 188,072         | 381,850        | 1,683,097            |
 | 2    | {% rauserpic Delmaru %}             | 86,825          | 456,748        | 2,650,799            |
 | 3    | {% rauserpic SporyTike %}           | 74,115          | 423,486        | 1,690,270            |
-| 4    | {% rauserpic ThatAmericanSlacker %} | 73,292          | 513,882        | 1,076,471            |
-| 5    | {% rauserpic Bryan1150 %}           | 72,313          | 444,902        | 2,006,248            |
+| 4    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 73,292          | 513,882        | 1,076,471            |
+| 5    | {% rauserpicalt Brylefi, Bryan1150 %}           | 72,313          | 444,902        | 2,006,248            |
 | 6    | {% rauserpic suspect15 %}           | 64,883          | 431,318        | 2,155,111            |
 | 7    | {% rauserpic timenoe %}             | 62,766          | 493,912        | 2,323,017            |
 | 8    | {% rauserpic RAEvents %}            | 59,810          | 79,611         | 1,131,964            |
@@ -113,7 +113,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 10   | {% rauserpic Gollawiz %}            | 58,116          | 367,655        | 1,670,179            |
 | 11   | {% rauserpic Brian %}               | 55,386          | 417,101        | 1,148,047            |
 | 12   | {% rauserpic GalacticSpear %}       | 55,029          | 435,951        | 2,129,960            |
-| 13   | {% rauserpic televandalist %}       | 52,690          | 392,238        | 1,327,086            |
+| 13   | {% rauserpicalt tele, televandalist %}       | 52,690          | 392,238        | 1,327,086            |
 | 14   | {% rauserpic blendedsea %}          | 50,010          | 249,286        | 985,023              |
 | 15   | {% rauserpic Blazekickn %}          | 45,140          | 292,439        | 2,864,087            |
 | 16   | {% rauserpic dude1286 %}            | 43,332          | 355,313        | 762,750              |
@@ -211,7 +211,7 @@ Check out who has the most achievement unlocks, points, retro points, and master
 | 4    | {% rauserpic CampingCarl %}     | 2,565        | 14,461 | 39,368       | 169            |
 | 5    | {% rauserpic TheDiceman %}      | 2,524        | 10,453 | 26,815       | 76             |
 | 6    | {% rauserpic PD4FR %}           | 2,499        | 18,513 | 89,950       | 53             |
-| 7    | {% rauserpic xenoriddley %}     | 2,491        | 7,884  | 13,912       | 188            |
+| 7    | {% rauserpicalt FisherKingXeno, xenoriddley %}     | 2,491        | 7,884  | 13,912       | 188            |
 | 8    | {% rauserpic plantpal %}        | 2,422        | 10,219 | 29,582       | 16             |
 | 9    | {% rauserpic zivlosos %}        | 2,167        | 18,461 | 81,975       | 31             |
 | 10   | {% rauserpic Booplesnoot %}     | 2,147        | 10,192 | 56,542       | 31             |
@@ -219,17 +219,17 @@ Check out who has the most achievement unlocks, points, retro points, and master
 | 12   | {% rauserpic Capndrake %}       | 1,994        | 18,038 | 102,081      | 38             |
 | 13   | {% rauserpic Kaiserlucas %}     | 1,966        | 9,692  | 31,288       | 117            |
 | 14   | {% rauserpic Beliskner999 %}    | 1,926        | 13,210 | 47,477       | 72             |
-| 15   | {% rauserpic avanna %}          | 1,746        | 13,513 | 62,027       | 4              |
-| 16   | {% rauserpic bbaauuiiss %}      | 1,704        | 9,447  | 36,591       | 11             |
+| 15   | {% rauserpicalt irisia, avanna %}          | 1,746        | 13,513 | 62,027       | 4              |
+| 16   | {% rauserpicalt RocketDoggie, bbaauuiiss %}      | 1,704        | 9,447  | 36,591       | 11             |
 | 17   | {% rauserpic dynamosoftwares %} | 1,698        | 13,084 | 80,239       | 19             |
 | 18   | {% rauserpic ValentinGobert %}  | 1,677        | 7,595  | 41,275       | 70             |
 | 19   | {% rauserpic CaptStache %}      | 1,567        | 9,242  | 33,949       | 17             |
-| 20   | {% rauserpic SoulSoralis %}     | 1,555        | 12,433 | 61,350       | 18             |
+| 20   | {% rauserpicalt Soralis, SoulSoralis %}     | 1,555        | 12,433 | 61,350       | 18             |
 | 21   | {% rauserpic PsyXchO %}         | 1,551        | 8,605  | 31,105       | 31             |
 | 22   | {% rauserpic Engdyn %}          | 1,545        | 7,530  | 14,631       | 33             |
 | 23   | {% rauserpic BIackjack %}       | 1,520        | 8,931  | 25,624       | 31             |
 | 24   | {% rauserpic LilGamerzz %}      | 1,512        | 11,888 | 37,692       | 19             |
-| 25   | {% rauserpic MrWallice23 %}     | 1,454        | 7,566  | 25,656       | 17             |
+| 25   | {% rauserpicalt RetroGamerTrio, MrWallice23 %}     | 1,454        | 7,566  | 25,656       | 17             |
 
 ## Top 25 Awarded Achievements <!-- 16 -->
 Check out which achievements were earned the most this month. Limit one achievement per game.
@@ -305,13 +305,13 @@ Check out which achievements created in 2026 were earned the most this month. Li
 | 1    | {% raachpic 624302, 710011, You Idiot %}                                   | {% ragamepic 41157, 147631, Undertale %}                                  | 1,097         |
 | 2    | {% raachpic 608309, 441786, Crystal in the Sky %}                          | {% ragamepic 28359, 088691, Final Fantasy XI: Chains of Promathia %}      | 476           |
 | 3    | {% raachpic 608389, 700529, Sounds of Silence %}                           | {% ragamepic 38157, 136656, Learning with the PooYoos: Episode 2 %}       | 432           |
-| 4    | {% raachpic 619799, 704648, Our Chilly Reign Has Begun! %}                 | {% ragamepic 39044, 136420, ~Hack~ Newer: Holiday Special %}              | 423           |
-| 5    | {% raachpic 618921, 703476, Say Hi to the Wigglers %}                      | {% ragamepic 39043, 149665, ~Hack~ Newer: Falling Leaf %}                 | 423           |
+| 4    | {% raachpic 619799, 704648, Our Chilly Reign Has Begun! %}                 | {% ragamepic 39044, 136420, <span class="tag"><span>Hack</span></span> Newer: Holiday Special %}              | 423           |
+| 5    | {% raachpic 618921, 703476, Say Hi to the Wigglers %}                      | {% ragamepic 39043, 149665, <span class="tag"><span>Hack</span></span> Newer: Falling Leaf %}                 | 423           |
 | 6    | {% raachpic 609017, 690862, The Painting Workshop! - Big PooYoo %}         | {% ragamepic 38158, 129404, Learning with the PooYoos: Episode 3 %}       | 355           |
 | 7    | {% raachpic 595001, 675293, Fancy Feast %}                                 | {% ragamepic 95, 129701, New Super Mario Bros. Wii %}                     | 341           |
 | 8    | {% raachpic 617736, 701779, Baby Steps %}                                  | {% ragamepic 35523, 133223, Who Wants to Be a Millionaire: 2nd Edition %} | 330           |
 | 9    | {% raachpic 595025, 674706, Circle of Life %}                              | {% ragamepic 38156, 125624, Learning with the PooYoos: Episode 1 %}       | 293           |
-| 10   | {% raachpic 620354, 705041, Sunscreen Will Be Necessary %}                 | {% ragamepic 39045, 136646, ~Hack~ Newer: Summer Sun %}                   | 292           |
+| 10   | {% raachpic 620354, 705041, Sunscreen Will Be Necessary %}                 | {% ragamepic 39045, 136646, <span class="tag"><span>Hack</span></span> Newer: Summer Sun %}                   | 292           |
 | 11   | {% raachpic 617421, 700741, Classic Rookie %}                              | {% ragamepic 34671, 131265, Flight Control %}                             | 291           |
 | 12   | {% raachpic 601431, 681980, Avoiding the Bin %}                            | {% ragamepic 35164, 129250, Golden Balls %}                               | 267           |
 | 13   | {% raachpic 614313, 696939, Lei Lei's Shop of Magic %}                     | {% ragamepic 34772, 129532, The Monkey King: The Legend Begins %}         | 261           |
@@ -388,7 +388,7 @@ Check out which developers created the most code notes this month.
 <div>
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
-        <tr><td>1</td><td>{% rauserpic Yukizz %}</td><td>1,709</td></tr>
+        <tr><td>1</td><td>{% rauserpicalt Zyos, Yukizz %}</td><td>1,709</td></tr>
         <tr><td>2</td><td>{% rauserpic WanderingHeiho %}</td><td>1,451</td></tr>
         <tr><td>3</td><td>{% rauserpic Daxilyie %}</td><td>619</td></tr>
         <tr><td>4</td><td>{% rauserpic ZintheDestroyr %}</td><td>603</td></tr>
@@ -397,7 +397,7 @@ Check out which developers created the most code notes this month.
     </div>
     <div style='width:49%;display:inline-block;float:right'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
-        <tr><td>6</td><td>{% rauserpic MaddieKittyTV %}</td><td>529</td></tr>
+        <tr><td>6</td><td>{% rauserpicalt LilCutieSophia, MaddieKittyTV %}</td><td>529</td></tr>
         <tr><td>7</td><td>{% rauserpic Gudra %}</td><td>510</td></tr>
         <tr><td>8</td><td>{% rauserpic Altomar %}</td><td>504</td></tr>
         <tr><td>9</td><td>{% rauserpic Yurana %}</td><td>468</td></tr>
@@ -482,14 +482,14 @@ Check out the users with the most mastery awards this month.
 
 | Rank | User                           | Awards |
 | ---- | ------------------------------ | ------ |
-| 1    | {% rauserpic xenoriddley %}    | 188    |
+| 1    | {% rauserpicalt FisherKingXeno, xenoriddley %}    | 188    |
 | 2    | {% rauserpic weeps %}          | 187    |
 | 3    | {% rauserpic CampingCarl %}    | 169    |
 | 4    | {% rauserpic EmreOyunda %}     | 146    |
 | 5    | {% rauserpic Kaiserlucas %}    | 117    |
 | 6    | {% rauserpic c4th %}           | 108    |
 | 7    | {% rauserpic InfinityGene %}   | 103    |
-| 8    | {% rauserpic MarceloRonzani %} | 79     |
+| 8    | {% rauserpicalt Ronzani, MarceloRonzani %} | 79     |
 | 9    | {% rauserpic Lifeinsteps %}    | 76     |
 | 10   | {% rauserpic TheDiceman %}     | 76     |
 
@@ -500,9 +500,9 @@ Check out which sets were mastered most this month.
 | ---- | ------------------------------------------------------------------------------- | ------ |
 | 1    | {% ragamepic 38157, 136656, Learning with the PooYoos: Episode 2 (Wii) %}       | 428    |
 | 2    | {% ragamepic 38158, 129404, Learning with the PooYoos: Episode 3 (Wii) %}       | 352    |
-| 3    | {% ragamepic 39044, 136420, ~Hack~ Newer: Holiday Special (Wii) %}              | 295    |
+| 3    | {% ragamepic 39044, 136420, <span class="tag"><span>Hack</span></span> Newer: Holiday Special (Wii) %}              | 295    |
 | 4    | {% ragamepic 38156, 125624, Learning with the PooYoos: Episode 1 (Wii) %}       | 289    |
-| 5    | {% ragamepic 39043, 149665, ~Hack~ Newer: Falling Leaf (Wii) %}                 | 288    |
+| 5    | {% ragamepic 39043, 149665, <span class="tag"><span>Hack</span></span> Newer: Falling Leaf (Wii) %}                 | 288    |
 | 6    | {% ragamepic 34671, 131265, Flight Control (Wii) %}                             | 249    |
 | 7    | {% ragamepic 35523, 133223, Who Wants to Be a Millionaire: 2nd Edition (Wii) %} | 239    |
 | 8    | {% ragamepic 35216, 127936, Freddi Fish: Kelp Seed Mystery (Wii) %}             | 227    |
@@ -586,14 +586,14 @@ Check out the users with the most beaten awards this month.
 | ---- | ------------------------------ | ------ |
 | 1    | {% rauserpic rayfinkle55rus %} | 201    |
 | 2    | {% rauserpic weeps %}          | 192    |
-| 3    | {% rauserpic xenoriddley %}    | 188    |
+| 3    | {% rauserpicalt FisherKingXeno, xenoriddley %}    | 188    |
 | 4    | {% rauserpic CampingCarl %}    | 178    |
 | 5    | {% rauserpic EmreOyunda %}     | 148    |
 | 6    | {% rauserpic InfinityGene %}   | 129    |
 | 7    | {% rauserpic Kaiserlucas %}    | 125    |
 | 8    | {% rauserpic TheDiceman %}     | 123    |
 | 9    | {% rauserpic c4th %}           | 108    |
-| 10   | {% rauserpic bbaauuiiss %}     | 103    |
+| 10   | {% rauserpicalt RocketDoggie, bbaauuiiss %}     | 103    |
 
 ## Top 10 Beaten Sets <!-- 21-B -->
 Check out which sets were beaten most this month.
@@ -601,8 +601,8 @@ Check out which sets were beaten most this month.
 | Rank | Game                                                                            | Awards |
 | ---- | ------------------------------------------------------------------------------- | ------ |
 | 1    | {% ragamepic 38157, 136656, Learning with the PooYoos: Episode 2 (Wii) %}       | 430    |
-| 2    | {% ragamepic 39044, 136420, ~Hack~ Newer: Holiday Special (Wii) %}              | 397    |
-| 3    | {% ragamepic 39043, 149665, ~Hack~ Newer: Falling Leaf (Wii) %}                 | 395    |
+| 2    | {% ragamepic 39044, 136420, <span class="tag"><span>Hack</span></span> Newer: Holiday Special (Wii) %}              | 397    |
+| 3    | {% ragamepic 39043, 149665, <span class="tag"><span>Hack</span></span> Newer: Falling Leaf (Wii) %}                 | 395    |
 | 4    | {% ragamepic 38158, 129404, Learning with the PooYoos: Episode 3 (Wii) %}       | 354    |
 | 5    | {% ragamepic 35523, 133223, Who Wants to Be a Millionaire: 2nd Edition (Wii) %} | 324    |
 | 6    | {% ragamepic 38156, 125624, Learning with the PooYoos: Episode 1 (Wii) %}       | 290    |
@@ -750,7 +750,7 @@ Check out which developers created the most leaderboards this month.
     </div>
     <div style='width:49%;display:inline-block;float:right'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Leaderboards</th></tr></thead><tbody>
-        <tr><td>6</td><td>{% rauserpic Amir96lx %}</td><td>81</td></tr>
+        <tr><td>6</td><td>{% rauserpicalt AmirGaris, Amir96lx %}</td><td>81</td></tr>
         <tr><td>7</td><td>{% rauserpic suspect15 %}</td><td>79</td></tr>
         <tr><td>8</td><td>{% rauserpic Goodbite %}</td><td>78</td></tr>
         <tr><td>9</td><td>{% rauserpic kiichan %}</td><td>56</td></tr>
@@ -830,12 +830,12 @@ Check out which developer cleared the most tickets this month. This does not inc
 
 | Rank | User                             | Cleared Tickets |
 | ---- | -------------------------------- | --------------- |
-| 1    | {% rauserpic televandalist %}    | 35              |
+| 1    | {% rauserpicalt tele, televandalist %}    | 35              |
 | 2    | {% rauserpic ChaoticAdventure %} | 29              |
 | 3    | {% rauserpic Aaamdacuaga %}      | 21              |
 | 4    | {% rauserpic suspect15 %}        | 18              |
-| 5    | {% rauserpic malhas1000 %}       | 17              |
-| 6    | {% rauserpic WCopeland %}        | 15              |
+| 5    | {% rauserpicalt OpheliaEnigma, malhas1000 %}       | 17              |
+| 6    | {% rauserpicalt wes, WCopeland %}        | 15              |
 | 7    | {% rauserpic TheMysticalOne %}   | 11              |
 | 8    | {% rauserpic Yanbetari %}        | 10              |
 | 9    | {% rauserpic lizstar %}          | 9               |

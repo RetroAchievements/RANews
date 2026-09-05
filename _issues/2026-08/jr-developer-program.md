@@ -22,13 +22,13 @@ Check out recent sets created by our Junior Developers. Consider the [Junior Dev
 |      | {% ragamepic 17195, 125479, Championship Motocross featuring Ricky Carmichael %} | {% rauserpic vulkansnake %}     | {% rauserpic Pilzkopf %}         | 7/14/2026   |
 |      | {% ragamepic 22150, 086594, Touch Detective II ½ %}                              | {% rauserpic Advent %}          | {% rauserpic CySlaytor %}        | 7/21/2026   |
 |      | {% ragamepic 22146, 147051, Megamind: The Blue Defender %}                       | {% rauserpic blobdash %}        | {% rauserpic CySlaytor %}        | 7/21/2026   |
-|      | {% ragamepic 23801, 147053, ~Homebrew~ Hey You, Pikachu! Demake %}               | {% rauserpic angenoide %}       | {% rauserpic Goodbite %}         | 7/28/2026   |
+|      | {% ragamepic 23801, 147053, <span class="tag"><span>Homebrew</span></span> Hey You, Pikachu! Demake %}               | {% rauserpic angenoide %}       | {% rauserpic Goodbite %}         | 7/28/2026   |
 |      | {% ragamepic 7560, 131031, Bratz: Rock Angelz %}                                 | {% rauserpic MrDeathxxx %}      | {% rauserpic CySlaytor %}        | 7/28/2026   |
 | ⭐    | {% ragamepic 7443, 126591, Contra: Legacy of War %}                              | {% rauserpic Sniwott %}         | {% rauserpic zaydoc %}           | 7/28/2026   |
 |      | {% ragamepic 7196, 129635, Animetic Story Game 1: Cardcaptor Sakura %}           | {% rauserpic Yzips %}           | {% rauserpic CySlaytor %}        | 7/28/2026   |
 |      | {% ragamepic 1811, 126777, M.U.L.E. %}                                           | {% rauserpic Rubicate %}        | {% rauserpic pinguupinguu %}     | 7/29/2026   |
 |      | {% ragamepic 21184, 119401, Worms 3D %}                                          | {% rauserpic Wormi %}           | {% rauserpic Souzooka %}         | 7/29/2026   |
-|      | {% ragamepic 9771, 075085, The Faery Tale Adventure %}                           | {% rauserpic ShynaNeraShyna %}  | {% rauserpic lonegraywolf2000 %} | 7/30/2026   |
+|      | {% ragamepic 9771, 075085, The Faery Tale Adventure %}                           | {% rauserpic ShynaNeraShyna %}  | {% rauserpicalt lonegraywolf2000, wolfman2000 %} | 7/30/2026   |
 | ⭐    | {% ragamepic 20951, 139707, E.O.E: Eve of Extinction %}                          | {% rauserpic BacktoEdgar %}     | {% rauserpic TheMysticalOne %}   | 7/31/2026   |
 
 # Reviewer Stats
@@ -57,5 +57,5 @@ Alongside the Junior Developers are the Code Reviewers, with their never ending 
 | {% rauserpic Homuki %}           | 1             |
 | {% rauserpic Goodbite %}         | 1             |
 | {% rauserpic Souzooka %}         | 1             |
-| {% rauserpic lonegraywolf2000 %} | 1             |
+| {% rauserpicalt lonegraywolf2000, wolfman2000 %} | 1             |
 | {% rauserpic TheMysticalOne %}   | 1             |

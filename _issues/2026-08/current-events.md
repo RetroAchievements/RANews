@@ -261,7 +261,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
     <tbody>
         <tr>
             <td><strong>Event Summary:</strong></td>
-            <td>Each Half Month we will introduce a gym leader, either from the Lograr Region or the Antico Region. To beat the Gym Leader you must beat 3 of the 6 games they bring. In order to reach said gym leader you must first gain a certain amount of EXP from the hubs given by said Gym Leaders. Beat a certain amount of each group of Gym Leader, Elite 4 Member and the Champion and earn a nice new badge</td>
+            <td>Each half month we will introduce a gym leader, either from the Lograr Region or the Antico Region. To beat the Gym Leader you must beat 3 of the 6 games they bring. In order to reach said gym leader you must first gain a certain amount of EXP from the hubs given by said Gym Leaders. Beat a certain amount of each group of Gym Leader, Elite 4 Member and the Champion and earn a nice new badge</td>
         </tr>
         <tr>
             <td><strong>Event Information:</strong></td>
@@ -410,7 +410,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td>{% ragamepic 1643, 109168, Days of Thunder %}</td>
                         </tr>
                         <tr>
-                            <td rowspan=3>{% rauserpic Senioron %}</td>
+                            <td rowspan=3>{% rauserpicalt Senioron, Hombreton %}</td>
                             <td>{% ragamepic 1643, 109168, Days of Thunder %}</td>
                         <tr>
                         </tr>
@@ -429,7 +429,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td>{% ragamepic 22327, 069951, Starship Patrol | Starship Defense %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic TrashPaddy %}</td>
+                            <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
                             <td>{% ragamepic 22327, 069951, Starship Patrol | Starship Defense %}</td>
                         </tr>
                         <tr>
@@ -485,7 +485,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                         </tr>
                         <tr>
                             <td>{% rauserpic Ezezin %}</td>
-                            <td>{% rauserpic Femcel %}</td>
+                            <td>{% rauserpicalt Femcel, Grungust %}</td>
                             <td>{% rauserpic HungryWalnut %}</td>
                         </tr>
                         <tr>
@@ -516,7 +516,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                         <tr>
                             <td>{% rauserpic sutoksu %}</td>
                             <td>{% rauserpic Tanukitsune %}</td>
-                            <td>{% rauserpic TrashPaddy %}</td>
+                            <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
                         </tr>
                         <tr>
                             <td>{% rauserpic Trickcat%}</td>

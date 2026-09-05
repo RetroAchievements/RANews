@@ -32,7 +32,7 @@ There is a distinct lack of sports game sets on RetroAchievements, despite being
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------ |
 | <a class="gameicon-link" href="https://retroachievements.org/game/27665" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/118500.png" alt="American Popstar: Road to Celebrity"> <span>American Popstar: Road to Celebrity</span></a> | Nintendo DSi | [Rhythm](https://retroachievements.org/hub/8261) |
 
-* Write-up by: {% rauserpic Riley101 %}
+* Write-up by: {% rauserpicalt Riley101, rileythepegasus %}
 
 <figure style="text-align:center;float:left;width:50%;height:50%">
 <img src="https://s3.retroachievements.org/game/screenshots/149/149383886/288a3ef5cb179e57006e08331f84b1c805b05cd0/288a3ef5cb179e57006e08331f84b1c805b05cd0.png">
@@ -87,7 +87,7 @@ Aside from the campaign, you can also prove your skills in a variety of differen
 | <a class="gameicon-link" href="https://retroachievements.org/game/26694" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/097900.png" alt="WWE Crush Hour"> <span>WWE Crush Hour</span></a> | PlayStation 2 | Vehicular Combat |
 | <a class="gameicon-link" href="https://retroachievements.org/game/30230" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png" alt="WWE Crush Hour"> <span>WWE Crush Hour</span></a> | GameCube      | Vehicular Combat |
 
-* Write-up by: {% rauserpic NowThenPlague %}
+* Write-up by: {% rauserpicalt NowThenPlague, PlagueDockz %}
 
 <figure style="text-align:center;float:right;width:50%;height:50%">
 <img src="https://s3.retroachievements.org/game/screenshots/314/314534606/7d041284e1ea08ddea4e64c381eb2706f6359785/7d041284e1ea08ddea4e64c381eb2706f6359785-lg-webp.webp">
@@ -146,13 +146,13 @@ I would love to see this game get a set someday. It is cute, hard, and unique fo
 
 <br clear="right"/>
 
-## ~Hack~ Contra: Revenge of the Red Falcon (SWSRB Edition) (NES/Famicom)
+## <span class="tag"><span>Hack</span></span> Contra: Revenge of the Red Falcon (SWSRB Edition) (NES/Famicom)
 
 | Game                                                                                                                                                                                                                                                                  | Console     | Genre                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/10641" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/077658.png"> <span>~Hack~ Contra: Revenge of the Red Falcon (SWSRB Edition)</span></a> | NES/Famicom | [Run & Gun](https://retroachievements.org/hub/7669) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/10641" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/077658.png"> <span><span class="tag"><span>Hack</span></span> Contra: Revenge of the Red Falcon (SWSRB Edition)</span></a> | NES/Famicom | [Run & Gun](https://retroachievements.org/hub/7669) |
 
-* Write-up by: {% rauserpic Igrek666 %}
+* Write-up by: {% rauserpicalt Igrek666, diablo666 %}
 
 <figure style="text-align:center;float:left;width:50%;height:50%">
 <img src="https://s3.retroachievements.org/game/screenshots/178/1789487822/974871bc5ab2514533154aca9137f4bd23b01992/backfill-ad30g5tjr7mq5D8saav.png">
@@ -198,7 +198,7 @@ For me, Summoner 2 will always be more than a video game, it is a memory of my b
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------ |
 | <a class="gameicon-link" href="https://retroachievements.org/game/2756" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/028047.png" alt="Dai-4-Ji Super Robot Taisen"> <span>Dai-4-Ji Super Robot Taisen</span></a> | SNES/Super Famicom | [Tactical RPG](https://retroachievements.org/hub/3008) |
 
-* Write-up by: {% rauserpic gaaki %}
+* Write-up by: {% rauserpicalt gaaki, buttoncrash %}
 
 <figure style="text-align:center;float:left;width:50%;height:50%">
 <img src="https://s3.retroachievements.org/game/screenshots/923/923888334/9af03dffcacc7e24dda9540c9625df1db183da0e/backfill-oa1jm36kh7bm6ifu6XL.png">

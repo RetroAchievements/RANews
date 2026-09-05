@@ -9,11 +9,11 @@ toc: true
 
 Play This Set is a showcase for our passionate community members to write about the games and achievement sets they love. Our inbox is always open, whether you're an achievement developer looking to promote your work or a player wanting to spread the word about your favorite hidden gem. If interested, submit your write-up as a private message to {% rauserpic RANews %}.
 
-## ~Hack~ MegaMari (NES/Famicom)
+## <span class="tag"><span>Hack</span></span> MegaMari (NES/Famicom)
 
 | Game                                                                                                                                                                                                                         | Console     | Genre                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/18308" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/069799.png"> <span>~Hack~ MegaMari</span></a> | NES/Famicom | [2D Platforming](https://retroachievements.org/hub/8837) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/18308" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/069799.png"> <span><span class="tag"><span>Hack</span></span> MegaMari</span></a> | NES/Famicom | [2D Platforming](https://retroachievements.org/hub/8837) |
 
 * Set by: {% rauserpic Raeyene %}
 * Write-up by: {% rauserpic PsyXchO %}
@@ -71,11 +71,11 @@ The story is the same as the movie: rescue Woody from Al. However, I feel the ga
 
 Overall, for a licensed game, it is a good one, and I can see why it is so popular (at least in RA). However, it has not aged very well. The controls are a bit clunky, the camera almost never helps during bosses, and it is clear that it took the movie's story and scenes for easy marketing and recognition for children and parents during that time. Thankfully, {% rauserpic mario2188 %}’s set is pretty through, and while it is hard in some parts, I think it has that perfect balance of not being overly hard without being a cakewalk either, making the whole experience a lot better than just playing the game on its own.
 
-## ~Hack~ Antinomia: Final Fantasy VI (SNES/Super Famicom)
+## <span class="tag"><span>Hack</span></span> Antinomia: Final Fantasy VI (SNES/Super Famicom)
 
 | Game                                                                                                                                                                                                                                            | Console            | Genre                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------- |
-| <a class="gameicon-link" href="https://retroachievements.org/game/30917" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/102566.png"> <span>~Hack~ Antinomia: Final Fantasy VI</span></a> | SNES/Super Famicom | [Turn-Based RPG](https://retroachievements.org/hub/5468) |
+| <a class="gameicon-link" href="https://retroachievements.org/game/30917" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/102566.png"> <span><span class="tag"><span>Hack</span></span> Antinomia: Final Fantasy VI</span></a> | SNES/Super Famicom | [Turn-Based RPG](https://retroachievements.org/hub/5468) |
 
 * Set by: {% rauserpic solidification %}
 * Write-up by: {% rauserpic Jurbadis %}
@@ -94,7 +94,7 @@ Overall, I really liked this hack. It gives a fresh experience to the FFVI world
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/10479" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/038832.png" alt="The Legend of Heroes: Trails in the Sky FC"> <span>The Legend of Heroes: Trails in the Sky FC</span></a> | PlayStation Portable | [Turn-Based RPG](https://retroachievements.org/hub/5468) |
 
-* Set by: {% rauserpic tele %}
+* Set by: {% rauserpicalt tele, televandalist %}
 * Write-up by: {% rauserpic StingX2 %}
 
 I really had my doubts that I would buy so heavily into this series. Even with the sales pitch of it having the MCU setup of RPGs building up to its own endgame, I just had doubts. I was asked to review this back in its original launch, and having just got off another 100 hour RPG, passed pretty easily on this. I didn't think about it again until the RA set, and I still put it off. Then, I finally dipped my toes, and I was treated to an on-foot pilgrimage around this world, helping each region as you go with your Bracer duties (think typical helper guild stuff in fiction).
@@ -109,7 +109,7 @@ The RA set is a beautiful crafted gem of a set that challenges you to squeeze al
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------------- |
 | <a class="gameicon-link" href="https://retroachievements.org/game/3132" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/124081.png" alt="Ys: The Oath in Felghana"> <span>Ys: The Oath in Felghana</span></a> | PlayStation Portable | [Action RPG](https://retroachievements.org/hub/8625) |
 
-* Set by: {% rauserpic tele %}
+* Set by: {% rauserpicalt tele, televandalist %}
 * Write-up by: {% rauserpic cbrx %}
 
 [Ys](https://retroachievements.org/hub/8265) is a long-running Action RPG series by [Nihon Falcom](https://retroachievements.org/hub/7991), featuring a fiery red-haired swordsman named Adol Christin. Our protagonist set out and recorded 100 different travelogues before he retired of old age, but so far only 10 of those have been playable in the mainline series, with the series being up to Ys X (Proud Nordics) at the time of writing.
@@ -146,7 +146,7 @@ Overall, Power Soukoban is a terrific game and I had a great time with it. Yes, 
 | <a class="gameicon-link" href="https://retroachievements.org/game/4532" target="_blank" rel="noopener"> <img class="gameicon" src="https://media.retroachievements.org/Images/126739.png" alt="Vigilante 8: 2nd Offense"> <span>Vigilante 8: 2nd Offense</span></a> | Dreamcast | [Vehicular Combat](https://retroachievements.org/hub/7399) |
 
 * Set by: {% rauserpic Goodbite %}
-* Write-up by: {% rauserpic EEez %}
+* Write-up by: {% rauserpicalt EEez, Yoshinohara %}
 
 I grew up playing this game with my brother and my friends. It's not about achievements, it's about how fun this game could get when you’re sitting next to your brother and discovering so many things.
 

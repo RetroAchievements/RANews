@@ -43,14 +43,6 @@ toc_float: false
     </div>
 </div>
 <div class="section-link">
-    <a href="./set-of-the-month.html">
-        <div class="section-content">
-            <h1 id="set-of-the-month">Set of the Month---</h1>
-            <p>Each month, we invite the RetroAchievements community to vote for their favorite set, subset, and revision from the previous month. We gather the votes and share the results in this Set of the Month section. This is a great way to discover new sets that you may have missed and to celebrate the hard work and creativity of our dedicated set developers.</p>
-        </div>
-    </a>
-</div>
-<div class="section-link">
     <a href="./monthly-stats.html">
         <div class="section-content">
             <h1 id="monthly-stats">Monthly Stats</h1>
@@ -77,7 +69,7 @@ toc_float: false
 <div class="section-link">
     <a href="./community-news.html">
         <div class="section-content">
-            <h1 id="community-news">Community News---</h1>
+            <h1 id="community-news">Community News</h1>
             <p>Stay up-to-date with the latest news in the RetroAchievements community with our Community News section. We cover everything from web and emulator updates to team updates and other noteworthy events. Don't miss out on any important news and check out this section to stay in the know.</p>
         </div>
     </a>
@@ -115,30 +107,6 @@ toc_float: false
     </a>
 </div>
 <div class="section-link">
-    <a href="./hot-cheevs.html">
-        <div class="section-content">
-            <h1 id="hotcheevs-monthly">HotCheevs Monthly---</h1>
-            <p>Stay up-to-date on the latest achievements with our monthly roundup of new sets on RetroAchievements! We'll take a look at the newest achievement sets from the community for each system. Stick around and take a look at all the new sets from last month, you may even find a set that you have been wishing for.</p>
-        </div>
-    </a>
-</div>
-<div class="section-link">
-    <a href="./revisions-and-rescores.html">
-        <div class="section-content">
-            <h1 id="revisions-and-rescores">Revisions and Rescores---</h1>
-            <p>In this segment, we'll be taking a closer look at the sets that have recently been revised or rescored. From minor tweaks to major overhauls, we'll keep you up to date on every set revision from the previous month. Check out if you need to remaster any of the sets and claim that Top 10 High Score spot.</p>
-        </div>
-    </a>
-</div>
-<div class="section-link">
-    <a href="./art-updates.html">
-        <div class="section-content">
-            <h1 id="art-updates">Art Updates---</h1>
-            <p>Discover the latest updates to achievement badges and set icons. From fresh badges to updated set icons, you'll get the scoop on all the art changes happening on RetroAchievements. Join us for a closer look at the evolving aesthetics of various achievement sets, and stay up-to-date on the latest changes from the artists of RetroAchievements!</p>
-        </div>
-    </a>
-</div>
-<div class="section-link">
     <a href="./top-players.html">
         <div class="section-content">
             <h1 id="top-players">Top Players</h1>
@@ -149,7 +117,7 @@ toc_float: false
 <div class="section-link">
     <a href="./ranniversaries.html">
         <div class="section-content">
-            <h1 id="ranniversaries">RAnniversaries---</h1>
+            <h1 id="ranniversaries">RAnniversaries</h1>
             <p>Joining RetroAchievements is a major milestone for gamers and achievement developers, and we love celebrating those anniversaries. In this section, we'll recognize the achievements of our dedicated members by highlighting their years of service to the site. From new members to veterans, we'll showcase everyone who's reached a new anniversary milestone. Join us in celebrating our amazing community, and the hard work and dedication that makes RetroAchievements the best achievement hunting community out there.</p>
         </div>
     </a>
@@ -179,16 +147,8 @@ toc_float: false
     </a>
 </div>
 <div class="section-link">
-    <a href="./spot-the-difference.html">
-        <div class="section-content">
-            <h1 id="spot-the-difference">Spot The Difference---</h1>
-            <p>In this section, we challenge readers to put their observation skills to the test with a Spot the Difference game created by SporyTike for the game The World Ends with You. There are 10 differences to find, and readers who spot them all will be featured in the next issue. So sharpen your eyes and get ready for some fun!</p>
-        </div>
-    </a>
-</div>
-<div class="section-link">
     <div class="section-content">
-        <h1 id="how-to-contribute">How to Contribute---</h1>
+        <h1 id="how-to-contribute">How to Contribute</h1>
         <p>
         If you have an idea for an article to be published in RANews or want to help support the RANews team, please go to the <code>#ranews</code> Discord channel or the {% rauser RANews %} profile page and send us a message.
         <br><br>
@@ -197,13 +157,81 @@ toc_float: false
 </div>
 <div class="section-link">
     <div class="section-content">
-        <h1 id="acknowledgments">Acknowledgments---</h1>
+        <h1 id="acknowledgments">Acknowledgments</h1>
         <p>The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.</p>
         <table><tbody>
             <tr>
-                <td>{% rauserpic ABCDEFGHI %}</td>
                 <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
-                <td>{% rauserpic authorblues %}</td>
+                <td>{% rauserpic Beliskner999 %}</td>
+                <td>{% rauserpic Bendyhuman %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Brandovsky %}</td>
+                <td>{% rauserpic cbrx %}</td>
+                <td>{% rauserpic CheeseKnight %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic CryoProtea %}</td>
+                <td>{% rauserpic DantePlays %}</td>
+                <td>{% rauserpic DevCompliance %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic dumbFKNidiot %}</td>
+                <td>{% rauserpicalt EEez, Yoshinohara %}</td>
+                <td>{% rauserpic Ezezin %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt gaaki, buttoncrash %}</td>
+                <td>{% rauserpic gamer097 %}</td>
+                <td>{% rauserpic Goodbite %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Hotscrock %}</td>
+                <td>{% rauserpicalt Igrek666, diablo666 %}</td>
+                <td>{% rauserpic Jurbadis %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic MrOwnership %}</td>
+                <td>{% rauserpic Nepiki %}</td>
+                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt NowThenPlague, PlagueDockz %}</td>
+                <td>{% rauserpic Nydaxn %}</td>
+                <td>{% rauserpicalt Leodis, Obliv %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic pinguupinguu %}</td>
+                <td>{% rauserpic PsyXchO %}</td>
+                <td>{% rauserpic QATeam %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic RANews %}</td>
+                <td>{% rauserpic Raykusen %}</td>
+                <td>{% rauserpic RetroGameMaster %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt Riley101, rileythepegasus %}</td>
+                <td>{% rauserpic ShibuyaGato %}</td>
+                <td>{% rauserpic Sines %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt SnowPin, Snow %}</td>
+                <td>{% rauserpic SporyTike %}</td>
+                <td>{% rauserpic StingX2 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt tele, televandalist %}</td>
+                <td>{% rauserpic TimeCrush %}</td>
+                <td>{% rauserpic TiOPA %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic vikdarkbomb %}</td>
+                <td>{% rauserpic wallmasterz %}</td>
+                <td>{% rauserpic Whynot15 %}</td>
+            </tr>
+            <tr>
+                <td colspan="3">{% rauserpic Xymjak %}</td>
             </tr>
         </tbody></table>
     </div>
