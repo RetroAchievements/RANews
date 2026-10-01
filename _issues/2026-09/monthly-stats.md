@@ -10,7 +10,7 @@ toc: true
 # General Stats
 Check out some general stats from this month.
 
-| Number of sets released. | XX | <!-- Get from Hot Cheevs -->
+| Number of sets released. | 109 | <!-- Get from Hot Cheevs -->
 | Number of achievements released. | 3,467 | <!-- 01 -->
 | Number of hardcore achievements earned. | 4,276,851 | <!-- 02 -->
 | Number of code notes created. | 19,367 | <!-- 03 -->

@@ -117,7 +117,7 @@ toc_float: false
 <div class="section-link">
     <a href="./hot-cheevs.html">
         <div class="section-content">
-            <h1 id="hotcheevs-monthly">HotCheevs Monthly---</h1>
+            <h1 id="hotcheevs-monthly">HotCheevs Monthly</h1>
             <p>Stay up-to-date on the latest achievements with our monthly roundup of new sets on RetroAchievements! We'll take a look at the newest achievement sets from the community for each system. Stick around and take a look at all the new sets from last month, you may even find a set that you have been wishing for.</p>
         </div>
     </a>
@@ -125,7 +125,7 @@ toc_float: false
 <div class="section-link">
     <a href="./revisions-and-rescores.html">
         <div class="section-content">
-            <h1 id="revisions-and-rescores">Revisions and Rescores---</h1>
+            <h1 id="revisions-and-rescores">Revisions and Rescores</h1>
             <p>In this segment, we'll be taking a closer look at the sets that have recently been revised or rescored. From minor tweaks to major overhauls, we'll keep you up to date on every set revision from the previous month. Check out if you need to remaster any of the sets and claim that Top 10 High Score spot.</p>
         </div>
     </a>
@@ -133,7 +133,7 @@ toc_float: false
 <div class="section-link">
     <a href="./art-updates.html">
         <div class="section-content">
-            <h1 id="art-updates">Art Updates---</h1>
+            <h1 id="art-updates">Art Updates</h1>
             <p>Discover the latest updates to achievement badges and set icons. From fresh badges to updated set icons, you'll get the scoop on all the art changes happening on RetroAchievements. Join us for a closer look at the evolving aesthetics of various achievement sets, and stay up-to-date on the latest changes from the artists of RetroAchievements!</p>
         </div>
     </a>
@@ -157,7 +157,7 @@ toc_float: false
 <div class="section-link">
     <a href="./top-masteries.html">
         <div class="section-content">
-            <h1 id="top-masteries">Top Masteries---</h1>
+            <h1 id="top-masteries">Top Masteries</h1>
             <p>Mastering achievement sets is no easy feat, but some RetroAchievements players have proven themselves to be true champions. In this section, we celebrate the top achievers on each console by highlighting the players with the most Mastery Awards. These awards are a testament to their dedication, skill, and determination. Check out these incredible achievements and see how you rank up against some of the best players on RetroAchievements!</p>
         </div>
     </a>
@@ -165,7 +165,7 @@ toc_float: false
 <div class="section-link">
     <a href="./most-wanted.html">
         <div class="section-content">
-            <h1 id="most-wanted-games">Most Wanted Games---</h1>
+            <h1 id="most-wanted-games">Most Wanted Games</h1>
             <p>Are you itching to tackle a new set, but can't seem to find the right one? Look no further than our Most Wanted Games section. Here, we highlight the top requested games for console, handheld, and hacks. Plus, each month we feature a new DevQuest console to encourage developers to earn that Most Wanted DevQuest badge. Don't miss out on the chance to make your requests heard and see your favorite games added to RetroAchievements!</p>
         </div>
     </a>
