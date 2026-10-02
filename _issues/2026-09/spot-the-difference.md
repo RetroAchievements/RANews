@@ -81,10 +81,10 @@ The Reaper's Game is beginning and Neku, Shiki and several other people are forc
 
 ## About the Game
 
-| Game                                                              | Console | Genre          |
-| ----------------------------------------------------------------- | ------- | -------------- |
+| Game                                                                                                  | Console | Genre          |
+| ----------------------------------------------------------------------------------------------------- | ------- | -------------- |
 | {% ragamepic 34904, 155562, <span class="tag"><span>Hack</span></span> Newer Super Mario Bros. Wii %} | Wii     | 2D Platforming |
 
-* Suggested by: {% rauserpic PotatOS %}
+* Suggested by: {% rauserpic Blushfulcorn %}
 
 **Note:** Every user who finds all 10 differences and sends proof to SporyTike via Site DM or Discord will be listed in the next issue. Additionally a random selected user who submitted the solution until the end of the month will be chosen to select the game of the next picture.
