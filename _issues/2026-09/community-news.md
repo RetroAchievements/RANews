@@ -16,6 +16,8 @@ The beta for SpringRO will run from September 18 to Friday, October 9.
 Following the end of the beta, the servers will come back online for the full release on: Friday, October 9, 2026 9:00 PM
 When the servers launch for full release, all beta progress will be wiped out.
 
+{% raeventpic 228, 160830, SpringRO Open Beta %}
+
 
 ## Team Additions
 
