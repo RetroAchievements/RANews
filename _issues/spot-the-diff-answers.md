@@ -41,9 +41,9 @@ toc: true
             </tr>
         </thead>
         <tr>
-            <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2026-07.png"><img src="../img/SpotTheDifferenceAnswers/2026-07.png" width="400"></a></td>
-            <td><br><a href="../img/SpotTheDifferenceAnswers/2026-08.png"><img src="../img/SpotTheDifferenceAnswers/2026-08.png" width="400"></a></td>
-            <td><br><a href="../img/SpotTheDifferenceAnswers/2026-09.png"><img src="../img/SpotTheDifferenceAnswers/2026-09.png" width="400"></a></td> -->
+            <td><br><a href="../img/SpotTheDifferenceAnswers/2026-07.png"><img src="../img/SpotTheDifferenceAnswers/2026-07.png" width="400"></a></td>
+            <td><br><center><img src="../img/retroachievements-logo-color-transparent-square.png" width="100"></center></td>
+            <!-- <td><br><a href="../img/SpotTheDifferenceAnswers/2026-09.png"><img src="../img/SpotTheDifferenceAnswers/2026-09.png" width="400"></a></td> -->
         </tr>
         <thead>
             <tr>
