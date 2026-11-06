@@ -142,7 +142,7 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
         </tr>
         <tr>
             <td>{% rauserpic zaydoc %}</td>
-            <td colspan="2">{% rauserpic Suffa28 %}</td>
+            <td colspan="2">{% rauserpicalt Suffa, Suffa28 %}</td>
         </tr>
     </tbody>
 </table>
@@ -155,7 +155,7 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
     </thead>
     <tbody>
         <tr>
-            <td>{% rauserpic Amir96lx %}</td>
+            <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
             <td>{% rauserpic Hexadigital %}</td>
             <td>{% rauserpic solidification %}</td>
         </tr>
@@ -180,7 +180,7 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
         <tr>
             <td>{% rauserpic siouxerskate %}</td>
             <td>{% rauserpic solidification %}</td>
-            <td>{% rauserpic Amir96lx %}</td>
+            <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
         </tr>
         <tr>
             <td>{% rauserpic tomojin %}</td>
@@ -274,7 +274,7 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
         <tr>
             <td>{% rauserpic siouxerskate %}</td>
             <td>{% rauserpic solidification %}</td>
-            <td>{% rauserpic Amir96lx %}</td>
+            <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
             <td>{% rauserpic tomojin %}</td>
             <td>{% rauserpic Hexadigital %}</td>
         </tr>
@@ -302,7 +302,7 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
             <td colspan="1">{% ragamepic 32951, 159818, Root Beer Tapper (CV) %}</td>
         </tr>
         <tr>
-            <td rowspan="2" width=250>{% rauserpic Achievess %}</td>
+            <td rowspan="2" width=250>{% rauserpicalt AxlHenriquez, Achievess %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 10600, 127339, Pac-Land (LYNX) %}</td>
@@ -330,7 +330,7 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
     </thead>
     <tbody>
         <tr>
-            <td rowspan="3" width=250>{% rauserpic Achievess %}</td>
+            <td rowspan="3" width=250>{% rauserpicalt AxlHenriquez, Achievess %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 25499, 113387, Battle Stadium D.O.N (GC) %}</td>
@@ -355,7 +355,7 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
             <td colspan="1">{% ragamepic 36034, 127938, FlingSmash (Wii) %}</td>
         </tr>
         <tr>
-            <td rowspan="2" width=250>{% rauserpic Achievess %}</td>
+            <td rowspan="2" width=250>{% rauserpicalt AxlHenriquez, Achievess %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 34703, 126634, Rayman Origins (Wii) %}</td>
@@ -389,7 +389,7 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
         <td colspan="1">{% ragamepic 38487, 161456, Petz: Bunnyz Bunch (NDS) %}</td>
         </tr>
         <tr>
-        <td colspan="1">{% ragamepic 38506, 160416, ~Prototype~ Blur (NDS) %}</td>
+        <td colspan="1">{% ragamepic 38506, 160416, <span class="tag"><span>Prototype</span></span> Blur (NDS) %}</td>
         </tr>
     </tbody>
 </table>
@@ -402,7 +402,7 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2" width=250>{% rauserpic Achievess %}</td>
+            <td rowspan="2" width=250>{% rauserpicalt AxlHenriquez, Achievess %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 4180, 121831, Bugs Bunny in Double Trouble (MD) %}</td>
@@ -411,7 +411,7 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
             <td rowspan="2" width=250>{% rauserpic MiguelsoaresGames2 %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 41154, 146800, ~Homebrew~ Kunio no Nekketsu School Fighters (MD) %}</td>
+            <td colspan="1">{% ragamepic 41154, 146800, <span class="tag"><span>Homebrew</span></span> Kunio no Nekketsu School Fighters (MD) %}</td>
         </tr>
     </tbody>
 </table>
@@ -424,22 +424,22 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
     </thead>
     <tbody>
         <tr>
-            <td rowspan="3" width=250>{% rauserpic Achievess %}</td>
+            <td rowspan="3" width=250>{% rauserpicalt AxlHenriquez, Achievess %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 27345, 121085, ~Hack~ Super Ale Bros. Redux (NES) %}</td>
+            <td colspan="1">{% ragamepic 27345, 121085, <span class="tag"><span>Hack</span></span> Super Ale Bros. Redux (NES) %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 26731, 121644, ~Hack~ Tails in Sonic the Hedgehog (MD) %}</td>
+            <td colspan="1">{% ragamepic 26731, 121644, <span class="tag"><span>Hack</span></span> Tails in Sonic the Hedgehog (MD) %}</td>
         </tr>
         <tr>
             <td rowspan="3" width=250>{% rauserpic Quenthel %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 29689, 121401, ~Hack~ Fire Emblem: Sacred Echoes (GBA) %}</td>
+            <td colspan="1">{% ragamepic 29689, 121401, <span class="tag"><span>Hack</span></span> Fire Emblem: Sacred Echoes (GBA) %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 33298, 155093, ~Hack~ Pokémon Elysium (GBA) %}</td>
+            <td colspan="1">{% ragamepic 33298, 155093, <span class="tag"><span>Hack</span></span> Pokémon Elysium (GBA) %}</td>
         </tr>
     </tbody>
 </table>
@@ -455,10 +455,10 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
             <td rowspan="3" width=250>{% rauserpic solidification %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 17945, 156626, ~Hack~ Chrono Trigger: Schala Edition (SNES) %}</td>
+            <td colspan="1">{% ragamepic 17945, 156626, <span class="tag"><span>Hack</span></span> Chrono Trigger: Schala Edition (SNES) %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 20298, 159445, ~Hack~ Threetris (GB) %}</td>
+            <td colspan="1">{% ragamepic 20298, 159445, <span class="tag"><span>Hack</span></span> Threetris (GB) %}</td>
         </tr>
     </tbody>
 </table>
@@ -525,28 +525,28 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
     </thead>
     <tbody>
         <tr>
-            <td rowspan="4" width=250>{% rauserpic Achievess %}</td>
+            <td rowspan="4" width=250>{% rauserpicalt AxlHenriquez, Achievess %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 24913, 117557, ~Homebrew~ Celeste Advance (GBA) %}</td>
+            <td colspan="1">{% ragamepic 24913, 117557, <span class="tag"><span>Homebrew</span></span> Celeste Advance (GBA) %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 34096, 117569, ~Homebrew~ Celeste Classic 2: Lani's Trek (GBA) %}</td>
+            <td colspan="1">{% ragamepic 34096, 117569, <span class="tag"><span>Homebrew</span></span> Celeste Classic 2: Lani's Trek (GBA) %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 33742, 117006, ~Homebrew~ Portal Advance (GBA) %}</td>
+            <td colspan="1">{% ragamepic 33742, 117006, <span class="tag"><span>Homebrew</span></span> Portal Advance (GBA) %}</td>
         </tr>
         <tr>
             <td rowspan="4" width=250>{% rauserpic TheScarletDevil %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 37981, 156547, ~Homebrew~ ~Prototype~ Touhou Imitation Style (PSP) %}</td>
+            <td colspan="1">{% ragamepic 37981, 156547, <span class="tag"><span>Homebrew</span></span> <span class="tag"><span>Prototype</span></span> Touhou Imitation Style (PSP) %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 38130, 127834, ~Homebrew~ 3D Pinball: Space Cadet (PS2) %}</td>
+            <td colspan="1">{% ragamepic 38130, 127834, <span class="tag"><span>Homebrew</span></span> 3D Pinball: Space Cadet (PS2) %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 42846, 159012, ~Homebrew~ Yume Tenshi (GBC) %}</td>
+            <td colspan="1">{% ragamepic 42846, 159012, <span class="tag"><span>Homebrew</span></span> Yume Tenshi (GBC) %}</td>
         </tr>
     </tbody>
 </table>
@@ -568,7 +568,7 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
             <td colspan="1">{% ragamepic 774, 102929, Mega Man Battle Network 3: Blue Version (GBA) %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 9899, 017404, ~Hack~ Rockman: Claw 2 (NES) %}</td>
+            <td colspan="1">{% ragamepic 9899, 017404, <span class="tag"><span>Hack</span></span> Rockman: Claw 2 (NES) %}</td>
         </tr>
     </tbody>
 </table>
@@ -581,7 +581,7 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2" width=250>{% rauserpic Achievess %}</td>
+            <td rowspan="2" width=250>{% rauserpicalt AxlHenriquez, Achievess %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 12193, 115454, Pac-Land (Arcade) %}</td>
@@ -597,10 +597,10 @@ Ticket lists themselves can now be filtered by signals. See [here](https://githu
     </thead>
     <tbody>
         <tr>
-            <td rowspan="4" width=250>{% rauserpic Achievess %}</td>
+            <td rowspan="4" width=250>{% rauserpicalt AxlHenriquez, Achievess %}</td>
         </tr>
         <tr>
-            <td colspan="1">{% ragamepic 13383, 121100, ~Hack~ Final Strikyu (NES) %}</td>
+            <td colspan="1">{% ragamepic 13383, 121100, <span class="tag"><span>Hack</span></span> Final Strikyu (NES) %}</td>
         </tr>
         <tr>
             <td colspan="1">{% ragamepic 8207, 124293, Heidi: The Game (GBA) %}</td>

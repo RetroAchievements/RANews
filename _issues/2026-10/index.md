@@ -93,7 +93,7 @@ toc_float: false
 <div class="section-link">
     <a href="./play-this-set.html">
         <div class="section-content">
-            <h1 id="play-this-set">Play This Set---</h1>
+            <h1 id="play-this-set">Play This Set</h1>
             <p>Looking for some great game recommendations? Play This Set features writeups submitted by the community about existing sets and why you should give them a try. Whether you're looking to discover a new favorite or just need a reason to play something new, these writeups are sure to provide plenty of inspiration. So dive in, and get ready to take on a new set!</p>
         </div>
     </a>
@@ -101,7 +101,7 @@ toc_float: false
 <div class="section-link">
     <a href="./wish-this-set.html">
         <div class="section-content">
-            <h1 id="wish-this-set">Wish This Set---</h1>
+            <h1 id="wish-this-set">Wish This Set</h1>
             <p>In this section, users share their thoughts on which games they would love to see have sets created for. Whether it's a beloved classic or an underrated gem, we want to hear about it. If you are a developer looking for a new set to work on, then look no further than right here.</p>
         </div>
     </a>
@@ -197,13 +197,83 @@ toc_float: false
 </div>
 <div class="section-link">
     <div class="section-content">
-        <h1 id="acknowledgments">Acknowledgments---</h1>
+        <h1 id="acknowledgments">Acknowledgments</h1>
         <p>The RANews project wouldn't be possible without the contributions of many passionate community members. Special thanks to the members who made this issue possible.</p>
         <table><tbody>
             <tr>
                 <td>{% rauserpic ABCDEFGHI %}</td>
                 <td>{% rauserpicalt AmirGaris, Amir96lx %}</td>
                 <td>{% rauserpic Bendyhuman %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Brandovsky %}</td>
+                <td>{% rauserpic Carca %}</td>
+                <td>{% rauserpic CheeseKnight %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic DevCompliance %}</td>
+                <td>{% rauserpic Ezezin %}</td>
+                <td>{% rauserpic Frenchy70 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic gamer097 %}</td>
+                <td>{% rauserpic gamerforlifeforever %}</td>
+                <td>{% rauserpic Goodbite %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Hotscrock %}</td>
+                <td>{% rauserpic Igrek666 %}</td>
+                <td>{% rauserpicalt JenniferAmber, justyellow %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic kalonZombie %}</td>
+                <td>{% rauserpic Kingsombra %}</td>
+                <td>{% rauserpic mimicmatter %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic MrOwnership %}</td>
+                <td>{% rauserpic Nepiki %}</td>
+                <td>{% rauserpicalt agoodduck, Nevermond12 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Nydaxn %}</td>
+                <td>{% rauserpicalt Leodis, Obliv %}</td>
+                <td>{% rauserpic Paradise1 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic PepeJohn %}</td>
+                <td>{% rauserpic pinguupinguu %}</td>
+                <td>{% rauserpic Prota %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt PS2Hagrid, Player1041 %}</td>
+                <td>{% rauserpic PsyXchO %}</td>
+                <td>{% rauserpic QATeam %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic RANews %}</td>
+                <td>{% rauserpic Raykusen %}</td>
+                <td>{% rauserpic RetroGameMaster %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic Sines %}</td>
+                <td>{% rauserpic Sniwott %}</td>
+                <td>{% rauserpicalt SnowPin, Snow %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic speedruntrainer %}</td>
+                <td>{% rauserpic SporyTike %}</td>
+                <td>{% rauserpic StingX2 %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpicalt tele, televandalist %}</td>
+                <td>{% rauserpic TimeCrush %}</td>
+                <td>{% rauserpic vikdarkbomb %}</td>
+            </tr>
+            <tr>
+                <td>{% rauserpic wallmasterz %}</td>
+                <td>{% rauserpic Whynot15 %}</td>
+                <td>{% rauserpic Xymjak %}</td>
             </tr>
         </tbody></table>
     </div>

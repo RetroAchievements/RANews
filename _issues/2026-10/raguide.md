@@ -420,7 +420,7 @@ After entering the vent, take the first left to view this scene.
 
 *This achievement is missable if you don't obtain it before meeting the DARPA Chief.*
 
-As {% rauser fngreg7 %}, {% rauser WilHiteWarrior %}, and {% rauser Dysfuncional10 %} state in the comments, once you find Meryl in the vent, you'll have to leave the vent entirely and then come back to see that she's taken her pants off. Once she has, simply go around the corner and come back until you've seen all the exercises. To look down and see her, hold Z when you're right above the vent.
+As {% rauser GFizz %}, {% rauser WilHiteWarrior %}, and {% rauser Dysfuncional10 %} state in the comments, once you find Meryl in the vent, you'll have to leave the vent entirely and then come back to see that she's taken her pants off. Once she has, simply go around the corner and come back until you've seen all the exercises. To look down and see her, hold Z when you're right above the vent.
 
 | {% raachpic 429639, 484933, Sorry Things Didn't PAN Out! (5) %} | Find the DARPA Chief |
 

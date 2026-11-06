@@ -35,7 +35,7 @@ toc: true
 | Game                                                                       | Revision By          | Genre          |
 | -------------------------------------------------------------------------- | -------------------- | -------------- |
 | {% ragamepic 1556, 123704, Balloon Fight %}                                | {% rauser Verros %}  | 2D Platforming |
-| {% ragamepic 21877, 065506, ~Hack~ The Legend of Zelda: Ancient Dungeon %} | {% rauser Brylefi %} | -              |
+| {% ragamepic 21877, 065506, <span class="tag"><span>Hack</span></span> The Legend of Zelda: Ancient Dungeon %} | {% rauser Brylefi %} | -              |
 
 <a href="#toc">:top:</a>
 
@@ -66,7 +66,7 @@ toc: true
 | Game                                                                        | Revision By            | Genre          |
 | --------------------------------------------------------------------------- | ---------------------- | -------------- |
 | {% ragamepic 555, 051792, Shin Kidou Senki Gundam W: Endless Duel %}        | {% rauser Gudra %}     | 2D Fighting    |
-| {% ragamepic 4049, 161453, ~Hack~ Super Demo World: The Legend Continues %} | {% rauser Manperson %} | 2D Platforming |
+| {% ragamepic 4049, 161453, <span class="tag"><span>Hack</span></span> Super Demo World: The Legend Continues %} | {% rauser Manperson %} | 2D Platforming |
 
 <a href="#toc">:top:</a>
 

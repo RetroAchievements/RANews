@@ -48,19 +48,19 @@ toc: true
 | Game                                                                                | Icon By                      | Icon Before                                                                        |
 | ----------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 4486, 159830, Adventure Island II: Aliens in Paradise %}               | {% rauser Frenchy70 %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/103586.png"> |
-| {% ragamepic 683, 161832, Baseball %}                                               | {% rauser Heoutera %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/048944.png"> |
+| {% ragamepic 683, 161832, Baseball %}                                               | {% rauser Capivara %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/048944.png"> |
 | {% ragamepic 694, 160320, Donkey Kong Land 2 %}                                     | {% rauser Frenchy70 %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/107026.png"> |
 | {% ragamepic 695, 160321, Donkey Kong Land III %}                                   | {% rauser Frenchy70 %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/107027.png"> |
 | {% ragamepic 693, 159831, Donkey Kong Land %}                                       | {% rauser salvadorbastard %} | <img class="gameicon" src="https://media.retroachievements.org/Images/107042.png"> |
 | {% ragamepic 9856, 163712, Doraemon no Game Boy de Asobouyo Deluxe 10 %}            | {% rauser MatsuMeat %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/000001.png"> |
 | {% ragamepic 5293, 162214, Tennis %}                                                | {% rauser Cruzelion %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/043748.png"> |
-| {% ragamepic 14178, 162570, ~Hack~ Super Mario Land 2012 %}                         | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/024807.png"> |
-| {% ragamepic 32927, 162573, ~Hack~ Super Mario Land Hack 2017: Tatanga's Revenge %} | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/107766.png"> |
-| {% ragamepic 14179, 162568, ~Hack~ Super Mario Land X %}                            | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/024808.png"> |
-| {% ragamepic 12975, 162569, ~Hack~ Super Mario Land: Pier Edition %}                | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/045259.png"> |
-| {% ragamepic 20083, 162574, ~Hack~ Super Mario Land: Timelines %}                   | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/074331.png"> |
-| {% ragamepic 14223, 162571, ~Hack~ Super Super Mario Land %}                        | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/024494.png"> |
-| {% ragamepic 7411, 162572, ~Hack~ The 2nd Super Super Mario Land %}                 | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/087982.png"> |
+| {% ragamepic 14178, 162570, <span class="tag"><span>Hack</span></span> Super Mario Land 2012 %}                         | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/024807.png"> |
+| {% ragamepic 32927, 162573, <span class="tag"><span>Hack</span></span> Super Mario Land Hack 2017: Tatanga's Revenge %} | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/107766.png"> |
+| {% ragamepic 14179, 162568, <span class="tag"><span>Hack</span></span> Super Mario Land X %}                            | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/024808.png"> |
+| {% ragamepic 12975, 162569, <span class="tag"><span>Hack</span></span> Super Mario Land: Pier Edition %}                | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/045259.png"> |
+| {% ragamepic 20083, 162574, <span class="tag"><span>Hack</span></span> Super Mario Land: Timelines %}                   | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/074331.png"> |
+| {% ragamepic 14223, 162571, <span class="tag"><span>Hack</span></span> Super Super Mario Land %}                        | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/024494.png"> |
+| {% ragamepic 7411, 162572, <span class="tag"><span>Hack</span></span> The 2nd Super Super Mario Land %}                 | {% rauser ChiiniiTheComet %} | <img class="gameicon" src="https://media.retroachievements.org/Images/087982.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -166,9 +166,9 @@ toc: true
 | {% ragamepic 1949, 159064, The Simpsons: Bart vs. The World %}              | {% rauser salvadorbastard %} | <img class="gameicon" src="https://media.retroachievements.org/Images/031330.png"> |
 | {% ragamepic 4152, 159062, The Simpsons: Bart vs. the Space Mutants %}      | {% rauser salvadorbastard %} | <img class="gameicon" src="https://media.retroachievements.org/Images/039245.png"> |
 | {% ragamepic 1950, 159063, The Simpsons: Bartman Meets Radioactive Man %}   | {% rauser salvadorbastard %} | <img class="gameicon" src="https://media.retroachievements.org/Images/109623.png"> |
-| {% ragamepic 8493, 159521, ~Hack~ My Little Pony: Dr. Discord's Conquest %} | {% rauser LilCutieSophia %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/064794.png"> |
-| {% ragamepic 22543, 162760, ~Homebrew~ Fruit Shinobi %}                     | {% rauser Frenchy70 %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/068293.png"> |
-| {% ragamepic 16376, 163298, ~Homebrew~ nnnnnn %}                            | {% rauser rubybirdy %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/063210.png"> |
+| {% ragamepic 8493, 159521, <span class="tag"><span>Hack</span></span> My Little Pony: Dr. Discord's Conquest %} | {% rauser LilCutieSophia %}  | <img class="gameicon" src="https://media.retroachievements.org/Images/064794.png"> |
+| {% ragamepic 22543, 162760, <span class="tag"><span>Homebrew</span></span> Fruit Shinobi %}                     | {% rauser Frenchy70 %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/068293.png"> |
+| {% ragamepic 16376, 163298, <span class="tag"><span>Homebrew</span></span> nnnnnn %}                            | {% rauser rubybirdy %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/063210.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -180,14 +180,14 @@ toc: true
 | -------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 10934, 160322, MACE: The Dark Age %}                          | {% rauser cbrx %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/066620.png"> |
 | {% ragamepic 10083, 160126, Mischief Makers %}                             | {% rauser Hawkow %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/010649.png"> |
-| {% ragamepic 17812, 160905, ~Hack~ Mario and the Mystic Purple Stars %}    | {% rauser Flakekirby27 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/048694.png"> |
-| {% ragamepic 24184, 161830, ~Hack~ Mario and the Rod of Seasons %}         | {% rauser genericprofile %} | <img class="gameicon" src="https://media.retroachievements.org/Images/150893.png"> |
-| {% ragamepic 12732, 160902, ~Hack~ Super Mario 64: Sapphire %}             | {% rauser Flakekirby27 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/025042.png"> |
-| {% ragamepic 11647, 160903, ~Hack~ Super Mario 64: The Green Stars %}      | {% rauser Flakekirby27 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/052022.png"> |
-| {% ragamepic 14351, 160908, ~Hack~ Super Mario Rainbow Road %}             | {% rauser Flakekirby27 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/025167.png"> |
-| {% ragamepic 17736, 160907, ~Hack~ Super Mario and the Grand Star %}       | {% rauser Flakekirby27 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/044820.png"> |
-| {% ragamepic 14316, 160906, ~Hack~ Super Mario and the Marvel Adventure %} | {% rauser Flakekirby27 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/024881.png"> |
-| {% ragamepic 14157, 160901, ~Hack~ Waluigi's Taco Stand %}                 | {% rauser Flakekirby27 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/024242.png"> |
+| {% ragamepic 17812, 160905, <span class="tag"><span>Hack</span></span> Mario and the Mystic Purple Stars %}    | {% rauser Flakekirby27 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/048694.png"> |
+| {% ragamepic 24184, 161830, <span class="tag"><span>Hack</span></span> Mario and the Rod of Seasons %}         | {% rauser genericprofile %} | <img class="gameicon" src="https://media.retroachievements.org/Images/150893.png"> |
+| {% ragamepic 12732, 160902, <span class="tag"><span>Hack</span></span> Super Mario 64: Sapphire %}             | {% rauser Flakekirby27 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/025042.png"> |
+| {% ragamepic 11647, 160903, <span class="tag"><span>Hack</span></span> Super Mario 64: The Green Stars %}      | {% rauser Flakekirby27 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/052022.png"> |
+| {% ragamepic 14351, 160908, <span class="tag"><span>Hack</span></span> Super Mario Rainbow Road %}             | {% rauser Flakekirby27 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/025167.png"> |
+| {% ragamepic 17736, 160907, <span class="tag"><span>Hack</span></span> Super Mario and the Grand Star %}       | {% rauser Flakekirby27 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/044820.png"> |
+| {% ragamepic 14316, 160906, <span class="tag"><span>Hack</span></span> Super Mario and the Marvel Adventure %} | {% rauser Flakekirby27 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/024881.png"> |
+| {% ragamepic 14157, 160901, <span class="tag"><span>Hack</span></span> Waluigi's Taco Stand %}                 | {% rauser Flakekirby27 %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/024242.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -211,7 +211,7 @@ toc: true
 
 | Game                                                 | Icon By               | Icon Before                                                                        |
 | ---------------------------------------------------- | --------------------- | ---------------------------------------------------------------------------------- |
-| {% ragamepic 18611, 053660, ~Homebrew~ Mega Man 2 %} | {% rauser Heoutera %} | <img class="gameicon" src="https://media.retroachievements.org/Images/053667.png"> |
+| {% ragamepic 18611, 053660, <span class="tag"><span>Homebrew</span></span> Mega Man 2 %} | {% rauser Capivara %} | <img class="gameicon" src="https://media.retroachievements.org/Images/053667.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -241,17 +241,17 @@ toc: true
 
 | Game                                                                     | Icon By                   | Icon Before                                                                        |
 | ------------------------------------------------------------------------ | ------------------------- | ---------------------------------------------------------------------------------- |
-| {% ragamepic 11416, 161455, A Bug's Life %}                              | {% rauser Heoutera %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/032672.png"> |
-| {% ragamepic 14635, 159208, Disney's Hercules Action Game %}             | {% rauser Heoutera %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/040456.png"> |
+| {% ragamepic 11416, 161455, A Bug's Life %}                              | {% rauser Capivara %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/032672.png"> |
+| {% ragamepic 14635, 159208, Disney's Hercules Action Game %}             | {% rauser Capivara %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/040456.png"> |
 | {% ragamepic 6043, 161684, Everybody's Golf %}                           | {% rauser bobohoro %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/114563.png"> |
-| {% ragamepic 8611, 162575, Jersey Devil %}                               | {% rauser Heoutera %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/038696.png"> |
+| {% ragamepic 8611, 162575, Jersey Devil %}                               | {% rauser Capivara %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/038696.png"> |
 | {% ragamepic 14415, 160909, JoJo's Bizarre Adventure %}                  | {% rauser Frenchy70 %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/102615.png"> |
-| {% ragamepic 16652, 162040, Shrek Treasure Hunt %}                       | {% rauser Heoutera %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/075841.png"> |
+| {% ragamepic 16652, 162040, Shrek Treasure Hunt %}                       | {% rauser Capivara %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/075841.png"> |
 | {% ragamepic 6726, 163020, The Adventures of Lomax %}                    | {% rauser FlareGamer64 %} | <img class="gameicon" src="https://media.retroachievements.org/Images/047424.png"> |
-| {% ragamepic 11341, 162326, Tomb Raider II: Starring Lara Croft %}       | {% rauser Heoutera %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/040161.png"> |
-| {% ragamepic 11375, 162323, Tomb Raider III: Adventures of Lara Croft %} | {% rauser Heoutera %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/047406.png"> |
-| {% ragamepic 11347, 162324, Tomb Raider: The Last Revelation %}          | {% rauser Heoutera %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/047397.png"> |
-| {% ragamepic 11342, 162321, Tomb Raider %}                               | {% rauser Heoutera %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/050017.png"> |
+| {% ragamepic 11341, 162326, Tomb Raider II: Starring Lara Croft %}       | {% rauser Capivara %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/040161.png"> |
+| {% ragamepic 11375, 162323, Tomb Raider III: Adventures of Lara Croft %} | {% rauser Capivara %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/047406.png"> |
+| {% ragamepic 11347, 162324, Tomb Raider: The Last Revelation %}          | {% rauser Capivara %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/047397.png"> |
+| {% ragamepic 11342, 162321, Tomb Raider %}                               | {% rauser Capivara %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/050017.png"> |
 | {% ragamepic 6808, 162911, Toy Story Racer %}                            | {% rauser BigChase %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/049219.png"> |
 | {% ragamepic 26386, 159060, Who Wants to Be a Millionaire: Junior %}     | {% rauser itsjustm0nty %} | <img class="gameicon" src="https://media.retroachievements.org/Images/096934.png"> |
 | {% ragamepic 11310, 160524, Wild Arms %}                                 | {% rauser cbrx %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/058584.png"> |
@@ -275,7 +275,7 @@ toc: true
 | {% ragamepic 21028, 163023, Looney Tunes: Back in Action %}                           | {% rauser ZeeRA %}         | <img class="gameicon" src="https://media.retroachievements.org/Images/083342.png"> |
 | {% ragamepic 21484, 162901, Naruto Shippuden: Ultimate Ninja 4 %}                     | {% rauser Cruzelion %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/126559.png"> |
 | {% ragamepic 5761, 095930, Resident Evil Outbreak %}                                  | {% rauser JeferesSoares %} | <img class="gameicon" src="https://media.retroachievements.org/Images/095931.png"> |
-| {% ragamepic 2982, 160900, Soulcalibur II %}                                          | {% rauser Heoutera %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/062763.png"> |
+| {% ragamepic 2982, 160900, Soulcalibur II %}                                          | {% rauser Capivara %}      | <img class="gameicon" src="https://media.retroachievements.org/Images/062763.png"> |
 | {% ragamepic 3060, 160420, Soulcalibur III %}                                         | {% rauser Cruzelion %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/069874.png"> |
 | {% ragamepic 20528, 163025, The Dog Island %}                                         | {% rauser Moh4wk %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/128310.png"> |
 | {% ragamepic 21367, 160042, The Nekomura no Hitobito: Pug Daikan no Akugyou Zanmai %} | {% rauser Moh4wk %}        | <img class="gameicon" src="https://media.retroachievements.org/Images/062906.png"> |
@@ -289,7 +289,7 @@ toc: true
 | Game                                                                        | Icon By                         | Icon Before                                                                        |
 | --------------------------------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------- |
 | {% ragamepic 3040, 161454, LEGO Pirates of the Caribbean: The Video Game %} | {% rauser LostInMemory %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/125060.png"> |
-| {% ragamepic 17976, 163184, Monster Hunter Portable 3rd %}                  | {% rauser Heoutera %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/107426.png"> |
+| {% ragamepic 17976, 163184, Monster Hunter Portable 3rd %}                  | {% rauser Capivara %}           | <img class="gameicon" src="https://media.retroachievements.org/Images/107426.png"> |
 | {% ragamepic 18356, 162909, Puyo Puyo 7 %}                                  | {% rauser LilCutieSophia %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/117892.png"> |
 | {% ragamepic 3203, 131217, Tekken: Dark Resurrection %}                     | {% rauser Cruzelion %}          | <img class="gameicon" src="https://media.retroachievements.org/Images/131218.png"> |
 | {% ragamepic 25057, 160713, The Lord of the Rings: Tactics %}               | {% rauser Uprisen %}            | <img class="gameicon" src="https://media.retroachievements.org/Images/126366.png"> |
@@ -312,7 +312,7 @@ toc: true
 | {% ragamepic 236, 162576, Super Metroid %}                                  | {% rauser Hawkow %}       | <img class="gameicon" src="https://media.retroachievements.org/Images/060989.png"> |
 | {% ragamepic 815, 159348, Tetris Attack %}                                  | {% rauser Gollawiz %}     | <img class="gameicon" src="https://media.retroachievements.org/Images/112288.png"> |
 | {% ragamepic 3986, 160424, Wrecking Crew '98 %}                             | {% rauser TorchicZK %}    | <img class="gameicon" src="https://media.retroachievements.org/Images/054327.png"> |
-| {% ragamepic 4049, 161453, ~Hack~ Super Demo World: The Legend Continues %} | {% rauser Toyotasomi %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/048161.png"> |
+| {% ragamepic 4049, 161453, <span class="tag"><span>Hack</span></span> Super Demo World: The Legend Continues %} | {% rauser Toyotasomi %}   | <img class="gameicon" src="https://media.retroachievements.org/Images/048161.png"> |
 
 <a href="#toc">:top:</a>
 
@@ -462,7 +462,7 @@ toc: true
 
 ![after](./img/art-updates/Collage-Update.png)
 
-#### ~Homebrew~ ~Demo~ Mega Man X
+#### <span class="tag"><span>Homebrew</span></span> <span class="tag"><span>Demo</span></span> Mega Man X
 
 **New badges by {% rauser PrimalGiratina %}.**
 
@@ -474,7 +474,7 @@ toc: true
 
 ![after](./img/art-updates/Demo-X-MD-Contender-Collage.png)
 
-#### ~Unlicensed~ Rockman X3
+#### <span class="tag"><span>Unlicensed</span></span> Rockman X3
 
 **New badges by {% rauser PrimalGiratina %}.**
 

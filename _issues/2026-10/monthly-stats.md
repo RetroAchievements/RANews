@@ -77,9 +77,9 @@ Check out the top 25 achievement creators from this month.
 | 1    | {% rauserpic solidification %}   | 268          |
 | 2    | {% rauserpic zxmega %}           | 196          |
 | 3    | {% rauserpic Quenthel %}         | 117          |
-| 4    | {% rauserpic SuperMeatBro %}     | 110          |
+| 4    | {% rauserpicalt Meatbro, SuperMeatBro %}     | 110          |
 | 5    | {% rauserpic Verros %}           | 103          |
-| 6    | {% rauserpic Player1041 %}       | 94           |
+| 6    | {% rauserpicalt PS2Hagrid, Player1041 %}       | 94           |
 | 7    | {% rauserpic Prims %}            | 93           |
 | 8    | {% rauserpic WanderingHeiho %}   | 84           |
 | 9    | {% rauserpic lagoooona %}        | 69           |
@@ -87,12 +87,12 @@ Check out the top 25 achievement creators from this month.
 | 11   | {% rauserpic Excessiveiser %}    | 67           |
 | 12   | {% rauserpic TheScarletDevil %}  | 62           |
 | 13   | {% rauserpic Griffin %}          | 61           |
-| 14   | {% rauserpic AlexGatao %}        | 60           |
+| 14   | {% rauserpicalt AlexHylian, AlexGatao %}        | 60           |
 | 15   | {% rauserpic RyCuLe %}           | 58           |
 | 16   | {% rauserpic KiwiTaco %}         | 58           |
 | 17   | {% rauserpic ChaoticAdventure %} | 56           |
 | 18   | {% rauserpic Layton %}           | 54           |
-| 19   | {% rauserpic malhas1000 %}       | 45           |
+| 19   | {% rauserpicalt OpheliaEnigma, malhas1000 %}       | 45           |
 | 20   | {% rauserpic BEXUS %}            | 45           |
 | 21   | {% rauserpic Julysse %}          | 42           |
 | 22   | {% rauserpic Lilihierax %}       | 42           |
@@ -108,15 +108,15 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 1    | {% rauserpic Delmaru %}             | 106,908         | 575,075        | 2,097,255            |
 | 2    | {% rauserpic SporyTike %}           | 85,477          | 499,257        | 1,847,070            |
 | 3    | {% rauserpic Brian %}               | 82,244          | 582,343        | 1,569,129            |
-| 4    | {% rauserpic Bryan1150 %}           | 74,704          | 444,368        | 1,920,773            |
-| 5    | {% rauserpic Snow %}                | 69,607          | 373,061        | 1,672,794            |
-| 6    | {% rauserpic ThatAmericanSlacker %} | 66,074          | 470,889        | 1,061,226            |
+| 4    | {% rauserpicalt Brylefi, Bryan1150 %}           | 74,704          | 444,368        | 1,920,773            |
+| 5    | {% rauserpicalt SnowPin, Snow %}                | 69,607          | 373,061        | 1,672,794            |
+| 6    | {% rauserpicalt AmericanSlacker, ThatAmericanSlacker %} | 66,074          | 470,889        | 1,061,226            |
 | 7    | {% rauserpic RAEvents %}            | 65,183          | 95,956         | 1,232,109            |
 | 8    | {% rauserpic suspect15 %}           | 65,074          | 434,018        | 2,093,137            |
 | 9    | {% rauserpic timenoe %}             | 64,548          | 521,562        | 3,182,986            |
 | 10   | {% rauserpic GalacticSpear %}       | 60,811          | 484,343        | 2,801,845            |
 | 11   | {% rauserpic Gollawiz %}            | 60,022          | 369,964        | 1,330,573            |
-| 12   | {% rauserpic televandalist %}       | 55,206          | 411,363        | 1,656,101            |
+| 12   | {% rauserpicalt tele, televandalist %}       | 55,206          | 411,363        | 1,656,101            |
 | 13   | {% rauserpic dude1286 %}            | 53,475          | 433,126        | 885,738              |
 | 14   | {% rauserpic TeddyWestside %}       | 52,793          | 309,359        | 855,908              |
 | 15   | {% rauserpic Blazekickn %}          | 50,120          | 308,294        | 2,447,402            |
@@ -124,7 +124,7 @@ Check out some stats regarding unlocks and points awarded by the developers. Inc
 | 17   | {% rauserpic Altomar %}             | 44,328          | 285,982        | 783,859              |
 | 18   | {% rauserpic voiceofautumn %}       | 42,417          | 243,918        | 715,818              |
 | 19   | {% rauserpic Gudra %}               | 40,854          | 216,492        | 1,266,260            |
-| 20   | {% rauserpic AlexGatao %}           | 40,851          | 305,791        | 3,058,430            |
+| 20   | {% rauserpicalt AlexHylian, AlexGatao %}           | 40,851          | 305,791        | 3,058,430            |
 | 21   | {% rauserpic pinguupinguu %}        | 40,465          | 195,152        | 744,180              |
 | 22   | {% rauserpic WilHiteWarrior %}      | 40,109          | 288,300        | 1,404,801            |
 | 23   | {% rauserpic Vancleef %}            | 37,457          | 190,122        | 570,996              |
@@ -216,8 +216,8 @@ Check out who has the most achievement unlocks, points, retro points, and master
 | 5    | {% rauserpic Beliskner999 %}    | 1,772        | 12,905 | 64,361       | 29             |
 | 6    | {% rauserpic Tashemi %}         | 1,744        | 5,376  | 7,730        | 136            |
 | 7    | {% rauserpic rayon123 %}        | 1,674        | 5,739  | 8,591        | 125            |
-| 8    | {% rauserpic CobaltAris %}      | 1,637        | 9,529  | 41,653       | 15             |
-| 9    | {% rauserpic MrWallice23 %}     | 1,635        | 9,571  | 45,153       | 10             |
+| 8    | {% rauserpicalt elysiasys, CobaltAris %}      | 1,637        | 9,529  | 41,653       | 15             |
+| 9    | {% rauserpicalt RetroGamerTrickSta, MrWallice23 %}     | 1,635        | 9,571  | 45,153       | 10             |
 | 10   | {% rauserpic GrgakGame %}       | 1,607        | 11,428 | 42,601       | 22             |
 | 11   | {% rauserpic zLuciuss %}        | 1,594        | 5,915  | 82,835       | 11             |
 | 12   | {% rauserpic CheeseKnight %}    | 1,576        | 9,448  | 30,995       | 35             |
@@ -233,7 +233,7 @@ Check out who has the most achievement unlocks, points, retro points, and master
 | 22   | {% rauserpic drcarver %}        | 1,420        | 7,458  | 17,437       | 6              |
 | 23   | {% rauserpic KookyTanuki %}     | 1,417        | 10,298 | 43,979       | 14             |
 | 24   | {% rauserpic Dynastrum %}       | 1,408        | 5,629  | 14,656       | 27             |
-| 25   | {% rauserpic SoftLoliTummy %}   | 1,400        | 10,222 | 60,048       | 14             |
+| 25   | {% rauserpicalt littlesoft, SoftLoliTummy %}   | 1,400        | 10,222 | 60,048       | 14             |
 
 ## Top 25 Awarded Achievements <!-- 16 -->
 Check out which achievements were earned the most this month. Limit one achievement per game.
@@ -242,7 +242,7 @@ Check out which achievements were earned the most this month. Limit one achievem
 | :--- | :------------------------------------------------------------------- | :----------------------------------------------------------------------- | :------------ |
 | 1    | {% raachpic 633101, 723547, Pirate Ship Raider %}                    | {% ragamepic 41186, 154456, Final Fantasy XI: Treasures of Aht Urghan %} | 1,348         |
 | 2    | {% raachpic 342, 46580, Giddy Up! %}                                 | {% ragamepic 228, 126558, Super Mario World %}                           | 1,186         |
-| 3    | {% raachpic 596113, 676165, World 1 Cleared %}                       | {% ragamepic 31906, 125870, ~Hack~ Daisy's Crazy Adventure %}            | 1,045         |
+| 3    | {% raachpic 596113, 676165, World 1 Cleared %}                       | {% ragamepic 31906, 125870, <span class="tag"><span>Hack</span></span> Daisy's Crazy Adventure %}            | 1,045         |
 | 4    | {% raachpic 255596, 283562, Regulus %}                               | {% ragamepic 2982, 160900, Soulcalibur II %}                             | 998           |
 | 5    | {% raachpic 5760, 727094, Keep On Rollin' %}                         | {% ragamepic 534, 093574, Metroid: Zero Mission %}                       | 997           |
 | 6    | {% raachpic 3159, 321909, Shroooooms... %}                           | {% ragamepic 1446, 126543, Super Mario Bros. %}                          | 982           |
@@ -307,15 +307,15 @@ Check out which achievements created in 2026 were earned the most this month. Li
 | Rank | Achievement                                                          | Game                                                                     | Times Awarded |
 | :--- | :------------------------------------------------------------------- | :----------------------------------------------------------------------- | :------------ |
 | 1    | {% raachpic 633101, 723547, Pirate Ship Raider %}                    | {% ragamepic 41186, 154456, Final Fantasy XI: Treasures of Aht Urghan %} | 1,348         |
-| 2    | {% raachpic 596113, 676165, World 1 Cleared %}                       | {% ragamepic 31906, 125870, ~Hack~ Daisy's Crazy Adventure %}            | 1,045         |
+| 2    | {% raachpic 596113, 676165, World 1 Cleared %}                       | {% ragamepic 31906, 125870, <span class="tag"><span>Hack</span></span> Daisy's Crazy Adventure %}            | 1,045         |
 | 3    | {% raachpic 637069, 728466, Flowers Burning, and Birds Singing... %} | {% ragamepic 11279, 089382, Spyro the Dragon %}                          | 791           |
 | 4    | {% raachpic 637819, 728277, Beta Tester %}                           | {% ragamepic 44031, 161734, Ragnarok Online %}                           | 771           |
 | 5    | {% raachpic 608210, 711464, Sojourn in the Jungle %}                 | {% ragamepic 236, 162576, Super Metroid %}                               | 290           |
 | 6    | {% raachpic 608309, 441786, Crystal in the Sky %}                    | {% ragamepic 28359, 088691, Final Fantasy XI: Chains of Promathia %}     | 260           |
 | 7    | {% raachpic 595001, 675293, Fancy Feast %}                           | {% ragamepic 95, 129701, New Super Mario Bros. Wii %}                    | 245           |
 | 8    | {% raachpic 590803, 671887, Loadout Mistake %}                       | {% ragamepic 11071, 157877, Mario Kart Wii %}                            | 244           |
-| 9    | {% raachpic 633991, 723374, I Simply Am Not There %}                 | {% ragamepic 42563, 158346, ~Homebrew~ American Psycho %}                | 207           |
-| 10   | {% raachpic 634011, 723436, No Time for Reading %}                   | {% ragamepic 42740, 158797, ~Homebrew~ Ao Oni %}                         | 194           |
+| 9    | {% raachpic 633991, 723374, I Simply Am Not There %}                 | {% ragamepic 42563, 158346, <span class="tag"><span>Homebrew</span></span> American Psycho %}                | 207           |
+| 10   | {% raachpic 634011, 723436, No Time for Reading %}                   | {% ragamepic 42740, 158797, <span class="tag"><span>Homebrew</span></span> Ao Oni %}                         | 194           |
 | 11   | {% raachpic 579912, 663074, So Long, Petari %}                       | {% ragamepic 189, 124487, Super Mario Galaxy %}                          | 170           |
 | 12   | {% raachpic 628723, 716464, Not Just Some Chump %}                   | {% ragamepic 12747, 156060, Phoenix Wright: Ace Attorney %}              | 164           |
 | 13   | {% raachpic 624302, 710011, You Idiot %}                             | {% ragamepic 41157, 147631, Undertale %}                                 | 156           |
@@ -323,7 +323,7 @@ Check out which achievements created in 2026 were earned the most this month. Li
 | 15   | {% raachpic 618979, 703486, Caring Mother %}                         | {% ragamepic 724, 149658, Pokémon Red Version %}                         | 142           |
 | 16   | {% raachpic 611905, 694460, Alcohol Is the Best Medicine %}          | {% ragamepic 10164, 109362, Conker's Bad Fur Day %}                      | 136           |
 | 17   | {% raachpic 590183, 669495, The Dark Prognosticus Unfolds %}         | {% ragamepic 187, 110442, Super Paper Mario %}                           | 127           |
-| 18   | {% raachpic 631737, 725854, One Sided Rivalry %}                     | {% ragamepic 33298, 155093, ~Hack~ Pokémon Elysium %}                    | 110           |
+| 18   | {% raachpic 631737, 725854, One Sided Rivalry %}                     | {% ragamepic 33298, 155093, <span class="tag"><span>Hack</span></span> Pokémon Elysium %}                    | 110           |
 | 19   | {% raachpic 635506, 725473, Balloon Deflator %}                      | {% ragamepic 1556, 123704, Balloon Fight %}                              | 109           |
 | 20   | {% raachpic 617940, 702139, Mid Burst %}                             | {% ragamepic 18507, 106720, Sorcerer's Apprentice %}                     | 109           |
 | 21   | {% raachpic 575758, 658087, Venomous Invertebrate %}                 | {% ragamepic 21031, 108405, Marvel Ultimate Alliance %}                  | 106           |
@@ -395,7 +395,7 @@ Check out which developers created the most code notes this month.
 <div>
     <div style='width:49%;display:inline-block;float:left'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
-        <tr><td>1</td><td>{% rauserpic Yukizz %}</td><td>5,101</td></tr>
+        <tr><td>1</td><td>{% rauserpicalt Zyos, Yukizz %}</td><td>5,101</td></tr>
         <tr><td>2</td><td>{% rauserpic BacktoEdgar %}</td><td>4,619</td></tr>
         <tr><td>3</td><td>{% rauserpic ZenicReverie %}</td><td>1,040</td></tr>
         <tr><td>4</td><td>{% rauserpic Layton %}</td><td>865</td></tr>
@@ -404,8 +404,8 @@ Check out which developers created the most code notes this month.
     </div>
     <div style='width:49%;display:inline-block;float:right'>
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Notes</th></tr></thead><tbody>
-        <tr><td>6</td><td>{% rauserpic AlexGatao %}</td><td>624</td></tr>
-        <tr><td>7</td><td>{% rauserpic Player1041 %}</td><td>433</td></tr>
+        <tr><td>6</td><td>{% rauserpicalt AlexHylian, AlexGatao %}</td><td>624</td></tr>
+        <tr><td>7</td><td>{% rauserpicalt PS2Hagrid, Player1041 %}</td><td>433</td></tr>
         <tr><td>8</td><td>{% rauserpic fluttershylove8 %}</td><td>407</td></tr>
         <tr><td>9</td><td>{% rauserpic suspect15 %}</td><td>375</td></tr>
         <tr><td>10</td><td>{% rauserpic DeeCee %}</td><td>350</td></tr>
@@ -498,18 +498,18 @@ Check out the users with the most mastery awards this month.
 | 7    | {% rauserpic TheUberCamper %} | 79     |
 | 8    | {% rauserpic ReslaBasti %}    | 72     |
 | 9    | {% rauserpic atvdriver %}     | 70     |
-| 10   | {% rauserpic Pielord901 %}    | 68     |
+| 10   | {% rauserpicalt cheatlord90, Pielord901 %}    | 68     |
 
 ## Top 10 Mastered Sets <!-- 21 -->
 Check out which sets were mastered most this month.
 
 | Rank | Game                                                                                    | Awards |
 | ---- | --------------------------------------------------------------------------------------- | ------ |
-| 1    | {% ragamepic 42563, 158346, ~Homebrew~ American Psycho (Nintendo DS) %}                 | 187    |
+| 1    | {% ragamepic 42563, 158346, <span class="tag"><span>Homebrew</span></span> American Psycho (Nintendo DS) %}                 | 187    |
 | 2    | {% ragamepic 11279, 089382, Spyro the Dragon (PlayStation) %}                           | 179    |
-| 3    | {% ragamepic 42740, 158797, ~Homebrew~ Ao Oni (Game Boy Color) %}                       | 165    |
+| 3    | {% ragamepic 42740, 158797, <span class="tag"><span>Homebrew</span></span> Ao Oni (Game Boy Color) %}                       | 165    |
 | 4    | {% ragamepic 10434, 081157, Crash Bandicoot (PlayStation) %}                            | 140    |
-| 5    | {% ragamepic 31906, 125870, ~Hack~ Daisy's Crazy Adventure (SNES/Super Famicom) %}      | 125    |
+| 5    | {% ragamepic 31906, 125870, <span class="tag"><span>Hack</span></span> Daisy's Crazy Adventure (SNES/Super Famicom) %}      | 125    |
 | 6    | {% ragamepic 723, 126549, Pokémon Yellow Version: Special Pikachu Edition (Game Boy) %} | 122    |
 | 7    | {% ragamepic 515, 105044, Pokémon FireRed Version (Game Boy Advance) %}                 | 120    |
 | 8    | {% ragamepic 10003, 126542, Super Mario 64 (Nintendo 64) %}                             | 117    |
@@ -600,7 +600,7 @@ Check out the users with the most beaten awards this month.
 | 7    | {% rauserpic GarbageDay %}    | 94     |
 | 8    | {% rauserpic TheJuna %}       | 82     |
 | 9    | {% rauserpic atvdriver %}     | 70     |
-| 10   | {% rauserpic Pielord901 %}    | 70     |
+| 10   | {% rauserpicalt cheatlord90, Pielord901 %}    | 70     |
 
 ## Top 10 Beaten Sets <!-- 21-B -->
 Check out which sets were beaten most this month.
@@ -614,9 +614,9 @@ Check out which sets were beaten most this month.
 | 5    | {% ragamepic 515, 105044, Pokémon FireRed Version (Game Boy Advance) %}            | 238    |
 | 6    | {% ragamepic 236, 162576, Super Metroid (SNES/Super Famicom) %}                    | 235    |
 | 7    | {% ragamepic 10003, 126542, Super Mario 64 (Nintendo 64) %}                        | 224    |
-| 8    | {% ragamepic 31906, 125870, ~Hack~ Daisy's Crazy Adventure (SNES/Super Famicom) %} | 218    |
+| 8    | {% ragamepic 31906, 125870, <span class="tag"><span>Hack</span></span> Daisy's Crazy Adventure (SNES/Super Famicom) %} | 218    |
 | 9    | {% ragamepic 10113, 022051, The Legend of Zelda: Ocarina of Time (Nintendo 64) %}  | 197    |
-| 10   | {% ragamepic 42563, 158346, ~Homebrew~ American Psycho (Nintendo DS) %}            | 196    |
+| 10   | {% ragamepic 42563, 158346, <span class="tag"><span>Homebrew</span></span> American Psycho (Nintendo DS) %}            | 196    |
 
 # Set Requests
 
@@ -748,7 +748,7 @@ Check out which developers created the most leaderboards this month.
     <table><thead><tr><th>Rank</th><th>Developer</th><th>Leaderboards</th></tr></thead><tbody>
         <tr><td>1</td><td>{% rauserpic Biendeo %}</td><td>936</td></tr>
         <tr><td>2</td><td>{% rauserpic Prims %}</td><td>253</td></tr>
-        <tr><td>3</td><td>{% rauserpic SuperMeatBro %}</td><td>107</td></tr>
+        <tr><td>3</td><td>{% rauserpicalt Meatbro, SuperMeatBro %}</td><td>107</td></tr>
         <tr><td>4</td><td>{% rauserpic Layton %}</td><td>101</td></tr>
         <tr><td>5</td><td>{% rauserpic Ventilo1 %}</td><td>77</td></tr>
     </tbody></table>
@@ -836,13 +836,13 @@ Check out which developer cleared the most tickets this month. This does not inc
 | Rank | User                             | Cleared Tickets |
 | ---- | -------------------------------- | --------------- |
 | 1    | {% rauserpic ChaoticAdventure %} | 33              |
-| 2    | {% rauserpic SrLeo12 %}          | 26              |
+| 2    | {% rauserpicalt Cnat, SrLeo12 %}          | 26              |
 | 3    | {% rauserpic KiwiTaco %}         | 25              |
 | 4    | {% rauserpic Gudra %}            | 22              |
-| 5    | {% rauserpic DarkyAndreas %}     | 21              |
+| 5    | {% rauserpicalt Darky, DarkyAndreas %}     | 21              |
 | 6    | {% rauserpic ZintheDestroyr %}   | 20              |
 | 7    | {% rauserpic Xalerzyx %}         | 14              |
 | 8    | {% rauserpic suspect15 %}        | 13              |
 | 9    | {% rauserpic Nepiki %}           | 11              |
-| 10   | {% rauserpic wolfman2000 %}      | 10              |
+| 10   | {% rauserpicalt lonegraywolf2000, wolfman2000 %}      | 10              |
 

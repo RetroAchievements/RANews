@@ -42,13 +42,13 @@ category: Spot The Difference
         <td>{% rauserpic crrool %}</td>
     </tr>
     <tr>
-        <td>{% rauserpic RetroPhatman %}</td>
+        <td>{% rauserpicalt RetroPhatman, phatmanriddemretro %}</td>
         <td>{% rauserpic GaussLM %}</td>
         <td>{% rauserpic CrazyRetroStar69 %}</td>
     </tr>
     <tr>
-        <td>{% rauserpic tabby %}</td>
-        <td>{% rauserpic MariNyan %}</td>
+        <td>{% rauserpicalt tabby, octomoo %}</td>
+        <td>{% rauserpicalt MariNyan, ToveNMore %}</td>
         <td>{% rauserpic Whoops %}</td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@ category: Spot The Difference
     </tr>
     <tr>
         <td>{% rauserpic f3rns %}</td>
-        <td>{% rauserpic CaoJieRA %}</td>
+        <td>{% rauserpicalt CaoJieRA, iKiQ %}</td>
         <td>{% rauserpic JetDusk %}</td>
     </tr>
     <tr>

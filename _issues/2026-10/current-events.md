@@ -147,7 +147,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <li value="2">{% rauserpic Poolsharker %} - 124 Points</li>
                     <li value="2">{% rauserpic Prota %} - 124 Points</li>
                     <li value="2">{% rauserpic ZTZT %} - 124 Points</li>
-                    <li value="2">{% rauserpic Riley101 %} - 124 Points</li>
+                    <li value="2">{% rauserpicalt Riley101, rileythepegasus %} - 124 Points</li>
                     <li value="9">{% rauserpic Skarm137 %} - 123 Points</li>
                     <li value="9">{% rauserpic HungryWalnut %} - 123 Points</li>
                 </ol>
@@ -431,7 +431,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     </thead>
                     <tbody>
                         <tr>
-                            <td rowspan=2>{% rauserpic Senioron %}</td>
+                            <td rowspan=2>{% rauserpicalt Senioron, Hombreton %}</td>
                             <td>{% ragamepic 1827, 105724, The Uncanny X-Men %}</td>
                         </tr>
                         <tr>
@@ -457,19 +457,19 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                             <td>{% rauserpic Desper8 %}</td>
                         </tr>
                         <tr>
-                            <td>{% rauserpic EEez %}</td>
+                            <td>{% rauserpicalt EEez, Yoshinohara %}</td>
                             <td>{% rauserpic Jurbadis %}</td>
                             <td>{% rauserpic Mindhral %}</td>
                         </tr>
                         <tr>
                             <td>{% rauserpic Molson %}</td>
                             <td>{% rauserpic PsyXchO %}</td>
-                            <td>{% rauserpic Senioron %}</td>
+                            <td>{% rauserpicalt Senioron, Hombreton %}</td>
                         </tr>
                         <tr>
                             <td>{% rauserpic Snorkimon %}</td>
                             <td>{% rauserpic TehEpix2 %}</td>
-                            <td>{% rauserpic TrashPaddy %}</td>
+                            <td>{% rauserpicalt TrashPaddy, PaddyShade %}</td>
                         </tr>
                         <tr>
                             <td colspan="3">{% rauserpic Xymjak %}</td>
@@ -558,14 +558,14 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
                     <td style="vertical-align: top;">
                         <ol>
                             <li value="1" >{% rauserpic CaptStache %} - 33 Points</li>
-                            <li value="2" >{% rauserpic SolidPilson %} - 25 Points</li>
+                            <li value="2" >{% rauserpicalt SolidPilson, Pilson %} - 25 Points</li>
                             <li value="3" >{% rauserpic CheeseKnight %} - 24 Points</li>
                             <li value="4" >{% rauserpic Manperson %} - 23 Points</li>
                             <li value="4" >{% rauserpic LeeD %} - 23 Points</li>
                             <li value="6" >{% rauserpic Christian5 %} - 20 Points</li>
                             <li value="6" >{% rauserpic DeeCee %} - 20 Points</li>
                             <li value="6" >{% rauserpic Bendyhuman %} - 20 Points</li>
-                            <li value="9" >{% rauserpic CrystallineDrop %} - 19 Points</li>
+                            <li value="9" >{% rauserpicalt CrystallineDrop, Crystalline343 %} - 19 Points</li>
                             <li value="10">{% rauserpic HomieOhmie %} - 18 Points</li>
                         </ol>
                     </td>
