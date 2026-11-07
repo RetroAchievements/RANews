@@ -325,7 +325,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
     <tbody>
         <tr>
             <td><strong>Event Page:</strong></td>
-            <td>{% ragamepic 20000, 105235, DevJam Vol. 2 %}</td>
+            <td>{% raeventpic 198, 105235, DevJam Vol. 2 %}</td>
         </tr>
         <tr>
             <td><strong>Event Summary:</strong></td>
@@ -385,7 +385,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Notable Details:</strong></td>
-            <td>Season 8 - MSX is ongoing.</td>
+            <td>Season 12 - Consoles from Volume 1 is ongoing.</td>
         </tr>
         <tr>
             <td><strong>Rankings:</strong></td>
