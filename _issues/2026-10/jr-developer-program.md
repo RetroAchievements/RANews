@@ -43,7 +43,7 @@ Alongside the Junior Developers are the Code Reviewers, with their never ending 
 | Reviews Completed               | 19  |
 | Reviews In Progress             | 24  |
 | Jr. Developers Promoted         | 3   |
-| Jr. Developers Promoted in 2025 | 28  |
+| Jr. Developers Promoted in 2026 | 28  |
 | Active Jr. Developers           | 148 |
 
 <br>

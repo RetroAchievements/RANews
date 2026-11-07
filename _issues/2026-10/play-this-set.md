@@ -7,8 +7,6 @@ author: Bendyhuman
 toc: true
 ---
 
-Play This Set is a showcase for our passionate community members to write about the games and achievement sets they love. Our inbox is always open, whether you're an achievement developer looking to promote your work or a player wanting to spread the word about your favorite hidden gem. If interested, submit your write-up as a private message to {% rauserpic RANews %}.
-
 Play This Set is a showcase for our passionate community members to write about the games and achievement sets they love. Our inbox is always open, whether you're an achievement developer looking to promote your work or a player wanting to spread the word about your favorite hidden gem. If interested, submit your write-up as a private message to {% rauserpic RANews %}. All featured write-ups are catalogued in the [Wish/Play This Set Index](https://retroachievements.org/forums/topic/38240), maintained by {% rauserpicalt PS2Hagrid, Player1041 %}.
 
 ## Linkle Liver Story (Saturn)
