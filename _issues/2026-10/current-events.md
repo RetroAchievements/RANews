@@ -310,7 +310,7 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Notable Details:</strong></td>
-            <td>Master System/Game Gear has completed. Famicom Disk System DevJam has started</td>
+            <td>Famicom Disk System has completed. Consoles from Volume 1 DevJam has started</td>
         </tr>
         <tr>
             <td><strong>Rankings:</strong></td>
@@ -377,15 +377,15 @@ Check out the [Evergreen Forum Post](https://retroachievements.org/viewtopic.php
         </tr>
         <tr>
             <td><strong>Duration:</strong></td>
-            <td>Season 9: 04/30/26-07/31/26</td>
+            <td>Season 11: 10/31/2026-01/31/2027</td>
         </tr>
         <tr>
             <td><strong>Host(s):</strong></td>
-            <td>{% rauserpic Sutarion %} & {% rauserpic AuburnRDM %}</td>
+            <td>{% rauserpic DevQuest %}</td>
         </tr>
         <tr>
             <td><strong>Notable Details:</strong></td>
-            <td>Season 12 - Consoles from Volume 1 is ongoing.</td>
+            <td>Season 11 - Famicom Disk System is ongoing.</td>
         </tr>
         <tr>
             <td><strong>Rankings:</strong></td>
